@@ -1,6 +1,6 @@
 - [Intro](dev)\
-|- [Architecture, design, patterns](dev/design.md)
-|- [Naming](dev/naming.md)
+|- [Architecture, design, patterns](dev/design.md)\
+|- [Naming](dev/naming.md)\
 |- Test/Behavior/Domain Driven Design\
 |- Coding practices\
 |- Exceptions\
