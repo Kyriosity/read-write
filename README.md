@@ -1,8 +1,10 @@
 - [Intro](dev)\
-|- Naming\
-|- Exceptions\
+|- [Architecture, design, patterns](dev/design.md)
+|- [Naming](dev/naming.md)
 |- Test/Behavior/Domain Driven Design\
-|- Coding practices
+|- Coding practices\
+|- Exceptions\
+|- Misc.
 
 - .NET\
 |- Structures\
