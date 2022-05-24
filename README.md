@@ -1,12 +1,12 @@
-- [Intro](dev)\
-|- [Architecture, design, patterns](dev/design.md)\
+- __Development: ideas and guidelines__\
+|- [Architecture design, patterns](dev/design.md)\
 |- [Naming](dev/naming.md)\
+|- Documentation and annotation\
 |- Test/Behavior/Domain Driven Design\
 |- Coding practices\
-|- Exceptions\
-|- Misc.
+|- Exceptions and messaging
 
-- .NET\
+- [.NET](dev/.net)\
 |- Structures\
 |-- Tuples and records\
 |- Hints and tricks\
@@ -17,7 +17,7 @@
 |-- MVVM\
 |------- Converters\
 |--------- Boolean to Visibility \
-|--- Big quantities (millions of millions)\ 
+|--- Big quantities (millions of millions)
 
 - Technical writing 
 
