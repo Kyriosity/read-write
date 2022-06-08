@@ -10,5 +10,5 @@ Albeit C# has destructors, finalizers, garbage collecting, memory allocation, "f
 Surprisingly C# is widely presented in APIs and drivers to industry-standard embedded software.
 
 This language has incredible parts like [LINQ](https://stackoverflow.com/questions/2321724/where-can-i-get-a-good-concise-linq-cheatsheet) or [TPL](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-parallel-library-tpl) but is not devoid of some apparent lacks:\
-|--- [C# drawbaсks, excesses and nice to have](_readme+/csharp_lacks.md)
+|--- [C# drawbaсks, excesses and nice to have](+readme/csharp_lacks.md)
 
