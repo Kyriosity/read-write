@@ -3,7 +3,7 @@
 |--- [Naming](dev/naming.md)\
 |--- Test/Behavior/Domain Driven Design\
 |--- Exceptions and messaging\
-|- Frameworks\
+|- [Libraries and frameworks](dev/ext-frameworks_libraries.md)\
 |- Documentation and annotation\
 |- Practices
 
