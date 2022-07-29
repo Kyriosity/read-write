@@ -1,1 +1,0 @@
-# Supposed drawbacks of WPF
