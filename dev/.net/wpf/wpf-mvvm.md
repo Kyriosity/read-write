@@ -31,7 +31,7 @@ MVVM has been widely established, but is neither golden nor universal section. O
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:triangular_ruler:</sup><sub>&nbsp;Google team coined *Model-View-Whatever* for its Angular</sub>
 
-An MVVM application may grow into a complex multi-module , but from the ground up it's just a sketch:
-![three steps to create WPF app][WpfProject_Sketch]
+An MVVM application may grow into an enterpise solution, but from the ground up its sketch requires few minutes:
+![sketch](readme+/wpf-app_sketch.jpg)
 
 :arrow_down: <sub>Project of Microsoft Visual Studio</sub>
