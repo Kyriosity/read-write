@@ -9,7 +9,7 @@ Albeit C# has destructors, finalizers, calls to garbage collector, memory alloca
 
 Surprisingly C# is widely utilized in APIs and drivers to industry-standard embedded software (i.a. automotive and machinery).
 
-With all given praise C# isn't monumentally accomplished and if i dare to express some observations&nbsp;:arrow_lower_left:\
+With all given praise C# isn't monumentally accomplished and properly and if i dare to remark particular...&nbsp;:arrow_lower_left:\
 |--- [Drawbacks](+readme/cs_drawbacks.md)\
 |--- [Lacks (or nice-to-have)](+readme/cs_lacks.md)\
-|--- [Good parts neglected](+readme/cs_unnoted.md)
+|--- [Good parts underused](+readme/cs_underused-parts.md)
