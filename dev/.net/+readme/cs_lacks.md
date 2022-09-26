@@ -1,6 +1,32 @@
 # Nice to have in C#
 C#\.NET isn't a universal formula, and its team with community doesn't posses unbounded resources. However this platform could offer some foundations, which can only boost its popularity.
 
+## Syntax
+### Interfaces conjunction
+Fine-granulated interfaces and their multi-inheritance into more substantial belong to sound design practices.
+
+Another story is combination of primitive (or feature) interfaces as options for casting or *builders*.\
+Suppose, there're `ILimited`, `ITimestamped` and `INotifyPropertyChanged` which combinations imply 2<sup>3</sup> nominal declarations. And what if this could be done with `<IInterfaceA, IInterfaceB[, IInterfaceC[, ...]]>`
+
+<details>
+<summary><u>Design sketch</u></summary>
+
+```csharp
+static class AircraftBuilder
+{
+        static <IAirSpecs, IPowerplant> BusinessJet(...) { ... }
+        static <IAirSpecs, IPowerplant, ILoadSpecs> Cargo(...) { ... }
+        static <IAirSpecs, IPowerplant, ILoadSpecs, IPassengerConfig> Liner(...) { ... }
+}
+
+IList<IataAirportCode> Planning.Destinations.FindOptimal(IataAirportCode from, <IAirSpecs, IPowerplant> vehicle) { ... }
+void Planning.Capacity.Register(<ILoadSpecs, IPassengerConfig> transport) { ... }
+
+```
+</details>
+
+Such feature will be also useful for run-time object composition.
+
 ## Basic exception, messages and guards
 To begin with it could be proof of `>0` for collection sizing.
 
