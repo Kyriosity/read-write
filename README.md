@@ -2,26 +2,20 @@
 |- [Architecture, design, patterns](dev/design.md)\
 |--- [Naming](dev/naming.md)\
 |--- Test/Behavior/Domain Driven Design\
-|--- Exceptions and messaging\
-|- [Libraries and frameworks](dev/ext-frameworks_libraries.md)\
-|- Documentation and annotation\
-|- Practices
+|- Software parts\
+|--- [Model](dev/software-parts/app_model.md)\
+|--- [View](dev/software-parts/app_view.md)\
+|--- [Libraries and frameworks](dev/software-parts/ext_modules.md)\
+|--- Guards, exceptions, messaging
 
 - [__.NET__](dev/.net)\
-|- Hints and tricks\
+|- [Hints and tricks](dev/.net/+readme/cs_hints.md)\
 |- WPF\
 |--- [MVVM](dev/.net/wpf/wpf-mvvm.md)\
 |--- [View](dev/.net/wpf/wpf-view.md)\
 |--- Converters
 
-- Technical writing 
+- __Technical writing__\
+|- [From comments up to books](pencraft)\
+&nbsp;
 
-- Roadmap\
-|- Basic interfaces\
-|- Undo/Redo stack :link: :construction:\
-|- Physical values (Angular)\
-|- Math\
-|--- Constants\
-|--- Big quantities (millions of millions) (C#)
-
-- Offtop :rat:
