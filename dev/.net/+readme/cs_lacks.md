@@ -1,7 +1,46 @@
 # Nice to have in C#
-C#\.NET isn't a universal formula, and its team with community doesn't posses unbounded resources. However this platform could offer some foundations, which can only boost its popularity.
+C#\.NET isn't a universal formula, and its team with community doesn't posses unbounded resources. However this platform could offer features and foundations, which can only boost its popularity.
+
+
+## Basic exception, messages and guards
+To begin with it could be proof of `>0` for collection sizing.
 
 ## Syntax
+### Enums inheritance
+Seems logical and plain to adopt inheretance like this: 
+
+```csharp
+enum FundamentalState 
+{
+    Solid,
+    Liquid,
+    Gas,
+    Plasma
+}
+
+enum AppliedTheoryState : FundamentalStates
+{
+    CrystallLiquid,
+    BoseEinsteinCondensate,
+    NeutronDegenerate,
+    QuarkGluonPlasma,
+}
+
+[Flags]
+enum MyLabReagentStates : FundamentalStates
+{
+    Unknown = 0,
+    NotApplicable
+}
+```
+
+with downcast only, e.g.:
+
+```diff csharp
+-  FundamentalState state = AppliedTheoryState.Gas;
++  AppliedTheoryState state = FundamentalState.Gas;
+```
+
 ### Interfaces conjunction
 Fine-granulated interfaces and their multi-inheritance into more substantial belong to sound design practices.
 
@@ -9,7 +48,7 @@ Another story is combination of primitive (or feature) interfaces as options for
 Suppose, there're `ILimited`, `ITimestamped` and `INotifyPropertyChanged` which combinations imply 2<sup>3</sup> nominal declarations. And what if this could be done with `<IInterfaceA, IInterfaceB[, IInterfaceC[, ...]]>`
 
 <details>
-<summary><u>Design sketch</u></summary>
+<summary><b>Design sketch</b></summary>
 
 ```csharp
 static class AircraftBuilder
@@ -26,9 +65,6 @@ void Planning.Capacity.Register(<ILoadSpecs, IPassengerConfig> transport) { ... 
 </details>
 
 Such feature will be also useful for run-time object composition.
-
-## Basic exception, messages and guards
-To begin with it could be proof of `>0` for collection sizing.
 
 ## Math
 Native [Math](https://docs.microsoft.com/en-us/dotnet/api/system.math) is pretty scarce, and 3d-party libraries aren't in the state of the art.
@@ -88,8 +124,7 @@ And what if .NET foundation classes could:
 
 And, not least, add syntax sugar like
 <details>
-<summary><u>Proposal for grammar interpolation</u></summary>
-
+<summary><b>Proposal for grammar interpolation</b></summary>
 &nbsp;&nbsp;`${number [: [format] : [forms] : []] }`, where
 
 &nbsp;&nbsp;&nbsp;&nbsp;*number* is whole or fractional subject\
