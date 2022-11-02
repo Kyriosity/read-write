@@ -14,4 +14,4 @@ With all given praise C# isn't monumentally accomplished and if i dare to remark
 |--- [Drawbacks](+readme/cs_drawbacks.md)\
 |--- [Good parts underused](+readme/cs_underused-parts.md)\
 |--- [Missing parts (or nice-to-have)](+readme/cs_lacks.md)\
-|--- WPF lacks
+|--- [WPF lacks](wpf/readme+/wpf_drawbacks.md)
