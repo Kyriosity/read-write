@@ -7,25 +7,24 @@ When a grid is big enough, any insert, delete or move of a row or column will re
 What if a grid definition could allow `<RowDefinition Id="Total"...` or `<ColumnDefinition Id="Tags"...` and you could set and forget `<Label Grid.Row="Total" Grid.Column="Tags">Total</Label>`.
 
 ### Bulky syntax
-XML-based languages are bulky by their origin and XAML goes even further. The following dummy shows possible abbreviation.
+XML-based languages are bulky by their origin and XAML goes even further. Much names and constucts in XAML could drastically shrink without loss of readability as in the following snippet.
 <details>
   <summary>Fictitious shortened XAML</summary>
 
 ```XAML
 <Grid>
-   <Grid.Cols>
-      <Col Width="Auto"/>
-      <Col Width="*"/>
-   </Grid.Cols>
    <Grid.Rows>
       <Row Height="Auto" />
       <Row Height="Auto" />
       <Row Height="Auto" />
    </Grid.Rows>
-   <Label Grid>Ja</Label>
+   <Grid.Cols>
+      <Col Width="Auto"/>
+      <Col Width="*"/>
+   </Grid.Cols>
+   <Label Grid="1,0">Ja</Label>
    ...
 </Grid>
 ```
 </details>
 
-Overall much names and constucts in XAML could be drastically shortened without loss of readability.
