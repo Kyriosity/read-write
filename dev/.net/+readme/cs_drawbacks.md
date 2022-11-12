@@ -26,10 +26,10 @@ For example, exceptions should be organized in own namespace with shorter names:
 Ability to implement multiple interfaces dismantles reasoning of conceptual single-class inheritance (which must have been technically restrained).\
 Alternatives with [extension methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods) are pretty functional, while dynamic composition is malformed performance hammer.
 
-## "Strong" castings
-[Named tuples](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/august/essential-net-csharp-7-0-tuples-explained) and anonymous objects are very handy to submit sporadic composed results, but can't cast to an interface or class.<sup>:rowboat:</sup>
+## Casting limitations
+- [Named tuples](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/august/essential-net-csharp-7-0-tuples-explained) and anonymous objects are very handy to submit sporadic composed results, but can't cast to an interface or class.
+- Neither implicit nor explicit downcasting works while JSON (de)serialization legally does this operation. Allowing this cast doesn't contradict type safety.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:rowboat:</sup>&nbsp;<sub>Though reflection may circumvent this miss.</sub>
 ## Numbers
 - Will either developer ponder ten(!) primitive whole types to write ordinary `for (var i = 0; i < count; i++)`?
 - Why 0.1 and 0.2 must be explicitly declared as `decimal` to accurately sum them up?
@@ -43,5 +43,6 @@ Syntax shortcuts here could do the code both shorter and readable.
 
 ## Inborn naming
 -  *Interface* is too much common term.
-- *Reverse*, as in LINQ, is actually *flip*.\
+- *Reverse*, as in [LINQ method](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse), is actually *flip*.
+
 ...TO BE CONTINUED...
