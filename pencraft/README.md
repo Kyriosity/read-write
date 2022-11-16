@@ -1,6 +1,4 @@
-> Code in English,\
-> comment in Latin,\
-> document en français
+<p dir="rtl">,Code in English<br/>,comment in Latin<br/>document en français</p>
 
 # Techical writing
 
@@ -15,11 +13,12 @@ However comments are fully liable for:
 + snippets in documentation
 + domain-explaining quotes from sources like wiki
 
-&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>This statement was for renowned high-level languages.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>This statement was for renowned high-level languages.</sub>
 
 ## Documentation
 
 ### Requirements
+Writing and maintaing requirements is the subject of project management. There could (should) be none.
 
 ## Tracking, versioning systems
 
@@ -30,4 +29,8 @@ However comments are fully liable for:
 
 ## Authoring
 <div dir="rtl">Write what you <s>want</s> know</div>
-<p dir="rtl";'><i>Mark Twain (1935-1910)</i></p>
+<p dir="rtl";'><i>Mark Twain (1835-1910)</i></p>
+<div dir="rtl";'>___</div>
+&nbsp;
+<p dir="rtl";'>There's no freak who wouldn't find a match and<br/>.there's no nonsense that wouldn't find a proper reader</p>
+<p dir="rtl";'><i>Anton Chekhov(1860-1904)</i></p>
