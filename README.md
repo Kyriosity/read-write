@@ -16,6 +16,6 @@
 |--- Converters
 
 - __Technical writing__\
-|- [From comments up to books](pencraft)\
+|- [From comments to docs](pencraft)\
 &nbsp;
 
