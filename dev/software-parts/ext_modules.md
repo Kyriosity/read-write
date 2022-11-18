@@ -7,22 +7,20 @@ All-around pro solutions aren't free but annual dev licenses for selected platfo
 
 ## Frontend
 
-There's a healthy choice between more than experienced commercial<sup>:dollar:</sup> and not providers of suites, frameworks, controls for Rapid Application Development: Telerik, Devexpress, Infragistics - to name a few.
+There's a healthy choice between more than experienced commercial and not providers of suites, frameworks, controls for Rapid Application Development: Telerik, Devexpress, Infragistics - to name a few.
 
-You get the best out-of-the-box: state-of-the-art UI professional look&feel and don't re-invent the wheel (unless it's rounder than others).
+You get the best out-of-the-box: state-of-the-art UI professional look&feel and thus don't re-invent the wheel (unless it's rounder than others).
 
 ## Backend
 
-Inelaborate applications need no elaborated structure. They start from few classes of the data context.
+Simple to moderate applications need no elaborated structure - they start from few classes of the data context.
 
-For any big application either time for EVALIATION an a steep learning curve of the adopted framework must be planned or one own developed.
+For any big project its team shall weigh evaluation and a steep learning curve of the adopted framework vs. own development.
 
-Quite many backend frameworks are good at themselves but will load your project with too much unclaimed "ballast" code (goodbye [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)).
+Quite many frameworks are good at themselves but will load your project with too much unclaimed "ballast" code.
 
 ## Initiative projects
 
-Some projects launched on GitHub on initiative of individual or group have grown to industry standards and got adopted in mainstream languages. Remember [Newton.json](https://www.newtonsoft.com/json)
+Some non-commercial projects launched by individual or group have grown to industry standards and got adopted in mainstream languages. Remember [Newton.json](https://www.newtonsoft.com/json)
  
-When applying such 3d-party think if there's a community (maybe, only you) - able to support the project.
-
-Here recall IRON PYTHON
+Nevertheless, when applying such 3d-party think if there's a community (maybe, only you) - able to maintain the project within its lifecycle. To show you what is meant, recall alive but pretty abandoned [Iron Python](https://ironpython.net/).
