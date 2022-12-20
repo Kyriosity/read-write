@@ -2,10 +2,11 @@
 |- [Architecture/design](dev/design.md)\
 |--- [Naming](dev/naming.md)\
 |--- [Patterns](dev/code_patterns.md)\
-|--- [Test driven](dev/tdd-ddd.md)\
+|--- [Driven design](dev/tdd-ddd.md)\
 |- Partitioninig\
 |--- [Model](dev/software-parts/app_model.md)\
 |--- [View](dev/software-parts/app_view.md)\
+|--- [Between view and model](dev/software-parts/app_view-model.md)\
 |--- [Frameworks](dev/software-parts/ext_modules.md)\
 |- Coding\
 |--- [Quality](dev/praxis/code_quality.md)\
