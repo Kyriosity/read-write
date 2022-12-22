@@ -36,6 +36,8 @@ Alternatives with [extension methods](https://docs.microsoft.com/en-us/dotnet/cs
 
 Actually a developer can declare just a *number* and distinguish only the way it's processed: fixed (default) or [floating-point arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html).
 
+C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.numerics.inumber-1) which genericizes numbers but in bulky and restricting fashion.
+
 ## String
 Laconic `==` implies _ordinal_ _case-sensitive_ comparison while `String.Compare()` is bulky and turbid.
 `IndexOf` and other methods with numerous overloads invoke comparison, for which Microsoft advises explicit `Comparison` options.\
