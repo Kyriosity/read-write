@@ -16,9 +16,11 @@
 - [__.NET__](dev/.net)\
 |- [Hints and tricks](dev/.net/+readme/cs_hints.md)\
 |- WPF\
-|--- [MVVM](dev/.net/wpf/wpf-mvvm.md)\
 |--- [View](dev/.net/wpf/wpf-view.md)\
-|--- Converters
+|--- Converters\
+|--- [MVVM](dev/.net/wpf/mvvm)\
+|----- [VModel cohesion](dev/.net/wpf/mvvm/model-vm_cohesion.md)\
+|----- [Orchestration](dev/.net/wpf/mvvm/orchestration.md)
 
 - [__Technical writing__](pencraft)
 
