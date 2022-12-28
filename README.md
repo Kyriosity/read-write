@@ -18,9 +18,7 @@
 |- WPF\
 |--- [View](dev/.net/wpf/wpf-view.md)\
 |--- Converters\
-|--- [MVVM](dev/.net/wpf/mvvm)\
-|----- [VModel cohesion](dev/.net/wpf/mvvm/model-vm_cohesion.md)\
-|----- [Orchestration](dev/.net/wpf/mvvm/orchestration.md)
+|--- [MVVM](dev/.net/wpf/mvvm)
 
 - [__Technical writing__](pencraft)
 
