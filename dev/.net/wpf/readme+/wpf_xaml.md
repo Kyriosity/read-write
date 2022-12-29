@@ -1,4 +1,4 @@
-# View
+# WPF - XAML View
 
 View, as an interface to human sensors and actions in response, could be even not a sight but a voice assistant, or use other means of communication.<sup>:raising_hand:</sup>
 
