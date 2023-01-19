@@ -18,5 +18,6 @@ and are not:
 - user experince (UX), incl. tongues and assistance
 - detection of technical bottlenecks,
 - versions of languages and platforms 
-- algotithms
-- any details of implementation
+- algorithms and coding rules,
+- any details of implementation,
+- code and docu managemement
