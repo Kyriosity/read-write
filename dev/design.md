@@ -1,8 +1,22 @@
 ## Architecture vs. design
-I'd reserve the term ___architecture___ for processors, operating systems, global computing services, spectrum of IT solutions, or Acropolis of Athens.\
-Whereas ___design___ comprises much better the development of applications, even of enterprise scale. Note the key word - application (use of something available for particular tasks).
 
-## Patterns
+Decisions on how software solutions will be written in terms of top diagrams, modules, interfaces, classes, layers, hierarchies, patterns -- is it architecture or design?\
+Voluntary<sup>:house:</sup> I'd reserve the term ___architecture___ for processors' lines, operating systems, global computing services, spectrum of IT solutions.\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:house:</sup>&nbsp;<sub>with tribute to architecture of Acropolis and Colosseum</sub>
 
-## Application model
-Model is a groundstone of most applications
+Whereas ___design___ comprises much better the development of applications, even of enterprise scale. Note the keyword - application (use of somewhat available for particular tasks).
+
+Other concerns of design (or architecture if you like) are:
+- identification of entities, functions and their naming,
+- detection of conceptual collisions,
+- visualization, storing of modeling artefacts (at least UML sketches on whiteboards),
+- partitioning (data, model, presentation, UI, biz logic)
+- use of libraries, frameworks and external services
+- planned audience and computing capacity
+
+and are not: 
+- user experince (UX), incl. tongues and assistance
+- detection of technical bottlenecks,
+- versions of languages and platforms 
+- algotithms
+- any details of implementation
