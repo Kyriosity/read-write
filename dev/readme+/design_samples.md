@@ -1,4 +1,4 @@
-# Software - Models
+# Design - Samples
 
 The planning and presenting of software features oblige one with pictorial background. We'll rely on the next samples more than others.
 
@@ -6,11 +6,11 @@ The planning and presenting of software features oblige one with pictorial backg
 
 This popular, easy to "get into" board game of all times renders a definitely favorable playground for software logics.  Other traits are...
 
-### Reversibility: full and plain
+### Reversibility, full and plain
 
 With conventional record of moves any game can be tracked back to any point. Reverse is just a specular move (with recovery of taken figures).
 
-### Value-action: mutual substitution
+### Value-action substitution
 
 A game "macro" can be either moves (*actions* that change the board) or alternating board layout (*value*, which moves result). 
 Layout can be reproduced from moves and vice versa, thus mixed notation is also functional (though extraordinary).
@@ -20,7 +20,7 @@ Layout can be reproduced from moves and vice versa, thus mixed notation is also 
 Chess assumes two players, who make moves in turn or decide to end the game, but there's an arbiter and timer, who follow the game and may change its progress.
 Thus any action (start, move, resign, undo) requires approval or notification of others.
 
-### Not only move
+### Not only move note
 
 Various actors set async props of a move/action:
 
@@ -30,7 +30,7 @@ Various actors set async props of a move/action:
 + engine/expert -> assessment (optional)
 
 
-### Boundaries: duration, size and space
+### Duration, size and space
 
 Playing chess is predictably finite<sup>:1234:</sup>, while any initiative may unleash the figures, 8x8 layout or time control and also result in perpetual movement.
 
@@ -42,7 +42,8 @@ Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to m
 
 The study of logic and **math** with its formalism has predetermined programming. 
 And as hardware instructions could run decent algebra low-to-high level languages could render mostly used mathematical functions for users.
-More specific functios can be found in external libraries and if not are subject of tailored development: from casual task to scientific work. 
+
+More specific functions can be found in external libraries and if not are subject of tailored development: from casual task for non-mathematician to scientific work (as some _computer-assisted-proofs_). 
 
 Math funcs inputs and results aren't only numbers but compound and highly abstract structures. 
 A simple or not formula may spare loads of modifications storage and still be swift. 
