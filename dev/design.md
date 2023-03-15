@@ -18,6 +18,9 @@ and are not:
 - user experince (UX), incl. tongues and assistance
 - detection of technical bottlenecks,
 - versions of languages and platforms 
-- algorithms and coding rules,
+- algorithms and patterns,
 - any details of implementation,
 - code and docu managemement
+
+Design reveals further topis:\
+|- [samples](readme+/design_samples.md)
