@@ -11,11 +11,11 @@ In 1970-1990s they got augmented, systematized and popularized, hence much admit
 
 ### "Patterns-in-themselves"
 
-Fitting the code to an applealing pattern is like inventing a sentence just for a catchy word. This also concerns overuse, for example, when a trivial Create()/New() is done through Builder/Factory.
+Fitting the code to an appealing pattern is like inventing a sentence for a buzzword. This also refers to overuse, for example, when _Builder_ covers trivial `Create()`/`New()`.
 
 ### Pattern as anti-pattern
 
-Unsuitable context may negate any pattern. Example? Singleton in Java or C# where injection is a better solution: `void ProvePeriphery(ILog sharedLog);`
+Unsuitable context may negate any pattern. Example? Doubtful _singleton_ in Java or C# where injection is an option: `void ProvePeriphery(ILog sharedLog);`
 
 ### Naming
 
