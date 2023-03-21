@@ -1,14 +1,25 @@
 # Nice to have in C#
-C#\.NET isn't a universal formula, and its team with community doesn't posses unbounded resources. However this platform could offer features and foundations, which can only boost its popularity.
 
+C#.NET isn't a universal formula, and its team + community don't posses unbounded resources. However this platform could offer features and foundations, which can only boost its popularity.
+
+## Extra base interfaces
+
+There're much common foundation interface members (`Count`, `Clone()`, `Equals()`, `CompareTo()`), which developers are eager to apply to their codes too. However much more remain uncovered, e.g. `interface ILimited { int MaxSize { get; } }` for collections, big objects.
+
+Some attractive members (like `IsReadOnly`) are defined within specific interfaces.
 
 ## Basic exception, messages and guards
 To begin with it could be proof of `>0` for collection sizing.
 
 ## Syntax
+
 ### Enums inheritance
+
 Seems logical and plain to adopt inheretance like this: 
 
+<details>
+<summary><b>Design sketch</b></summary>
+    
 ```csharp
 enum FundamentalState 
 {
@@ -40,6 +51,7 @@ with downcast only, e.g.:
 -  FundamentalState state = AppliedTheoryState.Gas;
 +  AppliedTheoryState state = FundamentalState.Gas;
 ```
+</details>
 
 ### Interfaces conjunction
 Fine-granulated interfaces and their multi-inheritance into more substantial belong to sound design practices.
