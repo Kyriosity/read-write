@@ -1,16 +1,17 @@
 # C# drawbacks (minority report)
+
 Nothing is perfect and C# too. Following language artifacts are awkward leastwise for me. 
+
 ## Syntax
-Rudimentary `;` ending a line brings nothing but visual noise.
 
-The `const` modifier shall be not limited to pre-compiled values (it's mere optimization) but prevent re-assignment, as `init` and `readonly` do.
-
-Nullable declaration with `?` prefix are clear for value types but ambiguous for references and objects, which can be nulled anyway:\
+- Rudimentary `;` ending a line brings nothing but visual noise.
+- The `const` modifier shall be not limited to pre-compiled values (it's mere optimization) but prevent re-assignment, as `init` and `readonly` do.
+- Missing (default) access modifier shall be better reserved for ulitimate `private` or better `public` than for specific and less used `internal`\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Well, this couldn't be changed<sub>
+- Nullable declaration (with `?` prefix) is evident for value types but ambiguous for references and objects, which can be nulled anyway:\
 `string a = null; string? b = null;`
-
-Gradual releases of syntax shortcuts, as `?` or `!`, sometimes erode C# readability.<sup>:raising_hand:</sup>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Quite arguably, and i hope that C# team doesn't plan to make a Perl out of their language</sub>
+- Gradual releases of syntax shortcuts, as `?` or `!`, sometimes erode C# readability.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Quite arguably, and i hope that C# team doesn't plan to make a Perl out of their language</sub>
 
 ## Types
 Root `object`, both non-abstract and interface-less, asserts flaws in object-oriented design. On the other hand it brings "original" footprint, big enough to pollute coding space.
