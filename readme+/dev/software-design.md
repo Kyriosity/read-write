@@ -2,9 +2,9 @@
 
 Decisions on how software solutions will be written in terms of top diagrams, modules, interfaces, classes, layers, hierarchies, patterns -- is it architecture or design?\
 Voluntary<sup>:house:</sup> I'd reserve the term ___architecture___ for processors' lines, operating systems, global computing services, spectrum of IT solutions.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:house:</sup>&nbsp;<sub>with tribute to architecture of Acropolis and Colosseum</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:house:</sup>&nbsp;<sub>with reverence for architects of Acropolis and Colosseum</sub>
 
-Whereas ___design___ comprises much better the development of applications, even of enterprise scale. Note the keyword - application (use of somewhat available for particular tasks).
+Whereas ___design___ comprises much better the development of applications, even of enterprise scale. Note the keyword - application (use of somewhat developed for particular tasks).
 
 Other concerns of design (or architecture if you like) are:
 - identification of entities, functions and their naming,
@@ -22,5 +22,5 @@ and are not:
 - any details of implementation,
 - code and docu managemement
 
-Design reveals further topis:\
-|- [samples](readme+/design_samples.md)
+Design reveals further topics:\
+|- [Samples](readme+/design_samples.md)
