@@ -16,7 +16,7 @@
 - [__.NET__](dev/.net)\
 |- [Hints and tricks](dev/.net/+readme/cs_hints.md)\
 |- WPF\
-|--- [View](dev/.net/wpf/wpf-view.md)\
+|--- [View](readme+/dev/.net/wpf/readme+/wpf_xaml-view.md)\
 |--- Converters\
 |--- [MVVM](dev/.net/wpf/mvvm)
 
