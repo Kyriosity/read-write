@@ -21,7 +21,7 @@ An MVVM application may grow into an enterpise solution, but from the ground up 
 <details>
 <summary><b>Simplest MVVM application</b></summary>
 
-![sketch](readme+/wpf_app-sketch.jpg)
+![sketch of WPF app](../_rsc/images/wpf_app-sketch.jpg)
 
 <sup>:arrow_down:</sup>&nbsp;<sub>Project of Microsoft Visual Studio</sub>
 </details>
