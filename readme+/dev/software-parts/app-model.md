@@ -1,7 +1,7 @@
 # Application model - reminder
 
-_Model_, though a vague term, is a cornerstone of software engineering, which shapes and formalizes entities and tasks of application.\
-A model may rank from a dumbest `new Brick { W = 20, D = 12, H = 6,5 }` up to a universe of media franchise, from private proof of concept to enterprise solution, from bubble sort engine to, eh, equations of Quantum Field Theory.
+_Model_, though a rather obscure term, is a cornerstone of software engineering, which shapes and formalizes entities and tasks of application.\
+A model may rank from a dumbest `new Brick { W = 20, D = 12, H = 6,5 }` up to a universe of media franchise, from private proof of concept to enterprise solution, from bubble sort to 3D engine.
 
 ## Insight of model data
 
@@ -20,7 +20,9 @@ It can be:
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:capital_abcd:</sup>&nbsp;<sub>acronyms of **C**reate/**R**ead/**U**pdate/**D**elete and **C**ommand **Q**uery **R**esponsibility **S**egregation</sub>
 
-### Model data vs. data storage
+### Model data and data storage
+
+Model is not data (there're could be model with no data at all, like math processor).
 
 :construction: TO BE WRITTEN :construction:
 
