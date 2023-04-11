@@ -1,4 +1,5 @@
 # Naming in software design
+
 The naming of libraries, packages (assemblies), classes, methods and even non-public _vars_ **must** be a challenge and involve the whole team<sup>:family:</sup> discussions. This expense will pay off with:
 
 + collaboration, common comprehension of a domain that establishes a kind of *lingua franca* throughout the really being bound team
