@@ -1,4 +1,4 @@
-# MVVM ViewModel
+# MVVM - ViewModel
 
 ViewModel is the heart of the pattern and was wittily titled [converter on steroids](https://joshsmithonwpf.wordpress.com/2008/12/01/the-philosophies-of-mvvm/).
 
@@ -15,5 +15,7 @@ As well ViewModel shall not outline ways of UI arrangement and interaction (wind
 ## ViewModel-Model cohesion
 
 ## Messaging within MVVM
+
 ### Commands
+
 ### Dialogs
