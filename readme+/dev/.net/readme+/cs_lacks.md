@@ -1,6 +1,6 @@
 # Nice to have in C#
 
-C#.NET isn't a universal formula, and its team + community don't posses unbounded resources. However this platform could offer features and foundations, which can only boost its popularity.
+C#.NET isn't a universal formula, and its team ➕ community don't posses unbounded resources. However this platform could offer features and foundations, which can only boost its popularity.
 
 ## Extra base interfaces
 
