@@ -17,7 +17,7 @@ Layout can be reproduced from moves and vice versa, thus mixed notation is also 
 
 ### Multiuser
 
-Chess assumes two players, who make moves in turn or decide to end the game, but there's an arbiter and timer, who follow the game and may change its progress.
+Chess assumes two players (i.e. multiuser application), who make moves in turn or decide to end the game, but there's an arbiter and timer, who follow the game and may change its progress.
 Thus any action (start, move, resign, undo) requires approval or notification of others.
 
 ### Not only move note
@@ -32,7 +32,7 @@ Various actors set async props of a move/action:
 
 ### Duration, size and space
 
-Playing chess is predictably finite<sup>:1234:</sup>, while any initiative may unleash the figures, 8x8 layout or time control and also result in perpetual movement.
+Playing chess is predictably finite<sup>:1234:</sup>, while any initiative may unleash the figures, _8x8_ layout or time control and also result in perpetual movement.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:1234:</sup>&nbsp;<sub>Theory and rules limit moves to 5949 with prevailing numbers on practice far below fivescore</sub>
 
@@ -40,8 +40,7 @@ Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to m
 
 ## Mathematics
 
-The study of logic and **math** with its formalism has predetermined programming. 
-And as hardware instructions could run decent algebra low-to-high level languages could render mostly used mathematical functions for users.
+The study of logic and **math** with its formalism has predetermined programming. As hardware instructions could run decent algebra low-to-high level languages could render mostly used mathematical functions for users.
 
 More specific functions can be found in external libraries and if not are subject of tailored development: from casual task for non-mathematician to scientific work (as some _computer-assisted-proofs_). 
 
