@@ -1,6 +1,6 @@
 # Code- and coding management
 
-The exponential (somewhere chaotic) growth of software projects in 2000s has founded a "parallel universe" of their organization: requirements/issue tracking, code collecting/versioning, collaboration tools, deployment services, project management.\
+The exponential (and chaotic) growth of software projects in 2000s has founded a "parallel universe" of their organization: requirements/issue tracking, code collecting/versioning, collaboration tools, deployment services, project management.\
 Systems, frameworks, methodologies will take some scrolls to name remarkable only.
 
 Admitting the customers/users perspective - "not _how_ but _what_ matters" - draws a distinct watershed: **either** organization serves development, **or** _vice versa_.
