@@ -1,6 +1,6 @@
 # Code patterns
 
-IT vision of  *patterns* has spread over software templates, project solutions, methodologies and even developer's manners, but here let's stay on its initial meaning.
+Initial IT vision of  *patterns* has spread over software templates, project solutions, methodologies and even developer's manners, but here let's stay on its initial meaning.
 
 As growth of instruction sets of processors resulted in abstractions clever programmers noticed useful patterns of code to repeat and recommend. 
 In 1970-1990s they got augmented, systematized and popularized, hence much admitted of them become dogmatic and featured in languages/frameworks.
