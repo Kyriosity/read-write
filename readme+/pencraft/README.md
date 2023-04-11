@@ -2,9 +2,14 @@
 
 # Technical writing
 
+Technical writing must be seen in two differing and much opposed adaptations: **documentation** and **authoring**.
+
+****
+
 ## Documentation
 
 ### Requirements
+
 Writing and maintaing requirements is the subject of project management. And there could (should) be none in episcular form.
 
 ### Tracking, versioning systems
@@ -16,15 +21,14 @@ Writing and maintaing requirements is the subject of project management. And the
 
 ## Authoring
 
-We won't discuss conventional docu, which need not much imagination but patterns. That means especcially manuals about subjects of any hazard.
-
 <div dir="rtl">Write what you <s>want</s> know</div>
 <p dir="rtl";'><i>Mark Twain (1835-1910)</i></p>
 
-Prior to writing even some pages for an enterprise project one should checkmark the following:
-- [x] those will be still helpful after months
-- [x] coaching and communication aren't enough
-- [x] there's no better way to document with user tests
+Prior to writing following checkmars must be set:
+              
+- [x] it will be still helpful after months and will be further reworked
+- [x] it's better than possible coaching and communication
+- [x] there's no better alternatives like video tutorials
 - [x] it won't add up mess to the available docu organisation (wikis, q&a) and will be easily located there 
 
 &nbsp;
