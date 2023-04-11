@@ -1,15 +1,9 @@
 # WPF - XAML View
 
-View, as an interface to human sensors and actions in response, could be even not a sight but a voice assistant, or use other means of communication.<sup>:raising_hand:</sup>
+XAML, as native frontend markup of WPF, has not too much specifics and has very low learning curve.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup><sub>Thinking on how disabled people will use your application isn't only fair, but can help with design dilemmas down to business logic.</sub>
+It's worth to mention that there're no mainstream alternatives to it.
 
-## View acceptance criteria
-
-
-## XAML views
-
-## XAML Lacks
-
-## XAML
+**Further reading:**\
 |--- Hints and tricks
+|--- Drawbacks
