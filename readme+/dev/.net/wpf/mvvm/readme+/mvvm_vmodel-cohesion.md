@@ -1,4 +1,4 @@
-# Momvvmwvmodel-cohesionsion
+# MVVM - Model & ViewModel cohesion
 
 ## Classical aggregation
 https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/patterns-wpf-apps-with-the-model-view-viewmodel-design-pattern
