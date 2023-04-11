@@ -23,3 +23,6 @@ The look at the good organized clean code must be enough.
 Before you write a beautiful, good illustrated guide on software solution think on the following ad-lib alternative.
 Just capture a screen for video overview of the code commenting it behind.
 
+**Further reading**:\
+|- [Technical writing](../../pencraft)
+
