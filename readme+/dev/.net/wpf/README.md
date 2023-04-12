@@ -6,4 +6,4 @@ For developers WPF:
 
 + is number one platform for Windows clients, which make big global market, 
 + provides direct hardware acceleration since Windows&nbsp;7
-+ implies [MVVM](/mvvm) and has promoted it to other technologies
++ implies [MVVM](mvvm/) and has promoted it to other technologies
