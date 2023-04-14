@@ -1,13 +1,15 @@
 # Technical writing
 
-Technical writing must be seen in two differing adaptations - **documentation** and **authoring** - with opposed values of formalism, creativity, imagination, style.
+__Documentation__ and __authoring__ are two differing employments of technical writing with opposed values of formalism, creativity, imagination, styles. Their principled distinction is __*driven*__ vs __*drives*__.
 
-Nevertheless the major difference is *driven* (docu) __*vs.*__ *drives* (authoring). Documentation is derived and must desribe a product *pro forma*. Authoring must take a higher view of the subject, inspire and explain complex or formal ideas in human readable form.
+Documentation is required derivative of a product, must follow patterns and shall be (auto-)generated as much as possible.
 
-Irregardless of the mission any tech writing must acquit the resources:
-+ has an auditorium,
-+ has no easier alternative,
-+ be long-term
+Authoring is optional and must take a higher view of the subject, inspire and explain friendly sophisticated or formal ideas.
+
+Irregardless of the mission any tech writing is an expensive excersize and thus:
++ must have an auditorium,
++ be the best among other choices (as video-tutorial),
++ be long-term (maintained and evolved)
 
 __Further navigation__\
 |- [Technical documentation](readme+/tech-docu.md)\
