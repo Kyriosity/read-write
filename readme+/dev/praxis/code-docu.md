@@ -13,16 +13,6 @@ However comments are fully liable for:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>This statement is for renowned high-level declarative languages.</sub>
 
-## UML and similar diagrams
-
-They are nice for concepts, discussion, top-level entries, but maintaining them on the class level is cumbersome (even when auto-generated).
-The look at the good organized clean code must be enough.
-
-## Manuals
-
-Before you write a beautiful, good illustrated guide on software solution think on the following ad-lib alternative.
-Just capture a screen for video overview of the code commenting it behind.
-
-**Further reading**:\
-|- [Technical writing](../../pencraft)
+**Further discussion**:\
+|- [Technical documentation](../../pencraft)
 
