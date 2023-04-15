@@ -34,7 +34,7 @@ Beyond the order such approach will bring next possibilities:
 
 ## Commands and messages
 
-Organisation of [WPF commands](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/commanding-overview) may follow the same model, but they are easier and it's enough to pack commands in corresponding sub-ViewModels.
+Organisation of [WPF commands](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/commanding-overview) may follow the same model, but they are easier and it's enough to pack commands in corresponding sub-ViewModels, while `CanExecute` properties may be orchestrated.
 
 MVVM messaging, either custom or out-of-the box, is based on properties.
 
