@@ -10,10 +10,10 @@ You must already know and use fast and easy [Microsoft recipe](https://learn.mic
 + diverse notifications mechanism (not only PropertyChanged)
 
 And then if a ViewModel were printed on a board it would look:\
-![Messed wires snap from bigmessowires.com/](../../../../../_rsc/images/bigmessowires.com_wired-circuit.jpg)\
+![Spaghetti wires snapshot from bigmessowires.com/](../../../../../_rsc/images/bigmessowires.com_wired-circuit.jpg)\
 (*Found on bigmessowires.com*)
 
-## Solution 
+## Proposal 
 
 Another snapshot from the same site must give the cue.\
 ![Order illustration of chips from bigmessowires.com/](../../../../../_rsc/images/bigmessowires.com_inegrated-circuit.jpg)
@@ -32,7 +32,15 @@ Beyond the order such approach will bring next possibilities:
 + easy swap of notification model
 + hooks for tracing, logging etc.
 
+## Commands and messages
+
+Organisation of [WPF commands](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/commanding-overview) may follow the same model, but they are easier and it's enough to pack commands in corresponding sub-ViewModels.
+
+MVVM messaging, either custom or out-of-the box, is based on properties.
+
 ## Irrelevant tasks
+
+There're other tools to improve notification but they aren't orchestration:
 
 + Everithing that [ReactiveX](https://reactivex.io/) can do.
 + Any wiring on the View side.
