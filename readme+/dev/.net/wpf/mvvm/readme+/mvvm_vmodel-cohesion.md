@@ -31,7 +31,7 @@ As [Microsoft guidelines](https://docs.microsoft.com/en-us/archive/msdn-magazine
 
 There's nothing foul in this practice but itchy call of "don't repeat yourself". Furthermore there're can be more ViewModels: *BookViewer* for display, *BookAbstract* for listing, *NewBook* for creation, - all multiplying the mere propagation of pretty much properties.
 
-## Inheritance alternative
+## Inheritance variant
 
 |   |  |
 | ------------- | ------------- |
@@ -39,7 +39,7 @@ There's nothing foul in this practice but itchy call of "don't repeat yourself".
 
 ### Downcasting "impedance"
 
-C# doesn't support cast to inhereted classes/interfaces even when defaults would fit extensions.
+A cast of pure parent to inhereted classes/interfaces will cause ERROR in C# even when defaults would fit extensions (EXAMPLE).
 
 ... TO BE CONTINUED ...
 
@@ -47,6 +47,10 @@ C# doesn't support cast to inhereted classes/interfaces even when defaults would
 
 In the classic realization ViewModel will reasonably extend usually named `ViewModelBase` with common functionality, like notification. C# doesn't support multi-inheretance, and base is much more suitable for aggregation (injection) thus giving the way to model as parent. 
 
-## Other alternatives
+### Contraindications
 
-Mature framework and libraries provide their own vision of MVVM. 
+The idea assumes that model classes are available for development or alteration. The keyword `sealed` will ABSOLUTELY dismiss the approach ... TO BE CONTINUED ...
+
+## Alternatives
+
+Seasoned framework and libraries provide their own _prêt-à-porter_ MVVM suites. 
