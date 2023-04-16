@@ -2,10 +2,10 @@
 
 ## Classic aggregation
 
-As [Microsoft guidelines](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/patterns-wpf-apps-with-the-model-view-viewmodel-design-pattern) suggest ViewModels will usually aggregate Models in such a way:
+As [Microsoft guidelines](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/patterns-wpf-apps-with-the-model-view-viewmodel-design-pattern) suggest ViewModels will usually aggregate Models in straightforward fashion:
 
 <details>
-  <summary><ins>&nbsp;Ordinary aggregation - sketch</ins></summary>
+  <summary><ins>&nbsp;Ordinary aggregation - sketch&nbsp;</ins></summary>
   
   ```csharp
   namespace Models;
@@ -17,7 +17,7 @@ As [Microsoft guidelines](https://docs.microsoft.com/en-us/archive/msdn-magazine
   ```
   ```csharp
   namespace ViewModels;
-  class BookEditor
+  class BookEditor : ViewModelBase
   {
      private Models.Book _model = // ... anyhow supplied or injected
      string Title {
@@ -29,14 +29,24 @@ As [Microsoft guidelines](https://docs.microsoft.com/en-us/archive/msdn-magazine
   ```
 </details>
 
-There's nothing foul in this practice but itchy call of "don't repeat yourself". Suggest, that there're can be some ViewModels as *BookViewer*, *BookAbstract*, *NewBook*.
+There's nothing foul in this practice but itchy call of "don't repeat yourself". Furthermore there're can be more ViewModels: *BookViewer* for display, *BookAbstract* for listing, *NewBook* for creation, - all multiplying the mere propagation of pretty much properties.
 
 ## Inheritance alternative
 
 |   |  |
 | ------------- | ------------- |
-| Let's considr model as a parent class, from which ViewModels can be derived   | ![VModel cohesion diagram](../../_rsc/images/mvvm_vm-model-cohesion.jpg)  |
+| Let's regard model as a parent class, <br/>from which ViewModels can be derived:<br/><br/><br/><br/>| ![VModel cohesion diagram](../../_rsc/images/mvvm_vm-model-cohesion.jpg)  |
+
+### Downcasting "impedance"
+
+C# doesn't support cast to inhereted classes/interfaces even when defaults would fit extensions.
+
+... TO BE CONTINUED ...
 
 ### What about ViewModelBase
 
-## Which to use
+In the classic realization ViewModel will reasonably extend usually named `ViewModelBase` with common functionality, like notification. C# doesn't support multi-inheretance, and base is much more suitable for aggregation (injection) thus giving the way to model as parent. 
+
+## Other alternatives
+
+Mature framework and libraries provide their own vision of MVVM. 
