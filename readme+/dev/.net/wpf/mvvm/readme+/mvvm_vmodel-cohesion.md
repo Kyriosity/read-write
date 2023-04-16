@@ -12,27 +12,30 @@ As [Microsoft guidelines](https://docs.microsoft.com/en-us/archive/msdn-magazine
   class Book
   {
       string Title { get; set; }
-      // ...
+      // ........................................
   }
   ```
   ```csharp
   namespace ViewModels;
-  class sdf
+  class BookEditor
   {
      private Models.Book _model = // ... anyhow supplied or injected
      string Title {
         get => _model.Title;
         set { _model.Title = value; OnPropertyChanged(); }
      }
+    // ........................................
   }
   ```
 </details>
 
-There's nothing foul in this practice but an itchy feeling of copy-paste and overcoding.
+There's nothing foul in this practice but itchy call of "don't repeat yourself". Suggest, that there're can be some ViewModels as *BookViewer*, *BookAbstract*, *NewBook*.
 
 ## Inheritance alternative
 
-![VModel cohesion diagram](../../_rsc/images/mvvm_vm-model-cohesion.jpg)
+|   |  |
+| ------------- | ------------- |
+| Let's considr model as a parent class, from which ViewModels can be derived   | ![VModel cohesion diagram](../../_rsc/images/mvvm_vm-model-cohesion.jpg)  |
 
 ### What about ViewModelBase
 
