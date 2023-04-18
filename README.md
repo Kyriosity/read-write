@@ -14,6 +14,7 @@
 |--- [Management](readme+/dev/praxis/code-mngmnt.md) 
 
 - [__.NET__](readme+/dev/.net)\
+|- [Design](readme+/dev/.net/readme+/design)\
 |- [Hints and tricks](readme+/dev/.net/readme+/cs_hints.md)\
 |- [WPF](readme+/dev/.net/wpf/)\
 |--- [View](readme+/dev/.net/wpf/readme+/wpf_xaml-view.md)\
