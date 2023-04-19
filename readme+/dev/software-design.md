@@ -23,4 +23,5 @@ and are not:
 - code and docu managemement
 
 Design reveals further topics:\
-|- [Samples](readme+/design_samples.md)
+|- [Samples](readme+/design_samples.md)\
+|- [C# design decisions](.net/readme+/design)
