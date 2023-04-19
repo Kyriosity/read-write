@@ -11,6 +11,7 @@ As [Microsoft guidelines](https://docs.microsoft.com/en-us/archive/msdn-magazine
   namespace Models;
   class Book
   {
+      uint required Isbn { get; init; }
       string Title { get; set; }
       // ........................................
   }
@@ -20,6 +21,9 @@ As [Microsoft guidelines](https://docs.microsoft.com/en-us/archive/msdn-magazine
   class BookEditor : ViewModelBase
   {
      private Models.Book _model = // ... anyhow supplied or injected
+     
+     string Isbn => string.Format(ISBN_GROUP, _model.Isbn), // fictious formatter;
+  
      string Title {
         get => _model.Title;
         set { _model.Title = value; OnPropertyChanged(); }
@@ -35,22 +39,22 @@ There's nothing foul in this practice but itchy call of "don't repeat yourself".
 
 |   |  |
 | ------------- | ------------- |
-| Let's regard model as a parent class, <br/>from which ViewModels can be derived:<br/><br/><br/><br/>| ![VModel cohesion diagram](../../_rsc/images/mvvm_vm-model-cohesion.jpg)  |
+| Let's regard model as a parent class, <br/>from which ViewModels can be derived:<br/><br/><br/><br/>| ![VModel cohesion diagram](../../_rsc/images/MVP_vm-model-cohesion.jpg)  |
 
-### Downcasting "impedance"
+### Downcasting workaround
 
-A cast of pure parent to inhereted classes/interfaces will cause ERROR in C# even when defaults would fit extensions (EXAMPLE).
-
-... TO BE CONTINUED ...
+An issue of the inheritance is that C# prevents pure downcasting, but there're workarounds possible:\
+|- [Downcasting impedance](../../../readme+/design/readme+/cs_downcast-impedance.md)
 
 ### What about ViewModelBase
 
-In the classic realization ViewModel will reasonably extend usually named `ViewModelBase` with common functionality, like notification. C# doesn't support multi-inheretance, and base is much more suitable for aggregation (injection) thus giving the way to model as parent. 
+In the classic realization ViewModel will reasonably extend `ViewModelBase` (usual name) with common functionality, like notification. C# doesn't support multi-inheretance, and then base is much more suitable for aggregation (injection) thus giving the way to model as parent. 
 
 ### Contraindications
 
-The idea assumes that model classes are available for development or alteration. The keyword `sealed` will ABSOLUTELY dismiss the approach ... TO BE CONTINUED ...
+The idea assumes that model classes are open for development or alteration. The keyword `sealed` will ABSOLUTELY dismiss the approach ... TO BE CONTINUED ...
 
 ## Alternatives
 
-Seasoned framework and libraries provide their own _prêt-à-porter_ MVVM suites. 
++ Seasoned framework and libraries provide their own _prêt-à-porter_ MVVM suites. 
++ You may decide for an alternative design pattern.
