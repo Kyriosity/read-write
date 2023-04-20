@@ -12,6 +12,13 @@ Nothing is perfect and C# too. Following language artifacts are awkward leastwis
 `string a = null; string? b = null;`
 - Gradual releases of syntax shortcuts, as `?` or `!`, sometimes erode C# readability.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Quite arguably, and i hope that C# team doesn't plan to make a Perl out of their language</sub>
+  
+### Generics
+
+The next definition is clear `class CollWrapper<C, T> where C : ICollection<T> { ... }`, \
+but not its redundant declaration `new CollWrapper<List<int>, int>()`.
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics) that their generics are "_does nots_" of C++ templates.</sub>
 
 ## Types
 Root `object`, both non-abstract and interface-less, asserts flaws in object-oriented design. On the other hand it brings "original" footprint, big enough to pollute coding space.
