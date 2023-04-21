@@ -13,6 +13,10 @@ To begin with it could be proof of `>0` for collection sizing.
 
 ## Syntax
 
+### Sugar
+
+There's no excuse why shortcuts like `ArgumentNullException.ThrowIfNull(...)` aren't added to most exceptions. As well there're could be static classes without evident _Exception_ (e.g. NotImplemented.Throw()). 
+
 ### Enums inheritance
 
 Seems logical and plain to adopt inheretance like this: 
