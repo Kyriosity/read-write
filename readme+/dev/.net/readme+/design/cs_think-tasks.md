@@ -1,6 +1,6 @@
 # C# - Tasks as properties backup
 
-Thinking in friendly UX it's good to apply deferred (aka lazy) initialization/calculation to less or more "heavy" entities. Either with C# `Lazy<>` or custom code like this:
+Experienced developers used to defer initialization/calculation to less or more "heavy" entities. In C# either with `Lazy<>` or custom code like this:
 <details>
   <summary><ins>Deferred loading snipped</ins></summary>
   
@@ -12,8 +12,12 @@ private BigAndHeavy? _ram;
 
 This allows to **a)**&nbsp;load the stuff on&nbsp;demand only, **b)**&nbsp;spread resources peaks, **c)**&nbsp;partition the suspense. However the suspense remains.
 
-Any modern PC has enough power to process seamlessly in background.
+Powers of modern home laptops are mostly idle, while platforms like .NET allow accurately run multiple processes in background. Thus it's not important to delay tasks but prepare them as much as possible in background, and seamlessly produce, when required.
 
 ## Tasks
 
 🚧... TO BE CONTINUED ... 🚧
+
+## Beyond simple scenarios
+
+🚧... TO BE WRITTEN ... 🚧
