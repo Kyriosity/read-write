@@ -13,9 +13,7 @@ The purpose of TDD is no way test automation but means to
 + couple design dreams with reality of programming possibilities
 
 Optionally:
-+ define **test framework** of the application
-
-TDD renders good stuff for test coverage while are written in a good black-box manner, not influenced by implementation.
++ define **test framework** of the project (TDD will then outline test coverage with start stuff written in a good black-box manner).
 
 ## DDD (Design Driven Design)
 
@@ -43,6 +41,10 @@ With all this said TDD-DDD may look like _lapis philosophorum_ but is barely a g
 
 + test frameworks (tests of tests of tests of ...)
 + code porting
-+ non-testable things: artistic brush, quality of generated text, check of "peak" calculations
++ non-testable things: artistic brush, quality of generated text, check of non-reproducable calculations
 
 🚧:... TO BE CONTINUED ....:pencil2:
+
+## Wrapping up
+
+It's significant to recall the deepest pitfall in TDD (DDD). It occurs quite often that a developer gets lured to write some working code first and then the whole further TDD is biased with lesser enthusiasm for test drive.
