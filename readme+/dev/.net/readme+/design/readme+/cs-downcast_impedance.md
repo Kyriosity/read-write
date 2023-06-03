@@ -1,6 +1,6 @@
 # C# - Downcasting impedance
 
-> Always draw a base (parent) class in UML **up** to derived from it. For explicit view of up- and downcasting.
+> NOTE: Always draw a base (parent) class in UML **up** to derived from it. For explicit view of up- and downcasting.
 
 Contrary to carefree **up**casting C# will prevent assigning pure base class with any derived (downcast), even when there's no piece of extension there.
 
@@ -27,4 +27,4 @@ Model.Fill(book);
 
 ## Best: yours
 
-Circumstances and your experiens may suggest a even a better workaround.
+Circumstances and your experiens may suggest even a better workaround.
