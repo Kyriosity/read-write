@@ -12,7 +12,7 @@ WinForms application can be an exemplary MVVM<sup>:wrench:</sup> but it was WPF 
 |--- [Model-ViewModel cohesion](readme+/mvvm_vmodel-cohesion.md)\
 |--- [Notification orchestration](readme+/wpf_notification-orchestration.md)\
 |- __View__     -  usual [application view](../../../software-parts/app_view.md) bound to ViewModel\
-|--- [XAML view](../readme+/wpf_xaml.md)
+|--- [XAML view](../readme+/wpf-xaml_view.md)
 
 ## Sample
 
