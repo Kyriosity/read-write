@@ -9,6 +9,6 @@ For developers WPF:
 + implies [MVVM](mvvm/) and has promoted it to other platforms
 
 __Further notes__:\
-|- [MVVM](mvvm/)\
 |- [WPF lacks](readme+/wpf-drawbacks.md)\
-|- [WPF hints](readme+/wpf-hints.md)
+|- [WPF hints](readme+/wpf-hints.md)\
+|- [XAML view](readme+/wpf-xaml_view.md)
