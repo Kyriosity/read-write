@@ -10,5 +10,5 @@ For developers WPF:
 
 __Further notes__:\
 |- [MVVM](mvvm/)\
-|- [WPF lacks](readme+/wpf_drawbacks.md)\
-|- [WPF hints](readme+/wpf_hints.md)
+|- [WPF lacks](readme+/wpf-drawbacks.md)\
+|- [WPF hints](readme+/wpf-hints.md)
