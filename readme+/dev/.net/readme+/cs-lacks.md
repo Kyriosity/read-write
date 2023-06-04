@@ -1,14 +1,16 @@
 # Nice to have in C#
 
-C#.NET isn't a universal formula, and its team ➕ community don't posses unbounded resources. However this platform could offer features and foundations, which can only boost its popularity.
+C#.NET isn't a universal formula, and its team **+** community don't posses unbounded resources. However this platform could offer extra features and foundations, which can only boost its charm.
 
-## Extra base interfaces
+## More base interfaces
 
-There're much common foundation interface members (`Count`, `Clone()`, `Equals()`, `CompareTo()`), which developers are eager to apply to their codes too. However much more remain uncovered, e.g. `interface ILimited { int MaxSize { get; } }` for collections, big objects.
+General interface define members like `Count`, `Clone()`, `Equals()`, `CompareTo()`, which developers are eager to apply to their codes too.\
+However much more remain uncovered, e.g. Max/Min for limiting collections and objects size.
 
-Some attractive members (like `IsReadOnly`) are defined within specific interfaces.
+Other promissing members (like `IsReadOnly`) are defined within specific interfaces.
 
 ## Basic exception, messages and guards
+
 To begin with it could be proof of `>0` for collection sizing.
 
 ## Syntax
