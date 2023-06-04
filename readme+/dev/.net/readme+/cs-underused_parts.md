@@ -17,10 +17,12 @@ Ironically it was Microsoft to originate [ReactiveX](https://reactivex.io/) but 
 [IObservable](https://docs.microsoft.com/en-us/dotnet/api/system.iobservable-1) is in base classes, [Reactive extensions](https://github.com/dotnet/reactive) are at least a decade in .NET and properly integrated with LINQ but ... seldom used.\
 Sure, event/stream based development isn't for every use and its paradigm requires some learning curve, but this isn't excuse not not to look in `System.Reactive.Linq`.
 
-## Predicates
-Are good for parametrization of methods but seldom seen there.
+## Predicates and delegates as arguments
+
+Are good for parametrization of methods calls but seldom seen there.
 
 ## Multitasking out-of-the-box
+
 Exaggerated fears for intricacy may divert developers from advantages of parallelism. C# presents high-level alternatives to custom bootstrap of multi-threading (semaphores, mutex, locks, pools). And it's not even about cozy [TPL](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-parallel-library-tpl), PLINQ or unblocking with `async`/`await` but instant syntax alteration that unleashes the power of parallel computing.
 
 ```diff
