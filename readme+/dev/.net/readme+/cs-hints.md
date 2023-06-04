@@ -152,6 +152,6 @@ enum FundamentalStatesOfMatter
 </details>
 
 ## Going further...
-+ [Cheatsheet](cs_cheatsheet.md)
++ [Cheatsheet](cs-cheatsheet.md)
 + Technologies\
-| --- [Ideas from WPF praxis](../wpf/readme+/wpf_hints.md)
+| --- [Ideas from WPF praxis](../wpf/readme+/wpf-hints.md)
