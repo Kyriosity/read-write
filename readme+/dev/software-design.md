@@ -1,8 +1,8 @@
 ## Architecture vs. design
 
-Decisions on how software solutions will be written in terms of top diagrams, modules, interfaces, classes, layers, hierarchies, patterns -- is it architecture or design?\
-Voluntary<sup>:house:</sup> I'd reserve the term ___architecture___ for processors' brands, operating systems, global computing services, spectrum of IT solutions.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:house:</sup>&nbsp;<sub>with reverence for architects of Acropolis and Colosseum</sub>
+Decisions on how software solutions will be written in terms of top diagrams, modules, interfaces, classes, layers, hierarchies, patterns -- is it architecture or design?
+
+Voluntary, with reverence for architects of Acropolis and Colosseum, I'd reserve the term ___architecture___ for processors' brands, operating systems, global computing services, spectrum of IT solutions.
 
 Whereas ___design___ comprises much better the development of applications, even of enterprise scale. Note the keyword - application (use of somewhat developed for particular tasks).
 
