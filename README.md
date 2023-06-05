@@ -15,7 +15,7 @@
 
 - [__.NET__](readme+/dev/.net)\
 |- [Design decisions](readme+/dev/.net/readme+/design)\
-|- [Hints and tricks](readme+/dev/.net/readme+/cs_hints.md)\
+|- [Hints and tricks](readme+/dev/.net/readme+/cs-hints.md)\
 |- Foundations\
 |--- [WPF](readme+/dev/.net/wpf/)
 
