@@ -6,8 +6,9 @@
 <summary><b>Negate with <i>exclusive or</i></b></summary>
   
 ```diff csharp
--      isLoading = !isLoading
-+      isLoading ^= true; // explicit
+-      isLoading = !isLoading // open for typos with other var
++      isLoading ^= true; // explicit inversion
++      isLoading = !offLoading // explicitly other var
 ```
 
 ```diff csharp
@@ -33,13 +34,6 @@ if (!PauseOver(out var remaining))
 <summary><b>Discard with underscore</b></summary>
 
 ```csharp
-// null guard with *null-coalescing* 
-_ = myOrder?? throw new ArgumentNullException(nameof(myOrder)); 
-// well, it's for example, next line is more readable
-ArgumentNullException.ThrowIfNull(myOrder);
-```
-
-```csharp
  // remove visual noise of nominal arguments
   void OnMouseMove(object _, EventArgs __) { MyApp.Unfreeze(); };
 // excplicitly tells that signature parameters aren't used
@@ -50,7 +44,16 @@ ArgumentNullException.ThrowIfNull(myOrder);
  _ = myShoppingCart.Pay(); // habitually i don't care for receipt returned 
  _ = new ResourceBlocker(filename); // stub objects (e.g. to invoke and prove constructor logic only) 
 ```
-
+  
++ But not always the best choice
+  
+```csharp
+// null guard with *null-coalescing* ...
+_ = myOrder?? throw new ArgumentNullException(nameof(myOrder)); 
+// ... has readable and shorter way
+ArgumentNullException.ThrowIfNull(myOrder);
+```
+  
 + Not a discard but pleasing
 
 ```csharp
@@ -86,14 +89,13 @@ class Benchmark : IDisposable
 
 <details>
 <summary><code>nameof</code>&nbsp;<b>is good, but</b> <code>CallerMemberName</code>&nbsp;<b>may be better</b></summary>  
-The snippet above (benchmark `using`) must have decently clarified this. It's tempting to copy `nameof()` from another call and forget to alter.
-
+In the snippet above (benchmark `using`) one may remove [CallerMemberName], supply the `nameof()` of caller ... and reveal *copy-paste-forget_to_change*
 </details>
 
 <details>
 <summary><b>Name "magic" constants</b></summary>
   
-Making a "magic value" to constants or predefined values doesn't resolve the problem without a good name.   
+Making a "magic value" to constants or predefined values doesn't clean the code unless good named.   
   
 ```diff csharp
 -     legacySystem.ModuleD1.Abracadabra = true; // specifies that text input is treated case-sensitive
@@ -122,7 +124,7 @@ if (storehouse.FindMinPackage(goods).availableFrom < DateTime.Today.AddDays(3)) 
 ... 
 ```
 
-This shortcut can further cut initialization and streamline assignments:
+Further use is to streamline assignments:
 
 ```csharp
 // given a chess game log ...
@@ -139,7 +141,6 @@ Unrestricted tuples, named or not, will be great helpers for prototyping code co
 <details>
 <summary><b>Distinct default of enums</b></summary>
 
-  
 Reserve, when appropriate, _none_, _undefined_ or _unknown_ as zero-value to prevent unexpected default assignment and consequent bugs.
 ```csharp
 enum FundamentalStatesOfMatter
@@ -154,7 +155,5 @@ enum FundamentalStatesOfMatter
 
 </details>
 
-## Going further...
-+ [Cheatsheet](cs-cheatsheet.md)
-+ Technologies\
-| --- [Ideas from WPF praxis](../wpf/readme+/wpf-hints.md)
++ Further ...\
+| - [WPF hints](../wpf/readme+/wpf-hints.md)
