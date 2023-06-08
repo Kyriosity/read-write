@@ -1,15 +1,31 @@
+
 # Naming in software design
 
-The naming of libraries, packages (assemblies), classes, methods and even non-public _vars_ **must** be a challenge and involve the whole team<sup>:family:</sup> discussions. This expense will pay off with:
-
-+ collaboration, common comprehension of a domain that establishes a kind of *lingua franca* throughout the really being bound team
-+ seasoned design and self-descriptive code
+The naming of libraries, packages (assemblies), classes, methods and even non-public _vars_ **must** be a №1 challenge and involve the whole team<sup>:family:</sup> into discussions. This expense will pay off with *lingua franca* througout the team and project, and ...
+<details>
+  <summary>... derived benefits</summary>
+  
++ common comprehension of a domain, collaboration and indeed bound team
++ genuine design and self-descriptive code
 + inspiration for behavior/domain driven design
-+ escape from piles of requirements, specs, other papers that are hard to follow but easy to misunderstood, forget (but mostly neglected)
-+ reduced efforts to get into a project for a newcomer 
-+ comfy navigation within the source code (both by IDE's explorer and CTRL+F)
++ escape from heaps of reqs and specs - hard to follow but easy to misunderstood, forget (but mostly neglected)
++ reduced efforts to get into a project for newcomers
++ comfy navigation within the source code (both with IDE's explorer and CTRL+F)
+ 
+</details>
 
-Even top developers under time pressure and brakes on perfectionism will name logics classes as *services*, *helpers*, *utils*, *handlers* but would 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub>&nbsp;&nbsp;The team here there is'nt only developers but customers, testers, along with end users</sub>
+
+## Verbal sins
+
+Even top developers under time pressure and brakes on perfectionism will name logic classes as *services*, *helpers*, *utils*, *handlers* but would 
 be barely proud of that.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub>&nbsp;&nbsp;The team here means not only developers but customers, testers, along with end users</sub>
+General words, if not from domain, will sound vague if not bombastic. Compare `[Fact]` against modest `[TestCase]`. 
+
+### Guidelines for methods
+
+`Get` must be taboo within method names - either this must be property or better desription of the returned: `Read`, `Calculate` u.a.
+
+🚧 .. TO BE CONTINUED ... 🚧
