@@ -4,7 +4,8 @@ Advanced development in C# will ask for key decisions which are specific to or i
 
 |- [Downcasting impedance](readme+/cs_downcast-impedance.md)\
 |- [Modeling on tasks](readme+/cs-think_tasks.md)\
-|- Flexible item\
-|- Variant builders
+|- [Flexible item](readme+/cs-flex_item.md)\
+|- [Multifaceted value](readme+/cs-multifacet_val.md)\
+|- [Variant builders](readme+/cs-flex-item.md)
 
 :construction: ... UNDER CONSTRUCTION - COMING SOON or later ... :construction: 
