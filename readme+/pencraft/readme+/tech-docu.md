@@ -4,7 +4,7 @@
 
 ## Input
 
-Before writing from scratch evaluate amd adjust following sources for docu output:
+Before writing from scratch evaluate and adjust following sources for docu output:
 
 ### Similar material 
 
@@ -20,13 +20,12 @@ A tracking system may collect and generate documentation with a good degree of a
 
 ## Contribution to guidelines
 
-**Split the flow.** Long-running sentences and paragraphs are first-degree misdemeanours.
++ **Split the flow.** Long-running sentences and paragraphs are first-degree misdemeanours.
 
-Except citations use quotation marks for metaphors while _italic_ to introduce terms. Example:
-> To compare _Multitasking_ vs. _parallelism_ think computer as a "kitchen" where a quick cook or orderly brigade can prepare the same food.
++ Except citations use quotation marks for metaphors while _italic_ to introduce terms. Example:
+> To compare _multitasking_ vs. _parallelism_ imagine CPU to be a "kitchen" where a quick cook or orderly brigade can prepare the same food.
 
-
-**Last but not least**, do not only take advantage of automation (content management) and docu templating but contribute to it with each writing, taking more than a page.
++ **Last but not least**, do not only take advantage of automation (content management) and docu templating but contribute to it with each writing, longer than a page.
 
 ## Wrapping up: Resources
 
