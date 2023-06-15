@@ -1,4 +1,6 @@
 # Documentation of code
+<p dir=rtl>Chess speaks for itself<br><i>Hans Niemann, 2022</i></p>
+
 
 ## Comments
 
@@ -14,5 +16,5 @@ However comments are fully liable for:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>This statement is for renowned high-level declarative languages.</sub>
 
 **Further discussion**:\
-|- [Technical documentation](../../pencraft)
+|- [Technical writing](../../pencraft)
 
