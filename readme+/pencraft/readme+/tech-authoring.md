@@ -1,14 +1,23 @@
-# Authoring as technical writing
+# Techical authoring
+
+<div dir="rtl">Epistula non erubescit </div>
+<p dir="rtl";'><i>Marcus Tullius Cicero (106-43 BC)</i></p>
 
 <div dir="rtl">Write what you <s>want</s> know</div>
 <p dir="rtl";'><i>Mark Twain (1835-1910)</i></p>
+
+<div dir="rtl";'>There's no freak who wouldn't find a match and<br/>.there's no nonsense that wouldn't find a proper reader</div>
+<p dir="rtl";'><i>"Anton Chekhov(1860-1904), "Rules for novice writers</i></p>
 &nbsp;
-<p dir="rtl";'>There's no freak who wouldn't find a match and<br/>.there's no nonsense that wouldn't find a proper reader</p>
-<p dir="rtl";'><i>Anton Chekhov(1860-1904), "Rules for novice writers"</i></p>
-              
-Theré're projects, products and technologies, which deserve work of a pen or a brush. They must inspire readers to select those and are often decision making factors Nr&nbsp;1.
 
-Episcular work isn't compiled but is harder than software development. The worst code can be adjusted to do the task, while a writing can be either good or bad.
+There're projects, products and technologies, which deserve the work of pen or brush. Grade of such work may be decision factor Nr&nbsp;1 for usage: either attract or divert for good.
 
-The worst enimies of pencraft are formalism, wordiness, lack of feedback.
+_As&nbsp;is_ (aka WYSIWYG) of creative work won't produce compilation errors but is much harder than engineering. Everybody will notice poor style from the very first sight.
+
+The worst enimies of authorship are:
+
+- formalism / monotony,
+- wordiness / big volumes,
+- no critique / no interest.
+
 ...TO BE CONTINUED...
