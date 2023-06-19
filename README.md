@@ -7,7 +7,7 @@
 |--- [Model](readme+/dev/software-parts/app-model.md)\
 |--- [View](readme+/dev/software-parts/app-view.md)\
 |--- [Between view and model](readme+/dev/software-parts/app-view_model.md)\
-|--- [Frameworks](readme+/dev/software-parts/ext_modules.md)\
+|--- [External parts](readme+/dev/software-parts/ext_parts.md)\
 |- Coding\
 |--- [Quality](readme+/dev/praxis/code-quality.md)\
 |--- [Documentation](readme+/dev/praxis/code-docu.md)\
