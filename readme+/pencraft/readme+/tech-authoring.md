@@ -10,14 +10,14 @@
 <p dir="rtl";'><i>"Anton Chekhov(1860-1904), "Rules for novice writers</i></p>
 &nbsp;
 
-There're projects, products and technologies, which deserve the work of pen or brush. Grade of such work may be decision factor Nr&nbsp;1 for usage: either attract or divert for good.
+There're projects, products, and technologies, which deserve the work of pen or brush. Grade of such work may be decision factor Nr&nbsp;1 for usage: either attract or divert for good.
 
 _As&nbsp;is_ (aka WYSIWYG) of creative work won't produce compilation errors but is much harder than engineering. Everybody will notice poor style from the very first sight.
 
-The worst enimies of authorship are:
+The worst enemies of authorship are:
 
-- formalism / monotony,
-- wordiness / big volumes,
-- no critique / no interest.
+- formalism/monotony,
+- wordiness/big volumes,
+- no critique/indifference.
 
 ...TO BE CONTINUED...
