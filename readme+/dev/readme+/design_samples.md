@@ -1,8 +1,9 @@
 # Design - Samples
 
-The planning and presentation of software features oblige one with a pictorial background. We'll rely on the next samples more often than on others:\
-
-[Raster images](#raster-images)
+The planning and presentation of software features oblige one with a pictorial background. We'll rely often on next samples:\
+|- [Chess](#chess)\
+|- [Mathematics](#mathematics)\
+|- [Raster images](#raster-images)
 
 ## Chess
 
