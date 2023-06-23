@@ -4,15 +4,15 @@
 
 ## Input
 
-Before writing from scratch evaluate and adjust following sources for docu output:
+Before writing from scratch evaluate and adjust the following sources for docu output:
 
 ### Similar material 
 
-Previous version, description of similar product. It could be even other's _magnum opus_ which owner may legalize "plagiarism" just for refernce and thanks.
+Any previous version, description of a similar product. It could be even others' magnum opus_ which owner may legalize "plagiarism" just for reference and thanks.
 
 ### Requirements
 
-Writing and maintaing requirements is the concern of project management. Albeit there could be none in episcular form.
+Writing and maintaining requirements must concern project management. Albeit there could be none in epistolary form.
 
 ### Tracking, versioning systems
 
@@ -20,10 +20,10 @@ A tracking system may collect and generate documentation with a good degree of a
 
 ## Contribution to guidelines
 
-+ **Split the flow.** Long-running sentences and paragraphs are first-degree misdemeanours.
++ **Split the flow.** Long-running sentences and paragraphs are first-degree misdemeanors.
 
-+ Except citations use quotation marks for metaphors while _italic_ to introduce terms. Example:
-> To compare _multitasking_ vs. _parallelism_ imagine CPU to be a "kitchen" where a quick cook or orderly brigade can prepare the same food.
++ Except for citations use quotation marks for metaphors while _italic_ to introduce terms. Example:
+> To compare _multitasking_ vs. _parallelism_ imagine the CPU being a "kitchen" where a quick cook or orderly brigade can prepare the same food.
 
 + **Last but not least**, do not only take advantage of automation (content management) and docu templating but contribute to it with each writing, longer than a page.
 
