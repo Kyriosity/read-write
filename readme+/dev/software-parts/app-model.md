@@ -1,9 +1,9 @@
-# Application model - reminder
+# Application model - Reminder
 
-_Model_, though a rather obscure term, is a cornerstone of software engineering, which shapes and formalizes entities and tasks of application.\
-A model may rank from a dumbest `new Brick { W = 20, D = 12, H = 6,5 }` up to a universe of media franchise, from private proof of concept to enterprise solution, from bubble sort to 3D engine.
+The _Model_, though a rather obscure term, is a cornerstone of software engineering, which shapes and formalizes entities and tasks of the application.\
+A model may rank from the dumbest `new Brick { W = 20, D = 12, H = 6,5 }` up to a universe of media franchise, from private proof of concept to enterprise solution, bubble sort to 3D engine.
 
-## Insight of model data
+## Insight into model data
 
 First and foremost, _model_ is not identical to _data_, its vital but nevertheless optional part. A model may render pure functionality (e.g. input and output of hash calculation).
 
@@ -22,7 +22,7 @@ It can be:
 
 ### Model data and data storage
 
-Model is not data (there're could be model with no data at all, like math processor).
+The model is not data (there could be a model with no data at all, like a math processor).
 
 :construction: TO BE WRITTEN :construction:
 
@@ -33,7 +33,7 @@ The structure shall not imply programming language or be inspired by your langua
 
 ## Writing a model
 
-First and foremost, think in providers and interfaces. That is, any part of the model contacts other parts or sources from abstract providers, which easily may swap adjacent parts.
-The model shall be thread and async friendly, even if it's not required. 
+First and foremost, think about providers and interfaces. That is, any part of the model contacts other parts or sources from abstract providers, which easily may swap adjacent parts.
+The model shall be thread- and async-friendly, even if it's not required. 
 
 :construction: TO BE CONTINUED w/ EXAMPLES :construction:
