@@ -1,12 +1,12 @@
-<div dir="rtl">...&nbsp;<i>To learn means to swim against the current</i></div>
-<div dir="rtl"><i>and in IT you are in a waterfall</i>&nbsp;...</div>
+<div dir="rtl">...&nbsp;<i>If to learn means to swim against the current</i></div>
+<div dir="rtl"><i>.then IT must be a waterfall</i>&nbsp;...</div>
 
 - __Software__\
 |- [Architecture/design](readme+/dev/software-design.md)\
 |--- [Naming](readme+/dev/code-naming.md)\
 |--- [Patterns](readme+/dev/code-patterns.md)\
 |--- [Driven design](readme+/dev/tdd-ddd.md)\
-|- Partitioninig\
+|- Partitioning\
 |--- [Model](readme+/dev/software-parts/app-model.md)\
 |--- [View](readme+/dev/software-parts/app-view.md)\
 |--- [Between view and model](readme+/dev/software-parts/app-view_model.md)\
