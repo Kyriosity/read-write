@@ -1,3 +1,6 @@
+<div dir="rtl">...&nbsp;<i>To learn means to swim against the current</i></div>
+<div dir="rtl"><i>and in IT you are in a waterfall</i>&nbsp;...</div>
+
 - __Software__\
 |- [Architecture/design](readme+/dev/software-design.md)\
 |--- [Naming](readme+/dev/code-naming.md)\
