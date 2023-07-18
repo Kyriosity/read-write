@@ -52,3 +52,12 @@ Some people call this artificial intelligence, but the reality is this technolog
 
 \__________________________________________
 </details>
+
+## Intelligence
+
+Neither philosophy nor exact sciences formulate _intelligence_, and its genesis is a greater mystery. 
+How could one reproduce undefined?
+
+Visioners of both the bright and dismal future of AI readily assume its *self-awareness* as a matter of fact. To either brew in more and more complex code or get [short circuited](https://www.imdb.com/title/tt0091949) :cinema:.
+
+Enough for me to see AI as rather a buzzword than technology. IntelliSteampunk?
