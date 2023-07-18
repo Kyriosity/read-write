@@ -29,11 +29,17 @@ The goal of xAI is to understand the true nature of the universe.
 <summary><ins>&nbsp;Realistic and pragmatic&nbsp;</ins></summary>
 &nbsp;
 
-They were hard to find, not on the first page of the search output but ...
-* *Ginni Rometty*, CEO of IBM\
-Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.
+Rare find, not on the first page of the search output but ...
 
+* *Ginni Rometty*, CEO of IBM\
+Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.\
 <sup>✋</sup>&nbsp;<sub>Note the keyword *augment* which can apply to abacus, paper thesaurus, or supercomputers in the same context.</sub>
+
+* _Christopher Nolan_, filmmaker, questioned about AI in 2023:\
+... the real world is, by definition, infinitely complex. ... And so, any digital simulation or technology that simulates, eventually, it always hits a particular limitation.
+
+* _Michael Atleson_, Attorney, Federal Trade Commission Division, 27/Feb/2023:\
+Keep your AI claims in check.
 
 \__________________________________________
 </details>
@@ -42,10 +48,11 @@ Some people call this artificial intelligence, but the reality is this technolog
 <summary><ins>&nbsp;Philistine and unimaginative (as of mine)&nbsp;</ins></summary>
 &nbsp;
 
-**Faust Lab**
+**Faust Lab, ~1700s**
 
+![Faust vs. homunculus, engraving](../_rsc/_img/Homunculus.engraving.wiki.jpg)
 
-**AI Lab**
+**AI Lab, 2020s**
 
 
 *&nbsp;<sub>Images are for illustrative purposes only and belong to the wiki and IMLO</sub>
