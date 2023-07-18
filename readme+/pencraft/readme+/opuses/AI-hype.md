@@ -48,12 +48,13 @@ Keep your AI claims in check.
 <summary><ins>&nbsp;Philistine and unimaginative (as of mine)&nbsp;</ins></summary>
 &nbsp;
 
-**Faust Lab, ~1700s**
+* **AI Lab, ~1700s** (yes, AI)
 
 ![Faust vs. homunculus, engraving](../_rsc/_img/Homunculus.engraving.wiki.jpg)
 
-**AI Lab, 2020s**
+* **Faust Lab, 2020s**
 
+![Illustration of IT and AI](../_rsc/_img/ComputerScience-Intro(learncomputerscienceonline.com).jpg)
 
 *&nbsp;<sub>Images are for illustrative purposes only and belong to the wiki and IMLO</sub>
 
