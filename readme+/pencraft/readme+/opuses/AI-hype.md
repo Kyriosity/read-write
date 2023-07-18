@@ -38,7 +38,7 @@ Some people call this artificial intelligence, but the reality is this technolog
 * _Christopher Nolan_, filmmaker, questioned about AI in 2023:\
 ... the real world is, by definition, infinitely complex. ... And so, any digital simulation or technology that simulates, eventually, it always hits a particular limitation.
 
-* _Michael Atleson_, Attorney, Federal Trade Commission Division, 27/Feb/2023:\
+* _Michael Atleson_, Attorney, Federal Trade Commission, 27/Feb/2023:\
 Keep your AI claims in check.
 
 \__________________________________________
@@ -48,11 +48,11 @@ Keep your AI claims in check.
 <summary><ins>&nbsp;Philistine and unimaginative (as of mine)&nbsp;</ins></summary>
 &nbsp;
 
-* **AI Lab, ~1700s** (yes, AI)
+* **AI Lab, ~1500s** (yes, AI)
 
 ![Faust vs. homunculus, engraving](../_rsc/_img/Homunculus.engraving.wiki.jpg)
 
-* **Faust Lab, 2020s**
+* **Homunculus Development, 2020s**
 
 ![Illustration of IT and AI](../_rsc/_img/ComputerScience-Intro(learncomputerscienceonline.com).jpg)
 
@@ -66,6 +66,14 @@ Keep your AI claims in check.
 Neither philosophy nor exact sciences formulate _intelligence_, and its genesis is a greater mystery. 
 How could one reproduce undefined?
 
-Visioners of both the bright and dismal future of AI readily assume its *self-awareness* as a matter of fact. To either brew in more and more complex code or get [short circuited](https://www.imdb.com/title/tt0091949) :cinema:.
+Visioners of both the bright and dismal future of AI readily assume its *self-awareness* as a matter of fact. To either brew in more and more complex code or get [short circuited](https://www.imdb.com/title/tt0091949)&nbsp;<sup>:cinema:</sup>.
 
 Enough for me to see AI as rather a buzzword than technology. IntelliSteampunk?
+
+## Appendix. History of AI hype
+
+Grunting "again" in the very beginning obliges me to adlib a quick survey of AI tides.
+
+... TO BE CONTINUED ...
+
+<p dir="rtl"><i>Germany, July 2023</i></p>
