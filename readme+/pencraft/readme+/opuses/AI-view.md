@@ -1,9 +1,9 @@
-# Arteficial Intelligence - Much ado about ... marketing?
+# Arteficial Intelligence - Much ado about ... fussing?
 
 Artificial Intelligence is a hot theme in 2023, again<sup>😾</sup>. 
 You can't dodge - in my city "AI" and "ChatGPT" saturate the program of the summer digital festival (every other lecture names them).
 
-Its pace must be that giant that some scientists, prominent software engineers, and tech leads [search for a break pedal](https://futureoflife.org/open-letter/pause-giant-ai-experiments/). Besides scaring and common other actual visions divide into:
+Its pace must be that giant that some scientists, prominent software engineers, and tech leads [search for a break pedal](https://futureoflife.org/open-letter/pause-giant-ai-experiments/). Besides scaring and common other up-to-date visions divide into:
 
 <details>
 <summary><ins>&nbsp;Impressive and inspiring&nbsp;</ins></summary>
@@ -27,11 +27,11 @@ Its pace must be that giant that some scientists, prominent software engineers, 
 <summary><ins>&nbsp;Realistic and pragmatic&nbsp;</ins></summary>
 &nbsp;
 
-Rare find, not on the first page of the search output but ...
+I had to filtrate candidates for the list above while the quotes below were not on the first page of the search output ...
 
 * *Ginni Rometty*, CEO of IBM\
 "Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence."\
-<sup>✋</sup>&nbsp;<sub>Note the keyword *augment*, which can apply to the abacus, paper thesaurus, or supercomputers in the same context.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>✋</sup>&nbsp;<sub>Notice the word *augment*, which can apply to the abacus, paper thesaurus, or supercomputers in the same context.</sub>
 
 * _Christopher Nolan_, filmmaker, questioned about AI in a 2023 interview:\
 "... the real world is, by definition, infinitely complex. ... And so, any digital simulation or technology that simulates, eventually, it always hits a particular limitation."
@@ -115,7 +115,7 @@ You can think up a _CAPTCHA_, which a motivated fellow will promptly pass but AI
 
 Grunting "again"<sup>😾</sup> obliges me to recall AI Tides, impromptu and without wiki. I'd skip old fiction and the times when man humanized mechanical breakthroughs, and resume on the digital era.
 
-The **1950s** were crucial for IT - a rack of metals, glass, and vacuum could replace hives of handmade calculations, and scientists elaborated HMIs with high-level languages. 
+The **1950s** were crucial for IT - an energized rack of metals, glass, and vacuum could replace hives of handmade calculations, and scientists elaborated HMIs with high-level languages. 
 
 The leap in both hardware and software could surpass sci-fi fantasies. And there were two letters (not AI) that made folks think that processors will soon be peers of human minds.
 
@@ -129,9 +129,9 @@ The leap in both hardware and software could surpass sci-fi fantasies. And there
 \__________________________________________ 
 </details>
 
-In the **1970s** computers gradually spread from science calculations to business assistance, and robotics rendered funny androids. In the game of chess, with its intellectual aura, computers could give winning hints that grandmasters couldn't discern and had attributed to their opponents.
+In the **1970s** computers gradually spread from science calculations to business assistance, and robotics rendered funny androids. In the game of chess, with its intellectual aura, computers could give winning hints that grandmasters couldn't discern and had attributed to the minds of their opponents.
 
-In the late **1980s** - early **1990s** PCs became a mass factor at work and home. Thousands of enthusiasts and top-level, which one could hire for symbolic rates, tried to reanimate AI, giving a start kick to pseudo-sciences like _the theory of inventive problem-solving_.
+In the late **1980s** - early **1990s** PCs became a mass factor at work and home. New thousands of enthusiasts. admired by the power of programming, and top-level, which one could hire for symbolic rates, tried to reanimate AI, giving a start kick to pseudo-sciences like _the theory of inventive problem-solving_.
 
 And here we are in **2023**, when "_there will be no (human) programmers in five years_" (*Emad Mostaque*, CEO of Stability AI).
 
