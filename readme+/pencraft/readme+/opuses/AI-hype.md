@@ -50,7 +50,7 @@ Rare find, not on the first page of the search output but ...
 
 ![Faust vs. homunculus, engraving](../_rsc/_img/Homunculus.engraving.wiki.jpg)
 
-* **Homunculus Development, 2020s**
+* **Alchemy workshop, 2020s**
 
 ![Illustration of IT and AI](../_rsc/_img/ComputerScience-Intro(learncomputerscienceonline.com).jpg)
 
@@ -64,9 +64,9 @@ Rare find, not on the first page of the search output but ...
 Neither philosophy nor exact sciences formulate _intelligence_, and its genesis is a greater mystery. 
 What methodology or algorithm could reproduce undefined?
 
-Visioners of both the bright and dismal future of AI readily assume its *self-awareness* as a trivial matter of time. To either brew in more and more complex code or get [short circuited](https://www.imdb.com/title/tt0091949)&nbsp;<sup>:cinema:</sup>.
+Visioners of both the bright and dismal future of AI readily assume its *self-knowledge/awareness* as a trivial matter of time. To either brew in more and more complex code or get [short circuited](https://www.imdb.com/title/tt0091949)&nbsp;<sup>:cinema:</sup>.
 
-Digital effectively automates much of cogitative ops, but not unformalizable that makes great mathematicians and physicians: abstraction, criticism, motivation.
+Digital effectively automates much of cogitative ops, but not unformalizable processes which can make mathematicians and physicians great: abstraction, criticism, and motivation. And the latter bring definite results, as theories and their proofs.
 
 Would this be enough to look at *AI* as a buzzword rather than technology? Or IntelliSteampunk vs. AI dystopia.
 
@@ -121,7 +121,8 @@ The leap in both hardware and software could surpass sci-fi fantasies. And there
 
 <details>
 <summary><ins>&nbsp;These two letters, if you are intrigued, were ...&nbsp;</ins></summary>
-
+&nbsp;
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**IF** -- This statement in high-level languages introduced the feeling of human doubt and decision-making.
 
 
@@ -130,8 +131,8 @@ The leap in both hardware and software could surpass sci-fi fantasies. And there
 
 In the **1970s** computers gradually spread from science calculations to business assistance, and robotics rendered funny androids. In the game of chess, with its intellectual aura, computers could give winning hints that grandmasters couldn't discern and had attributed to their opponents.
 
-In the late **1980s** - early **1990s** PCs became a mass factor at work and home. Thousands of enthusiasts and top-level, which one could hire for symbolic rates, tried to reanimate AI, giving a start impulse pseudo-sciences like _the theory of inventive problem-solving_.
+In the late **1980s** - early **1990s** PCs became a mass factor at work and home. Thousands of enthusiasts and top-level, which one could hire for symbolic rates, tried to reanimate AI, giving a start kick to pseudo-sciences like _the theory of inventive problem-solving_.
 
-And here we are in **2023**, when "there will be no (human) programmers in five years" (*Emad Mostaque*, CEO of Stability AI).
+And here we are in **2023**, when "_there will be no (human) programmers in five years_" (*Emad Mostaque*, CEO of Stability AI).
 
 
