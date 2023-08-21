@@ -17,6 +17,8 @@ Its pace must be that giant that some scientists, prominent software engineers, 
 "Generative AI’s impact on productivity could add trillions of dollars [annually]..."
 * *Ray Kurzweil*, inventor and futurist:\
 "By 2029, computers will have emotional intelligence and be convincing as people."
+* _Giles Pendleton,_ executive director of NEOM ($500 billion project):\
+"The linear city will be “assembled” using artificial intelligence."
 * [and how without him] *Elon Musk*, xAI startup founder:\
 "The goal of xAI is to understand the true nature of the universe."
 
@@ -27,7 +29,7 @@ Its pace must be that giant that some scientists, prominent software engineers, 
 <summary><ins>&nbsp;Realistic and pragmatic&nbsp;</ins></summary>
 &nbsp;
 
-I had to filtrate candidates for the list above while the quotes below were not on the first page of the search output ...
+They were not as easy to find as the quotes above ...
 
 * *Ginni Rometty*, CEO of IBM\
 "Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence."\
@@ -62,11 +64,11 @@ I had to filtrate candidates for the list above while the quotes below were not 
 ## Intelligence
 
 Neither philosophy nor exact sciences formulate _intelligence_, and its genesis is a greater mystery. 
-What methodology or algorithm could reproduce undefined?
+Digitalization needs clear definitions - and there are none.
 
 Visioners of both the bright and dismal future of AI readily assume its *self-knowledge/awareness* as a trivial matter of time. To either brew in more and more complex code or get [short circuited](https://www.imdb.com/title/tt0091949)&nbsp;<sup>:cinema:</sup>.
 
-Digital effectively automates much of cogitative ops, but not unformalizable processes which can make mathematicians and physicians great: abstraction, criticism, and motivation. And the latter bring definite results, as theories and their proofs.
+Digital effectively automates much of cogitative ops, but not unformalizable processes which can make a mathematician or physician great: abstraction, criticism, and motivation. And the latter bring definite results, as theories and their proofs.
 
 Would this be enough to look at *AI* as a buzzword rather than technology? Or IntelliSteampunk vs. AI dystopia.
 
@@ -77,7 +79,7 @@ Would this be enough to look at *AI* as a buzzword rather than technology? Or In
 &nbsp;
   
 + processing vast amounts of data in real-time, finding patterns there,
-+ translation,
++ translation and text generation,
 + text/image/video generation,
 + recognition of all kinds with on-the-fly processing (video),
 + assisted mathematical proofs (impossible without computers),
