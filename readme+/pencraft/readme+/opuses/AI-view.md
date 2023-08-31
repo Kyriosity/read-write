@@ -137,7 +137,7 @@ The leap in both hardware and software could surpass sci-fi fantasies. And there
 
 ### 1970s
 
-Computers gradually spread from science calculations to business assistance, and robotics rendered funny androids. In chess, with its intellectual aura, computers could give winning hints that grandmasters couldn't discern and had attributed to the progress of their inferior opponents.
+Computers gradually spread from science calculations to business assistance, and robotics rendered funny androids. In chess, with its intellectual aura, computer programs could give winning hints that grandmasters couldn't discern and had attributed to the abrupt progress of their inferior opponents.
 
 ### Late 1980s -early 1990s
 
