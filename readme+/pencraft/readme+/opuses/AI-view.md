@@ -3,7 +3,7 @@
 Artificial Intelligence is a hot theme in 2023, again<sup>😾</sup>. 
 You can't dodge - in my city "AI" and "ChatGPT" saturate the program of the summer digital festival (every other lecture names them).
 
-Its pace must be that giant that some scientists, prominent software engineers, and tech leads [search for a break pedal](https://futureoflife.org/open-letter/pause-giant-ai-experiments/). Besides scaring and common other up-to-date visions divide into:
+Its pace must be that giant that some scientists, prominent software engineers, and tech leads [search for an emergency break](https://futureoflife.org/open-letter/pause-giant-ai-experiments/). Other up-to-date visions (besides too common) can be grouped by:
 
 <details>
 <summary><ins>&nbsp;Impressive and inspiring&nbsp;</ins></summary>
@@ -63,14 +63,15 @@ They were not as easy to find as the quotes above ...
 
 ## Intelligence
 
-Neither philosophy nor exact sciences formulate _intelligence_, and its genesis is a greater mystery. 
+Neither philosophy nor exact sciences formulate _intelligence_, and its genesis is a bigger mystery. 
 Digitalization needs clear definitions - and there are none.
 
-Visioners of both the bright and dismal future of AI readily assume its *self-knowledge/awareness* as a trivial matter of time. To either brew in more and more complex code or get [short circuited](https://www.imdb.com/title/tt0091949)&nbsp;<sup>:cinema:</sup>.
+Visioners of both the bright and dismal future of AI readily assume its *self-knowledge/awareness* as a trivial matter of time. 
+To either brew in more and more complex code or get all of a sudden [short circuited](https://www.imdb.com/title/tt0091949)&nbsp;<sup>:cinema:</sup>.
 
-Digital effectively automates much of cogitative ops, but not unformalizable processes which can make a mathematician or physician great: abstraction, criticism, and motivation. And the latter bring definite results, as theories and their proofs.
+Digital tech effectively automates much of hard cogitative ops, but not unformalizable processes which can make a mathematician or physician great: abstraction, criticism, and motivation. And the latter bring tangible results, as theories and their proofs.
 
-Would this be enough to look at *AI* as a buzzword rather than technology? Or IntelliSteampunk vs. AI dystopia.
+This could be enough to look at *AI* as a buzzword rather than technology, or IntelliSteampunk vs. AI dystopia.
 
 ## Materiality
 
@@ -80,9 +81,9 @@ Would this be enough to look at *AI* as a buzzword rather than technology? Or In
   
 + processing vast amounts of data in real-time, finding patterns there,
 + translation and text generation,
-+ text/image/video generation,
-+ recognition of all kinds with on-the-fly processing (video),
-+ assisted mathematical proofs (impossible without computers),
++ image/video on-the-fly filtering,
++ fast recognition of all kinds,
++ assisted mathematical proofs (impossible earlier without required computing powers),
 + tutoring (as coding assistance)
 + engines that can smash humans in intellectual sports (Stockfish in chess)
 
@@ -94,10 +95,11 @@ Would this be enough to look at *AI* as a buzzword rather than technology? Or In
 &nbsp;
 
 - **First and foremost**, pass so-called _Turing_ test\
-You can think up a _CAPTCHA_, which a motivated fellow will promptly pass but AI may only exhaust.
-- Select and prove any unsolved mathematical problem with all computing power in the world\
-(Humans can do, as _Grigori Perelman_ with one of the seven _Millenium Problems_.)
+You can think up a _CAPTCHA_, which a motivated fellow will promptly pass but "AI" may only exhaust.
+- Pick and prove any unsolved mathematical problem with all computing power in the world<sup>:scientist:</sup>
 - Write the strongest chess engine
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:scientist:</sup>&nbsp;<sub>Humans can do, as _Grigori Perelman_ with one of the seven _Millenium Problems_.</sub>
 
 \__________________________________________ 
 </details>
@@ -117,12 +119,14 @@ You can think up a _CAPTCHA_, which a motivated fellow will promptly pass but AI
 
 Grunting "again"<sup>😾</sup> obliges me to recall AI Tides, impromptu and without wiki. I'd skip old fiction and the times when man humanized mechanical breakthroughs, and resume on the digital era.
 
-The **1950s** were crucial for IT - an energized rack of metals, glass, and vacuum could replace hives of handmade calculations, and scientists elaborated HMIs with high-level languages. 
+### 1950s
 
-The leap in both hardware and software could surpass sci-fi fantasies. And there were two letters (not AI) that made folks think that processors will soon be peers of human minds.
+These years were crucial for IT - as an energized rack of metals, glass, and vacuum could replace hives of handmade calculations, and scientists elaborated HMIs with high-level languages. 
+
+The leap in both hardware and software could surpass sci-fi fantasies. And there were two letters (not "AI") that made folks think that processors will soon be peers of human minds.
 
 <details>
-<summary><ins>&nbsp;These two letters, if you are intrigued, were ...&nbsp;</ins></summary>
+<summary><ins>&nbsp;These two letters were ...&nbsp;</ins></summary>
 &nbsp;
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**IF** -- This statement in high-level languages introduced the feeling of human doubt and decision-making.
@@ -131,10 +135,15 @@ The leap in both hardware and software could surpass sci-fi fantasies. And there
 \__________________________________________ 
 </details>
 
-In the **1970s** computers gradually spread from science calculations to business assistance, and robotics rendered funny androids. In the game of chess, with its intellectual aura, computers could give winning hints that grandmasters couldn't discern and had attributed to the minds of their opponents.
+### 1970s
 
-In the late **1980s** - early **1990s** PCs became a mass factor at work and home. New thousands of enthusiasts. admired by the power of programming, and top-level, which one could hire for symbolic rates, tried to reanimate AI, giving a start kick to pseudo-sciences like _the theory of inventive problem-solving_.
+Computers gradually spread from science calculations to business assistance, and robotics rendered funny androids. In chess, with its intellectual aura, computers could give winning hints that grandmasters couldn't discern and had attributed to the brains of their opponents.
+
+### Late 1980s -early 1990s
+
+PCs have become a mass factor at work and home. Thousands of enthusiasts, fascinated by the power and ease of programming, along with top-level engineers, which one could hire then for symbolic rates, tried to reanimate AI, giving a start kick to pseudo-sciences like _the theory of inventive problem-solving_.
 
 And here we are in **2023**, when "_there will be no (human) programmers in five years_" (*Emad Mostaque*, CEO of Stability AI).
 
+... ⌛ TO BE RECAPPED AFTER FIVE YEARS :microscope:...
 
