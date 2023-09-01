@@ -41,7 +41,7 @@ if (!PauseOver(out var remaining))
 
  ```csharp
  // to point that return value isn't required or a method/constructor is called for side-effect only
- _ = myShoppingCart.Pay(); // habitually i don't care for receipt returned 
+ _ = myShoppingCart.Pay(); // habitually I don't care for the receipt returned 
  _ = new ResourceBlocker(filename); // stub objects (e.g. to invoke and prove constructor logic only) 
 ```
   
@@ -80,7 +80,17 @@ Making a "magic value" to constants or predefined values doesn't clean the code 
 ```
 </details>
 
-&nbsp;
+<details>
+<summary><ins>Interpolate to cut</ins>&nbsp;<code>ToString</code></summary>
+
+```diff csharp
+-    throw new ArgumentException(state.ToString());
+// shorter and the message can be easily decorated with text
++    throw new ArgumentException($"{state}")); 
+```
+
+</details>
+
 ## Gimmicks
 
 <details>
@@ -107,13 +117,12 @@ class Benchmark : IDisposable
 ```
 </details>
 
-&nbsp;
 ## Organization of entities
 
 <details>
 <summary><ins>Named tuples as design shortcuts</ins></summary>
 
-Piles of interfaces, classes, and structs for every single trifle may obscure the contours of OOD. Then _named tuples_ are a sound compromise, when limited to sparse occasions.
+Piles of interfaces, classes, and structs for every single trifle may obscure the contours of OOD. Then _named tuples_ is a sound compromise, when limited to sparse occasions.
 
 ```csharp
 ...
