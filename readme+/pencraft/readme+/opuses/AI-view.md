@@ -69,7 +69,7 @@ Digitalization needs clear definitions - and there are none.
 Visioners of both the bright and dismal future of AI readily assume its *self-knowledge/awareness* as a trivial matter of time. 
 To either brew in more and more complex code or get all of a sudden [short circuited](https://www.imdb.com/title/tt0091949)&nbsp;<sup>:cinema:</sup>.
 
-Digital tech effectively automates much of hard cogitative ops, but not unformalizable processes which can make a mathematician or physician great: abstraction, criticism, and motivation. And the latter bring tangible results, as theories and their proofs.
+Digital tech effectively automates much of hard cogitative ops, but not unformalizable processes that can make a mathematician or physician great: abstraction, criticism, and motivation. And the latter bring tangible results, as theories and their proofs.
 
 This could be enough to look at *AI* as a buzzword rather than technology, or IntelliSteampunk vs. AI dystopia.
 
@@ -117,11 +117,11 @@ You can think up a _CAPTCHA_, which a motivated fellow will promptly pass but "A
 
 ## Appendix. History of AI hype
 
-Grunting "again"<sup>😾</sup> obliges me to recall AI Tides, impromptu and without wiki. I'd skip old fiction and the times when man humanized mechanical breakthroughs, and resume on the digital era.
+Grunting "again"<sup>😾</sup> obliges me to recall a few AI tides, impromptu and without wiki. I'd skip old fiction and the times when man humanized mechanical breakthroughs, and resume on the digital era.
 
 ### 1950s
 
-Сrucial IT decade - as an energized rack of metals, glass, and vacuum could replace hives of handmade calculations, and scientists elaborated HMIs with high-level languages. 
+The crucial IT decade ever - an energized rack of metals, glass, and vacuum could replace hives of handmade calculations, and scientists elaborated HMIs with high-level languages. 
 
 The leap in both hardware and software could surpass sci-fi fantasies. And there were two letters (not "AI") that made folks think that processors will soon be peers of human minds.
 
@@ -139,9 +139,9 @@ The leap in both hardware and software could surpass sci-fi fantasies. And there
 
 Computers gradually spread from science calculations to business assistance, and robotics rendered funny androids. In chess, with its intellectual aura, computer programs could give winning hints that grandmasters couldn't discern and had attributed to the abrupt progress of their inferior opponents.
 
-### Late 1980s -early 1990s
+### Late 1980s - early 1990s
 
-PCs have become a mass factor at work and home. Thousands of enthusiasts, fascinated by the power and ease of programming, along with top-level engineers, which one could hire then for symbolic rates, tried to reanimate AI, giving a start kick to pseudo-sciences like _the theory of inventive problem-solving_.
+PCs have become a mass factor at work and home. Thousands of enthusiasts, fascinated by the power and ease of programming, along with top-level engineers, which one could hire then for symbolic rates, tried to reanimate AI. A side-effect of that kick discovered pseudo-sciences like _the theory of inventive problem-solving_.
 
 And here we are in **2023**, when "_there will be no (human) programmers in five years_" (*Emad Mostaque*, CEO of Stability AI).
 
