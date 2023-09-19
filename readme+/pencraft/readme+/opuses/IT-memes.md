@@ -1,8 +1,8 @@
 # IT memes, personal selection of reasonable
 
-Here I'd like to store IT memes found over time and over the net. They look both funny and reasonable after years.
+Here I'd like to store IT memes found over time and over the net. They look both funny and reasonable after years (at least for me).
 
-> NOTE: collected images and texts are of respected parties, which origin couldn't always be traced to the owner.
+> NOTE: collected images and texts are of respected parties, whose origin couldn't always be traced to the owner.
 
 <details>
 <summary><ins>&nbsp;<b>Fair random</b>&nbsp;</ins></summary>
