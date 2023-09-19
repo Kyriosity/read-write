@@ -1,9 +1,9 @@
-# Arteficial Intelligence - Much ado about ... fussing?
+# Arteficial Intelligence - Much ado  ... fussing?
 
 Artificial Intelligence is a hot theme in 2023, again<sup>😾</sup>. 
-You can't dodge - in my city "AI" and "ChatGPT" saturate the program of the summer digital festival (every other lecture names them).
+Don't try to dodge - in my city "AI" and "ChatGPT" saturate the program of the summer digital festival (every other lecture names them).
 
-Its pace must be that giant that some scientists, prominent software engineers, and tech leads [search for an emergency break](https://futureoflife.org/open-letter/pause-giant-ai-experiments/). Other up-to-date visions (besides too common) can be grouped by:
+Its pace must be so gigantic that some scientists, prominent software engineers, and tech leads [search for an emergency break](https://futureoflife.org/open-letter/pause-giant-ai-experiments/). Other up-to-date visions (besides too common) can be grouped by:
 
 <details>
 <summary><ins>&nbsp;Impressive and inspiring&nbsp;</ins></summary>
@@ -64,12 +64,14 @@ They were not as easy to find as the quotes above ...
 ## Intelligence
 
 Neither philosophy nor exact sciences formulate _intelligence_, and its genesis is a bigger mystery. 
-Digitalization needs clear definitions - and there are none.
+Digitalization speaks in clear definitions - and there are none.
 
 Visioners of both the bright and dismal future of AI readily assume its *self-knowledge/awareness* as a trivial matter of time. 
-To either brew in more and more complex code or get all of a sudden [short circuited](https://www.imdb.com/title/tt0091949)&nbsp;<sup>:cinema:</sup>.
+To either brew by itself in more and more complex code or get all of a sudden [short circuited](https://www.imdb.com/title/tt0091949)<sup>:cinema:</sup>.
 
-Digital tech effectively automates much of hard cogitative ops, but not unformalizable processes that can make a mathematician or physician great: abstraction, criticism, and motivation. And the latter bring tangible results, as theories and their proofs.
+Digital tech effectively and reliably automates much of hard cogitative ops (where humans are prone to errors), but not unformalizable processes (abstraction, criticism, motivation) that may result in great breakthroughs in exact sciences.<sup>:art:</sup>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:art:</sup> <sub>In non-exact studies and art too, but it's not that evident.</sub>
 
 This could be enough to look at *AI* as a buzzword rather than technology, or IntelliSteampunk vs. AI dystopia.
 
@@ -114,6 +116,7 @@ You can think up a _CAPTCHA_, which a motivated fellow will promptly pass but "A
 
 \__________________________________________ 
 </details>
+&nbsp;
 
 ## Appendix. History of AI hype
 
@@ -145,5 +148,5 @@ PCs have become a mass factor at work and home. Thousands of enthusiasts, fascin
 
 And here we are in **2023**, when "_there will be no (human) programmers in five years_" (*Emad Mostaque*, CEO of Stability AI).
 
-... ⌛ TO BE RECAPPED AFTER FIVE YEARS :microscope:...
+... ⌛ LET'S RECAP AFTER FIVE YEARS :microscope:...
 
