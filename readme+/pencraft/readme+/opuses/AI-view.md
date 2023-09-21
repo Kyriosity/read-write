@@ -1,4 +1,4 @@
-# Arteficial Intelligence - Much ado  ... fussing?
+# Arteficial Intelligence - Much ado about  ... fussing?
 
 Artificial Intelligence is a hot theme in 2023, again<sup>😾</sup>. 
 Don't try to dodge - in my city "AI" and "ChatGPT" saturate the program of the summer digital festival (every other lecture names them).
@@ -29,7 +29,7 @@ Its pace must be so gigantic that some scientists, prominent software engineers,
 <summary><ins>&nbsp;Realistic and pragmatic&nbsp;</ins></summary>
 &nbsp;
 
-They were not as easy to find as the quotes above ...
+These required much more search than the quotes above ...
 
 * *Ginni Rometty*, CEO of IBM\
 "Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence."\
@@ -63,17 +63,15 @@ They were not as easy to find as the quotes above ...
 
 ## Intelligence
 
-Neither philosophy nor exact sciences formulate _intelligence_, and its genesis is a bigger mystery. 
+Neither philosophy nor exact sciences nor neurobiology can formulate _intelligence_, and its genesis (both individual and on the whole) is a bigger mystery. 
 Digitalization speaks in clear definitions - and there are none.
 
-Visioners of both the bright and dismal future of AI readily assume its *self-knowledge/awareness* as a trivial matter of time. 
-To either brew by itself in more and more complex code or get all of a sudden [short circuited](https://www.imdb.com/title/tt0091949)<sup>:cinema:</sup>.
+Adepts of both the bright and dismal AI future readily assume its *self-knowledge/awareness* as a trivial matter of time. 
+To either brew by itself in increasingly complex code bouillon or get all of a sudden [short circuited](https://www.imdb.com/title/tt0091949)<sup>:cinema:</sup>.
 
 Digital tech effectively and reliably automates much of hard cogitative ops (where humans are prone to errors), but not unformalizable processes (abstraction, criticism, motivation) that may result in great breakthroughs in exact sciences.<sup>:art:</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:art:</sup> <sub>In non-exact studies and art too, but it's not that evident.</sub>
-
-This could be enough to look at *AI* as a buzzword rather than technology, or IntelliSteampunk vs. AI dystopia.
 
 ## Materiality
 
@@ -82,11 +80,11 @@ This could be enough to look at *AI* as a buzzword rather than technology, or In
 &nbsp;
   
 + processing vast amounts of data in real-time, finding patterns there,
-+ translation and text generation,
++ routine translation and text generation,
 + image/video on-the-fly filtering,
 + fast recognition of all kinds,
 + assisted mathematical proofs (impossible earlier without required computing powers),
-+ tutoring (as coding assistance)
++ tutoring (as coding assistance),
 + engines that can smash humans in intellectual sports (Stockfish in chess)
 
 \__________________________________________ 
@@ -99,7 +97,7 @@ This could be enough to look at *AI* as a buzzword rather than technology, or In
 - **First and foremost**, pass so-called _Turing_ test\
 You can think up a _CAPTCHA_, which a motivated fellow will promptly pass but "AI" may only exhaust.
 - Pick and prove any unsolved mathematical problem with all computing power in the world<sup>:scientist:</sup>
-- Write the strongest chess engine
+- Write a stronger chess engine
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:scientist:</sup>&nbsp;<sub>Humans can do, as _Grigori Perelman_ with one of the seven _Millenium Problems_.</sub>
 
@@ -116,17 +114,20 @@ You can think up a _CAPTCHA_, which a motivated fellow will promptly pass but "A
 
 \__________________________________________ 
 </details>
-&nbsp;
 
-## Appendix. History of AI hype
+## Conclusion
+
+Some would regard *AI* as a buzzword rather than technology, or IntelliSteampunk vs. AI dystopia.
+
+## Appendix. AI booms before
 
 Grunting "again"<sup>😾</sup> obliges me to recall a few AI tides, impromptu and without wiki. I'd skip old fiction and the times when man humanized mechanical breakthroughs, and resume on the digital era.
 
 ### 1950s
 
-The crucial IT decade ever - an energized rack of metals, glass, and vacuum could replace hives of handmade calculations, and scientists elaborated HMIs with high-level languages. 
+The crucial IT decade ever - an energized rack of metals, glass, and vacuum could replace hives of handmade calculations, and scientists elaborated impressive HMIs with high-level languages. 
 
-The leap in both hardware and software could surpass sci-fi fantasies. And there were two letters (not "AI") that made folks think that processors will soon be peers of human minds.
+The leap in both hardware and software could surpass sci-fi fantasies. And there were two letters (not "AI") that made folks think that processors will soon be peers of human brains.
 
 <details>
 <summary><ins>&nbsp;These two letters were ...&nbsp;</ins></summary>
