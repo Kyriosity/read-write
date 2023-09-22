@@ -69,9 +69,9 @@ Digitalization speaks in clear definitions - and there are none.
 Adepts of both the bright and dismal AI future readily assume its *self-knowledge/awareness* as a trivial matter of time. 
 To either brew by itself in increasingly complex code bouillon or get all of a sudden [short circuited](https://www.imdb.com/title/tt0091949)<sup>:cinema:</sup>.
 
-Digital tech effectively and reliably automates much of hard cogitative ops (where humans are prone to errors), but not unformalizable processes (abstraction, criticism, motivation) that may result in great breakthroughs in exact sciences.<sup>:art:</sup>
+Digital tech effectively and reliably automates much of hard cogitative ops (where humans are prone to errors), but not unformalizable processes - abstraction, (self-)criticism, motivation - that may result in great breakthroughs in exact sciences.<sup>:art:</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:art:</sup> <sub>In non-exact studies and art too, but it's not that evident.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:art:</sup> <sub>In non-exact studies and art too, but it's not that evident and requires a separate paper.</sub>
 
 ## Materiality
 
@@ -97,7 +97,7 @@ Digital tech effectively and reliably automates much of hard cogitative ops (whe
 - **First and foremost**, pass so-called _Turing_ test\
 You can think up a _CAPTCHA_, which a motivated fellow will promptly pass but "AI" may only exhaust.
 - Pick and prove any unsolved mathematical problem with all computing power in the world<sup>:scientist:</sup>
-- Write a stronger chess engine
+- Write a stronger chess engine than of hominid.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:scientist:</sup>&nbsp;<sub>Humans can do, as _Grigori Perelman_ with one of the seven _Millenium Problems_.</sub>
 
@@ -119,9 +119,11 @@ You can think up a _CAPTCHA_, which a motivated fellow will promptly pass but "A
 
 Some would regard *AI* as a buzzword rather than technology, or IntelliSteampunk vs. AI dystopia.
 
-## Appendix. AI booms before
+Compare to hash functions which silently revolutionalized the IT world.
 
-Grunting "again"<sup>😾</sup> obliges me to recall a few AI tides, impromptu and without wiki. I'd skip old fiction and the times when man humanized mechanical breakthroughs, and resume on the digital era.
+## Appendix. AI tides before
+
+Grunting "again"<sup>😾</sup> obliges me to recall a few AI booms, impromptu and without wiki. I'd skip old fiction and the times when man humanized mechanical breakthroughs, and resume on the digital era.
 
 ### 1950s
 
@@ -145,9 +147,13 @@ Computers gradually spread from science calculations to business assistance, and
 
 ### Late 1980s - early 1990s
 
-PCs have become a mass factor at work and home. Thousands of enthusiasts, fascinated by the power and ease of programming, along with top-level engineers, which one could hire then for symbolic rates, tried to reanimate AI. A side-effect of that kick discovered pseudo-sciences like _the theory of inventive problem-solving_.
+PCs have become a mass factor at work and home. Thousands of enthusiasts, fascinated by the might and ease of programming, along with top-level engineers, which one could hire then for symbolic rates, tried to reanimate AI.
 
-And here we are in **2023**, when "_there will be no (human) programmers in five years_" (*Emad Mostaque*, CEO of Stability AI).
+A side-effect of that kick discovered pseudo-sciences like _the theory of inventive problem-solving_.
+
+### 2023
+
+And here we are, when "_there will be no (human) programmers in five years_" (*Emad Mostaque*, CEO of Stability AI, 2023).
 
 ... ⌛ LET'S RECAP AFTER FIVE YEARS :microscope:...
 
