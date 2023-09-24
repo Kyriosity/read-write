@@ -2,42 +2,29 @@
 
 > As both a user and dev of Lotus Notes for quindecennial (till changed for .NET), I must have deserved a right to personal (Lotus) notes.
 
-IBM PC users remember (or not), it was a time and it was a **word**, not Microsoft's one, but "Lotus" - a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
+IBM PC users remember (or not), that it was a time and a **word**, not Microsoft's one, but "Lotus" - a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
 
 _Lotus Notes_ (henceforth also _LN_), released at the turn of 1991, crowned the family, as was enterprise, full spectrum groupware of core value. Add here genuine _Rapid Application Development_ for LN applications.
 
-Definitely, there were other products - legacy, alternative, or tailor-made - but this aquatic flower dominated the market garden ... till Microsoft began to broadly win its chunks of office software.
+Definitely, there were other suites - legacy, alternative, or tailor-made - but this aquatic flower dominated the market garden ... till Microsoft began to broadly win its chunks of office software.
 
-In 1995, IBM gained Lotus in full<sup>:moneybag:</sup>. It was a unique chance not only to push _genus_ _Lotus_ further across corporate clients but to rebuild it with the power and technologies of the Big Blue. Quite little has been done for the latter. 
+In 1995, IBM gained Lotus in full<sup>:moneybag:</sup>. It was a unique chance not only to push _genus_ _Lotus_ further across corporate clients but to rebuild at least LN with the power and technologies of the Big Blue. Attempts for the latter were mediocre, and Lotus began to wilt. 
 
-In 2001 Microsoft released its SharePoint<sup>:writing_hand:</sup>, a much more complex and heavier environment, but deprived of many LN inborn deficiencies and inherently coupled with other MS products, already  benchmarks at that time. 
+In 2001 Microsoft released its SharePoint<sup>:writing_hand:</sup>, a much more complex and heavier rival, nevertheless deprived of much LN inborn deficiencies and inherently coupled with other MS products (already benchmarks at that time). 
 
-The wilting of Lotus began. The _full stop_ of the story was set in 2018: bargain sale of Domino/Notes and donating office source code to freeware. 
+SharePoint gradually superseded LN in one-way traffic. The bargain sale of Domino/Notes and donating office source code to freeware put the _full stop_ of the story. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:moneybag:</sup> <sub>For a $3.5 billion - not a big deal nowadays, while made well before IT procurements had skyrocketed at the end of the 1990s.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:writing_hand:</sup> <sub>Developed from scratch contrary to purchased Dynamics.</sub>
 
-## What made Lotus Notes great 
+## Good "parts"
+
+Lotus Notes took the best of the practices from the 1990s and brought unique solutions such as replication and Document oriented database. RAD, Client-server, asymmetric encryption.
+
+### Replication
 
 ## Missed opportunities
 
-### Development
-
-### Datastorage behind
-
-
-### Replication 
-
-
-
-### Administration
-sh ta
-
-### Web
-
-Added in 1996
-
-### Integration with office tools
 
 ## Epilogue
 
