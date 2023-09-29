@@ -14,21 +14,19 @@ Devs and admins will mention authentic Rapid Application Development with clear 
 
 There were similar suites - legacy, alternative, or tailor-made - but this aquatic flower dominated the market garden ... until Microsoft began to broadly win its chunks of office software.
 
-In 1995, IBM gained Lotus in full<sup>:moneybag:</sup>. It was a big chance not only to push the product family further in the business world but also to reform at least LN with the power, know-how, and technologies of the Big Blue. Mediocre and inaccurately focused efforts for the latter caused Lotus to wilt.
+In 1995, IBM gained Lotus in full<sup>:moneybag:</sup>. It was a big chance not only to spread LN and other products further but also to reform at least LN with the power, know-how, and technologies of the Big Blue. Mediocre and inaccurately focused efforts for the latter caused Lotus to wilt<sup>:icecream:</sup>.
 
-In 2001 Microsoft released its proprietary SharePoint - a much more complex and bulkier competitor, which nevertheless gradually superseded LN in one-way traffic.
+In 2001 Microsoft released its proprietary SharePoint - a much more complex and bulkier competitor, which nevertheless gradually superseded LN in one-way traffic. SharePoint was deprived of the inherent vices of pioneer LN. 
 
 The bargain sale of Domino/Notes and donating office source code to freeware put the _full stop_ of the story. (From this time LN legacy remains on the IT margins.)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:star:</sup> <sub>Deserves emphasizing due to exceptional ease, universality, productivity and robustness. Besides synchronizing DBs it allowed to seamlessly use/develop LN offline, guarantee messaging, and merge design much simpler than in Git or TFS.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:star:</sup> <sub>Emphasized for rare ease, versatility, productivity, and robustness. Besides synchronizing DBs it allowed to seamlessly use/develop LN offline, guarantee messaging, and merge design much simpler than in Git or TFS.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>I can't imagine a newbie installing SharePoint on a notebook and writing the first useful application within a week.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:moneybag:</sup> <sub>For a $3.5 billion - not a big deal nowadays, while made well before IT procurements had skyrocketed at the end of the 1990s.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:moneybag:</sup> <sub>For a $3.5 billion - not a big deal nowadays, while made well before IT procurements had skyrocketed at the end of the 1990s.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:icecream:</sup> <sub>It's not a secret that IBM gave the cold shoulder to Lotus _laissez-faire_, urging many top devs to leave.</sub>.
 
-## Reasons Notes surrendered to SharePoint
+## DELETED
 
-From the very beginning SharePoint not only covered all the functionality of Notes but vastly overlayed it. The contrary is false, albeit LN was much lighter for deployment and faster to enter  development/administration. 
-
-SharePoint avoided inherent vices of the pioneer LN and WAS FIT for 2000s.
 
 * **Storage**\
    Initially backed by MS SQL, while IBM has failed to couply LN with IBM DB2. For LN developer
@@ -36,15 +34,20 @@ SharePoint avoided inherent vices of the pioneer LN and WAS FIT for 2000s.
   Though Notes Server supported HTTP rendering of applications since 1996
 * natural integration of other MS benchmark products (e.g. office tools)\
   compare _Word_ and _Excel_ with Lotus peers
-* better support\
-IBM learning resource on LN was a find, while that of Microsoft - a choice,
+
 * state-of-the-art dev environment\
 .NET vs. LotusScript
 
 ## Epilogue
 
-It's not a secret that IBM management gave the cold shoulder to Lotus _laissez-faire_. Was this the only reason and would Lotus bloom otherwise? What if Microsoft had acquired its Notes as did with Dynamics? Or was the luggage of the 1990s not portable to XXI and it was better to develop the alternative from scratch?
+ Was this the only reason and would Lotus bloom otherwise? What if Microsoft had acquired its Notes as did with Dynamics? Or was the luggage of the 1990s not portable to XXI and it was better to develop the alternative from scratch?
 
----
+Change NSF  :DB2 failed:
+Java
+Web
+Stop quality degradation 
+Upgrade office and make it peers
+Better learning resources
+
 > Let me finish with the quote from another hit - _Now I know what made Lotus blue_. Seriously, I was pretty sure that _Lotus_ until [proof](https://en.wikipedia.org/wiki/Now_I_Know_What_Made_Otis_Blue). Enough said about my involvement.
 
