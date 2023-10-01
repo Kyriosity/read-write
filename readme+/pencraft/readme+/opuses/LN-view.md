@@ -12,7 +12,7 @@ Devs and admins will mention authentic Rapid Application Development with fluent
 
 Definitely, there were similar suites - legacy, alternative, or tailor-made - but this aquatic flower dominated the market garden ... until Microsoft began to broadly win its chunks of office software.
 
-In 1995, IBM gained Lotus in full<sup>:moneybag:</sup>. It was a big chance not only to gain from internal use and sales but also to reform at least LN with the power, know-how, and technologies of the Big Blue. Mediocre and inaccurately focused efforts for the latter caused Lotus to wilt<sup>:icecream:</sup>.
+In 1995, IBM gained Lotus in full<sup>:moneybag:</sup>. It was a big chance not only to gain from internal use and sales but also to reform at least LN with the power, know-how, and technologies of the Big Blue. Mediocre and inaccurately focused efforts for the latter caused Lotus to wilt.<sup>:icecream:</sup>
 
 In 2001 Microsoft delivered a much more complex and bulkier competitor. **SharePoint**, nevertheless, gradually superseded LN in one-way traffic since was deprived of the inherent vices of the Lotus pioneer and presented the next software generation as a product and API. 
 
@@ -21,29 +21,32 @@ The bargain sale of Domino/Notes and donating office source code to freeware put
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:star:</sup> <sub>Emphasized for rare ease, versatility, productivity, and robustness. Besides synchronizing DBs it allowed to seamlessly use/develop LN offline, guarantee messaging, and merge design much simpler than in Git or TFS.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>I can't imagine a newbie installing SharePoint on a notebook and writing the first useful application within a week.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:moneybag:</sup> <sub>For a $3.5 billion - not a big deal nowadays, while made well before IT procurements had skyrocketed at the end of the 1990s.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:icecream:</sup> <sub>It's not a secret that IBM gave the cold shoulder to Lotus _laissez-faire_, urging many top devs to leave.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:icecream:</sup> <sub>It's not a secret that IBM gave the cold shoulder to Lotus _laissez-faire_, urging many top devs to go.</sub>
 
-## Alternative history
+## Appendix. Alternative history
 
-Let's skip the downsides of LN and the reasons for its surrender to the rival from Redmond, WA. And dream up how "survived" LN looks now.
+You know, Notes had enough downsides to surrender to the rival from Redmond, WA, but let's dream up how "survived" LN may look now.
 
-+ **Storage as mature object-relational model over IBM DB2**<sup>💿</sup>\
-Intransparent NSF (Notes Storage Facility) hasn't supported such features as foreign keys, asking for "amateur" solutions in new applications.
++ **Storage as a sound object-relational model over IBM DB2**\
+Instead of enclosed and specific Notes Storage Facility (NSF)<sup>💿</sup> 
 + **Single-Page Web-Application as the only user client**<sup>:cloud_with_lightning:</sup>\
-Like Angular or React, eliminating desktop premises and porting _@formula_ language to Javascript lib
-+ **Integration of office tools**\
-  Either of Microsoft or of updated Lotus 
-+ **Java as main dev language**<sup>:coffee:</sup>\
-Naturally integrated as LotusSciprt, with supporting the development of extensions.
+Akin to Angular or React, eliminating desktop premises and porting _@formula_ language to Javascript utilities
++ **Seamless UI integration of office features**\
+Either from Microsoft or those updated from Lotus<sup>:wilted_flower:</sup>, in popular open formats
++ **Java as main language**<sup>:coffee:</sup>\
+As a substitute for "junior" LotusSciprt, supporting the development of UX libs, shared utils, and dev env extensions.
 + **Better learning resources**\
   The difference between IBM's "search for" to Microsoft's "select from" was too obvious. 
 
 **Last but not least**, top pro and liable  _Notes_ team/community to fulfill this wishlist and prevent quality degradation<sup>🙋</sup>.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>💿</sup> <sub>There was a plan to put DB2 under LN (like MS SQL behind Sharepoint) but, alas, it failed.</sub> \
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:cloud_with_lightning:</sup> <sub>Though Notes Server supported HTTP rendering of applications since 1996 and XPages since R8.5 came too late.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:coffee:</sup> <sub>LN allowed.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>💿</sup> <sub>E.g. NSF didn't support _foreign keys_, thus requiring "amateurish" boilerplate for any docs relations (as hierarchy). There was a plan to put DB2 under LN (like MS SQL behind Sharepoint), but that was never realized.</sub> \
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:cloud_with_lightning:</sup> <sub>Though Notes Server could render applications on HTTP since 1996 (required too much tuning with HTML/JS). XPages since R8.5 came too late and were half-response.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:wilted_flower:</sup> <sub>1-2-3 and Word Pro were already obsolete in 2000</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:coffee:</sup> <sub>LN supported development in Java but its version always lagged and required knowledge of specific workarounds (like calling garbage collector in a cycle of LN docs). There was peculiar C++ API as well, however, most developers _nolens volens_ used LotusScript - a variant of Visual Basic with integral LN API.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>"Migrating" myself from LN to .NET, I experienced, for certain: beta versions of Visual Studio 2010 crashed less often than the release of Notes Designer.</sub>
+&nbsp;\
+&nbsp;
 
 > Let me finish with the quote from another hit - _Now I know what made Lotus blue_. Seriously, I was pretty sure that _Lotus_ until [proof](https://en.wikipedia.org/wiki/Now_I_Know_What_Made_Otis_Blue). Enough said about my involvement.
 
