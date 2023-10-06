@@ -1,4 +1,4 @@
-# Nice to have in C#
+# C# - Nice to have (features wanted)
 
 C#.NET isn't a universal formula, and its team **+** community doesn't possess unbounded resources. However, this platform could offer extra features and foundations, which can only boost its charm.
 
@@ -111,7 +111,7 @@ Let's take some output from fictitious tree search `$"Branches: {found}, ≥ lea
 If an application generates much multi-language text it won't be a big deal to implement
 
 <details>
-<summary><u>Blueprint of pluralization utility</u></summary>
+<summary><ins>&nbsp;Blueprint of pluralization utility&nbsp;</ins></summary>
 
 ```csharp
 namespace Lingua.Grammar;
