@@ -9,28 +9,35 @@ WinForms application can be an exemplary MVVM<sup>:wrench:</sup> but it was WPF 
 
 |- __Model__  - usual [application model](../../../software-parts/app_model.md)\
 |- [__ViewModel__](readme+/wpf_mvvm-viewmodel.md)\
-|- __View__     -  usual [application view](../../../software-parts/app_view.md) bound to ViewModel\
+|- __View__ - usual [application view](../../../software-parts/app_view.md) bound to ViewModel\
 |--- [XAML view](../readme+/wpf-xaml_view.md)
 
 ## Sample
 
-An MVVM application may grow into an enterprise solution, but from the ground up its sketch requires a few minutes&nbsp;<sup>:arrow_down:</sup>
+An MVVM application may grow into an enterprise solution, but from the ground up its sketch claims mere few minutes&nbsp;<sup>:arrow_down:</sup>
 
 <details>
-<summary><b>Simplest MVVM application</b></summary>
+<summary><b><ins>&nbsp;Simplest MVVM application&nbsp;</ins></b></summary>
+&nbsp;
 
 ![sketch of WPF app](../_rsc/images/wpf_app-sketch.jpg)
 
 <sup>:arrow_down:</sup>&nbsp;<sub>Project of Microsoft Visual Studio</sub>
 </details>
 
+## Drawbacks and lacks
+
+Let's stress once again that MVVM is not a template but a concept. It got  WPF implementations from Microsoft (e.g. Prism), other big names, communities, and private initiatives but neither has achieved the status of industry-standard as UI suites.
+
+Alas, there are not too many popular pluggable "bricks" to build custom WPF-MVVM, and there's no thesis on dynamic MVP resting on tasks - not static models.
+
+🚧🚧🚧 PENDING: Link to MVVM on promises! 🖋️
+
 ## Wrapping up
 
-MVVM has been widely established but is neither a golden nor universal section. On call of specificity or creativity any other, even monolithic, form is legal.&nbsp;<sup>:triangular_ruler:</sup>
+MVVM has been widely established but is neither a golden nor universal section. On call of peculiarity or creativity any other, even monolithic, form is legal.&nbsp;<sup>:triangular_ruler:</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:triangular_ruler:</sup><sub>&nbsp;Google team coined *Model-View-Whatever* for its Angular</sub>
 
-You may find WPF-related design decisions in the **use-dev** repository.
-
-
+You may find WPF-related design decisions here in [use-dev](../../../../../../../../use-dev/).
 
