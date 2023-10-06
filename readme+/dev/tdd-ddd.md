@@ -20,7 +20,7 @@ Optionally:
 
 TDD and **D**omain **D**riven **D**esign are perfect matches and will boost each other. With _design hat_ on one will draught domain objects, their functions, and relations, which one wearing the _"test" hat_ will mock and stub, develop the syntax of their reference, and give essential feedback.
 
-There're many impressive stories of DDD, to which I could only supplement the next notice:
+There are many impressive stories of DDD to learn from, to which I could only supplement the next notice:
 
 > DDD-tempered code is adverse to naming like _utilitiy_, _service_, _handler_, _data_ (unless conventions of platforms/frameworks).
 
