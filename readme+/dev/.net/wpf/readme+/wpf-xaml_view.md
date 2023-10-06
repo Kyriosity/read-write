@@ -1,6 +1,8 @@
 # WPF - XAML View
 
-XAML, as native frontend markup of WPF, has not too much specifics but moderate learning curve. It's worth to mention that there're no mainstream alternatives to it.
+XAML is a native frontend language of WPF and a species of markup views (like HTML for Web, or XML for Android).
 
-If you're going to develop GUI beyond conventional, don't omit to consider [Blend for Visual Studio](https://learn.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio).
+XAML has sufficient specifics with a moderate to steep learning curve. It's worth mentioning that there are no mainstream alternatives to it.
+
+For the development of GUI/UX beyond conventional, [Blend for Visual Studio](https://learn.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio) is essential.
 
