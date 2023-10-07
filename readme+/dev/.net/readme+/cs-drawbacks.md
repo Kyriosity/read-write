@@ -5,6 +5,7 @@ Nothing is perfect and C# too. The following language artifacts are awkward leas
 ## Syntax
 
 - Rudimentary `;` ending a line brings nothing but visual noise.
+- Constructor names imply extra refactoring on class/struct renaming (could be independent `ctor()`, `this()`).
 - Rudimentary `0` as the start index in collections<sup>:o:</sup>, which doesn't correlate with the count and shall better start from `1`.
 - Missing (default) access modifier<sup>:o:</sup> shall be better reserved for ultimate `private` or better `public` than for specific and less used `internal`
 - The `const` modifier shall be not limited to pre-compiled values (it's mere optimization) but prevent re-assignment, as `init` and `readonly` do.
