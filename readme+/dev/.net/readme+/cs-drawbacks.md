@@ -1,17 +1,20 @@
-# C# drawbacks (minority report)
+# C# - Drawbacks (minority report)
 
 Nothing is perfect and C# too. The following language artifacts are awkward leastwise for me. 
 
 ## Syntax
 
 - Rudimentary `;` ending a line brings nothing but visual noise.
+- Rudimentary `0` as the start index in collections<sup>:o:</sup>, which doesn't correlate with the count and shall better start from `1`.
+- Missing (default) access modifier<sup>:o:</sup> shall be better reserved for ultimate `private` or better `public` than for specific and less used `internal`
 - The `const` modifier shall be not limited to pre-compiled values (it's mere optimization) but prevent re-assignment, as `init` and `readonly` do.
-- Missing (default) access modifier shall be better reserved for ultimate `private` or better `public` than for specific and less used `internal`\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Well, this couldn't be changed<sub>
 - Nullable declaration (with `?` prefix) is evident for value types but ambiguous for references and objects, which can be nulled anyway:\
 `string a = null; string? b = null;`
-- Gradual releases of syntax shortcuts, such as `?` or `!`, softly erode C# readability.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Quite arguably but with hope that C# team doesn't plan to make a Perl out of their language</sub>
+- Gradual releases of syntax shortcuts, such as `?` or `!`, softly erode C# readability.<sup>🙋</sup>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:o:</sup> <sub>Such native features can't be changed.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>I assume arguability but hope that C# team doesn't plan to make a Perl out of their language</sub>
   
 ### Generics
 
