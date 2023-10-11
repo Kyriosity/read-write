@@ -1,9 +1,9 @@
 # C# - Tasks as properties backup
 
-Seasoned developers used to defer initialization/calculation to less or more "heavy" entities.\
-In C# either with `Lazy<...>` or custom code like this:
+Seasoned developers used to defer initialization/calculation to less or more "heavy" entities. In C# either with `Lazy<...>` or custom code like this:
 <details>
-  <summary><ins>Deferred loading snipped</ins></summary>
+<summary><ins>&nbsp;Deferred loading snipped&nbsp;</ins></summary>
+&nbsp;
   
   ```csharp
 public BigAndHeavy Ram => _ram ?? LoadAndHit();
@@ -11,9 +11,11 @@ private BigAndHeavy? _ram;
   ```
 </details>
 
-This allows to **a)**&nbsp;load the stuff on&nbsp;demand only, **b)**&nbsp;spread resources peaks, **c)**&nbsp;split suspense. However the suspense remains.
+This allows to **a)**&nbsp;load the stuff on&nbsp;demand only, **b)**&nbsp;spread resources peaks, **c)**&nbsp;split suspense. Nonetheless, the suspense remains.
 
-Powers of modern home laptops are mostly idle, while platforms like .NET allow accurately run multiple processes in background. Thus it's not important to delay tasks but prepare them as much as possible in background, and seamlessly produce results, when required.
+The power and storage of home laptops are excessive and mostly idle<sup>:video_game:</sup>, while platforms like .NET ensure the background running of multiple processes. Thus it's not crucial to delay tasks but to complete them as much as possible in the background, and seamlessly produce results when required.
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:video_game:</sup> <sub>We mean usual office, browsers, business applications, and dev environments - not high performance servers, top games, video processing or mining.</sub>
 
 ## Tasks
 
