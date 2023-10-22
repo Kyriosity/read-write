@@ -20,7 +20,7 @@ Concerns of design (or architecture if you like) **are**:
 - partitioning (data, model, presentation, UI, biz logic),
 - use of libraries, frameworks, and external services,
 - planned audience and computing capacity,
-- visualization, storing of modeling artifacts (at least UML sketches on whiteboards).
+- visualization, modeling artifact storage (at least UML sketches on whiteboards).
 
 and are **not**: 
 
@@ -42,19 +42,39 @@ Put simply: development resolves manifested design puzzles and plots, while desi
 
 ## Pitfalls
 
-Besides apparent procrastination and perfectionism, the next trivia often undermines the way of design, time and again ...
+Besides apparent perfectionism, sand castles, and NAIVE reinventing, the next trivia often undermines the way of design:
 
-- **too low-level, too high-level involvement**\
+<details>
+<summary>🚧<ins>&nbsp;<b>Too low-level, too high-level involvement</b>&nbsp;</ins></summary>
 // TO BE explained
-- **surrenders thought as compromises**\
+
+</details>
+
+<details>
+<summary>🚧<ins>&nbsp;<b>Surrenders thought as compromises</b>&nbsp;</ins></summary>
 // TO BE explained
-- **"tunnel vision"**\
+
+</details>
+
+<details>
+<summary>🚧<ins>&nbsp;<b>"Tunnel vision"</b>&nbsp;</ins></summary>
 // TO BE explained
-- **routine contribution from frustration**\
+
+</details>
+
+<details>
+<summary>🚧<ins>&nbsp;<b>Routine by frustration</b>&nbsp;</ins></summary>
 // TO BE explained
+
+</details>
+
+## What about UML ?
+
+🚧 To be written...
 
 ## Wrapping up. Further topics
 
 The topic of design is relevant to:\
 |- [Samples](readme+/design_samples.md)\
-|- [C# decisions](.net/readme+/design)
+|- [C# decisions](.net/readme+/design)\
+|- DOCU! (which is not design)
