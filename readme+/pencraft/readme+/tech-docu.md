@@ -2,30 +2,30 @@
 
 # Technical documentation
 
-## Input
+## Sources
 
-Before writing from scratch evaluate and adjust the following sources for docu output:
+Before writing from the ground up, I would search and try to adapt the following materials, if exist:
 
-### Similar material 
+### Similar writing
 
-Any previous version, description of a similar product. It could be even others' magnum opus_ which owner may legalize "plagiarism" just for reference and thanks.
+Any previous version, description of a similar product, any freeware pattern. It could be even a borrowed _magnum opus_, the owner of which may permit "plagiarism" just for reference and thanks.
 
 ### Requirements
 
-Writing and maintaining requirements must concern project management. Albeit there could be none in epistolary form.
+Writing and maintaining requirements must concern project management, and you can use the result. Albeit there could be none in epistolary form.
 
 ### Tracking, versioning systems
 
-A tracking system may collect and generate documentation with a good degree of automation ().
+A tracking system may collect and generate documentation with a pleasant degree of automation.
 
-## Contribution to guidelines
+## Some guidelines to contribute
 
-+ **Split the flow.** Long-running sentences and paragraphs are first-degree misdemeanors.
-
++ First and foremost, the less docu covers essentials the better for all (unless the subject deserves its own wiki). 
++ **Split the flow.** Long-running sentences, paragraphs, and sections are first-degree misdemeanors.
 + Except for citations use quotation marks for metaphors while _italic_ to introduce terms. Example:
 > To compare _multitasking_ vs. _parallelism_ imagine the CPU being a "kitchen" where a quick cook or orderly brigade can prepare the same food.
 
-+ **Last but not least**, do not only take advantage of automation (content management) and docu templating but contribute to it with each writing, longer than a page.
++ **Last but not least**, if you write regularly, contribute also to content management and templating to facilitate further work of you and others.
 
 ## Wrapping up: Resources
 
