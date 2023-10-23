@@ -10,7 +10,7 @@
 <p dir="rtl";'><i>"Anton Chekhov(1860-1904), "Rules for novice writers</i></p>
 &nbsp;
 
-There're projects, products, and technologies, which deserve the work of pen or brush. Grade of such work may be decision factor Nr&nbsp;1 for usage: either attract or divert for good.
+There are projects, products, and technologies, that deserve the work of pen or brush. The excellence grade of such work may be a decision factor Nr&nbsp;1 for usage/purchase of its subject: either attract or divert for good.
 
 _As&nbsp;is_ (aka WYSIWYG) of creative work won't produce compilation errors but is much harder than engineering. Everybody will notice poor style from the very first sight.
 
