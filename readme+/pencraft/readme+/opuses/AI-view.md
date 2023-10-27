@@ -1,9 +1,8 @@
-# Arteficial Intelligence - Much ado about  ... fussing?
+# Arteficial Intelligence 2023 - Much ado about  ... fussing?
 
-Artificial Intelligence is a hot theme in 2023, again<sup>😾</sup>. 
-Don't try to dodge - in my city "AI" and "ChatGPT" saturate the program of the summer digital festival (every other lecture names them).
+Artificial Intelligence is a hot theme, again. One can't dodge this "IntelliSteampunk" festival - "AI" and "ChatGPT" saturate the program of IT events (every other lecture may name them, as in my city), news feeds, and product presentations.
 
-Its pace must be so gigantic that some scientists, prominent software engineers, and tech leads [search for an emergency break](https://futureoflife.org/open-letter/pause-giant-ai-experiments/). Other up-to-date visions (besides too common) can be grouped by:
+Its pace must be so gigantic that many scientists, prominent software engineers, and tech leads [think of a kill switch](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) for AI dystopia. Other up-to-date visions (besides too shallow) group by:
 
 <details>
 <summary><ins>&nbsp;Impressive and inspiring&nbsp;</ins></summary>
@@ -31,9 +30,8 @@ Its pace must be so gigantic that some scientists, prominent software engineers,
 
 These required much more search than the quotes above ...
 
-* *Ginni Rometty*, CEO of IBM\
-"Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence."\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>✋</sup>&nbsp;<sub>Notice the word *augment*, which can apply to the abacus, paper thesaurus, or supercomputers in the same context.</sub>
+* *Ginni Rometty*, ex. CEO of IBM\
+"Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence."
 
 * _Christopher Nolan_, filmmaker, questioned about AI in a 2023 interview:\
 "... the real world is, by definition, infinitely complex. ... And so, any digital simulation or technology that simulates, eventually, it always hits a particular limitation."
@@ -61,99 +59,78 @@ These required much more search than the quotes above ...
 \__________________________________________
 </details>
 
-## Intelligence
+## Stumbling block
 
-Neither philosophy nor exact sciences nor neurobiology can formulate _intelligence_, and its genesis (both individual and on the whole) is a bigger mystery. 
+Neither philosophy nor exact sciences nor neurobiology can formulate _intelligence_, and both its genesis and individual rise are a bigger mystery. 
 Digitalization speaks in clear definitions - and there are none.
 
-Adepts of both the bright and dismal AI future readily assume its *self-knowledge/awareness* as a trivial matter of time. 
+Adepts of the bright and dismal AI future readily assume its *self-knowledge/awareness* as a trivial matter of time. 
 To either brew by itself in increasingly complex code bouillon or get all of a sudden [short circuited](https://www.imdb.com/title/tt0091949)<sup>:cinema:</sup>.
 
-Digital tech effectively and reliably automates much of hard cogitative ops (where humans are prone to errors), but not unformalizable processes - abstraction, (self-)criticism, motivation - that may result in great breakthroughs in exact sciences.<sup>:art:</sup>
+Digital tech fantastically and reliably automates much of hard cogitative ops (where humans are slow, prone to errors, and get distracted), but not unformalizable processes<sup>⚙️</sup> - abstraction, (self-)criticism, motivation - which are preconditions of great breakthroughs in exact sciences<sup>:art:</sup>.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:art:</sup> <sub>In non-exact studies and art too, but it's not that evident and requires a separate paper.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>⚙️</sup> <sub>Publicized views of decision-making as a relay work of neurons preset by acquired knowledge is a super-profanation of free will debate.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:art:</sup> <sub>In non-exact studies and art too, but it's not that evident and requires a separate view.</sub>
 
-## Materiality
+## Evidence
 
-<details>
-<summary><ins>&nbsp;<b>Automated but improperly credited to AI:</b>&nbsp;</ins></summary>
-&nbsp;
-  
-+ processing vast amounts of data in real-time, finding patterns there,
-+ routine translation and text generation,
-+ image/video on-the-fly filtering,
-+ fast recognition of all kinds,
-+ assisted mathematical proofs (impossible earlier without required computing powers),
-+ tutoring (as coding assistance),
-+ engines that can smash humans in intellectual sports (Stockfish in chess)
+You can think up a CAPTCHA, which a motivated fellow will promptly pass but "AI" may only exhaust, unless you limit attempts on one.
 
-\__________________________________________ 
+The growth of computer powers allowed assisted mathematical proofs, impossible before. However, no program with all the computing power in the world can prove any unsolved mathematical problem<sup>:scientist:</sup>. Even if you submit unambivalent equations in plain XML.
 
-</details>
-<details>
-<summary><ins>&nbsp;<b>Expected from AI but unavailable</b>&nbsp;</ins></summary>
-&nbsp;
+A chess app on a cheapie hand-held device will smash any grandmaster but no AI will generate a better engine than hominid<sup>♟️</sup>.
 
-- **First and foremost**, pass so-called _Turing_ test\
-You can think up a _CAPTCHA_, which a motivated fellow will promptly pass but "AI" may only exhaust.
-- Pick and prove any unsolved mathematical problem with all computing power in the world<sup>:scientist:</sup>
-- Write a stronger chess engine than of hominid.
+IDEs and assists strongly boost IT productivity, but if any AI claims to write the code, then it will be either a snippet or you need to describe the requirements in detail close to operators.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:scientist:</sup>&nbsp;<sub>Humans can do, as _Grigori Perelman_ with one of the seven _Millenium Problems_.</sub>
+There's human assistance behind many AI tricks (either individual tuning or "machine learning" by thousands in low-rate offshore)<sup>:man_facepalming:</sup>.
 
-\__________________________________________ 
-</details>
-
-<details>
-<summary><ins>&nbsp;<b>Hype and hoax</b>&nbsp;</ins></summary>
-&nbsp;
-
-- **First and foremost** AI is publicity for investors. That has nothing to do with progress and technology.
-- There's human assistance behind many AI tricks (either individual tuning or "machine learning" by thousands in low-rate offshore).\
-  (Do you remember machine learning of [Mechanical Turk](https://en.wikipedia.org/wiki/Mechanical_Turk)?)
-
-\__________________________________________ 
-</details>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:scientist:</sup>&nbsp;<sub>Humans can do, as _Grigori Perelman_ with one of the seven _Millenium Problems_.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>♟️</sup> <sub>_Stockfish_ at the moment, but could be ancient IBM Deep Blue or even Deep Thought.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:man_facepalming:</sup> <sub>Do you remember machine learning of [Mechanical Turk](https://en.wikipedia.org/wiki/Mechanical_Turk)?</sub>
 
 ## Conclusion
 
-Some would regard *AI* as a buzzword rather than technology, or IntelliSteampunk vs. AI dystopia.
+**First and foremost** AI is the publicity of all kinds, but not mere hype and chimera. There are new generation tools behind<sup>:hammer_and_wrench:</sup>, but neither is intelligent since created with human minds.
 
-Compare to hash functions which silently revolutionalized the IT world.
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:hammer_and_wrench:</sup> <sub>Processing vast amounts of data in real-time, finding patterns there; image/video on-the-fly filtering and recognition; routine translation and text generation</sub>
 
-## Appendix. AI tides before
+You may charge me with common judgments but the subject of my scepsis are buzzwords and beautiful (no sarcasm) presentations (compare to hash functions which silently revolutionalized the IT).
 
-Grunting "again"<sup>😾</sup> obliges me to recall a few AI booms, impromptu and without wiki. I'd skip old fiction and the times when man humanized mechanical breakthroughs, and resume on the digital era.
+## Appendix. Preceding AI tides
+
+Grunting "again"<sup>:top:</sup> obliges me to recall a few AI booms, impromptu and without wiki. I'd skip old fiction and the times when man humanized mechanical breakthroughs, and resume on the digital era.
 
 ### 1950s
 
 The crucial IT decade ever - an energized rack of metals, glass, and vacuum could replace hives of handmade calculations, and scientists elaborated impressive HMIs with high-level languages. 
 
-The leap in both hardware and software could surpass sci-fi fantasies. And there were two letters (not "AI") that made folks think that processors will soon be peers of human brains.
+The leap in both hardware and software could surpass sci-fi fantasies. And there were two letters that made folks think that processors will soon be peers of human brains.
 
 <details>
-<summary><ins>&nbsp;These two letters were ...&nbsp;</ins></summary>
+<summary><ins>&nbsp;These two letters were not AI but ...&nbsp;</ins></summary>
 &nbsp;
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**IF** -- This statement in high-level languages introduced the feeling of human doubt and decision-making.
-
 
 \__________________________________________ 
 </details>
 
 ### 1970s
 
-Computers gradually spread from science calculations to business assistance, and robotics rendered funny androids. In chess, with its intellectual aura, computer programs could give winning hints that grandmasters couldn't discern and had attributed to the abrupt progress of their inferior opponents.
+Computers gradually spread from science calculations to business assistance, and robotics delivered funny androids. 
+
+In chess, with its intellectual aura, experimental (not cheat) computer programs could give winning hints that grandmasters couldn't discern and had attributed to the abrupt progress of their inferior opponents.<sup>:game_die:</sup>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:game_die:</sup> <sub>It's AlphaGo in 2023 for another strategy board, since a computer could defeat a chess WM in 1997.</sub>
 
 ### Late 1980s - early 1990s
 
 PCs have become a mass factor at work and home. Thousands of enthusiasts, fascinated by the might and ease of programming, along with top-level engineers, which one could hire then for symbolic rates, tried to reanimate AI.
 
-A side-effect of that kick discovered pseudo-sciences like _the theory of inventive problem-solving_.
+A side-effect of that kick was the emergence of pseudo-sciences like _the theory of inventive problem-solving_.
 
 ### 2023
 
 And here we are, when "_there will be no (human) programmers in five years_" (*Emad Mostaque*, CEO of Stability AI, 2023).
 
-... ⌛ LET'S RECAP AFTER FIVE YEARS :microscope:...
-
+... ⌛ SO, LET'S RECAP AFTER FIVE YEARS :microscope:...
