@@ -6,7 +6,6 @@
 |--- [Naming](readme+/dev/code-naming.md)\
 |--- [Patterns](readme+/dev/code-patterns.md)\
 |--- [Driven design](readme+/dev/tdd-ddd.md)\
-|--- Better UML 🚧\
 |- Partitioning\
 |--- [Model](readme+/dev/software-parts/app-model.md)\
 |--- [View](readme+/dev/software-parts/app-view.md)\
