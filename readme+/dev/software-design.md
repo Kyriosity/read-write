@@ -6,7 +6,7 @@ Major and long-time decisions on software implementation expressed in diagrams, 
 
 With reverence for unknown architects of the Acropolis and Colosseum, I'd voluntarily reserve the term ___architecture___ for processor families, operating systems, global computing services, and the spectrum of heterogeneous solutions.<sup>:gear:</sup>
 
-Whereas ___design___ comprises much better outlining of applications<sup>:raising_hand:</sup>, even of enterprise scale. (Non-commercial home applications may show great design too.)
+Whereas ___design___ comprises much better outlining of applications<sup>:raising_hand:</sup>, even of enterprise scale.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:gear:</sup>&nbsp;<sub>You could have heard "architecture" addressed to _DevOps_, which also involves coding/scripting in other though neighboring terrain.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Note the keyword - application. Use of somewhat developed over existing software platform for exact tasks.</sub>\
@@ -20,7 +20,7 @@ Concerns of design (or architecture if you like) **are**:
 + [partitioning](/readme+/dev/software-parts/) (data, model, presentation, UI, biz logic),
 + use of [external](/readme+/dev/software-parts/ext_parts.md) libraries, frameworks, and services,
 + principal [language-specific decisions](.net/readme+/design)\
-+ maintenance of [design samples](readme+/design_samples.md
++ maintenance of [design samples](readme+/design_samples.md)
 + planned audience and computing capacity, // ToDo: EXPLAIN
 + visualization and presentation of modeling (like UML sketches)
 
@@ -33,17 +33,16 @@ and are **not**:
 - code and docu management (as management system choice),
 - maintenance of documentation 
 
-## Where is the architect?
+## The role of the designer (architect).
+
+I'd stick to the opinion that effective _design_ rests on direct involvement in _development_.
 
 // To BE WRITTEN 🚧
-
-I'd stick to the opinion that effective _design_ rests on direct involvement in _development_. 
 
 ## Design vs. Development
 
 First, let's put away *coding* when typewriting of known design decisions fills up gaps in automation or shortages in design.<sup>:open_hands:</sup>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:open_hands:</sup>&nbsp;<sub>Quite reasonable when generation or great design will be too arduous.</sub>
-
 
 The same code can emerge under the hat of the developer and designer. Then what is the edge between? 
 
