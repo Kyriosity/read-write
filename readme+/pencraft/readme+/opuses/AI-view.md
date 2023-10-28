@@ -2,7 +2,7 @@
 
 Artificial Intelligence is a hot theme, again. One can't dodge this "IntelliSteampunk" festival - "AI" and "ChatGPT" saturate the program of IT events (every other lecture may name them, as in my city), news feeds, and product presentations.
 
-Its pace must be so gigantic that many scientists, prominent software engineers, and tech leads [think of a kill switch](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) for AI dystopia. Other up-to-date visions (besides too shallow) group by:
+Its pace must be so gigantic that many scientists, prominent software engineers, and tech leads [think of a kill switch](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) for AI dystopia. Other up-to-date visions (besides too common) group by:
 
 <details>
 <summary><ins>&nbsp;Impressive and inspiring&nbsp;</ins></summary>
@@ -61,26 +61,26 @@ These required much more search than the quotes above ...
 
 ## Stumbling block
 
-Neither philosophy nor exact sciences nor neurobiology can formulate _intelligence_, and both its genesis and individual rise are a bigger mystery. 
-Digitalization speaks in clear definitions - and there are none.
+Neither philosophy nor exact sciences nor neurobiology can formulate _intelligence_, and its genesis with individual rise is a bigger mystery. 
+Digitalization speaks in clear definitions - and there are none.<sup>⚙️</sup>
 
 Adepts of the bright and dismal AI future readily assume its *self-knowledge/awareness* as a trivial matter of time. 
 To either brew by itself in increasingly complex code bouillon or get all of a sudden [short circuited](https://www.imdb.com/title/tt0091949)<sup>:cinema:</sup>.
 
-Digital tech fantastically and reliably automates much of hard cogitative ops (where humans are slow, prone to errors, and get distracted), but not unformalizable processes<sup>⚙️</sup> - abstraction, (self-)criticism, motivation - which are preconditions of great breakthroughs in exact sciences<sup>:art:</sup>.
+Digital tech fantastically and reliably automates much of hard cogitative ops (where humans are slow, prone to errors, lack parallelism, and get distracted), but not unformalizable processes - abstraction, (self-)criticism, motivation - which are preconditions of great breakthroughs in exact sciences<sup>:art:</sup>.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>⚙️</sup> <sub>Publicized views of decision-making as a relay work of neurons preset by acquired knowledge is a super-profanation of free will debate.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:art:</sup> <sub>In non-exact studies and art too, but it's not that evident and requires a separate view.</sub>
 
 ## Evidence
 
-You can think up a CAPTCHA, which a motivated fellow will promptly pass but "AI" may only exhaust, unless you limit attempts on one.
+You can think up a CAPTCHA, which a diligent fellow will promptly pass but "AI" (with access to all the data over Internet) may only exhaust, unless you limit attempts.
 
 The growth of computer powers allowed assisted mathematical proofs, impossible before. However, no program with all the computing power in the world can prove any unsolved mathematical problem<sup>:scientist:</sup>. Even if you submit unambivalent equations in plain XML.
 
 A chess app on a cheapie hand-held device will smash any grandmaster but no AI will generate a better engine than hominid<sup>♟️</sup>.
 
-IDEs and assists strongly boost IT productivity, but if any AI claims to write the code, then it will be either a snippet or you need to describe the requirements in detail close to operators.
+IDEs and assists strongly boost dev productivity, but if any AI claims to write the code, then it will be either a snippet or you need to describe the requirements in detail close to operators.
 
 There's human assistance behind many AI tricks (either individual tuning or "machine learning" by thousands in low-rate offshore)<sup>:man_facepalming:</sup>.
 
@@ -90,11 +90,11 @@ There's human assistance behind many AI tricks (either individual tuning or "mac
 
 ## Conclusion
 
-**First and foremost** AI is the publicity of all kinds, but not mere hype and chimera. There are new generation tools behind<sup>:hammer_and_wrench:</sup>, but neither is intelligent since created with human minds.
+**First and foremost** AI is much a voguish theme and publicity of all kinds, but not mere hype and chimera. There are new generation data processing and storage behind<sup>:hammer_and_wrench:</sup>, but neither is "intelligent" since created by human minds.
+
+You may charge me with shallow judgments but searching for the subject I found the same-level presentations - beautiful (no sarcasm), futuristic but overall. (Compare to hash functions which had silently revolutionalized IT.)
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:hammer_and_wrench:</sup> <sub>Processing vast amounts of data in real-time, finding patterns there; image/video on-the-fly filtering and recognition; routine translation and text generation</sub>
-
-You may charge me with common judgments but the subject of my scepsis are buzzwords and beautiful (no sarcasm) presentations (compare to hash functions which silently revolutionalized the IT).
 
 ## Appendix. Preceding AI tides
 
@@ -102,7 +102,7 @@ Grunting "again"<sup>:top:</sup> obliges me to recall a few AI booms, impromptu 
 
 ### 1950s
 
-The crucial IT decade ever - an energized rack of metals, glass, and vacuum could replace hives of handmade calculations, and scientists elaborated impressive HMIs with high-level languages. 
+The crucial IT decade ever - an energized rack of metals, glass, and vacuum could replace hives of handmade calculations, and avid scientists elaborated impressive HMIs with high-level languages. 
 
 The leap in both hardware and software could surpass sci-fi fantasies. And there were two letters that made folks think that processors will soon be peers of human brains.
 
@@ -119,7 +119,7 @@ The leap in both hardware and software could surpass sci-fi fantasies. And there
 
 Computers gradually spread from science calculations to business assistance, and robotics delivered funny androids. 
 
-In chess, with its intellectual aura, experimental (not cheat) computer programs could give winning hints that grandmasters couldn't discern and had attributed to the abrupt progress of their inferior opponents.<sup>:game_die:</sup>
+In chess, with its intellectual aura, experimental (not for cheat) computer programs could give winning hints that grandmasters couldn't discern and had attributed to the abrupt progress of their inferior opponents.<sup>:game_die:</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:game_die:</sup> <sub>It's AlphaGo in 2023 for another strategy board, since a computer could defeat a chess WM in 1997.</sub>
 
