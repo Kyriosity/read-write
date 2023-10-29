@@ -4,42 +4,42 @@
 
 Major and long-time decisions on software implementation expressed in diagrams, modules, interfaces, classes, layers, hierarchies, and patterns - is it architecture or design?
 
-With reverence for unknown architects of the Acropolis and Colosseum, I'd voluntarily reserve the term ___architecture___ for processor families, operating systems, global computing services, and the spectrum of heterogeneous solutions.<sup>:gear:</sup>
+With reverence for unknown architects of the Acropolis and Colosseum, I'd voluntarily reserve the term ___architecture___ for processor families, operating systems, global computing services, spectra of heterogeneous solutions, and IT science.<sup>:gear:</sup>
 
-Whereas ___design___ comprises much better outlining of applications<sup>:raising_hand:</sup>, even of enterprise scale.
+Whereas ___design___ comprises much better outlining of applications<sup>:raising_hand:</sup>, even of enterprise scale. Architecture implies tech-agnosticism (as with patterns), while the realization of requirements - particular tech stack, which can't be easily ported and decision derived from it would be too general.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:gear:</sup>&nbsp;<sub>You could have heard "architecture" addressed to _DevOps_, which also involves coding/scripting in other though neighboring terrain.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Note the keyword - application. Use of somewhat developed over existing software platform for exact tasks.</sub>\
 
 ## Objectives of design
 
-Concerns of design (or architecture if you like) **are**:
+Besides the primary specification of software entities, functions, and the [naming](/readme+/dev/code-naming.md/) of them, concerns of design **are**:
 
-+ identification of entities, functions, and the [naming](/readme+/dev/code-naming.md/) of them,
-+ detection of conceptual collisions, // ToDo: example required
++ detection of conceptual collisions<sup>:collision:</sup>,
 + [partitioning](/readme+/dev/software-parts/) (data, model, presentation, UI, biz logic),
 + use of [external](/readme+/dev/software-parts/ext_parts.md) libraries, frameworks, and services,
-+ principal [language-specific decisions](.net/readme+/design)\
++ principal [language-specific decisions](.net/readme+/design)
 + maintenance of [design samples](readme+/design_samples.md)
-+ planned audience and computing capacity, // ToDo: EXPLAIN
++ planned audience (roles, groups), 
 + visualization and presentation of modeling (like UML sketches)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:collision:</sup> <sub>Both conceptual and technical. 🚧 EXAMPLES REQUIRED</sub>
 
 and are **not**: 
 
 - user experience (UX), including tongues (unless it's a linguistic app) and assistance,
 - detection of technical bottlenecks, // ToDo: example required
 - versions of languages and platforms,
-- details of implementation, like algorithms, // ToDo: ReThink
+- ways of authentication/authorization,
+- details of implementation, like sort algorithms,
 - code and docu management (as management system choice),
 - maintenance of documentation 
 
-## The role of the designer (architect).
+## The role of the designer (architect)
 
-I'd stick to the opinion that effective _design_ rests on direct involvement in _development_.
+I'd stick to the opinion that effective _design_ rests on direct and continuous involvement in _development_, at least as code reviews.
 
-// To BE WRITTEN 🚧
-
-## Design vs. Development
+### Design vs. Development
 
 First, let's put away *coding* when typewriting of known design decisions fills up gaps in automation or shortages in design.<sup>:open_hands:</sup>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:open_hands:</sup>&nbsp;<sub>Quite reasonable when generation or great design will be too arduous.</sub>
