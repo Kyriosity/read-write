@@ -47,12 +47,13 @@ Alternatives with [extension methods](https://docs.microsoft.com/en-us/dotnet/cs
 ## Casting limitations
 
 - [Named tuples](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/august/essential-net-csharp-7-0-tuples-explained) and anonymous objects are very handy to submit sporadic composed results, but can't cast to an interface or class.
-- Neither implicit nor explicit downcasting works while JSON (de)serialization legally does this operation. Allowing this cast doesn't contradict type safety.
+- Neither implicit nor explicit downcasting works while JSON (de)serialization legally does this operation. Allowing this cast doesn't contradict type safety.\
+ToDo: an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)
 
 ## Numbers
   
 - Does either developer ponder ten(!) primitive whole types when writing ordinary `for (var i = 0; i < count; i++)`?
-- Why 0.1 and 0.2 must be explicitly declared as `decimal` to accurately sum them up?
+- Why 0.1 and 0.2 must be explicitly declared as `decimal` to sum them up accurately? (you may debug to prove)
 
 Developers should better declare just a *number* and distinguish only the way it's processed: fixed (default) or [floating-point arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html).
 
@@ -68,6 +69,6 @@ Syntax shortcuts here could make the code both shorter and readable.
 
 -  *Interface* is a too common term for contract (and not only in C#).
 - *Reverse*, as in [LINQ method](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse), is actually *flip*.
-- _out_ for [covariance](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/out-generic-modifier) collides with _out_ parameter modifier
+- Type modifiers _in_/_out_ for contra-/covariance collide with the same name parameter modifiers (_more_/_less_ can be better)
 
-...TO BE CONTINUED...
+... TO BE CONTINUED ...
