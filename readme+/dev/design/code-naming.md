@@ -1,5 +1,5 @@
 
-🚧🚧🚧 ... DRAFT ... 🚧🚧🚧
+🚧🚧🚧 ... IN WRITING ... 🚧🚧🚧
 
 # Naming in software design
 
