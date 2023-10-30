@@ -1,6 +1,4 @@
 # Documentation of code
-<p dir=rtl>Chess speaks for itself<br><i>Hans Niemann, 2022</i></p>
-
 
 ## Comments
 
