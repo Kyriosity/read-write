@@ -2,7 +2,7 @@
 
 Artificial Intelligence is a hot theme, again. One can't dodge this "IntelliSteampunk" festival - "AI" and "ChatGPT" saturate the program of IT events (every other lecture may name them, as in my city), news feeds, and product presentations.
 
-Its pace must be so gigantic that many scientists, prominent software engineers, and tech leads [think of a kill switch](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) for AI dystopia. Other up-to-date visions (besides too common) group by:
+Its pace must be so gigantic that many scientists, prominent software engineers, and tech leads [think of a kill switch](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) for [AI dystopia](https://www.businessinsider.com/ai-extinction-risk-openai-deepmind-anthropic-ceos-sam-altman-2023-5). Other up-to-date visions (besides too common) group by:
 
 <details>
 <summary><ins>&nbsp;Impressive and inspiring&nbsp;</ins></summary>
@@ -90,9 +90,9 @@ There's human assistance behind many AI tricks (either individual tuning or "mac
 
 ## Conclusion
 
-**First and foremost** AI is much a voguish theme and publicity of all kinds, but not mere hype and chimera. There are new generation data processing and storage behind<sup>:hammer_and_wrench:</sup>, but neither is "intelligent" since created by human minds.
+**First and foremost** AI is much a voguish theme and publicity of all kinds, but not mere hype and chimera. There are new generation data processing and storage behind<sup>:hammer_and_wrench:</sup>, but neither is "intelligent" since smart heads have programmed them.
 
-You may charge me with shallow judgments but searching for the subject I found the same-level presentations - beautiful (no sarcasm), futuristic but overall. (Compare to hash functions which had silently revolutionalized IT.)
+You may charge me with shallow judgments but searching for the theme I found the same-level presentations - beautiful (no sarcasm), futuristic but overall. (Compare to hash functions which had silently revolutionalized IT.)
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:hammer_and_wrench:</sup> <sub>Processing vast amounts of data in real-time, finding patterns there; image/video on-the-fly filtering and recognition; routine translation and text generation</sub>
 
