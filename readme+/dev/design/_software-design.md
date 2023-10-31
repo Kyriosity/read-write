@@ -19,21 +19,20 @@ Besides the primary specification of software entities, functions, and the [nami
 + [partitioning](/readme+/dev/software-parts/) (data, model, presentation, UI, biz logic),
 + use of [external](/readme+/dev/software-parts/ext_parts.md) libraries, frameworks, and services,
 + principal [language-specific decisions](.net/readme+/design)
-+ maintenance of [design samples](readme+/design_samples.md)
 + planned audience (roles, groups), 
 + visualization and presentation of modeling (like UML sketches)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:collision:</sup> <sub>Both conceptual and technical. 🚧 EXAMPLES REQUIRED</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:collision:</sup> <sub>Both conceptual (unrealistic expectations) and technical (realization bottlenecks).</sub>
 
 and are **not**: 
 
-- user experience (UX), including tongues (unless it's a linguistic app) and assistance,
-- detection of technical bottlenecks, // ToDo: example required
+- user experience (unless it's UX INVENT),
+- tongues (unless it's a linguistic app) and assistance,
 - versions of languages and platforms,
 - ways of authentication/authorization,
 - details of implementation, like sort algorithms,
 - code and docu management (as management system choice),
-- maintenance of documentation 
+- maintenance of design artifacts (docu).
 
 ## The role of the designer (architect)
 
@@ -89,3 +88,14 @@ It's about DIVERSION
 
 </details>
 
+## By-products of design
+
+Architecture ...
+
++ maintenance of [design samples](readme+/design_samples.md)
+
+🚧 ... TO BE WRITTEN ... 🚧
+
+## Appendix. New wardrobe - Design vs. "dev" vs. "coding"
+
+🚧 ... TO BE WRITTEN ... 🚧
