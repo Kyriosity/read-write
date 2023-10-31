@@ -1,10 +1,7 @@
-<div dir="rtl">...&nbsp;<i>If to learn means to swim against the current</i></div>
-<div dir="rtl"><i>.then IT must be a waterfall</i>&nbsp;...</div>
-
 - __Software__\
-|- [Design (aka Architecture)](readme+/dev/software-design.md)\
-|--- [Naming](readme+/dev/code-naming.md)\
-|--- [Patterns](readme+/dev/code-patterns.md)\
+|- [Design (aka Architecture)](readme+/dev/design/_software-design.md)\
+|--- [Naming](readme+/dev/design/code-naming.md)\
+|--- [Patterns](readme+/dev/design/code-patterns.md)\
 |--- [Driven design](readme+/dev/tdd-ddd.md)\
 |- Partitioning\
 |--- [Model](readme+/dev/software-parts/app-model.md)\
