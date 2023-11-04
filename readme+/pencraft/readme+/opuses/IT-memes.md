@@ -1,23 +1,25 @@
-# IT memes, personal selection of reasonable
+# IT memes - personal selection
+
+> NOTE: collected images and texts are for fair use, they must have respected owners, whose origin couldn't always be traced.
 
 Here I'd like to store IT memes found over time and over the net. They look both funny and reasonable after years (at least for me).
 
-> NOTE: collected images and texts are of respected parties, whose origin couldn't always be traced to the owner.
-
 <details>
-<summary><ins>&nbsp;<b>If to learn is to swim against the current ...</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>To learn is to swim against the current ...</b>&nbsp;</ins></summary>
 &nbsp;
   
-\#east-meets-west
+![West meets East](https://img.shields.io/badge/West_meets-East-yellow)
 
-![... then IT must be a waterfall.](../_rsc/_img/IT-meme.learn-IT-waterfall.png)
+![... then IT must be a waterfall.](../_rsc/_img/ITLearnWaterfall_horiz_width-500px.png)
 
-The big share of truth in this pseudo-wisdom is that no other technologies change so quickly as IT. Javascript I learned in 2000 remains only as basic syntax, much of its cool libs are gone, and the mainstream as Angular and similar frameworks.
+The genuine in this pseudo-wisdom is that no other knowledge changes so quickly as the IT tech stack. Javascript/HTML, which one learned in 2000, remains only as basic syntax. It went through libs, polyfills, jQuery, and other cool tools and at the moment transformed into single-page frameworks.
 
 **Solution?**
 
 > Don't swim against the current. Stay in the river, become the river; and the river is already going to the sea. This is the great teaching.\
-— Rajneesh, aka Osho (1931-1990)
+— Rajneesh, aka Osho (1931-1990
+
+Translated east-to-west this means: find a sinecure in a big corporation.
 
 ---------
 </details>
