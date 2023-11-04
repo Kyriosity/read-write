@@ -6,14 +6,14 @@ Major and long-time decisions on software implementation expressed in diagrams, 
 
 With reverence for unknown architects of the Acropolis and Colosseum, I'd voluntarily reserve the term ___architecture___ for processor families, operating systems, global computing services, spectra of heterogeneous solutions, and IT science.<sup>:gear:</sup>
 
-Whereas ___design___ comprises much better outlining of applications<sup>:raising_hand:</sup>, even of enterprise scale. Architecture implies tech-agnosticism (as with patterns), while the realization of requirements - particular tech stack, which can't be easily ported and decision derived from it would be too general.
+Whereas ___design___ suits much better applications<sup>:raising_hand:</sup>, even of enterprise scale. Software architecture implies tech-agnosticism (as with patterns), while the realization of requirements - particular tech stack, which can't be effectively ported on other rails.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:gear:</sup>&nbsp;<sub>You could have heard "architecture" addressed to _DevOps_, which also involves coding/scripting in other though neighboring terrain.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Note the keyword - application. Use of somewhat developed over existing software platform for exact tasks.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Note the keyword - application. Use of somewhat developed over existing software platform for exact tasks.</sub>
 
 ## Objectives of design
 
-Besides the primary specification of software entities, functions, and the [naming](/readme+/dev/code-naming.md/) of them, concerns of design **are**:
+Besides the primary specification of software entities, functions, and their [naming](/readme+/dev/code-naming.md/), concerns of design **are**:
 
 + detection of conceptual collisions<sup>:collision:</sup>,
 + [partitioning](/readme+/dev/software-parts/) (data, model, presentation, UI, biz logic),
@@ -22,11 +22,11 @@ Besides the primary specification of software entities, functions, and the [nami
 + planned audience (roles, groups), 
 + visualization and presentation of modeling (like UML sketches)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:collision:</sup> <sub>Both conceptual (unrealistic expectations) and technical (realization bottlenecks).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:collision:</sup> <sub>Both unrealistic expectations (as an AI-chat that will fully replace hotline operator, or crack of math problem) and technical bottlenecks (as hi-definition images processing in pure C# or obsolete user platforms).</sub>
 
 and are **not**: 
 
-- user experience (unless it's UX INVENT),
+- user experience (unless UI or UX is the application subject),
 - tongues (unless it's a linguistic app) and assistance,
 - versions of languages and platforms,
 - ways of authentication/authorization,
@@ -90,9 +90,9 @@ It's about DIVERSION
 
 ## By-products of design
 
-Architecture ...
++ add up to Architecture ...
 
-+ maintenance of [design samples](readme+/design_samples.md)
++ maintenance of acquired or imaginative [design samples](readme+/design_samples.md)
 
 🚧 ... TO BE WRITTEN ... 🚧
 
