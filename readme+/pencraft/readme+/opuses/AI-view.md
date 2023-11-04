@@ -54,7 +54,7 @@ These required much more search than the quotes above ...
 
 ![Illustration of IT and AI](../_rsc/_img/ComputerScience-Intro(learncomputerscienceonline.com).jpg)
 
-*&nbsp;<sub>Images are for illustrative purposes only and belong to the wiki and IMLO</sub>
+*&nbsp;<sub>Images are for illustrative purposes only and were taken from Wiki Commons and IMLO (learncomputerscienceonline.com)</sub>
 
 \__________________________________________
 </details>
@@ -70,13 +70,13 @@ To either brew by itself in increasingly complex code bouillon or get all of a s
 Digital tech fantastically and reliably automates much of hard cogitative ops (where humans are slow, prone to errors, lack parallelism, and get distracted), but not unformalizable processes - abstraction, (self-)criticism, motivation - which are preconditions of great breakthroughs in exact sciences<sup>:art:</sup>.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>⚙️</sup> <sub>Publicized views of decision-making as a relay work of neurons preset by acquired knowledge is a super-profanation of free will debate.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:art:</sup> <sub>In non-exact studies and art too, but it's not that evident and requires a separate view.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:art:</sup> <sub>In non-exact studies and art too, but it's not that evident and requires a separate parsing.</sub>
 
 ## Evidence
 
-You can think up a CAPTCHA, which a diligent fellow will promptly pass but "AI" (with access to all the data over Internet) may only exhaust, unless you limit attempts.
+You can think up a CAPTCHA, which a diligent fellow will promptly pass but "AI" (with or without Internet access) may only exhaust unless you limit attempts.
 
-The growth of computer powers allowed assisted mathematical proofs, impossible before. However, no program with all the computing power in the world can prove any unsolved mathematical problem<sup>:scientist:</sup>. Even if you submit unambivalent equations in plain XML.
+The growth of computer powers allowed assisted mathematical proofs, impossible before. However, no program with all the computing power in the world can unravel any unsolved mathematical problem<sup>:scientist:</sup>. Conditions for many are plain and unambivalent enough to submit in XML.
 
 A chess app on a cheapie hand-held device will smash any grandmaster but no AI will generate a better engine than hominid<sup>♟️</sup>.
 
@@ -92,7 +92,7 @@ There's human assistance behind many AI tricks (either individual tuning or "mac
 
 **First and foremost** AI is much a voguish theme and publicity of all kinds, but not mere hype and chimera. There are new generation data processing and storage behind<sup>:hammer_and_wrench:</sup>, but neither is "intelligent" since smart heads have programmed them.
 
-You may charge me with shallow judgments but searching for the theme I found the same-level presentations - beautiful (no sarcasm), futuristic but overall. (Compare to pure hash functions which had silently revolutionalized IT.)
+You may charge me with shallow judgments but searching for the theme I found the same-level presentations - beautiful (no sarcasm), futuristic but overall. (Compare to hash functions on pure math which had silently revolutionalized IT.)
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:hammer_and_wrench:</sup> <sub>Processing vast amounts of data in real-time, finding patterns there; image/video on-the-fly filtering and recognition; routine translation and text generation</sub>
 
@@ -104,7 +104,7 @@ Grunting "again"<sup>:top:</sup> obliges me to recall a few AI booms, impromptu 
 
 The crucial IT decade ever - an energized rack of metals, glass, and vacuum could replace hives of handmade calculations, and avid scientists elaborated impressive HMIs with high-level languages. 
 
-The leap in both hardware and software could surpass sci-fi fantasies. And there were two letters that made folks think that processors will soon be peers of human brains.
+The leap in both hardware and software could surpass the wildest phantasies. And there were two letters that made folks think that processors will soon be peers of human brains.
 
 <details>
 <summary><ins>&nbsp;These two letters were not AI but ...&nbsp;</ins></summary>
@@ -117,20 +117,20 @@ The leap in both hardware and software could surpass sci-fi fantasies. And there
 
 ### 1970s
 
-Computers gradually spread from science calculations to business assistance, and robotics delivered funny androids. 
+Computers gradually spread from science calculations to business (with a much greater audience), and robotics delivered funny androids. 
 
-In chess, with its intellectual aura, experimental (not for cheat) computer programs could give winning hints that grandmasters couldn't discern and had attributed to the abrupt progress of their inferior opponents.<sup>:game_die:</sup>
+In chess, with its intellectual aura, computer programs (not for cheat but experiment) could give winning hints that grandmasters couldn't discern and had attributed to the abrupt progress of their inferior opponents.<sup>:game_die:</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:game_die:</sup> <sub>It's AlphaGo in 2023 for another strategy board, since a computer could defeat a chess WM in 1997.</sub>
 
 ### Late 1980s - early 1990s
 
-PCs have become a mass factor at work and home. Thousands of enthusiasts, fascinated by the might and ease of programming, along with top-level engineers, which one could hire then for symbolic rates, tried to reanimate AI.
+PCs have become a mass factor at work and home. Thousands of enthusiasts, fascinated by the might and ease of programming, along with top engineers, which one could hire then for symbolic rates, tried to reanimate AI.
 
 A side-effect of that kick was the emergence of pseudo-sciences like _the theory of inventive problem-solving_.
 
 ### 2023
 
-And here we are, when "_there will be no (human) programmers in five years_" (*Emad Mostaque*, CEO of Stability AI, 2023).
+And here we are, when "_there will be no (human) programmers in five years_" (*Emad Mostaque*, CEO of Stability AI, 2023). No fear, thanks to AI "you'll have universal high income" (Musk again, 03/Nov).
 
 ... ⌛ SO, LET'S RECAP AFTER FIVE YEARS :microscope:...
