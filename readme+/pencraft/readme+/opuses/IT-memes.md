@@ -12,7 +12,14 @@ Here I'd like to store IT memes found over time and over the net. They look both
 
 ![... then IT must be a waterfall.](../_rsc/_img/ITLearnWaterfall_horiz.png)
 
-The genuine in this pseudo-wisdom is that no other knowledge changes so quickly as the IT tech stack. Javascript/HTML, which one learned in 2000, remains only as basic syntax. It went through libs, polyfills, jQuery, and other cool tools and at the moment transformed into single-page frameworks.
+The grain of truth in this wisdom is that 
+
+* No other knowledge erodes so quickly as the IT tech stack - languages, markup, frameworks, UX guidelines, and their IDEs (sub)emerge, and mutate annually.<sup>:violin:</sup>
+* In the horizontal dimension a developer can't stick to a favorite syntax and must be competent with a wide tech stack.
+
+_Mobilis in Mobili_
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:violin:</sup> <sub>Javascript/HTML, which one learned in 2000, remains only as basic syntax. It went through numerous libs, polyfills, jQuery, and other cool tools and at the moment transformed into single-page frameworks, which rule web dev.</sub>
 
 **Solution?**
 
@@ -28,11 +35,9 @@ Translated east-to-west this means: find a sinecure in a big corporation.
 <summary><ins>&nbsp;<b>Fair random</b>&nbsp;</ins></summary>
 &nbsp;
 
-![new GUID](https://img.shields.io/badge/new-GUID-blue) 
+![pseudo random](https://img.shields.io/badge/pseudo-random-yellow) ![new GUID](https://img.shields.io/badge/new-GUID-blue) 
 
 ![Guaranted random by fair dice roll](../_rsc/_img/IT-meme.random-number.png)
-
-The grain of truth in this kidding is that it's not too far away from pseudo-random.
 
 ---------
 </details>
