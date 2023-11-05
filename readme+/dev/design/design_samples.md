@@ -7,7 +7,7 @@ The planning and presentation of software features oblige one with a pictorial b
 
 ## Chess
 
-<p dir=rtl>Chess speaks for itself<br><i>Hans Niemann, 2022</i></p>
+<p dir=rtl>Chess speaks for itself<br><i>Hans Moke Niemann, 2022</i></p>
 
 This popular, with easy-to-learn rules, board strategy of all times renders a definitely favorable playground for software logic.  Other traits are...
 
