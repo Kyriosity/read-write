@@ -26,11 +26,12 @@ but not its redundant declaration `new CollWrapper<List<int>, int>()`.
 
 ## Types
   
-Root `object`, both non-abstract and interface-less, asserts flaws in object-oriented design. On the other hand, it brings an "original" footprint, big enough to pollute coding space with names.
+- Root `object`, both non-abstract and interface-less, asserts flaws in object-oriented design. On the other hand, it brings an "original" footprint, big enough to pollute coding space with names.
 
-Either `class`, `record`, `record class`, `struct`, `record struct`, or *tuples* can declare an entity. Each has pros and cons for a particular case, but deciding between them could distract from design.
+- Either `class`, `record`, `record class`, `struct`, `record struct`, or *tuples* can declare an entity. Each has pros and cons for a particular case, but deciding between them could distract from design.
 
-`Exception` can't be the return of a method, while `void` which will unconditionally throw is a declaration fail.
+- There's no method signature to specify that it must unconditionally throw an exception, and `void` as a return will be incorrect.\
+🚧 ToDo: add the hint!
 
 ## Namespaces and class organization
 
