@@ -19,8 +19,9 @@ Nothing is perfect and C# too. The following language artifacts are awkward leas
   
 ### Generics
 
-The next definition is laconic and clear `class CollWrapper<C, T> where C : ICollection<T> { ... }`, \
-but not its redundant declaration `new CollWrapper<List<int>, int>()`.
+The next definition is laconic and clear `class CollWrapper<C, T> where C : ICollection<T> { ... }`, but not its redundant declaration `new CollWrapper<List<int>, int>()`.
+
+One finds much more generic restraints when advancing in design.<sup>🙋</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics) that their generics are "_does nots_" of C++ templates.</sub>
 
@@ -30,8 +31,8 @@ but not its redundant declaration `new CollWrapper<List<int>, int>()`.
 
 - Either `class`, `record`, `record class`, `struct`, `record struct`, or *tuples* can declare an entity. Each has pros and cons for a particular case, but deciding between them could distract from design.
 
-- There's no method signature to specify that it must unconditionally throw an exception, and `void` as a return will be incorrect.\
-🚧 ToDo: add the hint!
+- There's no method signature to specify that it must unconditionally throw an exception, and `void` as a return is incorrect.\
+(The workaround may be to [declare the return as an exception to be thrown](cs-hints.md#Gimmicks)).
 
 ## Namespaces and class organization
 
