@@ -21,7 +21,7 @@ Nothing is perfect and C# too. The following language artifacts are awkward leas
 
 The next definition is laconic and clear `class CollWrapper<C, T> where C : ICollection<T> { ... }`, but not its redundant declaration `new CollWrapper<List<int>, int>()`.
 
-One finds much more generic restraints when advancing in design.<sup>🙋</sup>
+Advanced C# design reveals more generic restraints and consequent *Vodoo programming* to workaround them.<sup>🙋</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics) that their generics are "_does nots_" of C++ templates.</sub>
 
