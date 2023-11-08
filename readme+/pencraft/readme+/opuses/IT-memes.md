@@ -1,8 +1,6 @@
 # IT memes - personal selection
 
-> NOTE: collected images and texts are for fair use, they must have respected owners, whose origin couldn't always be traced.
-
-Here I'd like to store IT memes found over time and over the net. They look both funny and reasonable after years (at least for me).
+I'll share IT memes that I remember and like. I couldn't trace owners of certain images/text to attribute (albeit archaeologists say that the source of any meme can be found in cuneiform.).
 
 <details>
 <summary><ins>&nbsp;<b>To learn is to swim against the current ...</b>&nbsp;</ins></summary>
@@ -12,10 +10,10 @@ Here I'd like to store IT memes found over time and over the net. They look both
 
 ![... then IT must be a waterfall.](../_rsc/_img/ITLearnWaterfall_horiz.png)
 
-The grain of truth in this wisdom is that 
+The grains of truth in this wisdom:
 
-* No other knowledge erodes so quickly as the IT tech stack - languages, markup, frameworks, UX guidelines, and their IDEs (sub)emerge, and mutate annually.<sup>:violin:</sup>
-* In the horizontal dimension a developer can't stick to a favorite syntax and must be competent with a wide tech stack.
+* No other knowledge erodes so quickly as the IT tech stack - languages/scripts, markup, frameworks, and their IDEs, UX styles (sub)emerge, and mutate annually.<sup>:violin:</sup>
+* In the horizontal dimension a developer can't stick to a favorite language and must be competent in a wide techno spectrum.
 
 _Mobilis in Mobili_
 
@@ -52,3 +50,5 @@ https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 
 ---------
 </details>
+
+... 📝 TO BE CONTINUED 📝 ...

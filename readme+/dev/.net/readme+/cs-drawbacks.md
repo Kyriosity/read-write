@@ -19,18 +19,20 @@ Nothing is perfect and C# too. The following language artifacts are awkward leas
   
 ### Generics
 
-The next definition is laconic and clear `class CollWrapper<C, T> where C : ICollection<T> { ... }`, \
-but not its redundant declaration `new CollWrapper<List<int>, int>()`.
+The next definition is laconic and clear `class CollWrapper<C, T> where C : ICollection<T> { ... }`, but not its redundant declaration `new CollWrapper<List<int>, int>()`.
+
+Advanced C# design reveals more generic restraints and consequent *Vodoo programming* to workaround them.<sup>🙋</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics) that their generics are "_does nots_" of C++ templates.</sub>
 
 ## Types
   
-Root `object`, both non-abstract and interface-less, asserts flaws in object-oriented design. On the other hand, it brings an "original" footprint, big enough to pollute coding space with names.
+- Root `object`, both non-abstract and interface-less, asserts flaws in object-oriented design. On the other hand, it brings an "original" footprint, big enough to pollute coding space with names.
 
-Either `class`, `record`, `record class`, `struct`, `record struct`, or *tuples* can declare an entity. Each has pros and cons for a particular case, but deciding between them could distract from design.
+- Either `class`, `record`, `record class`, `struct`, `record struct`, or *tuples* can declare an entity. Each has pros and cons for a particular case, but deciding between them could distract from design.
 
-`Exception` can't be the return of a method, while `void` which will unconditionally throw is a declaration fail.
+- There's no method signature to specify that it must unconditionally throw an exception, and `void` as a return is incorrect.\
+(The workaround may be to [declare the return as an exception to be thrown](cs-hints.md#Gimmicks)).
 
 ## Namespaces and class organization
 

@@ -4,8 +4,10 @@
 
 Simplicity and versatility make **TDD** superb for insight into fuzzy topics (almost any novel development). 
 
-It's simple because it needs neither special skills nor prescribed processes, while popular and mostly free unit-test libraries equip one enough to start.\
-It's versatile since it can be applied to any extent and direction, mock and stub anything, or rely on realistic data.
++ It's simple because it needs neither special skills nor prescribed processes.
++ It's versatile since it can be applied to any extent and direction, mock and stub anything, or rely on realistic data.
++ It's natural to start with - write a test method to test first code snippets.
++ Popular and mostly free unit-test frameworks libraries equip one enough to start. (Any modern IDE is shipped with a selection of testing templates.)
 
 The purpose of TDD is in no way test automation but means to:
 

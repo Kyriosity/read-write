@@ -4,7 +4,8 @@
 
 <details>
 <summary><ins>Negate with <i>exclusive or</i></ins></summary>
-  
+&nbsp;
+
 ```diff csharp
 -      isLoading = !isLoading // open for typos with other var
 +      isLoading ^= true; // explicit inversion
@@ -22,6 +23,7 @@
 
 <details>
 <summary><ins>Argument</ins> <code>out</code> <ins>for readability</ins></summary>
+&nbsp;
 
 ```csharp
 if (!PauseOver(out var remaining))
@@ -65,7 +67,8 @@ var rfidTagFilter = 0b_0111_1100_0100_0011;
 
 <details>
 <summary><ins>Name "magic" constants</ins></summary>
-  
+&nbsp;
+
 Making a "magic value" to constants or predefined values doesn't clean the code unless named good.   
   
 ```diff csharp
@@ -82,6 +85,7 @@ Making a "magic value" to constants or predefined values doesn't clean the code 
 
 <details>
 <summary><ins>Interpolate to cut</ins>&nbsp;<code>ToString</code></summary>
+&nbsp;
 
 ```diff csharp
 -    throw new ArgumentException(state.ToString());
@@ -91,10 +95,13 @@ Making a "magic value" to constants or predefined values doesn't clean the code 
 
 </details>
 
+NOT VOID BUT EXCEPTION as RETURN ! 🚧
+
 ## Gimmicks
 
 <details>
 <summary><ins>Benchmark/profile with</ins> <code>using</code></summary>
+&nbsp;
 
 ```csharp
 using (var benchmark = new Benchmark()) {
