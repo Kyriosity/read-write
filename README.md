@@ -1,8 +1,8 @@
 - __Software__\
-|- [Design (aka Architecture)](readme+/dev/design/_software-design.md)\
-|--- [Naming](readme+/dev/design/code-naming.md)\
-|--- [Patterns](readme+/dev/design/code-patterns.md)\
-|--- [Driven design](readme+/dev/tdd-ddd.md)\
+|- [Design (Architecture)](readme+/dev/design/)\
+|--- [Naming](readme+/dev/design/readme+/code-naming.md)\
+|--- [Patterns](readme+/dev/design/readme+/code-patterns.md)\
+|--- [Driven design](readme+/dev/design/readme+/tdd-ddd.md)\
 |- Partitioning\
 |--- [Model](readme+/dev/software-parts/app-model.md)\
 |--- [View](readme+/dev/software-parts/app-view.md)\
