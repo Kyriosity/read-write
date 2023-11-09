@@ -2,7 +2,9 @@
 
 ## "Design" or "Architecture"?
 
-Major and long-time decisions on software implementation expressed in diagrams, modules, interfaces, classes, layers, hierarchies, and patterns - is it architecture or design?
+Both "design" and "architecture" are umbrella terms for expertise (magnificent or clumsy) which brigdes ideas ***(reqs, abstractions) and their realization as computer programs.
+
+Software implementation expressed in diagrams, modules, interfaces, classes, layers, hierarchies, and patterns - is it architecture or design?
 
 With reverence for unknown architects of the Acropolis and Colosseum, I'd voluntarily reserve the term ___architecture___ for processor families, operating systems, global computing services, spectra of heterogeneous solutions, and IT science.<sup>:gear:</sup>
 
@@ -13,7 +15,7 @@ Whereas ___design___ suits much better applications<sup>:raising_hand:</sup>, ev
 
 ## Objectives of design
 
-Besides the primary specification of software entities, functions, and their [naming](/readme+/dev/code-naming.md/), concerns of design **are**:
+Besides the primary specification of software layers, modules, entities, functions, and their [naming](/readme+/dev/design/readme+/code-naming.md/), concerns of design **are**:
 
 + detection of conceptual collisions<sup>:collision:</sup>,
 + [partitioning](/readme+/dev/software-parts/) (data, model, presentation, UI, biz logic),
@@ -33,6 +35,10 @@ and are **not**:
 - details of implementation, like sort algorithms,
 - code and docu management (as management system choice),
 - maintenance of design artifacts (docu).
+
+Design may have optional outcomes as 
+
++ maintenance of acquired or imaginative [design samples](readme+/design_samples.md)
 
 ## The role of the designer (architect)
 
@@ -88,14 +94,5 @@ It's about DIVERSION
 
 </details>
 
-## By-products of design
-
-+ add up to Architecture ...
-
-+ maintenance of acquired or imaginative [design samples](readme+/design_samples.md)
-
 🚧 ... TO BE WRITTEN ... 🚧
 
-## Appendix. New wardrobe - Design vs. "dev" vs. "coding"
-
-🚧 ... TO BE WRITTEN ... 🚧
