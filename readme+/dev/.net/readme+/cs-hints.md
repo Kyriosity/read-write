@@ -1,9 +1,9 @@
 # C# - Derived from praxis
 
-## Syntactic
+## Syntactic reminder
 
 <details>
-<summary><ins>Negate with <i>exclusive or</i></ins></summary>
+<summary><ins>&nbsp;Negate with <i>exclusive or</i>&nbsp;</ins></summary>
 &nbsp;
 
 ```diff csharp
@@ -15,14 +15,14 @@
 ```diff csharp
 // Invert a longish chained property in legacy API:
 -    Controller_A.CPU2.Circuits.TriggerY1.Input.S_plus = !Controller_A.CPU2.Circuits.TriggerV1.Input.S_plus;
-// Have you noticed a typo, which I inserted on purpose, and which can still designate a valid prop
+// Have you noticed a typo (done on purpose), which can still designate a valid property
 +    Controller_A.CPU2.Circuits.TriggerY1.Input.S_plus ^= true; // terser and "typo"-safe 
 ```
 
 </details>
 
 <details>
-<summary><ins>Argument</ins> <code>out</code> <ins>for readability</ins></summary>
+<summary><ins>&nbsp;Argument</ins> <code>out</code> <ins>for readability&nbsp;</ins></summary>
 &nbsp;
 
 ```csharp
@@ -30,10 +30,13 @@ if (!PauseOver(out var remaining))
    _worker.Sleep(remaining);
 ```
 
+Can also be an exception damper (see in _Gimmicks_ below).
+
 </details>
 
 <details>
-<summary><ins>Discard with underscore</ins></summary>
+<summary><ins>&nbsp;Discard with underscore&nbsp;</ins></summary>
+&nbsp;
 
 ```csharp
  // Remove visual noise of nominal arguments
@@ -43,7 +46,7 @@ if (!PauseOver(out var remaining))
 
  ```csharp
  // to point that return value isn't required or a method/constructor is called for side-effect only
- _ = myShoppingCart.Pay(); // habitually I don't care for the receipt returned 
+ _ = myShoppingCart.Pay(); // users don't care for the receipt returned 
  _ = new ResourceBlocker(filename); // stub objects (e.g. to invoke and prove constructor logic only) 
 ```
   
@@ -66,7 +69,7 @@ var rfidTagFilter = 0b_0111_1100_0100_0011;
 </details>
 
 <details>
-<summary><ins>Name "magic" constants</ins></summary>
+<summary><ins>&nbsp;Name "magic" constants&nbsp;</ins></summary>
 &nbsp;
 
 Making a "magic value" to constants or predefined values doesn't clean the code unless named good.   
@@ -84,7 +87,7 @@ Making a "magic value" to constants or predefined values doesn't clean the code 
 </details>
 
 <details>
-<summary><ins>Interpolate to cut</ins>&nbsp;<code>ToString</code></summary>
+<summary><ins>&nbsp;Interpolate instead of&nbsp;</ins>&nbsp;<code>ToString</code></summary>
 &nbsp;
 
 ```diff csharp
@@ -95,12 +98,10 @@ Making a "magic value" to constants or predefined values doesn't clean the code 
 
 </details>
 
-NOT VOID BUT EXCEPTION as RETURN ! 🚧
-
 ## Gimmicks
 
 <details>
-<summary><ins>Benchmark/profile with</ins> <code>using</code></summary>
+<summary><ins>&nbsp;Benchmark/profile with&nbsp;</ins><code>using</code></summary>
 &nbsp;
 
 ```csharp
@@ -124,12 +125,37 @@ class Benchmark : IDisposable
 ```
 </details>
 
+<details>
+<summary>
+   <ins>&nbsp;Exception dampers&nbsp;</ins>
+</summary>
+&nbsp;
+
+It's legal to write `throw` in any C# method, but there may be motives (correlating) to delegate exceptions up:
+
+* Method unconditionally does throw and any return value (also `void`) deceives.
+* Other concurrent methods (not only parallel) may throw and better the caller accumulates and weights exceptions without heavy `catch`.
+* You'd like to explicitly warn code readers what a method may throw.
+
+```csharp
+
+ArgumentException BlockHack(params string[] args);
+void Interpolate(PixelArea area, out ResourceException? exception);
+bool TryParse(string raw, out ThisProjectException? exception); 
+bool TryParse(string raw, out FormatException? exception, out ThisProjectException? exception); 
+```
+
+Going further `out' compare throw in Java
+
+</details>
+
 ## Organization of entities
 
 <details>
-<summary><ins>Named tuples as design shortcuts</ins></summary>
+<summary><ins>&nbsp;Named tuples as design shortcuts&nbsp;</ins></summary>
+&nbsp;
 
-Piles of interfaces, classes, and structs for every single trifle may obscure the contours of OOD. Then _named tuples_ is a sound compromise, when limited to sparse occasions.
+Piles of interfaces, classes, and structs for every single trifle may obscure the contours of OOD, and their maintenance distracts from design. Then sparsely applied _named tuples_ are a rational compromise.
 
 ```csharp
 ...
@@ -155,14 +181,15 @@ Unrestricted tuples, named or not, will be great helpers for prototyping code co
 </details>
 
 <details>
-<summary><ins>Distinct default of enums</ins></summary>
+<summary><ins>&nbsp;Distinct default of enums&nbsp;</ins></summary>
+&nbsp;
 
 Reserve, when appropriate, _none_, _undefined_ or _unknown_ as zero-value to prevent unexpected default assignment and consequent bugs.
 ```csharp
 enum FundamentalStatesOfMatter
 {
     Unknown, // implicitly = 0,
-    Solid, // won't be assigned by default e.g. to a motor coolant
+    Solid, // won't be assigned by default, e.g. to a motor coolant
     Liquid,
     Gas,
     Plasma
@@ -171,8 +198,7 @@ enum FundamentalStatesOfMatter
 
 </details>
 
-&nbsp;
-## Subsystems
+## Subsystems, frameworks
 
 + WPF ...\
 | - [WPF hints](../wpf/readme+/wpf-hints.md)
