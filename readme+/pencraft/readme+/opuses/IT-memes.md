@@ -1,9 +1,8 @@
 # IT memes - personal selection
 
-I'll share IT memes that I remember and like. I couldn't trace owners of certain images/text to attribute (albeit archaeologists say that the source of any meme can be found in cuneiform.).
-
+I'll share IT memes that I remember and like.
 <details>
-<summary><ins>&nbsp;<b>To learn is to swim against the current ...</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>First and foremost: to learn is to swim against the current ...</b>&nbsp;</ins></summary>
 &nbsp;
   
 ![West meets East](https://img.shields.io/badge/West_meets-East-yellow)
@@ -33,7 +32,7 @@ Translated east-to-west this means: find a sinecure in a big corporation.
 <summary><ins>&nbsp;<b>Fair random</b>&nbsp;</ins></summary>
 &nbsp;
 
-![pseudo random](https://img.shields.io/badge/pseudo-random-yellow) ![new GUID](https://img.shields.io/badge/new-GUID-blue) 
+![true random](https://img.shields.io/badge/true-random-yellow) ![new GUID](https://img.shields.io/badge/new-GUID-blue) 
 
 ![Guaranted random by fair dice roll](../_rsc/_img/IT-meme.random-number.png)
 
@@ -44,9 +43,20 @@ Translated east-to-west this means: find a sinecure in a big corporation.
 <summary><ins>&nbsp;<b>Marsupial covariance</b>&nbsp;</ins></summary>
 &nbsp;
 
-![new GUID](https://img.shields.io/badge/clean_code-OOD-blue) 
+![clean code](https://img.shields.io/badge/clean_code-OOD-blue) 
 
 https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
+
+---------
+</details>
+
+<details>
+<summary><ins>&nbsp;<b>Programmer in a math class</b>&nbsp;</ins></summary>
+&nbsp;
+
+![IT meets math](https://img.shields.io/badge/IT_meets-math-yellow)
+
+![Here is X. Calm down Pythagoras](../_rsc/_img/PythagoreanTheorem_findX.jpg)
 
 ---------
 </details>
