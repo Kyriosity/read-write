@@ -54,7 +54,7 @@ https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 <summary><ins>&nbsp;<b>Programmer in a math class</b>&nbsp;</ins></summary>
 &nbsp;
 
-![IT meets math](https://img.shields.io/badge/IT_meets-math-yellow)
+![IT meets math](https://img.shields.io/badge/CTRL+F-X-blue) ![IT meets math](https://img.shields.io/badge/IT_meets-math-yellow)
 
 ![Here is X. Calm down Pythagoras](../_rsc/_img/PythagoreanTheorem_findX.jpg)
 
