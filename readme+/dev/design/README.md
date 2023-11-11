@@ -1,8 +1,20 @@
-# Software design - private derivations
+..................... 🚧 **... DRAFT ...** 🚧 ....................
 
-## "Design" or "Architecture"?
+# Software - Creation processes- private derivations
 
-Both "design" and "architecture" are umbrella terms for expertise (magnificent or clumsy) which brigdes ideas ***(reqs, abstractions) and their realization as computer programs.
+## Terminology
+
+Software as an **artifact** can be attribute to next overlapping activities: _architecture_, _design_, _development_, and _coding_.
+
+### Architecture vs Design
+
+Both "design" and "architecture" are interchangeable umbrella terms for expertise (magnificent or clumsy) which brigdes ideas ***(reqs, abstractions) and their realization as computer programs.
+
+
+### Design vs Development
+
+### Coding ?
+
 
 Software implementation expressed in diagrams, modules, interfaces, classes, layers, hierarchies, and patterns - is it architecture or design?
 
@@ -12,6 +24,10 @@ Whereas ___design___ suits much better applications<sup>:raising_hand:</sup>, ev
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:gear:</sup>&nbsp;<sub>You could have heard "architecture" addressed to _DevOps_, which also involves coding/scripting in other though neighboring terrain.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Note the keyword - application. Use of somewhat developed over existing software platform for exact tasks.</sub>
+
+## Activities as roles
+
+### Why roles changings is IMPORTANT
 
 ## Objectives of design
 
