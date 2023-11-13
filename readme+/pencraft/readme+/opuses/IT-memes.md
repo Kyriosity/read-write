@@ -34,7 +34,7 @@ Translated east-to-west this means: find a sinecure in a big corporation.
 
 ![true random](https://img.shields.io/badge/true-random-yellow) ![new GUID](https://img.shields.io/badge/new-GUID-blue) 
 
-![Guaranted random by fair dice roll](../_rsc/_img/IT-meme.random-number.png)
+![Guaranted random by fair dice roll](../_rsc/_img/memes/IT-meme.random-number.png)
 
 ---------
 </details>
@@ -56,7 +56,7 @@ https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 
 ![IT meets math](https://img.shields.io/badge/CTRL+F-X-blue) ![IT meets math](https://img.shields.io/badge/IT_meets-math-yellow)
 
-![Here is X. Calm down Pythagoras](../_rsc/_img/PythagoreanTheorem_findX.jpg)
+![Here is X. Calm down Pythagoras](../_rsc/_img/memes/PythagoreanTheorem_findX.jpg)
 
 ---------
 </details>
