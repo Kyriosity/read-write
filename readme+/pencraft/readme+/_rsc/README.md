@@ -6,7 +6,7 @@ Non-code materials in repositories, created under this profile contain diverse p
 
 // ToDo: description
 
-You can reproduce my resources (as a collage or meme) when explicitly attributing them to my profile on GitHub.
+You can reproduce my resources as a collage or meme (also re-worked) when explicitly attributing them to my profile on GitHub.
 
 ## External resources
 
