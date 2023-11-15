@@ -1,10 +1,10 @@
 # Lotus Notes - "This used to be my playground"
 
-> As a user and developer of Lotus Notes for over a decade (before going .NET), I must have deserved the privilege of personal (Lotus) notes.
+> As a Lotus Notes apps developer for over a decade (before going to .NET), I must have deserved the privilege of personal (Lotus) notes.
 
 IBM PC users remember (or not) that it was a time and a **word**, not Microsoft's one, but "Lotus" - a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
 
-The multiplatform groupware _Lotus Notes_, released at the turn of 1991, joined the best of academic IT from the 1980s with the youthful practices of the 1990s and promptly became of core value for corporate users. 
+The multiplatform groupware _Lotus Notes_, released at the turn of 1991, joined the best of academic IT from the 1980s with the youthful practices of the 1990s and promptly became of core value for corporate clients. 
 
 Lotus Notes (henceforth also _LN_) paved the public road to diverse innovations: client-server, multirole/group certified access, doc-oriented DB, __**replication**__<sup>:star:</sup>, to name a few of unique goodies.
 
@@ -21,11 +21,11 @@ The bargain sale of Domino/Notes and donating office source code to freeware put
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:star:</sup> <sub>Emphasized for rare ease, versatility, productivity, and robustness. Besides synchronizing DBs it allowed to seamlessly use/develop LN offline, guarantee messaging, and merge design much simpler than in Git or TFS.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>I can't imagine a newbie installing SharePoint on a notebook and writing the first useful application within a week.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:moneybag:</sup> <sub>For a $3.5 billion - not a big deal nowadays, while made well before IT procurements had skyrocketed at the end of the 1990s.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:icecream:</sup> <sub>It's not a secret that IBM gave the cold shoulder to Lotus _laissez-faire_, urging many top devs to go.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:icecream:</sup> <sub>It's not a secret that IBM gave the cold shoulder to Lotus _laissez-faire_, urging many top devs to leave.</sub>
 
 ## Appendix. Alternative history
 
-You know that Notes had enough downsides to surrender to the rival from Redmond (WA), but let's dream up how "survived" LN may look today.
+Notes had enough downsides to surrender to the rival from Redmond (WA), but let's dream up how "survived" LN could look today.
 
 + **Storage as a sound object-relational model over IBM DB2**\
 Instead of enclosed and specific Notes Storage Facility (NSF)<sup>💿</sup> 
