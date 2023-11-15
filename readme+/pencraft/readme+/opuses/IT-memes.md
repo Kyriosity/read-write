@@ -5,23 +5,21 @@ I'll share IT memes that I remember and like.
 <summary><ins>&nbsp;<b>First and foremost: to learn is to swim against the current ...</b>&nbsp;</ins></summary>
 &nbsp;
   
-![West meets East](https://img.shields.io/badge/West_meets-East-yellow)
+![West meets East](https://img.shields.io/badge/West_meets-East-yellow) ![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)
 
 ![... then IT must be a waterfall.](../_rsc/_img/ITLearnWaterfall_horiz.png)
 
 The grains of truth in this wisdom:
 
-* No other knowledge erodes so quickly as the IT tech stack - languages/scripts, markup, frameworks, and their IDEs, UX styles (sub)emerge, and mutate annually.<sup>:violin:</sup>
+* No other knowledge erodes so quickly as the IT tech stack - languages/scripts, markup, frameworks, and their IDEs, UX styles emerge, submerge, and mutate with the pace of the year.<sup>:violin:</sup>
 * In the horizontal dimension a developer can't stick to a favorite language and must be competent in a wide techno spectrum.
-
-_Mobilis in Mobili_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:violin:</sup> <sub>Javascript/HTML, which one learned in 2000, remains only as basic syntax. It went through numerous libs, polyfills, jQuery, and other cool tools and at the moment transformed into single-page frameworks, which rule web dev.</sub>
 
 **Solution?**
 
 > Don't swim against the current. Stay in the river, become the river; and the river is already going to the sea. This is the great teaching.\
-— Rajneesh, aka Osho (1931-1990
+— Rajneesh, aka Osho (1931-1990)
 
 Translated east-to-west this means: find a sinecure in a big corporation.
 
