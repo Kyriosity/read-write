@@ -152,7 +152,7 @@ Going further `out' compare throw in Java
 ## Organization of entities
 
 <details>
-<summary><ins>&nbsp;Named tuples as design shortcuts&nbsp;</ins></summary>
+<summary><ins>&nbsp;Tuples as design shortcuts&nbsp;</ins></summary>
 &nbsp;
 
 Piles of interfaces, classes, and structs for every single trifle may obscure the contours of OOD, and their maintenance distracts from design. Then sparsely applied _named tuples_ are a rational compromise.
@@ -168,16 +168,22 @@ if (storehouse.FindMinPackage(goods).availableFrom < DateTime.Today.AddDays(3)) 
 
 Further use is to streamline assignments:
 
-```csharp
+```diff
 // Given a chess game log ...
  chessGame.Move = "c5";
-// .. you'd like to annotate moves 
-chessGame.Move = ("c5", "Sicilian Defence");
-// that is backed with
-(string notation, string comment) Move { get; set; }
+// .. you'd like to annotate moves
+- chessGame.Move.Code = "c5";
+- chessGame.Move.Comment = "Sicilian Defence";
+- chessGame.Move.Timestamp = DateTime.Now; 
++ chessGame.Move = ("c5", "Sicilian Defence", DateTime.Now);
 ```
 
-Unrestricted tuples, named or not, will be great helpers for prototyping code contracts until they will solidify into interfaces and definitions.
+Unrestricted tuples, named or not, will be great helpers for prototyping code contracts until they solidify into interfaces and definitions. And with C#12 you can define tuples in namespaces:
+
+```csharp
+using Book = (string title, short year, (string Name, string Surname) author);
+```
+
 </details>
 
 <details>
