@@ -58,6 +58,8 @@ https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 
 ![Here is X. Calm down Pythagoras](../_rsc/_img/memes/PythagoreanTheorem_findX.jpg)
 
+Well, ability in exact sciences isn't a prerequisite for programming today. You shan't develop a sorting algorithm since you may find one.
+
 ---------
 </details>
 
