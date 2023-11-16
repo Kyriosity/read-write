@@ -1,6 +1,6 @@
 # Lotus Notes - "This used to be my playground"
 
-> As a Lotus Notes apps developer for over a decade (before going to .NET), I must have deserved the privilege of personal (Lotus) notes.
+> As a developer on (not of) Lotus Notes for over a decade (before switching to .NET), I must have deserved the privilege of personal (Lotus) notes.
 
 IBM PC users remember (or not) that it was a time and a **word**, not Microsoft's one, but "Lotus" - a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
 
@@ -10,7 +10,7 @@ Lotus Notes (henceforth also _LN_) paved the public road to diverse innovations:
 
 Devs and admins will mention authentic Rapid Application Development with fluent installation/evaluation<sup>:raising_hand:</sup>.
 
-No question, there were similar suites - legacy, alternative, or tailor-made - but this aquatic flower dominated the market garden ... until Microsoft began to  win its large chunks of office software.
+There were similar suites - legacy, alternative, or tailor-made - but this aquatic flower dominated the market garden ... until Microsoft began to  win its large chunks of office software.
 
 In 1995, IBM gained Lotus in full<sup>:moneybag:</sup>. It was a big chance not only to gain from internal use and sales but also to reform at least LN with the power, know-how, and technologies of the Big Blue. Mediocre and inaccurately focused efforts for the latter caused Lotus to wilt.<sup>:icecream:</sup>
 
