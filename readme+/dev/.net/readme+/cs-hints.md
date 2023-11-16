@@ -178,7 +178,7 @@ Further use is to streamline assignments:
 + chessGame.Move = ("c5", "Sicilian Defence", DateTime.Now);
 ```
 
-Unrestricted tuples, named or not, will be great helpers for prototyping code contracts until they solidify into interfaces and definitions. And with C#12 you can define tuples in namespaces:
+Unrestricted tuples, named or not, will be great helpers for prototyping code contracts until they solidify into interfaces and definitions. And with C#12 you can define tuples in namespaces (in global using too):
 
 ```csharp
 using Book = (string title, short year, (string Name, string Surname) author);
