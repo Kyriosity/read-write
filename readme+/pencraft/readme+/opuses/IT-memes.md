@@ -1,6 +1,6 @@
 # IT memes - personal selection
 
-Memes of various origins to share.
+Memes of various origins, I've picked, to keep and share.
 
 <details>
 <summary><ins>&nbsp;<b>First and foremost: to learn is to swim against the current ...</b>&nbsp;</ins></summary>
@@ -69,6 +69,10 @@ Well, ability in exact sciences isn't a prerequisite for programming today. You 
 ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Cheat GPT](https://img.shields.io/badge/Medieval-AI-blue)
 
 [![AI: 1523 vs 2023](../_rsc/_img/memes/AI-1523-2023_spot-the-diff.png)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/opuses/AI-2023.md)
+
+I may only swear that making this meme I didn't know that Hubert Dreyfus wrote "Alchemy and AI" in 1965. 
+
+---
 
 </details>
 
