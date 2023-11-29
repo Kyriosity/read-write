@@ -63,7 +63,7 @@ Well, ability in exact sciences isn't a prerequisite for programming today. You 
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>Spot the difference</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>AIchemy</b>&nbsp;</ins></summary>
 &nbsp;
 
 ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Cheat GPT](https://img.shields.io/badge/Medieval-AI-blue)
