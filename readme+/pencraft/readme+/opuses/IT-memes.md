@@ -63,10 +63,10 @@ Well, ability in exact sciences isn't a prerequisite for programming today. You 
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>AIchemy</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>500 years to ChatGPT</b>&nbsp;</ins></summary>
 &nbsp;
 
-![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Cheat GPT](https://img.shields.io/badge/Medieval-AI-blue)
+![Cheat GPT](https://img.shields.io/badge/AI-chemy-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) 
 
 [![AI: 1523 vs 2023](../_rsc/_img/memes/AI-1523-2023_spot-the-diff.png)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/opuses/AI-2023.md)
 
