@@ -63,7 +63,7 @@ Well, ability in exact sciences isn't a prerequisite for programming today. You 
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>500 years to ChatGPT betta</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>500 years of HomunculusGPT betta</b>&nbsp;</ins></summary>
 &nbsp;
 
 ![Cheat GPT](https://img.shields.io/badge/AI-chemy-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) 
