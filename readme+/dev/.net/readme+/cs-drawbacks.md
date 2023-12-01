@@ -1,18 +1,17 @@
 # C# - Drawbacks (minority report)
 
-Nothing is perfect and C# too. The following language artifacts are awkward leastwise for me. 
+Nothing anthropogenic could be perfect and C# too. The following language artifacts are awkward leastwise for me. 
 
 ## Syntax
 
 - Rudimentary `;` ending a line brings nothing but visual noise.
-- Constructor names imply extra refactoring on class/struct renaming (could be independent `ctor()`, `this()`).
+- Constructor names imply extra refactoring on class/struct renaming (could be independent `ctor()`, `this()`). Take the "untitled" `base()` call in the same constructors.
 - Rudimentary `0` as the start index in collections<sup>:o:</sup>, which doesn't correlate with the count and shall better start from `1`.
 - Missing (default) access modifier<sup>:o:</sup> shall be better reserved for ultimate `private` or better `public` than for specific and less used `internal`
 - The `const` modifier shall be not limited to pre-compiled values (it's mere optimization) but prevent re-assignment, as `init` and `readonly` do.
 - Nullable declaration (with `?` prefix) is evident for value types but ambiguous for references and objects, which can be nulled anyway:\
 `string a = null; string? b = null;`
 - Gradual releases of syntax shortcuts, such as `?` or `!`, softly erode C# readability.<sup>🙋</sup>
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:o:</sup> <sub>Such native features can't be changed.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>I assume arguability but hope that C# team doesn't plan to make a Perl out of their language</sub>
@@ -55,7 +54,7 @@ ToDo: an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/
 ## Numbers
   
 - Does either developer ponder ten(!) primitive whole types when writing ordinary `for (var i = 0; i < count; i++)`?
-- Why 0.1 and 0.2 must be explicitly declared as `decimal` to sum them up accurately? (you may debug to prove)
+- Summing up 0.1 and 0.2 will reveals a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) unless explicitly declared decimal (just debug `var roundErr = 0.1 + 0.2;` to prove).
 
 Developers should better declare just a *number* and distinguish only the way it's processed: fixed (default) or [floating-point arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html).
 
@@ -69,7 +68,7 @@ Syntax shortcuts here could make the code both shorter and readable.
 
 ## Inborn naming
 
--  *Interface* is a too common term for contract (and not only in C#).
+-  *Interface* is a too common term for contracts (and not only in C#).
 - *Reverse*, as in [LINQ method](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse), is actually *flip*.
 - Type modifiers _in_/_out_ for contra-/covariance collide with the same name parameter modifiers (_more_/_less_ can be better)
 
