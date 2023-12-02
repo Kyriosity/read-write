@@ -63,19 +63,19 @@ Well, ability in exact sciences isn't a prerequisite for programming today. You 
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>AI 'xor' IT</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>AI</b>&nbsp;</ins><code>xor</code><ins>&nbsp;<b>IT</b>&nbsp;</ins></summary>
 &nbsp;
+
+`xor` 
 
 ![Cheat GPT](https://img.shields.io/badge/AI-chemy-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) 
 
 [![AI: 1523 vs 2023](../_rsc/_img/memes/AI-1523-2023_spot-the-diff.png)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/_rsc)
 
-I swear that concocting this meme I didn't know about _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
+I swear that concocting this collage I didn't know about _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
 
 ---
 
 </details>
 
 &nbsp;&nbsp;&nbsp;&nbsp;... 📝 TO BE CONTINUED 📝 ...
-
-last not least
