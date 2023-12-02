@@ -13,9 +13,9 @@ Memes of various origins, I've picked, to keep and share.
 The grains of truth in this wisdom:
 
 * No other knowledge erodes so quickly as the IT tech stack - languages/scripts, markup, frameworks, and their IDEs, UX styles emerge, submerge, and mutate with the year's pace.<sup>:violin:</sup>
-* In the horizontal dimension a developer can't stick to a favorite language and must be competent in a wide techno spectrum.
+* In the horizontal dimension a developer can't stick to a favorite language and must be fluent in a wide techno spectrum.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:violin:</sup> <sub>Javascript/HTML, which one learned in 2000, remains only as basic syntax. It went through numerous libs, polyfills, jQuery, and other cool tools and at the moment transformed into single-page frameworks, which rule web dev.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:violin:</sup> <sub>Javascript/HTML, which one learned in 2000, remains only as basic syntax. It went through numerous libs, polyfills, jQuery, and other cool tools and at the moment transformed into single-page frameworks, which rule the web dev.</sub>
 
 **Solution?**
 
@@ -70,7 +70,7 @@ Well, ability in exact sciences isn't a prerequisite for programming today. You 
 
 [![AI: 1523 vs 2023](../_rsc/_img/memes/AI-1523-2023_spot-the-diff.png)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/_rsc)
 
-I swear that concocting this meme I haven't known about _Hubert Dreyfus_'s  "Alchemy and AI", 1965. 
+I swear that concocting this meme I didn't know about _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
 
 ---
 
