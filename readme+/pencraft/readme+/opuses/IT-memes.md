@@ -3,7 +3,7 @@
 Memes of various origins, I've picked, to keep and share.
 
 <details>
-<summary><ins>&nbsp;<b>First and foremost: to learn is to swim against the current ...</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>First and foremost ...</b>&nbsp;</ins></summary>
 &nbsp;
   
 ![West meets East](https://img.shields.io/badge/West_meets-East-yellow) ![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)
@@ -63,17 +63,19 @@ Well, ability in exact sciences isn't a prerequisite for programming today. You 
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>500 years of HomunculusGPT betta</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>AI 'xor' IT</b>&nbsp;</ins></summary>
 &nbsp;
 
 ![Cheat GPT](https://img.shields.io/badge/AI-chemy-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) 
 
-[![AI: 1523 vs 2023](../_rsc/_img/memes/AI-1523-2023_spot-the-diff.png)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/opuses/AI-2023.md)
+[![AI: 1523 vs 2023](../_rsc/_img/memes/AI-1523-2023_spot-the-diff.png)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/_rsc)
 
-I may only swear that making this meme I didn't know that Hubert Dreyfus wrote "Alchemy and AI" in 1965. 
+I swear that concocting this meme I haven't known about _Hubert Dreyfus_'s  "Alchemy and AI", 1965. 
 
 ---
 
 </details>
 
 &nbsp;&nbsp;&nbsp;&nbsp;... 📝 TO BE CONTINUED 📝 ...
+
+last not least
