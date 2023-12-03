@@ -1,5 +1,5 @@
-- __Software__\
-|- [Design (Architecture)](readme+/dev/design/)\
+- [__Software__](readme+/dev/)\
+|- [Design](readme+/dev/design/)\
 |--- [Naming](readme+/dev/design/readme+/code-naming.md)\
 |--- [Patterns](readme+/dev/design/readme+/code-patterns.md)\
 |--- [Driven design](readme+/dev/design/readme+/tdd-ddd.md)\
