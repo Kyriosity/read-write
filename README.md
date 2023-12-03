@@ -13,11 +13,11 @@
 |--- [Documentation](readme+/dev/praxis/code-docu.md)\
 |--- [Management](readme+/dev/praxis/code-mngmnt.md) 
 
-- [__.NET__](readme+/dev/.net)\
-|- [Design decisions](readme+/dev/.net/readme+/design)\
-|- [Hints and tricks](readme+/dev/.net/readme+/cs-hints.md)\
-|- Foundations\
-|--- [WPF](readme+/dev/.net/wpf/)
+- [__.NET__](readme+/.net)\
+|- [Design decisions](readme+/.net/readme+/design)\
+|- [Hints and tricks](readme+/.net/readme+/cs-hints.md)\
+|- **Foundations**\
+|--- [WPF](readme+/.net/wpf/)
 
 - [__Technical writing__](readme+/pencraft)\
 |- [Opuses](readme+/pencraft/readme+/opuses/)
