@@ -15,7 +15,7 @@ The purpose of TDD is in no way test automation but means to:
 + vitalize skeleton **functionality**, evaluate trends and risks,
 + couple design fantasies with the tech-stack materiality.
 
-Optionally:
+Optionally and cautionally:
 + start a **test framework** of the project (TDD will then outline test coverage with start stuff written in a good black-box manner).
 
 ## DDD (Design Driven Design)
@@ -70,5 +70,6 @@ TDD/DDD isn't  _lapis philosophorum_ and is barely a good approach for:
 
 ## Wrapping up
 
-We haven't resolved a mere trifle. How to make the TDD job effective and appealing. How to make tests a natural starting point for developers.\
-🚧:... TO BE CONTINUED ....:pencil2:
+We haven't resolved a mere trifle. How to make the TDD job effective and appealing. How to make tests a natural starting point for developers.
+
+🚧:... TO BE CONTINUED .... ✏️
