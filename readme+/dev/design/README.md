@@ -1,14 +1,14 @@
 ..................... 🚧 **... DRAFT ...** 🚧 ....................
 
-# Software - Creation processes- private derivations
+# Design- private derivations
 
 ## Terminology
 
-Software as an **artifact** can be attribute to next overlapping activities: _architecture_, _design_, _development_, and _coding_.
+Software as an **artifact** can be attributed to the next overlapping activities: _architecture_, _design_, _development_, and _coding_.
 
 ### Architecture vs Design
 
-Both "design" and "architecture" are interchangeable umbrella terms for expertise (magnificent or clumsy) which brigdes ideas ***(reqs, abstractions) and their realization as computer programs.
+Both "design" and "architecture" are interchangeable umbrella terms for expertise (magnificent or clumsy) which bridges ideas ***(reqs, abstractions) and their realization as computer programs.
 
 
 ### Design vs Development
