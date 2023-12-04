@@ -7,9 +7,9 @@ WinForms application can be an exemplary MVVM<sup>:wrench:</sup> but it was WPF 
 
 ## Structure
 
-|- __Model__  - usual [application model](../../../dev/software-parts/app-model.md)\
+|- __Model__  - usual [application model](../../../dev/design/readme+/software-parts/app-model.md)\
 |- [__ViewModel__](readme+/wpf_mvvm-viewmodel.md)\
-|- __View__ - usual [application view](../../../dev/software-parts/app-view.md) bound to ViewModel\
+|- __View__ - usual [application view](../../../dev/design/readme+/software-parts/app-view.md) bound to ViewModel\
 |--- [XAML view](../readme+/wpf-xaml_view.md)
 
 ## Sample
