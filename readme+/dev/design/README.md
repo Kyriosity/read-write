@@ -7,13 +7,14 @@
 Besides the primary specification of software layers, modules, entities, functions, and their [naming](/readme+/dev/design/readme+/code-naming.md/), concerns of design **are**:
 
 + detection of conceptual collisions<sup>:collision:</sup>,
-+ [partitioning](/readme+/dev/software-parts/) (data, model, presentation, UI, biz logic),
-+ use of [external](/readme+/dev/software-parts/ext_parts.md) libraries, frameworks, and services,
-+ principal [language-specific decisions](.net/readme+/design)
++ [partitioning](/readme+/dev/design/readme+/software-parts/) (data, model, presentation, UI, biz logic),
++ use of [external](/readme+/dev/design/readme+/software-parts/ext_parts.md) libraries, frameworks, and services,
++ principal language-specific decisions,&nbsp;✋
 + planned audience (roles, groups), 
 + visualization and presentation of modeling (like UML sketches)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:collision:</sup> <sub>Both unrealistic expectations (as an AI-chat that will fully replace hotline operator, or crack of math problem) and technical bottlenecks (as hi-definition images processing in pure C# or obsolete user platforms).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:collision:</sup> <sub>Both unrealistic expectations (as an AI-chat that will fully replace hotline operator, or crack of math problem) and technical bottlenecks (as hi-definition images processing in pure C# or obsolete user platforms).</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>✋</sup> <sub>I share my C# decisions in [use-dev](https://github.com/Kyriosity/use-dev).</sub>
 
 and are **not**: 
 
