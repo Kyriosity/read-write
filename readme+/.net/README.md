@@ -9,7 +9,7 @@ C# allows developers to focus on clean code while .NET will take care of compili
 
 Surprisingly C# is widely utilized in APIs and drivers to industry-standard embedded software (i.a. automotive and machinery).
 
-With all given praise C# isn't monumentally accomplished and if i dare to remark particular...&nbsp;:arrow_lower_left:\
+With all given praise C# isn't monumentally accomplished and if i dare to remark particular...&nbsp;↙️\
 |--- [Drawbacks](readme+/cs-drawbacks.md)\
 |--- [Good parts underused](readme+/cs-underused_parts.md)\
 |--- [Malpractice](readme+/cs-malpractice.md)\
