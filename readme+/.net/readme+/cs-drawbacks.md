@@ -1,6 +1,8 @@
 # C# - Drawbacks (minority report)
 
-Nothing anthropogenic could be perfect and C# too. The following language artifacts are awkward leastwise for me. 
+Art can be perfect, but no technology. With all its goodies __C#__ got downsides as bulky declarations of hierarchies, rigid interfaces, or restrained generics.
+
+The following language artifacts are awkward leastwise for me. 
 
 ## Syntax
 
