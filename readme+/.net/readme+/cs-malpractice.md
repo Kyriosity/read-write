@@ -40,7 +40,9 @@ Any **un**named tuples in new stuff shall be out of law.
 
 ## Dynamic and ExpandoObject
 
-Any use for casting, call of props, and methods on them breaches the C# type approach. Though could be a valid workaround for ternary expressions with indirect (wrapped) `throw`.
+Any use for casting, call of props, and methods on them breaches the C# type approach. Though could be a valid workaround for return values of methods, which throw only, to be used in ternary expressions.
+
+``` 
 
 ## Dubious `sealed`
 
