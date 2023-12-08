@@ -31,17 +31,20 @@ High-quality code has
 
 > Test coverage may (and shall) share the same functionality with TDD but is intended merely to mechanically examine software (no matter when written and run).
 
-Efficient ample tests allow only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, performance testing.
+Efficient, ample tests allow only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, and performance testing.
 
-However, _errare humanum est_, no test can harm the product. Quality of code allows to focus tests on ...
+However, _errare humanum est_, no test can harm the product. Quality of code allows us to focus tests on ...
 
 + subjects of apparent changes
 + dependencies of imports and external parts
 + performance bottlenecks
 
 ... and avoid\
-|--- [Tests pitfalls](code-tests_pitfalls.md)
+|--- [Tests pitfalls](../testing/code-tests_pitfalls.md)
 
+## Elegant code
+
+🚧 TO BE WRITTEN...
 
 ## P.S. Moralité
 
@@ -66,3 +69,5 @@ Apart from environments where good code won't bloom<sup>:wilted_flower:</sup> or
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:wilted_flower:</sup>&nbsp;<sub>budget/time jaws, code conveyors, unsuited teams, bad management</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:desert:</sup>&nbsp;<sub>prototypes, stand-alone auxiliaries, temporary solutions</sub>
+
+Some smart guys individually develop great apps and are so good at comprehending the whole picture that don't need and like to lose time with code organisation. However, it's a rare story and not about enterprise development.
