@@ -13,8 +13,8 @@
 |--- [Documentation](readme+/dev/praxis/code-docu.md)\
 |--- [Management](readme+/dev/praxis/code-mngmnt.md) 
 
-- [__c#.net__](readme+/.net)\
-|- [Design decisions](readme+/.net/readme+/design)\
+- [__C#.net__](readme+/.net)\
+|- Design decisions\
 |- [Hints and tricks](readme+/.net/readme+/cs-hints.md)\
 |- **Foundations**\
 |--- [WPF](readme+/.net/wpf/)
