@@ -14,8 +14,8 @@
 |--- [Management](readme+/dev/praxis/code-mngmnt.md) 
 
 - [__C#.net__](readme+/.net)\
-|- Design decisions\
-|- [Hints and tricks](readme+/.net/readme+/cs-hints.md)\
+|- Design decisions (use-dev)\
+|- [Praxis](readme+/.net/readme+)\
 |- **Foundations**\
 |--- [WPF](readme+/.net/wpf/)
 
