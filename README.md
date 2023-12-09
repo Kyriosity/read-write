@@ -11,7 +11,10 @@
 |- Coding\
 |--- [Quality](readme+/dev/praxis/code-quality.md)\
 |--- [Documentation](readme+/dev/praxis/code-docu.md)\
-|--- [Management](readme+/dev/praxis/code-mngmnt.md) 
+|--- [Management](readme+/dev/praxis/code-mngmnt.md) \
+|- Testing\
+|- [**Design decisions**](https://github.com/Kyriosity/use-dev/readme%2B/decisions) (🗄️ use-dev)
+
 
 - [__C#.net__](readme+/.net)\
 |- Design decisions (use-dev)\
