@@ -5,6 +5,6 @@
 |--- [View](app-view.md)\
 |--- [Between View and Model](app-view_model.md)
 
-|- [External parts](ext-parts.md)
+|- [External parts](ext_parts.md)
 
 |- **Storage**
