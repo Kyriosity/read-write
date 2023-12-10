@@ -42,8 +42,6 @@ Any **un**named tuples in new stuff shall be out of law.
 
 Any use for casting, call of props, and methods on them breaches the C# type approach. Though could be a valid workaround for return values of methods, which throw only, to be used in ternary expressions.
 
-``` 
-
 ## Dubious `sealed`
 
 There's no reason to seal a class but to show some mistrust in colleagues. It's an arguable practice when exposing/exporting a library/module.
