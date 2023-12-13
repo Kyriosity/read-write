@@ -17,7 +17,7 @@ The grains of truth in this wisdom:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:violin:</sup> <sub>Javascript/HTML, which one learned in 2000, remains only as basic syntax. It went through numerous libs, polyfills, jQuery, and other cool tools and at the moment transformed into single-page frameworks, which rule the web dev.</sub>
 
-**Solution?**
+**Escape?**
 
 > Don't swim against the current. Stay in the river, become the river; and the river is already going to the sea. This is the great teaching.\
 — Rajneesh, aka Osho (1931-1990)
@@ -42,7 +42,7 @@ Translated east-to-west this means: find a sinecure in a big corporation.
 <summary><ins>&nbsp;<b>Marsupial covariance</b>&nbsp;</ins></summary>
 &nbsp;
 
-![clean code](https://img.shields.io/badge/clean_code-OOD-blue) 
+![clean code](https://img.shields.io/badge/clean_code-🇦🇺-blue) ![DRY principle](https://img.shields.io/badge/DRY-Oz-yellow) 
 
 https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 
@@ -66,7 +66,7 @@ Well, ability in exact sciences isn't a prerequisite for casual programming. You
 <summary><ins>&nbsp;<b>AI</b>&nbsp;</ins><code>xor</code><ins>&nbsp;<b>IT</b>&nbsp;</ins></summary>
 &nbsp;
 
-![Cheat GPT](https://img.shields.io/badge/AI-chemy-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) 
+![Cheat GPT](https://img.shields.io/badge/AI-chemy-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
 
 [![AI: 1523 vs 2023](../_rsc/_img/memes/AI-1523-2023_spot-the-diff.png)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/_rsc)
 
