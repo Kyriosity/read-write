@@ -1,6 +1,6 @@
 # IT memes - personal selection
 
-Memes of various origins, I've picked, to keep and share.
+Memes of various origins, I've picked, to retain and share.
 
 <details>
 <summary><ins>&nbsp;<b>First and foremost ...</b>&nbsp;</ins></summary>
@@ -13,7 +13,7 @@ Memes of various origins, I've picked, to keep and share.
 The grains of truth in this wisdom:
 
 * No other knowledge erodes so quickly as the IT tech stack - languages/scripts, markup, frameworks, and their IDEs, UX styles emerge, submerge, and mutate with the year's pace.<sup>:violin:</sup>
-* In the horizontal dimension a developer can't stick to a favorite language and must be fluent in a wide techno spectrum.
+* In the right-angle  to time dimension a developer can't stick to a favorite language and must be fluent in a wide techno spectrum.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:violin:</sup> <sub>Javascript/HTML, which one learned in 2000, remains only as basic syntax. It went through numerous libs, polyfills, jQuery, and other cool tools and at the moment transformed into single-page frameworks, which rule the web dev.</sub>
 
@@ -57,7 +57,7 @@ https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 
 [![Here is X. Calm down Pythagoras](../_rsc/_img/memes/PythagoreanTheorem_findX.jpg)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/_rsc)
 
-Well, ability in exact sciences isn't a prerequisite for programming today. You shouldn't develop a sorting algorithm since you may find one.
+Well, ability in exact sciences isn't a prerequisite for casual programming. You shouldn't develop a sorting algorithm since you may find any.
 
 ---------
 </details>
@@ -66,13 +66,11 @@ Well, ability in exact sciences isn't a prerequisite for programming today. You 
 <summary><ins>&nbsp;<b>AI</b>&nbsp;</ins><code>xor</code><ins>&nbsp;<b>IT</b>&nbsp;</ins></summary>
 &nbsp;
 
-`xor` 
-
 ![Cheat GPT](https://img.shields.io/badge/AI-chemy-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) 
 
 [![AI: 1523 vs 2023](../_rsc/_img/memes/AI-1523-2023_spot-the-diff.png)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/_rsc)
 
-I swear that concocting this collage I didn't know about _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
+P.S. I do swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
 
 ---
 
