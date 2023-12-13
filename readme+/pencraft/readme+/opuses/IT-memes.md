@@ -1,6 +1,6 @@
 # IT memes - personal selection
 
-Memes of various origins, I've picked, to retain and share.
+Memes of various origins, I picked to retain and share.
 
 <details>
 <summary><ins>&nbsp;<b>First and foremost ...</b>&nbsp;</ins></summary>
@@ -22,7 +22,7 @@ The grains of truth in this wisdom:
 > Don't swim against the current. Stay in the river, become the river; and the river is already going to the sea. This is the great teaching.\
 — Rajneesh, aka Osho (1931-1990)
 
-Translated east-to-west this means: find a sinecure in a big corporation.
+Translated east-to-west this means: find a sinecure in a big company.
 
 ---------
 </details>
@@ -42,7 +42,7 @@ Translated east-to-west this means: find a sinecure in a big corporation.
 <summary><ins>&nbsp;<b>Marsupial covariance</b>&nbsp;</ins></summary>
 &nbsp;
 
-![clean code](https://img.shields.io/badge/clean_code-🇦🇺-blue) ![DRY principle](https://img.shields.io/badge/DRY-Oz-yellow) 
+![DRY principle](https://img.shields.io/badge/clean_code-Oz-cyan)  ![clean code](https://img.shields.io/badge/DRY-🇦🇺-yellow)
 
 https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 
@@ -57,7 +57,7 @@ https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 
 [![Here is X. Calm down Pythagoras](../_rsc/_img/memes/PythagoreanTheorem_findX.jpg)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/_rsc)
 
-Well, ability in exact sciences isn't a prerequisite for casual programming. You shouldn't develop a sorting algorithm since you may find any.
+Justified, ability in exact sciences isn't a prerequisite for applied programming. It's right to find a sorting algorithm implementation rather than to write one own.
 
 ---------
 </details>
@@ -76,4 +76,15 @@ P.S. I do swear that concocting this collage I was unaware of _Hubert Dreyfus_'s
 
 </details>
 
-&nbsp;&nbsp;&nbsp;&nbsp;... 📝 TO BE CONTINUED 📝 ...
+<details>
+<summary><ins>&nbsp;<b>Seasoned quotes</b>&nbsp;</ins></summary>
+&nbsp;
+
+> Where a calculator like ENIAC today is equipped with 18'000 vacuum tubes and weighs 30 tons, **computers in the future may** have only 1'000 vacuum tubes and perhaps **weigh only 1½ tons**.\
+_Popular Mechanics, March 1949_
+
+Absolutely right. The same magazines over seven decades later: "Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons."
+
+---
+
+</details>
