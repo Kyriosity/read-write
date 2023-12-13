@@ -3,14 +3,14 @@
 
 # Naming in software design
 
-The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ **must** be a №1 challenge and involve the whole team<sup>:family:</sup> in discussions. This expense will pay off with *lingua franca* throughout the team and project, and ...
+The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. This expense will pay off with *lingua franca* throughout the team and project, and ...
 <details>
   <summary>... derived benefits</summary>
   
 + common comprehension of a domain, collaboration, and indeed bound team
 + genuine design and self-descriptive code
 + inspiration for behavior/domain-driven design
-+ escape from heaps of reqs and specs - hard to follow but easy to misunderstand, forget (but mostly neglected)
++ escape from heaps of reqs, specs, DoU, and meetings protocols - hard to follow but easy to misunderstand or forget (but mostly neglected)
 + reduced efforts to get into a project for newcomers
 + comfy navigation within the source code (both with IDE's explorer and CTRL+F)
  
@@ -25,7 +25,7 @@ The higher the level of naming, the more attention.
 
 ## Verbal sins
 
-+ Grandiloquence in any extent
++ Grandiloquence to any extent
 
 Even top developers under time pressure and brakes on perfectionism will name logic classes as *services*, *helpers*, *utils*, *handlers* but would 
 be barely proud of that.
