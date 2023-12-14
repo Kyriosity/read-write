@@ -1,11 +1,11 @@
 - [__Software__](readme+/dev/)\
 |- [Design](readme+/dev/design/)\
 |- [Partitioning](readme+/dev/design/readme+/software-parts)\
-|- [Look into code](readme+/dev/code/)\
+|- [Around the code](readme+/dev/code/)\
 |- [Testing](readme+/dev/testing/)
 
 - [__C#.net__](readme+/.net)\
-|- [Audit](readme+/.net/readme+/audit)\
+|- [Reviewed](readme+/.net/readme+/audit)\
 |- [Deduced](readme+/.net/readme+/deduced)\
 |- **Foundations**\
 |--- [WPF](readme+/.net/wpf/)\

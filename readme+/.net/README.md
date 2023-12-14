@@ -18,4 +18,4 @@ With all given praise C# isn't monumentally accomplished and if I dare to remark
 |--- [Malpractice](readme+/audit/cs-malpractice.md)\
 |--- [Missing parts (or nice-to-have)](readme+/audit/cs-lacks.md)\
 |- WPF\
-|--- [Lacks](wpf/readme+/wpf_drawbacks.md)
+|--- [Lacks](wpf/readme+/wpf-drawbacks.md)
