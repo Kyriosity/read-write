@@ -8,7 +8,9 @@
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** make up a blend of overlapping and time-unordered processes.&nbsp;<sup>:stop_button:</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:stop_button:</sup> <sub>Some words more? With all respect to DevOps, testing, management, and administration they only facilitate the development and deployment of software.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:stop_button:</sup> <sub>Some words more? With all respect to DevOps, testing, management, and administration they only facilitate the development and deployment of software.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:anchor:</sup> <sub>Digging in code </sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:balloon:</sup> <sub>Flying in abstraction dreams.</sub>
 
 ## Overlapping and communication
 
