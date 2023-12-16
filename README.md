@@ -5,8 +5,8 @@
 |- [Testing](readme+/dev/testing/)
 
 - [__C#.net__](readme+/.net)\
-|- [Reviewed](readme+/.net/readme+/audit)\
-|- [Deduced](readme+/.net/readme+/deduced)\
+|- [Reviewed](readme+/.net/readme+/audit) :arrow_lower_left:\
+|- :arrow_lower_right: [Deduced](readme+/.net/readme+/deduced)\
 |- **Foundations**\
 |--- [WPF](readme+/.net/wpf/)\
 (➡️ _use-dev_)\
