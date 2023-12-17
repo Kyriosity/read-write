@@ -31,7 +31,7 @@ Translated east-to-west this means: find a sinecure in a big company.
 <summary><ins>&nbsp;<b>Fair random</b>&nbsp;</ins></summary>
 &nbsp;
 
-![true random](https://img.shields.io/badge/truly-random-yellow) ![new GUID](https://img.shields.io/badge/goid-seed-blue) 
+![true random](https://img.shields.io/badge/truly-random-yellow) ![new GUID](https://img.shields.io/badge/secure-nonce-blue) 
 
 [![Guaranted random by fair dice roll](../_rsc/_img/memes/IT-meme.random-number.png)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/_rsc)
 
