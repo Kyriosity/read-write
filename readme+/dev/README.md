@@ -4,7 +4,7 @@
 
 **What makes software?** In a word - _development_, in four - \
 [![For colors of software](../pencraft/readme+/_rsc/_img/illus/dev/fromBlackCodeToGoldenArc.jpg)](../pencraft/readme+/_rsc/)\
-<sup>:de:</sup> <sub>The colors were inspired by the informal idea of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future. Some tear-blue was inserted to show the lachrymose development of the story.</sub>
+<sup>:de:</sup> <sub>The colors were inspired by the informal idea of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future. Since _4>3_ I added tear-blue to depict the lachrymose development of the story.</sub>
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** make up a blend of overlapping and time-unordered processes.&nbsp;<sup>:stop_button:</sup>
 
