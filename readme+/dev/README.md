@@ -4,15 +4,17 @@
 
 **What makes software?** In a word - _development_, in four - \
 [![For colors of software](../pencraft/readme+/_rsc/_img/illus/dev/fromBlackCodeToGoldenArc.jpg)](../pencraft/readme+/_rsc/)\
-<sup>:de:</sup> <sub>The colors were inspired by the informal idea of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future. Since _4>3_ I added tear-blue to depict the lachrymose development of the story.</sub>
+<sup>:de:</sup> <sub>The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future.\
+&nbsp;&nbsp;&nbsp;&nbsp;Since `4 > 3` I added tear-blue to depict the lachrymose development of the story.</sub>
 
-**_Coding_**, **_development_**, **_design_**, and **_architecture_** make up a blend of overlapping and time-unordered processes.&nbsp;<sup>:stop_button:</sup>
+More colors? With due respect to administration, testing, DevOps, deployment, documentation, and project management - these are the tints and shades of main paints. 
 
-DevOps, administration, testing, deployment, documentation, project management - these are the tints and shades. 
+**_Coding_**, **_development_**, **_design_**, and **_architecture_** show a blend of tied, overlapping, and time-unordered processes.&nbsp;<sup>:stop_button:</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:stop_button:</sup> <sub>Some words more? With all respect to DevOps, testing, management, and administration they only facilitate the development and deployment of software.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:anchor:</sup> <sub>Digging in code </sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:balloon:</sup> <sub>Flying in abstraction dreams.</sub>
+
+I would have left this in the [memes](../pencraft/readme+/opuses/IT-memes.md) chapter unless had some more words for explanation.
 
 ## Overlapping and communication
 
