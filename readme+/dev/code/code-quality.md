@@ -24,8 +24,8 @@ Even bug-**free** code can be bug-**prone**, while bug-unfriendly style minimize
 
 High-quality code has
 
-+ syntax that prevents typos (in C# simple `string.Empty` instead of `""` and other [tricks](../.net/readme+/cs-hints.md))
-+ sound logical flow (early return, shallow enclosures)
++ syntax that prevents typos (e.g. `String.Empty` instead of `""` or like some [C# tricks](../../.net/readme+/deduced/cs-hints.md)),
++ visible logical flow (early return, shallow enclosures)
 
 ### Test coverage
 
@@ -33,14 +33,13 @@ High-quality code has
 
 Efficient, ample tests allow only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, and performance testing.
 
-However, _errare humanum est_, no test can harm the product. Quality of code allows us to focus tests on ...
+However, _errare humanum est_, and quality of code allows us to focus tests on ...
 
-+ subjects of apparent changes
-+ dependencies of imports and external parts
++ subjects of apparent changes,
++ dependencies of imports and external parts,
 + performance bottlenecks
 
-... and avoid\
-|--- [Tests pitfalls](../testing/code-tests_pitfalls.md)
+... and avoid [tests pitfalls](../testing/tests-pitfalls.md)
 
 ## Elegant code
 
@@ -67,7 +66,7 @@ Apart from environments where good code won't bloom<sup>:wilted_flower:</sup> or
 + canceled iterations/refactoring
 + hesitation to use and contribute to shared code (from team/enterprise foundations up to open source)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:wilted_flower:</sup>&nbsp;<sub>budget/time jaws, code conveyors, unsuited teams, bad management</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:wilted_flower:</sup>&nbsp;<sub>budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:desert:</sup>&nbsp;<sub>prototypes, stand-alone auxiliaries, temporary solutions</sub>
 
 Some smart guys individually develop great apps and are so good at comprehending the whole picture that don't need and like to lose time with code organisation. However, it's a rare story and not about enterprise development.
