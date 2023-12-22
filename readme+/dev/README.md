@@ -28,6 +28,10 @@ Let's see them intermixed
 
 ### Persons, roles, or tasks? 
 
+## Subtasks of design
+
+To keep the design thinking (not necessarily implemented in every step)
+
 ## Worth of coding
 
 Let's first formulate what the coding is and what different to dev.
