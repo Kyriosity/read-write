@@ -1,17 +1,17 @@
-> ... 🚧 DRAFT 🚧 ... REMOVE BEFORE RELEASE 
+> ... 🚧 DRAFT 🚧    ... REMOVE BEFORE RELEASE 
 
 # The creation of software
 
 **What makes software?** In a word - _development_, in four - \
 [![For colors of software](../pencraft/readme+/_rsc/_img/illus/dev/fromBlackCodeToGoldenArc.jpg)](../pencraft/readme+/_rsc/)\
 <sup>:de:</sup> <sub>The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future.\
-&nbsp;&nbsp;&nbsp;&nbsp;Since `4 > 3` I added tear-blue to depict the lachrymose development of the story.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;Since `4 > 3` I added tear-blue to depict the design.</sub>
 
 More colors? With due respect to administration, testing, DevOps, deployment, documentation, and project management - these are the tints and shades of main paints. 
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** show a blend of tied, overlapping, and time-unordered processes.&nbsp;<sup>:stop_button:</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:anchor:</sup> <sub>Digging in code </sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:anchor:</sup> <sub>Digging deep in code mines, not seeing shining peaks.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:balloon:</sup> <sub>Flying in abstraction dreams.</sub>
 
 I would have left this in the [memes](../pencraft/readme+/opuses/IT-memes.md) chapter unless had some more words for explanation.
