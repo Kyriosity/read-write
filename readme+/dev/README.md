@@ -3,7 +3,7 @@
 # The creation of software
 
 **What makes software?** In a word - _development_, in four - \
-[![For colors of software](../pencraft/readme+/_rsc/_img/illus/dev/fromBlackCodeToGoldenArc.jpg)](../pencraft/readme+/_rsc/)\
+[![Four colors of software](../pencraft/readme+/_rsc/_img/illus/dev/fromBlackCodeToGoldenArc.jpg)](../pencraft/readme+/_rsc/)\
 <sup>:de:</sup> <sub>The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future.\
 &nbsp;&nbsp;&nbsp;&nbsp;Since $(4>3)$ tearful-blue was added for design.</sub>
 
