@@ -4,7 +4,7 @@
 guru deletes code<br/></p>
 <p dir="rtl"><i>Anonymous</i></p>
 
-# Code quality
+# Code == quality
 
 Code quality is the **cement** of software. It's imperceptible for spectators and doesn't matter much for booths, but ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions.
 
@@ -41,10 +41,6 @@ However, _errare humanum est_, and quality of code allows us to focus tests on .
 
 ... and avoid [tests pitfalls](../testing/tests-pitfalls.md)
 
-## Elegant code
-
-🚧 TO BE WRITTEN...
-
 ## P.S. Moralité
 
 With all that said, why does mediocre code prevail and _clean code_ migrate to buzzwords? 
@@ -56,17 +52,25 @@ Benefits of quality code lag<sup>:family_man_woman_boy_boy:</sup> as well as exp
 
 Not every developer will self-reflect on "submit and forget" work, and not every project management will draw a golden section between profanity and academism. 
 
-## P.P.S. Mediocre code - why
+## Appendix 1 (of 2). Mediocre code - why
 
-Apart from environments where good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup> even motivated intelligent teams may not achieve high quality over a big project. To name a few reasons:
+Apart from environments where good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup> even motivated intelligent teams may not achieve high quality upt to the end of a big project. To name a few reasons:
 
-+ overhead of formal processes at the expense of development and communication  
-+ "egocentrism": low feedback (code review, pair programming, coaching) and reluctance to learn (also from critique)
-+ over-creativity, unrestrained abstraction, pedantry/perfectionism, procrastination
-+ canceled iterations/refactoring
-+ hesitation to use and contribute to shared code (from team/enterprise foundations up to open source)
++ overhead of formal processes at the expense of development and communication,
++ "egocentrism": low feedback (code review, pair programming, coaching) and reluctance to learn (also from critique),
++ over-creativity, unrestrained abstraction, pedantry/perfectionism, procrastination,
++ canceled/skipped iterations/refactoring,
++ hesitation in using and contributing to shared code (from team/enterprise foundations up to open source)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:wilted_flower:</sup>&nbsp;<sub>budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:desert:</sup>&nbsp;<sub>prototypes, stand-alone auxiliaries, temporary solutions</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:wilted_flower:</sup>&nbsp;<sub>Budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:desert:</sup>&nbsp;<sub>Prototypes, stand-alone auxiliaries, temporary solutions.</sub>
 
-Some smart guys individually develop great apps and are so good at comprehending the whole picture that don't need and like to lose time with code organisation. However, it's a rare story and not about enterprise development.
+Some smart individuals develop great apps alone and are so good at keeping all details and the whole picture in mind that don't need and like to lose time with code organization. However, it's exceptional and not about enterprise development.
+
+## Appendix 2 (of 2). Elegant code
+
+Could something transcend high-quality code? Yes, elegant HQ code.
+
+Generally it was Assembler, then high-level, then OOP, then templates.
+
+🚧 TO BE WRITTEN...
