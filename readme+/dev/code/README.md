@@ -4,7 +4,7 @@
 guru deletes code<br/></p>
 <p dir="rtl"><i>Anonymous</i></p>
 
-# Code =quality
+# Code == quality
 
 Code quality is the **cement** of software. It's imperceptible for spectators and doesn't matter much for booths, but ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions.
 
