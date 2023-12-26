@@ -5,9 +5,11 @@
 **What makes software?** In a word - _development_, in four - \
 [![For colors of software](../pencraft/readme+/_rsc/_img/illus/dev/fromBlackCodeToGoldenArc.jpg)](../pencraft/readme+/_rsc/)\
 <sup>:de:</sup> <sub>The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future.\
-&nbsp;&nbsp;&nbsp;&nbsp;Since `4 > 3` I added tear-blue to depict the design.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;Since $(4>3)$ tearful-blue was added for design.</sub>
 
-More colors? With due respect to administration, testing, DevOps, deployment, documentation, and project management - these are the tints and shades of main paints. 
+More colors? With due respect to administration, testing, DevOps, deployment, documentation, and project management, they could be only tints and shades of main paints. 
+
+This layered picture won't classify even for [local imageboard](../../readme+/pencraft/readme+/opuses/IT-memes.md) but for a platform of further diagrams. Let's go.
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** show a blend of tied, overlapping, and time-unordered processes.&nbsp;<sup>:stop_button:</sup>
 
