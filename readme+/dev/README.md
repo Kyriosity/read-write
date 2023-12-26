@@ -9,7 +9,9 @@
 
 More colors? With due respect to administration, testing, DevOps, deployment, documentation, and project management, they could be only tints and shades of main paints. 
 
-This layered picture won't classify even for [local imageboard](../../readme+/pencraft/readme+/opuses/IT-memes.md) but for a platform of further diagrams. Let's go.
+This layered picture won't qualify even for [local imageboard](../../readme+/pencraft/readme+/opuses/IT-memes.md) but was intended as a platform of further discussion. Let's go.
+
+## Alltogether
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** are a blend of tied, overlapping, and time-unordered processes.&nbsp;<sup>:stop_button:</sup>
 
