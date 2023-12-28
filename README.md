@@ -8,10 +8,9 @@
 |- [Reviewed](readme+/.net/readme+/audit) :arrow_lower_left:\
 |- :arrow_lower_right: [Deduced](readme+/.net/readme+/deduced)\
 |- **Foundations**\
-|--- [WPF](readme+/.net/wpf/)\
-(➡️ _use-dev_)\
-|- [**Design decisions**](https://github.com/Kyriosity/use-dev/blob/main/readme+/decisions) 
+|--- [WPF](readme+/.net/wpf/)
 
+|- ➡️ [**Design decisions**](https://github.com/Kyriosity/use-dev/blob/main/readme+/decisions) (_use-dev_)
 
 - [__Technical writing__](readme+/pencraft)\
 |- [Opuses](readme+/pencraft/readme+/opuses/)
