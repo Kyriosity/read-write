@@ -66,7 +66,7 @@ Justified, ability in exact sciences isn't a prerequisite for applied programmin
 <summary><ins>&nbsp;<b>AI</b>&nbsp;</ins><code>xor</code><ins>&nbsp;<b>IT</b>&nbsp;</ins></summary>
 &nbsp;
 
-![Cheat GPT](https://img.shields.io/badge/AI-chemy-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
+![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
 
 [![AI: 1523 vs 2023](../_rsc/_img/memes/AI-1523-2023_spot-the-diff.png)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/_rsc)
 
