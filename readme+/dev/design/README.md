@@ -1,13 +1,13 @@
 > ..................... 🚧 **... DRAFT ...** 🚧 ....................
 
-# The creation of software
+# Foreword - The creation of software
 
 **What makes software?** In a word - _development_, in four - \
-[![Four colors of software](../,,/pencraft/readme+/_rsc/_img/darkCode2arcGold.jpg)](../../pencraft/readme+/_rsc/)\
+[![Four colors of software](https://github.com/Kyriosity/read-write/blob/main/readme%2B/pencraft/readme%2B/_rsc/_img/darkCode2arcGold.jpg)](../../pencraft/readme+/_rsc/)\
 <sup>:de:</sup> <sub>The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future.\
 &nbsp;&nbsp;&nbsp;&nbsp;Since $4>3$ tearful-blue was added for design.</sub>
 
-More colors? With due respect to administration, testing, DevOps, deployment, documentation, and project management, they could be only tints and shades of main paints. 
+More colors <kbd>W</kbd>? With due respect to administration, testing, DevOps, deployment, documentation, and project management, they could be only tints and shades of main paints. 
 
 This layered picture won't qualify even for [local imageboard](../../pencraft/readme+/opuses/IT-memes.md) but was intended as a platform of further discussion. Let's go.
 
