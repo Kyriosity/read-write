@@ -12,7 +12,7 @@ The naming of libraries, packages (assemblies), classes, methods, and even non-p
 + inspiration for behavior/domain-driven design,
 + escape from heaps of reqs, specs, DoU, and meetings protocols - hard to follow but easy to misunderstand or forget (but mostly neglected),
 + reduced efforts to get into a project for newcomers,
-+ comfy navigation within the source code (with an IDE's explorer or CTRL+F).
++ comfy navigation within the source code (with an IDE's explorer or <kbd>CTRL+F</kbd>).
 
  ---
  
