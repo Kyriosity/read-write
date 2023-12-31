@@ -2,10 +2,11 @@
 
 ## Comments
 
-Comments can be engaging and reliable but signal design NEST KOV and poor naming. 
-WHILE pro clean codes are self descriptive by nature and need no comments<sup>:raising_hand:</sup>.
+Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas [quality code](code-quality.md) is self-descriptive by nature and needs no text remarks<sup>:raising_hand:</sup>.
 
-If you explore available sources (such as GitHub), many of the codes there will be bloated with comments just repeating SYN0 the names of classes, functions, and variables.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>This statement is for high-level declarative languages.</sub>
+
+Meanwhile, if you explore available sources such as GitHub, many (if not the majority) of the files there will be bloated with comments, which just rehears the names of classes, functions, arguments, and properties along with trivia.
 
 However, comments are fully justified for:
 
@@ -15,15 +16,15 @@ However, comments are fully justified for:
 + snippets in documentation,
 + domain-explaining quotes from sources like wiki.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>This statement is for high-level declarative languages.</sub>
-
 Comments may contain documentation, which will be built along with the application and directly refer to the implementation. The idea is good but requires much phantasy and stumbles on realization and maintenance. 
 
 ## Diagrams and presentation
 
-STructure !
+You need both a good structure and quality code to get the concept of the application exploring but ...
 
+- perfect structure and code aren't
+- the intention of application and design may deviate
 
-**Relative topics**:\
+**Further topics**:\
 |- [Technical writing](../../../pencraft)
 
