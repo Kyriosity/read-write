@@ -1,4 +1,4 @@
-# Documentation of code
+# Code - Documentation
 
 ## Comments
 
@@ -16,11 +16,11 @@ However, comments are fully justified for:
 + snippets in documentation,
 + domain-explaining quotes from sources like wiki.
 
-Comments may contain documentation, which will be built along with the application and directly refer to the implementation. The idea is good but requires much phantasy and stumbles on realization and maintenance. 
+Comments may contain documentation, which will be built along with the application and directly refer to the implementation. This good idea requires much phantasy and stumbles on realization and maintenance.
 
-## Diagrams and presentation
+## Diagrams and presentations
 
-You need both a good structure and quality code to get the concept of the application exploring but ...
+You need both a good structure and quality code to get the concept of the application exploring but it's a reverse engineering ...
 
 - perfect structure and code aren't
 - the intention of application and design may deviate
