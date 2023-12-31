@@ -2,9 +2,10 @@
 
 ## Comments
 
-Self-descriptive, clean codes need no comments<sup>:raising_hand:</sup>. Comments can be engaging and reliable but signal design flaws and poor naming.
+Comments can be engaging and reliable but signal design NEST KOV and poor naming. 
+WHILE pro clean codes are self descriptive by nature and need no comments<sup>:raising_hand:</sup>.
 
-If you explore available sources (such as GitHub), many of the codes there will be bloated with comments just repeating the names of classes, functions, and variables.
+If you explore available sources (such as GitHub), many of the codes there will be bloated with comments just repeating SYN0 the names of classes, functions, and variables.
 
 However, comments are fully justified for:
 
@@ -17,6 +18,11 @@ However, comments are fully justified for:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>This statement is for high-level declarative languages.</sub>
 
 Comments may contain documentation, which will be built along with the application and directly refer to the implementation. The idea is good but requires much phantasy and stumbles on realization and maintenance. 
+
+## Diagrams and presentation
+
+STructure !
+
 
 **Relative topics**:\
 |- [Technical writing](../../../pencraft)
