@@ -1,4 +1,5 @@
 - [__Software__](readme+/dev/)\
+featuring #quality\
 |- [Design](readme+/dev/design/)\
 |- [Partitioning](readme+/dev/design/readme+/software-parts)\
 |- [Around the code](readme+/dev/code/)\
