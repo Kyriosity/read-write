@@ -1,13 +1,13 @@
 # C# - Nice to have - Parts and frameworks
 
-Along with [nice-to-have syntax and features](/cs-lacks.md) I could imagine external but "natural" parts/frameworks, to make C# even greater.
+Along with [nice-to-have syntax/features](cs-lacks.md) I could imagine external but "natural" parts/frameworks, to make C# even greater.
 
 ## Testing
 
 The prevailing attitude to testing is as an integral part of the software
 You may object ...
 
-Link to 3D
+Link to [3D&nbsp;re&#8209;view](https://github.com/Kyriosity/use-dev/tree/main/readme+/decisions/testing/test3D) with partial solution.
 
 
 ## Measurement systems
