@@ -26,13 +26,13 @@ Developers get the best out-of-the-box: state-of-the-art UI, professional look a
 
 ## Backend
 
-Simple to moderate applications need no elaborated structure - they begin with a few classes of data context. However for large projects teams shall weigh evaluation, learning curve, and fitting of the chosen framework against their own development.
+Simple to moderate applications need no elaborated structure - they begin with a few data context classes. For large projects teams shall weigh evaluation, learning curve, and fitting of the chosen framework against the hardship of own development.
 
-Quite many frameworks are good at themselves but will burden your project with too much unclaimed "ballast" code.
+Many frameworks are good at themselves but will burden your project with too much unclaimed "ballast" code.
 
 ## Testing
 
-Successful test frameworks (like JUnit, NUnit) are already associated with target languages/platforms and present in favorite IDEs.
+Components for testing are so organic for applications that are associated/integrated with popular languages/platforms/IDEs (Java, Angular) and DevOps. Their state for .NET got a piece pf discussion in [C# nice-to-have](../../../..//.net/readme+/audit/cs-lacks-parts.md#testing).
 
 ## Free, commercial, open source, proprietary, initiative
 
