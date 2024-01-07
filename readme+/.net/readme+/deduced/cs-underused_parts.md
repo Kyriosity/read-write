@@ -9,9 +9,10 @@ C# evolves swiftly with regular and rich releases, but not every developer is an
 However, staying fit with C# is reasonable and feasible. Releases of .NET  are stable and, besides new syntax and structures, they bring more performance and security. 
 Devoted bloggers<sup>:raising_hand:</sup> help to separate the wheat from the chaff, and IDEs hint at new features.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Won't suggest any since this must be a personal selection.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Won't recommend any since this must be a personal selection.</sub>
 
 ## ReactiveX
+
 Ironically it was Microsoft who originated [ReactiveX](https://reactivex.io/) but its fame was established through platforms of others, e.g. Angular.
 
 [IObservable](https://docs.microsoft.com/en-us/dotnet/api/system.iobservable-1) is in base classes, [Reactive extensions](https://github.com/dotnet/reactive) are at least a decade in .NET and properly integrated with LINQ but ... seldom used.\
@@ -19,7 +20,7 @@ Sure, event/stream-based development isn't for every use and its paradigm requir
 
 ## Predicates and delegates as arguments
 
-// ToDo: ➡️ move to hints ! ➡️ 
+// ToDo: ➡️ move to hints ! ➡️ \
 Are good for parametrization of methods calls but are seldom seen there.
 
 ## Multitasking out-of-the-box
@@ -42,15 +43,20 @@ static void CalcHard(int nat) {
 
 ## All of the LINQ
 
-LINQ is so cool that LINQ is the first thing to miss when coding in other languages&nbsp;<sup>:thought_balloon:</sup>. However, even its active users may be unaware of many tenable features.\
-Not to sound unwarranted, I was myself longly unaware of [Zip](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.zip), [DefaultIfEmpty](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.defaultifempty), [TryGetNonEnumeratedCount](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.trygetnonenumeratedcount).
+LINQ is so great that it's the first thing C# developers miss when coding in other languages&nbsp;<sup>:thought_balloon:</sup>. However, even its addicts may be unfamiliar with many tenable features.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:thought_balloon:</sup><sub>If you're lucky enough not to face this, such [equivalent cheatsheets](https://www.garethrepton.com/TypeScript-equivalents-for-DotNet-Linq-functions/) may give you a feeling</sub>
+As I (myself) was longly unaware of [Zip](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.zip), [DefaultIfEmpty](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.defaultifempty), [TryGetNonEnumeratedCount](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.trygetnonenumeratedcount).
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:thought_balloon:</sup><sub>If you're lucky enough not to meet this, such [cheatsheet of equivalents](https://www.garethrepton.com/TypeScript-equivalents-for-DotNet-Linq-functions/) may give you a feeling.</sub>
 
 ## Refection
 
-Rumors of "illegal" hacking and slow performance follow the reflection...
+Rumors of "illegal" hacking and slow performance follow the reflection but are unfair. It does worth tricks and has become a programming paradigm (unless trying to substitute "direct" language construct). 
+
+// ToDo: link to caller !
 
 ## Dynamic code generation
 
-It doesn't involve deranged imagination to improvise the auto-implementation of interfaces - to spare coding of countless combinations. ... Roslyn
+It doesn't involve deranged imagination to improvise the auto-implementation of interfaces - to spare coding of countless combinations. [Roslyn](https://github.com/dotnet/roslyn) has  much facilitated dynamic code though there's a lack of good tutorials.
+
+// ToDo: link to use-dev
