@@ -19,6 +19,7 @@ Sure, event/stream-based development isn't for every use and its paradigm requir
 
 ## Predicates and delegates as arguments
 
+// ToDo: ➡️ move to hints ! ➡️ 
 Are good for parametrization of methods calls but are seldom seen there.
 
 ## Multitasking out-of-the-box
@@ -45,3 +46,11 @@ LINQ is so cool that LINQ is the first thing to miss when coding in other langua
 Not to sound unwarranted, I was myself longly unaware of [Zip](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.zip), [DefaultIfEmpty](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.defaultifempty), [TryGetNonEnumeratedCount](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.trygetnonenumeratedcount).
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:thought_balloon:</sup><sub>If you're lucky enough not to face this, such [equivalent cheatsheets](https://www.garethrepton.com/TypeScript-equivalents-for-DotNet-Linq-functions/) may give you a feeling</sub>
+
+## Refection
+
+Rumors of "illegal" hacking and slow performance follow the reflection...
+
+## Dynamic code generation
+
+It doesn't involve deranged imagination to improvise the auto-implementation of interfaces - to spare coding of countless combinations. ... Roslyn
