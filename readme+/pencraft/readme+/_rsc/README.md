@@ -1,10 +1,10 @@
 # Artisctic and other non-code resources in repositories
 
-Non-code materials in repositories here contain diverse pictures, snapshots, schemes, quotes, wiki references, and other borrowings. Some are directly contributed.
+Non-code stuff in repositories here contains diverse pictures, snapshots, schemes, quotes, wiki references, and other materials: borrowed (from 3d parties) and own.
 
 ## Own resources
 
-You can reproduce resources, that I contributed, as a collage or meme (also reworked), when explicitly attributing them to my profile on GitHub.
+Resources such as collages, memes, or texts, contributed by repository owner(s), can be reproduced without permission but explicitly referencing to the GitHub profile.
 
 ## External resources
 
@@ -13,14 +13,14 @@ You can reproduce resources, that I contributed, as a collage or meme (also rewo
 * Non-commercial
 * For very limited auditorium
 
-When possible I refer the source or/and attribute to the author. 
+When possible I refer the source or/and attribute to the author.
 
 ## Miscellaneous
 
-I couldn't trace sources of certain images/texts (archaeologists say that the source of any meme can be found in cuneiform.). Some memes are too folk and public.
+I couldn't trace sources of certain images/texts (archaeologists say that the source of any can be found in cuneiform.). Some memes are too folk and public to have personal ownership or copyright.
 
 ## Conclusion
 
 Yours sincerely, owner of github.com/Kyriosity (Kyrill D).
 
-If you have questions or demands, don't hesitate to get in touch with me by committing to one of the repositories.
+If you have questions or demands, don't hesitate to contact me by committing to one of the repositories. Hope to hear from you.
