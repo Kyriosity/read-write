@@ -9,14 +9,18 @@
 
 More colors <kbd>W</kbd>? With due respect to administration, testing, DevOps, deployment, documentation, and project management, they could be only tints and shades of main paints. 
 
-This layered picture won't qualify even for [local imageboard](../../pencraft/readme+/opuses/IT-memes.md) but was intended as a platform of further discussion. Let's go.
+This layered picture won't qualify even for [local imageboard](../../pencraft/readme+/opuses/IT-memes.md) but was intended as a platform for further discussion. Let's go.
 
 ## Alltogether
+
+[![Arc view at midi projects](../../pencraft/readme%2B/_rsc/_img/C-D-D-A_midiPrj.jpg)](../../pencraft/readme+/_rsc/)\
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** are a blend of tied, overlapping, and time-unordered processes.&nbsp;<sup>:stop_button:</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:anchor:</sup> <sub>Digging deep in code mines, not seeing shining peaks.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:balloon:</sup> <sub>Flying in abstraction dreams.</sub>
+
+
 
 ## Overlapping and communication
 
