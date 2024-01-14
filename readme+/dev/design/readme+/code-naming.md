@@ -1,5 +1,5 @@
 
-🚧🚧🚧 ... IN WRITING ... 🚧🚧🚧
+🚧🚧🚧 ... DRAFT... 🚧🚧🚧
 
 # Naming in software design
 
@@ -42,3 +42,13 @@ PUBLIC UTILITY
 `Get` must be taboo within method names - either this must be property or a better description of the returned: `Read`, `Calculate` u.a.
 
 🚧 .. TO BE CONTINUED ... 🚧
+
+## Appendix 1 (of 1). Learning from others
+
+### Hall of fame 
+
+
+
+### Hall of shame
+
+And 1st place goes to ... `dirty` used as the property of a modified object may hold the 1st place.
