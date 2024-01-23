@@ -10,7 +10,7 @@ Code quality is the **cement** of software. It's imperceptible for spectators an
 
 ## High-quality code
 
-That's _a)_ bug-unfriendly _b)_ reviewed/tested _c)_ _clean code_ that follows acknowledged guidelines and principles (e.g. SOLID) and also...
+That's _**a)**_ bug-unfriendly _**b)**_ reviewed/tested _**c)**_ _clean code_ that follows acknowledged guidelines and principles (e.g. SOLID) and also...
 
 - [x] **reads** in both directions: the new developer will learn the domain from it while the domain expert (with some assistance) will grasp the implemented application logic
 - [x] **teaches** techniques and gimmicks
@@ -41,7 +41,7 @@ _Errare humanum est_, and quality code allows one to focus tests on ...
 
 ... and get more space to avoid [tests pitfalls](../../testing/tests-pitfalls.md)
 
-## P.S. Moralité
+## Moralité
 
 With all that said, why does mediocre code prevail and _clean code_ migrate to buzzwords? 
 
@@ -49,6 +49,7 @@ a) poor-quality code is written much faster and cheaper. And as it does the job 
 
 b) Benefits of quality code lag<sup>:family_man_woman_boy_boy:</sup> as well as exponentially growing issues from bad software parts. The point when controllable chaos goes out of control, or a security breach opens may be crucial but lay far in the next releases (when its creators are safely on other projects).\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:family_man_woman_boy_boy:</sup>&nbsp;<sub>for all beneficiaries: users, customers, developers, project organizers</sub>
+
 c) overhead
 
 Not every developer will self-reflect on "submit and forget" work, and not every project management will draw a golden section between profanity and academism. 
