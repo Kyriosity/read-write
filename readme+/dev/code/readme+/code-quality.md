@@ -33,22 +33,23 @@ High-quality code has
 
 Efficient, ample tests allow only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, and performance testing.
 
-However, _errare humanum est_, and quality of code allows us to focus tests on ...
+_Errare humanum est_, and quality code allows one to focus tests on ...
 
-+ subjects of apparent changes,
-+ dependencies of imports and external parts,
-+ performance bottlenecks
+* subjects of vivid changes,
+* dependencies on imports and external parts,
+* bottlenecks (performance, accuracy)
 
-... and avoid [tests pitfalls](../../testing/tests-pitfalls.md)
+... and get more space to avoid [tests pitfalls](../../testing/tests-pitfalls.md)
 
 ## P.S. Moralité
 
 With all that said, why does mediocre code prevail and _clean code_ migrate to buzzwords? 
 
-Primarily, poor-quality code is written much faster and cheaper. And as it does the job counter-arguments fade.
+a) poor-quality code is written much faster and cheaper. And as it does the job counter-arguments fade.
 
-Benefits of quality code lag<sup>:family_man_woman_boy_boy:</sup> as well as exponentially growing issues from bad software parts. The point when controllable chaos goes out of control, or a security breach opens may be crucial but lay far in the next releases (when its creators are safely on other projects).\
+b) Benefits of quality code lag<sup>:family_man_woman_boy_boy:</sup> as well as exponentially growing issues from bad software parts. The point when controllable chaos goes out of control, or a security breach opens may be crucial but lay far in the next releases (when its creators are safely on other projects).\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:family_man_woman_boy_boy:</sup>&nbsp;<sub>for all beneficiaries: users, customers, developers, project organizers</sub>
+c) overhead
 
 Not every developer will self-reflect on "submit and forget" work, and not every project management will draw a golden section between profanity and academism. 
 
