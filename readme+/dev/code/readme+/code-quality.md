@@ -6,28 +6,32 @@ guru deletes code<br/></p>
 
 # Code - Quality
 
-Code quality is the **cement** of software. It's imperceptible for spectators and doesn't matter much for booths, but ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions. Poor quality, inter alia, leads to security cracks.
+Code quality is the **cement** of software. It's imperceptible for spectators and doesn't matter much for booths, but ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions. Poor quality, as in building, results in security cracks.
 
 ## High-quality code
 
-That's _**a)**_ bug-unfriendly _**b)**_ reviewed/tested _**c)**_ _clean code_ that follows acknowledged guidelines and principles (e.g. SOLID) and also...
+That's _**a)**_ bug-unfriendly _**b)**_ reviewed/tested _**c)**_ _clean code_ that follows acknowledged guidelines and principles (e.g. SOLID as most known) and also...
 
 - [x] **reads** in both directions: the new developer will learn the domain from it while the domain expert (with some assistance) will grasp the implemented application logic
 - [x] **teaches** techniques and gimmicks
 - [x] **inspires** to contribute to this code (rather than "it's better to rewrite that")
 
-The concept of high-quality code correlates with [Test Driven Design](../../design/readme+/tdd-ddd.md) 
+The concept of high-quality code correlates with\
+|- [Creation of software](../../design/)\
+|- [Test Driven Design](../../design/readme+/tdd-ddd.md)
 
-### Bug-unfriendly code
+### Re: Bugs
 
-Even bug-**free** code can be bug-**prone**, while bug-unfriendly style minimizes the risk of introducing an error by change (no matter whether unit tests will pick one).
+Even bug-**free** code can be bug-**prone**. Code style must be bug-unfriendly to minimize risks of introducing an error by change (no matter whether unit tests will pick one).
 
 High-quality code has
 
-+ syntax that prevents typos (e.g. `String.Empty` instead of `""` or like some [C# tricks](../../../.net/readme+/deduced/cs-hints.md)),
-+ visible logical flow (early return, shallow enclosures)
++ syntax that prevents typos<sup>🎼</sup> and mistakes (like deceptive names or accidental casts),
++ visible logical flow (not limited to early return, shallow enclosures).
 
-### Test coverage
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup>&nbsp;<sub>e.g. `String.Empty` instead of `""` and some [C# tricks](../../../.net/readme+/deduced/cs-hints.md)</sub>
+
+### Re: Test coverage
 
 > Test coverage may (and shall) share the same functionality with TDD but is intended merely to mechanically examine software (no matter when written and run).
 
@@ -35,32 +39,32 @@ Efficient, ample tests allow only patching buggy and badly joined applications, 
 
 _Errare humanum est_, and quality code allows one to focus tests on ...
 
-* subjects of vivid changes,
-* dependencies on imports and external parts,
-* bottlenecks (performance, accuracy)
+* bottlenecks: intricate logic, performance, accuracy,
+* subjects of frequent changes,
+* dependencies on imports and external parts.
 
-... and get more space to avoid [tests pitfalls](../../testing/tests-pitfalls.md)
+... and get more breath to avoid [tests pitfalls](../../testing/tests-pitfalls.md).
 
 ## Moralité
 
-With all that said, why does mediocre code prevail and _clean code_ migrate to buzzwords? 
+With all that said, why does deficient code prevail and _clean code_ migrate to buzzwords? 
 
-a) poor-quality code is written much faster and cheaper. And as it does the job counter-arguments fade.
+1. Poor-quality code is written much faster and cheaper<sup>🥴</sup>. And as it does the job counter-arguments fade.
+2. Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup> as well as exponentially growing issues from bad software parts. The point when controllable chaos goes out of control, or a security breach opens may be crucial but lay far in the next releases.<sup>:parachute:</sup>
+3. Intention for quality is a half success but with incomplete efforts, it will be the same, though better, deficient code. 
 
-b) Benefits of quality code lag<sup>:family_man_woman_boy_boy:</sup> as well as exponentially growing issues from bad software parts. The point when controllable chaos goes out of control, or a security breach opens may be crucial but lay far in the next releases (when its creators are safely on other projects).\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family_man_woman_boy_boy:</sup>&nbsp;<sub>for all beneficiaries: users, customers, developers, project organizers</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🥴</sup>&nbsp;<sub>Provided one doesn't bother with [development] principles.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family_man_woman_boy_boy:</sup>&nbsp;<sub>Customers, developers, tester, users and project organizers.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:parachute:</sup>&nbsp;<sub>When its originators could be safely on other projects, leaving the headache for others.</sub>
 
-c) overhead
-
-Not every developer will self-reflect on "submit and forget" work, and not every project management will draw a golden section between profanity and academism. 
+Add here that not every developer self-reflects on "submit and forget" work, and not every project management will draw a golden section between profanity and academism. 
 
 ## Appendix 1 (of 1). Mediocre code - why
 
-Apart from environments where good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup> even motivated intelligent teams may not achieve high quality up to the end of a big project. To name a few reasons:
+Apart from environments where good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup> even motivated intelligent teams may not achieve high quality up to the end of a big project. To name a few reasons besides _classical_ over-creativity and procrastination:
 
-+ overhead of formal processes at the expense of development and communication,
-+ "egocentrism": low feedback (code review, pair programming, coaching) and reluctance to learn (also from critique),
-+ over-creativity, unrestrained abstraction, pedantry/perfectionism, procrastination,
++ overweight of formal processes at the expense of design and communication,
++ "egocentrism": low feedback (code review, pair programming, coaching) and reluctance to learn (especially from critique),
 + canceled/skipped iterations/refactoring,
 + hesitation in using and contributing to shared code (from team/enterprise foundations up to open source)
 
@@ -68,3 +72,5 @@ Apart from environments where good code won't bloom<sup>:wilted_flower:</sup> or
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:desert:</sup>&nbsp;<sub>Prototypes, stand-alone auxiliaries, temporary solutions.</sub>
 
 Some smart individuals develop great apps alone and are so good at keeping all details and the whole picture in mind that don't need and like to lose time with code organization. However, it's exceptional and not about enterprise development.
+
+🔚
