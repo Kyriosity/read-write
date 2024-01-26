@@ -15,11 +15,13 @@ This layered picture won't qualify even for a [local imageboard](../../pencraft/
 
 More colors? With due respect to administration, testing, DevOps, deployment, documentation, and project management, they can only tint, shade, or wash off main paints. 
 
-**_Coding_**, **_development_**, **_design_**, and **_architecture_** are a blend of tied, overlapping, and time-unordered processes. On small scale they will shrink to the next rectangular:
+**_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. They may blend to quite a rectangular:
 
 [![Arc view at midi projects](../../pencraft/readme%2B/_rsc/_img/C-D-D-A_midiPrj.jpg)](../../pencraft/readme+/_rsc/)
 
-BIG PIC
+The growth of a project will blow the picture.
+
+THUMBNAIL OR CUT ?
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:anchor:</sup> <sub>Digging deep in code mines, not seeing shining peaks.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:balloon:</sup> <sub>Flying in abstraction dreams.</sub>
