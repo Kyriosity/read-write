@@ -25,15 +25,19 @@ Are good for parametrization of methods calls but are seldom seen there.
 
 ## Multitasking out-of-the-box
 
-Exaggerated fears of intricacy may divert developers from the advantages of parallelism. C# presents high-level alternatives to custom bootstrap of multi-threading (semaphores, mutex, locks, pools). And it's not even about cozy [TPL](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-parallel-library-tpl), PLINQ or unblocking with `async`/`await` but instant syntax alteration that unleashes the power of parallel computing.
+Exaggerated fears of intricacy may divert developers from the advantages of parallelism. C# presents high-level alternatives to custom bootstrap of multi-threading (semaphores, mutex, locks, pools). 
 
+And it's not even about cozy [TPL](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-parallel-library-tpl), PLINQ or unblocking with `async`/`await` but instant syntax alteration that unleashes the power of parallel computing.
+
+<details>
+   <summary><ins>&nbsp;Cycles get parallelized in a snap:&nbsp;</ins></summary>
+   
 ```diff
    var nats = Enumerable.Range(1, 28_000_000).ToArray();
 -  foreach (var item in nats) 
 -    CalcHard(item);
 +  Parallel.ForEach(nats, CalcHard); // must be faster on casual PC
-```
-```csharp
+
 static void CalcHard(int nat) {
    using var sha = SHA512.Create();
    _ = sha.ComputeHash(Encoding.UTF8.GetBytes(((int)Math.Sqrt(nat) / Math.Atan2(nat, nat)).ToString()));
@@ -41,11 +45,15 @@ static void CalcHard(int nat) {
 
 ```
 
+</details>
+
 ## All of the LINQ
 
-LINQ is so great that it's the first thing C# developers miss when coding in other languages&nbsp;<sup>:thought_balloon:</sup>. However, even its addicts may be unfamiliar with many tenable features.
+LINQ is so great that it's the first thing C# developers miss when coding in other languages&nbsp;<sup>:thought_balloon:</sup>. 
 
-As I (myself) was longly unaware of [Zip](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.zip), [DefaultIfEmpty](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.defaultifempty), [TryGetNonEnumeratedCount](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.trygetnonenumeratedcount).
+However, even its addicts may be unfamiliar with many tenable features. I myself knew about [OfType](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.oftype) vs. [Cast](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.cast), [Zip](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.zip) obscenely later than I must have used them.
+
+It's also better to be aware of disputable methods like [DefaultIfEmpty](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.defaultifempty), [TryGetNonEnumeratedCount](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.trygetnonenumeratedcount) before considering to implement that one specific.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:thought_balloon:</sup><sub>If you're lucky enough not to meet this, such [cheatsheet of equivalents](https://www.garethrepton.com/TypeScript-equivalents-for-DotNet-Linq-functions/) may give you a feeling.</sub>
 
