@@ -64,7 +64,7 @@ Foremost coding is an ingredient of [Creation of software](../../design/), where
 
 + overweight of formal processes at the expense of design and communication,
 + "egocentrism": low feedback (code review, pair programming, coaching) and reluctance to learn (especially from critique),
-+ canceled/skipped iterations/refactoring,
++ canceled/postponed iterations/refactoring,
 + hesitation in using and contributing to shared code (from team/enterprise foundations up to open source)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:wilted_flower:</sup>&nbsp;<sub>Budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation.</sub>\
