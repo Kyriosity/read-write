@@ -1,12 +1,13 @@
-# Code - Documentation
+# Dev - Documentation
 
-## Comments
+## Code comments
 
-Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas [quality code](code-quality.md) is self-descriptive by nature and needs no text remarks<sup>:raising_hand:</sup>.
+Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas [quality code](code-quality.md) is self-descriptive by nature and needs no remarks 
+ above<sup>:raising_hand:</sup>.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>This statement is for high-level declarative languages.</sub>
 
-Meanwhile, if you explore available sources such as GitHub, many (if not the majority) of the files there will be bloated with comments, which just rehears the names of classes, functions, arguments, and properties (along with copyright and other trivia).
+Exploring source codes of prominent providers on GitHub or elsewhere you'll find many (if not the majority) of the files there bloated with comments, rehearsing the names of classes, functions, arguments, and properties (along with fat copyright header as there were no license).
 
 However, comments are fully justified for:
 
@@ -14,17 +15,16 @@ However, comments are fully justified for:
 + courtesy of Q&A sites,
 + worthy tricks that harm readability,
 + code snippets in documentation,
-+ domain-explaining quotes from sources like wiki.
++ domain-explaining quotes from sources like wiki,
++ notes which will be transformed to tasks (better automatically on submit).
 
 Comments may contain text fragments, which will be compiled into documentation along with the application build (and directly refer to the code and serve as the help). This good idea requires much phantasy and stumbles on realization and maintenance.
 
 ## Diagrams and presentations
 
-Applications in high-level languages are utmostly demonstrative in reverse engineering, but backward way isn't the best to learn (even with auto-generated diagrams and textual compilation).
+Applications in high-level languages are demonstrative in reverse engineering, but the backward way isn't the best to learn (even with auto-generated diagrams and textual compilation). It will be a real headache without a good file structure and quality code. The ideas, intentions, and spirit of design might differ.
 
-Without a good file structure and quality code it will be a real headache. The ideas, intentions and spirit of design might differ.
-
-Here the overall diagrams and presenations are rather handy.
+Here the overall diagrams and presentations are rather handy.
 
 **Further topics**:\
 |- [Technical writing](../../../pencraft)
