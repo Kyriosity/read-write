@@ -10,7 +10,7 @@ Code quality is the **cement** of software. It's imperceptible for spectators an
 
 ## High-quality code
 
-That's _**a)**_ bug-unfriendly _**b)**_ reviewed/tested _**c)**_ _clean code_ that follows acknowledged guidelines and principles (e.g. SOLID as most known) and also...
+That's _**a)**_ bug-unfriendly _**b)**_ reviewed/tested _**c)**_ _clean code_ that follows acknowledged guidelines  (e.g. SOLID, DRY, KISS) and also...
 
 - [x] **reads** in both directions: the new developer will learn the domain from it while the domain expert (with some assistance) will grasp the implemented application logic
 - [x] **teaches** techniques and gimmicks
@@ -48,7 +48,7 @@ With all that said, why does deficient code prevail and _clean code_ migrate to 
 
 1. Poor-quality code is written much faster, cheaper, and without heated debates<sup>🥴</sup>. And as it does the job counter-arguments fade.
 2. Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup> as well as exponentially growing issues from bad software parts. The point when controllable chaos goes out of control, or a security breach opens may be crucial but lay far in the next releases.<sup>:parachute:</sup>
-3. Intention for quality is a half success but with incomplete efforts, it will be the same, though better, deficient code. 
+3. Intention for quality is a half success but with incomplete efforts, it will be even if better but still  deficient code with overhead. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🥴</sup>&nbsp;<sub>Provided one doesn't bother with [development] principles.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family_man_woman_boy_boy:</sup>&nbsp;<sub>Customers, developers, tester, users and project organizers.</sub>\
