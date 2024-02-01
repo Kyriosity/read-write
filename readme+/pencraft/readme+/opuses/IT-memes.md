@@ -57,7 +57,7 @@ https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 
 [![Here is X. Calm down Pythagoras](../_rsc/_img/memes/PythagoreanTheorem_findX.jpg)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/_rsc)
 
-Justified, ability in exact sciences isn't a prerequisite for applied programming. It's right to find a sorting algorithm implementation rather than to write one own.
+Justified, ability in exact sciences is no longer a prerequisite for applied programming. It's right to find a sorting algorithm implementation rather than to write one own.
 
 ---------
 </details>
@@ -83,8 +83,15 @@ P.S. I do swear that concocting this collage I was unaware of _Hubert Dreyfus_'s
 > Where a calculator like ENIAC today is equipped with 18'000 vacuum tubes and weighs 30 tons, **computers in the future may** have only 1'000 vacuum tubes and perhaps **weigh only 1½ tons**.\
 _Popular Mechanics, March 1949_
 
-Absolutely right. The same magazines over seven decades later: "Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons."
+They were right. The same magazines over seven decades later: "Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons."
+
+> **Do only what only you can do.** ![West meets East](https://img.shields.io/badge/West_meets-East-yellow)\
+_Edsger W. Dijkstra (1930-2002), computer scientist, known i.a. for Dijkstra's algorithm._
+
+Well, not only East grants us great and eloquent teaching ...
+
+</details>
 
 ---
 
-</details>
+_ΟΕΔ_
