@@ -5,14 +5,15 @@ In a word - _development_, in four -
 
 [![Four colors of software](https://github.com/Kyriosity/read-write/blob/main/readme%2B/pencraft/readme%2B/_rsc/_img/darkCode2arcGold.jpg)](../../pencraft/readme+/_rsc/)
 
-<sup>:de:</sup> <sub>The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future.\
-&nbsp;&nbsp;&nbsp;&nbsp;(Since $4>3$ tearful-blue was added for design.)</sub>
+<sup>:de:</sup> The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future. Since $4>3$ tearful-blue was added for the _design_.
+
+More colors? With due respect to administration, testing, DevOps, deployment, documentation, and project organization, they can only tint, shade, or wash off main paints. 
 
 This layered picture won't qualify even for a [local imageboard](../../pencraft/readme+/opuses/IT-memes.md) but was intended as a platform for further discussion. Let's go.
 
 ## Beyond the plain meme
 
-More colors? With due respect to administration, testing, DevOps, deployment, documentation, and project organization, they can only tint, shade, or wash off main paints. 
+
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. While they may blend to almost a rectangular ...
 
@@ -25,10 +26,11 @@ THUMBNAIL
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:anchor:</sup> <sub>Digging deep in code mines, not seeing shining peaks.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:balloon:</sup> <sub>Flying in abstraction dreams.</sub>
 
-## Beyond the primary sketch
+## Behind the explosion sketch
 
 ## Impedance
 
+IMPEDANCE, COMMU (look! also impedance here), ROLES (impedance!), GRAVITY vs LEVITY
 
 ## Overlapping and communication
 
