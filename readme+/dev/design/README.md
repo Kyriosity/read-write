@@ -1,8 +1,8 @@
-> ..................... 🚧 **... DRAFT ...** 🚧 ....................
-
 # The creation of software
 
-**What makes software?** In a word - _development_, in four - \
+**What makes software?**\
+In a word - _development_, in four - 
+
 [![Four colors of software](https://github.com/Kyriosity/read-write/blob/main/readme%2B/pencraft/readme%2B/_rsc/_img/darkCode2arcGold.jpg)](../../pencraft/readme+/_rsc/)
 
 <sup>:de:</sup> <sub>The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future.\
