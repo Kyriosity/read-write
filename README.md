@@ -1,3 +1,5 @@
+[![If to learn is to swim against the current then IT must be a waterfall.](readme+/pencraft/readme+/_rsc/_img/ITLearnWaterfall_horiz.png)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/dev/design)
+
 - [__Software__](readme+/dev/)\
 featuring #quality\
 |- [Design](readme+/dev/design/)\
