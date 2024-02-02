@@ -1,17 +1,18 @@
-# Artisctic and other non-code resources in repositories
+# Resources - Artistic and other non-code 
 
 Non-code stuff in repositories here contains diverse pictures, snapshots, schemes, quotes, wiki references, and other materials: borrowed (from 3d parties) and own.
 
 ## Own resources
 
-Resources such as collages, memes, or texts, contributed by repository owner(s), can be reproduced without permission but explicitly referencing to the GitHub profile.
+Resources, created under this personal profile, such as collages, memes, or texts, contributed by repository owner(s), can be reproduced without asking permission but explicitly referencing the GitHub profile.
 
 ## External resources
 
+I have searched for and used works of others for fair and limited use:
+
 * For illustrative and entertaining purposes
-* Fair use
+* For fun
 * Non-commercial
-* For very limited auditorium
 
 When possible I refer the source or/and attribute to the author.
 
@@ -21,6 +22,6 @@ I couldn't trace sources of certain images/texts (archaeologists say that the so
 
 ## Conclusion
 
-Yours sincerely, owner of github.com/Kyriosity (Kyrill D).
+If you have questions or demands, please contact me by committing to one of the repositories.
 
-If you have questions or demands, don't hesitate to contact me by committing to one of the repositories. Hope to hear from you.
+Looking forward to hearing from you, yours owner of github.com/Kyriosity (Kyrill D).
