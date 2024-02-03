@@ -1,5 +1,5 @@
-<table border="0">
- <tr valign="top" border="0">
+<table style="border-collapse: collapse;">
+ <tr valign="top">
     <td>
       <p><a href="readme+/pencraft/readme+/opuses/IT-memes.md"><img src="readme+/pencraft/readme+/_rsc/_img/ITLearnWaterfall_vert.png" alt="If to learn is to swim against the current then IT must be a waterfall"></a><p>
     <td>
