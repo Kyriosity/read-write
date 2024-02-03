@@ -1,6 +1,6 @@
 <table style="border-collapse: collapse;">
  <tr valign="top">
-    <td>
+    <td style="border: 1px solid #0000000;">
       <p><a href="readme+/pencraft/readme+/opuses/IT-memes.md"><img src="readme+/pencraft/readme+/_rsc/_img/ITLearnWaterfall_vert.png" alt="If to learn is to swim against the current then IT must be a waterfall"></a><p>
     <td>
       <a href="readme+/dev/"><b>Software</b></a><br/>
