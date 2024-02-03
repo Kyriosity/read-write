@@ -1,9 +1,17 @@
-[![If to learn is to swim against the current then IT must be a waterfall.](readme+/pencraft/readme+/_rsc/_img/ITLearnWaterfall_vert.png)](readme+/pencraft/readme+/opuses/IT-memes.md)
-
-| [Software](readme+/dev/design/) | &nbsp;| C#.NET |
-| :---         |     :---:      |          :--- |
-| Design  |    | Reviews    |
-| Code   |  | Hints      |
+<table border="0">
+ <tr valign="top" border="0">
+    <td>
+      <p><a href="readme+/pencraft/readme+/opuses/IT-memes.md"><img src="readme+/pencraft/readme+/_rsc/_img/ITLearnWaterfall_vert.png" alt="If to learn is to swim against the current then IT must be a waterfall"></a><p>
+    <td>
+      <a href="readme+/dev/"><b>Software</b></a><br/>
+      |- Design<br/><br/> 
+      <a href="readme+/.net/"><b>C#.NET</b></a><br/>
+      <br/>
+      <a href="readme+/pencraft"><b>Pencraft</b></a><br/>
+      |- <a href="readme+/pencraft/readme+/opuses">Opuses</a><br/>
+    </td>
+ </tr>
+</table>
 
 - [__Software__](readme+/dev/)\
 featuring #quality\
