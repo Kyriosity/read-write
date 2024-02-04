@@ -3,21 +3,19 @@
 **What makes software?**\
 In a word - _development_, in four - 
 
-[![Four colors of software](https://github.com/Kyriosity/read-write/blob/main/readme%2B/pencraft/readme%2B/_rsc/_img/darkCode2arcGold.jpg)](../../pencraft/readme+/_rsc/)
+[![Four colors of software](../pencraft/readme%2B/_rsc/_img/darkCode2arcGold.jpg)](../../pencraft/readme+/_rsc/)
 
 <sup>:de:</sup> The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future. Since $4>3$ tearful-blue was added for the _design_.
 
-More colors? With due respect to administration, testing, DevOps, deployment, documentation, and project organization, they can only tint, shade, or wash off main paints. 
+More colors for DevOps, administration, testing, documentation, and project organization? With due respect, they can only mix, tint, or shade (if not wash off) the four paints. 
 
 This layered picture won't qualify even for a [local imageboard](../../pencraft/readme+/opuses/IT-memes.md) but was intended as a platform for further discussion. Let's go.
 
 ## Beyond the plain meme
 
-
-
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. While they may blend to almost a rectangular ...
 
-[![Arc view at midi projects](../../pencraft/readme%2B/_rsc/_img/C-D-D-A_midiPrj.jpg)](../../pencraft/readme+/_rsc/)
+[![Arc view at midi projects](../pencraft/readme%2B/_rsc/_img/C-D-D-A_midiPrj.jpg)](../../pencraft/readme+/_rsc/)
 
 ... the growth of a project will blow the picture in all dimensions ...
 
