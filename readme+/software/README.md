@@ -9,7 +9,7 @@ In a word - _development_, in four -
 
 More colors for DevOps, administration, testing, documentation, and project organization? With due respect, they can only mix, tint, or shade (if not wash off) the four paints. 
 
-This layered picture won't qualify even for a [local imageboard](../../pencraft/readme+/opuses/IT-memes.md) but was intended as a platform for further discussion. Let's go.
+This layered picture won't qualify even for a [local imageboard](../../readme+/pencraft/readme+/opuses/IT-memes.md) but was intended as a platform for further discussion. Let's go.
 
 ## Beyond the plain meme
 
