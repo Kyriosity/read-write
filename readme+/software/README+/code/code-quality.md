@@ -23,7 +23,7 @@ Even bug-**free** code can be bug-**prone**. Code style must be bug-unfriendly t
 
 High-quality code has
 
-+ syntax that prevents typos<sup>🎼</sup> and mistakes (like deceptive names or accidental casts),
++ syntax that prevents typos<sup>🎼</sup> and mistakes (like deceptive names, accidental casts or "ghost" arguments),
 + visible logical flow (not limited to early return, shallow enclosures).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup>&nbsp;<sub>e.g. `String.Empty` instead of `""` and some [C# tricks](../../../.net/readme+/deduced/cs-hints.md)</sub>
