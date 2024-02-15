@@ -2,7 +2,7 @@
  <tr valign="top">
     <td style="border: 1px solid #0000000;">
       <p><a href="readme+/pencraft/readme+/opuses/IT-memes.md"><img src="readme+/pencraft/readme+/_rsc/_img/ITLearnWaterfall_vert.png" alt="If to learn is to swim against the current then IT must be a waterfall"></a><p>
-    <td style="background-image: readme+/pencraft/readme+/_rsc/_img/ITLearnWaterfall_vert.png;">
+    <td>
       <a href="readme+/software/"><b>Software</b></a><br/>
       |- Design<br/><br/> 
       <a href="readme+/.net/"><b>C#.NET</b></a><br/>
