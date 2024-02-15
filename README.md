@@ -4,11 +4,13 @@
       <p><a href="readme+/pencraft/readme+/opuses/IT-memes.md"><img src="readme+/pencraft/readme+/_rsc/_img/ITLearnWaterfall_vert.png" alt="If to learn is to swim against the current then IT must be a waterfall"></a><p>
     <td>
       <a href="readme+/software/"><b>Software</b></a><br/>
-      |- Design<br/><br/> 
-      <a href="readme+/.net/"><b>C#.NET</b></a><br/>
+      |- Design<br/>
+      <h4><a href="readme+/.net/">C#.NET</a></h4>
+     |- Hints<br/>
       <br/>
       <a href="readme+/pencraft"><b>Pencraft</b></a><br/>
       |- <a href="readme+/pencraft/readme+/opuses">Opuses</a><br/>
+      <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
  </tr>
 </table>
