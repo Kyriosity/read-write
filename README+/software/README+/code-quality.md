@@ -10,7 +10,7 @@ Code quality is the **cement** of software. It's imperceptible for spectators an
 
 ## High-quality code
 
-That's _**a)**_ bug-unfriendly _**b)**_ reviewed/tested _**c)**_ _clean code_ that follows acknowledged guidelines  (e.g. SOLID, DRY, KISS) and also...
+That's _**A)**_ bug-unfriendly _**B)**_ reviewed/tested _**C)**_ _clean code_ that follows acknowledged guidelines  (e.g. SOLID, DRY, KISS) and also...
 
 - [x] **reads** in both directions: the new developer will learn the domain from it while the domain expert (with some assistance) will grasp the implemented application logic
 - [x] **teaches** techniques and gimmicks
@@ -26,11 +26,11 @@ High-quality code has
 + syntax that prevents typos<sup>🎼</sup> and mistakes (like deceptive names, accidental casts or "ghost" arguments),
 + visible logical flow (not limited to early return, shallow enclosures).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup>&nbsp;<sub>e.g. `String.Empty` instead of `""` and some [C# tricks](../../../.net/README+/deduced/cs-hints.md)</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup>&nbsp;<sub>e.g. `String.Empty` instead of `""` and some [C# tricks](../../../README+/.net/README+/b.deduced/cs-hints.md)</sub>
 
 ### Re: Tests
 
-Test coverage may (and shall) share the same functionality with [Test Driven Design](../../design/README+/tdd-ddd.md) but is intended to mechanically examine software (no matter when a subject of the test was implemented).
+Test coverage may (and shall) share the same functionality with [Test Driven Design](../README+/design/tdd-ddd.md) but is intended to mechanically examine software (no matter when a subject of the test was implemented).
 
 Efficient, ample test coverage allows only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, and performance testing.
 
@@ -40,7 +40,7 @@ _Errare humanum est_, and quality code allows one to focus tests on ...
 * subjects of frequent changes,
 * dependencies on imports and external parts.
 
-... and get more breath to avoid [tests pitfalls](../../testing/tests-pitfalls.md).
+... and get more breath to avoid [tests pitfalls](../README+/testing/README+/tests-pitfalls.md).
 
 ## Moralité
 
@@ -60,7 +60,7 @@ Add here that not every developer self-reflects on "submit and forget" work, and
 
 Apart from environments where good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup> even motivated intelligent teams may not achieve high quality up to the end of a big project. 
 
-Foremost coding is an ingredient of [Creation of software](../../design/), where quality is a derivative. Other reasons besides _classical_ over-creativity and procrastination are:
+Foremost coding is an ingredient of [Creation of software](../), where quality is a derivative. Other reasons besides _classical_ over-creativity and procrastination are:
 
 + overweight of formal processes at the expense of design and communication,
 + "egocentrism": low feedback (code review, pair programming, coaching) and reluctance to learn (especially from critique),
