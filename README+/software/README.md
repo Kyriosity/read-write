@@ -3,7 +3,7 @@
 **What makes software?**\
 In a word - _development_, in four - 
 
-[![Four colors of software](../pencraft/readme%2B/_rsc/_img/darkCode2arcGold.jpg)](../../pencraft/README+/_rsc/)
+[![Four colors of software](../pencraft/README+/_rsc/_img/darkCode2arcGold.jpg)](../pencraft/README+/_rsc/)
 
 <sup>:de:</sup> The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future. Since $4>3$ tearful-blue was added for the _design_.
 
@@ -15,7 +15,7 @@ This layered picture won't qualify even for a [local imageboard](../../README+/p
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. While they may blend to almost a rectangular ...
 
-[![Arc view at midi projects](../pencraft/readme%2B/_rsc/_img/C-D-D-A_midiPrj.jpg)](../../pencraft/README+/_rsc/)
+[![Arc view at midi projects](../pencraft/README+/_rsc/_img/C-D-D-A_midiPrj.jpg)](../../pencraft/README+/_rsc/)
 
 ... the growth of a project will blow the picture in all dimensions ...
 
