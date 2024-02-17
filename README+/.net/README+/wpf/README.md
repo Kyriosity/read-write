@@ -4,7 +4,7 @@ Despite of much scepsis, justifiable and not, and critics from the very dawn of 
 
 For developers WPF:
 
-+ is the number one platform for Windows clients, which makes a big global market,&nbsp;<sup>🙋</sup>
++ is the number one platform for Windows clients, which makes a big global market,<sup>🙋</sup>
 + provides full stack dev without the need to use other platforms and languages,
 + implies [MVVM](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm)<sup>:link:</sup> and has promoted it to other platforms,
 + renders direct hardware acceleration since Windows&nbsp;7
