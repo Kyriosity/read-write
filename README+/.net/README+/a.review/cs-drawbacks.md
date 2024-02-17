@@ -24,7 +24,7 @@ The next definition is laconic and clear `class CollWrapper<C, T> where C : ICol
 
 Advanced C# design reveals more generic restraints and consequent *Vodoo programming* to workaround them.<sup>🙋</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics) that their generics are "_does nots_" of C++ templates.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)<sup>:link:</sup> that their generics are "_does nots_" of C++ templates.</sub>
 
 ## Types
   
@@ -33,34 +33,34 @@ Advanced C# design reveals more generic restraints and consequent *Vodoo program
 - Either `class`, `record`, `record class`, `struct`, `record struct`, or *tuples* can declare an entity. Each has pros and cons for a particular case, but deciding between them could distract from design.
 
 - There's no method signature to specify that it must unconditionally throw an exception, and `void` as a return is incorrect.\
-(The workaround may be to [declare the return as an exception to be thrown](cs-hints.md#Gimmicks)).
+(The workaround may be to [declare the return as an exception to be thrown](../b.deduced/cs-hints.md#Gimmicks)).
 
 ## Namespaces and class organization
 
-* Historic namespaces as [System](https://learn.microsoft.com/en-us/dotnet/api/system) are bloated and mixed.
+* Historic namespaces as [System](https://learn.microsoft.com/en-us/dotnet/api/system)<sup>:link:</sup> are bloated and mixed.
 For example, exceptions should be organized in their own namespace with shorter calls: `Exceptions.Argument.Throw(predicate, message="")`.
-* Classes like [Math](https://docs.microsoft.com/en-us/dotnet/api/system.math), [MathF](https://docs.microsoft.com/en-us/dotnet/api/system.mathf) shall be namespaces for granulated domain classes.
+* Classes like [Math](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>:link:</sup>, [MathF](https://docs.microsoft.com/en-us/dotnet/api/system.mathf)<sup>:link:</sup> shall be namespaces for granulated domain classes.
 
 ## Single-class inheritance
 
 A class may refer to only a single base class but multiple interfaces with default method implementation. This dismantles arguing for conceptual single-class inheritance (which must have been technically restrained).
 
-Alternatives with [extension methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods) are pretty functional, while dynamic composition is beyond usual programming (though Roslyn has much facilitated it).
+Alternatives with [extension methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>:link:</sup> are pretty functional, while dynamic composition is beyond usual programming (though Roslyn has much facilitated it).
 
 ## Casting limitations
 
-- [Named tuples](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/august/essential-net-csharp-7-0-tuples-explained) and anonymous objects are very handy to submit sporadic composed results, but can't cast to an interface or class.
+- [Named tuples](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/august/essential-net-csharp-7-0-tuples-explained)<sup>:link:</sup> and anonymous objects are very handy to submit sporadic composed results, but can't cast to an interface or class.
 - Neither implicit nor explicit downcasting works while JSON (de)serialization legally does this operation. Allowing this cast doesn't contradict type safety.\
-ToDo: an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)
+ToDo: an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)<sup>:link:</sup>
 
 ## Numbers
   
 - Does either developer ponder ten(!) primitive whole types when writing ordinary `for (var i = 0; i < count; i++)`?
-- Summing up 0.1 and 0.2 will reveals a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) unless explicitly declared decimal (just debug `var roundErr = 0.1 + 0.2;` to prove).
+- Summing up 0.1 and 0.2 will reveals a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)<sup>:link:</sup> unless explicitly declared decimal (just debug `var roundErr = 0.1 + 0.2;` to prove).
 
-Developers should better declare just a *number* and distinguish only the way it's processed: fixed (default) or [floating-point arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html).
+Developers should better declare just a *number* and distinguish only the way it's processed: fixed (default) or floating.
 
-C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.numerics.inumber-1) which genericizes numbers but in a bulky and restricted fashion.
+C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.numerics.inumber-1)<sup>:link:</sup> which genericizes numbers but in a bulky and restricted fashion.
 
 ## String
 
@@ -71,7 +71,7 @@ Syntax shortcuts here could make the code both shorter and readable.
 ## Inborn naming
 
 -  *Interface* is a too common term for contracts (and not only in C#).
-- *Reverse*, as in [LINQ method](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse), is actually *flip*.
+- *Reverse*, as in [LINQ method](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse)<sup>:link:</sup>, is actually *flip*.
 - Type modifiers _in_/_out_ for contra-/covariance collide with the same name parameter modifiers (_more_/_less_ can be better)
 
 ... TO BE CONTINUED ...
