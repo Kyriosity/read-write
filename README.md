@@ -11,7 +11,9 @@
       |- Testing<br/>
      <br/>
       💠&nbsp;<b><a href="README+/.net/">C#.NET</a></b><br/>
+      |- Reviewed<br/>
      |- Hints<br/>
+     |- 🪟&nbsp;<a href="README+/.net/README+/wpf"><b>WPF</b></a><br/>
       <br/>
      ➡️&nbsp;<b><a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Design decisions</a></b><br/>
      (<i>use-dev</i> repository)<br/><br/>
