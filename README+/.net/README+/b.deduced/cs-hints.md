@@ -206,5 +206,5 @@ enum FundamentalStatesOfMatter
 
 ## Subsystems, frameworks
 
-+ WPF ...\
-| - [WPF hints](../wpf/readme+/wpf-hints.md)
++ **WPF** ...\
+| - [WPF hints](../wpf/README+/wpf-hints.md)
