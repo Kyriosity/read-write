@@ -12,7 +12,7 @@
       <h4><a href="README+/.net/">C#.NET</a></h4>
      |- Hints<br/>
       <br/><br/>
-     <b><a href="https://github.com/Kyriosity/use-dev/blob/main/readme+/decisions">Design decisions</a></b><br>
+     <b><a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Design decisions</a></b><br>
      ➡️ <i>use-dev</i><br/><br/>
       <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       |- <a href="README+/pencraft/README+/opuses">Opuses</a><br/>

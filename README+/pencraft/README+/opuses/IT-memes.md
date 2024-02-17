@@ -8,7 +8,7 @@ Memes of various origins, I picked to retain and share.
   
 ![West meets East](https://img.shields.io/badge/West_meets-East-yellow) ![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)
 
-[![... then IT must be a waterfall.](../_rsc/_img/ITLearnWaterfall_horiz.png)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/dev/design)
+[![... then IT must be a waterfall.](../_rsc/_img/ITLearnWaterfall_horiz.png)](https://github.com/Kyriosity/read-write/tree/main/README%2B/dev/design)
 
 The grains of truth in this wisdom:
 
@@ -33,7 +33,7 @@ Translated east-to-west this means: find a sinecure in a big company.
 
 ![true random](https://img.shields.io/badge/truly-random-yellow) ![new GUID](https://img.shields.io/badge/secure-nonce-blue) 
 
-[![Guaranted random by fair dice roll](../_rsc/_img/memes/IT-meme.random-number.png)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/_rsc)
+[![Guaranted random by fair dice roll](../_rsc/_img/memes/IT-meme.random-number.png)](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/_rsc)
 
 ---------
 </details>
@@ -55,7 +55,7 @@ https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 
 ![IT meets math](https://img.shields.io/badge/CTRL+F-X-blue) ![IT meets math](https://img.shields.io/badge/IT_meets-math-yellow)
 
-[![Here is X. Calm down Pythagoras](../_rsc/_img/memes/PythagoreanTheorem_findX.jpg)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/_rsc)
+[![Here is X. Calm down Pythagoras](../_rsc/_img/memes/PythagoreanTheorem_findX.jpg)](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/_rsc)
 
 Justified, ability in exact sciences is no longer a prerequisite for applied programming. It's right to find a sorting algorithm implementation rather than to write one own.
 
@@ -68,7 +68,7 @@ Justified, ability in exact sciences is no longer a prerequisite for applied pro
 
 ![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
 
-[![AI: 1523 vs 2023](../_rsc/_img/memes/AI-1523-2023_spot-the-diff.png)](https://github.com/Kyriosity/read-write/tree/main/readme%2B/pencraft/readme%2B/_rsc)
+[![AI: 1523 vs 2023](../_rsc/_img/memes/AI-1523-2023_spot-the-diff.png)](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/_rsc)
 
 P.S. I do swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
 
