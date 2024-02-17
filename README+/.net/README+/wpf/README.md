@@ -12,7 +12,7 @@ For developers WPF:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🙋 <sub>The coming Blazor may change the game, but it's not evident now.</sub>
 
 __Further notes__:\
-|- [WPF and MVVM](READM+/mvvm/)\
-|- [WPF lacks](readme+/wpf-drawbacks.md)\
-|- [WPF hints](readme+/wpf-hints.md)\
-|- [XAML view](readme+/wpf-xaml_view.md)
+|- [WPF and MVVM](README+/mvvm/)\
+|- [WPF lacks](README+/wpf-drawbacks.md)\
+|- [WPF hints](README+/wpf-hints.md)\
+|- [XAML view](README+/wpf-xaml_view.md)
