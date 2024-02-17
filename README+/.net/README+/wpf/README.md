@@ -4,12 +4,12 @@ Despite of much scepsis, justifiable and not, and critics from the very dawn of 
 
 For developers WPF:
 
-+ is the number one platform for Windows clients, which makes a big global market,&nbsp;🙋
++ is the number one platform for Windows clients, which makes a big global market,&nbsp;<sup>🙋</sup>
 + provides full stack dev without the need to use other platforms and languages,
-+ implies [MVVM](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm) and has promoted it to other platforms,
++ implies [MVVM](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm)<sup>:link:</sup> and has promoted it to other platforms,
 + renders direct hardware acceleration since Windows&nbsp;7
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🙋 <sub>The coming Blazor may change the game, but it's not evident now.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The coming Blazor may change the game, but it's not evident now.</sub>
 
 __Further notes__:\
 |- [WPF and MVVM](README+/mvvm/)\
