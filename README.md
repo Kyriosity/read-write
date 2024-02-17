@@ -4,6 +4,7 @@
       <p><a href="readme+/pencraft/readme+/opuses/IT-memes.md"><img src="readme+/pencraft/readme+/_rsc/_img/ITLearnWaterfall_vert.png" alt="If to learn is to swim against the current then IT must be a waterfall"></a><p>
     <td>
       <a href="readme+/software/"><b>SOFTWARE</b></a><br/>
+     |- <a href="readme+/software/README+/code-quality.md">Code quality</a><br/>
       |- Design<br/>
       |- Testing<br/>
       <h4><a href="readme+/.net/">C#.NET</a></h4>
@@ -17,7 +18,6 @@
 </table>
 
 - [__Software__](readme+/dev/)\
-featuring #quality\
 |- [Design](readme+/dev/design/)\
 |- [Partitioning](readme+/dev/design/readme+/software-parts)\
 |- [Around the code](readme+/dev/code/)\
