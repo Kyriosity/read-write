@@ -1,6 +1,6 @@
 # C# - Nice to have - Parts and frameworks
 
-Along with [nice-to-have syntax/features](cs-lacks.md) I could imagine external but "natural" parts/frameworks, to make C# even greater.
+Along with [nice-to-have syntax/features](cs-lacks.md) I could imagine external but "natural" parts/frameworks, to make **C#** even greater.
 
 ## Testing
 
@@ -57,7 +57,7 @@ However
 And what if .NET foundation classes could:
 - neatly formulate declensions, conjugation, and other formations,
 - define constants for unfamiliar forms of loanwords (greek, Latin u.a.),
-- revise habitual [CultureInfo](https://docs.microsoft.com/en-us/dotnet/api/system.globalization.cultureinfo) (classify tongue families and default agreements)
+- revise habitual [CultureInfo](https://docs.microsoft.com/en-us/dotnet/api/system.globalization.cultureinfo)<sup>🔗</sup> (classify tongue families and default agreements)
 
 And, not least, add syntax sugar like
 
