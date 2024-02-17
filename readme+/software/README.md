@@ -3,19 +3,19 @@
 **What makes software?**\
 In a word - _development_, in four - 
 
-[![Four colors of software](../pencraft/readme%2B/_rsc/_img/darkCode2arcGold.jpg)](../../pencraft/readme+/_rsc/)
+[![Four colors of software](../pencraft/readme%2B/_rsc/_img/darkCode2arcGold.jpg)](../../pencraft/README+/_rsc/)
 
 <sup>:de:</sup> The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future. Since $4>3$ tearful-blue was added for the _design_.
 
 More colors for DevOps, administration, testing, documentation, and project organization? With due respect, they can only mix, tint, or shade (if not wash off) the four paints. 
 
-This layered picture won't qualify even for a [local imageboard](../../readme+/pencraft/readme+/opuses/IT-memes.md) but was intended as a platform for further discussion. Let's go.
+This layered picture won't qualify even for a [local imageboard](../../README+/pencraft/README+/opuses/IT-memes.md) but was intended as a platform for further discussion. Let's go.
 
 ## Beyond the plain meme
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. While they may blend to almost a rectangular ...
 
-[![Arc view at midi projects](../pencraft/readme%2B/_rsc/_img/C-D-D-A_midiPrj.jpg)](../../pencraft/readme+/_rsc/)
+[![Arc view at midi projects](../pencraft/readme%2B/_rsc/_img/C-D-D-A_midiPrj.jpg)](../../pencraft/README+/_rsc/)
 
 ... the growth of a project will blow the picture in all dimensions ...
 
@@ -59,11 +59,11 @@ Bugs lookup.
 
 ## Duties and purposes
 
-Besides the primary specification of software layers, modules, entities, functions, and their [naming](/readme+/dev/design/readme+/code-naming.md/), concerns of design **are**:
+Besides the primary specification of software layers, modules, entities, functions, and their [naming](/README+/dev/design/README+/code-naming.md/), concerns of design **are**:
 
 + detection of conceptual collisions<sup>:collision:</sup>,
-+ [partitioning](/readme+/dev/design/readme+/software-parts/) (data, model, presentation, UI, biz logic),
-+ use of [external](/readme+/dev/design/readme+/software-parts/ext_parts.md) libraries, frameworks, and services,
++ [partitioning](/README+/dev/design/README+/software-parts/) (data, model, presentation, UI, biz logic),
++ use of [external](/README+/dev/design/README+/software-parts/ext_parts.md) libraries, frameworks, and services,
 + principal language-specific decisions,&nbsp;✋
 + planned audience (roles, groups), 
 + visualization and presentation of modeling (like UML sketches)
@@ -83,7 +83,7 @@ and are **not**:
 
 ## Options of design
 
-* maintenance of acquired or imaginative [design samples](readme+/design_samples.md)
+* maintenance of acquired or imaginative [design samples](README+/design_samples.md)
 
 ## Pitfalls
 

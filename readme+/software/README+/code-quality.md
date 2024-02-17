@@ -26,11 +26,11 @@ High-quality code has
 + syntax that prevents typos<sup>🎼</sup> and mistakes (like deceptive names, accidental casts or "ghost" arguments),
 + visible logical flow (not limited to early return, shallow enclosures).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup>&nbsp;<sub>e.g. `String.Empty` instead of `""` and some [C# tricks](../../../.net/readme+/deduced/cs-hints.md)</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup>&nbsp;<sub>e.g. `String.Empty` instead of `""` and some [C# tricks](../../../.net/README+/deduced/cs-hints.md)</sub>
 
 ### Re: Tests
 
-Test coverage may (and shall) share the same functionality with [Test Driven Design](../../design/readme+/tdd-ddd.md) but is intended to mechanically examine software (no matter when a subject of the test was implemented).
+Test coverage may (and shall) share the same functionality with [Test Driven Design](../../design/README+/tdd-ddd.md) but is intended to mechanically examine software (no matter when a subject of the test was implemented).
 
 Efficient, ample test coverage allows only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, and performance testing.
 

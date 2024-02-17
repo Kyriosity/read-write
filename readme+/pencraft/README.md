@@ -15,11 +15,11 @@ Regardless of missions, any tech writing is an expensive and exhausting exercise
 + [x] be long-term (updated and evolved).
 
 __Furthermore__\
-|- [Technical documentation](readme+/tech-docu.md)\
-|- [Technical authoring](readme+/tech-authoring.md)\
-|- [Technical illustration](readme+/tech-drawing.md)\
+|- [Technical documentation](README+/tech-docu.md)\
+|- [Technical authoring](README+/tech-authoring.md)\
+|- [Technical illustration](README+/tech-drawing.md)\
 \---------------------------------\
 |- Freestyle opuses\
-|--- [Private view on AI in 2023](readme+/opuses/AI-2023.md)\
-|--- [In memory of Lotus Notes](readme+/opuses/LN-view.md)\
-|--- [IT memes, found reasonable](readme+/opuses/IT-memes.md)
+|--- [Private view on AI in 2023](README+/opuses/AI-2023.md)\
+|--- [In memory of Lotus Notes](README+/opuses/LN-view.md)\
+|--- [IT memes, found reasonable](README+/opuses/IT-memes.md)
