@@ -1,4 +1,4 @@
-# Drawbacks of WPF
+# WPF - Drawbacks
 
 WPF is a stable, modern and so far popular platform, alive and well off despite some prognoses. It remains the number one choice for Windows applications, however without pivotal improvements and new cutting-edge parts since its first releases.
 
