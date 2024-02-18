@@ -32,13 +32,13 @@ Many frameworks are good at themselves but will burden your project with too muc
 
 ## Testing
 
-Components for testing are so organic for applications that are associated/integrated with popular languages/platforms/IDEs (Java, Angular) and DevOps. Their state for .NET got a piece pf discussion in [C# nice-to-have](../../../..//.net/README+/audit/cs-lacks-parts.md#testing).
+Components for testing are so organic for applications that are associated/integrated with popular languages/platforms/IDEs (Java, Angular) and DevOps. Their state for .NET got a piece of discussion in [C# nice-to-have](../../../../../.net/README+/a.review/cs-lacks-parts.md#testing).
 
 ## Free, commercial, open source, proprietary, initiative
 
-Some non-commercial projects launched by individuals or groups have grown to industry standards and been adopted in mainstream languages. Remember [Newton.json](https://www.newtonsoft.com/json) which has for years filled the JSON gap in C#.
+Some non-commercial projects launched by individuals or groups have grown to industry standards and been adopted in mainstream languages. Remember [Newton.json](https://www.newtonsoft.com/json)<sup>🔗</sup> which has for years filled the JSON gap in C#.
  
-Nevertheless, when applying such 3d-party think if there's a community (maybe, only you) - able to maintain the stuff within lifecycles of using projects. Recall accomplished but abandoned [Iron Python](https://ironpython.net/) or prominent test mocks, last updated 10 years ago.
+Nevertheless, when applying such 3d-party think if there's a community (maybe, only you) - able to maintain the stuff within lifecycles of using projects. Recall accomplished but abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks, last updated 10 years ago.
 
 All-around pro solutions aren't free but annual dev licenses below $1K will quickly pay off even for a humble undertaking. Let alone live support and membership in a durable motivated community.&nbsp;<sup>:raising_hand:</sup>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup><sub>&nbsp;I like the pragmatic and eloquent motto "We are your extended team" (DevExpress).</sub>
