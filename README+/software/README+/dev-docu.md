@@ -1,4 +1,4 @@
-# Dev - Documentation
+# Development - Documentation
 
 ## Commenting the code
 
@@ -8,7 +8,7 @@ Comments can be eye-catching and essential but signal design inconsistency and p
 Exploring source codes of prominent providers on GitHub or elsewhere you'll find many (if not the majority) of the files there bloated with comments, rehearsing the names of classes, functions, arguments, and properties with preceding copyright header<sup>©️</sup>.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>This statement is for high-level declarative languages.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>©️</sup>&nbsp;<sub>As if there's no license agreement or such spell illegaly copy-paste this code.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>©️</sup>&nbsp;<sub>As if there were no license agreement or such a spell may prohibit impudent copy-paste.</sub>
 
 However, comments are fully justified for:
 
@@ -28,5 +28,5 @@ Applications in high-level languages are demonstrative in reverse engineering, b
 Here the overall diagrams and presentations are rather handy.
 
 **Further topics**:\
-|- [Technical writing](../../../pencraft)
+|- [Technical writing](../../pencraft)
 
