@@ -58,7 +58,7 @@ More specific functions can be found in external libraries and if not are the su
 
 ### Reversibility
 
-Codes may rely on mathematical *invertibility* (to undo and browse changes) while [one-way functions](https://en.wikipedia.org/wiki/One-way_function) may suit for trace or hack safety.
+Codes may rely on mathematical *invertibility* (to undo and browse changes) while [one-way functions](https://en.wikipedia.org/wiki/One-way_function)<sup>🔗</sup> may suit for trace or hack safety.
 
 Values difference may suggest a math operation to reproduce, or disclose a function (e.g. one point for an exponent, and two for a line).
 
