@@ -17,9 +17,9 @@ Regardless of missions, any tech writing is an expensive and exhausting exercise
 __Furthermore__\
 |- [Technical documentation](README+/tech-docu.md)\
 |- [Technical authoring](README+/tech-authoring.md)\
-|- [Technical illustration](README+/tech-drawing.md)\
-\---------------------------------\
-|- Freestyle opuses\
-|--- [Private view on AI in 2023](README+/opuses/AI-2023.md)\
-|--- [In memory of Lotus Notes](README+/opuses/LN-view.md)\
-|--- [IT memes, found reasonable](README+/opuses/IT-memes.md)
+|- Technical illustration
+
++ Freestyle opuses\
+|- [Private view on AI in 2023](README+/opuses/AI-2023.md)\
+|- [In memory of Lotus Notes](README+/opuses/LN-view.md)\
+|- [IT memes, found reasonable](README+/opuses/IT-memes.md)
