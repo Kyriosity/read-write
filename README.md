@@ -9,6 +9,8 @@
       |- <a href="README+/software/README+/code-quality.md">Code quality</a><br/>
       |- Design<br/>
       |- Testing<br/>
+      |- <a href="README+/software/README+/dev-mngmnt.md">Organization</a><br/>
+      |- <a href="README+/software/README+/dev-docu.md">Documentation</a><br/>
      <br/>
       💠&nbsp;<b><a href="README+/.net/">C#.NET</a></b><br/>
       |- Reviewed<br/>
