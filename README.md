@@ -7,8 +7,8 @@
     <td>
       💠&nbsp;<a href="README+/software/"><b>SOFTWARE</b></a><br/>
       |- <a href="README+/software/README+/code-quality.md">Code quality</a><br/>
-      |- Design<br/>
-      |- Testing<br/>
+      |- <a href="README+/software/README+/design"><b>Design</b></a><br/>
+      |- <a href="README+/software/README+/testing"><b>Testing</b></a><br/>
       |- <a href="README+/software/README+/dev-mngmnt.md">Organization</a><br/>
       |- <a href="README+/software/README+/dev-docu.md">Documentation</a><br/>
      <br/>
