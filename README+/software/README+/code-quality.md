@@ -10,7 +10,7 @@ Code quality is the **cement** of software. It's imperceptible for spectators an
 
 ## High-quality code
 
-That's _**A)**_ bug-unfriendly _**B)**_ reviewed/tested _**C)**_ _clean code_ that follows acknowledged guidelines  (e.g. SOLID, DRY, KISS) and also...
+That's 🪳bug-unfriendly⛔ 👓reviewed/tested🧪 **`clean code`** that follows acknowledged guidelines  (e.g. SOLID, DRY, KISS) and also...
 
 - [x] **reads** in both directions: the new developer will learn the domain from it while the domain expert (with some assistance) will grasp the implemented application logic
 - [x] **teaches** techniques and gimmicks
