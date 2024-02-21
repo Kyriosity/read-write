@@ -1,11 +1,10 @@
 # C# - Nice to have - Parts and frameworks
 
-Along with [nice-to-have syntax/features](cs-lacks.md) I could imagine external but "natural" parts/frameworks, to make **C#** even greater.
+Along with [nice-to-have syntax/features](cs-lacks.md) **C#** could grow with some naturally expected parts/frameworks.
 
 ## Testing
 
-The prevailing attitude to testing is as an integral part of the software
-You may object ...
+Tests for drive or coverage are optional but natural share of development. Three most popular frameworks for .NET have their pros and contras but neither is state-of-the-art.
 
 Link to [3D&nbsp;re&#8209;view](https://github.com/Kyriosity/use-dev/tree/main/readme+/decisions/testing/test3D) with partial solution.
 
@@ -14,10 +13,8 @@ Link to [3D&nbsp;re&#8209;view](https://github.com/Kyriosity/use-dev/tree/main/r
 
 Definition of natural values (geometry, masses, temperature, electricity, movement u.a.) and their conversions between systems of measurements (metric, US customary, UK imperial u.a.) are more than essential tools (e.g., Celsius-Fahrenheit-Kelvin).
 
-I've outlined custom [Typescript framework](../../../../../../../convert-smth) but hope that Microsoft one day will promote a sound multi-platform pluggable<sup>:electric_plug:</sup> framework.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:electric_plug:</sup> <sub> Since no framework will cover all diversities of physical values and systems (especially custom), and there must be "templates" to add own definitions.</sub>
+Meanwhile, you may try and extend [C# Multifaceted-Value](https://github.com/Kyriosity/use-dev/tree/6ab68c7af589d37715c171e61dc51d0b5a208c73/README+/projects/U-Val) to organize units in your applications.
 
-Meanwhile, you may try and extend [C# Multifaceted-Value](../../../../../../../use-dev/) to organize units in your applications.
 
 ## Lingua
 Let's take some output from fictitious tree search `$"Branches: {found}, ≥ leaves: {cutoff}"`. That can be quickly refactored for narrative or voice generator:\
