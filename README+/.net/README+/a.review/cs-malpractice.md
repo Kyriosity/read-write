@@ -9,9 +9,9 @@ Microsoft thoroughly documents which C# constructs are better or risky for perfo
 
 ## "Bare" code for high-performance calculations
 
-The backside of comfy C# programming is that .NET isn't suited for direct top-efficient code (like C++ on WinCom does). The energy of .NET will exceed the needs of business solutions but will slow down calculations over arrays of millions of items or high-speed transformation of images or videos (even with all the parallelism in the play).
+The backside of comfy C# programming is that .NET isn't suited for direct top-efficient code (like C++ on WinCom). The energy of .NET will exceed the needs of business solutions but will slow down calculations over arrays of millions of items or high-speed transformation of images or videos (even with all the parallelism in the play).
 
-To stay with C# in such situations you may use APIs akin to Direct2D.
+To stay with C# in such a case, the use of hardware acceleration libraries is required.
 
 ## Bloated interfaces
 
@@ -40,7 +40,7 @@ Any **un**named tuples in new stuff shall be out of law.
 
 ## Dynamic and ExpandoObject
 
-Any use for casting, call of props, and methods on them breaches the C# type approach. Though could be a valid workaround for return values of methods, which throw only, to be used in ternary expressions.
+Any use for casting, call of props, and methods on them breaches the C# type approach. Though it could be a valid workaround for return values of methods, which throw only, to be used in ternary expressions.
 
 ## Dubious `sealed`
 
