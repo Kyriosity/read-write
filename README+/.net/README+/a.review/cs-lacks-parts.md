@@ -4,8 +4,9 @@ Along with [nice-to-have syntax/features](cs-lacks.md) **C#** could grow with so
 
 ## Testing
 
-Tests for drive or coverage are optional but natural share of development. Three most popular frameworks for .NET have their pros and contras but neither is state-of-the-art.
+Tests for drive or coverage are optional but natural share of development. Three most popular frameworks for .NET have their pros and contras but neither is in the state-of-the-art.
 
+🚧🚧🚧🚧 ... DRAFT .... 🚧🚧🚧🚧🚧
 Link to [3D&nbsp;re&#8209;view](https://github.com/Kyriosity/use-dev/tree/main/readme+/decisions/testing/test3D) with partial solution.
 
 
