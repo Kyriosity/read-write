@@ -15,14 +15,14 @@ The following language artifacts are awkward leastwise for me.
 `string a = null; string? b = null;`
 - Gradual releases of syntax shortcuts, such as `?` or `!`, softly erode C# readability.<sup>🙋</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:o:</sup> <sub>Such native features can't be changed.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:o:</sup> <sub>These native features can't be changed.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>I assume arguability but hope that C# team doesn't plan to make a Perl out of their language</sub>
   
 ### Generics
 
-The next definition is laconic and clear `class CollWrapper<C, T> where C : ICollection<T> { ... }`, but not its redundant declaration `new CollWrapper<List<int>, int>()`.
+The next definition is terse and clear `class CollWrapper<C, T> where C : ICollection<T> { ... }`, but not the redundancy in its declaration `new CollWrapper<List<int>, int>()`.
 
-Advanced C# design reveals more generic restraints and consequent *Vodoo programming* to workaround them.<sup>🙋</sup>
+Advanced C# design reveals more generic restraints and results in *Vodoo programming* to workaround them.<sup>🙋</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)<sup>:link:</sup> that their generics are "_does nots_" of C++ templates.</sub>
 
