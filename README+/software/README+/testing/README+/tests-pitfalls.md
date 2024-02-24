@@ -1,6 +1,6 @@
 # Test coverage - pitfalls
 
-Bad tests are worse than none, thus good coverage shall be flawless.
+Bad tests are worse than none, and since you can't and shan't write tests of tests their development must be focused and flawless.
 
 ## Falsely green tests
 
@@ -9,7 +9,7 @@ The worst case of malfunctioning tests is a passing one that indeed shields a fa
 The following guidelines help to avoid:
 
 + Ever test your test to show the red sign.
-+ Right anti-test counterpart (e.g. that shall through exceptions)
++ Right anti-test counterpart (e.g. that shall throw exceptions)
 
 ## Excess and overlap, formalism
 
