@@ -59,7 +59,7 @@ Bugs lookup.
 
 ## Duties and purposes
 
-Besides the primary specification of software layers, modules, entities, functions, and their [naming](/README+/dev/design/README+/code-naming.md/), concerns of design **are**:
+Besides the primary specification of software layers, modules, entities, functions, and their [naming](/README+/dev/README+/dev-naming.md/), concerns of design **are**:
 
 + detection of conceptual collisions<sup>:collision:</sup>,
 + [partitioning](/README+/dev/design/README+/software-parts/) (data, model, presentation, UI, biz logic),
