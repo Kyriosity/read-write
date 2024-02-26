@@ -1,4 +1,4 @@
-# C# - Good parts underused
+# C# - Good parts - Underused
 
 Some of the C# syntax, features, and libraries are underestimated or unrevealed. The next observations may be biased but are based on live experience in various projects and teams.
 
