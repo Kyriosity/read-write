@@ -6,11 +6,11 @@
                alt="If to learn is to swim against the current&#10;then IT must be a waterfall"></a><p>
     <td>
      <a href="README+/software/"><b>SOFTWARE</b></a><br/>
-      ⭐&nbsp;<a href="README+/software/README+/code-quality.md">Code quality</a><br/>
-     🔥&nbsp;<a href="README+/software/README+/design/dev-naming.md">Naming</a><br/>
+      ⭐&nbsp;<a href="README+/software/README+/code-quality.md">Quality</a><br/>
+     🔥&nbsp;<a href="README+/software/README+/dev-naming.md">Naming</a><br/>
       💠&nbsp;<a href="README+/software/README+/design"><b>Design</b></a><br/>
       💠&nbsp;<a href="README+/software/README+/testing"><b>Testing</b></a><br/>
-      &nbsp;&nbsp;<a href="README+/software/README+/dev-mngmnt.md">Organization</a><br/>
+      &nbsp;<a href="README+/software/README+/dev-mngmnt.md">Organization</a><br/>
       &nbsp;<a href="README+/software/README+/dev-docu.md">Documentation</a>
      <br/><br/>
      <a href="README+/.net/"><b>C#.NET</b></a><br/>
