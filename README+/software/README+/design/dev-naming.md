@@ -1,11 +1,10 @@
+# Software - Naming 
 
-🚧🚧🚧 ... DRAFT... 🚧🚧🚧
+Naming is the most important, underrated, and neglected activity in software. It looks as granted, when it smoothly leads through design, and when it confuses...
 
-# Naming in software design
-
-The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ must be a **№1** challenge and better involve the whole team<sup>:family:</sup> in discussions. This expense will pay off with *lingua franca* throughout the team and project, and ...
+The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. This expense will pay off with *lingua franca* throughout the team and project, and ...
 <details>
-  <summary>... <b>derived benefits</b></summary>
+  <summary>... <b>Derived benefits</b></summary>
   
 + common comprehension of a domain, collaboration, and indeed bound team,
 + genuine design and self-descriptive code,
