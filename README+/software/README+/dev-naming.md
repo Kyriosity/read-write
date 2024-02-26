@@ -1,6 +1,8 @@
 # Software - Naming 
+<p dir="rtl"><i>"...In the beginning was the Word"</div></i></p><br/>
+ 
 
-Naming is the most important, underrated, and neglected activity in software. It looks as granted, when it smoothly leads through design, and when it confuses...
+Naming is the most meaningful, underrated, and neglected activity in the realm of software. It looks as granted, when it smoothly leads through design, and when it confuses...
 
 The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. This expense will pay off with *lingua franca* throughout the team and project, and ...
 <details>
