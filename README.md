@@ -6,7 +6,8 @@
                alt="If to learn is to swim against the current&#10;then IT must be a waterfall"></a><p>
     <td>
      <a href="README+/software/"><b>SOFTWARE</b></a><br/>
-      🔥&nbsp;<a href="README+/software/README+/code-quality.md">Code quality</a><br/>
+      ⭐&nbsp;<a href="README+/software/README+/code-quality.md">Code quality</a><br/>
+     🔥&nbsp;<a href="README+/software/README+/design/dev-naming.md">Naming</a><br/>
       💠&nbsp;<a href="README+/software/README+/design"><b>Design</b></a><br/>
       💠&nbsp;<a href="README+/software/README+/testing"><b>Testing</b></a><br/>
       &nbsp;&nbsp;<a href="README+/software/README+/dev-mngmnt.md">Organization</a><br/>
@@ -21,7 +22,7 @@
      (<i>use-dev</i> repository)
       <br/><br/>
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
-      🔥&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a><br/>
+      🥱&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a><br/>
       <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
  </tr>
