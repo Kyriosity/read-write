@@ -30,6 +30,12 @@ THUMBNAIL
 
 IMPEDANCE, COMMU (look! also impedance here), ROLES (impedance!), GRAVITY vs LEVITY
 
+## Roles
+
+<p dir="rtl"><i>".Many hands make light work</i></p>
+
+Thinks not persons but roles.
+
 ## Overlapping and communication
 
 <details>
