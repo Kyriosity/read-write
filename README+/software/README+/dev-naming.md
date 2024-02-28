@@ -2,11 +2,15 @@
 <p dir="rtl"><i>"...In the beginning was the Word"</div></i></p><br/>
  
 
-Naming is the most **meaningful**, **underrated**, and **neglected** activity in the realm of software. It's seen as granted when smoothly guides through the design and makes coding intuitive. When names are confusing, bulky, redundant, or ambiguous - impeded comprehension and efforts are addressed to something else (complexity, legacy, learning curve, and uniqueness).
+Naming is the most **meaningful**, **underrated**, and **neglected** activity in the realm of software. It's seen as granted when smoothly guides through the design and makes coding intuitive. CONTRARY, When names are confusing, bulky, redundant, or ambiguous - impeded comprehension and efforts are addressed to something else (complexity, legacy, learning curve, platform, and uniqueness).
 
-## Process
+Contrary, wading through the thorns of `Helpers`, `Service`, `Utils`, `Make()`, baobabs of bulky names, mirrors of ambiguity a developer will curse complexity, learning curve, platform, and else but not the naming.
 
-The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. This expense will pay off with *lingua franca* throughout the team and project, and ...
+## Practice
+
+❎ False: naming is a derivative of development,
+
+✔️ True: The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. This expense will pay off with *lingua franca* throughout the team and project, and ...
 <details>
   <summary>... <b>Derived benefits</b></summary>
   
