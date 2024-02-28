@@ -8,7 +8,7 @@ Contrary, wading through the thorns of `Helpers`, `Service`, `Utils`, `Make()`, 
 
 ## Practice
 
-❎ False: naming is a derivative of development,
+❎ False: Naming as usual as a derivative of development,
 
 ✔️ True: The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. This expense will pay off with *lingua franca* throughout the team and project, and ...
 <details>
