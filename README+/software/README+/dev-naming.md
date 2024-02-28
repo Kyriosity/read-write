@@ -2,7 +2,7 @@
 <p dir="rtl"><i>"...In the beginning was the Word"</div></i></p><br/>
  
 
-Naming is the most meaningful, underrated, and neglected activity in the realm of software. When smootly guides through the design and provides intuitive coding, it's seen as granted. When names are confusing, bulky, redundant, ambigous - comprehenstion problems and extra efforts are addressed to something else ("complexity of software", "learning curve", and "uniqueness").
+Naming is the most **meaningful**, **underrated**, and **neglected** activity in the realm of software. It's seen as granted when smoothly guides through the design and makes coding intuitive. When names are confusing, bulky, redundant, or ambiguous - impeded comprehension and efforts are addressed to something else (complexity, legacy, learning curve, and uniqueness).
 
 ## Process
 
@@ -13,7 +13,7 @@ The naming of libraries, packages (assemblies), classes, methods, and even non-p
 + common comprehension of a domain, collaboration, and indeed bound team,
 + genuine design and self-descriptive code,
 + inspiration for behavior/domain-driven design,
-+ escape from heaps of reqs, specs, DoU, and meetings protocols - hard to follow but easy to misunderstand or forget (but mostly neglected),
++ escape from heaps of requirements, specs, DoU, and meetings protocols - hard to follow but easy to misunderstand or forget (but mostly neglected),
 + reduced efforts to get into a project for newcomers,
 + comfy navigation within the source code (with an IDE's explorer or <kbd>CTRL+F</kbd>).
 
