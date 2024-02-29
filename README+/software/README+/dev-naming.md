@@ -10,9 +10,7 @@ Contrary, wading through the thorns of poorly named code a developer will curse 
 
 :x: Usual: Naming as a derivative of development, which spawns `Helpers`, `Utils`, `Service.Do(descr)`
 
-✔️ ✅ True: The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. This expense will pay off with *lingua franca* throughout the team and project, and ...
-<details>
-  <summary>... <b>Derived benefits</b></summary>
+✔️ The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. This expense will pay off with ***lingua franca*** throughout the team and project, and ...
   
 + common comprehension of a domain, collaboration, and indeed bound team,
 + genuine design and self-descriptive code,
@@ -20,10 +18,6 @@ Contrary, wading through the thorns of poorly named code a developer will curse 
 + escape from heaps of requirements, specs, DoU, and meetings protocols - hard to follow but easy to misunderstand or forget (but mostly neglected),
 + reduced efforts to get into a project for newcomers,
 + comfy navigation within the source code (with an IDE's explorer or <kbd>CTRL+F</kbd>).
-
- ---
- 
-</details>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team here there aren't developers only but customers, testers, along with end users</sub>
 
