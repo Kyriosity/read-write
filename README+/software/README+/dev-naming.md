@@ -1,14 +1,14 @@
 # Software - Naming 
 <p dir="rtl"><i>"...In the beginning was the Word"</div></i></p><br/>
+
  
+Naming is the most **meaningful**, **underrated**, and **neglected** activity in the realm of software. It's seen as granted when it smoothly guides through the design and makes coding intuitive. 
 
-Naming is the most **meaningful**, **underrated**, and **neglected** activity in the realm of software. It's seen as granted when smoothly guides through the design and makes coding intuitive. 
-
-Contrary, wading through the thorns of poorly named code a developer will curse complexity, learning curve, technologies, and fate but not the naming.
+On the contrary, wading through the thorns of poorly named and labyrinths of poorly categorized code a developer will curse application complexity, learning curve, technologies used, and fate but not the naming.
 
 ## Practice
 
-:x: Usual: Naming as a derivative of development, which spawns `Helpers`, `Utils`, `Service.Do(descr)`
+:x: Usual: Naming as a derivative of development, which spawns `Helper.Get(..)`, `Utils.Do(...)`, `Service.Find(...)`, and other no-brainers littering the space.
 
 ✔️ The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. This expense will pay off with ***lingua franca*** throughout the team and project, and ...
   
@@ -21,7 +21,9 @@ Contrary, wading through the thorns of poorly named code a developer will curse 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team here there aren't developers only but customers, testers, along with end users</sub>
 
-## CATEGORIZATION !!!
+## Categorization
+
+
 
 ## Rules of thumb
 
@@ -31,11 +33,11 @@ The higher the level of naming, the more attention.
 
 - **Grandiloquence** 
 
-
-
 General words will sound vague if not bombastic unless established in the domain. Compare florid `[Fact]` to modest `[TestCase]`. 
 
-PUBLIC UTILITY
+- **Match** 
+
+`public utility`
 
 - **Jargonism**
 
@@ -47,7 +49,7 @@ PUBLIC UTILITY
 
 # Wrapping up
 
-Even top developers under time pressure and brakes on perfectionism will name logic classes as *services*, *helpers*, *utils*, *handlers* but would  be barely proud of that.
+Even top developers under time pressure and brakes on perfectionism would  be barely proud of the implementation of naming.
 
 I mean that naming as [code quality](code-quality.md) can't be even perfect, but efforts to improve them must be genuine.
 
