@@ -23,11 +23,23 @@ On the contrary, wading through the thorns of poorly named and labyrinths of poo
 
 ## Categorization
 
-
+Naming implies categorization.
 
 ## Rules of thumb
 
 The higher the level of naming, the more attention.
+
+Name, apply, get feedback, refactor.
+
+There're must be at least two with different background to confirm top names.
+
+# Wrapping up
+
+Even top developers under time pressure and brakes on perfectionism would be barely proud of their implementation of naming.
+
+I mean that naming as [code quality](code-quality.md) can't be even perfect, but efforts to improve them must be genuine.
+
+## Appendix 1 (of 2). Guideliens and Verbal sins 
 
 ## Verbal sins
 
@@ -47,14 +59,9 @@ General words will sound vague if not bombastic unless established in the domain
 
 🚧 .. TO BE CONTINUED ... 🚧
 
-# Wrapping up
+## Appendix 2 (of 2). Learning from others
 
-Even top developers under time pressure and brakes on perfectionism would  be barely proud of the implementation of naming.
-
-I mean that naming as [code quality](code-quality.md) can't be even perfect, but efforts to improve them must be genuine.
-
-## Appendix 1 (of 1). Learning from others
-
+### Hall of fame
 
 ### Hall of shame
 
