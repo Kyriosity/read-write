@@ -11,6 +11,10 @@ The following guidelines help to avoid:
 + Ever test your test to show the red sign.
 + Right anti-test counterpart (e.g. that shall throw exceptions)
 
+## Blind fit to green and carousel
+
+... 🚧  To DESCRIBE 🚧 ....
+
 ## Excess and overlap, formalism
 
 Rules of a project may dictate 100% unit test coverage (at least one for an accessible member), and as a rule, this will formalize proofs. The formal test is a kind of `ASSERT 2+2 IS 2*2`<sup>:large_orange_diamond:</sup>.\
