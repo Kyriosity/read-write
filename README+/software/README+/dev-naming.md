@@ -15,11 +15,12 @@ On the contrary, wading through the thorns of poorly named and labyrinths of poo
 + common comprehension of a domain, collaboration, and indeed bound team,
 + genuine design and self-descriptive code,
 + inspiration for behavior/domain-driven design,
-+ escape from heaps of requirements, specs, DoU, and meetings protocols - hard to follow but easy to misunderstand or forget (but mostly neglected),
++ escape from heaps of docs,
 + reduced efforts to get into a project for newcomers,
 + comfy navigation within the source code (with an IDE's explorer or <kbd>CTRL+F</kbd>).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team here there aren't developers only but customers, testers, along with end users</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team here there aren't developers only but customers, testers, along with end users</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> reqs/specs, DoU, meetings protocols, and primers - hard to follow but easy to misunderstand or forget but mostly neglected</sub>
 
 ## Categorization
 
