@@ -59,6 +59,14 @@ Bugs lookup.
 
 ### Is there an architect as in Matrix?
 
+There're many activities/roles that are falsely 
+
+- management (of any sort)
+- project leading,
+
+Then how would it look like ? A kind of Architect from Matrix.
+
+I would say, that there's none. I mean that an architect may be highly loaded with ...
 
 
 # Design - private derivations
