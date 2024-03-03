@@ -23,7 +23,10 @@ On the contrary, wading through the thorns of poorly named and labyrinths of poo
 
 ## Categorization
 
-Naming implies categorization.
+Naming couldn't be flat - it's an axiom, but categorization in software abstraction has two major challenges
+
+* floating
+*OOD.
 
 ## Rules of thumb
 
