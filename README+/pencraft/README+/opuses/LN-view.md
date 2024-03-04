@@ -44,7 +44,7 @@ As a substitute for rudimentary LotusSciprt; supporting the development of UX li
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>💿</sup> <sub>E.g. NSF didn't support _foreign keys_, thus requiring "amateurish" boilerplate for any docs relations (as hierarchy). There was a plan to put DB2 under LN (like MS SQL behind Sharepoint), but that was never realized.</sub> \
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:cloud_with_lightning:</sup> <sub>Though Notes Server could render applications on HTTP since 1996, designing forms required pretty much fine-tuning with HTML/JS. XPages since R8.5 came too late and were half-response.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:wilted_flower:</sup> <sub>1-2-3 and Word Pro were already outmoded in 2000.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:coffee:</sup> <sub>LN supported development in Java but its version always lagged and required knowledge of specific workarounds (like calling garbage collector in a cycle of LN docs). There was peculiar C++ API as well, however, most developers _nolens volens_ used dated LotusScript - a branch of Visual Basic with integral LN API.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:coffee:</sup> <sub>LN supported development in Java but its version always lagged and required knowledge of specific workarounds (like calling garbage collector in a cycle of LN docs). There was peculiar C++ API as well, however, most developers _nolens volens_ used dated LotusScript - a branch of Visual Basic with built-in LN API.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>"Migrating" myself from LN to .NET, I experienced, for certain: beta versions of Visual Studio 2010 crashed less often than the release of Notes Designer.</sub>
 &nbsp;\
 &nbsp;
