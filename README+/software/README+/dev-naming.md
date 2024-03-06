@@ -31,6 +31,8 @@ Naming couldn't be flat - it's an axiom, but categorization in software abstract
 * floating
 *OOD.
 
+TRAP: Duplicate names in chain!
+
 ## Rules of thumb
 
 The higher the level of naming, the more attention.
