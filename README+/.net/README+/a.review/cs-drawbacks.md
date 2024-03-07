@@ -37,9 +37,9 @@ Advanced C# design reveals more generic restraints and results in *Vodoo program
 
 ## Namespaces and class organization
 
-* Historic namespaces as [System](https://learn.microsoft.com/en-us/dotnet/api/system)<sup>:link:</sup> are bloated and mixed.
+* Historic namespaces as [System](https://learn.microsoft.com/en-us/dotnet/api/system)<sup>🔗</sup> are bloated and mixed.
 For example, exceptions should be organized in their own namespace with shorter calls: `Exceptions.Argument.Throw(predicate, message="")`.
-* Classes like [Math](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>:link:</sup>, [MathF](https://docs.microsoft.com/en-us/dotnet/api/system.mathf)<sup>:link:</sup> shall be namespaces for granulated domain classes.
+* Classes like [Math](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>🔗</sup>, [MathF](https://docs.microsoft.com/en-us/dotnet/api/system.mathf)<sup>:link:</sup> shall be namespaces for granulated domain classes.
 
 ## Single-class inheritance
 
@@ -56,7 +56,7 @@ ToDo: an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/
 ## Numbers
   
 - Does either developer ponder ten(!) primitive whole types when writing ordinary `for (var i = 0; i < count; i++)`?
-- Summing up 0.1 and 0.2 will reveals a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)<sup>:link:</sup> unless explicitly declared decimal (just debug `var roundErr = 0.1 + 0.2;` to prove).
+- Summing up 0.1 and 0.2 will reveal a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)<sup>:link:</sup> unless explicitly declared decimal (just debug `var roundErr = 0.1 + 0.2;` to prove).
 
 Developers should better declare just a *number* and distinguish only the way it's processed: fixed (default) or floating.
 
