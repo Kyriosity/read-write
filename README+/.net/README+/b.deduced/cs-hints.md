@@ -126,15 +126,12 @@ class Benchmark : IDisposable
 </details>
 
 <details>
-<summary><ins>&nbsp;"Limit swithes" to protect META arguments</code></summary>
+<summary><ins>&nbsp;"Limit swithes" to protect runtime attributes</code></summary>
 &nbsp;
 
-System.RuntimeCompilerServices as [CallerMemberName](https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.callermembernameattribute)<sup>🔗</sup>  are very convenient for reporting
+Attributes as [CallerMemberName](https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.callermembernameattribute)<sup>🔗</sup> or [CallerArgumentExpression](https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.callerargumentexpressionattribute)<sup>🔗</sup> set value in runtime but you can't rely on them since they caller may accidentely overwrite the values (which tastes as a flaw). 
 
-```csharp
-// ToDo:
-```
-You can reveal possible implementatin in this [clay test](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/ClayTests/Errors/99\)MiscDemos.cs)
+Instead of the rest discussion i'd better propose an imperfect workaround in this [clay test](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/ClayTests/Errors/99\)MiscDemos.cs).
 
 </details>
 
