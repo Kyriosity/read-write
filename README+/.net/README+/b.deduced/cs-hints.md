@@ -126,16 +126,29 @@ class Benchmark : IDisposable
 </details>
 
 <details>
+<summary><ins>&nbsp;"Limit swithes" to protect META arguments</code></summary>
+&nbsp;
+
+System.RuntimeCompilerServices as [CallerMemberName](https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.callermembernameattribute)<sup>🔗</sup>  are very convenient for reporting
+
+```csharp
+// ToDo:
+```
+You can reveal possible implementatin in this [clay test](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/ClayTests/Errors/99\)MiscDemos.cs)
+
+</details>
+
+<details>
 <summary>
    <ins>&nbsp;Exception dampers&nbsp;</ins>
 </summary>
 &nbsp;
 
-It's legal to write `throw` in any C# method, but there may be motives (correlating) to delegate exceptions up:
+It's absolutely legal to write `throw` in any C# method, but there may be motives to delegate exceptions up:
 
+* Other concurrent methods (not only parallel) may throw and better the caller accumulates and weights exceptions without heavy `catch` for each.
+* You'd like to explicitly tell code readers what a method may throw (akin to signature in Java).
 * Method unconditionally does throw and any return value (also `void`) deceives.
-* Other concurrent methods (not only parallel) may throw and better the caller accumulates and weights exceptions without heavy `catch`.
-* You'd like to explicitly warn code readers what a method may throw.
 
 ```csharp
 
@@ -144,8 +157,6 @@ void Interpolate(PixelArea area, out ResourceException? exception);
 bool TryParse(string raw, out ThisProjectException? exception); 
 bool TryParse(string raw, out FormatException? exception, out ThisProjectException? exception); 
 ```
-
-Going further `out' compare throw in Java
 
 </details>
 
