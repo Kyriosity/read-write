@@ -1,7 +1,6 @@
 # The creation of software
 
-**What makes software?**\
-In a word - _development_, in four - 
+**What makes software?** In a word - _development_, in four - 
 
 [![Four colors of software](../pencraft/README+/_rsc/_img/darkCode2arcGold.jpg)](../pencraft/README+/_rsc/)
 
