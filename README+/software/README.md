@@ -13,11 +13,13 @@ This layered picture won't qualify even for a [local imageboard](../../README+/p
 
 ## Beyond the plain meme
 
-**_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. While they may blend to almost a rectangular ...
+**_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. They may blend to almost a rectangular ...
 
 [![Arc view at midi projects](../pencraft/README+/_rsc/_img/C-D-D-A_midiPrj.jpg)](../../pencraft/README+/_rsc/)
 
-... the growth of a project will blow the picture in all dimensions ...
+... but the growth of a project will "blow up" the picture in all dimensions ...
+
+You can propmtly imaginge your own exploded view and here is mine ...
 
 THUMBNAIL
 
@@ -32,7 +34,7 @@ IMPEDANCE, COMMU (look! also impedance here), ROLES (impedance!), GRAVITY vs LEV
 
 ## Roles
 
-<p dir="rtl"><i>".Many hands make light work</i></p>
+<p dir="rtl"><i>".Many hands make light work"</i></p>
 
 Thinks not persons but roles.
 
@@ -40,6 +42,7 @@ Thinks not persons but roles.
 
 <details>
 <summary><ins>&nbsp;<b>Processes as layers</b>&nbsp;</ins></summary>
+
 
 
 </details>
