@@ -1,6 +1,6 @@
-# Development - Documentation
+# Development - Documenting
 
-## Commenting the code - off
+## Commenting the code - you need NOT
 
 Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas [quality code](code-quality.md) is self-descriptive by nature and needs no remarks 
  above<sup>:raising_hand:</sup>.
@@ -17,12 +17,12 @@ However, comments are fully justified for:
 + worthy tricks that harm readability,
 + code snippets in documentation,
 + domain-explaining quotes from sources like a wiki,
-+ notes, which will be transformed to tasks (better automatically on submit).
++ notes, to be transformed into board tasks (better automatically on submission).
 
-Comments may contain text fragments, which will be compiled into documentation along with the application build (and directly refer to the code and serve as the help). This good idea requires much phantasy and stumbles on realization and maintenance.
+Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). The automation of this idea requires much phantasy and stumbles on extra efforts and maintenance.
 
 
-## Documenting the design - on
+## Design papers - you DO need
 
 ### Diagrams and presentations
 
