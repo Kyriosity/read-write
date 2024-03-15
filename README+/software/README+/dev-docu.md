@@ -1,8 +1,8 @@
 # Development - Documenting
 
-## Commenting the code - you need NOT
+## Commenting the code - need NOT
 
-Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas [quality code](code-quality.md) is self-descriptive by nature and needs no remarks 
+Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas good pro code is self-descriptive by nature and needs no remarks 
  above<sup>:raising_hand:</sup>.
 
 Exploring source codes of prominent providers on GitHub or elsewhere you'll find many (if not the majority) of the files there bloated with comments, rehearsing the names of classes, functions, arguments, and properties with preceding copyright header<sup>©️</sup>.
@@ -22,7 +22,7 @@ However, comments are fully justified for:
 Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). The automation of this idea requires much phantasy and stumbles on extra efforts and maintenance.
 
 
-## Design papers - you DO need
+## Design records - DO need
 
 ### Diagrams and presentations
 
@@ -30,10 +30,15 @@ Applications in high-level languages are demonstrative in reverse engineering, b
 
 Here the overall diagrams and presentations are rather handy.
 
-Throughout all my writing I stress the code-first: clean, clear, self-descriptive. And you and me may get an expression that a good application needs no documentation...
+Throughout all my writing I stress the code first: clean, clear, and self-descriptive. And you and I may get an expression that a good application needs no documentation...
 
 The lesser the better but cut isn't good.
 
+#### Log
+
+### Screen motion capture
+
 **Further topics**:\
+|- [Quality code](code-quality.md)\
 |- [Technical writing](../../pencraft)
 
