@@ -49,7 +49,7 @@ With all that said, why does deficient code prevail and _clean code_ migrate to 
 
 1. Poor-quality code is written much faster, cheaper, and without heated debates<sup>🥴</sup>. And as it does the job counter-arguments fade.
 2. Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup> as well as exponentially growing issues from bad software parts. The point when controllable chaos goes out of control, or a security breach opens may be crucial but lay far in the next releases.<sup>:parachute:</sup>
-3. Intention for quality is good but if efforts aren't complete then still deficient code will come with an overhead. 
+3. Intention for quality is good but if efforts aren't complete then still deficient code will come with a massive overhead. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🥴</sup>&nbsp;<sub>Provided one doesn't bother with [development] principles.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family_man_woman_boy_boy:</sup>&nbsp;<sub>Customers, developers, tester, users and project organizers.</sub>\
@@ -57,14 +57,20 @@ With all that said, why does deficient code prevail and _clean code_ migrate to 
 
 Add here that not every developer self-reflects on "submit and forget" work, and not every project management will draw a golden section between profanity and academism. 
 
-## Appendix (1 of 1). Mediocre code - Why
+## Afterword
 
-Apart from environments where seeds of good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup> even motivated smart teams may not reach high quality within a big project. 
+**1)** Coding isn't a self-contained activity but an ingredient of [software creation](../), where quality is a derivative.
+   
+**2)** The traits listed above are NOT acceptance criteria, but utmost aims. Even if a team comes close to them the code won't be a book of design revelation and its comprehension will depend on good [dev docu](dev-docu.md).
+
+## Appendix (1 of 1). Still mediocre code - why?!
+
+Apart from environments where seeds of good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup> even motivated smart teams may not reach high quality in good working and design conditions. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:wilted_flower:</sup>&nbsp;<sub>Budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:desert:</sup>&nbsp;<sub>Prototypes, stand-alone auxiliaries, temporary solutions.</sub>
 
-Foremost coding is an ingredient of [Creation of software](../), where quality is a derivative. Other reasons besides _classical_ over-creativity and procrastination are:
+Besides _classical_ over-creativity and procrastination the reasons could be:
 
 + overweight of formal processes at the expense of design and communication,
 + "egocentrism": low feedback (code review, pair programming, coaching) and reluctance to learn (especially from critique),
