@@ -43,9 +43,11 @@ For example, exceptions should be organized in their own namespace with shorter 
 
 ## Single-class inheritance
 
-A class may refer to only a single base class but multiple interfaces with default method implementation. This dismantles arguing for conceptual single-class inheritance (which must have been technically restrained).
+A class may refer to only one base class but multiple interfaces with default method implementations. This dismantles arguing for conceptual single-class inheritance (which must have been technically restrained).
 
-Alternatives with [extension methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>:link:</sup> are pretty functional, while dynamic composition is beyond usual programming (though Roslyn has much facilitated it).
+However, arranging the code from some interfaces is rather cumbersome and restrictive, and shall be reserved for technical purposes (not multiinheritance design).
+
+Other peculiar and arbitrary alternatives are [extension methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>:link:</sup> and dynamic composition (much facilitated with [Roslyn](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)<sup>:link:</sup>).
 
 ## Casting limitations
 
