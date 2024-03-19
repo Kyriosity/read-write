@@ -4,9 +4,16 @@
 
 This is not a "know-it-all" or tech misanthropy, but some argument-ed critique of the established methodology and its misinterpretation.
 
-## S ❔
+## S
+<details>
+  <summary><b>Atomic single?</b></summary>
+</details>
 
 ## O
+
+<details>
+  <summary>Could i refactor?</summary>
+</details>
 
 ## L 👍
 
