@@ -1,9 +1,8 @@
-# Development - Documenting
+# Development - Documentation
 
-## Commenting the code - need NOT
+## Commenting the code - **OFF**
 
-Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas good pro code is self-descriptive by nature and needs no remarks 
- above<sup>:raising_hand:</sup>.
+Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas good pro code is self-descriptive by nature and needs no remarks<sup>:raising_hand:</sup>.
 
 Exploring source codes of prominent providers on GitHub or elsewhere you'll find many (if not the majority) of the files there bloated with comments, rehearsing the names of classes, functions, arguments, and properties with preceding copyright header<sup>©️</sup>.
 
@@ -22,7 +21,9 @@ However, comments are fully justified for:
 Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). The automation of this idea requires much phantasy and stumbles on extra efforts and maintenance.
 
 
-## Design records - DO need
+## Design records - **ON**
+
+Good code reads well, especially when accompanied by expressive tests. And nothing is better for reverse engineering than software. However, it's a warped way and may not reveal design ideas.
 
 ### Diagrams and presentations
 
