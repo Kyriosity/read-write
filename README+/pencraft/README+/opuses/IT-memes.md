@@ -1,5 +1,7 @@
 # IT memes - personal selection
 
+\\i keep epigraphes not for but for margin\\
+
 Memes of various origins, I picked to retain and share.
 
 <details>
