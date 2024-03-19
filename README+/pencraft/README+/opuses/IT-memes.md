@@ -1,8 +1,7 @@
 # IT memes - personal selection
 
-\\i keep epigraphes not for but for margin\\
-
-Memes of various origins, I picked to retain and share.
+<div dir="rtl">I like epigraphs for looking</div>
+<div dir="rtl">magnificent and indent</div>
 
 <details>
 <summary><ins>&nbsp;<b>First and foremost ...</b>&nbsp;</ins></summary>
@@ -72,25 +71,37 @@ Justified, ability in exact sciences is no longer a prerequisite for applied pro
 
 [![AI: 1523 vs 2023](../_rsc/_img/memes/AI-1523-2023_spot-the-diff.png)](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/_rsc)
 
-P.S. I do swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
+P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
 
 ---
 
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>Seasoned quotes</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>Do not rewrite the full stack </b>&nbsp;</ins></summary>
+&nbsp;
+
+> Sometimes it's better to curse in the darkness than to light a single candle.
+
+Ferdinand von Zepellin
+
+</details>
+
+<details>
+<summary><ins>&nbsp;<i>S e a s o n e d&nbsp;&nbsp;&nbsp;&nbsp;q u o t e s</i>&nbsp;</ins></summary>
 &nbsp;
 
 > Where a calculator like ENIAC today is equipped with 18'000 vacuum tubes and weighs 30 tons, **computers in the future may** have only 1'000 vacuum tubes and perhaps **weigh only 1½ tons**.\
 _Popular Mechanics, March 1949_
 
-They were right. The same magazines over seven decades later: "Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons."
+And they were right. The same magazines over seven decades later: "Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons."
 
-> **Do only what only you can do.** ![West meets East](https://img.shields.io/badge/West_meets-East-yellow)\
+---
+![West meets East](https://img.shields.io/badge/West_meets-East-yellow)
+> **Do only what only you can do.** 
 _Edsger W. Dijkstra (1930-2002), computer scientist, known i.a. for Dijkstra's algorithm._
 
-Well, not only East grants us great and eloquent teaching ...
+Not only the East grant us great and eloquent teaching ...
 
 </details>
 
