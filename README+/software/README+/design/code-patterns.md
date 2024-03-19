@@ -26,4 +26,8 @@ Custom/personal (nick)names for established patterns aren't a good practice unle
 
 ## Conclusion
 
-Keen developers will intuitively follow design patterns even being unaware of them. However, learning is essential to know recent and use proper names and signatures.
+Keen developers will intuitively follow design patterns even if they are unaware of them. However, learning is essential to know recent and use proper names and signatures.
+
+**Going further:**\
+|- Design principles and methodlogies\
+|--- [Contra SOLID](../../../pencraft/README+/opuses/contraSOLID.md)
