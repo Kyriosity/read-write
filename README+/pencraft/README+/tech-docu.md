@@ -1,5 +1,3 @@
-<p dir="rtl">,Code in English<br/>,comment in Latin<br/>document en français</p>
-
 # Technical documentation
 
 ## Sources
