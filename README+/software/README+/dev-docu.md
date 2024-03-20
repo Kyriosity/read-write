@@ -1,5 +1,7 @@
 # Development - Documentation
 
+<p dir="rtl">,Code in English<br/>,comment in Latin<br/>document en français</p>
+
 ## Commenting the code - **OFF**
 
 Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas good pro code is self-descriptive by nature and needs no remarks<sup>:raising_hand:</sup>.
