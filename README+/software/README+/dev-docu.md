@@ -2,7 +2,7 @@
 
 <p dir="rtl">,Code in English<br/>,comment in Latin<br/>document en français</p>
 
-## Commenting the code - **OFF**
+## Commenting the `code`
 
 Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas good pro code is self-descriptive by nature and needs no remarks<sup>:raising_hand:</sup>.
 
@@ -22,10 +22,13 @@ However, comments are fully justified for:
 
 Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). The automation of this idea requires much phantasy and stumbles on extra efforts and maintenance.
 
-
-## Design records - **ON**
+## Recording the ⏺️ design ⏹️
 
 Good code reads well, especially when accompanied by expressive tests. And nothing is better for reverse engineering than software. However, it's a warped way and may not reveal design ideas.
+
+### Docu
+
+NO BIG VOLUMES
 
 ### Diagrams and presentations
 
