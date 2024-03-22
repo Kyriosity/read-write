@@ -20,29 +20,38 @@ However, comments are fully justified for:
 + domain-explaining quotes from sources like a wiki,
 + notes, to be transformed into board tasks (better automatically on submission).
 
-Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). The automation of this idea requires much phantasy and stumbles on extra efforts and maintenance.
+Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). The automation of this idea may stumble on extra effort and maintenance but it's worth a try.
 
 ## Recording the ⏺️ design ⏹️
 
-Good code reads well, especially when accompanied by expressive tests. And nothing is better for reverse engineering than software. However, it's a warped way and may not reveal design ideas.
+Good code reads well, especially when guided by a well-thought-of test plan. And nothing is better for reverse engineering than source code. This approach alone gets exponentially harder and will not reveal design/architecture intentions. It's warped to view the big picture.
+
+In practice, the code will be obscure and tests will lack clarity and seamless categorization.
 
 ### Docu
 
-NO BIG VOLUMES
+Even if there's extensive user guidance, even the best quality application code needs a fluent explanation: 
+
++ attractive intro,
++ navigation notes,
++ clues to common and own patterns and templates used,
++ known design compromises, drawbacks, and "props",
+
+The higher level and more concise the documentation the better - nobody will maintain volumes of papers up-to-date and read them attentively.
+
+Any document will be a bore without drawings, diagrams, and presentations.
 
 ### Diagrams and presentations
 
-Applications in high-level languages are demonstrative in reverse engineering, but the backward way isn't the best to learn (even with auto-generated diagrams and textual compilation). It will be a real headache without a good file structure and quality code. The ideas, intentions, and spirit of design might differ.
-
-Here the overall diagrams and presentations are rather handy.
-
-Throughout all my writing I stress the code first: clean, clear, and self-descriptive. And you and I may get an expression that a good application needs no documentation...
-
-The lesser the better but cut isn't good.
+Any good picture is worth of hundreds words.
 
 #### Log
 
+Commits and comments.
+
 ### Screen motion capture
+
+
 
 **Further topics**:\
 |- [Quality code](code-quality.md)\
