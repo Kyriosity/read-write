@@ -43,15 +43,18 @@ Any document will be a bore without drawings, diagrams, and presentations.
 
 ### Diagrams and presentations
 
-Any good picture is worth of hundreds words.
+There are elaborated commercial tools to create formal, detailed, and attributed UML diagrams, however, a fast simple sketch could be enough. It may start at a whiteboard within the discussion.
 
-#### Log
+### Log
 
-Commits and comments.
+Commit comments can make a log of the design. Theoretically but practically it will be too much white noise.
 
-### Screen motion capture
+Just the daily log on notable decisions could be a great help to reveal the pace of design. 
 
+### Screen capture
 
+That's the absolute winner in the snap of design. When a release is ripe, it will take max. 20-30' to switch the screen snap on, explore the code, and commentate. Maybe 10' more to find a tool of video capture.
+You will be the first to thank yourself after a pause on this piece of development.
 
 **Further topics**:\
 |- [Quality code](code-quality.md)\
