@@ -1,6 +1,6 @@
 # Development - Documentation
 
-<p dir="rtl">,Code in English<br/>,comment in Latin<br/>document en français</p>
+<p dir="rtl">,Code in English<br/>,comment in Latin<br/>,document en français<br/>. . .</p>
 
 ## Commenting the `code`
 
@@ -24,6 +24,9 @@ Comments may contain temporary text fragments, which will be compiled later into
 
 ## Recording the ⏺️ design ⏹️
 
+<p dir="rtl">. . .<br/>think in 3D diagrams.</p>
+
+
 Good code reads well, especially when guided by a well-thought-of test plan. And nothing is better for reverse engineering than source code. This approach alone gets exponentially harder and will not reveal design/architecture intentions. It's warped to view the big picture.
 
 In practice, the code will be obscure and tests will lack clarity and seamless categorization.
@@ -33,9 +36,9 @@ In practice, the code will be obscure and tests will lack clarity and seamless c
 Even if there's extensive user guidance, even the best quality application code needs a fluent explanation: 
 
 + attractive intro,
-+ navigation notes,
++ navigation to source code,
 + clues to common and own patterns and templates used,
-+ known design compromises, drawbacks, and "props",
++ known design compromises, drawbacks, and "props" (that not properties),
 
 The higher level and more concise the documentation the better - nobody will maintain volumes of papers up-to-date and read them attentively.
 
@@ -43,7 +46,9 @@ Any document will be a bore without drawings, diagrams, and presentations.
 
 ### Diagrams and presentations
 
-There are elaborated commercial tools to create formal, detailed, and attributed UML diagrams, however, a fast simple sketch could be enough. It may start at a whiteboard within the discussion.
+There are elaborated commercial tools to create strict and attributed UML diagrams, but limit them to formal rules (e.g. 2D). 
+A fast simple sketch could be enough and brpader in all senses.
+It may start at a whiteboard within the discussion.
 
 ### Log
 
