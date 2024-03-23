@@ -18,13 +18,14 @@ However, comments are fully justified for:
 + worthy tricks that harm readability,
 + code snippets in documentation,
 + domain-explaining quotes from sources like a wiki,
-+ notes, to be transformed into board tasks (better automatically on submission).
+
+There's one more niche [comment-driven development](en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. 
 
 Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). The automation of this idea may stumble on extra effort and maintenance but it's worth a try.
 
 ## Recording the ⏺️ design ⏹️
 
-<p dir="rtl">. . .<br/>think in 3D diagrams.</p>
+<p dir="rtl">. . .<br/>.and think in 3D diagrams</p>
 
 
 Good code reads well, especially when guided by a well-thought-of test plan. And nothing is better for reverse engineering than source code. This approach alone gets exponentially harder and will not reveal design/architecture intentions. It's warped to view the big picture.
