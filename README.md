@@ -4,14 +4,14 @@
       <p><a href="README+/pencraft/README+/opuses/IT-memes.md">
           <img src="README+/pencraft/README+/_rsc/_img/ITLearnWaterfall_vert.png"    
                alt="If to learn is to swim against the current&#10;then IT must be a waterfall"></a><p>
-    <td> 
+    </td><td> 
      <a href="README+/software/"><b>SOFTWARE</b></a><br/>
-      ⭐&nbsp;<a href="README+/software/README+/dev-naming.md">Naming</a><br/>
-     🔥&nbsp;<a href="README+/software/README+/code-quality.md">Quality</a><br/>
+      &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-naming.md">Naming</a><br/>
+      &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/code-quality.md">Quality</a><br/>
       💠&raquo;&nbsp;<a href="README+/software/README+/design"><b>Design</b></a><br/>
       <b>></b>&nbsp;<a href="README+/software/README+/testing"><b>Testing</b></a><br/>
-      &nbsp;<a href="README+/software/README+/dev-mngmnt.md">Organization</a><br/>
-      &nbsp;<a href="README+/software/README+/dev-docu.md">Documentation</a>
+      &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-mngmnt.md">Organization</a><br/>
+      &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-docu.md">Documentation</a>
      <br/><br/>
      <a href="README+/.net/"><b>C#.NET</b></a><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/a.review">Reviewed ↙️</a><br/>
