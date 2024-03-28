@@ -4,7 +4,7 @@
 
 ## Commenting the `code`
 
-Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas good pro code is self-descriptive by nature and needs no remarks<sup>:raising_hand:</sup>.
+Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas good pro code is self-descriptive by nature and needs no epistolary clarification<sup>:raising_hand:</sup>.
 
 Exploring source codes of prominent providers on GitHub or elsewhere you'll find many (if not the majority) of the files there bloated with comments, rehearsing the names of classes, functions, arguments, and properties with preceding copyright header<sup>©️</sup>.
 
@@ -23,14 +23,13 @@ There's one more niche [comment-driven development](en.wikipedia.org/wiki/Commen
 
 Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). The automation of this idea may stumble on extra effort and maintenance but it's worth a try.
 
-## Recording the ⏺️ design ⏹️
+## Recording ⏺️ design ⏹️
 
-<p dir="rtl">. . .<br/>.and think in 3D diagrams</p>
+<p dir="rtl">. . .<br/>but think in 3D diagrams</p>
 
+Good code reads well, peculiarly when ф well-thought-of test plan guides investigators. And nothing is better for reverse engineering than source code. This approach alone gets exponentially harder and will not reveal design/architecture intentions. It's warped to view the big picture.
 
-Good code reads well, especially when guided by a well-thought-of test plan. And nothing is better for reverse engineering than source code. This approach alone gets exponentially harder and will not reveal design/architecture intentions. It's warped to view the big picture.
-
-In practice, the code will be obscure and tests will lack clarity and seamless categorization.
+In practice, the code will be obscure and tests will lack clarity and seamless categorization. Code prose and time will bury great (no sarcasm) design decisions unless emphasized in docs.
 
 ### Docu
 
