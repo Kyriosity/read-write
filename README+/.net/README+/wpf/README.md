@@ -10,7 +10,7 @@ For developers **WPF**:
 
 + is "native" to Windows (64-bit memory addressing, multitasking, and direct hardware acceleration since Windows&nbsp;7),
 + is backed by Microsoft and .NET devoted experts, which are beneficiaries of its stability and progress,
-+ provides full stack dev on .NET (MS&nbsp;SQL) without the mix of platforms and languages with differing paradigms<sup>☕</sup>,
++ provides full stack dev on .NET (MS&nbsp;SQL) without the mix of platforms, languages and tools with differing paradigms<sup>☕</sup>,
 + implies [MVVM](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm)<sup>:link:</sup> and has promoted it to other platforms,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>☕</sup> <sub>Compare to Java/Javascript/Typescript stacks with disputes on frontend framework and backend DB.</sub>
