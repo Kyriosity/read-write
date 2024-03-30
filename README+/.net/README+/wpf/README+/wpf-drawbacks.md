@@ -4,7 +4,11 @@ WPF is a stable, modern and so far popular platform, alive and well off despite 
 
 ## "WPF 2.0"
 
-Since 2006 the use of WPF has accumulated tremendous expertise, feedback, change requests, and critical reports. Along with Microsoft resources, it's enough to release a breaking version of the subsystem - not seen hitherto in 2024.
+Since 2006 the wide use of WPF has accumulated tremendous expertise, feedback, change requests, and critical reports. Along with Microsoft resources, it's enough to release a breaking version of the subsystem - not seen hitherto in 2024.
+
+## Templating
+
+There's no state-of-the-art MVVM backbone from Microsoft that could spare much dev time and encourage teams to select this subsystem. Free first-class cliparts, galleries, and libraries of user controls are scattered if available at all.
 
 ## Converters
 
