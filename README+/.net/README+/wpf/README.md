@@ -10,10 +10,16 @@ For developers **WPF**:
 
 + is "native" to Windows (64-bit memory addressing, multitasking, and direct hardware acceleration since Windows&nbsp;7),
 + is backed by Microsoft and .NET devoted experts, which are beneficiaries of its stability and progress,
-+ provides full stack dev on .NET (MS&nbsp;SQL) without the mix of platforms, languages and tools with differing paradigms<sup>☕</sup>,
++ provides full stack dev on .NET (MS&nbsp;SQL) without the mix of platforms, languages, and tools with differing paradigms<sup>☕</sup>,
 + implies [MVVM](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm)<sup>:link:</sup> and has promoted it to other platforms,
++ provides true **RAD**, which also refers to the dev environment/tools, sketching, running, creation of tests, and deployment,
++ and attracts top commercial providers of suites for a professional Look&Feel.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>☕</sup> <sub>Compare to Java/Javascript/Typescript stacks with disputes on frontend framework and backend DB.</sub>
+
+Most important, WPF is one of the 
+
+---
 
 __Further notes__:\
 |- [WPF and MVVM](README+/mvvm/)\
