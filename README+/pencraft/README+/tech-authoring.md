@@ -3,6 +3,9 @@
 <div dir="rtl">Epistula non erubescit </div>
 <p dir="rtl";'><i>Marcus Tullius Cicero (106-43 BC)</i></p>
 
+<div dir="rtl">!Gimme that torch, now</div>
+<p dir="rtl";'><i>Ray Bradbury (1920-2012)</i><br/>[after reading <i>Twilight</i> series]</p>
+
 <div dir="rtl">Write what you <s>want</s> know</div>
 <p dir="rtl";'><i>Mark Twain (1835-1910)</i></p>
 
