@@ -8,7 +8,8 @@ WinForms application can be an exemplary MVVM<sup>:wrench:</sup> but it was WPF 
 ## Structure
 
 |- __Model__  - usual [application model](../../../../../software/README+/design/parts/README+/app-model.md)\
-|- [__ViewModel__](readme+/wpf_mvvm-viewmodel.md)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// Model classes must be frontend agnostic but virtual (open) for adapting in presentation (e.g. `virtual` props and methods.\
+|- [__ViewModel__](README+/wpf_mvvm-viewmodel.md)\
 |- [XAML view](../wpf-xaml_view.md) *
 
 &nbsp;&nbsp;&nbsp;&nbsp;* It can also be any other kind of [application view](../../../../../software/README+/design/parts/README+/app-view.md) bound with the ViewModel
@@ -26,9 +27,11 @@ An MVVM application may grow into an enterprise solution, but from the ground up
 <sup>:arrow_down:</sup>&nbsp;<sub>Project of Microsoft Visual Studio</sub>
 </details>
 
+For greater applications, you may select between commercial frameworks and freeware templates. However, I would be biased to tailor a light-weight MVVM hierarchy like this [TuttiFrutti playland](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/TuttiFrutti)
+
 ## Drawbacks and lacks
 
-Let's stress once again that MVVM is not a template but a concept. It got  WPF implementations from Microsoft (e.g. Prism), other big names, communities, and private initiatives but neither has achieved the status of industry-standard as UI suites.
+Let me stress once again, that MVVM is not a template but a concept. It got  WPF implementations from Microsoft (e.g. Prism), other big names, communities, and private initiatives but neither has achieved the status of industry-standard as UI suites.
 
 Alas, there are not too many popular pluggable "bricks" to build custom WPF-MVVM, and there's no thesis on dynamic MVP resting on tasks - not static models.
 
@@ -40,5 +43,5 @@ MVVM has been widely established but is neither a golden nor universal section. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:triangular_ruler:</sup><sub>&nbsp;Google team coined *Model-View-Whatever* for its Angular</sub>
 
-You may find WPF-related design decisions here in [use-dev](https://github.com/Kyriosity/use-dev).
+You can find .NET and WPF-related design decisions here in [use-dev](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/).
 
