@@ -2,6 +2,10 @@
 
 WPF is a stable, modern and so far popular platform, alive and well off despite some prognoses. It remains the number one choice for Windows applications, however without pivotal improvements and new cutting-edge parts since its first releases.
 
+## "WPF 2.0"
+
+Since 2006 the use of WPF has accumulated tremendous expertise, feedback, change requests, and critical reports. Along with Microsoft resources, it's enough to release a breaking version of the subsystem - not seen hitherto in 2024.
+
 ## Converters
 
 ### Soft-pedalling of errors
@@ -12,12 +16,15 @@ Converters fail silently, covering errors or prompting you to keep the debugger 
 
 ## XAML
 
-### Insufficient element ids
-When a grid is big enough, any insert, delete, or move of a row or column will result in an adjustment of `Grid.Row=".."` or `Grid.Column=".."` in elements.\
-What if a grid definition could allow `<RowDefinition Id="Total"...` or `<ColumnDefinition Id="Tags"...` and you could set and forget `<Label Grid.Row="Total" Grid.Column="Tags">Total</Label>`.
+### Insufficient element IDs (names)
+
+When a grid is big enough, any insert, delete, or move of a row or column will result in an adjustment of `Grid.Row=".."` or `Grid.Column=".."` in elements.
+
+What if a grid definition could allow `<RowDefinition Id="Total"...` or `<ColumnDefinition Id="Tags"...` and one could set and forget `<Label Grid.Row="Total" Grid.Column="Tags">Total</Label>`.
 
 ### Bulky syntax
-XML-based languages are bulky by their origin and XAML goes even further. Many names and constructs in XAML could drastically shrink without loss of readability as in the following snippet.
+
+XML-based languages are bulky by their origin and XAML goes even further. Many names and constructs in XAML could drastically shrink but remain readable as in the following snippet.
 
 <details>
 <summary><ins>&nbsp;</inst>Fictitious shortened XAML&nbsp;</ins></summary>
