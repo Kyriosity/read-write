@@ -1,15 +1,26 @@
 # WPF - Hints from praxis
 
 ## Converters
-A fast and easy alternative to converters is Binding to `enum` properties, which will display the name of its numeric value.
+
++ A fast and easy alternative to converters is direct binding to `enum` properties, which will display the name of its numeric values.
 
 ## XAML
 
-### Binding backup values
+### _Divide et empera_ 
 
-`FallbackValue` is often forgotten but must be set as the easiest means to detect binding errors at both design and run time.\
+For new applications (or its parts) XAML may grow with the speed of bamboo (meter-long files during a day). 
+Here the "inversion of control" is vital: don't let XAML to drive you but prepare the structure (files) ahead to tame the bloating.
+
+### Binding - backup values
+
+Developers often neglect backup values<sup>🙋</sup> while must remind them when typing every new `Binding`.
+
++ `FallbackValue` detects binding errors at both design and run time.\
 `<TextBox Text="{Binding Title, FallbackValue=-n/a-}" />`
 
-Similar `TargetNullValue` may be confused by the delay of async set. Then it's reasonable to place any overlay when loading.
+Similar `TargetNullValue` may confuse when delay of the async set. Then it's reasonable to place any overlay when loading.
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> Microsoft [doesn't learn](https://learn.microsoft.com/dotnet/desktop/wpf/data/binding-declarations-overview) it from the very beginning as should.
+
 
 📝... TO BE CONTINUED ... 🚧
