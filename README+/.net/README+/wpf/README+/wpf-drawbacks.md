@@ -1,5 +1,9 @@
 # WPF - Drawbacks
 
+like Moon to the Earth.
+
+Icos in upper Nav!
+
 WPF is a stable, modern and so far popular platform, alive and well off despite some SAD prognoses.
 
 It remains the number one choice for Windows applications.
