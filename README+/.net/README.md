@@ -13,6 +13,7 @@ Surprisingly C# is widely utilized in APIs and drivers to industry-standard embe
 
 Looking further C# has...&nbsp;↙️\
 |--- [Good parts underused](README+/b.deduced/cs-underused_parts.md)\
+|--- [Parts in shade](README+/b.deduced/cs-shadow_parts.md)\
 |--- [Boosting hints](README+/b.deduced/cs-hints.md)
 
 With all given praise C# isn't monumentally accomplished and if I dare to remark...&nbsp;↙️\
