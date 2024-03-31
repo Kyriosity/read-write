@@ -1,8 +1,16 @@
 # WPF - Drawbacks
 
-WPF is a stable, modern and so far popular platform, alive and well off despite some prognoses. It remains the number one choice for Windows applications, however without pivotal improvements and new cutting-edge parts since its first releases.
+WPF is a stable, modern and so far popular platform, alive and well off despite some SAD prognoses.
+
+It remains the number one choice for Windows applications.
+
+HOWEVER 
+
+however without pivotal improvements and new cutting-edge parts since its first releases.
 
 ## "WPF 2.0"
+
+INSTEAD of Xamarin.
 
 Since 2006 the wide use of WPF has accumulated tremendous expertise, feedback, change requests, and critical reports. Along with Microsoft resources, it's enough to release a breaking version of the subsystem - not seen hitherto in 2024.
 
@@ -10,13 +18,10 @@ Since 2006 the wide use of WPF has accumulated tremendous expertise, feedback, c
 
 There's no state-of-the-art MVVM backbone from Microsoft that could spare much dev time and encourage teams to select this subsystem. Free first-class cliparts, galleries, and libraries of user controls are scattered if available at all.
 
-## Converters
+PRJ-NEW
+   STUDIO
 
-### Soft-pedalling of errors
 
-Converters fail silently, covering errors or prompting you to keep the debugger open. The easiest workaround is to reserve a value or UI element ID to indicate errors.
-
-🚧... details to be written ... 🚧
 
 ## XAML
 
@@ -49,4 +54,17 @@ XML-based languages are bulky by their origin and XAML goes even further. Many n
 </Grid>
 ```
 </details>
+
+
+## Converters
+
+### UNDEV-D
+
+link2 own
+
+### Soft-pedalling of errors
+
+Converters fail silently, covering errors or prompting you to keep the debugger open. The easiest workaround is to reserve a value or UI element ID to indicate errors.
+
+🚧... details to be written ... 🚧
 
