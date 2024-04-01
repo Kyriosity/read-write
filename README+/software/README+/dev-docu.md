@@ -27,11 +27,11 @@ Comments may contain temporary text fragments, which will be compiled later into
 
 ## Recording ⏺️ design ⏹️
 
-Good code reads well, peculiarly when ф well-thought-of test plan guides investigators. And nothing is better for reverse engineering than source code. This approach alone gets exponentially harder and will not reveal design/architecture intentions. It's warped to view the big picture.
+[Quality code](code-quality.md) reads well, peculiarly when a well-thought-of test plan guides the investigators. And nothing is better for reverse engineering than source code. This approach alone gets exponentially harder and will not reveal design/architecture intentions. It's warped to view the big picture.
 
 In practice, the code will be obscure and tests will lack clarity and seamless categorization. Code prose and time will bury great (no sarcasm) design decisions unless emphasized in docs.
 
-### Docu
+### In word
 
 Even if there's extensive user guidance, even the best quality application code needs a fluent explanation: 
 
@@ -73,7 +73,11 @@ Just the daily log on notable decisions could be a great help to reveal the pace
 That's the absolute winner in the snap of design. When a release is ripe, it will take max. 20-30' to switch the screen snap on, explore the code, and commentate. Maybe 10' more to find a tool for video capture.
 You will be the first to thank yourself after a pause on this or that piece of development.
 
-**Further topics**:\
-|- [Quality code](code-quality.md)\
-|- [Technical writing](../../pencraft)
+## Conclusion
+
+1. Documentation is essential for reusable and evolving design. Its shortage will later require extra efforts to (re)gain focus on a software part and obfuscate substantial concepts.  
+2. Design documentation isn't a side-effect of development but a separate task, requiring resources, motivation, and skills. A kind of sub-project.
+
+🔚
+
 
