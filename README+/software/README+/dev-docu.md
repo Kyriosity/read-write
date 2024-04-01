@@ -23,9 +23,9 @@ There's one more niche [comment-driven development](en.wikipedia.org/wiki/Commen
 
 Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). The automation of this idea may stumble on extra effort and maintenance but it's worth a try.
 
-## Recording ⏺️ design ⏹️
-
 <p dir="rtl">. . .<br/>but think in 3D diagrams</p>
+
+## Recording ⏺️ design ⏹️
 
 Good code reads well, peculiarly when ф well-thought-of test plan guides investigators. And nothing is better for reverse engineering than source code. This approach alone gets exponentially harder and will not reveal design/architecture intentions. It's warped to view the big picture.
 
@@ -38,7 +38,7 @@ Even if there's extensive user guidance, even the best quality application code 
 + attractive intro,
 + navigation to source code,
 + clues to common and own patterns and templates used,
-+ known design compromises, drawbacks, and "props" (that not properties),
++ known design compromises, drawbacks, and "props",
 
 The higher level and more concise the documentation the better - nobody will maintain volumes of papers up-to-date and read them attentively.
 
@@ -47,8 +47,20 @@ Any document will be a bore without drawings, diagrams, and presentations.
 ### Diagrams and presentations
 
 There are elaborated commercial tools to create strict and attributed UML diagrams, but limit them to formal rules (e.g. 2D). 
-A fast simple sketch could be enough and brpader in all senses.
+A fast simple sketch could be enough and broader in all senses.
 It may start at a whiteboard within the discussion.
+
+### Artistic images
+
+Applying aesthetic traits to attribute images or enliven the text highly motivates readers when done with taste and bounds. Highly recommended as memory "anchors" on difficult subjects.
+
+#### Pictograms / emojis
+
+Small images are smart helpers to annotate, navigate, and focus unless heavily overused. They may apply to everything - text, solution items (folders and filenames), and even program output (UTF-8 glyphs to rescue).
+
+A team should limit them to a subset<sup>🍋</sup>, define the exact meaning of most, and put some on a blacklist (for ambiguity or cultural issues).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🍋</sup> <sub>By default markdown emojis, supported by GitHub  - see this [cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).</sub>
 
 ### Log
 
@@ -58,8 +70,8 @@ Just the daily log on notable decisions could be a great help to reveal the pace
 
 ### Screen capture
 
-That's the absolute winner in the snap of design. When a release is ripe, it will take max. 20-30' to switch the screen snap on, explore the code, and commentate. Maybe 10' more to find a tool of video capture.
-You will be the first to thank yourself after a pause on this piece of development.
+That's the absolute winner in the snap of design. When a release is ripe, it will take max. 20-30' to switch the screen snap on, explore the code, and commentate. Maybe 10' more to find a tool for video capture.
+You will be the first to thank yourself after a pause on this or that piece of development.
 
 **Further topics**:\
 |- [Quality code](code-quality.md)\
