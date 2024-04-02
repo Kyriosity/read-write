@@ -27,7 +27,7 @@ An MVVM application may grow into an enterprise solution, but from the ground up
 <sup>:arrow_down:</sup>&nbsp;<sub>Project of Microsoft Visual Studio</sub>
 </details>
 
-For greater applications, you may select between commercial frameworks and freeware templates. However, I would be biased to tailor a light-weight MVVM hierarchy like this [TuttiFrutti playland](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/TuttiFrutti)
+For greater applications, you may select between commercial frameworks and freeware templates. However, I would be biased to tailor a light-weight MVVM hierarchy like this [TuttiFrutti demo](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/TuttiFruttiDemo)
 
 ## Drawbacks and lacks
 
