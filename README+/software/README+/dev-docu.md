@@ -2,7 +2,7 @@
 
 <p dir="rtl">,Code in English<br/>,comment in Latin<br/>,document en français<br/>. . .</p>
 
-## Commenting the `code`
+## `//` Commenting the `code`
 
 Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas good pro code is self-descriptive by nature and needs no epistolary clarification<sup>:raising_hand:</sup>.
 
@@ -19,15 +19,17 @@ However, comments are fully justified for:
 + code snippets in documentation,
 + domain-explaining quotes from sources like a wiki,
 
-There's one more niche [comment-driven development](en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. 
+One other legitimate niche is [comment-driven development](en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. 
 
-Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). The automation of this idea may stumble on extra effort and maintenance but it's worth a try.
+Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). 
+The automation of this idea may stumble on implementation and maintenance expenses but it's worth deliberation.
 
 <p dir="rtl">. . .<br/>but think in 3D diagrams</p>
 
 ## Recording ⏺️ design ⏹️
 
-[Quality code](code-quality.md) reads well, peculiarly when a well-thought-of test plan guides the investigators. And nothing is better for reverse engineering than source code. This approach alone gets exponentially harder and will not reveal design/architecture intentions. It's warped to view the big picture.
+[Quality code](code-quality.md) reads well, peculiarly when a well-thought-of test plan guides the investigators. And nothing is better for reverse engineering than source code. 
+This approach solus becomes exponentially harder and will not reveal remarkable design/architecture intentions. It's warped to unfold the big picture.
 
 In practice, the code will be obscure and tests will lack clarity and seamless categorization. Code prose and time will bury great (no sarcasm) design decisions unless emphasized in docs.
 
