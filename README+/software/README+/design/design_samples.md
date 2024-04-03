@@ -3,7 +3,8 @@
 The planning and presentation of software features oblige one with a pictorial background. We'll rely often on the next samples:\
 |- [Chess](#chess)\
 |- [Mathematics](#mathematics)\
-|- [Raster images](#raster-images)
+|- [Raster images](#raster-images)\
+|- [Static plain models](#static-plain-models)
 
 ## Chess
 
@@ -81,3 +82,15 @@ Maps of pixels range from grayscale thumbnails to giant high-density multi-layer
 
 Changes on canvas differ from unique artistic strokes to strict functions and may apply to the whole image, its masked parts, selected colors, or layers. 
 Actions vary from simple (flip, rotate) to highly processed retouching or effects.
+
+## Static plain models
+
+PARAMETRIZATION
+
+INITIALIZATION
+
+## Wrapping up
+
+THINK NOT SEPARATE but alltogheter
+
+📆
