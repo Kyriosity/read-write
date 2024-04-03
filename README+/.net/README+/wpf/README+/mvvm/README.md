@@ -27,13 +27,13 @@ An MVVM application may grow into an enterprise solution, but from the ground up
 <sup>:arrow_down:</sup>&nbsp;<sub>Project of Microsoft Visual Studio</sub>
 </details>
 
-For greater applications, you may select between commercial frameworks and freeware templates. However, I would be biased to tailor a light-weight MVVM hierarchy like this [TuttiFrutti demo](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/TuttiFruttiDemo)
+For greater applications, you may select between commercial frameworks and freeware templates. For prototypes and learning, you may begin with your own tailor-made solutions.
 
 ## Drawbacks and lacks
 
-Let me stress once again, that MVVM is not a template but a concept. It got  WPF implementations from Microsoft (e.g. Prism), other big names, communities, and private initiatives but neither has achieved the status of industry-standard as UI suites.
+Let me stress once again, that MVVM is not a template but a concept. It got WPF implementations from open source communities (e.g. Prism), big provider names, and private initiatives but neither has achieved the status of a "built-in" stuff.
 
-Alas, there are not too many popular pluggable "bricks" to build custom WPF-MVVM, and there's no thesis on dynamic MVP resting on tasks - not static models.
+Alas, there are not too many popular and exchangeable pluggable "bricks" to build effective WPF-MVVM (that is no common specification). There's no thesis on dynamic MVP resting on tasks - not obsolete static models.
 
 🚧🚧🚧 PENDING: Link to MVVM on promises! 🖋️
 
@@ -42,6 +42,3 @@ Alas, there are not too many popular pluggable "bricks" to build custom WPF-MVVM
 MVVM has been widely established but is neither a golden nor universal section. On call of peculiarity or creativity any other, even monolithic, form is legal.&nbsp;<sup>:triangular_ruler:</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:triangular_ruler:</sup><sub>&nbsp;Google team coined *Model-View-Whatever* for its Angular</sub>
-
-You can find .NET and WPF-related design decisions here in [use-dev](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/).
-
