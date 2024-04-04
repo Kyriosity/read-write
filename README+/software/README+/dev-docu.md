@@ -2,7 +2,7 @@
 
 <p dir="rtl">,Code in English<br/>,comment in Latin<br/>,document en français<br/>. . .</p>
 
-## Commenting the `code`
+## `//` Commenting the `code`
 
 Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas good pro code is self-descriptive by nature and needs no epistolary clarification<sup>:raising_hand:</sup>.
 
@@ -19,19 +19,21 @@ However, comments are fully justified for:
 + code snippets in documentation,
 + domain-explaining quotes from sources like a wiki,
 
-There's one more niche [comment-driven development](en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. 
+One other legitimate niche is [comment-driven development](en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. 
 
-Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). The automation of this idea may stumble on extra effort and maintenance but it's worth a try.
+Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). 
+The automation of this idea may stumble on implementation and maintenance expenses but it's worth deliberation.
 
 <p dir="rtl">. . .<br/>but think in 3D diagrams</p>
 
 ## Recording ⏺️ design ⏹️
 
-Good code reads well, peculiarly when ф well-thought-of test plan guides investigators. And nothing is better for reverse engineering than source code. This approach alone gets exponentially harder and will not reveal design/architecture intentions. It's warped to view the big picture.
+[Quality code](code-quality.md) reads well, peculiarly when a well-thought-of test plan guides the investigators. And nothing is better for reverse engineering than source code. 
+This approach solus becomes exponentially harder and will not reveal remarkable design/architecture intentions. It's warped to unfold the big picture.
 
 In practice, the code will be obscure and tests will lack clarity and seamless categorization. Code prose and time will bury great (no sarcasm) design decisions unless emphasized in docs.
 
-### Docu
+### In word
 
 Even if there's extensive user guidance, even the best quality application code needs a fluent explanation: 
 
@@ -66,14 +68,22 @@ A team should limit them to a subset<sup>🍋</sup>, define the exact meaning of
 
 Commit comments can make a log of the design. Theoretically but practically it will be too much white noise.
 
-Just the daily log on notable decisions could be a great help to reveal the pace of design. 
+Just the daily log on notable decisions could be a great help to document the pace of design. 
 
-### Screen capture
+### Video tutorial - Screen capture
 
-That's the absolute winner in the snap of design. When a release is ripe, it will take max. 20-30' to switch the screen snap on, explore the code, and commentate. Maybe 10' more to find a tool for video capture.
+"A picture is worth a thousand words", and a short video is worth a hundred pictures. That's the absolute winner in the snap of design. 
+
+When a release is ripe, it will take max. 20-30' to switch the screen snap on, explore the code, and commentate impromptu. 
+It may take an additional 10' to find a tool for video capture.
 You will be the first to thank yourself after a pause on this or that piece of development.
 
-**Further topics**:\
-|- [Quality code](code-quality.md)\
-|- [Technical writing](../../pencraft)
+## Conclusion
+
+1. Documentation is essential for reusable and evolving design. Its shortage will later require extra efforts to (re)gain focus on a software part and obfuscate substantial concepts.  
+2. Design documentation isn't a side-effect of development but a separate task, requiring resources, enthusiasm, and skills. Treat this as a kind of sub-project.
+3. You are the consumer&nbsp;Nr1 of these docs - it's only a week to lose a grasp on the "unfocused" design part.
+
+🔚
+
 

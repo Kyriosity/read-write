@@ -3,13 +3,14 @@
 The planning and presentation of software features oblige one with a pictorial background. We'll rely often on the next samples:\
 |- [Chess](#chess)\
 |- [Mathematics](#mathematics)\
-|- [Raster images](#raster-images)
+|- [Raster images](#raster-images)\
+|- [Static plain models](#static-plain-models)
 
 ## Chess
 
 <p dir=rtl>Chess speaks for itself<br><i>Hans Moke Niemann, 2022</i></p>
 
-This popular, with easy-to-learn rules, board strategy of all times renders a definitely favorable playground for software logic.  Other traits are...
+This popular, with easy-to-learn rules, board strategy of all times renders a favorable playground for software logic.  Other traits are...
 
 ### Reversibility, full and plain
 
@@ -81,3 +82,27 @@ Maps of pixels range from grayscale thumbnails to giant high-density multi-layer
 
 Changes on canvas differ from unique artistic strokes to strict functions and may apply to the whole image, its masked parts, selected colors, or layers. 
 Actions vary from simple (flip, rotate) to highly processed retouching or effects.
+
+---
+
+## Static plain models
+
+Software design asks for "still" (static) bare models too. The samples above are more functional ("dynamic") - they have properties and hierarchies but are more demonstrative of processes that change them.
+
+"Static" models can be altered but must represent good hierarchies, parametrization, and initialization. 
+One of their custom implementations is available as [books and relevant classes](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels).
+
+---
+
+## Wrapping up - think of them altogether
+
+Developers can select a sample/model good for thinking over a feature or implementing prototypes and tests. 
+
+Furthermore, put major of them on the mental green field of a software addition to plan:
+
++ multitasking,
++ multi-culture,
++ undo-redo,
++ conversions.
+
+🔚

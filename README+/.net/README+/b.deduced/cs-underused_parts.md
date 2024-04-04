@@ -2,7 +2,7 @@
 
 Some of the C# syntax, features, and libraries are underestimated or unrevealed. The next observations may be biased but are based on live experience in various projects and teams.
 
-## Fresh released - prime
+## Fresh released
 
 C# evolves swiftly with regular and rich releases, but not every developer is an early adaptor, and not every team is eager to update the breadwinning production environment.
 
@@ -12,20 +12,7 @@ Devoted bloggers<sup>👨‍👩‍👧‍👦</sup> greatly help to separate th
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I won't recommend any since this must be a personal experience, selection and a matter of taste.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup> <sub>Revaling [CallerArgumentExpressions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression)<sup>🔗</sup> urged me to rewrite [exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcExt/Errors).</sub>
 
-## ReactiveX - know about
-
-Ironically it was Microsoft who originated [ReactiveX](https://reactivex.io/)<sup>🔗</sup> but its fame was established through platforms of others, e.g. Angular.
-
-[IObservable](https://docs.microsoft.com/en-us/dotnet/api/system.iobservable-1)<sup>🔗</sup> is in base classes, [Reactive extensions](https://github.com/dotnet/reactive)<sup>🔗</sup> are at least a decade in .NET and properly integrated with LINQ but ... seldom used.\
-Sure, event/stream-based development isn't for every use and its paradigm requires some learning curve, but this isn't an excuse not to look in `System.Reactive.Linq`.
-
-## Extension methods - more than JUST ADD
-
-Extension methods are ...
-
-However they may help to DIFF MODULES !
-
-## Predicates and delegates - as arguments
+## Predicates and delegates as arguments
 
 // ToDo: ➡️ move to hints ! ➡️ \
 Are good for parametrization of methods calls but are seldom seen there.
@@ -66,7 +53,7 @@ It's also better to be aware of disputable methods like [DefaultIfEmpty](https:/
 
 ## Reflection
 
-Rumors of "illegal" hacking and slow performance follow the reflection but are unfair. It does worth tricks and has become a programming paradigm (unless trying to substitute "direct" language construct). 
+The image of "illegal" hacking and rumors of slow performance follow the reflection but are unfair. It does worth tricks and has become a programming paradigm (unless trying to substitute "direct" language construct). 
 
 // ToDo: link to caller !
 
@@ -75,3 +62,17 @@ Rumors of "illegal" hacking and slow performance follow the reflection but are u
 It doesn't involve deranged imagination to improvise the auto-implementation of interfaces - to spare coding of countless combinations. [Roslyn](https://github.com/dotnet/roslyn) has  much facilitated dynamic code though there's a lack of good tutorials.
 
 // ToDo: link to use-dev
+
+## Extension methods
+
+### Props of polymorphism
+
+// ToDo: EXAMPLE !
+
+## Wrap up
+
+There must be other useful but neglected parts, features, and syntax of C# and its subsystem, that you may know and contribute to this document.
+
+Besides definitely underused parts there are\
+|--- [Parts in shade](cs-shadow_parts.md)\
+|--- Bad parts, features, and practices 
