@@ -1,7 +1,7 @@
 # IT memes - personal selection
 
-<div dir="rtl">I like epigraphs for looking</div>
-<div dir="rtl">magnificent and indent</div>
+<div dir="rtl"><i>I like epigraphs for looking<i></div>
+<div dir="rtl"><i>.magnificent and vertical indent</i></div>
 
 <details>
 <summary><ins>&nbsp;<b>First and foremost ...</b>&nbsp;</ins></summary>
@@ -9,7 +9,7 @@
   
 ![West meets East](https://img.shields.io/badge/West_meets-East-yellow) ![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)
 
-[![... then IT must be a waterfall.](../_rsc/_img/ITLearnWaterfall_horiz.png)](https://github.com/Kyriosity/read-write/tree/main/README%2B/dev/design)
+[![... then IT must be a waterfall.](../_rsc/_img/memes/ITLearnWaterfall_horiz.png)](../../../software/)
 
 The grains of truth in this wisdom:
 
