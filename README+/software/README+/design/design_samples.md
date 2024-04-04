@@ -9,7 +9,7 @@ The planning and presentation of software features oblige one with a pictorial b
 
 ## Chess
 
-<p dir=rtl>Chess speaks for itself<br><i>Hans Moke Niemann, 2022</i></p>
+<p dir=rtl>.Chess speaks for itself<br><i>Hans Moke Niemann, 2022</i></p>
 
 This popular, with easy-to-learn rules, board strategy of all times renders a favorable playground for software logic.  Other traits are...
 
@@ -48,7 +48,7 @@ Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to m
 
 ## Mathematics
 
-<p dir=rtl>,Mathematics is not about numbers<br>:equations, computations, or algorithms<br>it is about understanding<br><i>William Paul Thurston</i></p>
+<p dir=rtl>,Mathematics is not about numbers<br>:equations, computations, or algorithms<br>.it is about understanding<br><i>William Paul Thurston (1946-2012)</i></p>
 
 The study of logic and **math** with its formalism has predetermined programming. As hardware could run decent algebra instructions low and high-level languages on it could render fundamental mathematical functions for programmers.
 
@@ -72,7 +72,7 @@ Parallelization (multi-threading) of algorithms, when applicable, tangibly speed
 
 ## Raster images
 
-<p dir=rtl>,When I am in a painting<br>.I'm not aware of what I'm doing<br><i>Jackson Pollock</i></p>
+<p dir=rtl>,When I am in a painting<br>.I'm not aware of what I'm doing<br><i>Jackson Pollock (1912-1956) </i></p>
 
 Editor of raster images is the richest and multi-faceted support of thinking in application design: presentation, processing, and persistence. 
 All of these three ask for optimization, equally logical and tricky.
@@ -88,10 +88,14 @@ Actions vary from simple (flip, rotate) to highly processed retouching or effect
 
 ## Static plain models
 
+<p dir=rtl><sup>🎼</sup>.Architecture is frozen music<br><i>Arthur Schopenhauer (1788-1860)</i></p>
+
 Software design asks for "still" (static) bare models too. The samples above are more functional ("dynamic") - they have properties and hierarchies but are more demonstrative of processes that change them.
 
 "Static" models can be altered but must represent good hierarchies, parametrization, and initialization. 
 One of their custom implementations is available as [books and relevant classes](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels).
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>Full original quote: _Architektur ist gefrorene Musik_. Falsely attributed to Johann Wolfgang von Goethe (1749-1832).</sub>
 
 ---
 
