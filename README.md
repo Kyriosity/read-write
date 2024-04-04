@@ -8,11 +8,10 @@
      <a href="README+/software/"><b>SOFTWARE</b></a><br/>
       &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-naming.md">Naming</a><br/>
       &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/code-quality.md">Quality</a><br/>
-      💠&raquo;&nbsp;<a href="README+/software/README+/design"><b>Design</b></a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/testing"><b>Testing</b></a><br/>
       &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-mngmnt.md">Organization</a><br/>
-      &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-docu.md">Documentation</a>
-     <br/><br/>
+      &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-docu.md">Documentation</a><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/design"><b>Design</b></a><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/testing"><b>Testing</b></a><br/>
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       🥱&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a>
      </td>
