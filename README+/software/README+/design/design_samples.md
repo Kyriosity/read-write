@@ -4,7 +4,8 @@ The planning and presentation of software features oblige one with a pictorial b
 |- [Chess](#chess)\
 |- [Mathematics](#mathematics)\
 |- [Raster images](#raster-images)\
-|- [Static plain models](#static-plain-models)
+|- [Static plain models](#static-plain-models)\
+&nbsp;
 
 ## Chess
 
@@ -104,5 +105,7 @@ Furthermore, put major of them on the mental green field of a software addition 
 + multi-culture,
 + undo-redo,
 + conversions.
+
+---
 
 🔚
