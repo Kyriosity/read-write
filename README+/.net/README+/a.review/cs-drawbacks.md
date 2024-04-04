@@ -52,7 +52,9 @@ Other peculiar and arbitrary alternatives are [extension methods](https://docs.m
 ## Casting limitations
 
 - [Named tuples](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/august/essential-net-csharp-7-0-tuples-explained)<sup>:link:</sup> and anonymous objects are very handy to submit sporadic composed results, but can't cast to an interface or class.
-- Neither implicit nor explicit downcasting works while JSON (de)serialization legally does this operation. Allowing this cast doesn't contradict type safety.\
+- Some obvious inheritance is missing (e.g. can't cast `DateTime` to `DateOnly`).
+- Neither implicit nor explicit downcasting works while JSON (de)serialization legally does this operation.\
+Allowing this cast doesn't contradict type safety.\
 ToDo: an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)<sup>:link:</sup>
 
 ## Numbers
