@@ -151,5 +151,8 @@ It's about DIVERSION
 
 </details>
 
+
+"Everything is designed. Few things are designed well." – Brian Reed
+
 🚧 ... TO BE WRITTEN ... 🚧
 
