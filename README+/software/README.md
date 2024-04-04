@@ -1,21 +1,20 @@
 # The creation of software
 
-<p dir="rtl">Bright architecture is paved<br/>by shattered illusions, painfully deadlocks and hard rework<br/>which finally and magically reveal straight ways.</p>
-
-<p dir="rtl">.Design shortcuts and rebates finally make kludge</p>
-
 ### **What makes software?** In a word - _development_, in four - 
 
 [![Four colors of software: black->red->blue->gold](../pencraft/README+/_rsc/_img/darkCode2arcGold.jpg)](../pencraft/README+/_rsc/)
 
-The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future. Since $4>3$ tearful-blue was added for the _design_.
+The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future. 
+Since $4>3$ tearful-blue was added for the _design_.
 
-## Beyond the plain meme
+This layered picture won't qualify even for a [local imageboard](../../README+/pencraft/README+/opuses/IT-memes.md) but was intended as a platform for further discussion. Let's go.
+
+## Quick thesis
 
 More colors for DevOps, administration, testing, documentation, and project organization (management)? 
 With due respect, they are external forces that can be constructive and non- (also neutral). Artistically: mix, tint, blur, or shade (if not wash off) the four paints. 
 
-This layered picture won't qualify even for a [local imageboard](../../README+/pencraft/README+/opuses/IT-memes.md) but was intended as a platform for further discussion. Let's go.
+
 
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. They may blend to almost a rectangular ...
@@ -153,6 +152,10 @@ It's about DIVERSION
 
 
 "Everything is designed. Few things are designed well." – Brian Reed
+
+<p dir="rtl">Bright architecture is paved<br/>by shattered illusions, painfully deadlocks and hard rework<br/>which finally and magically reveal straight ways.</p>
+
+<p dir="rtl">.Design shortcuts and rebates finally make kludge</p>
 
 🚧 ... TO BE WRITTEN ... 🚧
 
