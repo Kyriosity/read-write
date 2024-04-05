@@ -78,10 +78,10 @@ When a release is ripe, it will take max. 20-30' to switch the screen snap on, e
 It may take an additional 10' to find a tool for video capture.
 You will be the first to thank yourself after a pause on this or that piece of development.
 
-## Conclusion
+## Summary
 
 1. Documentation is essential for reusable and evolving design. Its shortage will later require extra efforts to (re)gain focus on a software part and obfuscate substantial concepts.  
-2. Design documentation isn't a side-effect of development but a separate task, requiring resources, enthusiasm, and skills. Treat this as a kind of sub-project.
+2. Design documentation isn't a side-effect of development but a separate task, requiring resources, enthusiasm, and skills. Treat this as a kind of sub-project but without much formalism.
 3. You are the consumer&nbsp;Nr1 of these docs - it's only a week to lose a grasp on the "unfocused" design part.
 
 🔚
