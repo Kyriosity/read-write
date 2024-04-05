@@ -35,12 +35,6 @@ Advanced C# design reveals more generic restraints and results in *Vodoo program
 - There's no method signature to specify that it must unconditionally throw an exception, and `void` as a return is incorrect.\
 (The workaround may be to [declare the return as an exception to be thrown](../b.deduced/cs-hints.md#Gimmicks)).
 
-## Namespaces and class organization
-
-* Historic namespaces as [System](https://learn.microsoft.com/en-us/dotnet/api/system)<sup>🔗</sup> are bloated and mixed.
-For example, exceptions should be organized in their own namespace with shorter calls: `Exceptions.Argument.Throw(predicate, message="")`.
-* Classes like [Math](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>🔗</sup>, [MathF](https://docs.microsoft.com/en-us/dotnet/api/system.mathf)<sup>:link:</sup> shall be namespaces for granulated domain classes.
-
 ## Single-class inheritance
 
 A class may refer to only one base class but multiple interfaces with default method implementations. This dismantles arguing for conceptual single-class inheritance (which must have been technically restrained).
@@ -48,6 +42,16 @@ A class may refer to only one base class but multiple interfaces with default me
 However, arranging the code from some interfaces is rather cumbersome and restrictive, and shall be reserved for technical purposes (not multiinheritance design).
 
 Other peculiar and arbitrary alternatives are [extension methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>:link:</sup> and dynamic composition (much facilitated with [Roslyn](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)<sup>:link:</sup>).
+
+## Namespaces and class organization
+
+* Historic namespaces as [System](https://learn.microsoft.com/en-us/dotnet/api/system)<sup>🔗</sup> are bloated and mixed.
+For example, exceptions should be organized in their own namespace with shorter calls: `Exceptions.Argument.Throw(predicate, message="")`.
+* Classes like [Math](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>🔗</sup>, [MathF](https://docs.microsoft.com/en-us/dotnet/api/system.mathf)<sup>:link:</sup> shall be namespaces for granulated domain classes.
+
+## Exceptions and guards
+
+LINK TO USE-DEV
 
 ## Casting limitations
 
@@ -60,11 +64,15 @@ ToDo: an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/
 ## Numbers
   
 - Does either developer ponder ten(!) primitive whole types when writing ordinary `for (var i = 0; i < count; i++)`?
-- Summing up 0.1 and 0.2 will reveal a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)<sup>:link:</sup> unless explicitly declared decimal (just debug `var roundErr = 0.1 + 0.2;` to prove).
+- Summing up 0.1 and 0.2 will reveal a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)<sup>:link:</sup> unless explicitly declared decimal.<sup>🪲</sup>
 
-Developers should better declare just a *number* and distinguish only the way it's processed: fixed (default) or floating.
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🪲</sup> You may debug `var roundErr = 0.1 + 0.2;` to prove.
 
-C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.numerics.inumber-1)<sup>:link:</sup> which genericizes numbers but in a bulky and restricted fashion.
+Developers should better declare just a *numeric* and distinguish only the way it's processed: fixed (default) or floating. It would be a great option to derive subclasses from this _numeric_ could (with range and precision constraints).
+
+C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.numerics.inumber-1)<sup>:link:</sup> which genericizes numbers but in a bulky and restricted fashion.<sup>🙋</sup>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>LINK TO USE-DEV</sub>
 
 ## String
 
@@ -78,4 +86,6 @@ Syntax shortcuts here could make the code both shorter and readable.
 - *Reverse*, as in [LINQ method](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse)<sup>:link:</sup>, is actually *flip*.
 - Type modifiers _in_/_out_ for contra-/covariance collide with the same name parameter modifiers (_more_/_less_ can be better)
 
-... TO BE CONTINUED ...
+## 🚧 TO BE CONTINUED ...
+
+The list is far from being complete and I wait for one day (better to say a decade) when .NET hits a higher note - D-flat or even D#.
