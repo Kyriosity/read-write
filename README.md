@@ -8,7 +8,7 @@
      <a href="README+/software/"><b>SOFTWARE</b></a><br/>
       &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-naming.md">Naming</a>&nbsp;➰&nbsp;
       <a href="README+/software/README+/code-quality.md">Quality</a><br/>
-      &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-mngmnt.md">Organization</a>&nbsp;➰&nbsp;
+      &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-mngmnt.md">Organization</a>&nbsp;➿&nbsp;
       <a href="README+/software/README+/dev-docu.md">Documentation</a><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/design"><b>Design</b></a><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/testing"><b>Testing</b></a><br/>
