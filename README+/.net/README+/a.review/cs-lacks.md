@@ -11,20 +11,21 @@ Other promising members (like `IsReadOnly`) are defined within specific interfac
 
 ## Basic exceptions, messages, and guards
 
-To begin with, it could be proof of `>0` for collection sizing.
+To begin with, it could be proof of `>0` for collection sizing, though subclassing of general numeric type will be better.
 
 ## Syntax
 
 ### Sugar
 
-There's no excuse why shortcuts like `ArgumentNullException.ThrowIfNull(...)` aren't added to most exceptions. As well there could be static classes without evident _Exception_ suffix (e.g. `NotImplemented.Throw()`). 
+There's no excuse why shortcuts like `ArgumentNullException.ThrowIfNull(...)` aren't added to most exceptions. 
+As well there could be static classes without evident _Exception_ suffix (e.g. `NotImplemented.Throw()`). 
 
-### Enums inheritance
+GUARDS and LINKE to USE-DEV !!!!!!!!!!!!!!!
 
-Seems logical and plain to adopt inheritance like this: 
+### Extra inheritance
 
 <details>
-<summary><b><ins>&nbsp;Design sketch&nbsp;</ins></b></summary>
+<summary><ins>&nbsp;<b>Enum</b> - Design sketch&nbsp;</ins></summary>
 &nbsp;
 
 ```csharp
@@ -63,6 +64,28 @@ with downcast only, e.g.:
 
 </details>
 
+<details>
+<summary><ins>&nbsp;<b>Arguments signature</b> - Design sketch&nbsp;</ins></summary>
+&nbsp;
+
+Let's put aside that long signatures are bugs buddies and shall be encapsulated into classes/structs or tuples. 
+Let's take the fact that repetitive sequences of arguments occur (sometimes dicatated by external tools) and ensuring the same names in order would be pleasing.
+
+```csharp
+
+// one of possible syntax
+[Args("Name")]
+Login(string name, string familyName) { ... }
+
+[Args(Name.Western)]
+Personalize([Name], string middleName, Degree title) { ... }
+
+Register(Guid id, [Western], byte age) { ... }
+
+```
+
+</details>
+
 ### Interfaces conjunction
 
 Fine-granulated interfaces and their multi-inheritance into more substantial belong to sound design practices.
@@ -90,7 +113,7 @@ void Planning.Capacity.Register(<ILoadSpecs, IPassengerConfig> transport) { ... 
 
 </details>
 
-Such a feature will be also useful for run-time object composition.
+Such a feature will be useful also for run-time object composition.
 
 ## Math
 
