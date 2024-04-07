@@ -69,18 +69,19 @@ with downcast only, e.g.:
 &nbsp;
 
 Let's put aside that long signatures are bugs buddies and shall be encapsulated into classes/structs or tuples. 
+
 Let's take the fact that repetitive sequences of arguments occur (sometimes dicatated by external tools) and ensuring the same names in order would be pleasing.
 
 ```csharp
 
-// one of possible syntax
+// one of possible syntax through attribute
 [Args("Name")]
-Login(string name, string familyName) { ... }
+bool Login(string name, string familyName) { ... }
 
-[Args(Name.Western)]
-Personalize([Name], string middleName, Degree title) { ... }
+[Args("Name.Western")]
+void Personalize([Name], string middleName, Degree title) { ... }
 
-Register(Guid id, [Western], byte age) { ... }
+Guid Register(int attempt, [Name.Western], byte age) { ... }
 
 ```
 
