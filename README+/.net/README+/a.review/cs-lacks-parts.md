@@ -4,7 +4,7 @@ Along with [nice-to-have syntax/features](cs-lacks.md) **C#** could grow with so
 
 ## Testing
 
-Tests for drive or coverage are optional but natural share of development. Three most popular frameworks for .NET have their pros and contras but neither is in the state-of-the-art.
+Tests for drive or coverage are optional but natural share of development. The three most popular frameworks for .NET have their pros and contras but neither is in the state-of-the-art.
 
 🚧🚧🚧🚧 ... DRAFT .... 🚧🚧🚧🚧🚧
 Link to [3D&nbsp;re&#8209;view](https://github.com/Kyriosity/use-dev/tree/main/readme+/decisions/testing/test3D) with partial solution.
@@ -14,10 +14,11 @@ Link to [3D&nbsp;re&#8209;view](https://github.com/Kyriosity/use-dev/tree/main/r
 
 Definition of natural values (geometry, masses, temperature, electricity, movement u.a.) and their conversions between systems of measurements (metric, US customary, UK imperial u.a.) are more than essential tools (e.g., Celsius-Fahrenheit-Kelvin).
 
-Meanwhile, you may try and extend [C# Multifaceted-Value](https://github.com/Kyriosity/use-dev/tree/6ab68c7af589d37715c171e61dc51d0b5a208c73/README+/projects/U-Val) to organize units in your applications.
+Meanwhile, you may try and extend [C# Multifaceted-Value](https://github.com/Kyriosity/use-dev/tree/6ab68c7af589d37715c171e61dc51d0b5a208c73/README+/projects/U-Val)<sup>➡️</sup> to organize units in your applications.
 
 
 ## Lingua
+
 Let's take some output from fictitious tree search `$"Branches: {found}, ≥ leaves: {cutoff}"`. That can be quickly refactored for narrative or voice generator:\
 `$"{found} {(1 == found ? "branch has" : "branches have")} no less than {cutoff} {(1 == cutoff ? "leaf" : "leaves")}"`
 
