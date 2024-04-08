@@ -22,8 +22,11 @@
      <td>
 <a href="README+/.net/"><b>C#.NET</b></a><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/a.review">Reviewed ↙️</a><br/>
-     <a href="README+/.net/README+/b.deduced">↘️Deduced<br/><a><br/>
-     💠&nbsp;<a href="README+/.net/README+/wpf"><b>WPF</b></a><br/>
+                &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/a.review/cs-drawbacks.md">Drawbacks</a>&nbsp;➿&nbsp;
+            <a href="README+/.net/README+/a.review/cs-malpractice.md">Malpractices</a><br/>
+     <br/><a href="README+/.net/README+/b.deduced">↘️Deduced<a><br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/b.deduced/cs-hints.md">Hints</a><br/>
+     <br/>💠&nbsp;<a href="README+/.net/README+/wpf"><b>WPF</b></a><br/>
       <br/>
      ➡️&nbsp;<b><a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Design decisions</a></b><br/>
      (<i>use-dev</i> repository)
