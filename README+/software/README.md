@@ -7,15 +7,12 @@
 The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future. 
 Since $4>3$ tearful-blue was added for the _design_.
 
-This layered picture won't qualify even for a [local imageboard](../../README+/pencraft/README+/opuses/IT-memes.md) but was intended as a platform for further discussion. Let's go.
-
-## Quick thesis
-
-More colors for DevOps, administration, testing, documentation, and project organization (management)? 
+More colors for DevOps, administration, documentation, testing, and project management? 
 With due respect, they are external forces that can be constructive and non- (also neutral). Artistically: mix, tint, blur, or shade (if not wash off) the four paints. 
 
+This layered picture won't qualify even for a [local imageboard](../../README+/pencraft/README+/opuses/IT-memes.md) but was intended as a platform for further discussion. Let's go.
 
-
+## Big picture
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. They may blend to almost a rectangular ...
 
