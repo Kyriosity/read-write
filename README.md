@@ -31,8 +31,8 @@
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/b.deduced/cs-shadow_parts.md">In shadow</a><br/>
      💠&nbsp;<a href="README+/.net/README+/wpf"><b>WPF</b></a><br/>
       <br/>
-     ➡️&nbsp;<b><a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Design decisions</a></b><br/>
-     (<i>use-dev</i> repository)
+     <b><a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Design decisions</a></b> 
+     ➡️&nbsp;<i>use-dev</i>
      </td>
      <td>
       <p><a href="README+/pencraft/README+/opuses/IT-memes.md">
