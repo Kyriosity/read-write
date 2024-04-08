@@ -23,12 +23,12 @@
 <a href="README+/.net/"><b>C#.NET</b></a><br/>
                 &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/a.review/cs-drawbacks.md">Drawbacks</a>&nbsp;➿&nbsp;
                       <a href="README+/.net/README+/a.review/cs-lacks.md">Lacks</a><br/>
-             &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/a.review/cs-malpractice.md">Malpractices</a>>&nbsp;➿&nbsp;
+             &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/a.review/cs-malpractice.md">Malpractices</a>&nbsp;➗&nbsp;
                       <a href="README+/.net/README+/b.deduced/cs-hints.md">Hints</a><br/>
-     PARTS<br/>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/b.deduced/cs-underused_parts.md">Underused</a><br/>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/a.review/cs-lacks-parts.md">Nice to have</a><br/>
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/b.deduced/cs-shadow_parts.md">In shadow</a><br/>
+     <b>Parts</b><br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/b.deduced/cs-underused_parts.md">Underused</a> ➕&nbsp;
+             <a href="README+/.net/README+/a.review/cs-lacks-parts.md">Nice to have</a><br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/b.deduced/cs-shadow_parts.md">In shadow</a><br/>
      💠&nbsp;<a href="README+/.net/README+/wpf"><b>WPF</b></a><br/>
       <br/>
      ➡️&nbsp;<b><a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Design decisions</a></b><br/>
