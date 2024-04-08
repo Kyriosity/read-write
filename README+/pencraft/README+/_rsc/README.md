@@ -10,18 +10,20 @@ Resources, created under this personal profile, such as collages, memes, or text
 
 I have searched for and used works of others for fair and limited use:
 
-* For illustrative and entertaining purposes
-* For fun
-* Non-commercial
+* illustrative and entertaining purposes,
+* just for fun,
+* non-commercial.
 
 When possible I refer the source or/and attribute to the author.
 
 ## Miscellaneous
 
-I couldn't trace sources of certain images/texts (archaeologists say that the source of any can be found in cuneiform.). Some memes are too folk and public to have personal ownership or copyright.
+I couldn't trace the authors of certain images/texts. (Archaeologists say that the source of any can be found in cuneiform.) 
+Some memes are too folk (public), or old to be proprietary or copyright-protected.
 
 ## Conclusion
 
-If you have questions or demands, please contact me by committing to one of the repositories.
+If you have questions or demands, feel free to contact me by committing to one of the repositories.
 
-Looking forward to hearing from you, yours owner of github.com/Kyriosity (Kyrill D).
+Looking forward to hearing from you, 
+Yours owner of github.com/Kyriosity (Kyrill D).
