@@ -26,7 +26,7 @@ Advanced C# design reveals more generic restraints and results in *Vodoo program
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)<sup>:link:</sup> that their generics are "_does nots_" of C++ templates.</sub>
 
-## Types
+## Type system
   
 - Root `object`, both non-abstract and interface-less, asserts flaws in object-oriented design. On the other hand, it brings an "original" footprint, big enough to pollute coding space with names.
 
@@ -61,7 +61,9 @@ LINK TO USE-DEV
 Allowing this cast doesn't contradict type safety.\
 ToDo: an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)<sup>:link:</sup>
 
-## Numbers
+## Built-in and shipped types
+
+### Numbers
   
 - Does either developer ponder ten(!) primitive whole types when writing ordinary `for (var i = 0; i < count; i++)`?
 - Summing up 0.1 and 0.2 will reveal a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)<sup>:link:</sup> unless explicitly declared decimal.<sup>🪲</sup>
@@ -74,11 +76,17 @@ C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.nu
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>LINK TO USE-DEV</sub>
 
-## String
+### String
 
 Laconic `==` implies _ordinal_ _case-sensitive_ comparison while `String.Compare()` is bulky and turbid.
 `IndexOf` and other methods with numerous overloads invoke comparison, for which Microsoft advises explicit `Comparison` options.\
 Syntax shortcuts here could make the code both shorter and readable.
+
+### DateTime
+
+`DateTime` and `DateOnly` structs are clumsy heritage. They allow to specify exact future dates up to the year 9999, but not for known recorded events before [common era](https://en.wikipedia.org/wiki/Common_Era)<sup>🔗</sup>.  Year-month-day constructors are ambiguous and allow non-sense `int` values.
+
+Definint own timelines => LINK TO USE-DEV
 
 ## Inborn naming
 
