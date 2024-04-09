@@ -46,12 +46,10 @@ Other peculiar and arbitrary alternatives are [extension methods](https://docs.m
 ## Namespaces and class organization
 
 * Historic namespaces as [System](https://learn.microsoft.com/en-us/dotnet/api/system)<sup>🔗</sup> are bloated and mixed.
-For example, exceptions should be organized in their own namespace with shorter calls: `Exceptions.Argument.Throw(predicate, message="")`.
+First of all, numerous errors should be moved from `System` to their own `namespace Exception`.__*__
 * Classes like [Math](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>🔗</sup>, [MathF](https://docs.microsoft.com/en-us/dotnet/api/system.mathf)<sup>:link:</sup> shall be namespaces for granulated domain classes.
 
-## Exceptions and guards
-
-LINK TO USE-DEV
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*__<sub> System.SystemException => Exception.System</sub>
 
 ## Casting limitations
 
@@ -61,14 +59,14 @@ LINK TO USE-DEV
 Allowing this cast doesn't contradict type safety.\
 ToDo: an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)<sup>:link:</sup>
 
-## Built-in and shipped types
+## Built-in and shipped types 
 
 ### Numbers
   
 - Does either developer ponder ten(!) primitive whole types when writing ordinary `for (var i = 0; i < count; i++)`?
 - Summing up 0.1 and 0.2 will reveal a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)<sup>:link:</sup> unless explicitly declared decimal.<sup>🪲</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🪲</sup> You may debug `var roundErr = 0.1 + 0.2;` to prove.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🪲</sup> You may debug `var roundErr = 0.1 + 0.2;` to prove.
 
 Developers should better declare just a *numeric* and distinguish only the way it's processed: fixed (default) or floating. It would be a great option to derive subclasses from this _numeric_ could (with range and precision constraints).
 
@@ -79,14 +77,20 @@ C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.nu
 ### String
 
 Laconic `==` implies _ordinal_ _case-sensitive_ comparison while `String.Compare()` is bulky and turbid.
-`IndexOf` and other methods with numerous overloads invoke comparison, for which Microsoft advises explicit `Comparison` options.\
+`IndexOf` and other methods with numerous overloads invoke comparison, for which Microsoft advises explicit `Comparison` options.
+
 Syntax shortcuts here could make the code both shorter and readable.
 
 ### DateTime
 
-`DateTime` and `DateOnly` structs are clumsy heritage. They allow to specify exact future dates up to the year 9999, but not for known recorded events before [common era](https://en.wikipedia.org/wiki/Common_Era)<sup>🔗</sup>.  Year-month-day constructors are ambiguous and allow non-sense `int` values.
+`DateTime` and refined `DateOnly` (non-casting from the first) are error-prone, awkward and limited. 
+Ironically you may specify a date close to the year 9999 (when regular astronimical events can be predicted that precise) but not a recorded one before [Common Era](https://en.wikipedia.org/wiki/Common_Era)<sup>🔗</sup>.
 
-Definint own timelines => LINK TO USE-DEV
+Ambigous order and `int` input of year/month/day allows nonesense values, which only the running code may or may not detect (i.e. a bad bug).<sup>🐛</sup>.
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🐛</sup> <sub>Test initalization and `.Tostring()` with `new DateOnly(2023, 02, 29)`, `new DateOnly(31, 12, 1975)`, `var May = 5; new DateOnly(2007, 1, May)`, `new DateTime(0, 0, 0)`</sub>
+
+Continued in [C# lacks - Dates](cs-lacks.md#Dates).
 
 ## Inborn naming
 
@@ -94,6 +98,6 @@ Definint own timelines => LINK TO USE-DEV
 - *Reverse*, as in [LINQ method](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse)<sup>:link:</sup>, is actually *flip*.
 - Type modifiers _in_/_out_ for contra-/covariance collide with the same name parameter modifiers (_more_/_less_ can be better)
 
-## 🚧 TO BE CONTINUED ...
+## 🚧 To be continued ...
 
 The list is far from being complete and I wait for one day (better to say a decade) when .NET hits a higher note - D-flat or even D#.
