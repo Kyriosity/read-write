@@ -129,6 +129,12 @@ C# would only profit from a lightweight assembly that could:
 + introduce complex numbers,
 + parallelize, async heavy algorithms with progress report and cancellation option
 
+## Dates
+
+Rudimentary `DateTime` and `DateOnly` are not intuitive (e.g. `new DateTime(1999, 2, 3, 4, 5, 6, 7)`), rather contraint (e.g. no BCE support) and inflexible.
+
+LiNK to UseDev
+
 <ins>&nbsp;**Further nice-to-have:**&nbsp;</ins>\
 |- [Parts and frameworks](cs-lacks-parts.md)
 
