@@ -1,6 +1,6 @@
 # C# - Nice to have - Syntax, constructs and features
 
-C#.NET isn't a universal formula; its team **+** community doesn't possess unbounded resources. However, this platform could offer extra features and foundations, which can only boost its charm.
+C#.NET isn't a universal formula; its team with the help of community doesn't possess unbounded resources. However, this platform could offer extra features and foundations, which can only boost its charm.
 
 ## More base interfaces
 
@@ -20,8 +20,7 @@ To begin with, it could be proof of `>0` for collection sizing, though subclassi
 There's no excuse why shortcuts like `ArgumentNullException.ThrowIfNull(...)` aren't added to most exceptions. 
 As well there could be static classes without evident _Exception_ suffix (e.g. `NotImplemented.Throw()`). 
 
-GUARDS and LINKE to USE-DEV !!!!!!!!!!!!!!!
-
+GUARDS and LINKE to USE-DEV **! ! ! **
 ### Extra inheritance
 
 <details>
@@ -95,7 +94,7 @@ Another story is a combination of primitive (or feature) interfaces as options f
 Suppose, there're `ILimited`, `ITimestamped`, and `INotifyPropertyChanged` which combinations imply 2<sup>3</sup> nominal declarations. And what if this could be done with `<IInterfaceA, IInterfaceB[, IInterfaceC[, ...]]>`
 
 <details>
-<summary><b><ins>&nbsp;Design sketch&nbsp;</ins></b></summary>
+<summary><ins>&nbsp;Interface conjunction - <b>Design sketch&nbsp;</ins></b></summary>
 &nbsp;
     
 ```csharp
@@ -131,7 +130,7 @@ C# would only profit from a lightweight assembly that could:
 
 ## Dates
 
-Rudimentary `DateTime` and `DateOnly` are not intuitive (e.g. `new DateTime(1999, 2, 3, 4, 5, 6, 7)`), rather contraint (e.g. no BCE support) and inflexible.
+Rudimentary `DateTime` and `DateOnly` are not intuitive (e.g. `new DateTime(1999, 9, 1, 9, 5, 6, 7)`), rather constrained (e.g. no BCE years) and inflexible.
 
 LiNK to UseDev
 
