@@ -1,4 +1,4 @@
-# S.O.L.I.D - Contra thinking
+# S.O.L.I.D - Extra thinking
 
 > 🚧 ... THIS IS a DRAFT and THESIS to be CONTINUED ... 🚧
 
