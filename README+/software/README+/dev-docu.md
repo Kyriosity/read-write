@@ -44,7 +44,19 @@ Even if there's extensive user guidance, even the best quality application code 
 
 The higher level and more concise the documentation the better - nobody will maintain volumes of papers up-to-date and read them attentively.
 
-Any document will be a bore without drawings, diagrams, and presentations.
+#### Log
+
+Commit comments can make a log of the design. Theoretically but practically it will be too much white noise.
+
+Just the daily log on notable decisions could be a great help to document the pace of design. 
+
+#### F.A.Q.
+
+Continuous ratification of design decisions (incl. rejection ) in the form of Question-Answer will compose a useful and concise user/developer document. 
+
+---
+
+Any text document (except F.A.Q.) over a few pages will be boring without drawings, diagrams, and presentations.
 
 ### Diagrams and presentations
 
@@ -63,12 +75,6 @@ Small images are smart helpers to annotate, navigate, and focus unless heavily o
 A team should limit them to a subset<sup>🍋</sup>, define the exact meaning of most, and put some on a blacklist (for ambiguity or cultural issues).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🍋</sup> <sub>By default markdown emojis, supported by GitHub  - see this [cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).</sub>
-
-### Log
-
-Commit comments can make a log of the design. Theoretically but practically it will be too much white noise.
-
-Just the daily log on notable decisions could be a great help to document the pace of design. 
 
 ### Video tutorial - Screen capture
 
