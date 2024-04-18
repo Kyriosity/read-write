@@ -1,6 +1,6 @@
 # C# - Nice to have - Syntax, constructs and features
 
-C#.NET isn't a universal formula; its team with the help of community doesn't possess unbounded resources. However, this platform could offer extra features and foundations, which can only boost its charm.
+C#.NET isn't a universal formula; its team with community assistance doesn't possess unbounded resources. However, this platform could offer extra features and foundations, which can only boost its charm.
 
 ## More base interfaces
 
@@ -13,6 +13,10 @@ Other promising members (like `IsReadOnly`) are defined within specific interfac
 
 To begin with, it could be proof of `>0` for collection sizing, though subclassing of general numeric type will be better.
 
+## Constraints
+
+Constraints could allow much more freedom if there were NOT and other logical operators. Q&A sites will suggest even more valuable "grammar".
+
 ## Syntax
 
 ### Sugar
@@ -21,6 +25,7 @@ There's no excuse why shortcuts like `ArgumentNullException.ThrowIfNull(...)` ar
 As well there could be static classes without evident _Exception_ suffix (e.g. `NotImplemented.Throw()`). 
 
 GUARDS and LINKE to USE-DEV **! ! ! **
+
 ### Extra inheritance
 
 <details>
@@ -114,25 +119,6 @@ void Planning.Capacity.Register(<ILoadSpecs, IPassengerConfig> transport) { ... 
 </details>
 
 Such a feature will be useful also for run-time object composition.
-
-## Math
-
-Native [Math](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>🔗</sup> is pretty scarce, and 3d-party libraries aren't in the state of the art.
-
-C# would only profit from a lightweight assembly that could: 
-
-+ inventory more [constants](https://en.wikipedia.org/wiki/Mathematical_constant)<sup>🔗</sup>,
-+ provide more useful functions (there are myriads uncovered),
-+ approximate popular irrational values like π (Pi) to the requested length,
-+ generate and check numbers in [sequences](http://oeis.org/wiki/Welcome)<sup>🔗</sup> (`bool Prime.Has(ulong num)`), detect sequences,
-+ introduce complex numbers,
-+ parallelize, async heavy algorithms with progress report and cancellation option
-
-## Dates
-
-Rudimentary `DateTime` and `DateOnly` are not intuitive (e.g. `new DateTime(1999, 9, 1, 9, 5, 6, 7)`), rather constrained (e.g. no BCE years) and inflexible.
-
-LiNK to UseDev
 
 <ins>&nbsp;**Further nice-to-have:**&nbsp;</ins>\
 |- [Parts and frameworks](cs-lacks-parts.md)
