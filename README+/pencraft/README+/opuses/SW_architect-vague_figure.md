@@ -26,7 +26,8 @@ Microarchitecture
 
 * team/project lead/manager
 * lead/senior dev
-* librarian
+* librarian - navigator,
+* technology evangelist,
 + computer scientist
 + one who boils down requirements or/and makes sw docu
 + a lucky guy who may draw great diagrams, which are very loose coupled to actual software
