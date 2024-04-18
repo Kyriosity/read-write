@@ -1,6 +1,6 @@
 # Software architect - Vague figure
 
-<p dir=rtl>".I am the Architect"<br><i>The Architect</i><br/>fictitious character of)<br/>(🎦&nbsp;<i>The Matrix Reloaded</i></p>
+<p dir=rtl>".I am the Architect"<br>🎦&nbsp;<i>The Architect</i><br/>fictitious character of)<br/>(<i>The Matrix Reloaded</i></p>
 
 > This article is a derivative and continuation of [Software creation](../../software/).
 
@@ -23,6 +23,8 @@ Microarchitecture
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎈</sup> <sub>SQL vs OOD vs impedance</sub>
 
 ### Roles falsely granted as the architect
+
+Roles, positions, occupations, which add up to architecture:
 
 * team/project lead/manager
 * lead/senior dev
