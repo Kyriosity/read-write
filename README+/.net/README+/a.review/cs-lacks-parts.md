@@ -9,13 +9,30 @@ Tests for drive or coverage are optional but natural share of development. The t
 🚧🚧🚧🚧 ... DRAFT .... 🚧🚧🚧🚧🚧
 Link to [3D&nbsp;re&#8209;view](https://github.com/Kyriosity/use-dev/tree/main/readme+/decisions/testing/test3D) with partial solution.
 
+## Math
+
+Native [Math](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>🔗</sup> is pretty scarce, and 3d-party libraries aren't in the state of the art.
+
+C# would only profit from a lightweight assembly that could: 
+
++ inventory more [constants](https://en.wikipedia.org/wiki/Mathematical_constant)<sup>🔗</sup>,
++ provide more useful functions (there are myriads uncovered),
++ approximate popular irrational values like π (Pi) to the requested length,
++ generate and check numbers in [sequences](http://oeis.org/wiki/Welcome)<sup>🔗</sup> (`bool Prime.Has(ulong num)`), detect sequences,
++ introduce complex numbers,
++ parallelize, async heavy algorithms with progress report and cancellation option
+
+## Dates
+
+Rudimentary `DateTime` and `DateOnly` are not intuitive (e.g. `new DateTime(1999, 9, 1, 9, 5, 6, 7)`), rather constrained (e.g. no BCE years) and inflexible.
+
+-------->>>> LiNK to UseDev (Event and its use in Model Timelines !)
 
 ## Measurement systems
 
 Definition of natural values (geometry, masses, temperature, electricity, movement u.a.) and their conversions between systems of measurements (metric, US customary, UK imperial u.a.) are more than essential tools (e.g., Celsius-Fahrenheit-Kelvin).
 
 Meanwhile, you may try and extend [C# Multifaceted-Value](https://github.com/Kyriosity/use-dev/tree/6ab68c7af589d37715c171e61dc51d0b5a208c73/README+/projects/U-Val)<sup>➡️</sup> to organize units in your applications.
-
 
 ## Lingua
 
