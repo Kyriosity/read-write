@@ -15,7 +15,28 @@ To begin with, it could be proof of `>0` for collection sizing, though subclassi
 
 ## Constraints
 
-Constraints could allow much more freedom if there were NOT and other logical operators. Q&A sites will suggest even more valuable "grammar".
+Constraints could allow much more freedom if there were NOT and other logical operators. 
+
+<details>
+    <summary><ins>&nbsp;Some syntax proposals&nbsp;</ins></summary>
+&nbsp;
+  
+```csharp
+where T :  IDisposable AND NOT Stream
+```
+
+I long for better [numbers](cs-drawbacks.md#Numbers) in C# where constraints could improve the state.
+
+```csharp
+// rationally limited natural number
+Retail.Price<N>(N val) : where N : byte, ushort;
+
+
+```
+---
+</details>
+
+Rated queries on Q&A sites will suggest demands for much more valuable "grammar".
 
 ## Syntax
 
@@ -72,13 +93,13 @@ with downcast only, e.g.:
 <summary><ins>&nbsp;<b>Arguments signature</b> - Design sketch&nbsp;</ins></summary>
 &nbsp;
 
-Let's put aside that long signatures are bugs buddies and shall be encapsulated into classes/structs or tuples. 
+Let's put aside that long signatures are bug buddies and shall be encapsulated into classes/structs or tuples. 
 
-Let's take the fact that repetitive sequences of arguments occur (sometimes dicatated by external tools) and ensuring the same names in order would be pleasing.
+As a matter of fact, repetitive sequences of arguments occur (sometimes dictated by external tools), and ensuring the same names in order would be pleasing.
 
 ```csharp
 
-// one of possible syntax through attribute
+// one of the possible syntax through attribute
 [Args("Name")]
 bool Login(string name, string familyName) { ... }
 
