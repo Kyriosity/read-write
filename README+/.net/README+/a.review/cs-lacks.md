@@ -21,11 +21,17 @@ Constraints could allow much more freedom if there were NOT and other logical op
     <summary><ins>&nbsp;Some syntax proposals&nbsp;</ins></summary>
 &nbsp;
   
-```csharp
-where T :  IDisposable AND NOT Stream
+```diff csharp
+Flush<T>(T stream) where T :  IDisposable AND System.IO.Stream
+
+... where T : NOT Exception
+
+// help with not "coupling" enums
+- Bonus.Calc(IEnumerable<T> months) where T : Enum
++ Bonus.Calc(IEnumerable<T> months) where T : Month OR Months // Months is Month but [Flags]
 ```
 
-I long for better [numbers](cs-drawbacks.md#Numbers) in C# where constraints could improve the state.
+I long for better [numbers](cs-drawbacks.md#Numbers) in C# but meanwhile constraints could improve the state.
 
 ```csharp
 // rationally limited natural number
@@ -36,7 +42,7 @@ Retail.Price<N>(N val) : where N : byte, ushort;
 ---
 </details>
 
-Rated queries on Q&A sites will suggest demands for much more valuable "grammar".
+Rated queries on Q&A sites depict demands for much more  _constraints_ "grammar".
 
 ## Syntax
 
