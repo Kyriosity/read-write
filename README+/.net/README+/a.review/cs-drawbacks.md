@@ -1,6 +1,6 @@
 # C# - Drawbacks (minority report)
 
-Art can be perfect, but no technology. With all its goodies __C#__ got downsides as bulky declarations of hierarchies, rigid interfaces, or restrained generics.
+Art can be perfect, but not technology. With all its goodies __C#__ has downsides as bulky declarations of hierarchies, rigid interfaces, or restrained generics.
 
 The following language artifacts are awkward leastwise for me. 
 
@@ -39,9 +39,11 @@ Advanced C# design reveals more generic restraints and results in *Vodoo program
 
 A class may refer to only one base class but multiple interfaces with default method implementations. This dismantles arguing for conceptual single-class inheritance (which must have been technically restrained).
 
-However, arranging the code from some interfaces is rather cumbersome and restrictive, and shall be reserved for technical purposes (not multiinheritance design).
+However, arranging the code from some interfaces is rather cumbersome and restrictive, and shall be reserved for limited technical purposes (not multiinheritance design).
 
 Other peculiar and arbitrary alternatives are [extension methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>:link:</sup> and dynamic composition (much facilitated with [Roslyn](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)<sup>:link:</sup>).
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>I do object multi-inheritance for logic as destructive for single-responsibility but would like it for operational adornment: `ToString()`, `NotifyPropertyChanged`, `Compare` and similar.</sub>
 
 ## Namespaces and class organization
 
