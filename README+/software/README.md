@@ -4,10 +4,10 @@
 
 [![Four colors of software: black->red->blue->gold](../pencraft/README+/_rsc/_img/darkCode2arcGold.jpg)](../pencraft/README+/_rsc/)
 
-The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future. 
+* *The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future. 
 Since $4>3$ tearful-blue was added for the _design_.
 
-More colors for DevOps, administration, documentation, testing, and project management? 
+More colors for DevOps, administration, documentation, testing, and project management? The same for DIGITAL ARTISTS
 With due respect, they are external forces that can be constructive and non- (also neutral). Artistically: mix, tint, blur, or shade (if not wash off) the four paints. 
 
 This layered picture won't qualify even for a [local imageboard](../../README+/pencraft/README+/opuses/IT-memes.md) but was intended as a platform for further discussion. Let's go.
@@ -20,7 +20,7 @@ This layered picture won't qualify even for a [local imageboard](../../README+/p
 
 ... but the growth of a project will "blow up" the picture in all dimensions ...
 
-You can propmtly imaginge your own exploded view and here is mine ...
+You can easily imagine your own exploded view and here is mine ...
 
 THUMBNAIL
 
@@ -45,7 +45,6 @@ Thinks not persons but roles.
 <summary><ins>&nbsp;<b>Processes as layers</b>&nbsp;</ins></summary>
 
 
-
 </details>
 
 Let's see them intermixed
@@ -56,22 +55,12 @@ Let's see them intermixed
 
 To keep the design thinking (not necessarily implemented in every step)
 
-## Worth of coding
+## Worth of `coding`
 
-Let's first formulate what the coding is and what different to dev.
+The coding is inevitable nad shall be 
+
+Let's first formulate what the coding is and what is different from dev.
 Bugs lookup.
-
-### Is there an architect as in Matrix?
-
-There're many activities/roles that are falsely 
-
-- management (of any sort)
-- project leading,
-
-Then how would it look like ? A kind of Architect from Matrix.
-
-I would say, that there's none. I mean that an architect may be highly loaded with ...
-
 
 # Design - private derivations
 
