@@ -15,12 +15,12 @@ To begin with, it could be proof of `>0` for collection sizing, though subclassi
 
 ## Constraints
 
-Constraints could allow much more freedom if there were NOT and other logical operators. 
+Constraints could allow much more freedom. First, `new()` shall not limit type to a parameterless constructor of objects without `required` fields.
 
 <details>
     <summary><ins>&nbsp;Some syntax proposals&nbsp;</ins></summary>
 &nbsp;
-  
+    
 ```diff csharp
 Flush<T>(T stream) where T :  IDisposable AND System.IO.Stream
 
