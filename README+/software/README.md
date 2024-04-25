@@ -4,10 +4,9 @@
 
 [![Four colors of software: black->red->blue->gold](../pencraft/README+/_rsc/_img/darkCode2arcGold_wRem.jpg)](../pencraft/README+/_rsc/)
 
-More colors for project management, DevOps, documentation, testing, and administration?
-With due respect, they are external forces that can be constructive and non- (also neutral). Artistically: mix, tint, blur, or shade (if not wash off) the four paints. 
+More colors for project management, digital artists, DevOps, documentation, testing, and administration?
 
- The same applies to digital artists, which have a specific role.
+With due respect, they are external forces that can be constructive and non- (also neutral). Culturally speaking: mix, tint, blur, or shade (if not wash off) the four paints. 
 
 ## Classification
 
