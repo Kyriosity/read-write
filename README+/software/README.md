@@ -2,15 +2,12 @@
 
 ### **What makes software?** In a word - _development_, in four - 
 
-[![Four colors of software: black->red->blue->gold](../pencraft/README+/_rsc/_img/darkCode2arcGold.jpg)](../pencraft/README+/_rsc/)
-
-* *The colors were inspired by an informal interpretation of the German flag (_Schwarz-Rot-Gold_): from the dark past through the bloody present to the golden future. 
-Since $4>3$ tearful-blue was added for the _design_.
+[![Four colors of software: black->red->blue->gold](../pencraft/README+/_rsc/_img/darkCode2arcGold_wRem.jpg)](../pencraft/README+/_rsc/)
 
 More colors for project management, DevOps, documentation, testing, and administration?
 With due respect, they are external forces that can be constructive and non- (also neutral). Artistically: mix, tint, blur, or shade (if not wash off) the four paints. 
 
- The same for DIGITAL ARTISTS.
+ The same applies to digital artists, which have a specific role.
 
 ## Classification
 
