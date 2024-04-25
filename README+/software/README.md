@@ -26,7 +26,7 @@ Arc and Dev are close to the keyboard while dev and coding are near to the keybo
 
 They may blend to almost a rectangular ...
 
-[![Arc view at small projects](../pencraft/README+/_rsc/_img/C-D-D-A_smallPrj.jpg)](../../pencraft/README+/_rsc/)
+[![Arc view at small projects](../pencraft/README+/_rsc/_img/C-D-D-A_smallPrj.jpg)](../pencraft/README+/_rsc/)
 
 ... but the growth of a project will "blow up" the picture in all dimensions ...
 
