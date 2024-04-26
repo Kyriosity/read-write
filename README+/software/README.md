@@ -1,4 +1,6 @@
-# The creation of software - _Arc DeCo_
+# The creation of software - _Arc DeCo_*
+
+<p dir=rtl>Any quote of Immanuel Kant<br/>!Just because it's his 300th birhtday</p>
 
 ### **What makes software?** In a word - _development_, in four - 
 
@@ -6,36 +8,45 @@
 
 More colors for project management, digital artists, DevOps, documentation, testing, and administration?
 
-With due respect, they are external forces that can be constructive and non- (also neutral). Culturally speaking: mix, tint, blur, or shade (if not wash off) the four paints. 
+They are external forces that can be constructive and non- (also neutral). Culturally speaking: mix, tint, blur, or shade (if not wash off) the four paints. 
 
-## Classification
-
-**_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. 
-
-There's much ambiguity between them.
-
-Architecture may describe both ARC and VISION ...
-
-Arc and Dev are close to the keyboard while dev and coding are near to the keyboard.
-
-## Big picture
-
-They may blend to almost a rectangular ...
+**_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. They may blend to almost a rectangular ...
 
 [![Arc view at small projects](../pencraft/README+/_rsc/_img/C-D-D-A_smallPrj.jpg)](../pencraft/README+/_rsc/)
 
-... but the growth of a project will "blow up" the picture in all dimensions ...
+... but the growth of a project will explode the picture in all dimensions ...
 
-You can easily imagine your own exploded view and here is mine ...
+<details>
+  <summary><ins>&nbsp;Forces which make the big picture&nbsp;</ins></summary>
+</details>
+TABLE: Left to your imagination <-> Click to get the force
 
 THUMBNAIL
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:anchor:</sup> <sub>Digging deep in code mines, not seeing shining peaks.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:balloon:</sup> <sub>Flying in abstraction dreams.</sub>
 
+## Objective
+
+## Conclusion, which is the beginning
+
+The intro already involves so much topics vision
+
+|- Classisication\
+|- Architecture and architector\
+|- 
+
+//////////////// 🚧  BELOW ARE DRAFT NOTES !!! //////////////
+
+Architecture may describe both ARC and VISION ...
+
+Arc and Dev are close to the keyboard while dev and coding are near to the keyboard.
+
 ## Behind the explosion sketch
 
 ## Impedance
+
+
 
 IMPEDANCE, COMMU (look! also impedance here), ROLES (impedance!), GRAVITY vs LEVITY
 
