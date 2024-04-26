@@ -28,12 +28,14 @@ Advanced C# design reveals more generic restraints and results in *Vodoo program
 
 ## Type system
   
-- Root `object`, both non-abstract and interface-less, asserts flaws in object-oriented design. On the other hand, it brings an "original" footprint, big enough to pollute coding space with names.
+- Root `object`, both non-abstract and interface-less, asserts flaws in object-oriented design. On the other hand, it brings an "original" footprint, big enough to pollute coding space with names.<sup>👣</sup>
 
 - Either `class`, `record`, `record class`, `struct`, `record struct`, or *tuples* can declare an entity. Each has pros and cons for a particular case, but deciding between them could distract from design.
 
 - There's no method signature to specify that it must unconditionally throw an exception, and `void` as a return is incorrect.\
 (The workaround may be to [declare the return as an exception to be thrown](../b.deduced/cs-hints.md#Gimmicks)).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>👣</sup> <sub>Especially annoying in inter-methods within builders, when you expect to select among next steps.</sub>
 
 ## Single-class inheritance
 
