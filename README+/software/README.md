@@ -1,6 +1,6 @@
-# The creation of software
+# The creation of software - _Arc DeCo_
 
-### **What makes software?** In a word - _development_, in four - _Arc DeCo_ ⬇️
+### **What makes software?** In a word - _development_, in four - 
 
 [![Four colors of software: black->red->blue->gold](../pencraft/README+/_rsc/_img/darkCode2arcGold_wRem.jpg)](../pencraft/README+/_rsc/)
 
