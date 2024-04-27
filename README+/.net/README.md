@@ -20,5 +20,4 @@ With all given praise C# isn't monumentally accomplished and if I dare to remark
 |--- [Drawbacks](README+/a.review/cs-drawbacks.md)\
 |--- [Malpractice](README+/a.review/cs-malpractice.md)\
 |--- [Missing parts (or nice-to-have)](README+/a.review/cs-lacks.md)\
-|- WPF\
-|--- [Lacks](README+/wpf/README+/wpf-drawbacks.md)
+|--- [WPF acks](README+/wpf/README+/wpf-drawbacks.md)
