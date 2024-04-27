@@ -81,6 +81,56 @@ P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "A
 
 </details>
 
+## PART II. Seasoned quotes
+
+<details>
+<summary><ins>&nbsp;<b>Immanuel Kant for domain-driven design</b>&nbsp;</ins></summary>
+&nbsp;
+
+![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
+
+> The only **objects** of practical reason are therefore those of good and evil.\
+> For by the former is meant an object necessarily desired according to a principle of reason;\
+by the latter one necessarily shunned, also according to a principle of reason.
+
+Don't take it as mockery but as a modest tribute to the 300th birthday of the philosopher considered one of the greatest.
+
+Original: _Die alleinigen Objekte einer praktischen Vernunft sind also die vom Guten und Bösen. 
+Denn durch das erstere versteht man einen notwendigen Gegenstand des Begehrungs-, 
+durch das zweite des Verabscheuungsvermögens, beides aber nach einem Prinzip der Vernunft._\
+_**Kritik der praktischen Vernunft, 1788**_
+
+---------
+</details>
+
+<details>
+<summary><ins>&nbsp;<b>Full quote and context matter</b>&nbsp;</ins></summary>
+  &nbsp;
+  
+> Where a calculator like ENIAC today is equipped with 18'000 vacuum tubes and weighs 30 tons, **computers in the future may** have only 1'000 vacuum tubes and perhaps **weigh only 1½ tons**.\
+_Popular Mechanics, March 1949_
+
+And they were right. The same magazine over seven decades later: "Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons."
+
+---
+</details>
+
+<details>
+<summary><ins>&nbsp;<b>West meets East</b>&nbsp;</ins></summary>
+  &nbsp;
+  
+![West meets East](https://img.shields.io/badge/West_meets-East-yellow)
+> **DO ONLY WHAT ONLY YOU CAN DO.**\
+&nbsp;\
+_Edsger W. Dijkstra (1930-2002),_\
+_computer scientist, known i.a. for Dijkstra's algorithm._
+
+Not only the East grant us great and eloquent teaching ...\
+(East is East, and West is West, and never the twain shall meet...)
+
+---
+</details>
+
 <details>
 <summary><ins>&nbsp;<b>Do not rewrite the full stack </b>&nbsp;</ins></summary>
 &nbsp;
@@ -90,42 +140,6 @@ P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "A
 Ferdinand von Zepellin
 
 </details>
-
-## PART II. Seasoned quotes
-
-<details>
-<summary><ins>&nbsp;<b>Immanuel Kant for domain-driven design</b>&nbsp;</ins></summary>
-&nbsp;
-
-![Kant quote](https://img.shields.io/badge/Dare_to-think!-scarlet)
-
-> The only **objects** of practical reason are therefore those of good and evil.\
-For by the former is meant an object necessarily desired according to a principle of reason;\ 
-by the latter one necessarily shunned, also according to a principle of reason.
-
-Take it not as mockery but as a small tribute to the 300th birthday of the philosopher considered one of the greatest.
-
----------
-</details>
-
-<details>
-
-> Where a calculator like ENIAC today is equipped with 18'000 vacuum tubes and weighs 30 tons, **computers in the future may** have only 1'000 vacuum tubes and perhaps **weigh only 1½ tons**.\
-_Popular Mechanics, March 1949_
-
-And they were right. The same magazines over seven decades later: "Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons."
-
----
-</details>
-
-![West meets East](https://img.shields.io/badge/West_meets-East-yellow)
-> **DOo only what only you can do.**\
-&nbsp;\
-_Edsger W. Dijkstra (1930-2002),_\
-_computer scientist, known i.a. for Dijkstra's algorithm._
-
-Not only the East grant us great and eloquent teaching ...
-
 
 ---
 
