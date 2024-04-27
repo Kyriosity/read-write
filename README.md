@@ -1,7 +1,7 @@
 <table style="border-collapse: collapse;">
  <tr valign="top">
     <td style="border: 1px solid #0000000;">
-      <p><a href="README+/pencraft/README+/opuses/IT-memes.md">
+      <p><a href="README+/software/">
           <img src="README+/pencraft/README+/_rsc/_img/memes/learn_is_swim.jpg"    
                alt="To learn is to swim against the current"></a><p>
     </td><td> 
