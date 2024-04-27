@@ -1,7 +1,9 @@
 # IT memes - personal selection
 
-<div dir="rtl"><i>I like epigraphs for looking<i></div>
+<div dir="rtl"><i>I like epigraphs for looking</i></div>
 <div dir="rtl"><i>.magnificent and vertical indent</i></div>
+
+|- [**PART&nbsp;2. Seasoned quotes**](#seasoned-quotes) ⬇️
 
 <details>
 <summary><ins>&nbsp;<b>First and foremost ...</b>&nbsp;</ins></summary>
@@ -87,9 +89,22 @@ Ferdinand von Zepellin
 
 </details>
 
+## Seasoned quotes
+
 <details>
-<summary><ins>&nbsp;<i>S e a s o n e d&nbsp;&nbsp;&nbsp;&nbsp;q u o t e s</i>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>Kantian OOD</b>&nbsp;</ins></summary>
 &nbsp;
+
+![Cheat GPT](https://img.shields.io/badge/Dare_to-think!-scarlet)
+
+> The only **objects** of practical reason are therefore those of good and evil. 
+For by the former is meant an object necessarily desired according to a principle of reason; 
+by the latter one necessarily shunned, also according to a principle of reason.
+
+---------
+</details>
+
+<details>
 
 > Where a calculator like ENIAC today is equipped with 18'000 vacuum tubes and weighs 30 tons, **computers in the future may** have only 1'000 vacuum tubes and perhaps **weigh only 1½ tons**.\
 _Popular Mechanics, March 1949_
@@ -97,13 +112,15 @@ _Popular Mechanics, March 1949_
 And they were right. The same magazines over seven decades later: "Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons."
 
 ---
+</details>
+
+
 ![West meets East](https://img.shields.io/badge/West_meets-East-yellow)
 > **Do only what only you can do.** 
 _Edsger W. Dijkstra (1930-2002), computer scientist, known i.a. for Dijkstra's algorithm._
 
 Not only the East grant us great and eloquent teaching ...
 
-</details>
 
 ---
 
