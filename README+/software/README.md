@@ -1,6 +1,6 @@
 # The creation of software - _Arc DeCo_*
 
-<p dir=rtl>Any quote of Immanuel Kant<br/>!Just because it's his 300th birhtday</p>
+<p dir=rtl>Arc - for architecturet<br/>De - for design<br/>Co - for coding<br/>Arc Deco - just for tag</p>
 
 ### **What makes software?** In a word - _development_, in four - 
 
