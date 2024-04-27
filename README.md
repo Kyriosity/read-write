@@ -35,7 +35,7 @@
      ➡️&nbsp;<i>use-dev</i>
      </td>
      <td>
-      <p><a href="README+/pencraft/README+/opuses/IT-memes.md">
+      <p><a href="README+/.net/">
           <img src="README+/pencraft/README+/_rsc/_img/memes/IT_is_waterfall.jpg"    
                alt="then IT must be a waterfall"></a><p>
      </td>
