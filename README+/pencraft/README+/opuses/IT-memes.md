@@ -1,9 +1,11 @@
 # IT memes - personal selection
 
-<div dir="rtl"><i>I like epigraphs for looking</i></div>
-<div dir="rtl"><i>.magnificent and vertical indent</i></div>
+<div dir="rtl"><i>I like epigraphs for magnificent</i></div>
+<div dir="rtl"><i>.look and vertical indent</i></div>
 
-|- [**PART&nbsp;2. Seasoned quotes**](#seasoned-quotes) ⬇️
+|- [**PART&nbsp;II. Seasoned quotes**](#part-ii-seasoned-quotes) ⬇️
+
+## PART I
 
 <details>
 <summary><ins>&nbsp;<b>First and foremost ...</b>&nbsp;</ins></summary>
@@ -89,17 +91,19 @@ Ferdinand von Zepellin
 
 </details>
 
-## Seasoned quotes
+## PART II. Seasoned quotes
 
 <details>
-<summary><ins>&nbsp;<b>Kantian OOD</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>Immanuel Kant for domain-driven design</b>&nbsp;</ins></summary>
 &nbsp;
 
-![Cheat GPT](https://img.shields.io/badge/Dare_to-think!-scarlet)
+![Kant quote](https://img.shields.io/badge/Dare_to-think!-scarlet)
 
-> The only **objects** of practical reason are therefore those of good and evil. 
-For by the former is meant an object necessarily desired according to a principle of reason; 
+> The only **objects** of practical reason are therefore those of good and evil.\
+For by the former is meant an object necessarily desired according to a principle of reason;\ 
 by the latter one necessarily shunned, also according to a principle of reason.
+
+Take it not as mockery but as a small tribute to the 300th birthday of the philosopher considered one of the greatest.
 
 ---------
 </details>
@@ -114,10 +118,11 @@ And they were right. The same magazines over seven decades later: "Fully transis
 ---
 </details>
 
-
 ![West meets East](https://img.shields.io/badge/West_meets-East-yellow)
-> **Do only what only you can do.** 
-_Edsger W. Dijkstra (1930-2002), computer scientist, known i.a. for Dijkstra's algorithm._
+> **DOo only what only you can do.**\
+&nbsp;\
+_Edsger W. Dijkstra (1930-2002),_\
+_computer scientist, known i.a. for Dijkstra's algorithm._
 
 Not only the East grant us great and eloquent teaching ...
 
