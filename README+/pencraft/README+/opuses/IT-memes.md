@@ -110,7 +110,9 @@ _**Kritik der praktischen Vernunft, 1788**_<sub>
 > Where a calculator like ENIAC today is equipped with 18'000 vacuum tubes and weighs 30 tons, **computers in the future may** have only 1'000 vacuum tubes and perhaps **weigh only 1½ tons**.\
 _Popular Mechanics, March 1949_
 
-Wrongly assumed and quoted as a funny futuristic prognosis. The same magazine over seven decades later: "Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons."
+Wrongly quoted as futuristic cringe, it wasn't.
+
+The same magazine over seven decades later: "Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons."
 
 ---
 </details>
