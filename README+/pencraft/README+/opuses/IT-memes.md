@@ -93,40 +93,41 @@ P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "A
 > For by the former is meant an object necessarily desired according to a principle of reason;\
 by the latter one necessarily shunned, also according to a principle of reason.
 
-Don't take it as mockery but as a modest tribute to the 300th birthday of the philosopher considered one of the greatest.
+No mockery but a modest tribute to the 300th birthday of the considered one of the greatest philosophers.
 
-Original: _Die alleinigen Objekte einer praktischen Vernunft sind also die vom Guten und Bösen. 
+<sup>🇩🇪</sup> <sub>Original: _Die alleinigen Objekte einer praktischen Vernunft sind also die vom Guten und Bösen. 
 Denn durch das erstere versteht man einen notwendigen Gegenstand des Begehrungs-, 
 durch das zweite des Verabscheuungsvermögens, beides aber nach einem Prinzip der Vernunft._\
-_**Kritik der praktischen Vernunft, 1788**_
+_**Kritik der praktischen Vernunft, 1788**_<sub>
 
 ---------
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>Full quote and context matter</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>Full story matters</b>&nbsp;</ins></summary>
   &nbsp;
   
 > Where a calculator like ENIAC today is equipped with 18'000 vacuum tubes and weighs 30 tons, **computers in the future may** have only 1'000 vacuum tubes and perhaps **weigh only 1½ tons**.\
 _Popular Mechanics, March 1949_
 
-And they were right. The same magazine over seven decades later: "Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons."
+Wrongly assumed and quoted as a funny futuristic prognosis. The same magazine over seven decades later: "Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons."
 
 ---
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>West meets East</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>Brevity - sibling of talent</b>&nbsp;</ins></summary>
   &nbsp;
   
 ![West meets East](https://img.shields.io/badge/West_meets-East-yellow)
-> **DO ONLY WHAT ONLY YOU CAN DO.**\
+> **Do only what only you can do.**\
 &nbsp;\
 _Edsger W. Dijkstra (1930-2002),_\
 _computer scientist, known i.a. for Dijkstra's algorithm._
 
-Not only the East grant us great and eloquent teaching ...\
-(East is East, and West is West, and never the twain shall meet...)
+What about this Mr. Kipling*? Not only the East grant us profound and eloquent teaching!
+
+&nbsp;&nbsp;&nbsp;&nbsp;* <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
 
 ---
 </details>
@@ -137,7 +138,7 @@ Not only the East grant us great and eloquent teaching ...\
 
 > Sometimes it's better to curse in the darkness than to light a single candle.
 
-Ferdinand von Zepellin
+Attributed to _Ferdinand von Zepellin_
 
 </details>
 
