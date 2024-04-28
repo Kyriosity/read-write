@@ -122,12 +122,13 @@ The same magazine over seven decades later: "Fully transistorized computer, the 
   &nbsp;
   
 ![West meets East](https://img.shields.io/badge/West_meets-East-yellow)
+
 > **Do only what only you can do.**\
 &nbsp;\
 _Edsger W. Dijkstra (1930-2002),_\
 _computer scientist, known i.a. for Dijkstra's algorithm._
 
-What about this Mr. Kipling*? Not only the East grant us profound and eloquent teaching!
+Not only the East grant us profound and eloquent teaching! What about this Mr. Kipling*? 
 
 &nbsp;&nbsp;&nbsp;&nbsp;* <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
 
