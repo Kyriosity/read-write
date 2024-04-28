@@ -44,11 +44,11 @@ Even if there's extensive user guidance, even the best quality application code 
 
 The higher level and more concise the documentation the better - nobody will maintain volumes of papers up-to-date and read them attentively.
 
-#### Log
+#### Log/Blog
 
-Commit comments can make a log of the design. Theoretically but practically it will be too much white noise.
+Commit comments can make a log of the design. Theoretically but practically it will be too many mixed entries with white noise.
 
-Just the daily log on notable decisions could be a great help to document the pace of design. 
+Just the daily log (or blog) on notable decisions could be a great help in documenting the pace of design. 
 
 #### F.A.Q.
 
