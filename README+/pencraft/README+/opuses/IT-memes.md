@@ -1,7 +1,6 @@
 # IT memes - personal selection
 
-<div dir="rtl"><i>I like epigraphs for magnificent</i></div>
-<div dir="rtl"><i>.look and vertical indent</i></div>
+<div dir="rtl"><i>I like epigraphs for<br/>magnificent look and<br>.vertical indent</i></div>
 
 |- [**PART&nbsp;II. Seasoned quotes**](#part-ii-seasoned-quotes) ⬇️
 
