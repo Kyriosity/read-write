@@ -1,6 +1,4 @@
-# The creation of software - _Arc DeCo_*
-
-<p dir=rtl>Arc - for architecturet<br/>De - for design<br/>Co - for coding<br/>Arc Deco - just for tag</p>
+# The creation of software
 
 ### **What makes software?** In a word - _development_, in four - 
 
@@ -9,6 +7,10 @@
 More colors for project management, digital artists, DevOps, documentation, testing, and administration?
 
 They are external forces that can be constructive and non- (also neutral). Culturally speaking: mix, tint, blur, or shade (if not wash off) the four paints. 
+
+## Arc DeCo
+
+<p dir=rtl>,Arc - for <b>arc</b>hitecture<br/>,De - for <b>d</b>esign and d<b>e</b>v<br/>Co - for <b>co</b>ding</p>
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. They may blend to almost a rectangular ...
 
