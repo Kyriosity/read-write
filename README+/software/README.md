@@ -32,6 +32,8 @@ THUMBNAIL
 
 ## Conclusion, which is the beginning
 
+Immanuel Kant: “Experience without theory is blind, but theory without experience is mere intellectual play."
+
 The intro already involves so many topics, that ...
 
 |- Classisication\
