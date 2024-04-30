@@ -32,9 +32,10 @@ THUMBNAIL
 
 ## Conclusion, which is the beginning
 
-The intro already involves so much topics vision
+The intro already involves so many topics, that ...
 
 |- Classisication\
+|- Roles share for inclinations\
 |- Architecture and architector\
 |- 
 
@@ -76,7 +77,7 @@ To keep the design thinking (not necessarily implemented in every step)
 
 ## Worth of `coding`
 
-The coding is inevitable and everybody should practice it to the proper extent.
+Coding is inevitable and everybody should practice it to the proper extent.
 
 Let's first formulate what the coding is and what is different from dev.
 Bugs lookup.
