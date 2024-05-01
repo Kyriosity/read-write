@@ -1,7 +1,7 @@
 # Technical authoring
 
-<div dir="rtl">?Need or want to write<br>.Hire a ghostwriter</div>
-<p dir="rtl";'><i>.Best pros to most of us</i></p>
+<div dir="rtl">?Need or want to pen<br>!Hire a ghostwriter</div>
+<p dir="rtl";'>[<i>Good authors advise</i>]</p>
 &nbsp;
 
 There are projects, products, and technologies that deserve the work of pen or brush. The quality of such work may be a decision factor Nr&nbsp;1 for usage/purchase of its subject: either attract or divert for good.
