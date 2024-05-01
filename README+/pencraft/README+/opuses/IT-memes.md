@@ -1,4 +1,4 @@
-# IT memes - personal selection
+# IT memes - Idiomatic collection
 
 <div dir="rtl"><i>I like epigraphs for<br/>magnificent look and<br>.vertical indent</i></div>
 
@@ -46,9 +46,11 @@ Translated east-to-west this means: find a sinecure in a big company.
 <summary><ins>&nbsp;<b>Marsupial covariance</b>&nbsp;</ins></summary>
 &nbsp;
 
-![DRY principle](https://img.shields.io/badge/clean_code-Oz-cyan)  ![clean code](https://img.shields.io/badge/DRY-🇦🇺-yellow)
+![DRY principle](https://img.shields.io/badge/clean_code-Oz-cyan)  ![clean code](https://img.shields.io/badge/DRY-🇦🇺-yellow) ![fact check](https://img.shields.io/badge/Fact❓-Check❗-green)  
 
-https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
+Original study: https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
+
+([downloaded copy](../_rsc/_backup/ref/Marsupial/) if the URL doesn't work)
 
 ---------
 </details>
@@ -72,7 +74,7 @@ Justified, ability in exact sciences is no longer a prerequisite for applied pro
 
 ![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
 
-[![AI: 1523 vs 2023](../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/_rsc)
+[![AI: 1500s vs 2020s](../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/_rsc)
 
 P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
 
