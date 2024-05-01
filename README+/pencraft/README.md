@@ -8,9 +8,9 @@ __Documentation__ and __authoring__ are two differing employments of writing ski
 * Authoring is **initiative**, must take a bird view of the subject, inspire and explain sophisticated and regulated ideas in abstractive friendly, and sometimes informal, fashion.\
 (Much of the renowned works, as about REST, were based on concepts with little public implementation.)
 
-Regardless of missions, any tech writing is an expensive and exhausting exercise and thus must:
+Regardless of missions, any tech writing is an expensive and exhausting exercise and, if not a hobby, must:
 
-+ [x] have a live auditorium,
++ [x] have a live eager auditorium,
 + [x] excel other ways of teaching (consider quickly sketched presentation, captured video tutorial, watercooler talks),
 + [x] be long-term (updated and evolved).
 
@@ -19,7 +19,7 @@ __Furthermore__\
 |- [Technical authoring](README+/tech-authoring.md)\
 |- Technical illustration
 
-+ Freestyle opuses\
++ Freestyle [**opuses**](README+/opuses), to highlight some complete:\
 |- [Private view on AI in 2020s](README+/opuses/AI-2020s.md)\
 |- [In memory of Lotus Notes](README+/opuses/LN-view.md)\
 |- [IT memes, found reasonable](README+/opuses/IT-memes.md)
