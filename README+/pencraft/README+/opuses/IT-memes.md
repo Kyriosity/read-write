@@ -137,15 +137,38 @@ Not only the East grant us profound and eloquent teaching! What about this Mr. K
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>Do not rewrite the full stack </b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>Inspiring quotes to write the documentation</b>&nbsp;</ins></summary>
+  &nbsp;
+
+> **Epistula non erubescit**\
+_Marcus Tullius Cicero_ (106-43 BC)
+
+> **There's no freak who wouldn't find a match and there's**\
+**no nonsense that wouldn't find a proper reader.**\
+_Anton Chekhov_ (1860-1904), "Rules for novice writers"
+
+> **Write what you <s>want</s> know.**\
+_Mark Twain_ (1835-1910)
+
+> **Gimme that torch, now!**\
+_Ray Bradbury_ (1920-2012)\
+on reading the _Twilight_ series,\
+*assumed
+
+---
+</details>
+
+<details>
+<summary><ins>&nbsp;<b>Inspiring quotes for procrastination</b>&nbsp;</ins></summary>
 &nbsp;
+
+Shall i refactor ⬇️
 
 > Sometimes it's better to curse in the darkness than to light a single candle.
 
-Attributed to _Ferdinand von Zepellin_
-
-</details>
+Attributed to _Ferdinand von Zepellin_ or _von Hindenburg_
 
 ---
+</details>
 
 ... :pen: TO BE CONTINUED :pen: ...
