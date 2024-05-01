@@ -6,16 +6,16 @@ Some of the C# syntax, features, and libraries are underestimated or unrevealed.
 
 C# evolves swiftly with regular and rich releases, but not every developer is an early adaptor, and not every team is eager to update the breadwinning production environment.
 
-However, staying fit with C# is reasonable and feasible. Releases of .NET  are stable and, besides new syntax and structures, they bring more performance and security. 
-Devoted bloggers<sup>👨‍👩‍👧‍👦</sup> greatly help to separate the wheat from the chaff, and IDEs hint at new features. CHANGE ICO !
+However, staying fit with C# is reasonable and feasible. Releases of .NET  are cumulative and stable; besides new syntax and structures, they bring more performance and security. 
+Devoted bloggers<sup>👨‍👩‍👧‍👦</sup> greatly help to separate the wheat from the chaff, and IDEs hint at new features.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I won't recommend any since this must be a personal experience, selection and a matter of taste.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup> <sub>Revaling [CallerArgumentExpressions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression)<sup>🔗</sup> urged me to rewrite [exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcExt/Errors).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup> <sub>Revealing [CallerArgumentExpressions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression)<sup>🔗</sup> urged me to rewrite [exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcExt/Errors).</sub>
 
 ## Predicates and delegates as arguments
 
 // ToDo: ➡️ move to hints ! ➡️ \
-Are good for parametrization of methods calls but are seldom seen there.
+They are good for the parametrization of methods calls but are seldom seen there.
 
 ## Multitasking out-of-the-box
 
@@ -75,4 +75,4 @@ There must be other useful but neglected parts, features, and syntax of C# and i
 
 Besides definitely underused parts there are\
 |--- [Parts in shade](cs-shadow_parts.md)\
-|--- Bad parts, features, and practices 
+|--- Obsolete/bad parts, features, and [practices](../a.review/cs-malpractice.md) 
