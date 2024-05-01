@@ -6,7 +6,7 @@ __Documentation__ and __authoring__ are two differing employments of writing ski
 (A strict _User manual_ of hazardous tools is an exemplary case.)
 
 * Authoring is **initiative**, must take a bird view of the subject, inspire and explain sophisticated and regulated ideas in abstractive friendly, and sometimes informal, fashion.\
-(Much of the renowned works, as about REST, were based on concepts with little public implementation.)
+(Much of the renowned works, as on SQL or REST, were based on "paper" concepts with little or no implementation.)
 
 Regardless of missions, any tech writing is an expensive and exhausting exercise and, if not a hobby, must:
 
