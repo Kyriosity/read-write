@@ -141,8 +141,8 @@ Not only the East grant us profound and eloquent teaching! What about this Mr. K
 <summary><ins>&nbsp;<b>Inspiring quotes to write the documentation</b>&nbsp;</ins></summary>
   &nbsp;
 
-> **There's no freak who wouldn't find a match and there's**\
-**no nonsense that wouldn't find a proper reader.**\
+> **There's no such freak who wouldn't find a mate and there's**\
+**no such nonsense that wouldn't find a proper reader.**\
 _Anton Chekhov_ (1860-1904), "Rules for novice writers"
 
 > **Epistula non erubescit**\
@@ -151,12 +151,10 @@ _Marcus Tullius Cicero_ (106-43 BC)
 > **Write what you <s>want</s> know.**\
 _Mark Twain_ (1835-1910)
 
-> **If they give you ruled paper, write the other way.**\
-_Juan Ramón Jiménez_ (1881-1958)\
-1956 Nobel Prize in Literature\
+> **If they give you lined paper, write the other way.**\
+_Juan Ramón Jiménez_ (1881-1958), 1956 Nobel Prize in Literature\
 **So I invented the Monospace.**\
-_George Williams_\
-*assumed
+_George Williams_ (*assumed)
 
 > **Gimme that torch, now!**\
 _Ray Bradbury_ (1920-2012)\
