@@ -1,4 +1,4 @@
-# Techical authoring
+# Technical authoring
 
 <div dir="rtl">Epistula non erubescit </div>
 <p dir="rtl";'><i>Marcus Tullius Cicero (106-43 BC)</i></p>
