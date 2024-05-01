@@ -1,0 +1,9 @@
+@media screen and (max-width: 550px) {
+    #sticky_ad_container {
+        position: fixed !important;
+        bottom: 0px !important;
+        display: block !important;
+        z-index: 100000;
+        width: 100% !important;
+    }   
+}

@@ -1,0 +1,820 @@
+//<script>
+bouncex.init1Response({
+    "brand_styles": false,
+    "webfonts": false,
+    "cookie": {
+        "did": "1409061745759704737",
+        "vid": 1714559359368727,
+        "fvt": 1714559359,
+        "ao": 0,
+        "lp": "https%3A%2F%2Fwww.snopes.com%2Ffact-check%2Fshoot-me-kangaroo-down-sport%2F",
+        "as": 0,
+        "vpv": 1,
+        "d": "d",
+        "r": "github.com",
+        "cvt": 1714559359,
+        "sid": -1,
+        "gcr": 64,
+        "m": 0,
+        "lvt": 1714559359,
+        "campaigns": {
+            "1863406": {
+                "vv": 0,
+                "lvt": 1714559359
+            },
+            "1863408": {
+                "vv": 0,
+                "lvt": 1714559359
+            },
+            "1863410": {
+                "vv": 0,
+                "lvt": 1714559359
+            }
+        }
+    },
+    "debug": false,
+    "testmode": {
+        "bxtest": false,
+        "office": false,
+        "bxdev": false
+    },
+    "state": {
+        "newvid": true,
+        "iol": true,
+        "tn": 1714559359,
+        "pvid": 1,
+        "gdpr": true,
+        "casl": false,
+        "us": false,
+        "device": {
+            "browser": "Chrome",
+            "version": "124.0.0.0",
+            "platform": "Windows 10",
+            "device_type": "desktop"
+        },
+        "no_kinesis": true,
+        "request_token": "9a38d5a078998fffcd2bf509dcc65f0833a83396d5b1dbc413dba943e8173412",
+        "mobile": false,
+        "vip": "87.123.244.202",
+        "geo": {
+            "country": "DE",
+            "country_code": "DE",
+            "country_code3": "DEU",
+            "country_name": "Germany",
+            "region": "BY",
+            "region_name": "Bavaria",
+            "city": "Nuremberg",
+            "postal_code": "90409",
+            "zip": "90409",
+            "area_code": "",
+            "dma_code": null,
+            "metro_code": null,
+            "continent_code": "EU",
+            "google": {
+                "zip": "",
+                "country": "DE",
+                "country_code": "DE",
+                "region": "BY",
+                "city": "Nuremberg",
+                "continent_code": "EU",
+                "country_name": "Germany",
+                "region_name": "Bayern"
+            }
+        }
+    },
+    "gbi_stacks": false,
+    "creatives": {
+        "45278": {
+            "images": [
+                "assets.bounceexchange.com\/assets\/uploads\/clients\/2045\/creatives\/f3e4aafd19cff480007de81efe7fd790.png",
+                "assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png"
+            ],
+            "noPostSubmit": 0,
+            "numSteps": 1,
+            "closePlacement": [
+                "inside"
+            ],
+            "html": "<div class=\"bxc bx-base bx-custom bx-active-step-1    bx-campaign-{bpcid}   bx-width-default bx-type-overlay  bx-has-close-x-1 bx-has-close-inside\" id=\"bx-campaign-{bpcid}\" style=\"display:none; visibility:hidden;\" aria-hidden=\"true\" role=\"dialog\" aria-modal=\"true\"><button class=\"bx-ally-tab-decoy\" aria-hidden=\"true\"><\/button><div id=\"bx-shroud-{bpcid}\" class=\"bx-matte bx-shroud bx-shroud-{bpcid}\"><\/div><div id=\"bx-hover-shroud-{bpcid}\" class=\"bx-hover-shroud bx-hover-shroud-{bpcid}\" style=\"display:none\"><\/div><div class=\"bx-slab\"><div class=\"bx-align\"><div class=\"bx-creative bx-creative-{bpcid}\" id=\"bx-creative-{bpcid}\"><div class=\"bx-wrap\"><button id=\"bx-close-inside-{bpcid}\" class=\"bx-close bx-close-link bx-close-inside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><div class=\"bx-step bx-step-1 bx-active-step bx-step-C4lpS73 bx-step-{bpcid}-1 bx-tail-placement-hidden\" id=\"bx-step-{bpcid}-1\" data-close-placement=\"inside\"><form id=\"bx-form-{bpcid}-step-1\" bx-novalidate=\"true\" method=\"post\" action=\"https:\/\/api.bounceexchange.com\/capture\/submit\" onsubmit=\"return bouncex.submitCampaignStep({bpcid}); return false\" onreset=\"bouncex.close_ad({bpcid}); return false\" tabindex=\"0\" ><input type=\"hidden\" name=\"campaign_id\" value=\"{bpcid}\" \/><div class=\"bx-group bx-group-placeholder bx-group-{bpcid}-FVbYvYg bx-group-FVbYvYg\" id=\"bx-group-{bpcid}-FVbYvYg\"  ><\/div><div class=\"bx-group bx-group-default bx-group-{bpcid}-y9UtStO bx-group-y9UtStO\" id=\"bx-group-{bpcid}-y9UtStO\"  ><div class=\"bx-row bx-row-image bx-row-image-default  bx-row-D3vy1As bx-element-{bpcid}-D3vy1As\" id=\"bx-element-{bpcid}-D3vy1As\"  ><img src=\"\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png\" alt=\"\"\/><\/div><\/div><\/form><\/div><\/div><\/div><\/div><\/div><button id=\"bx-close-outside-{bpcid}\" class=\"bx-close bx-close-link bx-close-outside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><button class=\"bx-ally-tab-decoy\" aria-hidden=\"true\"><\/button><\/div>",
+            "styles": "\/* effects for .bx-campaign-{bpcid} *\/\/* custom css .bx-campaign-{bpcid} *\/@-webkit-keyframes bx-anim-{bpcid}-spin {   from { -webkit-transform: rotate(0deg); transform: rotate(0deg); }   to { -webkit-transform: rotate(360deg); transform: rotate(360deg); }}@keyframes bx-anim-{bpcid}-spin {   from { transform: rotate(0deg); }   to { transform: rotate(360deg); }}.bx-custom.bx-campaign-{bpcid} .bx-creative {  max-width: none;   max-height: none;}.bx-custom.bx-campaign-815774 .bx-group-815774-FVbYvYg {    height: 550px;}.bx-custom.bx-campaign-{bpcid} .bx-close .bx-close-xsvg {    -ms-interpolation-mode: bicubic;    image-rendering: optimizeQuality;    display: block;    height: 5px;}.bx-custom.bx-campaign-{bpcid} .bx-close .bx-close-inside {    display: block;}.bx-custom.bx-campaign-{bpcid} .bx-close .bx-close-link {    display: block;}\/* rendered styles .bx-campaign-{bpcid} *\/.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative> *:first-child {padding: 0px;width: auto;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative {background-color: transparent;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-close {stroke: rgba(0, 0, 0, 0);background-color: transparent;border-style: none;border-color: white;border-width: 0;top: 0px;right: 0px;stroke-width: 0;background-image: url(\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/2045\/creatives\/f3e4aafd19cff480007de81efe7fd790.png);background-size: 100%;max-width: 88px;max-height: 64px;width: 10%;min-width: 58px;min-height: 54px;float: right;cursor: pointer;position: relative;-ms-interpolation-mode: bicubic;image-rendering: optimizeQuality;background-position: 50% 52%;border-radius: 0;margin-bottom: 1%;padding: 1.9% 0;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-FVbYvYg {width: 720px;text-align: center;padding: 0px;z-index: 2;height: 480px;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-y9UtStO {position: fixed;top: 50%;left: 50%;transform: translate(-50%, -50%);z-index: -1;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-D3vy1As {width: 55px;text-align: center;vertical-align: middle;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-D3vy1As> *:first-child {animation-name: bx-anim-{bpcid}-spin;animation-duration: 800ms;animation-iteration-count: infinite;animation-timing-function: linear;}"
+        },
+        "38949": {
+            "images": [
+                "assets.bounceexchange.com\/assets\/uploads\/clients\/934\/ads\/599456b4129c41da80dd8fa51cf33b16.png",
+                "assets.bounceexchange.com\/assets\/uploads\/clients\/211\/ads\/91269f62c49a8b563e82615836e7776a.svg",
+                "assets.bounceexchange.com\/assets\/uploads\/clients\/2045\/creatives\/f3e4aafd19cff480007de81efe7fd790.png"
+            ],
+            "noPostSubmit": 0,
+            "numSteps": 1,
+            "closePlacement": [
+                "inside"
+            ],
+            "html": "<div class=\"bxc bx-base bx-custom bx-active-step-1    bx-campaign-{bpcid}   bx-width-full-content bx-type-overlay  bx-has-close-x-1 bx-has-close-inside\" id=\"bx-campaign-{bpcid}\" style=\"display:none; visibility:hidden;\" aria-hidden=\"true\" role=\"dialog\" aria-modal=\"true\"><button class=\"bx-ally-tab-decoy\" aria-hidden=\"true\"><\/button><div id=\"bx-shroud-{bpcid}\" class=\"bx-matte bx-shroud bx-shroud-{bpcid}\"><\/div><div id=\"bx-hover-shroud-{bpcid}\" class=\"bx-hover-shroud bx-hover-shroud-{bpcid}\" style=\"display:none\"><\/div><div class=\"bx-slab\"><div class=\"bx-align\"><div class=\"bx-creative bx-creative-{bpcid}\" id=\"bx-creative-{bpcid}\"><div class=\"bx-wrap\"><button id=\"bx-close-inside-{bpcid}\" class=\"bx-close bx-close-link bx-close-inside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><div class=\"bx-step bx-step-1 bx-active-step bx-step-1EDwk8I bx-step-{bpcid}-1 bx-tail-placement-hidden\" id=\"bx-step-{bpcid}-1\" data-close-placement=\"inside\"><form id=\"bx-form-{bpcid}-step-1\" bx-novalidate=\"true\" method=\"post\" action=\"https:\/\/api.bounceexchange.com\/capture\/submit\" onsubmit=\"return bouncex.submitCampaignStep({bpcid}); return false\" onreset=\"bouncex.close_ad({bpcid}); return false\" tabindex=\"0\" ><input type=\"hidden\" name=\"campaign_id\" value=\"{bpcid}\" \/><div class=\"bx-group bx-group-default bx-group-{bpcid}-BySGtyV bx-group-BySGtyV\" id=\"bx-group-{bpcid}-BySGtyV\"  ><div class=\"bx-row bx-row-video bx-row-video-default  bx-row-z8bAJDi bx-element-{bpcid}-z8bAJDi\" id=\"bx-element-{bpcid}-z8bAJDi\"  ><div class=\"bx-video-wrapper bx-video-player-muted bx-video-player-playing\" id=\"bx-video-wrapper-{bpcid}\">    <video id=\"bx-video-player-{bpcid}\" muted oncontextmenu=\"return false;\" data-wknd-autoplay=\"1\"><\/video>    <div class=\"bx-video-controls\" id=\"bx-video-controls-{bpcid}\">        <div class=\"bx-video-progress-wrapper\" id=\"bx-video-progress-wrapper-{bpcid}\">            <span class=\"bx-ally-label\">Time left in video:<\/span>            <span class=\"bx-video-progress-time-left\">0:00<\/span>            <span class=\"bx-ally-label\">left out of<\/span>            \/            <span class=\"bx-video-progress-time-total\"><\/span>        <\/div>        <div class=\"bx-video-btns\" id=\"bx-video-btns-{bpcid}\">            <button class=\"bx-video-btn bx-video-btn-playpause\" id=\"bx-video-btn-playpause-{bpcid}\" onclick=\"bouncex.video.playPausePlayer({bpcid});\">                <span class=\"bx-ally-label\">Play\/Pause Video<\/span>                <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28px\" height=\"28px\" viewBox=\"0 0 72 72\">                    <g class=\"bx-video-btn-shape bx-video-btn-play-shape\">                        <path d=\"M19 12.993v46.012a2 2 0 0 0 3.184 1.612L53.766 37.43a3 3 0 0 0 0-4.837l-29.99-22.018A3 3 0 0 0 19 12.993z\"\/>                    <\/g>                    <g class=\"bx-video-btn-shape bx-video-btn-pause-shape\">                        <path d=\"M22 10h6a3 3 0 0 1 3 3v45a3 3 0 0 1-3 3h-6a3 3 0 0 1-3-3V13a3 3 0 0 1 3-3zm22 0h6a3 3 0 0 1 3 3v45a3 3 0 0 1-3 3h-6a3 3 0 0 1-3-3V13a3 3 0 0 1 3-3z\"\/>                    <\/g>                    <g class=\"bx-video-btn-shape bx-video-btn-replay-shape\">                        <path d=\"M36 15V3L21 18l15 15V21c10 0 18 8 18 18s-8 18-18 18-18-8-18-18H12c0 13.25 10.75 24 24 24s24-10.75 24-24-10.75-24-24-24z\"\/>                    <\/g>                <\/svg>            <\/button>            <button class=\"bx-video-btn bx-video-btn-mute\" id=\"bx-video-btn-mute-{bpcid}\" onclick=\"bouncex.video.toggleMute({bpcid});\">                <span class=\"bx-ally-label\">Mute\/Unmute Video<\/span>                <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28px\" height=\"28px\" viewBox=\"0 0 72 72\">                    <g class=\"bx-video-btn-shape bx-video-btn-unmute-shape\">                        <path d=\"M49.05 44.544l-2.527-2.38a15.62 15.62 0 0 0 1.053-5.664 15.47 15.47 0 0 0-2.86-9.01 1.703 1.703 0 0 1-.444-1.154c0-.93.732-1.683 1.636-1.683.602 0 1.129.335 1.412.834 2.196 3.078 3.495 6.888 3.495 11.013 0 2.883-.634 5.611-1.766 8.044zm7.393 6.965l-2.447-2.305c2.096-3.731 3.297-8.072 3.297-12.704 0-5.77-1.864-11.09-5-15.341a1.703 1.703 0 0 1-.442-1.15c0-.93.733-1.683 1.636-1.683.603 0 1.13.336 1.413.835 3.534 4.81 5.632 10.82 5.632 17.339 0 5.504-1.496 10.646-4.089 15.009zm7.29 6.867l-2.424-2.283C64.91 50.485 67.01 43.747 67.01 36.5c0-8.106-2.626-15.575-7.044-21.537a1.701 1.701 0 0 1-.503-1.214c0-.93.733-1.683 1.636-1.683.578 0 1.087.31 1.378.775l.003-.003c4.87 6.543 7.77 14.75 7.77 23.662 0 8.118-2.406 15.653-6.517 21.876zM19.2 23.981L38 41.691v19.432a2 2 0 0 1-3.311 1.51L19.208 49.197a3 3 0 0 0-1.967-.734H5a3 3 0 0 1-3-3V27.635a3 3 0 0 1 3-3h12.331a3 3 0 0 0 1.87-.654zm4.17-3.628l11.316-9.86A2 2 0 0 1 38 12v22.135L23.37 20.353z\"\/>                        <path d=\"M.893 4.66l69 65a1.25 1.25 0 1 0 1.714-1.82l-69-65A1.25 1.25 0 1 0 .893 4.66z\"\/>                    <\/g>                    <g class=\"bx-video-btn-shape bx-video-btn-mute-shape\">                        <path d=\"M2 27.635v17.827a3 3 0 0 0 3 3h12.241a3 3 0 0 1 1.967.734l15.481 13.438A2 2 0 0 0 38 61.124V12a2 2 0 0 0-3.314-1.508L19.302 23.897a3 3 0 0 1-1.971.738H5a3 3 0 0 0-3 3z\"\/>                        <path d=\"M47.32 47.513c-.283.499-.81.834-1.412.834-.904 0-1.636-.754-1.636-1.683 0-.446.169-.852.445-1.153a15.47 15.47 0 0 0 2.859-9.011 15.47 15.47 0 0 0-2.86-9.01 1.703 1.703 0 0 1-.444-1.154c0-.93.732-1.683 1.636-1.683.602 0 1.129.335 1.412.834 2.196 3.078 3.495 6.888 3.495 11.013s-1.299 7.935-3.495 11.013zM54.9 19.16c3.534 4.81 5.632 10.82 5.632 17.339 0 6.558-2.123 12.6-5.695 17.425-.29.47-.8.782-1.382.782-.904 0-1.636-.753-1.636-1.682 0-.464.182-.883.477-1.188 3.134-4.25 4.997-9.568 4.997-15.337 0-5.77-1.864-11.09-5-15.341a1.703 1.703 0 0 1-.442-1.15c0-.93.733-1.683 1.636-1.683.603 0 1.13.336 1.413.835zM62.52 60.11c-.29.475-.803.791-1.388.791-.903 0-1.635-.753-1.635-1.683 0-.461.18-.88.472-1.183 4.417-5.962 7.042-13.43 7.042-21.534 0-8.106-2.626-15.575-7.044-21.537a1.701 1.701 0 0 1-.503-1.214c0-.93.733-1.683 1.636-1.683.578 0 1.087.31 1.378.775l.003-.003c4.87 6.543 7.77 14.75 7.77 23.662 0 8.888-2.884 17.076-7.731 23.61z\"\/>                    <\/g>                <\/svg>            <\/button>        <\/div>    <\/div><\/div><\/div><\/div><div class=\"bx-group bx-group-default bx-group-{bpcid}-Wx1jsUQ bx-group-Wx1jsUQ\" id=\"bx-group-{bpcid}-Wx1jsUQ\"  ><div class=\"bx-row bx-row-text bx-row-text-default  bx-row-H6WuRq4 bx-element-{bpcid}-H6WuRq4\" id=\"bx-element-{bpcid}-H6WuRq4\"  ><div>Advertisement<\/div><\/div><\/div><\/form><\/div><\/div><\/div><\/div><\/div><button id=\"bx-close-outside-{bpcid}\" class=\"bx-close bx-close-link bx-close-outside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><button class=\"bx-ally-tab-decoy\" aria-hidden=\"true\"><\/button><\/div>",
+            "styles": "\/* effects for .bx-campaign-{bpcid} *\/\/* custom css .bx-campaign-{bpcid} *\/@-ms-keyframes bx-anim-{bpcid}-spin {         from {             -ms-transform: rotate(0deg);         } to {             -ms-transform: rotate(360deg);         }    }  @-moz-keyframes bx-anim-{bpcid}-spin {       from {           -moz-transform: rotate(0deg);       } to {           -moz-transform: rotate(360deg);       }  }  @-webkit-keyframes bx-anim-{bpcid}-spin {       from {           -webkit-transform: rotate(0deg);       } to {           -webkit-transform: rotate(360deg);       }  }  @keyframes bx-anim-{bpcid}-spin {       from {           transform: rotate(0deg);       } to {           transform: rotate(360deg);       }  }    #bx-close-inside-{bpcid} {    top: 0;    right: 0;  }  .bx-custom.bx-campaign-{bpcid} .bx-row-video .bx-video-wrapper {    padding-top: 56.22222222%;}.bx-custom.bx-campaign-{bpcid} .bx-close .bx-close-xsvg {    position: absolute;    height: 100%;    width: 100%;}.bx-custom#bx-campaign-{bpcid} .bx-close {    padding: 0 0 0 0;}\/* rendered styles .bx-campaign-{bpcid} *\/.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative> *:first-child {width: 100%;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative {background-color: transparent;max-width: 880px;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-close {background-color: transparent;border-style: none;top: 0px;right: 0px;stroke-width: 0;background-image: url(\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/2045\/creatives\/f3e4aafd19cff480007de81efe7fd790.png);background-size: 90%;width: 10%;background-position: 50% 50%;max-width: 68px;max-height: 34px;min-width: 48px;min-height: 24px;float: right;cursor: pointer;position: relative;-ms-interpolation-mode: bicubic;image-rendering: optimizeQuality;margin-bottom: 1%;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-Wx1jsUQ {padding: 10px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-H6WuRq4 {width: auto;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-H6WuRq4> *:first-child {padding: 2px 4px;font-size: 10px;color: rgb(255, 255, 255);text-transform: uppercase;background-color: rgb(107, 106, 106);background-color: rgba(107, 106, 106, 0.83);}"
+        },
+        "58384": {
+            "images": [
+                "assets.bounceexchange.com\/assets\/uploads\/clients\/2045\/creatives\/f3e4aafd19cff480007de81efe7fd790.png",
+                "assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png",
+                "assets.bounceexchange.com\/assets\/uploads\/clients\/3116\/creatives\/33a83f478c478fb0ec85245fc62c23a5.png"
+            ],
+            "noPostSubmit": 0,
+            "numSteps": 4,
+            "closePlacement": [
+                "inside",
+                "inside",
+                "inside",
+                "inside"
+            ],
+            "html": "<div class=\"bxc bx-base bx-custom bx-active-step-1    bx-campaign-{bpcid}   bx-width-default bx-type-overlay  bx-has-close-x-1 bx-has-close-inside\" id=\"bx-campaign-{bpcid}\" style=\"display:none; visibility:hidden;\" aria-hidden=\"true\" role=\"dialog\" aria-modal=\"true\"><button class=\"bx-ally-tab-decoy\" aria-hidden=\"true\"><\/button><div id=\"bx-shroud-{bpcid}\" class=\"bx-matte bx-shroud bx-shroud-{bpcid}\"><\/div><div id=\"bx-hover-shroud-{bpcid}\" class=\"bx-hover-shroud bx-hover-shroud-{bpcid}\" style=\"display:none\"><\/div><div class=\"bx-slab\"><div class=\"bx-align\"><div class=\"bx-creative bx-creative-{bpcid}\" id=\"bx-creative-{bpcid}\"><div class=\"bx-wrap\"><button id=\"bx-close-inside-{bpcid}\" class=\"bx-close bx-close-link bx-close-inside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><div class=\"bx-step bx-step-1 bx-active-step bx-step-C4lpS73 bx-step-{bpcid}-1 bx-tail-placement-hidden\" id=\"bx-step-{bpcid}-1\" data-close-placement=\"inside\"><form id=\"bx-form-{bpcid}-step-1\" bx-novalidate=\"true\" method=\"post\" action=\"https:\/\/api.bounceexchange.com\/capture\/submit\" onsubmit=\"return bouncex.submitCampaignStep({bpcid}); return false\" onreset=\"bouncex.close_ad({bpcid}); return false\" tabindex=\"0\" ><input type=\"hidden\" name=\"campaign_id\" value=\"{bpcid}\" \/><div class=\"bx-group bx-group-placeholder bx-group-{bpcid}-FVbYvYg bx-group-FVbYvYg\" id=\"bx-group-{bpcid}-FVbYvYg\"  ><\/div><div class=\"bx-group bx-group-default bx-group-{bpcid}-y9UtStO bx-group-y9UtStO\" id=\"bx-group-{bpcid}-y9UtStO\"  ><div class=\"bx-row bx-row-image bx-row-image-default  bx-row-D3vy1As bx-element-{bpcid}-D3vy1As\" id=\"bx-element-{bpcid}-D3vy1As\"  ><img src=\"\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png\" alt=\"\"\/><\/div><\/div><div class=\"bx-group bx-group-default bx-group-{bpcid}-P9UtLBf bx-group-P9UtLBf\" id=\"bx-group-{bpcid}-P9UtLBf\"  ><div class=\"bx-row bx-row-text bx-row-text-default  bx-row-nVrIWpT bx-element-{bpcid}-nVrIWpT\" id=\"bx-element-{bpcid}-nVrIWpT\"  ><div>Advertisement<\/div><\/div><\/div><\/form><\/div><div class=\"bx-step bx-step-2  bx-step-lTY3LxD bx-step-{bpcid}-2 bx-tail-placement-hidden\" id=\"bx-step-{bpcid}-2\" data-close-placement=\"inside\"><form id=\"bx-form-{bpcid}-step-2\" bx-novalidate=\"true\" method=\"post\" action=\"https:\/\/api.bounceexchange.com\/capture\/submit\" onsubmit=\"return bouncex.submitCampaignStep({bpcid}); return false\" onreset=\"bouncex.close_ad({bpcid}); return false\" tabindex=\"0\" ><input type=\"hidden\" name=\"campaign_id\" value=\"{bpcid}\" \/><div class=\"bx-group bx-group-placeholder bx-group-{bpcid}-v8M2qAc bx-group-v8M2qAc\" id=\"bx-group-{bpcid}-v8M2qAc\"  ><\/div><div class=\"bx-group bx-group-default bx-group-{bpcid}-l5kLaXA bx-group-l5kLaXA\" id=\"bx-group-{bpcid}-l5kLaXA\"  ><div class=\"bx-row bx-row-image bx-row-image-default  bx-row-wqiG5ou bx-element-{bpcid}-wqiG5ou\" id=\"bx-element-{bpcid}-wqiG5ou\"  ><img src=\"\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png\" alt=\"\"\/><\/div><\/div><div class=\"bx-group bx-group-default bx-group-{bpcid}-IO7XATa bx-group-IO7XATa\" id=\"bx-group-{bpcid}-IO7XATa\"  ><div class=\"bx-row bx-row-image bx-row-image-default  bx-row-F81Usqw bx-element-{bpcid}-F81Usqw\" id=\"bx-element-{bpcid}-F81Usqw\"  ><img src=\"\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/3116\/creatives\/33a83f478c478fb0ec85245fc62c23a5.png\" alt=\"\"\/><\/div><div class=\"bx-row bx-row-text bx-row-text-default  bx-row-gBkYZbR bx-element-{bpcid}-gBkYZbR\" id=\"bx-element-{bpcid}-gBkYZbR\"  ><div>showing this ad <span style=\"font-style: italic; font-weight: bold;\">after<\/span> you’ve finished reading to keep content free<\/div><\/div><\/div><\/form><\/div><div class=\"bx-step bx-step-3  bx-step-CCUY47T bx-step-{bpcid}-3 bx-tail-placement-hidden\" id=\"bx-step-{bpcid}-3\" data-close-placement=\"inside\"><form id=\"bx-form-{bpcid}-step-3\" bx-novalidate=\"true\" method=\"post\" action=\"https:\/\/api.bounceexchange.com\/capture\/submit\" onsubmit=\"return bouncex.submitCampaignStep({bpcid}); return false\" onreset=\"bouncex.close_ad({bpcid}); return false\" tabindex=\"0\" ><input type=\"hidden\" name=\"campaign_id\" value=\"{bpcid}\" \/><div class=\"bx-group bx-group-placeholder bx-group-{bpcid}-lDtMWp3 bx-group-lDtMWp3\" id=\"bx-group-{bpcid}-lDtMWp3\"  ><\/div><div class=\"bx-group bx-group-default bx-group-{bpcid}-bhCt8vL bx-group-bhCt8vL\" id=\"bx-group-{bpcid}-bhCt8vL\"  ><div class=\"bx-row bx-row-image bx-row-image-default  bx-row-Iqd2wO2 bx-element-{bpcid}-Iqd2wO2\" id=\"bx-element-{bpcid}-Iqd2wO2\"  ><img src=\"\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png\" alt=\"\"\/><\/div><\/div><div class=\"bx-group bx-group-default bx-group-{bpcid}-7pu5eI8 bx-group-7pu5eI8\" id=\"bx-group-{bpcid}-7pu5eI8\"  ><div class=\"bx-row bx-row-image bx-row-image-default  bx-row-xqwSIFQ bx-element-{bpcid}-xqwSIFQ\" id=\"bx-element-{bpcid}-xqwSIFQ\"  ><img src=\"\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/3116\/creatives\/33a83f478c478fb0ec85245fc62c23a5.png\" alt=\"\"\/><\/div><div class=\"bx-row bx-row-text bx-row-text-default  bx-row-YZlQkPC bx-element-{bpcid}-YZlQkPC\" id=\"bx-element-{bpcid}-YZlQkPC\"  ><div>Our ads only display when you’ve <span style=\"font-style: italic; font-weight: bold;\">finished<\/span> reading content<\/div><\/div><\/div><\/form><\/div><div class=\"bx-step bx-step-4  bx-step-6tPzbVn bx-step-{bpcid}-4 bx-tail-placement-hidden\" id=\"bx-step-{bpcid}-4\" data-close-placement=\"inside\"><form id=\"bx-form-{bpcid}-step-4\" bx-novalidate=\"true\" method=\"post\" action=\"https:\/\/api.bounceexchange.com\/capture\/submit\" onsubmit=\"return bouncex.submitCampaignStep({bpcid}); return false\" onreset=\"bouncex.close_ad({bpcid}); return false\" tabindex=\"0\" ><input type=\"hidden\" name=\"campaign_id\" value=\"{bpcid}\" \/><div class=\"bx-group bx-group-placeholder bx-group-{bpcid}-m9clpJi bx-group-m9clpJi\" id=\"bx-group-{bpcid}-m9clpJi\"  ><\/div><div class=\"bx-group bx-group-default bx-group-{bpcid}-Y6Ux2OG bx-group-Y6Ux2OG\" id=\"bx-group-{bpcid}-Y6Ux2OG\"  ><div class=\"bx-row bx-row-image bx-row-image-default  bx-row-ZGNuh8H bx-element-{bpcid}-ZGNuh8H\" id=\"bx-element-{bpcid}-ZGNuh8H\"  ><img src=\"\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png\" alt=\"\"\/><\/div><\/div><div class=\"bx-group bx-group-default bx-group-{bpcid}-Pi2Ohv5 bx-group-Pi2Ohv5\" id=\"bx-group-{bpcid}-Pi2Ohv5\"  ><div class=\"bx-row bx-row-image bx-row-image-default  bx-row-Is5vURw bx-element-{bpcid}-Is5vURw\" id=\"bx-element-{bpcid}-Is5vURw\"  ><img src=\"\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/3116\/creatives\/33a83f478c478fb0ec85245fc62c23a5.png\" alt=\"\"\/><\/div><div class=\"bx-row bx-row-text bx-row-text-default  bx-row-CGC9Ft6 bx-element-{bpcid}-CGC9Ft6\" id=\"bx-element-{bpcid}-CGC9Ft6\"  ><div>Reader-first ads that display <span style=\"font-style: italic; font-weight: bold;\">after<\/span> you’ve finished reading<\/div><\/div><\/div><\/form><\/div><\/div><\/div><\/div><\/div><button id=\"bx-close-outside-{bpcid}\" class=\"bx-close bx-close-link bx-close-outside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><button class=\"bx-ally-tab-decoy\" aria-hidden=\"true\"><\/button><\/div>",
+            "styles": "\/* effects for .bx-campaign-{bpcid} *\/\/* custom css .bx-campaign-{bpcid} *\/@-webkit-keyframes bx-anim-{bpcid}-spin {   from { -webkit-transform: rotate(0deg); transform: rotate(0deg); }   to { -webkit-transform: rotate(360deg); transform: rotate(360deg); }}@keyframes bx-anim-{bpcid}-spin {   from { transform: rotate(0deg); }   to { transform: rotate(360deg); }}.bx-custom.bx-campaign-{bpcid} .bx-creative {  max-width: none;   max-height: none;}.bx-custom.bx-campaign-{bpcid} .bx-close .bx-close-xsvg {    -ms-interpolation-mode: bicubic;    image-rendering: optimizeQuality;    display: block;    height: 5px;}.bx-custom.bx-campaign-{bpcid} .bx-close .bx-close-inside {    display: block;}.bx-custom.bx-campaign-{bpcid} .bx-close .bx-close-link {    display: block;}\/* rendered styles .bx-campaign-{bpcid} *\/.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative> *:first-child {padding: 0px;width: auto;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative {background-color: transparent;position: relative;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-close {stroke: rgba(0, 0, 0, 0);background-color: transparent;border-style: none;border-color: white;border-width: 0;top: 0px;right: 55px;stroke-width: 0;background-image: url(\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/2045\/creatives\/f3e4aafd19cff480007de81efe7fd790.png);background-size: 100%;width: 9%;background-position: 50% 50%;border-radius: 0;padding: 1.9% 0;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-FVbYvYg {width: 900px;text-align: center;padding: 0px;z-index: 2;height: 600px;margin-top: 50px;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-y9UtStO {position: fixed;top: 50%;left: 50%;transform: translate(-50%, -50%);z-index: -1;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-D3vy1As {width: 55px;text-align: center;vertical-align: middle;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-D3vy1As> *:first-child {animation-name: bx-anim-{bpcid}-spin;animation-duration: 800ms;animation-iteration-count: infinite;animation-timing-function: linear;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-P9UtLBf {padding: 10px;width: 50%;position: relative;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-nVrIWpT {width: auto;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-nVrIWpT> *:first-child {padding: 2px 4px;font-size: 10px;color: rgb(255, 255, 255);text-transform: uppercase;background-color: rgb(107, 106, 106);background-color: rgba(107, 106, 106, 0.83);}.bxc.bx-campaign-{bpcid}.bx-active-step-2 .bx-creative> *:first-child {padding: 0px;width: auto;}.bxc.bx-campaign-{bpcid}.bx-active-step-2 .bx-creative {background-color: transparent;position: relative;}.bxc.bx-campaign-{bpcid}.bx-active-step-2 .bx-close {stroke: rgba(0, 0, 0, 0);background-color: transparent;border-style: none;border-color: white;border-width: 0;top: 0px;right: 55px;stroke-width: 0;background-image: url(\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/2045\/creatives\/f3e4aafd19cff480007de81efe7fd790.png);background-size: 100%;width: 9%;background-position: 50% 50%;border-radius: 0;padding: 1.9% 0;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-v8M2qAc {width: 900px;text-align: center;padding: 0px;z-index: 2;height: 600px;margin-top: 50px;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-l5kLaXA {position: fixed;top: 50%;left: 50%;transform: translate(-50%, -50%);z-index: -1;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-wqiG5ou {width: 55px;text-align: center;vertical-align: middle;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-wqiG5ou> *:first-child {animation-name: bx-anim-{bpcid}-spin;animation-duration: 800ms;animation-iteration-count: infinite;animation-timing-function: linear;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-IO7XATa {padding: 10px;width: 50%;position: relative;text-align: right;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-F81Usqw {width: 100px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-F81Usqw> *:first-child {height: auto;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-gBkYZbR {width: auto;padding: 4px 0 0 4px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-gBkYZbR> *:first-child {padding: 2px 4px;font-size: 10px;color: rgb(255, 255, 255);font-family: Arial, Helvetica, sans-serif;}.bxc.bx-campaign-{bpcid}.bx-active-step-3 .bx-creative> *:first-child {padding: 0px;width: auto;}.bxc.bx-campaign-{bpcid}.bx-active-step-3 .bx-creative {background-color: transparent;position: relative;}.bxc.bx-campaign-{bpcid}.bx-active-step-3 .bx-close {stroke: rgba(0, 0, 0, 0);background-color: transparent;border-style: none;border-color: white;border-width: 0;top: 0px;right: 55px;stroke-width: 0;background-image: url(\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/2045\/creatives\/f3e4aafd19cff480007de81efe7fd790.png);background-size: 100%;width: 9%;background-position: 50% 50%;border-radius: 0;padding: 1.9% 0;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-lDtMWp3 {width: 900px;text-align: center;padding: 0px;z-index: 2;height: 600px;margin-top: 50px;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-bhCt8vL {position: fixed;top: 50%;left: 50%;transform: translate(-50%, -50%);z-index: -1;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-Iqd2wO2 {width: 55px;text-align: center;vertical-align: middle;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-Iqd2wO2> *:first-child {animation-name: bx-anim-{bpcid}-spin;animation-duration: 800ms;animation-iteration-count: infinite;animation-timing-function: linear;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-7pu5eI8 {padding: 10px;width: 50%;position: relative;text-align: right;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-xqwSIFQ {width: 100px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-xqwSIFQ> *:first-child {height: auto;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-YZlQkPC {width: auto;padding: 4px 0 0 4px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-YZlQkPC> *:first-child {padding: 2px 4px;font-size: 10px;color: rgb(255, 255, 255);font-family: Arial, Helvetica, sans-serif;}.bxc.bx-campaign-{bpcid}.bx-active-step-4 .bx-creative> *:first-child {padding: 0px;width: auto;}.bxc.bx-campaign-{bpcid}.bx-active-step-4 .bx-creative {background-color: transparent;position: relative;}.bxc.bx-campaign-{bpcid}.bx-active-step-4 .bx-close {stroke: rgba(0, 0, 0, 0);background-color: transparent;border-style: none;border-color: white;border-width: 0;top: 0px;right: 55px;stroke-width: 0;background-image: url(\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/2045\/creatives\/f3e4aafd19cff480007de81efe7fd790.png);background-size: 100%;width: 9%;background-position: 50% 50%;border-radius: 0;padding: 1.9% 0;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-m9clpJi {width: 900px;text-align: center;padding: 0px;z-index: 2;height: 600px;margin-top: 50px;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-Y6Ux2OG {position: fixed;top: 50%;left: 50%;transform: translate(-50%, -50%);z-index: -1;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-ZGNuh8H {width: 55px;text-align: center;vertical-align: middle;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-ZGNuh8H> *:first-child {animation-name: bx-anim-{bpcid}-spin;animation-duration: 800ms;animation-iteration-count: infinite;animation-timing-function: linear;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-Pi2Ohv5 {padding: 10px;width: 50%;position: relative;text-align: right;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-Is5vURw {width: 100px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-Is5vURw> *:first-child {height: auto;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-CGC9Ft6 {width: auto;padding: 4px 0 0 4px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-CGC9Ft6> *:first-child {padding: 2px 4px;font-size: 10px;color: rgb(255, 255, 255);font-family: Arial, Helvetica, sans-serif;}"
+        },
+        "32989": {
+            "images": [
+                "assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png"
+            ],
+            "noPostSubmit": 0,
+            "numSteps": 1,
+            "closePlacement": [
+                false
+            ],
+            "html": "<div class=\"bxc bx-base bx-custom bx-active-step-1    bx-campaign-{bpcid}   bx-width-default bx-type-agilityzone  bx-has-close-x-1 \" id=\"bx-campaign-{bpcid}\" style=\"display:none; visibility:hidden;\" aria-hidden=\"true\" ><div id=\"bx-shroud-{bpcid}\" class=\"bx-matte bx-shroud bx-shroud-{bpcid}\"><\/div><div id=\"bx-hover-shroud-{bpcid}\" class=\"bx-hover-shroud bx-hover-shroud-{bpcid}\" style=\"display:none\"><\/div><div class=\"bx-slab\"><div class=\"bx-align\"><div class=\"bx-creative bx-creative-{bpcid}\" id=\"bx-creative-{bpcid}\"><div class=\"bx-wrap\"><button id=\"bx-close-inside-{bpcid}\" class=\"bx-close bx-close-link bx-close-inside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><div class=\"bx-step bx-step-1 bx-active-step bx-step-EuHLhHn bx-step-{bpcid}-1 bx-tail-placement-hidden\" id=\"bx-step-{bpcid}-1\" data-close-placement=\"\"><form id=\"bx-form-{bpcid}-step-1\" bx-novalidate=\"true\" method=\"post\" action=\"https:\/\/api.bounceexchange.com\/capture\/submit\" onsubmit=\"return bouncex.submitCampaignStep({bpcid}); return false\" onreset=\"bouncex.close_ad({bpcid}); return false\" tabindex=\"0\" ><input type=\"hidden\" name=\"campaign_id\" value=\"{bpcid}\" \/><div class=\"bx-group bx-group-default bx-group-{bpcid}-xpaneJH bx-group-xpaneJH\" id=\"bx-group-{bpcid}-xpaneJH\"  ><div class=\"bx-row bx-row-image bx-row-image-default  bx-row-H5O7nDP bx-element-{bpcid}-H5O7nDP\" id=\"bx-element-{bpcid}-H5O7nDP\"  ><img src=\"\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png\" alt=\"\"\/><\/div><\/div><div class=\"bx-group bx-group-placeholder bx-group-{bpcid}-RxizB3p bx-group-RxizB3p\" id=\"bx-group-{bpcid}-RxizB3p\"  ><\/div><div class=\"bx-group bx-group-default bx-group-{bpcid}-AFvXBOB bx-group-AFvXBOB\" id=\"bx-group-{bpcid}-AFvXBOB\"  ><div class=\"bx-row bx-row-text bx-row-text-default  bx-row-J0EiS8Y bx-element-{bpcid}-J0EiS8Y\" id=\"bx-element-{bpcid}-J0EiS8Y\"  ><div>Advertisement<\/div><\/div><\/div><\/form><\/div><\/div><\/div><\/div><\/div><button id=\"bx-close-outside-{bpcid}\" class=\"bx-close bx-close-link bx-close-outside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><\/div>",
+            "styles": "\/* effects for .bx-campaign-{bpcid} *\/\/* custom css .bx-campaign-{bpcid} *\/.bx-custom.bx-campaign-{bpcid}.bx-type-agilityzone .bx-close {  z-index: 2;}@-ms-keyframes bx-anim-{bpcid}-spin {         from {             -ms-transform: rotate(0deg);         } to {             -ms-transform: rotate(360deg);         }    }  @-moz-keyframes bx-anim-{bpcid}-spin {       from {           -moz-transform: rotate(0deg);       } to {           -moz-transform: rotate(360deg);       }  }  @-webkit-keyframes bx-anim-{bpcid}-spin {       from {           -webkit-transform: rotate(0deg);       } to {           -webkit-transform: rotate(360deg);       }  }  @keyframes bx-anim-{bpcid}-spin {       from {           transform: rotate(0deg);       } to {           transform: rotate(360deg);       }  }\/* rendered styles .bx-campaign-{bpcid} *\/.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative> *:first-child {padding: 0;width: 1920px;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative:before {min-height: 0;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative {background-color: transparent;border-style: none;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-close {stroke: rgb(179, 179, 179);background-color: ;border-color: ;border-width: 0px;width: 26px;height: 26px;padding: 2px;top: 12px;right: 12px;stroke-width: 2px;stroke-dasharray: none;stroke-dashoffset: 0px;background-position: 50% 50%;background-size: cover;border-radius: 50%;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-xpaneJH {width: 50px;position: absolute;left: 50%;top: 50%;transform: translate(-50%, -50%);}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-H5O7nDP> *:first-child {animation-name: bx-anim-{bpcid}-spin;animation-duration: 800ms;animation-iteration-count: infinite;animation-timing-function: linear;margin-top: -25px;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-RxizB3p {position: relative;z-index: 1;width: 1920px;height: 480px;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-AFvXBOB {padding: 10px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-J0EiS8Y {width: auto;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-J0EiS8Y> *:first-child {padding: 2px 4px;font-size: 10px;color: rgb(255, 255, 255);text-transform: uppercase;background-color: rgb(0, 0, 0);background-color: rgba(0, 0, 0, 0.34);}"
+        },
+        "32991": {
+            "noPostSubmit": 0,
+            "numSteps": 1,
+            "closePlacement": [
+                false
+            ],
+            "html": "<div class=\"bxc bx-base bx-custom bx-active-step-1    bx-campaign-{bpcid}   bx-width-default bx-type-agilityzone  bx-has-close-x-1 \" id=\"bx-campaign-{bpcid}\" style=\"display:none; visibility:hidden;\" aria-hidden=\"true\" ><div id=\"bx-shroud-{bpcid}\" class=\"bx-matte bx-shroud bx-shroud-{bpcid}\"><\/div><div id=\"bx-hover-shroud-{bpcid}\" class=\"bx-hover-shroud bx-hover-shroud-{bpcid}\" style=\"display:none\"><\/div><div class=\"bx-slab\"><div class=\"bx-align\"><div class=\"bx-creative bx-creative-{bpcid}\" id=\"bx-creative-{bpcid}\"><div class=\"bx-wrap\"><button id=\"bx-close-inside-{bpcid}\" class=\"bx-close bx-close-link bx-close-inside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><div class=\"bx-step bx-step-1 bx-active-step bx-step-EuHLhHn bx-step-{bpcid}-1 bx-tail-placement-hidden\" id=\"bx-step-{bpcid}-1\" data-close-placement=\"\"><form id=\"bx-form-{bpcid}-step-1\" bx-novalidate=\"true\" method=\"post\" action=\"https:\/\/api.bounceexchange.com\/capture\/submit\" onsubmit=\"return bouncex.submitCampaignStep({bpcid}); return false\" onreset=\"bouncex.close_ad({bpcid}); return false\" tabindex=\"0\" ><input type=\"hidden\" name=\"campaign_id\" value=\"{bpcid}\" \/><div class=\"bx-group bx-group-default bx-group-{bpcid}-RxizB3p bx-group-RxizB3p\" id=\"bx-group-{bpcid}-RxizB3p\"  ><div class=\"bx-row bx-row-video bx-row-video-default  bx-row-W0X9Dj8 bx-element-{bpcid}-W0X9Dj8\" id=\"bx-element-{bpcid}-W0X9Dj8\"  ><div class=\"bx-video-wrapper bx-video-player-muted bx-video-player-playing\" id=\"bx-video-wrapper-{bpcid}\">    <video id=\"bx-video-player-{bpcid}\" muted oncontextmenu=\"return false;\" data-wknd-autoplay=\"1\"><\/video>    <div class=\"bx-video-controls\" id=\"bx-video-controls-{bpcid}\">        <div class=\"bx-video-progress-wrapper\" id=\"bx-video-progress-wrapper-{bpcid}\">            <span class=\"bx-ally-label\">Time left in video:<\/span>            <span class=\"bx-video-progress-time-left\">0:00<\/span>            <span class=\"bx-ally-label\">left out of<\/span>            \/            <span class=\"bx-video-progress-time-total\"><\/span>        <\/div>        <div class=\"bx-video-btns\" id=\"bx-video-btns-{bpcid}\">            <button class=\"bx-video-btn bx-video-btn-playpause\" id=\"bx-video-btn-playpause-{bpcid}\" onclick=\"bouncex.video.playPausePlayer({bpcid});\">                <span class=\"bx-ally-label\">Play\/Pause Video<\/span>                <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28px\" height=\"28px\" viewBox=\"0 0 72 72\">                    <g class=\"bx-video-btn-shape bx-video-btn-play-shape\">                        <path d=\"M19 12.993v46.012a2 2 0 0 0 3.184 1.612L53.766 37.43a3 3 0 0 0 0-4.837l-29.99-22.018A3 3 0 0 0 19 12.993z\"\/>                    <\/g>                    <g class=\"bx-video-btn-shape bx-video-btn-pause-shape\">                        <path d=\"M22 10h6a3 3 0 0 1 3 3v45a3 3 0 0 1-3 3h-6a3 3 0 0 1-3-3V13a3 3 0 0 1 3-3zm22 0h6a3 3 0 0 1 3 3v45a3 3 0 0 1-3 3h-6a3 3 0 0 1-3-3V13a3 3 0 0 1 3-3z\"\/>                    <\/g>                    <g class=\"bx-video-btn-shape bx-video-btn-replay-shape\">                        <path d=\"M36 15V3L21 18l15 15V21c10 0 18 8 18 18s-8 18-18 18-18-8-18-18H12c0 13.25 10.75 24 24 24s24-10.75 24-24-10.75-24-24-24z\"\/>                    <\/g>                <\/svg>            <\/button>            <button class=\"bx-video-btn bx-video-btn-mute\" id=\"bx-video-btn-mute-{bpcid}\" onclick=\"bouncex.video.toggleMute({bpcid});\">                <span class=\"bx-ally-label\">Mute\/Unmute Video<\/span>                <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28px\" height=\"28px\" viewBox=\"0 0 72 72\">                    <g class=\"bx-video-btn-shape bx-video-btn-unmute-shape\">                        <path d=\"M49.05 44.544l-2.527-2.38a15.62 15.62 0 0 0 1.053-5.664 15.47 15.47 0 0 0-2.86-9.01 1.703 1.703 0 0 1-.444-1.154c0-.93.732-1.683 1.636-1.683.602 0 1.129.335 1.412.834 2.196 3.078 3.495 6.888 3.495 11.013 0 2.883-.634 5.611-1.766 8.044zm7.393 6.965l-2.447-2.305c2.096-3.731 3.297-8.072 3.297-12.704 0-5.77-1.864-11.09-5-15.341a1.703 1.703 0 0 1-.442-1.15c0-.93.733-1.683 1.636-1.683.603 0 1.13.336 1.413.835 3.534 4.81 5.632 10.82 5.632 17.339 0 5.504-1.496 10.646-4.089 15.009zm7.29 6.867l-2.424-2.283C64.91 50.485 67.01 43.747 67.01 36.5c0-8.106-2.626-15.575-7.044-21.537a1.701 1.701 0 0 1-.503-1.214c0-.93.733-1.683 1.636-1.683.578 0 1.087.31 1.378.775l.003-.003c4.87 6.543 7.77 14.75 7.77 23.662 0 8.118-2.406 15.653-6.517 21.876zM19.2 23.981L38 41.691v19.432a2 2 0 0 1-3.311 1.51L19.208 49.197a3 3 0 0 0-1.967-.734H5a3 3 0 0 1-3-3V27.635a3 3 0 0 1 3-3h12.331a3 3 0 0 0 1.87-.654zm4.17-3.628l11.316-9.86A2 2 0 0 1 38 12v22.135L23.37 20.353z\"\/>                        <path d=\"M.893 4.66l69 65a1.25 1.25 0 1 0 1.714-1.82l-69-65A1.25 1.25 0 1 0 .893 4.66z\"\/>                    <\/g>                    <g class=\"bx-video-btn-shape bx-video-btn-mute-shape\">                        <path d=\"M2 27.635v17.827a3 3 0 0 0 3 3h12.241a3 3 0 0 1 1.967.734l15.481 13.438A2 2 0 0 0 38 61.124V12a2 2 0 0 0-3.314-1.508L19.302 23.897a3 3 0 0 1-1.971.738H5a3 3 0 0 0-3 3z\"\/>                        <path d=\"M47.32 47.513c-.283.499-.81.834-1.412.834-.904 0-1.636-.754-1.636-1.683 0-.446.169-.852.445-1.153a15.47 15.47 0 0 0 2.859-9.011 15.47 15.47 0 0 0-2.86-9.01 1.703 1.703 0 0 1-.444-1.154c0-.93.732-1.683 1.636-1.683.602 0 1.129.335 1.412.834 2.196 3.078 3.495 6.888 3.495 11.013s-1.299 7.935-3.495 11.013zM54.9 19.16c3.534 4.81 5.632 10.82 5.632 17.339 0 6.558-2.123 12.6-5.695 17.425-.29.47-.8.782-1.382.782-.904 0-1.636-.753-1.636-1.682 0-.464.182-.883.477-1.188 3.134-4.25 4.997-9.568 4.997-15.337 0-5.77-1.864-11.09-5-15.341a1.703 1.703 0 0 1-.442-1.15c0-.93.733-1.683 1.636-1.683.603 0 1.13.336 1.413.835zM62.52 60.11c-.29.475-.803.791-1.388.791-.903 0-1.635-.753-1.635-1.683 0-.461.18-.88.472-1.183 4.417-5.962 7.042-13.43 7.042-21.534 0-8.106-2.626-15.575-7.044-21.537a1.701 1.701 0 0 1-.503-1.214c0-.93.733-1.683 1.636-1.683.578 0 1.087.31 1.378.775l.003-.003c4.87 6.543 7.77 14.75 7.77 23.662 0 8.888-2.884 17.076-7.731 23.61z\"\/>                    <\/g>                <\/svg>            <\/button>        <\/div>    <\/div><\/div><\/div><\/div><div class=\"bx-group bx-group-default bx-group-{bpcid}-AFvXBOB bx-group-AFvXBOB\" id=\"bx-group-{bpcid}-AFvXBOB\"  ><div class=\"bx-row bx-row-text bx-row-text-default  bx-row-J0EiS8Y bx-element-{bpcid}-J0EiS8Y\" id=\"bx-element-{bpcid}-J0EiS8Y\"  ><div>Advertisement<\/div><\/div><\/div><\/form><\/div><\/div><\/div><\/div><\/div><button id=\"bx-close-outside-{bpcid}\" class=\"bx-close bx-close-link bx-close-outside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><\/div>",
+            "styles": "\/* effects for .bx-campaign-{bpcid} *\/\/* custom css .bx-campaign-{bpcid} *\/.bx-custom.bx-campaign-{bpcid}.bx-type-agilityzone .bx-close {  z-index: 2;}   \/* KD - Remove padding from video wrapper and set height to 100% *\/.bx-custom.bx-campaign-{bpcid} .bx-row-video .bx-video-wrapper {    padding-top: 0!important;    height: 100%;    min-width: 500px;    max-height: 500px;}.bx-custom#bx-campaign-{bpcid} #bx-creative-{bpcid} .bx-wrap {    height: auto;}\/* KD - Change positioning to static as that was not necesaary and here you can adjust the height of the video element *\/.bx-custom.bx-campaign-{bpcid} .bx-row-video .bx-video-wrapper video {    position: static;    height: auto!important;    min-width: 500px;    max-height: 500px;}\/* rendered styles .bx-campaign-{bpcid} *\/.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative> *:first-child {width: 100%;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative {background-color: transparent;border-style: none;max-width: 504px;min-width: 400px;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-close {stroke: white;background-color: black;border-style: solid;border-color: white;border-width: 1px;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-AFvXBOB {padding: 10px;display: block;width: 100%;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-J0EiS8Y {width: auto;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-J0EiS8Y> *:first-child {padding: 2px 4px;font-size: 10px;color: rgb(255, 255, 255);text-transform: uppercase;background-color: rgb(0, 0, 0);background-color: rgba(0, 0, 0, 0.34);}"
+        },
+        "72927": {
+            "images": [
+                "assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png"
+            ],
+            "noPostSubmit": 0,
+            "numSteps": 1,
+            "closePlacement": [
+                false
+            ],
+            "html": "<div class=\"bxc bx-base bx-custom bx-active-step-1    bx-campaign-{bpcid}   bx-width-default bx-type-agilityzone  bx-has-close-x-1 \" id=\"bx-campaign-{bpcid}\" style=\"display:none; visibility:hidden;\" aria-hidden=\"true\" ><div id=\"bx-shroud-{bpcid}\" class=\"bx-matte bx-shroud bx-shroud-{bpcid}\"><\/div><div id=\"bx-hover-shroud-{bpcid}\" class=\"bx-hover-shroud bx-hover-shroud-{bpcid}\" style=\"display:none\"><\/div><div class=\"bx-slab\"><div class=\"bx-align\"><div class=\"bx-creative bx-creative-{bpcid}\" id=\"bx-creative-{bpcid}\"><div class=\"bx-wrap\"><button id=\"bx-close-inside-{bpcid}\" class=\"bx-close bx-close-link bx-close-inside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><div class=\"bx-step bx-step-1 bx-active-step bx-step-zJ1EY1p bx-step-{bpcid}-1 bx-tail-placement-hidden\" id=\"bx-step-{bpcid}-1\" data-close-placement=\"\"><form id=\"bx-form-{bpcid}-step-1\" bx-novalidate=\"true\" method=\"post\" action=\"https:\/\/api.bounceexchange.com\/capture\/submit\" onsubmit=\"return bouncex.submitCampaignStep({bpcid}); return false\" onreset=\"bouncex.close_ad({bpcid}); return false\" tabindex=\"0\" ><input type=\"hidden\" name=\"campaign_id\" value=\"{bpcid}\" \/><div class=\"bx-group bx-group-default bx-group-{bpcid}-c2xjCcc bx-group-c2xjCcc\" id=\"bx-group-{bpcid}-c2xjCcc\"  ><div class=\"bx-row bx-row-image bx-row-image-default  bx-row-ilFfPJO bx-element-{bpcid}-ilFfPJO\" id=\"bx-element-{bpcid}-ilFfPJO\"  ><img src=\"\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png\" alt=\"\"\/><\/div><\/div><div class=\"bx-group bx-group-placeholder bx-group-{bpcid}-KTu8jl8 bx-group-KTu8jl8\" id=\"bx-group-{bpcid}-KTu8jl8\"  ><\/div><div class=\"bx-group bx-group-default bx-group-{bpcid}-GsFTuN1 bx-group-GsFTuN1\" id=\"bx-group-{bpcid}-GsFTuN1\"  ><div class=\"bx-row bx-row-text bx-row-text-default  bx-row-KvelZsY bx-element-{bpcid}-KvelZsY\" id=\"bx-element-{bpcid}-KvelZsY\"  ><div>Advertisement<\/div><\/div><\/div><\/form><\/div><\/div><\/div><\/div><\/div><button id=\"bx-close-outside-{bpcid}\" class=\"bx-close bx-close-link bx-close-outside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><\/div>",
+            "styles": "\/* effects for .bx-campaign-{bpcid} *\/\/* custom css .bx-campaign-{bpcid} *\/.bx-custom.bx-campaign-{bpcid}.bx-type-agilityzone .bx-close {  z-index: 2;}@-ms-keyframes bx-anim-{bpcid}-spin {         from {             -ms-transform: rotate(0deg);         } to {             -ms-transform: rotate(360deg);         }    }  @-moz-keyframes bx-anim-{bpcid}-spin {       from {           -moz-transform: rotate(0deg);       } to {           -moz-transform: rotate(360deg);       }  }  @-webkit-keyframes bx-anim-{bpcid}-spin {       from {           -webkit-transform: rotate(0deg);       } to {           -webkit-transform: rotate(360deg);       }  }  @keyframes bx-anim-{bpcid}-spin {       from {           transform: rotate(0deg);       } to {           transform: rotate(360deg);       }  }  .bx-custom.bx-campaign-{bpcid} #bx-close-inside-{bpcid} {  visibility: inherit !important;}\/* rendered styles .bx-campaign-{bpcid} *\/.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative> *:first-child {width: 970px;padding: 0;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative:before {min-height: 0;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative {background-color: transparent;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-close {stroke: rgb(255, 255, 255);width: 25 px;height: 25 px;stroke-width: 2px;background-color: rgb(60, 60, 60);background-color: rgba(60, 60, 60, 0.5);border-style: solid;border-color: white;border-width: 2px;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-c2xjCcc {left: 50%;top: 50%;transform: translate(-50%, -50%);position: absolute;z-index: -1;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-ilFfPJO {width: 55px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-ilFfPJO> *:first-child {animation-name: bx-anim-{bpcid}-spin;animation-duration: 800ms;animation-iteration-count: infinite;animation-timing-function: linear;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-KTu8jl8 {width: 970px;height: 250px;z-index: 2;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-GsFTuN1 {padding: 10px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-KvelZsY {width: auto;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-KvelZsY> *:first-child {padding: 2px 4px;font-size: 10px;color: rgb(255, 255, 255);text-transform: uppercase;background-color: rgb(0, 0, 0);background-color: rgba(0, 0, 0, 0.34);}"
+        },
+        "82630": {
+            "images": [
+                "assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png"
+            ],
+            "noPostSubmit": 0,
+            "numSteps": 1,
+            "closePlacement": [
+                false
+            ],
+            "html": "<div class=\"bxc bx-base bx-custom bx-active-step-1    bx-campaign-{bpcid}   bx-width-default bx-type-agilityzone  bx-has-close-x-1 \" id=\"bx-campaign-{bpcid}\" style=\"display:none; visibility:hidden;\" aria-hidden=\"true\" ><div id=\"bx-shroud-{bpcid}\" class=\"bx-matte bx-shroud bx-shroud-{bpcid}\"><\/div><div id=\"bx-hover-shroud-{bpcid}\" class=\"bx-hover-shroud bx-hover-shroud-{bpcid}\" style=\"display:none\"><\/div><div class=\"bx-slab\"><div class=\"bx-align\"><div class=\"bx-creative bx-creative-{bpcid}\" id=\"bx-creative-{bpcid}\"><div class=\"bx-wrap\"><button id=\"bx-close-inside-{bpcid}\" class=\"bx-close bx-close-link bx-close-inside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><div class=\"bx-step bx-step-1 bx-active-step bx-step-O5QSDQ6 bx-step-{bpcid}-1 bx-tail-placement-hidden\" id=\"bx-step-{bpcid}-1\" data-close-placement=\"\"><form id=\"bx-form-{bpcid}-step-1\" bx-novalidate=\"true\" method=\"post\" action=\"https:\/\/api.bounceexchange.com\/capture\/submit\" onsubmit=\"return bouncex.submitCampaignStep({bpcid}); return false\" onreset=\"bouncex.close_ad({bpcid}); return false\" tabindex=\"0\" ><input type=\"hidden\" name=\"campaign_id\" value=\"{bpcid}\" \/><div class=\"bx-group bx-group-default bx-group-{bpcid}-rYv8Qti bx-group-rYv8Qti\" id=\"bx-group-{bpcid}-rYv8Qti\"  ><div class=\"bx-row bx-row-image bx-row-image-default  bx-row-hZIlQjG bx-element-{bpcid}-hZIlQjG\" id=\"bx-element-{bpcid}-hZIlQjG\"  ><img src=\"\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png\" alt=\"\"\/><\/div><\/div><div class=\"bx-group bx-group-placeholder bx-group-{bpcid}-YpzzupB bx-group-YpzzupB\" id=\"bx-group-{bpcid}-YpzzupB\"  ><\/div><div class=\"bx-group bx-group-default bx-group-{bpcid}-zyI9Vvr bx-group-zyI9Vvr\" id=\"bx-group-{bpcid}-zyI9Vvr\"  ><div class=\"bx-row bx-row-text bx-row-text-default  bx-row-r4PLUT7 bx-element-{bpcid}-r4PLUT7\" id=\"bx-element-{bpcid}-r4PLUT7\"  ><div>Advertisement<\/div><\/div><\/div><\/form><\/div><\/div><\/div><\/div><\/div><button id=\"bx-close-outside-{bpcid}\" class=\"bx-close bx-close-link bx-close-outside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><\/div>",
+            "styles": "\/* effects for .bx-campaign-{bpcid} *\/\/* custom css .bx-campaign-{bpcid} *\/@-webkit-keyframes bx-anim-{bpcid}-spin {   from { -webkit-transform: rotate(0deg); }   to { -webkit-transform: rotate(360deg); }}@keyframes bx-anim-{bpcid}-spin {   from { transform: rotate(0deg); }   to { transform: rotate(360deg); }}\/* rendered styles .bx-campaign-{bpcid} *\/.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative> *:first-child {padding: 0;width: 100%;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative:before {min-height: 0;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative {background-color: transparent;border-style: none;max-width: 728px;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-close {stroke: white;background-color: black;border-style: solid;border-color: white;border-width: 1px;box-shadow: 0px 0px 0px 3px black;top: -10px;z-index: 2;left: 10px;}@media all {.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-close {width: 22px;height: 22px;}}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-rYv8Qti {width: 40px;position: absolute;left: 50%;top: 50%;transform: translate(-50%, -50%);}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-hZIlQjG> *:first-child {animation-name: bx-anim-{bpcid}-spin;animation-duration: 800ms;animation-iteration-count: infinite;animation-timing-function: linear;margin-top: -25px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-hZIlQjG {width: auto;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-YpzzupB {position: relative;z-index: 1;width: 728px;height: 90px;padding: 0px;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-zyI9Vvr {padding: 10px;width: 100%;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-r4PLUT7 {width: auto;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-r4PLUT7> *:first-child {padding: 2px 4px;font-size: 10px;color: rgb(255, 255, 255);text-transform: uppercase;background-color: rgb(0, 0, 0);background-color: rgba(0, 0, 0, 0.34);}"
+        },
+        "32994": {
+            "images": [
+                "assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png"
+            ],
+            "noPostSubmit": 0,
+            "numSteps": 1,
+            "closePlacement": [
+                false
+            ],
+            "html": "<div class=\"bxc bx-base bx-custom bx-active-step-1    bx-campaign-{bpcid}   bx-width-default bx-type-agilityzone  bx-has-close-x-1 \" id=\"bx-campaign-{bpcid}\" style=\"display:none; visibility:hidden;\" aria-hidden=\"true\" ><div id=\"bx-shroud-{bpcid}\" class=\"bx-matte bx-shroud bx-shroud-{bpcid}\"><\/div><div id=\"bx-hover-shroud-{bpcid}\" class=\"bx-hover-shroud bx-hover-shroud-{bpcid}\" style=\"display:none\"><\/div><div class=\"bx-slab\"><div class=\"bx-align\"><div class=\"bx-creative bx-creative-{bpcid}\" id=\"bx-creative-{bpcid}\"><div class=\"bx-wrap\"><button id=\"bx-close-inside-{bpcid}\" class=\"bx-close bx-close-link bx-close-inside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><div class=\"bx-step bx-step-1 bx-active-step bx-step-lnrlbzH bx-step-{bpcid}-1 bx-tail-placement-hidden\" id=\"bx-step-{bpcid}-1\" data-close-placement=\"\"><form id=\"bx-form-{bpcid}-step-1\" bx-novalidate=\"true\" method=\"post\" action=\"https:\/\/api.bounceexchange.com\/capture\/submit\" onsubmit=\"return bouncex.submitCampaignStep({bpcid}); return false\" onreset=\"bouncex.close_ad({bpcid}); return false\" tabindex=\"0\" ><input type=\"hidden\" name=\"campaign_id\" value=\"{bpcid}\" \/><div class=\"bx-group bx-group-default bx-group-{bpcid}-3RBnJGC bx-group-3RBnJGC\" id=\"bx-group-{bpcid}-3RBnJGC\"  ><div class=\"bx-row bx-row-image bx-row-image-default  bx-row-wryzWV5 bx-element-{bpcid}-wryzWV5\" id=\"bx-element-{bpcid}-wryzWV5\"  ><img src=\"\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png\" alt=\"\"\/><\/div><\/div><div class=\"bx-group bx-group-placeholder bx-group-{bpcid}-lyDBLV9 bx-group-lyDBLV9\" id=\"bx-group-{bpcid}-lyDBLV9\"  ><\/div><div class=\"bx-group bx-group-custom bx-group-{bpcid}-me4p1bl bx-group-me4p1bl\" id=\"bx-group-{bpcid}-me4p1bl\"  ><div class=\"bx-row bx-row-text bx-row-text-default  bx-row-ZdLO37u bx-element-{bpcid}-ZdLO37u\" id=\"bx-element-{bpcid}-ZdLO37u\"  ><div>Advertisement<\/div><\/div><\/div><\/form><\/div><\/div><\/div><\/div><\/div><button id=\"bx-close-outside-{bpcid}\" class=\"bx-close bx-close-link bx-close-outside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><\/div>",
+            "styles": "\/* effects for .bx-campaign-{bpcid} *\/\/* custom css .bx-campaign-{bpcid} *\/@-ms-keyframes bx-anim-{bpcid}-spin {         from {             -ms-transform: rotate(0deg);         } to {             -ms-transform: rotate(360deg);         }    }  @-moz-keyframes bx-anim-{bpcid}-spin {       from {           -moz-transform: rotate(0deg);       } to {           -moz-transform: rotate(360deg);       }  }  @-webkit-keyframes bx-anim-{bpcid}-spin {       from {           -webkit-transform: rotate(0deg);       } to {           -webkit-transform: rotate(360deg);       }  }  @keyframes bx-anim-{bpcid}-spin {       from {           transform: rotate(0deg);       } to {           transform: rotate(360deg);       }  }   \/* rendered styles .bx-campaign-{bpcid} *\/.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative> *:first-child {padding: 0;width: auto;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative {background-color: transparent;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-close {stroke: transparent;background-color: transparent;border-style: none;border-color: white;border-width: 1px;box-shadow: 0px 0px 0px 3px black;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-3RBnJGC {position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);z-index: -1;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-wryzWV5 {width: 55px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-wryzWV5> *:first-child {animation-name: bx-anim-{bpcid}-spin;animation-duration: 800ms;animation-iteration-count: infinite;animation-timing-function: linear;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-lyDBLV9 {width: 900px;height: 550px;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-me4p1bl {padding: 10px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-ZdLO37u {width: auto;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-ZdLO37u> *:first-child {padding: 2px 4px;font-size: 10px;color: rgb(255, 255, 255);text-transform: uppercase;background-color: rgb(0, 0, 0);background-color: rgba(0, 0, 0, 0.34);}"
+        },
+        "50429": {
+            "images": [
+                "assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png"
+            ],
+            "noPostSubmit": 0,
+            "numSteps": 1,
+            "closePlacement": [
+                false
+            ],
+            "html": "<div class=\"bxc bx-base bx-custom bx-active-step-1    bx-campaign-{bpcid}   bx-width-default bx-type-agilityzone  bx-has-close-x-1 \" id=\"bx-campaign-{bpcid}\" style=\"display:none; visibility:hidden;\" aria-hidden=\"true\" ><div id=\"bx-shroud-{bpcid}\" class=\"bx-matte bx-shroud bx-shroud-{bpcid}\"><\/div><div id=\"bx-hover-shroud-{bpcid}\" class=\"bx-hover-shroud bx-hover-shroud-{bpcid}\" style=\"display:none\"><\/div><div class=\"bx-slab\"><div class=\"bx-align\"><div class=\"bx-creative bx-creative-{bpcid}\" id=\"bx-creative-{bpcid}\"><div class=\"bx-wrap\"><button id=\"bx-close-inside-{bpcid}\" class=\"bx-close bx-close-link bx-close-inside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><div class=\"bx-step bx-step-1 bx-active-step bx-step-lnrlbzH bx-step-{bpcid}-1 bx-tail-placement-hidden\" id=\"bx-step-{bpcid}-1\" data-close-placement=\"\"><form id=\"bx-form-{bpcid}-step-1\" bx-novalidate=\"true\" method=\"post\" action=\"https:\/\/api.bounceexchange.com\/capture\/submit\" onsubmit=\"return bouncex.submitCampaignStep({bpcid}); return false\" onreset=\"bouncex.close_ad({bpcid}); return false\" tabindex=\"0\" ><input type=\"hidden\" name=\"campaign_id\" value=\"{bpcid}\" \/><div class=\"bx-group bx-group-default bx-group-{bpcid}-3RBnJGC bx-group-3RBnJGC\" id=\"bx-group-{bpcid}-3RBnJGC\"  ><div class=\"bx-row bx-row-image bx-row-image-default  bx-row-wryzWV5 bx-element-{bpcid}-wryzWV5\" id=\"bx-element-{bpcid}-wryzWV5\"  ><img src=\"\/\/assets.bounceexchange.com\/assets\/uploads\/clients\/1682\/ads\/e0dd2acd3574679864cd76965aa5dce2.png\" alt=\"\"\/><\/div><\/div><div class=\"bx-group bx-group-placeholder bx-group-{bpcid}-lyDBLV9 bx-group-lyDBLV9\" id=\"bx-group-{bpcid}-lyDBLV9\"  ><\/div><div class=\"bx-group bx-group-custom bx-group-{bpcid}-me4p1bl bx-group-me4p1bl\" id=\"bx-group-{bpcid}-me4p1bl\"  ><div class=\"bx-row bx-row-text bx-row-text-default  bx-row-ZdLO37u bx-element-{bpcid}-ZdLO37u\" id=\"bx-element-{bpcid}-ZdLO37u\"  ><div>Advertisement<\/div><\/div><\/div><\/form><\/div><\/div><\/div><\/div><\/div><button id=\"bx-close-outside-{bpcid}\" class=\"bx-close bx-close-link bx-close-outside\" data-click=\"close\"><svg class=\"bx-close-xsvg\" viewBox=\"240 240 20 20\" aria-hidden=\"true\"><g class=\"bx-close-xstroke bx-close-x-adaptive\"><path class=\"bx-close-x-adaptive-1\" d=\"M255.6 255.6l-11.2-11.2\" vector-effect=\"non-scaling-stroke\"\/><path class=\"bx-close-x-adaptive-2\" d=\"M255.6 244.4l-11.2 11.2\" vector-effect=\"non-scaling-stroke\"\/><\/g><\/svg><span class=\"bx-ally-label\">close dialog<\/span><\/button><\/div>",
+            "styles": "\/* effects for .bx-campaign-{bpcid} *\/\/* custom css .bx-campaign-{bpcid} *\/@-ms-keyframes bx-anim-{bpcid}-spin {         from {             -ms-transform: rotate(0deg);         } to {             -ms-transform: rotate(360deg);         }    }  @-moz-keyframes bx-anim-{bpcid}-spin {       from {           -moz-transform: rotate(0deg);       } to {           -moz-transform: rotate(360deg);       }  }  @-webkit-keyframes bx-anim-{bpcid}-spin {       from {           -webkit-transform: rotate(0deg);       } to {           -webkit-transform: rotate(360deg);       }  }  @keyframes bx-anim-{bpcid}-spin {       from {           transform: rotate(0deg);       } to {           transform: rotate(360deg);       }  }   \/* rendered styles .bx-campaign-{bpcid} *\/.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative> *:first-child {padding: 0;width: auto;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-creative {background-color: transparent;}.bxc.bx-campaign-{bpcid}.bx-active-step-1 .bx-close {stroke: transparent;background-color: transparent;border-style: none;border-color: white;border-width: 1px;box-shadow: 0px 0px 0px 3px black;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-3RBnJGC {position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);z-index: -1;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-wryzWV5 {width: 55px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-wryzWV5> *:first-child {animation-name: bx-anim-{bpcid}-spin;animation-duration: 800ms;animation-iteration-count: infinite;animation-timing-function: linear;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-lyDBLV9 {width: 900px;height: 600px;}.bxc.bx-campaign-{bpcid} .bx-group-{bpcid}-me4p1bl {padding: 10px;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-ZdLO37u {width: auto;}.bxc.bx-campaign-{bpcid} .bx-element-{bpcid}-ZdLO37u> *:first-child {padding: 2px 4px;font-size: 10px;color: rgb(255, 255, 255);text-transform: uppercase;background-color: rgb(0, 0, 0);background-color: rgba(0, 0, 0, 0.34);}"
+        }
+    },
+    "campaigns": {
+        "1863406": {
+            "ad_shown": false,
+            "pid": "1863405",
+            "pname": "ADS | Salon | Snopes.com | Overlay",
+            "purpose": "Programmatic Ads",
+            "purpose_code": "programmatic",
+            "sub_purpose": "Overlay",
+            "sub_purpose_code": "ads-overlay",
+            "name": "ADS | Salon | Snopes.com | Overlay",
+            "activations": [
+                {
+                    "activation": "bounce",
+                    "devicetype": "all",
+                    "adformat": "display"
+                },
+                {
+                    "activation": "iosbounce",
+                    "devicetype": "all",
+                    "adformat": "display"
+                }
+            ],
+            "overlay": "none",
+            "compliance": {
+                "gdpr": 0,
+                "gmp": 0,
+                "casl": 0
+            },
+            "coverlay": "none",
+            "ctop": "none",
+            "cbottom": "none",
+            "bottom": "none",
+            "callout": "none",
+            "callout_t": "",
+            "callout_pt": "",
+            "callout_pos": "lb",
+            "header_bottom_alignment": "center",
+            "callout_anchor_pos": "lm",
+            "blur_gate_enabled": 0,
+            "blur_gate_inclusions": "",
+            "blur_gate_exclusions": "",
+            "dom_placement_method": "",
+            "callout_voffset": "0",
+            "callout_hoffset": "0",
+            "acas": 0,
+            "top": "none",
+            "overlay_teleport_html": "",
+            "overlay_teleport_type": "_blank",
+            "opacity": 0.90000000000000002,
+            "color": "#000000",
+            "close_button_delay": 0,
+            "custom_tab_title": null,
+            "show_close": 1,
+            "show_close_step": 0,
+            "close_redirect_url": null,
+            "close_redirect_type": "_self",
+            "activation_delay": 5,
+            "closed_no_show": 0,
+            "purchase_no_show": 0,
+            "ipc": 0,
+            "mas": 1,
+            "mao": 0,
+            "map": 1,
+            "iao": "0",
+            "rao": "0",
+            "tvao": "0",
+            "ignore_activation_offset_page": "no_landing",
+            "right_activation_offset_page": "no_landing",
+            "top_vertical_activation_offset_page": "no_landing",
+            "is_ec": false,
+            "is_api": false,
+            "osr_params_json": null,
+            "is_man": 0,
+            "ad_auto_close": 0,
+            "activation_offset": 0,
+            "header_top_nano": 0,
+            "header_bottom_nano": 0,
+            "shroud_on_hover": 0,
+            "type": "overlay",
+            "ttype": "variation",
+            "hbna": "anypage",
+            "hbnbg": "0",
+            "htna": "none",
+            "htnbg": "1",
+            "ad_visible": false,
+            "osfn": null,
+            "tes": "1",
+            "te": "no_effect",
+            "te2": "no_effect",
+            "t_valign": "top",
+            "b_valign": "bottom",
+            "qbxtest": false,
+            "submission_redirect": null,
+            "submission_redirect_delay": 0,
+            "osfn_website": null,
+            "supress_overlay": 0,
+            "repress_overlay": 0,
+            "supress_top": 0,
+            "repress_top": 0,
+            "supress_bottom": 0,
+            "repress_bottom": 0,
+            "ng": 1,
+            "images": [],
+            "edw": 0,
+            "event_js": [],
+            "ga_i": [],
+            "is_bpush": false,
+            "z_index": null,
+            "push_optin_json": null,
+            "trigger_offsite_json": null,
+            "suppress_element": "",
+            "dynamic_anchor": 0,
+            "new_session": true,
+            "noCreative": true,
+            "gbi": {
+                "placements": {
+                    "11781": {
+                        "id": "11781",
+                        "mediaType": "display",
+                        "providers": [
+                            "index",
+                            "pbm",
+                            "criteo"
+                        ],
+                        "priceFloor": "1.5000",
+                        "deviceType": "desktop",
+                        "creativeId": "45278",
+                        "adUnitId": "47",
+                        "enabled": true,
+                        "deployment": "overlay",
+                        "width": "720",
+                        "height": "480"
+                    },
+                    "11783": {
+                        "id": "11783",
+                        "mediaType": "video",
+                        "providers": [
+                            "index",
+                            "pbm",
+                            "criteo",
+                            "magnite"
+                        ],
+                        "priceFloor": "1.5000",
+                        "deviceType": "desktop",
+                        "creativeId": "38949",
+                        "adUnitId": "50",
+                        "enabled": true,
+                        "deployment": "overlay",
+                        "width": "880",
+                        "height": "495"
+                    },
+                    "11790": {
+                        "id": "11790",
+                        "mediaType": "display",
+                        "providers": [
+                            "index",
+                            "pbm",
+                            "criteo",
+                            "magnite"
+                        ],
+                        "priceFloor": "1.5000",
+                        "deviceType": "desktop",
+                        "creativeId": "58384",
+                        "adUnitId": "63",
+                        "enabled": true,
+                        "deployment": "overlay",
+                        "width": "900",
+                        "height": "600"
+                    }
+                }
+            },
+            "control": false,
+            "html": "",
+            "styles": ""
+        },
+        "1863408": {
+            "ad_shown": false,
+            "pid": "1863407",
+            "pname": "ADS | Salon | Snopes.com | Masthead",
+            "purpose": "Programmatic Ads",
+            "purpose_code": "programmatic",
+            "sub_purpose": "Masthead",
+            "sub_purpose_code": "ads-masthead",
+            "name": "Salon | Snopes.com | Masthead",
+            "activations": [
+                {
+                    "activation": "waypoint",
+                    "devicetype": "all",
+                    "adformat": "all",
+                    "prop3": 1,
+                    "prop5": 1,
+                    "val": "main"
+                }
+            ],
+            "overlay": "none",
+            "compliance": {
+                "gdpr": 0,
+                "gmp": 0,
+                "casl": 0
+            },
+            "coverlay": "none",
+            "ctop": "none",
+            "cbottom": "none",
+            "bottom": "none",
+            "callout": "none",
+            "callout_t": "{masthead}",
+            "callout_pt": "",
+            "callout_pos": "lb",
+            "header_bottom_alignment": "center",
+            "callout_anchor_pos": "lm",
+            "blur_gate_enabled": 0,
+            "blur_gate_inclusions": "",
+            "blur_gate_exclusions": "",
+            "dom_placement_method": "after",
+            "callout_voffset": "0",
+            "callout_hoffset": "0",
+            "acas": 0,
+            "top": "none",
+            "overlay_teleport_html": "",
+            "overlay_teleport_type": "_blank",
+            "opacity": 0.90000000000000002,
+            "color": "#000000",
+            "close_button_delay": 0,
+            "custom_tab_title": null,
+            "show_close": 1,
+            "show_close_step": 0,
+            "close_redirect_url": null,
+            "close_redirect_type": "_self",
+            "activation_delay": 5,
+            "closed_no_show": 0,
+            "purchase_no_show": 0,
+            "ipc": 0,
+            "mas": 0,
+            "mao": 0,
+            "map": 1,
+            "iao": "0",
+            "rao": "0",
+            "tvao": "0",
+            "ignore_activation_offset_page": "no_landing",
+            "right_activation_offset_page": "no_landing",
+            "top_vertical_activation_offset_page": "no_landing",
+            "is_ec": false,
+            "is_api": false,
+            "osr_params_json": null,
+            "is_man": 0,
+            "ad_auto_close": 0,
+            "activation_offset": 0,
+            "header_top_nano": 0,
+            "header_bottom_nano": 0,
+            "shroud_on_hover": 0,
+            "type": "agilityzone",
+            "ttype": "variation",
+            "hbna": "anypage",
+            "hbnbg": "0",
+            "htna": "none",
+            "htnbg": "1",
+            "ad_visible": false,
+            "osfn": null,
+            "tes": "1",
+            "te": "no_effect",
+            "te2": "no_effect",
+            "t_valign": "top",
+            "b_valign": "bottom",
+            "qbxtest": false,
+            "submission_redirect": null,
+            "submission_redirect_delay": 0,
+            "osfn_website": null,
+            "supress_overlay": 0,
+            "repress_overlay": 0,
+            "supress_top": 0,
+            "repress_top": 0,
+            "supress_bottom": 0,
+            "repress_bottom": 0,
+            "ng": 1,
+            "images": [],
+            "edw": 0,
+            "event_js": [],
+            "ga_i": [],
+            "is_bpush": false,
+            "z_index": null,
+            "push_optin_json": null,
+            "trigger_offsite_json": null,
+            "suppress_element": "",
+            "dynamic_anchor": 0,
+            "new_session": true,
+            "noCreative": true,
+            "gbi": {
+                "placements": {
+                    "11775": {
+                        "id": "11775",
+                        "mediaType": "display",
+                        "providers": [
+                            "index",
+                            "pbm",
+                            "magnite"
+                        ],
+                        "priceFloor": "1.5000",
+                        "deviceType": "desktop",
+                        "creativeId": "32989",
+                        "adUnitId": "7",
+                        "enabled": true,
+                        "deployment": "masthead",
+                        "width": "1920",
+                        "height": "480"
+                    },
+                    "11787": {
+                        "id": "11787",
+                        "mediaType": "video",
+                        "providers": [
+                            "index",
+                            "pbm",
+                            "criteo",
+                            "magnite"
+                        ],
+                        "priceFloor": "1.5000",
+                        "deviceType": "desktop",
+                        "creativeId": "32991",
+                        "adUnitId": "58",
+                        "enabled": true,
+                        "deployment": "masthead",
+                        "width": "880",
+                        "height": "495"
+                    },
+                    "17117": {
+                        "id": "17117",
+                        "mediaType": "display",
+                        "providers": [
+                            "index",
+                            "pbm",
+                            "criteo",
+                            "magnite"
+                        ],
+                        "priceFloor": "1.0000",
+                        "deviceType": "desktop",
+                        "creativeId": "72927",
+                        "adUnitId": "26",
+                        "enabled": true,
+                        "deployment": "masthead",
+                        "width": "970",
+                        "height": "250"
+                    },
+                    "26630": {
+                        "id": "26630",
+                        "mediaType": "display",
+                        "providers": [
+                            "index",
+                            "pbm",
+                            "criteo",
+                            "magnite"
+                        ],
+                        "priceFloor": "1.5000",
+                        "deviceType": "desktop",
+                        "creativeId": "82630",
+                        "adUnitId": "164",
+                        "enabled": true,
+                        "deployment": "masthead",
+                        "width": "728",
+                        "height": "90"
+                    }
+                }
+            },
+            "control": false,
+            "html": "",
+            "styles": ""
+        },
+        "1863410": {
+            "ad_shown": false,
+            "pid": "1863409",
+            "pname": "ADS | Salon | Snopes.com | In-Feed",
+            "purpose": "Programmatic Ads",
+            "purpose_code": "programmatic",
+            "sub_purpose": "In-Feed",
+            "sub_purpose_code": "ads-infeed",
+            "name": "ADS | Salon | Snopes.com | In-Feed",
+            "activations": [
+                {
+                    "activation": "bounce",
+                    "devicetype": "all",
+                    "adformat": "all"
+                },
+                {
+                    "activation": "iosbounce",
+                    "devicetype": "all",
+                    "adformat": "all"
+                },
+                {
+                    "activation": "inactivity",
+                    "devicetype": "all",
+                    "adformat": "all",
+                    "val": "30"
+                },
+                {
+                    "activation": "tab_focus",
+                    "devicetype": "all",
+                    "adformat": "all",
+                    "prop3": "no"
+                }
+            ],
+            "overlay": "none",
+            "compliance": {
+                "gdpr": 0,
+                "gmp": 0,
+                "casl": 0
+            },
+            "coverlay": "none",
+            "ctop": "none",
+            "cbottom": "none",
+            "bottom": "none",
+            "callout": "none",
+            "callout_t": "{infeed}",
+            "callout_pt": "",
+            "callout_pos": "lb",
+            "header_bottom_alignment": "center",
+            "callout_anchor_pos": "lm",
+            "blur_gate_enabled": 0,
+            "blur_gate_inclusions": "",
+            "blur_gate_exclusions": "",
+            "dom_placement_method": "before",
+            "callout_voffset": "0",
+            "callout_hoffset": "0",
+            "acas": 0,
+            "top": "none",
+            "overlay_teleport_html": "",
+            "overlay_teleport_type": "_blank",
+            "opacity": 0.90000000000000002,
+            "color": "#000000",
+            "close_button_delay": 0,
+            "custom_tab_title": null,
+            "show_close": 1,
+            "show_close_step": 0,
+            "close_redirect_url": null,
+            "close_redirect_type": "_self",
+            "activation_delay": 5,
+            "closed_no_show": 0,
+            "purchase_no_show": 0,
+            "ipc": 0,
+            "mas": 0,
+            "mao": 0,
+            "map": 1,
+            "iao": "0",
+            "rao": "0",
+            "tvao": "0",
+            "ignore_activation_offset_page": "no_landing",
+            "right_activation_offset_page": "no_landing",
+            "top_vertical_activation_offset_page": "no_landing",
+            "is_ec": false,
+            "is_api": false,
+            "osr_params_json": null,
+            "is_man": 0,
+            "ad_auto_close": 0,
+            "activation_offset": 0,
+            "header_top_nano": 0,
+            "header_bottom_nano": 0,
+            "shroud_on_hover": 0,
+            "type": "agilityzone",
+            "ttype": "variation",
+            "hbna": "anypage",
+            "hbnbg": "0",
+            "htna": "none",
+            "htnbg": "1",
+            "ad_visible": false,
+            "osfn": null,
+            "tes": "1",
+            "te": "no_effect",
+            "te2": "no_effect",
+            "t_valign": "top",
+            "b_valign": "bottom",
+            "qbxtest": false,
+            "submission_redirect": null,
+            "submission_redirect_delay": 0,
+            "osfn_website": null,
+            "supress_overlay": 0,
+            "repress_overlay": 0,
+            "supress_top": 0,
+            "repress_top": 0,
+            "supress_bottom": 0,
+            "repress_bottom": 0,
+            "ng": 1,
+            "images": [],
+            "edw": 0,
+            "event_js": [],
+            "ga_i": [],
+            "is_bpush": false,
+            "z_index": null,
+            "push_optin_json": null,
+            "trigger_offsite_json": null,
+            "suppress_element": "",
+            "dynamic_anchor": 1,
+            "new_session": true,
+            "noCreative": true,
+            "gbi": {
+                "placements": {
+                    "11779": {
+                        "id": "11779",
+                        "mediaType": "display",
+                        "providers": [
+                            "index",
+                            "pbm",
+                            "criteo"
+                        ],
+                        "priceFloor": "1.5000",
+                        "deviceType": "desktop",
+                        "creativeId": "32994",
+                        "adUnitId": "42",
+                        "enabled": true,
+                        "deployment": "infeed",
+                        "width": "900",
+                        "height": "550"
+                    },
+                    "11784": {
+                        "id": "11784",
+                        "mediaType": "video",
+                        "providers": [
+                            "index",
+                            "pbm",
+                            "criteo",
+                            "magnite"
+                        ],
+                        "priceFloor": "1.5000",
+                        "deviceType": "desktop",
+                        "creativeId": "32991",
+                        "adUnitId": "51",
+                        "enabled": true,
+                        "deployment": "infeed",
+                        "width": "880",
+                        "height": "495"
+                    },
+                    "11791": {
+                        "id": "11791",
+                        "mediaType": "display",
+                        "providers": [
+                            "index",
+                            "pbm",
+                            "criteo",
+                            "magnite"
+                        ],
+                        "priceFloor": "1.5000",
+                        "deviceType": "desktop",
+                        "creativeId": "50429",
+                        "adUnitId": "64",
+                        "enabled": true,
+                        "deployment": "infeed",
+                        "width": "900",
+                        "height": "600"
+                    },
+                    "26632": {
+                        "id": "26632",
+                        "mediaType": "display",
+                        "providers": [
+                            "index",
+                            "pbm",
+                            "criteo",
+                            "magnite"
+                        ],
+                        "priceFloor": "1.5000",
+                        "deviceType": "desktop",
+                        "creativeId": "82630",
+                        "adUnitId": "165",
+                        "enabled": true,
+                        "deployment": "infeed",
+                        "width": "728",
+                        "height": "90"
+                    }
+                }
+            },
+            "control": false,
+            "html": "",
+            "styles": ""
+        }
+    },
+    "gbi2_enabled": true,
+    "ssp_config": {
+        "index": {
+            "s": "868321",
+            "qa_site_id": 167884,
+            "reload": 300000,
+            "stackWeight": 0,
+            "timeout": 2000,
+            "production": true,
+            "jsonp": true,
+            "ssp_priority": 458
+        },
+        "pbm": {
+            "desktop_id": "994399",
+            "mobile_id": "994400",
+            "publisher_id": "156512",
+            "qa_site_id": "248764",
+            "reload": 300000,
+            "timeout": 2000,
+            "endpoint": "hbopenbid.pubmatic.com\/translator?",
+            "user_sync_endpoint": "ads.pubmatic.com\/AdServer\/js\/user_sync.html",
+            "ssp_priority": 1
+        },
+        "criteo": {
+            "network_id": "11254",
+            "ssp_priority": 5
+        },
+        "magnite": {
+            "reload": "300000",
+            "site_id": "507432",
+            "zone_id": "3028774",
+            "ssp_priority": 7
+        }
+    },
+    "push_filepath": "\/",
+    "sms_enabled": false,
+    "sms_terms_conditions_link": "",
+    "sms_short_codes": [],
+    "brand_name": "",
+    "ads_config": {
+        "freqCapEnabled": false,
+        "sourcePartner": "none",
+        "cpmSensitivity": "2",
+        "cpmNotes": ""
+    },
+    "visit_cookie_updates": {
+        "is_go_session": false,
+        "is_gp_session": false
+    }
+});
