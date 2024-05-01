@@ -1,16 +1,7 @@
 # Technical authoring
 
-<div dir="rtl">Epistula non erubescit </div>
-<p dir="rtl";'><i>Marcus Tullius Cicero (106-43 BC)</i></p>
-
-<div dir="rtl">!Gimme that torch, now</div>
-<p dir="rtl";'><i>Ray Bradbury (1920-2012)</i><br/>[after reading <i>Twilight</i> series]</p>
-
-<div dir="rtl">Write what you <s>want</s> know</div>
-<p dir="rtl";'><i>Mark Twain (1835-1910)</i></p>
-
-<div dir="rtl";'>There's no freak who wouldn't find a match and<br/>.there's no nonsense that wouldn't find a proper reader</div>
-<p dir="rtl";'><i>"Anton Chekhov(1860-1904), "Rules for novice writers</i></p>
+<div dir="rtl">?Need or want to write<br>.Hire a ghostwriter</div>
+<p dir="rtl";'><i>.Best pros to most of us</i></p>
 &nbsp;
 
 There are projects, products, and technologies that deserve the work of pen or brush. The quality of such work may be a decision factor Nr&nbsp;1 for usage/purchase of its subject: either attract or divert for good.
