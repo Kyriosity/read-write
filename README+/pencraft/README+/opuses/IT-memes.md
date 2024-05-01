@@ -85,11 +85,12 @@ P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "A
 ## PART II. Seasoned quotes
 
 <details>
-<summary><ins>&nbsp;<b>Immanuel Kant for domain-driven design</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>Philosophy and IT</b>&nbsp;</ins></summary>
 &nbsp;
 
 ![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
 
+_Immanuel Kant_ for domain-driven design
 > The only **objects** of practical reason are therefore those of good and evil.\
 > For by the former is meant an object necessarily desired according to a principle of reason;\
 by the latter one necessarily shunned, also according to a principle of reason.
@@ -140,15 +141,22 @@ Not only the East grant us profound and eloquent teaching! What about this Mr. K
 <summary><ins>&nbsp;<b>Inspiring quotes to write the documentation</b>&nbsp;</ins></summary>
   &nbsp;
 
-> **Epistula non erubescit**\
-_Marcus Tullius Cicero_ (106-43 BC)
-
 > **There's no freak who wouldn't find a match and there's**\
 **no nonsense that wouldn't find a proper reader.**\
 _Anton Chekhov_ (1860-1904), "Rules for novice writers"
 
+> **Epistula non erubescit**\
+_Marcus Tullius Cicero_ (106-43 BC)
+
 > **Write what you <s>want</s> know.**\
 _Mark Twain_ (1835-1910)
+
+> **If they give you ruled paper, write the other way.**\
+_Juan Ramón Jiménez_ (1881-1958)\
+1956 Nobel Prize in Literature\
+**So I invented the Monospace.**\
+_George Williams_\
+*assumed
 
 > **Gimme that torch, now!**\
 _Ray Bradbury_ (1920-2012)\
