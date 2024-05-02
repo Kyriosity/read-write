@@ -174,8 +174,8 @@ Not only the East grant us profound and eloquent teaching! What about this Mr. K
 
 #### Handshake thru millenniums
 
-> **There are three things men can watch forever: water, fire, and**\
-**other committing their tasks**.\
+> **There are two things one can do forever: watch water or fire, and**\
+**create tasks, which others will commit**.\
 _Earliest humans_
 
 ---
