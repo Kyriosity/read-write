@@ -119,30 +119,13 @@ The same magazine over seven decades later: "Fully transistorized computer, the 
 ---
 </details>
 
-<details>
-<summary><ins>&nbsp;<b>Brevity - sibling of talent</b>&nbsp;</ins></summary>
-  &nbsp;
-  
-![West meets East](https://img.shields.io/badge/West_meets-East-yellow)
-
-> **Do only what only you can do.**\
-&nbsp;\
-_Edsger W. Dijkstra (1930-2002),_\
-_computer scientist, known i.a. for Dijkstra's algorithm._
-
-Not only the East grant us profound and eloquent teaching! What about this Mr. Kipling*? 
-
-&nbsp;&nbsp;&nbsp;&nbsp;* <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
-
----
-</details>
 
 <details>
 <summary><ins>&nbsp;<b>Inspiring quotes to write the documentation</b>&nbsp;</ins></summary>
   &nbsp;
 
 > **There's no such freak who wouldn't find a mate and there's**\
-**no such nonsense that wouldn't find a proper reader.**\
+**no such nonsense that can't find a proper reader.**\
 _Anton Chekhov_ (1860-1904), "Rules for novice writers"
 
 > **Epistula non erubescit**\
@@ -158,7 +141,7 @@ _George Williams_ (*assumed)
 
 > **Gimme that torch, now!**\
 _Ray Bradbury_ (1920-2012)\
-on reading the _Twilight_ series,\
+after reading the _Twilight_ novel series,\
 *assumed
 
 ---
@@ -166,15 +149,31 @@ on reading the _Twilight_ series,\
 
 <details>
 <summary><ins>&nbsp;<b>Inspiring quotes for procrastination</b>&nbsp;</ins></summary>
-&nbsp;
 
-Shall i refactor ⬇️
+#### Relief in classics
 
-> Sometimes it's better to curse in the darkness than to light a single candle.
+a) Pick a da Vinci quote, that acquits your distraction.\
+b) Remember he was Leonardo the Great Procrastinator (documented).
 
-Attributed to _Ferdinand von Zepellin_ or _von Hindenburg_
+#### East meets West
+
+![Brevity - sibling of talent](https://img.shields.io/badge/Brevity-Sister_of_Talent-yellow)
+
+> **Do only what only you can do.**\
+_Edsger W. Dijkstra (1930-2002),_\
+_computer scientist, known i.a. for Dijkstra's algorithm._
+
+Not only the East grant us profound and eloquent teaching! What about this Mr. Kipling*? 
+
+&nbsp;&nbsp;&nbsp;&nbsp;* <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
+
+#### Amulet against refactoring ⬇️
+
+> Sometimes it's better to curse in the darkness than to light a single candle.\
+(Attributed to _Ferdinand von Zepellin_ or _von Hindenburg_)
 
 ---
 </details>
 
-... :pen: TO BE CONTINUED :pen: ...
+
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;... :pen: TO BE CONTINUED :pen: ...
