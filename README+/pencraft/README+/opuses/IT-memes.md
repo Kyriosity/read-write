@@ -172,8 +172,14 @@ Not only the East grant us profound and eloquent teaching! What about this Mr. K
 > Sometimes it's better to curse in the darkness than to light a single candle.\
 (Attributed to _Ferdinand von Zepellin_ or _von Hindenburg_)
 
+#### Handshake thru millenniums
+
+> **There are three things men can watch forever: water, fire, and**\
+**other committing their tasks**.\
+_Earliest humans_
+
 ---
 </details>
 
-
+&nbsp;\
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;... :pen: TO BE CONTINUED :pen: ...
