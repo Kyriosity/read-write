@@ -148,11 +148,11 @@ after reading the _Twilight_ novel series,\
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>Inspiring quotes for procrastination</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>Inspiring quotes for procrastination and perfectionism</b>&nbsp;</ins></summary>
 
 #### Relief in the great
 
-a) Pick a da Vinci quote, that acquits your distraction.\
+a) Pick a da Vinci quote, that backs your best work.\
 b) Remember he was Leonardo the Great Procrastinator (documented).
 
 #### Think like a grandmaster
@@ -178,11 +178,11 @@ Not only the East grant us profound and eloquent teaching! What about this Mr. K
 > Sometimes it's better to curse in the darkness than to light a single candle.\
 (Attributed to _Ferdinand von Zepellin_ or _von Hindenburg_)
 
-#### Handshake thru millenniums
+#### Handshake thru generations
 
-> **There are two things one can do forever: watch water or fire,**\
-**and reason about tasks, which others will commit**.\
-_Earliest humans_
+> **There are many things a man can watch forever: water, fire, starry sky**\
+**and only one to do: phantasy tasks, which others will commit**.\
+_Earliest humans_ (ca. 300`000 ago)
 
 ---
 </details>
