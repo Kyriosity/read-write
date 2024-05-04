@@ -181,7 +181,7 @@ Not only the East grant us profound and eloquent teaching! What about this Mr. K
 
 #### Handshake thru generations
 
-> **There are many things a man can watch forever: water, fire, starry sky**\
+> **There are three things a man can watch forever: water, fire, starry sky**\
 **and only one to do: phantasy tasks, which others will commit**.\
 _Earliest humans_ (ca. 300`000 ago)
 
