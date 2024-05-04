@@ -150,10 +150,16 @@ after reading the _Twilight_ novel series,\
 <details>
 <summary><ins>&nbsp;<b>Inspiring quotes for procrastination</b>&nbsp;</ins></summary>
 
-#### Relief in classics
+#### Relief in the great
 
 a) Pick a da Vinci quote, that acquits your distraction.\
 b) Remember he was Leonardo the Great Procrastinator (documented).
+
+#### Think like a grandmaster
+
+**... bear in mind these prudential rules, _viz._: having a good move, to seek for a better.**\
+_Domenico Lorenzo Ponziani_ (1719-1796), best known for chess writing\
+Misattributed to _Emanuel Lasker_
 
 #### East meets West
 
@@ -174,8 +180,8 @@ Not only the East grant us profound and eloquent teaching! What about this Mr. K
 
 #### Handshake thru millenniums
 
-> **There are two things one can do forever: watch water or fire, and**\
-**create tasks, which others will commit**.\
+> **There are two things one can do forever: watch water or fire,**\
+**and reason about tasks, which others will commit**.\
 _Earliest humans_
 
 ---
