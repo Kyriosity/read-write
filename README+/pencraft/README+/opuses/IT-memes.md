@@ -157,7 +157,8 @@ b) Remember he was Leonardo the Great Procrastinator (documented).
 
 #### Think like a grandmaster
 
-**... bear in mind these prudential rules, _viz._: having a good move, to seek for a better.**\
+> **... bear in mind these prudential rules, _viz._: having a good move, to seek for a better.**
+
 _Domenico Lorenzo Ponziani_ (1719-1796), best known for chess writing\
 Misattributed to _Emanuel Lasker_
 
