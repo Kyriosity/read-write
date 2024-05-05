@@ -48,7 +48,7 @@ The higher level and more concise the documentation the better - nobody will mai
 
 Commit comments can make a log of the design. Theoretically but practically it will be too many mixed entries with white noise.
 
-Just the daily log (or blog) on notable decisions could be a great help in documenting the pace of design. 
+Just a daily (semi-weekly) log (or blog) on notable decisions could be a great help in documenting the pace of design. 
 
 #### F.A.Q.
 
@@ -60,9 +60,12 @@ Any text document (except F.A.Q.) over a few pages will be boring without drawin
 
 ### Diagrams and presentations
 
-There are elaborated commercial tools to create strict and attributed UML diagrams, but limit them to formal rules (e.g. 2D). 
-A fast simple sketch could be enough and broader in all senses.
-It may start at a whiteboard within the discussion.
+There are elaborated methodologies and tools (to remember classical IBM Rational Rose and RUP) to evolve a project in UML and other diagrams. 
+However, they restrain presentation, stick thinking to 2D (literally and figuratively), and prompt to input redundant details. 
+
+Too many efforts to create and maintain them won't pay off with unrealistic expectations of code generation.
+
+A fast simple sketch multi-direction (FORCEs, time) could be enough and broader in all senses. It may start at a whiteboard during a casual discussion.
 
 ### Artistic images
 
