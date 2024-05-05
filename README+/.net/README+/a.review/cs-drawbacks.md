@@ -90,7 +90,7 @@ Syntax shortcuts here could make the code both shorter and readable.
 `DateTime` and refined `DateOnly` (non-casting from the first) are error-prone, awkward and limited. 
 Ironically you may specify a date close to the year 9999 (when only regular astronomical events can be predicted that precise) but not a recorded one before [Common Era](https://en.wikipedia.org/wiki/Common_Era)<sup>🔗</sup>.
 
-Ambiguous order and `int` input of year/month/day allows nonsense values, which only the running code may or may not detect (i.e. a bad bug).<sup>🐛</sup>.
+Ambiguous order and `int` input of year/month/day allows nonsense values, which only the running code may or may not detect (_viz_. a bad bug).<sup>🐛</sup>.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🐛</sup> <sub>Test initalization and `.Tostring()` with `new DateOnly(2023, 02, 29)`, `new DateOnly(31, 12, 1975)`, `var May = 5; new DateOnly(2007, 1, May)`, `new DateTime(0, 0, 0)`</sub>
 
