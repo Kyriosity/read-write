@@ -37,12 +37,12 @@ In practice, the code will be obscure and tests will lack clarity and seamless c
 
 Even if there's extensive user guidance, even the best quality application code needs a fluent explanation: 
 
-+ attractive intro,
++ engaging intro,
 + navigation to source code,
 + clues to common and own patterns and templates used,
 + known design compromises, drawbacks, and "props",
 
-The higher level and more concise the documentation the better - nobody will maintain volumes of papers up-to-date and read them attentively.
+The higher level and more concise the documentation the better - nobody will maintain volumes of papers up-to-date and read them thoroughly.
 
 #### Log/Blog
 
@@ -61,11 +61,10 @@ Any text document (except F.A.Q.) over a few pages will be boring without drawin
 ### Diagrams and presentations
 
 There are elaborated methodologies and tools (to remember classical IBM Rational Rose and RUP) to evolve a project in UML and other diagrams. 
-However, they restrain presentation, stick thinking to 2D (literally and figuratively), and prompt to input redundant details. 
+However, they restrain presentation, stick thinking to 2D (literally and metaphorically), and prompt to input redundant details. Mutual synchronization with code will make matters even worse.
 
-Too many efforts to create and maintain them won't pay off with unrealistic expectations of code generation.
-
-A fast simple sketch multi-direction (FORCEs, time) could be enough and broader in all senses. It may start at a whiteboard during a casual discussion.
+Fast simple sketches resting on multiple axes (horizontal grouping, aggregation and inheritance hierarchies, time) could be enough and broader in all senses. 
+They may start on a whiteboard during a casual discussion and as taking shapes recorded in (vector) graphics tools of choice. 
 
 ### Artistic images
 
