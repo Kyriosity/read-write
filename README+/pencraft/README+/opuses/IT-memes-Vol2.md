@@ -39,10 +39,10 @@ The same magazine over seven decades later: "Fully transistorized computer, the 
 ---
 </details>
 
-## Inspirational quotes
+## Inspirational quotes...
 
 <details>
-<summary><ins>&nbsp;<b>Inspiring quotes for procrastination and perfectionism</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>...to write the documentation</b>&nbsp;</ins></summary>
 &nbsp;
   
 > **There's no such freak who wouldn't find a mate and there's**\
@@ -69,23 +69,19 @@ after reading the _Twilight_ novel series,\
 ---
 </details>
 
-
 <details>
-<summary><ins>&nbsp;<b>To acquit procrastination and perfectionism</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>...to acquit procrastination and perfectionism</b>&nbsp;</ins></summary>
 &nbsp;
   
 #### King Solomon
 
-For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.
-
-Ecclesiastes 1:18
-
-Webster's Bible Translation.
+> **For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.**\
+Ecclesiastes 1:18, Webster's Bible Translation.
 
 #### Relief in the great
 
-a) Pick a da Vinci quote, that motivates you to break through.\
-b) Remember he was also known as Leonardo the Great Procrastinator (certified by the court).
+a) Pick a da Vinci quote, that motivates you to achieve.\
+b) Remember he was aka Leonardo the Great Procrastinator (certified by the court).
 
 #### Think like a grandmaster
 
@@ -108,7 +104,7 @@ Not only the East grant us profound and eloquent teaching! What about this Mr. K
 
 #### Amulets against refactoring ⬇️
 
-> Somewhere it's better to curse in the darkness than to light even a single candle.\
+> Somewhere it's better to curse in the darkness than to light a single candle.\
 (Attributed to _Ferdinand von Zepellin_ or _von Hindenburg_)
 
 #### Handshake thru generations
@@ -120,9 +116,6 @@ _Earliest humans_ (ca. 300`000 ago)
 ---
 </details>
 
-
- SUM UP
-
- Karl Marx, A.Einstein, S.Freud
+<div dir="rtl"><b>ENDING</b><br><i>I never posted even one-tenth<br/>!of garbage quoted as mine</i></div>
+<p dir="rtl";'>K.Marx | A.Einstein | S.Freud</p>
  
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;... :pen: TO BE CONTINUED :pen: ...
