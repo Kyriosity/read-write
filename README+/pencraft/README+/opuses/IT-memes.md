@@ -125,7 +125,7 @@ The same magazine over seven decades later: "Fully transistorized computer, the 
   &nbsp;
 
 > **There's no such freak who wouldn't find a mate and there's**\
-**no such nonsense that can't find a proper reader.**\
+**no such nonsense that won't find a proper reader.**\
 _Anton Chekhov_ (1860-1904), "Rules for novice writers"
 
 > **Epistula non erubescit**\
@@ -150,10 +150,15 @@ after reading the _Twilight_ novel series,\
 <details>
 <summary><ins>&nbsp;<b>Inspiring quotes for procrastination and perfectionism</b>&nbsp;</ins></summary>
 
+#### Solomon
+
+ Webster's Bible Translation
+For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow
+
 #### Relief in the great
 
-a) Pick a da Vinci quote, that backs your best work.\
-b) Remember he was Leonardo the Great Procrastinator (documented).
+a) Pick a da Vinci quote, that motivates you for breakthrough.\
+b) Remember he was also known as Leonardo the Great Procrastinator (documented).
 
 #### Think like a grandmaster
 
@@ -174,7 +179,7 @@ Not only the East grant us profound and eloquent teaching! What about this Mr. K
 
 &nbsp;&nbsp;&nbsp;&nbsp;* <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
 
-#### Amulet against refactoring ⬇️
+#### Amulets against refactoring ⬇️
 
 > Sometimes it's better to curse in the darkness than to light a single candle.\
 (Attributed to _Ferdinand von Zepellin_ or _von Hindenburg_)
