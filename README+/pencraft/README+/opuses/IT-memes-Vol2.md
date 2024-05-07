@@ -116,6 +116,15 @@ _Earliest humans_ (ca. 300`000 ago)
 ---
 </details>
 
+<details>
+<summary><ins>&nbsp;<b>...to interpret bugs the right way</b>&nbsp;</ins></summary>
+&nbsp;
+
+🚧... coming next ...🚧
+
+---
+</details>
+
 <div dir="rtl"><b>ENDING</b><br><i>I never posted even one-tenth<br/>!of garbage quoted as mine</i></div>
 <p dir="rtl";'>K.Marx | A.Einstein | S.Freud</p>
  
