@@ -4,7 +4,6 @@
 
 ## Seasoned quotes
 
-
 <details>
 <summary><ins>&nbsp;<b>Philosophy and IT</b>&nbsp;</ins></summary>
 &nbsp;
@@ -40,12 +39,41 @@ The same magazine over seven decades later: "Fully transistorized computer, the 
 ---
 </details>
 
----
-</details>
+## Inspirational quotes
 
 <details>
 <summary><ins>&nbsp;<b>Inspiring quotes for procrastination and perfectionism</b>&nbsp;</ins></summary>
+&nbsp;
+  
+> **There's no such freak who wouldn't find a mate and there's**\
+**no such nonsense that won't find a proper reader.**\
+_Anton Chekhov_ (1860-1904), "Rules for novice writers"
 
+> **Epistula non erubescit**\
+_Marcus Tullius Cicero_ (106-43 BC)
+
+> **Write what you <s>want</s> know.**\
+_Mark Twain_ (1835-1910)
+
+
+> **If they give you lined paper, write the other way.**\
+_Juan Ramón Jiménez_ (1881-1958), 1956 Nobel Prize in Literature\
+**So I invented the Monospace.**\
+_George Williams_ (*assumed)
+
+> **Gimme that torch, now!**\
+_Ray Bradbury_ (1920-2012)\
+after reading the _Twilight_ novel series,\
+*assumed
+
+---
+</details>
+
+
+<details>
+<summary><ins>&nbsp;<b>To acquit procrastination and perfectionism</b>&nbsp;</ins></summary>
+&nbsp;
+  
 #### King Solomon
 
 For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.
@@ -56,8 +84,8 @@ Webster's Bible Translation.
 
 #### Relief in the great
 
-a) Pick a da Vinci quote, that motivates you for breakthrough.\
-b) Remember he was also known as Leonardo the Great Procrastinator (certified by court).
+a) Pick a da Vinci quote, that motivates you to break through.\
+b) Remember he was also known as Leonardo the Great Procrastinator (certified by the court).
 
 #### Think like a grandmaster
 
@@ -92,43 +120,6 @@ _Earliest humans_ (ca. 300`000 ago)
 ---
 </details>
 
-### Inspiring quotes to write the documentation
-
-> **There's no such freak who wouldn't find a mate and there's**\
-**no such nonsense that won't find a proper reader.**\
-_Anton Chekhov_ (1860-1904), "Rules for novice writers"
-
-> **Epistula non erubescit**\
-_Marcus Tullius Cicero_ (106-43 BC)
-
-> **Write what you <s>want</s> know.**\
-_Mark Twain_ (1835-1910)
-
-
-> **If they give you lined paper, write the other way.**\
-_Juan Ramón Jiménez_ (1881-1958), 1956 Nobel Prize in Literature\
-**So I invented the Monospace.**\
-_George Williams_ (*assumed)
-
-> **Gimme that torch, now!**\
-_Ray Bradbury_ (1920-2012)\
-after reading the _Twilight_ novel series,\
-*assumed
-
-<details>
-<summary><ins>&nbsp;<b>Inspiring quotes to write the documentation</b>&nbsp;</ins></summary>
-  &nbsp;
-
-</details>
-
-### Inspiring quotes for procrastination and perfectionism
-
-<details>
-<summary><ins>&nbsp;<b>Inspiring quotes for procrastination and perfectionism</b>&nbsp;</ins></summary>
-
-</details>
-
-&nbsp;\
 
  SUM UP
 
