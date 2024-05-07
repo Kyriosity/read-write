@@ -150,10 +150,13 @@ after reading the _Twilight_ novel series,\
 <details>
 <summary><ins>&nbsp;<b>Inspiring quotes for procrastination and perfectionism</b>&nbsp;</ins></summary>
 
-#### Solomon
+#### King Solomon
 
- Webster's Bible Translation
-For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow
+For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.
+
+Ecclesiastes 1:18
+
+Webster's Bible Translation.
 
 #### Relief in the great
 
