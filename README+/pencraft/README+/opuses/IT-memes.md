@@ -161,7 +161,7 @@ Webster's Bible Translation.
 #### Relief in the great
 
 a) Pick a da Vinci quote, that motivates you for breakthrough.\
-b) Remember he was also known as Leonardo the Great Procrastinator (documented).
+b) Remember he was also known as Leonardo the Great Procrastinator (certified by court).
 
 #### Think like a grandmaster
 
