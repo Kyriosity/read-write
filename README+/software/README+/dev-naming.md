@@ -45,9 +45,9 @@ There're must be at least two with different background to confirm top names.
 
 Even top developers under time pressure and brakes on perfectionism would be barely proud of their implementation of naming.
 
-I mean that naming as [code quality](code-quality.md) can't be even perfect, but efforts to improve them must be genuine.
+I mean that the naming as [code quality](code-quality.md) can't be perfect, but efforts to improve them must be genuine.
 
-## Appendix 1 (of 2). Guideliens and Verbal sins 
+## Appendix 1 (of 2). Guidelines and Verbal Sins 
 
 ## Verbal sins
 
@@ -73,4 +73,4 @@ General words will sound vague if not bombastic unless established in the domain
 
 ### Hall of shame
 
-And 1st place goes to ... `dirty` used as the property of a modified object may hold the 1st place.
+And 1st place goes to ... `dirty` used as the property of a modified object.
