@@ -184,7 +184,7 @@ Not only the East grant us profound and eloquent teaching! What about this Mr. K
 
 #### Amulets against refactoring ⬇️
 
-> Sometimes it's better to curse in the darkness than to light a single candle.\
+> Somewhere it's better to curse in the darkness than to light even a single candle.\
 (Attributed to _Ferdinand von Zepellin_ or _von Hindenburg_)
 
 #### Handshake thru generations
