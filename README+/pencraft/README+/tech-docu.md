@@ -32,6 +32,5 @@ Don't anticipate much from IT leaders but must-know hints and rules:
 [Microsoft style guide](https://learn.microsoft.com/en-us/style-guide/welcome/)<sup>🔗</sup>\
 [Google tech-writing courses](https://developers.google.com/tech-writing/overview)<sup>🔗</sup>
 
-
-
-
+### Tools
+[Grammarly](https://app.grammarly.com/apps) - swift and sweet multi-language check in browsers.
