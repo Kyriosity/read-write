@@ -6,11 +6,11 @@
 
 <details>
 <summary><ins>&nbsp;<b>Philosophy and IT</b>&nbsp;</ins></summary>
-&nbsp;
+
+### _Immanuel Kant_ for domain-driven design
 
 ![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
 
-_Immanuel Kant_ for domain-driven design
 > The only **objects** of practical reason are therefore those of good and evil.\
 > For by the former is meant an object necessarily desired according to a principle of reason;\
 by the latter one necessarily shunned, also according to a principle of reason.
@@ -21,6 +21,15 @@ No mockery but a modest tribute to the 300th birthday of the considered one of t
 Denn durch das erstere versteht man einen notwendigen Gegenstand des Begehrungs-, 
 durch das zweite des Verabscheuungsvermögens, beides aber nach einem Prinzip der Vernunft._\
 _**Kritik der praktischen Vernunft, 1788**_<sub>
+
+### German philosophy always rule
+
+Johann Wolfgang von Goethe (1749-1832)
+
+We should consider every day lost on which we have not danced at least once.\
+ Wir sollten jeden Tag als verloren betrachten, an dem wir nicht mindestens einmal getanzt haben
+
+ Friedrich Wilhelm Nietzsche (1844-1900)
 
 ---------
 </details>
