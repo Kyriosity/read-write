@@ -144,6 +144,11 @@ _Wir sollten jeden Tag als verloren betrachten, an dem wir nicht mindestens einm
 ---
 </details>
 
-<div dir="rtl"><b>ENDING</b><br><i>I never posted even one-tenth<br/>!of garbage quoted as mine</i></div>
-<p dir="rtl";'>K.Marx | A.Einstein | S.Freud</p>
+`finally {`
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I never posted even one-tenth\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of garbage quoted as mine\
+`// K.Marx | A.Einstein | S.Freud`
+
+`}`
  
