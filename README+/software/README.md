@@ -4,43 +4,42 @@
 
 [![Four colors of software: black->red->blue->gold](../pencraft/README+/_rsc/_img/darkCode2arcGold_wRem.jpg)](../pencraft/README+/_rsc/)
 
-Add colors for project management, digital artists, DevOps, documentation, testing, and administration?
+MOVE POP UPS DOWN !!!!!!!!
 
-They are external forces that can be constructive and non- (also neutral). Culturally speaking: mix, tint, blur, or shade (if not wash off) the four paints. 
+More colors for CUSTOMER CORNER, project management, digital artists, DevOps, documentation, testing, and administration?
 
-## Arc DeCo
+They are external optional and not, significant and not forces that can be constructive and non- (also neutral). Culturally speaking: mix, tint, blur, or shade (if not wash off) the four paints. 
 
-<p dir=rtl>,Arc - for <b>arc</b>hitecture<br/>,De - for <b>d</b>esign and d<b>e</b>v<br/>Co - for <b>co</b>ding</p>
-
+## Conclusion, ....
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. 
-They may blend to almost a rectangular and imply little discussion and overhead for work.
+They may blend to almost rectangular and imply little discussion and overhead for work.
 
 [![Arc view at small projects](../pencraft/README+/_rsc/_img/C-D-D-A_smallPrj.jpg)](../pencraft/README+/_rsc/)
 
+
+## ...  which is the beginning
+
+Immanuel Kant: “Experience without theory is blind, but theory without experience is mere intellectual play."
+
 ... but the growth of a project will explode the picture in all dimensions ...
+
+The intro already involves so many topics, that ...
+
+
+
+<p dir=rtl>,Arc - for <b>arc</b>hitecture<br/>,De - for <b>d</b>esign and d<b>e</b>v<br/>Co - for <b>co</b>ding</p>
+
 
 <details>
   <summary><ins>&nbsp;Forces which make the big picture&nbsp;</ins></summary>
 </details>
 TABLE: Left to your imagination <-> Click to get the force
 
-THUMBNAIL
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:anchor:</sup> <sub>Digging deep in code mines, not seeing shining peaks.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:balloon:</sup> <sub>Flying in abstraction dreams.</sub>
-
-## Objective
-
-## Conclusion, which is the beginning
-
-Immanuel Kant: “Experience without theory is blind, but theory without experience is mere intellectual play."
-
-The intro already involves so many topics, that ...
-
 |- Classisication\
 |- Roles share for inclinations\
 |- Architecture and architector\
 |- 
+
 
 //////////////// 🚧  BELOW ARE DRAFT NOTES !!! //////////////
 
