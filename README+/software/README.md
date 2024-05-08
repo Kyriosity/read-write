@@ -4,7 +4,7 @@
 
 [![Four colors of software: black->red->blue->gold](../pencraft/README+/_rsc/_img/darkCode2arcGold_wRem.jpg)](../pencraft/README+/_rsc/)
 
-More colors for project management, digital artists, DevOps, documentation, testing, and administration?
+Add colors for project management, digital artists, DevOps, documentation, testing, and administration?
 
 They are external forces that can be constructive and non- (also neutral). Culturally speaking: mix, tint, blur, or shade (if not wash off) the four paints. 
 
@@ -12,7 +12,8 @@ They are external forces that can be constructive and non- (also neutral). Cultu
 
 <p dir=rtl>,Arc - for <b>arc</b>hitecture<br/>,De - for <b>d</b>esign and d<b>e</b>v<br/>Co - for <b>co</b>ding</p>
 
-**_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. They may blend to almost a rectangular ...
+**_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered processes. 
+They may blend to almost a rectangular and imply little discussion and overhead for work.
 
 [![Arc view at small projects](../pencraft/README+/_rsc/_img/C-D-D-A_smallPrj.jpg)](../pencraft/README+/_rsc/)
 
