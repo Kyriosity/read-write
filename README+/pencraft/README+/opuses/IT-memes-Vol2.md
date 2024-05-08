@@ -22,7 +22,9 @@ Denn durch das erstere versteht man einen notwendigen Gegenstand des Begehrungs-
 durch das zweite des Verabscheuungsvermögens, beides aber nach einem Prinzip der Vernunft._\
 _**Kritik der praktischen Vernunft, 1788**_<sub>
 
-### German philosophy always rule
+### Take a break. German philosophy always rule
+
+So wenig als möglich sitzen; keinem Gedanken Glauben schenken, der nicht im Freien geboren ist und bei freier Bewegung, in dem nicht auch die Muskeln ein Fest feiern!
 
 Johann Wolfgang von Goethe (1749-1832)
 
