@@ -22,17 +22,6 @@ Denn durch das erstere versteht man einen notwendigen Gegenstand des Begehrungs-
 durch das zweite des Verabscheuungsvermögens, beides aber nach einem Prinzip der Vernunft._\
 _**Kritik der praktischen Vernunft, 1788**_<sub>
 
-### Take a break. German philosophy always rule
-
-So wenig als möglich sitzen; keinem Gedanken Glauben schenken, der nicht im Freien geboren ist und bei freier Bewegung, in dem nicht auch die Muskeln ein Fest feiern!
-
-Johann Wolfgang von Goethe (1749-1832)
-
-We should consider every day lost on which we have not danced at least once.\
- Wir sollten jeden Tag als verloren betrachten, an dem wir nicht mindestens einmal getanzt haben
-
- Friedrich Wilhelm Nietzsche (1844-1900)
-
 ---------
 </details>
 
@@ -82,7 +71,6 @@ after reading the _Twilight_ novel series,\
 
 <details>
 <summary><ins>&nbsp;<b>...to acquit procrastination and perfectionism</b>&nbsp;</ins></summary>
-&nbsp;
   
 #### King Solomon
 
@@ -124,6 +112,26 @@ Not only the East grant us profound and eloquent teaching! What about this Mr. K
 **and only one to do: phantasy tasks, which others will commit**.\
 _Earliest humans_ (ca. 300`000 ago)
 
+---
+</details>
+
+<details>
+<summary><ins>&nbsp;<b>...to take a break</b>&nbsp;</ins></summary>
+ 
+#### German philosophy always rules
+
+> **Don't believe any thought that wasn't born in the open air and with free movement.**<sup>🚶</sup>\
+> &nbsp;\
+> **We should consider every day lost on which we have not danced at least once**.<sup>👯</sup>\
+> &nbsp;\
+> _Friedrich Wilhelm Nietzsche_ (1844-1900)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🚶</sup> <sub>Full original: „So wenig als möglich sitzen; keinem Gedanken Glauben schenken, der nicht im Freien geboren ist und bei freier Bewegung – in dem nicht auch die Muskeln ein Fest feiern. Alle Vorteile kommen aus den Eingeweiden. – Das Sitzfleisch – ich sagte es schon einmal – die eigentliche Sünde wider den heiligen Geist.“\
+ Ecce Homo. Wie man wird, was man ist (1889),</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>👯</sup> <sub>Original: „Wir sollten jeden Tag als verloren betrachten, an dem wir nicht mindestens einmal getanzt haben.“</sub>
+
+_Wir sollten jeden Tag als verloren betrachten, an dem wir nicht mindestens einmal getanzt haben._
+ 
 ---
 </details>
 
