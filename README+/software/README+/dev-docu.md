@@ -11,15 +11,18 @@ Exploring source codes of prominent providers on GitHub or elsewhere you'll find
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>This statement is for high-level declarative languages.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>©️</sup>&nbsp;<sub>As if there were no license agreement or such a spell may prohibit impudent copy-paste.</sub>
 
-However, comments are fully justified for:
+<details>
+  <summary><ins>&nbsp;Naturally, there may be justified exclusions to expand a few:&nbsp;</ins></summary>
 
 + weird workarounds (especially for third-party bugs),
 + courtesy of Q&A sites,
 + worthy tricks that harm readability,
 + code snippets in documentation,
-+ domain-explaining quotes from sources like a wiki,
++ domain-explaining quotes from sources like a wiki.
 
-One other legitimate niche is [comment-driven development](en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. 
+</details>
+
+One other distinct and legitimate niche is [comment-driven development](en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. 
 
 Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). 
 The automation of this idea may stumble on implementation and maintenance expenses but it's worth deliberation.
@@ -61,10 +64,10 @@ Any text document (except F.A.Q.) over a few pages will be boring without drawin
 ### Diagrams and presentations
 
 There are elaborated methodologies and tools (to remember classical IBM Rational Rose and RUP) to evolve a project in UML and other diagrams. 
-However, they restrain presentation, stick thinking to 2D (literally and metaphorically), and prompt to input redundant details. Mutual synchronization with code will make matters even worse.
+However, they cost time, restrain presentation, stick thinking to 2D (literally and metaphorically), and prompt to input redundant details. Mutual synchronization with code will make matters even worse.
 
-Fast simple sketches resting on multiple axes (horizontal grouping, aggregation and inheritance hierarchies, time) could be enough and broader in all senses. 
-They may start on a whiteboard during a casual discussion and as taking shapes recorded in (vector) graphics tools of choice. 
+Fast simple sketches resting on multiple imaginary axes (horizontal grouping, aggregation/inheritance hierarchies, timeline) could be enough and broader in all senses. 
+They may start on a whiteboard during a casual discussion and as taking shapes recorded in (vector) graphics tools of choice and skills. 
 
 ### Artistic images
 
