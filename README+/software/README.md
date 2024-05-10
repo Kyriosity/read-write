@@ -9,8 +9,8 @@
 
 **More spectrum for math, requirements, management, artistry, testing, and administration?**
 
-These are **external** - optional and not, minor to strong, constructive and devastating (also neutral) - forces. 
-Culturally speaking: mix, tint, blur, or shade (if not wash off) the four paints. 
+These are **external** - optional and not, minor to strong, constructive and devastating (also neutral) - forces.\
+Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four paints. 
 
 ## Conclusion, ...
 
@@ -20,14 +20,19 @@ They may blend to almost rectangular and ask for little discussion and overhead 
 
 [![Arc view at small projects](../pencraft/README+/_rsc/_img/C-D-D-A_smallPrj.jpg)](../pencraft/README+/_rsc/)
 
-A bigger project size will tear this patchwork. 
+Bigger project sizes will tear this patchwork. 
 
 ## ...  which is the very beginning
 
 To delve in, we shall first explode the picture.
 
 <details>
-  <summary><ins>&nbsp;FORCES&nbsp;</ins></summary>
+  <summary><ins>&nbsp;FORCES&nbsp;</ins></summary
+    EFFERENT (CentriFugal)
+              Sep of Converns(Roles)
+        HOLDING:
+            Commu
+           Continuity
 </details>
 
 |- Classisication\
