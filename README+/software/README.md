@@ -7,23 +7,28 @@
 <sup>:de:</sup> <sub>Inspired by informal interpretation of the German flag: from the dark past through the bloody present to the golden future.\
 &nbsp;&nbsp;&nbsp;&nbsp;(Since `4>3` tearful blue was inserted for Design.)</sub>
 
-**More colors for requirements, project management, artistic work, documentation, testing, administration, and DevOps?**
+**More spectrum for math, requirements, management, artistry, testing, and administration?**
 
-They are external - optional and not, big and not, constructive and not (also neutral) - forces. 
+These are **external** - optional and not, minor to strong, constructive and devastating (also neutral) - forces. 
 Culturally speaking: mix, tint, blur, or shade (if not wash off) the four paints. 
 
 ## Conclusion, ...
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered role-driven processes. 
 
-They may blend to almost rectangular and imply little discussion and overhead for decent results.
+They may blend to almost rectangular and ask for little discussion and overhead for decent results.
 
 [![Arc view at small projects](../pencraft/README+/_rsc/_img/C-D-D-A_smallPrj.jpg)](../pencraft/README+/_rsc/)
 
+A bigger project size will tear this patchwork. 
 
 ## ...  which is the very beginning
 
-The growth of a project will explode the picture in some dimensions.
+To delve in, we shall first explode the picture.
+
+<details>
+  <summary><ins>&nbsp;FORCES&nbsp;</ins></summary>
+</details>
 
 |- Classisication\
 |- Roles share for inclinations\
