@@ -143,12 +143,8 @@ _Wir sollten jeden Tag als verloren betrachten, an dem wir nicht mindestens einm
 
 ---
 </details>
-
-`finally {`
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I never posted even one-tenth\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of garbage quoted as mine\
-`// K.Marx | A.Einstein | S.Freud`
-
-`}`
+<p dir="rtl"><b>Postscriptum</b><br/></p>
+<p dir="rtl"><i>I never posted even one-tenth<br/>
+.of garbage quoted as mine</i><br/>
+.K.Marx | A.Einstein | S.Freud <i>et al</i></p>
  
