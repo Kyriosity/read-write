@@ -24,12 +24,12 @@ Microarchitecture
 
 ### Roles falsely granted as the architect
 
-Roles, positions, occupations, which add up to architecture:
+Roles, positions, and occupations, that add up to architecture but don't make one an architect:
 
 * team/project lead/manager
 * lead/senior dev
-* librarian - navigator,
-* technology evangelist,
+* librarian - navigator, somebody with the utmost knowledge of the project
+* tutor * technology evangelist,
 + computer scientist
 + one who boils down requirements or/and makes sw docu
 + a lucky guy who may draw great diagrams, which are very loose coupled to actual software
