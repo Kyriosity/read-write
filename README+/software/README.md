@@ -18,6 +18,10 @@ Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four
 
 They may blend to almost rectangular and ask for little discussion and overhead for decent results.
 
+<picture>
+  <img alt="Arc view at small" src="(https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/C-D-D-A_smallPrj.jp">
+</picture>
+
 [![Arc view at small projects](../pencraft/README+/_rsc/_img/C-D-D-A_smallPrj.jpg)](../pencraft/README+/_rsc/)
 
 Bigger project sizes will tear this patchwork. 
