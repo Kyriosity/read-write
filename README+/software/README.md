@@ -9,10 +9,15 @@
 <sup>:de:</sup> <sub>Inspired by informal interpretation of the German flag: from the dark past through the bloody present to the golden future.\
 &nbsp;&nbsp;&nbsp;&nbsp;(Since `4>3` tearful blue was inserted for Design.)</sub>
 
-**More spectrum for math, requirements, management, artistry, testing, and administration?**
+<details>
+<summary><ins>&nbsp;<b>More spectrum for math, requirements, management, artistry, testing, and administration?</b>&nbsp;</ins></summary>  
+&nbsp;
+  
+These are **external** - optional and not, minor to strong, constructive and devastating (also neutral) - forces.
 
-These are **external** - optional and not, minor to strong, constructive and devastating (also neutral) - forces.\
 Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four paints. 
+
+</details>
 
 ## Conclusion, ...
 
@@ -22,7 +27,7 @@ Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four
   <img alt="Arc view at small projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/C-D-D-A_smallPrj.jpg">
 </picture>
 
-Bigger project sizes will tear this patchwork. 
+Bigger project sizes will tear this patchwork. This ...
 
 ## ...  which is the very beginning
 
