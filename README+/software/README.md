@@ -35,11 +35,15 @@ To delve in, we shall first explode the picture.
 
 <details>
   <summary><ins>&nbsp;FORCES&nbsp;</ins></summary
+  
     EFFERENT (CentriFugal)
               Sep of Converns(Roles)
         HOLDING:
             Commu
            Continuity
+
+IMPEDANCE: DESIGN vs. REALIZATION
+  
 </details>
 
 |- Classisication\
