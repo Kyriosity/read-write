@@ -27,7 +27,7 @@ Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four
   <img alt="Arc view at small projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/C-D-D-A_smallPrj.jpg">
 </picture>
 
-Bigger project sizes will tear this patchwork. This ...
+If these were moderate projects we could finish the dive here. Bigger project sizes will tear this patchwork. This ...
 
 ## ...  which is the very beginning
 
