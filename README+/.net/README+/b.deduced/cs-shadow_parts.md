@@ -17,4 +17,7 @@ Sure, event/stream-based development isn't for every use and its paradigm requir
 ## Miscellaneous
 
 |- Accelerated calculations\
-|--- [Single instruction, multiple data (SIMD)](https://learn.microsoft.com/en-us/dotnet/standard/simd) 
+|--- [Single instruction, multiple data (SIMD)](https://learn.microsoft.com/en-us/dotnet/standard/simd)<sup>🔗</sup>\
+|--- [Hardware acceleration](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/optimizing-performance-taking-advantage-of-hardware)<sup>🔗</sup>\
+
+🔚
