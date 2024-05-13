@@ -1,12 +1,11 @@
-# Software architect - Vague figure
+# Software architecture - House from ghosts // Obscure subject with ghost figures
 
-<p dir=rtl>".I am the Architect"<br>🎦&nbsp;<i>The Architect</i><br/>fictitious character of)<br/>(<i>The Matrix Reloaded</i></p>
+# Part 1. Architecture
 
-> This article is a derivative and continuation of [Software creation](../../software/).
+QUOTE REQUIRED
 
-In my spoiled and biased opinion, there are no pure _software architects_ while architecture artifacts rest on collective development.
-
-## Rationale
+This goes to ROLES exchange =>>> ↙️
+Immanuel Kant: “Experience without theory is blind, but theory without experience is mere intellectual play."
 
 The Latin term "architecture" emerged from the acts of building, and our information epoch spread it over other activities (up to buzzword). 
 Hellenes coined the "architect" but it took centuries to distinguish and formalize this profession in the conservative art of static constructions.<sup>🏚️<sup>
@@ -15,6 +14,15 @@ Hellenes coined the "architect" but it took centuries to distinguish and formali
 
 * static vs dynamic
 * versatile vs strict
+
+# Part 2. Architect? Architects!
+
+<p dir=rtl>".I am the Architect"<br>🎦&nbsp;<i>The Architect</i><br/>fictitious character of)<br/>(<i>The Matrix Reloaded</i></p>
+
+> This article is a derivative and continuation of [Software creation](../../software/).
+
+In my spoiled and biased opinion, there are no pure _software architects_ while architecture artifacts rest on collective development.
+
 
 Architecture, opposite to design, must be a platform-independent<sup>🎈</sup> abstraction which nevertheless must grow from the practical development.
 
