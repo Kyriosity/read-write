@@ -56,13 +56,13 @@ _Anton Chekhov_ (1860-1904), "Rules for novice writers"
 > **Write what you know.**\
 _Mark Twain_ (1835-1910)
 
-> **I wish you were aware from what stray matter**\
-> **Springs poetry to prosper without shame,** ...\
-_Anna Akhmatova_ (1889-1866)\
-"Unsuited to my purpose in the rhyming...", translated by _Peter Tempest_
+> **_If you could know in what a dirty drain_**\
+> **_The verse does grow without having shame,_** ...\
+_Anna Akhmatova_ (1889-1866), 1964 Nobel Prize in Literature nominee\
+"I have no use for odes in battles...", 1964
 
 > **If they give you lined paper, write the other way.**\
-_Juan Ramón Jiménez_ (1881-1958), 1956 Nobel Prize in Literature\
+_Juan Ramón Jiménez_ (1881-1958), 1956 Nobel Prize in Literature awardee\
 **So I invented the Monospace.**\
 _George Williams_ (*assumed)
 
