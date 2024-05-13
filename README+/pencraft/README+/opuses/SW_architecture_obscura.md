@@ -1,21 +1,25 @@
-# Software architecture - House from ghosts // Obscure subject with ghost figures
+# Software House from Ghosts 
 
-# Part 1. Architecture
+## Part 1. Software architecture
 
 QUOTE REQUIRED
 
 This goes to ROLES exchange =>>> ↙️
 Immanuel Kant: “Experience without theory is blind, but theory without experience is mere intellectual play."
 
+When we talk about architecture we mean the building.
+
 The Latin term "architecture" emerged from the acts of building, and our information epoch spread it over other activities (up to buzzword). 
 Hellenes coined the "architect" but it took centuries to distinguish and formalize this profession in the conservative art of static constructions.<sup>🏚️<sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:derelict_house:</sup> <sub>Authourship of vast blocks remains unclaimed.</sub>
 
+The term migrated to other sphere and got obscure.
+
 * static vs dynamic
 * versatile vs strict
 
-# Part 2. Architect? Architects!
+## Part 2. Software architect? Architects!
 
 <p dir=rtl>".I am the Architect"<br>🎦&nbsp;<i>The Architect</i><br/>fictitious character of)<br/>(<i>The Matrix Reloaded</i></p>
 
@@ -42,7 +46,7 @@ Roles, positions, and occupations, that add up to architecture but don't make on
 + one who boils down requirements or/and makes sw docu
 + a lucky guy who may draw great diagrams, which are very loose coupled to actual software
 
-# Wrapping up
+## Part 3. Wrapping up
 
 ... 🚧 TO BE WRITTEN ...
 
