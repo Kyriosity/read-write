@@ -63,7 +63,7 @@ _Anna Akhmatova_ (1889-1866), 1964 Nobel Prize in Literature nominee\
 
 > **If they give you lined paper, write the other way.**\
 _Juan Ramón Jiménez_ (1881-1958), 1956 Nobel Prize in Literature awardee\
-**So I invented the Monospace.**\
+**And so I invented the Monospace.**\
 _George Williams_ (*assumed)
 
 > **Gimme that torch, now!**\
