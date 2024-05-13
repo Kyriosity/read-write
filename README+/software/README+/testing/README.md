@@ -4,7 +4,7 @@ Tests are optional but highly recommended and a natural share of software develo
 
 
 **Further**↙️:\
-|- [**Pitfalls**](README+/tests-pitfalls.md)\
+|--- [Pitfalls](README+/tests-pitfalls.md)\
 |--- Test 3D
 
 |- **C# design decisions**➡️:\
