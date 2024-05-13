@@ -44,17 +44,22 @@ The same magazine over seven decades later: "Fully transistorized computer, the 
 <details>
 <summary><ins>&nbsp;<b>...to write the documentation</b>&nbsp;</ins></summary>
 &nbsp;
-  
+
+> **Epistula non erubescit**\
+_Marcus Tullius Cicero_ (106-43 BC)\
+<sub>[Compiler too]</sub>
+
 > **There's no such freak who wouldn't find a mate and there's**\
 **no such nonsense that won't find a proper reader.**\
 _Anton Chekhov_ (1860-1904), "Rules for novice writers"
 
-> **Epistula non erubescit**\
-_Marcus Tullius Cicero_ (106-43 BC)
-
-> **Write what you <s>want</s> know.**\
+> **Write what you know.**\
 _Mark Twain_ (1835-1910)
 
+> **I wish you were aware from what stray matter**\
+> **Springs poetry to prosper without shame,** ...\
+_Anna Akhmatova_ (1889-1866)\
+"Unsuited to my purpose in the rhyming...", translated by _Peter Tempest_
 
 > **If they give you lined paper, write the other way.**\
 _Juan Ramón Jiménez_ (1881-1958), 1956 Nobel Prize in Literature\
