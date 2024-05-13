@@ -113,8 +113,8 @@ Not only the East grant us profound and eloquent teaching! What about this Mr. K
 
 #### Handshake thru generations
 
-> **There are three things a man can watch forever: water, fire, starry sky**\
-**and only one to do: phantasy tasks, which others will commit**.\
+> **There are three things that one can watch and one can do forever:\
+water, fire, starry sky,** and **tasks, which others will commit**.\
 _Earliest humans_ (ca. 300`000 ago)
 
 ---
@@ -126,10 +126,10 @@ _Earliest humans_ (ca. 300`000 ago)
 #### German philosophy always rules
 
 > **Don't believe any thought that wasn't born in the open air and with free movement.**<sup>🚶</sup>\
+_Friedrich Wilhelm Nietzsche_ (1844-1900)\
 > &nbsp;\
 > **We should consider every day lost on which we have not danced at least once**.<sup>👯</sup>\
-> &nbsp;\
-> _Friedrich Wilhelm Nietzsche_ (1844-1900)
+> _\*idem*_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🚶</sup> <sub>Full original: „So wenig als möglich sitzen; keinem Gedanken Glauben schenken, der nicht im Freien geboren ist und bei freier Bewegung – in dem nicht auch die Muskeln ein Fest feiern. Alle Vorteile kommen aus den Eingeweiden. – Das Sitzfleisch – ich sagte es schon einmal – die eigentliche Sünde wider den heiligen Geist.“\
  Ecce Homo. Wie man wird, was man ist (1889),</sub>\
