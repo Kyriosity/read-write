@@ -1,5 +1,7 @@
 # Software House from Ghosts 
 
+> This article is a derivative and continuation of [Software creation](../../software/).
+
 ## Part 1. Software architecture
 
 QUOTE REQUIRED
@@ -23,10 +25,9 @@ The term migrated to other sphere and got obscure.
 
 <p dir=rtl>".I am the Architect"<br>🎦&nbsp;<i>The Architect</i><br/>fictitious character of)<br/>(<i>The Matrix Reloaded</i></p>
 
-> This article is a derivative and continuation of [Software creation](../../software/).
-
 In my spoiled and biased opinion, there are no pure _software architects_ while architecture artifacts rest on collective development.
 
+> If there's a microarchitecture is there microarchitect? What about nano?
 
 Architecture, opposite to design, must be a platform-independent<sup>🎈</sup> abstraction which nevertheless must grow from the practical development.
 
