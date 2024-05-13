@@ -1,6 +1,6 @@
 # Software House from Ghosts 
 
-> This article is a derivative and continuation of [Software creation](../../software/).
+> This article is a derivative and continuation of [Software creation](../../../software/).
 
 ## Part 1. Software architecture
 
