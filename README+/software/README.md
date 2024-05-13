@@ -43,6 +43,8 @@ To delve in, we shall first explode the picture.
            Continuity
 
 IMPEDANCE: DESIGN vs. REALIZATION
+
+Ill commu: under value of code vs design
   
 </details>
 
