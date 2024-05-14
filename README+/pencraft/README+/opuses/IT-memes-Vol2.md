@@ -88,9 +88,13 @@ a) Pick a *da Vinci* quote, that motivates you to achieve.\
 b) Remember he was aka Leonardo the Great Procrastinator (certified by the court).\
 c) Optional: remember you aren't Leonardo.
 
-#### Early bird
+#### Proverbs
+
+> **The early bird catches the bookworm.**\
+(be the late worm)
 
 #### That question is too good
+
 #### Think like a grandmaster
 
 > **... bear in mind these prudential rules, _viz._: having a good move, to seek for a better.**
