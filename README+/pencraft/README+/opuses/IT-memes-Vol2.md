@@ -90,8 +90,8 @@ c) Optional: remember you aren't Leonardo.
 
 #### Proverbs
 
-> **The early bird catches the bookworm.**\
-(be the late worm)
+> **The early bird catches the worm.**\
+(Attributed to late bookworms)
 
 #### That question is too good
 
