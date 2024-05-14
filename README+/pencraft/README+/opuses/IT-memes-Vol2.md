@@ -84,9 +84,13 @@ Ecclesiastes 1:18, Webster's Bible Translation.
 
 #### Relief in the great
 
-a) Pick a da Vinci quote, that motivates you to achieve.\
-b) Remember he was aka Leonardo the Great Procrastinator (certified by the court).
+a) Pick a *da Vinci* quote, that motivates you to achieve.\
+b) Remember he was aka Leonardo the Great Procrastinator (certified by the court).\
+c) Optional: remember you aren't Leonardo.
 
+#### Early bird
+
+#### That question is too good
 #### Think like a grandmaster
 
 > **... bear in mind these prudential rules, _viz._: having a good move, to seek for a better.**
