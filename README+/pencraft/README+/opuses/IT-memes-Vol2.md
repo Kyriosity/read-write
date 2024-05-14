@@ -90,10 +90,15 @@ c) Optional: remember you aren't Leonardo.
 
 #### Proverbs
 
-> **The early bird catches the worm.**\
-(Attributed to late bookworms)
+> **The bird catches the early worm.**\
+(The late cat catches the dozy bird.)
 
-#### That question is too good
+#### F.A.Q.
+
+> “That question is too good to spoil with an answer.”\
+_Harry Mulisch_ (1927-2010), The Discovery of Heaven
+
+<sub>This quote is also known from earlier authors.</sub>
 
 #### Think like a grandmaster
 
