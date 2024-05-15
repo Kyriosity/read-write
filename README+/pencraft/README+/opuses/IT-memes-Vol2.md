@@ -95,17 +95,18 @@ c) Optional: remember you aren't Leonardo.
 
 #### F.A.Q.
 
-> “That question is too good to spoil with an answer.”\
+> **That question is too good to spoil with an answer.**\
 _Harry Mulisch_ (1927-2010), The Discovery of Heaven
 
 <sub>This quote is also known from earlier authors.</sub>
 
 #### Think like a grandmaster
 
-> **... bear in mind these prudential rules, _viz._: having a good move, to seek for a better.**
+> **... bear in mind these prudential rules, _viz._:\
+having a good move, to seek for a better.**\
+_Domenico Lorenzo Ponziani_ (1719-1796), best known for chess writing
 
-_Domenico Lorenzo Ponziani_ (1719-1796), best known for chess writing\
-Misattributed to _Emanuel Lasker_
+<sub>Misattributed to _Emanuel Lasker_</sub>
 
 #### East meets West
 
@@ -147,8 +148,6 @@ _Friedrich Wilhelm Nietzsche_ (1844-1900)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🚶</sup> <sub>Full original: „So wenig als möglich sitzen; keinem Gedanken Glauben schenken, der nicht im Freien geboren ist und bei freier Bewegung – in dem nicht auch die Muskeln ein Fest feiern. Alle Vorteile kommen aus den Eingeweiden. – Das Sitzfleisch – ich sagte es schon einmal – die eigentliche Sünde wider den heiligen Geist.“\
  Ecce Homo. Wie man wird, was man ist (1889),</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>👯</sup> <sub>Original: „Wir sollten jeden Tag als verloren betrachten, an dem wir nicht mindestens einmal getanzt haben.“</sub>
-
-_Wir sollten jeden Tag als verloren betrachten, an dem wir nicht mindestens einmal getanzt haben._
  
 ---
 </details>
