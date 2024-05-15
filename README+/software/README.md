@@ -21,13 +21,15 @@ Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four
 
 ## Conclusion, ...
 
-**_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered role-driven processes. 
+**_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered role-driven processes.
+
+The modest scale of many projects will shrink them almost to a rectangular, asking for a little reflection.
 
 <picture>
   <img alt="Arc view at small projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/C-D-D-A_smallPrj.jpg">
 </picture>
 
-If these were moderate projects we could finish the dive here. Bigger project sizes will tear this patchwork. This ...
+Bigger project sizes will tear this patchwork. Poor understanding of them will result in chaos. 
 
 ## ...  which is the very beginning
 
