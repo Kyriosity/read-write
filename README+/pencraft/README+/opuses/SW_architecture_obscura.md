@@ -4,10 +4,9 @@
 
 ## Part 1. Software architecture
 
-QUOTE REQUIRED
+Is there an abstraction of abstraction?
+Yes, formalization of created software.
 
-This goes to ROLES exchange =>>> ↙️
-Immanuel Kant: “Experience without theory is blind, but theory without experience is mere intellectual play."
 
 When we talk about architecture we mean the building.
 
