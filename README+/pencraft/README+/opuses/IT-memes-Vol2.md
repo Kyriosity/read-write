@@ -148,12 +148,24 @@ _Friedrich Wilhelm Nietzsche_ (1844-1900)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🚶</sup> <sub>Full original: „So wenig als möglich sitzen; keinem Gedanken Glauben schenken, der nicht im Freien geboren ist und bei freier Bewegung – in dem nicht auch die Muskeln ein Fest feiern. Alle Vorteile kommen aus den Eingeweiden. – Das Sitzfleisch – ich sagte es schon einmal – die eigentliche Sünde wider den heiligen Geist.“\
  Ecce Homo. Wie man wird, was man ist (1889),</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>👯</sup> <sub>Original: „Wir sollten jeden Tag als verloren betrachten, an dem wir nicht mindestens einmal getanzt haben.“</sub>
- 
+
+
+#### Great ideas that came in the sleep
+
+To name a few of the officially recognized:
+
++ _The principles of analytical geometry_, René Descartes (1596-1650)
++ _The periodic table of chemical elements_, Dmitri Mendeleev (1834-1907)
++ _Special relativity theory_, Albert Einstein (1879-1955)
++ _The model of the atom_, Neils Bohr (1885-1962)
++ _Structure of the benzene molecule_, August Kekulé (1829-1896)
++ _Sewing machine_, Elias Howe (1819-1867)
+
 ---
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>...to interpret bugs the right way</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>...to interpret fails the right way</b>&nbsp;</ins></summary>
 &nbsp;
 
 🚧... coming next ...🚧
