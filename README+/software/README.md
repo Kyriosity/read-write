@@ -48,6 +48,9 @@ Ill commu: under value of code vs design
   
 </details>
 
+Roles:\
+Immanuel Kant: “Experience without theory is blind, but theory without experience is mere intellectual play."
+
 |- Classisication\
 |- Roles share for inclinations\
 |- Architecture and architector\
