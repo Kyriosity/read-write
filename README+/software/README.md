@@ -29,9 +29,9 @@ The modest size and lifetime of many projects will shrink them almost to rectang
   <img alt="Arc view at short projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/C-D-D-A_midiPrj.jpg">
 </picture>
 
-Bigger project sizes will tear this patchwork. Poor understanding of them will result in chaos. 
-
 ## ...  which is the very beginning
+
+Longer timescale and bigger extent will tear this patchwork. Poor understanding of them will result in chaos. 
 
 To delve in, we shall first explode the picture.
 
