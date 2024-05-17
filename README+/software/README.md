@@ -23,15 +23,15 @@ Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered role-driven processes.
 
-The modest size and lifetime of many projects will shrink them almost to rectangular, making further analysis and reflection redundant.
-
+The modest size and lifetime of many projects will shrink them almost to rectangular, ...
 <picture>
   <img alt="Arc view at short projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/C-D-D-A_midiPrj.jpg">
-</picture>
+</picture>\
+... making further analysis and reflection redundant.
 
 ## ...  which is the very beginning
 
-Longer timescale and bigger extent will tear this patchwork. Poor understanding of them will result in chaos. 
+Longer timescale and bigger extent will tear this patchwork. A perfect team will nevertheless ...
 
 To delve in, we shall first explode the picture.
 
