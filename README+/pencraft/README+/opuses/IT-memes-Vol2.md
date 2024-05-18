@@ -117,15 +117,15 @@ having a good move, to seek for a better.**\
 #### Handshake thru generations
 
 > **There are four things to watch forever:\
-water, fire, starry sky,** and **tasks, others commit**.\
+falling water, burning fire, starry sky,** and **tasks, you define and others commit**.\
 _Earliest humans_ (ca. 300`000 ago)
 
 #### Hammer❗
 
 > If you wish to be a success in the world, promise everything, deliver nothing.\
 ― _Napoleon Bonaparte (1769-1821)_\
-Failed\
-<sub>Original: "Si vous escomptez avoir du succès dans le monde, promettez tout, ne donnez rien."</sub>\
+<sub>He failed as a result of being inconsistent with his own saying.</sub>\
+<sub>Original: "Si vous escomptez avoir du succès dans le monde, promettez tout, ne donnez rien."</sub>
 
 ---
 </details>
@@ -195,5 +195,5 @@ To name a few of the officially recognized:
 <p dir="rtl"><b>Postscriptum</b><br/></p>
 <p dir="rtl"><i>I never posted even one-tenth<br/>
 .of garbage quoted as mine</i><br/>
-.K.Marx | A.Einstein | S.Freud <i>et al</i></p>
+.W.Churchill | A.Einstein | S.Freud <i>et al</i></p>
  
