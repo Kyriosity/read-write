@@ -46,28 +46,28 @@ The same magazine over seven decades later: "Fully transistorized computer, the 
 &nbsp;
 
 > **Epistula non erubescit**\
-_Marcus Tullius Cicero_ (106-43 BC)\
+― _Marcus Tullius Cicero (106-43 BC)_\
 <sub>[Compiler too]</sub>
 
 > **There's no such freak who wouldn't find a mate and there's**\
 **no such nonsense that won't find a proper reader.**\
-_Anton Chekhov_ (1860-1904), "Rules for novice writers"
+― _Anton Chekhov (1860-1904)_, "Rules for novice writers"
 
 > **Write what you know.**\
-_Mark Twain_ (1835-1910)
+― _Mark Twain (1835-1910)_
 
 > **_If you could know in what a dirty drain_**\
 > **_The verse does grow without having shame,_** ...\
-_Anna Akhmatova_ (1889-1866), 1964 Nobel Prize in Literature nominee\
+― _Anna Akhmatova (1889-1866)_, 1964 Nobel Prize in Literature nominee\
 "I have no use for odes in battles...", 1964
 
 > **If they give you lined paper, write the other way.**\
-_Juan Ramón Jiménez_ (1881-1958), 1956 Nobel Prize in Literature awardee\
+― _Juan Ramón Jiménez (1881-1958)_, 1956 Nobel Prize in Literature awardee\
 **And so I invented the Monospace.**\
-_George Williams_ (*assumed)
+― _George Williams_ (*assumed)
 
 > **Gimme that torch, now!**\
-_Ray Bradbury_ (1920-2012)\
+― _Ray Bradbury (1920-2012)_\
 after reading the _Twilight_ novel series,\
 *assumed
 
@@ -75,8 +75,8 @@ after reading the _Twilight_ novel series,\
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>...to acquit procrastination and perfectionism</b>&nbsp;</ins></summary>
-  
+<summary><ins>&nbsp;<b>...to acquit procrastination</b>&nbsp;</ins></summary>
+
 #### King Solomon
 
 > **For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.**\
@@ -84,9 +84,12 @@ Ecclesiastes 1:18, Webster's Bible Translation.
 
 #### Relief in the great
 
+🚧 PIC NEXT !
+
 a) Pick a *da Vinci* quote, that motivates you to achieve.\
 b) Remember he was aka Leonardo the Great Procrastinator (certified by the court).\
 c) Optional: remember you aren't Leonardo.
+
 
 #### Proverbs
 
@@ -96,29 +99,15 @@ c) Optional: remember you aren't Leonardo.
 #### F.A.Q.
 
 > **That question is too good to spoil with an answer.**\
-_Harry Mulisch_ (1927-2010), The Discovery of Heaven
-
+― _Harry Mulisch (1927-2010)_, The Discovery of Heaven\
 <sub>This quote is also known from earlier authors.</sub>
 
 #### Think like a grandmaster
 
 > **... bear in mind these prudential rules, _viz._:\
 having a good move, to seek for a better.**\
-_Domenico Lorenzo Ponziani_ (1719-1796), best known for chess writing
-
+― _Domenico Lorenzo Ponziani (1719-1796)_, best known for chess writing\
 <sub>Misattributed to _Emanuel Lasker_</sub>
-
-#### East meets West
-
-![Brevity - sibling of talent](https://img.shields.io/badge/Brevity-Sister_of_Talent-yellow)
-
-> **Do only what only you can do.**\
-_Edsger W. Dijkstra (1930-2002),_\
-_computer scientist, known i.a. for Dijkstra's algorithm._
-
-Not only the East grant us profound and eloquent teaching! What about this Mr. Kipling*? 
-
-&nbsp;&nbsp;&nbsp;&nbsp;* <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
 
 #### Amulets against refactoring ⬇️
 
@@ -127,9 +116,40 @@ Not only the East grant us profound and eloquent teaching! What about this Mr. K
 
 #### Handshake thru generations
 
-> **There are three things that one can watch and one can do forever:\
-water, fire, starry sky,** and **tasks, which others will commit**.\
+> **There are four things to watch forever:\
+water, fire, starry sky,** and **tasks, others commit**.\
 _Earliest humans_ (ca. 300`000 ago)
+
+#### Hammer❗
+
+> If you wish to be a success in the world, promise everything, deliver nothing.\
+― _Napoleon Bonaparte (1769-1821)_\
+Failed\
+<sub>Original: "Si vous escomptez avoir du succès dans le monde, promettez tout, ne donnez rien."</sub>\
+
+---
+</details>
+
+<details>
+<summary><ins>&nbsp;<b>...for perfectionism</b>&nbsp;</ins></summary>
+
+ #### Nature 
+ 
+> The role of the infinitely small in nature is infinitely great.\
+― _Louis Pasteur (1822-1895)_\
+<sub>Original: “Le rôle de l’infiniment petit dans la nature est infiniment grand.”</sub>
+
+#### East meets West
+
+![Brevity - sibling of talent](https://img.shields.io/badge/Brevity-Sister_of_Talent-yellow)
+
+> **Do only what only you can do.**\
+― _Edsger W. Dijkstra (1930-2002),_\
+_computer scientist, known i.a. for Dijkstra's algorithm._
+
+Not only the East grant us profound and eloquent teaching! What about this Mr. Kipling*? 
+
+&nbsp;&nbsp;&nbsp;&nbsp;* <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
 
 ---
 </details>
@@ -140,7 +160,7 @@ _Earliest humans_ (ca. 300`000 ago)
 #### German philosophy always rules
 
 > **Don't believe any thought that wasn't born in the open air and with free movement.**<sup>🚶</sup>\
-_Friedrich Wilhelm Nietzsche_ (1844-1900)\
+― _Friedrich Wilhelm Nietzsche_ (1844-1900)\
 > &nbsp;\
 > **We should consider every day lost on which we have not danced at least once**.<sup>👯</sup>\
 > _\*idem*_
