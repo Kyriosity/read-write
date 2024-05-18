@@ -2,6 +2,12 @@
 
 <p dir="rtl">,Code in English<br/>,comment in Latin<br/>,document en français<br/>. . .</p>
 
+|- Input (Requirements)\
+|- Comments\
+|- Design\
+|- User (customer docu)\
+|- Pencraft
+
 ## Preamble -  `//` Commenting the `code`
 
 Comments can be eye-catching and essential but signal design inconsistency and poor naming.  
