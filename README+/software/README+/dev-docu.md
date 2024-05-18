@@ -2,9 +2,9 @@
 
 <p dir="rtl">,Code in English<br/>,comment in Latin<br/>,document en français<br/>. . .</p>
 
-## `//` Commenting the `code`
+## `//` Preamble -  Commenting the `code`
 
-Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas good pro code is self-descriptive by nature and needs no epistolary clarification<sup>:raising_hand:</sup>.
+Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas good pro code is self-descriptive by nature and needs no epistolary clarification<sup>:raising_hand:</sup>. Even abracadabra in _regex_ processors can be organized into descriptive functions and vars. 
 
 Exploring source codes of prominent providers on GitHub or elsewhere you'll find many (if not the majority) of the files there bloated with comments, rehearsing the names of classes, functions, arguments, and properties with preceding copyright header<sup>©️</sup>.
 
@@ -22,10 +22,10 @@ Exploring source codes of prominent providers on GitHub or elsewhere you'll find
 
 </details>
 
-One other distinct and legitimate niche is [comment-driven development](en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. 
+One other distinct and legitimate niche is [comment-driven development](en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. Further options can be worth deliberation as:
 
-Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). 
-The automation of this idea may stumble on implementation and maintenance expenses but it's worth deliberation.
+* Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation).\
+<sub>The automation of this idea may stumble on implementation and maintenance expenses.</sub>
 
 <p dir="rtl">. . .<br/>but think in 3D diagrams</p>
 
