@@ -109,6 +109,11 @@ having a good move, to seek for a better.**\
 ― _Domenico Lorenzo Ponziani (1719-1796)_, best known for chess writing\
 <sub>Misattributed to _Emanuel Lasker_</sub>
 
+#### Scientifically proven
+
+Nobody notices what's done/
+Marie Skłodowska Curie (1867-1934)
+
 #### Amulets against refactoring ⬇️
 
 > Somewhere it's better to curse in the darkness than to light a single candle.\
