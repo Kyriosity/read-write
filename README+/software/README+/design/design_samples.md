@@ -99,11 +99,11 @@ One of their custom implementations is available as [books and relevant classes]
 
 ---
 
-## Wrapping up - think of them altogether
+## Wrapping up
 
 Developers can select a sample/model good for thinking over a feature or implementing prototypes and tests. 
 
-Furthermore, put major of them on the mental green field of a software addition to plan:
+However, put them all together on the mental green field of growing application to plan:
 
 + multitasking,
 + multi-culture,
