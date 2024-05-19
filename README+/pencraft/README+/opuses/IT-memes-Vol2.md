@@ -75,7 +75,7 @@ after reading the _Twilight_ novel series,\
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>...to acquit procrastination</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>...to procrastinate</b>&nbsp;</ins></summary>
 
 #### King Solomon
 
@@ -84,40 +84,22 @@ Ecclesiastes 1:18, Webster's Bible Translation.
 
 #### Relief in the great
 
-🚧 PIC NEXT !
-
 a) Pick a *da Vinci* quote, that motivates you to achieve.\
 b) Remember he was aka Leonardo the Great Procrastinator (certified by the court).\
-c) Optional: compare hour rates ($1500).
-
+c) Optional: compare the costs of your work.
 
 #### Proverbs
 
 > **The bird catches the early worm.**\
 (The late cat catches the dozy bird.)
 
-#### F.A.Q.
-
-> **That question is too good to spoil with an answer.**\
-― _Harry Mulisch (1927-2010)_, The Discovery of Heaven\
-<sub>This quote is also known from earlier authors.</sub>
-
-#### Think like a grandmaster
-
-> **... bear in mind these prudential rules, _viz._:\
-having a good move, to seek for a better.**\
-― _Domenico Lorenzo Ponziani (1719-1796)_, best known for chess writing\
-<sub>Misattributed to _Emanuel Lasker_</sub>
-
 #### Scientifically proven
 
-Nobody notices what's done/
-Marie Skłodowska Curie (1867-1934)
+> **One never notices what has been done; one can only see what remains to be done.**\
+_― Maria Skłodowska-Curie (1867-1934)_, Nobel prise winner awardee\
+Letter to her brother (1894)
 
-#### Amulets against refactoring ⬇️
-
-> Somewhere it's better to curse in the darkness than to light a single candle.\
-(Attributed to _Ferdinand von Zepellin_ or _von Hindenburg_)
+<sup>PL</sup> <sub>Original: "Człowiek nigdy nie ogląda się na to, co zrobione, ale na to patrzy, co ma przed sobą do zrobienia."</sub>
 
 #### Handshake thru generations
 
@@ -129,7 +111,8 @@ _Earliest humans_ (ca. 300`000 ago)
 
 > If you wish to be a success in the world, promise everything, deliver nothing.\
 ― _Napoleon Bonaparte (1769-1821)_\
-<sub>He failed as a result of being inconsistent with his own saying.</sub>\
+<sub>He failed as a result of being inconsistent with his own saying.</sub>
+
 <sup>🇫🇷</sup> <sub>Original: "Si vous escomptez avoir du succès dans le monde, promettez tout, ne donnez rien."</sub>
 
 ---
@@ -143,6 +126,13 @@ _Earliest humans_ (ca. 300`000 ago)
 > The role of the infinitely small in nature is infinitely great.\
 ― _Louis Pasteur (1822-1895)_\
 <sup>🇫🇷</sup> <sub>Original: “Le rôle de l’infiniment petit dans la nature est infiniment grand.”</sub>
+
+#### Think like a grandmaster
+
+> **... bear in mind these prudential rules, _viz._:\
+having a good move, to seek for a better.**\
+― _Domenico Lorenzo Ponziani (1719-1796)_, best known for chess writing\
+<sub>Misattributed to _Emanuel Lasker_</sub>
 
 #### East meets West
 
@@ -190,10 +180,19 @@ To name a few of the officially recognized:
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>...to interpret fails the right way</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>...to acquit lacks and fails</b>&nbsp;</ins></summary>
 &nbsp;
 
-🚧... coming next ...🚧
+#### F.A.Q.
+
+> **That question is too good to spoil with an answer.**\
+― _Harry Mulisch (1927-2010)_, The Discovery of Heaven\
+<sub>This quote is also known from earlier authors.</sub>
+
+#### Amulets against refactoring
+
+> Somewhere it's better to curse in the darkness than to light a single candle.\
+(Attributed to _Ferdinand von Zepellin_ or _von Hindenburg_)
 
 ---
 </details>
