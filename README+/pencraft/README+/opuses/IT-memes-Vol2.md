@@ -88,7 +88,7 @@ Ecclesiastes 1:18, Webster's Bible Translation.
 
 a) Pick a *da Vinci* quote, that motivates you to achieve.\
 b) Remember he was aka Leonardo the Great Procrastinator (certified by the court).\
-c) Optional: remember you aren't Leonardo.
+c) Optional: compare hour rates ($1500).
 
 
 #### Proverbs
@@ -125,7 +125,7 @@ _Earliest humans_ (ca. 300`000 ago)
 > If you wish to be a success in the world, promise everything, deliver nothing.\
 ― _Napoleon Bonaparte (1769-1821)_\
 <sub>He failed as a result of being inconsistent with his own saying.</sub>\
-<sub>Original: "Si vous escomptez avoir du succès dans le monde, promettez tout, ne donnez rien."</sub>
+<sup>🇫🇷</sup> <sub>Original: "Si vous escomptez avoir du succès dans le monde, promettez tout, ne donnez rien."</sub>
 
 ---
 </details>
@@ -137,7 +137,7 @@ _Earliest humans_ (ca. 300`000 ago)
  
 > The role of the infinitely small in nature is infinitely great.\
 ― _Louis Pasteur (1822-1895)_\
-<sub>Original: “Le rôle de l’infiniment petit dans la nature est infiniment grand.”</sub>
+<sup>🇫🇷</sup> <sub>Original: “Le rôle de l’infiniment petit dans la nature est infiniment grand.”</sub>
 
 #### East meets West
 
