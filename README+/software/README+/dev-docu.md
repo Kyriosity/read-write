@@ -2,13 +2,21 @@
 
 <p dir="rtl">,Code in English<br/>,comment in Latin<br/>,document en français<br/>. . .</p>
 
-## `//` Commenting the `code`
+|- Input (Requirements)\
+|- Comments\
+|- Design\
+|- User (customer docu)\
+|- Pencraft
 
-Comments can be eye-catching and essential but signal design inconsistency and poor naming.  Whereas good pro code is self-descriptive by nature and needs no epistolary clarification<sup>:raising_hand:</sup>.
+## Preamble -  `//` Commenting the `code`
+
+Comments can be eye-catching and essential but signal design inconsistency and poor naming.  
+Good pro code is self-descriptive by nature and needs no epistolary clarification<sup>🙋</sup>, 
+and even abracadabra in _regex_ processors can be broken down into figurative functions and vars. 
 
 Exploring source codes of prominent providers on GitHub or elsewhere you'll find many (if not the majority) of the files there bloated with comments, rehearsing the names of classes, functions, arguments, and properties with preceding copyright header<sup>©️</sup>.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>This statement is for high-level declarative languages.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<sub>This statement is for high-level declarative languages.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>©️</sup>&nbsp;<sub>As if there were no license agreement or such a spell may prohibit impudent copy-paste.</sub>
 
 <details>
@@ -22,19 +30,21 @@ Exploring source codes of prominent providers on GitHub or elsewhere you'll find
 
 </details>
 
-One other distinct and legitimate niche is [comment-driven development](en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. 
+One other distinct and legitimate niche is [comment-driven development](en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. Further options can be worth deliberation as:
 
-Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation). 
-The automation of this idea may stumble on implementation and maintenance expenses but it's worth deliberation.
+* Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation).\
+<sub>The automation of this idea may stumble on implementation and maintenance expenses.</sub>
 
 <p dir="rtl">. . .<br/>but think in 3D diagrams</p>
 
 ## Recording ⏺️ design ⏹️
 
 [Quality code](code-quality.md) reads well, peculiarly when a well-thought-of test plan guides the investigators. And nothing is better for reverse engineering than source code. 
-This approach solus becomes exponentially harder and will not reveal remarkable design/architecture intentions. It's warped to unfold the big picture.
+This approach solus becomes exponentially harder and will not reveal remarkable design/architecture intentions. It's warped to unfold the big canvas of abstractions.
 
-In practice, the code will be obscure and tests will lack clarity and seamless categorization. Code prose and time will bury great (no sarcasm) design decisions unless emphasized in docs.
+In practice, the code will be partly or greatly obscure and tests will lack clarity and seamless categorization. 
+Code prose and time will bury great (no sarcasm) design decisions unless emphasized with a pen. 
+Contrary explorers will overestimate poor or simplified parts unless highlighted.
 
 ### In word
 
