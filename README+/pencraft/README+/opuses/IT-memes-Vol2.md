@@ -180,8 +180,7 @@ To name a few of the officially recognized:
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>...to acquit lacks and fails</b>&nbsp;</ins></summary>
-&nbsp;
+<summary><ins>&nbsp;<b>...to acquit not doing</b>&nbsp;</ins></summary>
 
 #### F.A.Q.
 
@@ -194,8 +193,22 @@ To name a few of the officially recognized:
 > Somewhere it's better to curse in the darkness than to light a single candle.\
 (Attributed to _Ferdinand von Zepellin_ or _von Hindenburg_)
 
+#### Success stories
+
+> **Every time you create something new, there should be questions**... (April 2015 interview with CBS News)\
+_Elizabeth Holmes_, one of 100 most influential people by Time magazine in 2015
+
 ---
 </details>
+
+<details>
+<summary><ins>&nbsp;<b>...to interpret bugs the right way</b>&nbsp;</ins></summary>
+
+🚧 Coming next ...
+---
+</details>
+
+
 <p dir="rtl"><b>Postscriptum</b><br/></p>
 <p dir="rtl"><i>I never posted even one-tenth<br/>
 .of garbage quoted as mine</i><br/>
