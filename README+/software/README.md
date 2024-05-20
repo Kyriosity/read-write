@@ -31,8 +31,8 @@ The modest size and lifetime of many projects will shrink them almost to rectang
 
 ## ...  which is the very beginning
 
-Resource scaling will tear this patchwork, and it's not a figure of speech. High abstraction challenges will result in badly manageable chaos. 
-The growing size and complexity of a less challenging design will deliver a kludge of loosely coupled parts, where "loosely" redefines horribly.
+Resource scaling will tear this patchwork, and it's not a figure of speech. High abstraction will result in badly manageable chaos. 
+The growing size and complexity of a less challenging design will last longer but deliver a kludge of loosely coupled parts, where "loosely" redefines horribly.
 
 To delve in, we shall first explode the picture.
 
@@ -51,12 +51,10 @@ Ill commu: under value of code vs design
   
 </details>
 
-Roles:\
-Immanuel Kant: “Experience without theory is blind, but theory without experience is mere intellectual play."
 
 |- Classisication\
 |- Roles share for inclinations\
 |- Architecture and architector\
-|- Wrapping up
+|- Wrap this
 
 ...
