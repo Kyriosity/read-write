@@ -27,11 +27,12 @@ The modest size and lifetime of many projects will shrink them almost to rectang
 <picture>
   <img alt="Arc view at short projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/C-D-D-A_midiPrj.jpg">
 </picture>\
-... making further analysis and reflection redundant.
+... making it redundant to theorize further.
 
 ## ...  which is the very beginning
 
-Longer timescale and bigger extent will tear this patchwork. A perfect team will nevertheless ...
+Resource scaling will tear this patchwork, and it's not a figure of speech. High abstraction challenges will result in badly manageable chaos. 
+The growing size and complexity of a less challenging design will deliver a kludge of loosely coupled parts, where "loosely" redefines horribly.
 
 To delve in, we shall first explode the picture.
 
@@ -56,6 +57,6 @@ Immanuel Kant: “Experience without theory is blind, but theory without experie
 |- Classisication\
 |- Roles share for inclinations\
 |- Architecture and architector\
-|- 
+|- Wrapping up
 
 ...
