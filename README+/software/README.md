@@ -31,7 +31,9 @@ The modest size and lifetime of many projects will shrink them almost to rectang
 
 ## ...  which is the very beginning
 
-Resource scaling will tear this patchwork, and it's not a figure of speech. High abstraction will result in badly manageable chaos. 
+Resource scaling will tear this patchwork. It's not a figure of speech even if we speak not about OS, dev platforms, or games but traditional LOB applications. 
+
+High abstraction will result in badly manageable chaos. 
 The growing size and complexity of a less challenging design will last longer but deliver a kludge of loosely coupled parts, where "loosely" redefines horribly.
 
 To delve in, we shall first explode the picture.
