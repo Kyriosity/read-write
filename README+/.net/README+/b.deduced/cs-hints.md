@@ -101,6 +101,18 @@ Making a "magic value" to constants or predefined values doesn't clean the code 
 ## Gimmicks
 
 <details>
+<summary><ins>&nbsp;Not only initialized&nbsp;</ins><code>required</code></summary>
+&nbsp;
+
+A `required` field must be set on its parent instantiation. It's not possible in many scenarios (e.g. _builder_, lazy, on demand).
+
+[Clay in use-dev](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcChrono/Models/Hap.cs) shows a custom workaround.
+```csharp
+ UnixYear => _unixYear ?? NotSet.Throw(UnixYear);
+```
+</details>
+
+<details>
 <summary><ins>&nbsp;Benchmark/profile with&nbsp;</ins><code>using</code></summary>
 &nbsp;
 
