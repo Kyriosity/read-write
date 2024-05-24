@@ -10,7 +10,7 @@ The following language artifacts are awkward leastwise for me.
 - Constructor names imply extra refactoring on class/struct renaming (could be independent `ctor()`, `this()`). Take the "untitled" `base()` call in the same constructors.
 - Rudimentary `0` as the start index in collections<sup>:o:</sup>, which doesn't correlate with the count and shall better start from `1`.
 - Missing (default) access modifier<sup>:o:</sup> shall be better reserved for ultimate `private` or better `public` than for specific and less used `internal`
-- The `const` modifier shall be not limited to pre-compiled values (it's mere optimization) but prevent re-assignment, as `init` and `readonly` do.
+- The `const` modifier shall not be limited to pre-compiled values (it's mere optimization) but prevent re-assignment, as `init` and `readonly` do.
 - Nullable declaration (with `?` prefix) is evident for value types but ambiguous for references and objects, which can be nulled anyway:\
 `string a = null; string? b = null;`
 - Gradual releases of syntax shortcuts, such as `?` or `!`, softly erode C# readability.<sup>🙋</sup>
@@ -28,13 +28,14 @@ Advanced C# design reveals more generic restraints and results in *Vodoo program
 
 ## Type system
   
-- Root `object`, both non-abstract and interface-less, asserts flaws in object-oriented design. On the other hand, it brings an "original" footprint, big enough to pollute coding space with names.<sup>👣</sup>
+- Root `object`, both non-abstract and interface-less, asserts flaws in object-oriented design<sup>🐡</sup>. On the other hand, it brings an "original" footprint, big enough to pollute coding space with names.<sup>👣</sup>
 
 - Either `class`, `record`, `record class`, `struct`, `record struct`, or *tuples* can declare an entity. Each has pros and cons for a particular case, but deciding between them could distract from design.
 
 - There's no method signature to specify that it must unconditionally throw an exception, and `void` as a return is incorrect.\
 (The workaround may be to [declare the return as an exception to be thrown](../b.deduced/cs-hints.md#Gimmicks)).
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🐡</sup> <sub>Besides, the override of dummy `Equals()` and `ToString()` may bring nontrivial logic and violate _single responsibility_.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>👣</sup> <sub>Especially annoying in inter-methods within builders, when you expect to select among next steps.</sub>
 
 ## Single-class inheritance
