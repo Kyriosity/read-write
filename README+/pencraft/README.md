@@ -22,4 +22,4 @@ __Furthermore__\
 + Freestyle [**opuses**](README+/opuses), to highlight some complete:\
 |- [Private view on AI in 2020s](README+/opuses/AI-2020s.md)\
 |- [In memory of Lotus Notes](README+/opuses/LN-view.md)\
-|- [IT memes, found reasonable](README+/opuses/IT-memes.md)
+|- [IT memes, found reasonable](README+/opuses/IT-memes.md) and [quotes](README+/opuses/IT-memes-Vol2.md)
