@@ -9,7 +9,7 @@ The planning and presentation of software features oblige one with a pictorial b
 
 ## Chess
 
-<p dir=rtl>.Chess speaks for itself<br><i>Hans Moke Niemann, 2022</i></p>
+<p dir=rtl>.Chess speaks for itself<br><i>Hans Moke Niemann, GM, 2022</i></p>
 
 This popular, with easy-to-learn rules, board strategy of all times renders a favorable playground for software logic.  Other traits are...
 
@@ -101,7 +101,7 @@ One of their custom implementations is available as [books and relevant classes]
 
 ## Wrapping up
 
-Developers can select a sample/model good for thinking over a feature or implementing prototypes and tests. 
+Developers can select this or that sample/model good enough to think over a feature or implement prototypes and tests. 
 
 However, put them all together on the mental green field of growing application to plan:
 
