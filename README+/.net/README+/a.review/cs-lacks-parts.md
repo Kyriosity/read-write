@@ -24,9 +24,10 @@ C# would only profit from a lightweight assembly that could:
 
 ## Dates
 
-Rudimentary `DateTime` and `DateOnly` are not intuitive (e.g. `new DateTime(1999, 9, 1, 9, 5, 6, 7)`), rather constrained (e.g. no BCE years) and inflexible.
+Rudimentary `DateTime` and `DateOnly` are not intuitive (e.g. `new DateTime(1999, 9, 1, 9, 5, 6, 7)`), rather constrained (e.g. no BCE years), and inflexible. 
+Built-in calendars render limited expansion.
 
--------->>>> LiNK to UseDev (Event and its use in Model Timelines !)
+[AbcChrono](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcChrono) in the _use-dev_ repo extends data handling to Bing Bang.
 
 ## Measurement systems
 
