@@ -15,7 +15,7 @@ To begin with, it could be proof of `>0` for collection sizing, though subclassi
 
 ## Constraints
 
-Constraints could allow much more freedom. First, `new()` shall not limit type to a parameterless constructor of objects without `required` fields.
+Constraints could allow much more freedom. Firstmost, `new()` shall not limit type to a parameterless constructor of objects without `required` fields.
 
 <details>
     <summary><ins>&nbsp;Some syntax proposals&nbsp;</ins></summary>
@@ -42,7 +42,7 @@ Retail.Price<N>(N val) : where N : byte, ushort;
 ---
 </details>
 
-Rated queries on Q&A sites depict demands for much more  _constraints_ "grammar".
+Plus-rated queries on Q&A sites form demands for much more  _constraints_ "grammar".
 
 ## Syntax
 
