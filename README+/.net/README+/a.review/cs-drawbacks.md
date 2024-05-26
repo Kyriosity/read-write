@@ -69,15 +69,12 @@ ToDo: an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/
 ### Numbers
   
 - Does either developer ponder ten(!) primitive whole types when writing ordinary `for (var i = 0; i < count; i++)`?
-- Summing up 0.1 and 0.2 will reveal a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)<sup>:link:</sup> unless explicitly declared decimal.<sup>🪲</sup>
-
+- Summing up 0.1 and 0.2 will reveal a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)<sup>:link:</sup> unless explicitly declared decimal.<sup>🪲</sup>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🪲</sup> You may debug `var roundErr = 0.1 + 0.2;` to prove.
 
 Developers should better declare just a *numeric* and distinguish only the way it's processed: fixed (default) or floating. It would be a great option to derive subclasses from this _numeric_ could (with range and precision constraints).
 
 C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.numerics.inumber-1)<sup>:link:</sup> which genericizes numbers but in a bulky and restricted fashion.<sup>🙋</sup>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>LINK TO USE-DEV</sub>
 
 ### String
 
