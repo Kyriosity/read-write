@@ -10,12 +10,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;(Since `4>3` tearful blue was inserted for Design.)</sub>
 
 <details>
-<summary><ins>&nbsp;<b>More spectrum for math, requirements, management, artistry, testing, and administration?</b>&nbsp;</ins></summary>  
+<summary><ins>&nbsp;<b>More spectrum for requirements, management, testing, and administration?</b>&nbsp;</ins></summary>  
 &nbsp;
   
 These are **external** - optional and not, minor to strong, constructive and devastating (also neutral) - forces.
 
 Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four paints. 
+
+There are also math/logic skills and creativity which prop the picture.
 
 </details>
 
