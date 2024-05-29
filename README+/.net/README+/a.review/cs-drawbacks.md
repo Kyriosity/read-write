@@ -70,7 +70,7 @@ ToDo: an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/
   
 - Does either developer ponder ten(!) primitive whole types when writing ordinary `for (var i = 0; i < count; i++)`?
 - Summing up 0.1 and 0.2 will reveal a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)<sup>:link:</sup> unless explicitly declared decimal.<sup>🪲</sup>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🪲</sup> You may debug `var roundErr = 0.1 + 0.2;` to prove.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🪲</sup> Debug `var roundErr = 0.1 + 0.2;` to prove.
 
 Developers should better declare just a *numeric* and distinguish only the way it's processed: fixed (default) or floating. It would be a great option to derive subclasses from this _numeric_ could (with range and precision constraints).
 
