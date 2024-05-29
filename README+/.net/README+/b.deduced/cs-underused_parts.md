@@ -6,16 +6,16 @@ Some of the C# syntax, features, and libraries are underestimated or unrevealed.
 
 C# evolves swiftly with regular and rich releases, but not every developer is an early adaptor, and not every team is eager to update the breadwinning production environment.
 
-However, staying fit with C# is reasonable and feasible. Releases of .NET  are cumulative and stable; besides new syntax and structures, they bring more performance and security. 
+However, staying fit with C# is reasonable and feasible. Releases of .NET are cumulative and stable; besides new syntax and structures, they bring more performance and security. 
 Devoted bloggers<sup>👨‍👩‍👧‍👦</sup> greatly help to separate the wheat from the chaff, and IDEs hint at new features.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I won't recommend any since this must be a personal experience, selection and a matter of taste.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I won't recommend any since this must be a personal experience, selection of the active and a matter of taste.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup> <sub>Revealing [CallerArgumentExpressions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression)<sup>🔗</sup> urged me to rewrite [exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcExt/Errors).</sub>
 
 ## Predicates and delegates as arguments
 
 // ToDo: ➡️ move to hints ! ➡️ \
-They are good for the parametrization of methods calls but are seldom seen there.
+They are good for the parametrization of method calls but are seldom seen there.
 
 ## Multitasking out-of-the-box
 
@@ -59,7 +59,7 @@ The image of "illegal" hacking and rumors of slow performance follow the reflect
 
 ## Dynamic code generation
 
-It doesn't involve deranged imagination to improvise the auto-implementation of interfaces - to spare coding of countless combinations. [Roslyn](https://github.com/dotnet/roslyn) has  much facilitated dynamic code though there's a lack of good tutorials.
+It doesn't involve deranged imagination to improvise the auto-implementation of interfaces - to spare coding of countless combinations. [Roslyn](https://github.com/dotnet/roslyn)<sup>🔗</sup> has  much facilitated dynamic code though there's a lack of good tutorials.
 
 // ToDo: link to use-dev
 
@@ -68,6 +68,14 @@ It doesn't involve deranged imagination to improvise the auto-implementation of 
 ### Props of polymorphism
 
 // ToDo: EXAMPLE !
+
+## Miscellany
+
+### Value Task
+
+[ValueTask](learn.microsoft.com/dotnet/api/system.threading.tasks.valuetask-1)<sup>🔗</sup> was introduced in .NET Core 2.0 to wrap the result of `Task`. It won't create an overhead if the result is available.
+
+Along with another abstraction `IValueTaskSource` it's a choice over `Task` for one-time calls without blocking and similar scenarios.
 
 ## Wrap up
 
