@@ -44,7 +44,7 @@ A class may refer to only one base class but multiple interfaces with default me
 
 However, arranging the code from some interfaces is rather cumbersome and restrictive, and shall be reserved for limited technical purposes (not multiinheritance design).
 
-Other peculiar and arbitrary alternatives are [extension methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>:link:</sup> and dynamic composition (much facilitated with [Roslyn](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)<sup>:link:</sup>).
+Other peculiar and arbitrary alternatives are [extension methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>:link:</sup> and dynamic composition (notably facilitated with [Roslyn](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)<sup>:link:</sup>).
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>I do object multi-inheritance for logic as destructive for single-responsibility but would like it for operational adornment: `ToString()`, `NotifyPropertyChanged`, `Compare` and similar.</sub>
 
