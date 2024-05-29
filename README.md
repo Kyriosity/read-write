@@ -12,7 +12,7 @@
       <a href="README+/software/README+/dev-docu.md">Docu</a><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/design"><b>Design</b></a><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/testing"><b>Testing</b></a><br/>
-     &nbsp;&nbsp;🦋&nbsp;<a href="README+/software/README+/design/design_samples.md">Design samples</a><br/>
+     &nbsp;&nbsp;🌵&nbsp;<a href="README+/software/README+/design/design_samples.md">Samples/Models</a><br/>
      <br/>
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       🥱&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a>
