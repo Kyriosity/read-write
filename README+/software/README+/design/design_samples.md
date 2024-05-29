@@ -93,7 +93,7 @@ Actions vary from simple (flip, rotate) to highly processed retouching or effect
 Software design asks for "still" (static) bare models too. The samples above are more functional ("dynamic") - they have properties and hierarchies but are more demonstrative of processes that change them.
 
 "Static" models can be altered too but first of all they must represent hierarchies, parametrization, and initialization in DEMO fashion. 
-One of their custom implementations is available as [books and relevant classes](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels).
+One of their custom implementations is available as use-dev➡️ [AbcModels](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels).
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>Full original quote: _Architektur ist gefrorene Musik_. Falsely attributed to Johann Wolfgang von Goethe (1749-1832).</sub>
 
@@ -109,6 +109,8 @@ However, put them all together on the mental green field of growing application 
 + multi-culture,
 + undo-redo,
 + conversions.
+
+and mix them (e.g. async undo-redo,  or multi-culture as units).
 
 ---
 
