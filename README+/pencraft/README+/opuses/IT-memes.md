@@ -67,6 +67,15 @@ Justified, ability in exact sciences is no longer a prerequisite for applied pro
 </details>
 
 <details>
+<summary><ins>&nbsp;<b>Historic photos</b>&nbsp;</ins></summary>
+&nbsp;
+
+[![Here is X. Calm down Pythagoras](../_rsc/_img/photo/hist/IBM350_1956.jpg)](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/_rsc)
+
+---------
+</details>
+
+<details>
 <summary><ins>&nbsp;<b>AI</b>&nbsp;</ins><code>xor</code><ins>&nbsp;<b>IT</b>&nbsp;</ins></summary>
 &nbsp;
 
