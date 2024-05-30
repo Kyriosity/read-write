@@ -69,7 +69,7 @@ Justified, ability in exact sciences is no longer a prerequisite for applied pro
 <details>
 <summary><ins>&nbsp;<b>Historic photos</b>&nbsp;</ins></summary>
 
-### :cd: When strong skills in IT were obvious...
+### :cd: When disks were indeed hard and strong skills in IT were obvious...
 
 [![Here is X. Calm down Pythagoras](../_rsc/_img/photo/hist/IBM350_1956.jpg)](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/_rsc)\
 IBM&nbsp;350 disk drive in 1956 was ... you can see the dimensions, feel the weight, and guess the size in MBytes.
