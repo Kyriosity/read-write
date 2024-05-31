@@ -71,8 +71,13 @@ Justified, ability in exact sciences is no longer a prerequisite for applied pro
 
 ### :cd: When disks were indeed hard and strong skills in IT were obvious...
 
-[![Here is X. Calm down Pythagoras](../_rsc/_img/photo/hist/IBM350_1956.jpg)](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/_rsc)\
+[![Loading IBM disk in 1956 to rent](../_rsc/_img/photo/hist/IBM350_1956.jpg)](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/_rsc)\
 IBM&nbsp;350 disk drive in 1956 was ... you can see the dimensions, feel the weight, and guess the size in MBytes.
+
+### 🗃️ Universal storage of all times
+
+[![Punch cards in 1960s](../_rsc/_img/photo/hist/1966.punch-cards_stack.jpg)](punch_card.md)\
+A stack of punch cards for casual programme.
 
 ---------
 </details>
