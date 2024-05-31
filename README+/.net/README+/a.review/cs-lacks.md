@@ -43,17 +43,17 @@ Retail.Price<N>(N val) : where N : byte, ushort;
 
 ```
 
-To a turn (for me) numbers and constraints shall be like:
+To a turn (for me) numbers and constraints shall be like this sketch:
 
 ```csharp
 
-method<N>(N arg) where N : number, N !=0
+method<N>(N arg) where N : number, N > 0 AND N < 150
 
-method<N1, N2>(N1, N2) where N1, N2 : integer
-   where N1<100  
-   where N2
+method<N1, N2>(N1 left, N2 right) where N1, N2 : integer
+   where N1 < 100  
+   where N2 < 0
 
-// and similar conditions
+// and much more similar 
 ```
 
 ---
@@ -71,14 +71,11 @@ Some patterns and practices (named args, side-typing) reduce the risk but bring 
 Using an object initializer technique would be a relief.
 
 ```csharp
-
 // longly known method
-Calc(int a, short b, long c = 1);
+Register(string firstName, string secondName, byte age, short numOrders, bool knownUser = false);
 
-// its call
-- Bonus.Calc(IEnumerable<T> months) 
-+ Bonus.Calc(IEnumerable<T> months) 
-
+// alternate call
+Register { lastName = "Deer", firstName = "John", numOrders = 2, age = 18 }
 ```
 
 This also would make much prettier initialization of objects from factory/builder methods.
@@ -88,7 +85,7 @@ This also would make much prettier initialization of objects from factory/builde
 There's no excuse why shortcuts like `ArgumentNullException.ThrowIfNull(...)` aren't added to most exceptions. 
 There could also be static classes without evident _Exception_ suffix (e.g. `NotImplemented.Throw()`). 
 
-GUARDS and LINKE to USE-DEV **! ! ! **
+GUARDS and LINK to USE-DEV **!**
 
 ### Extra inheritance
 
