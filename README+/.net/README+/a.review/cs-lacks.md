@@ -37,8 +37,21 @@ I long for better [numbers](cs-drawbacks.md#Numbers) in C# but meanwhile constra
 // rationally limited natural number
 Retail.Price<N>(N val) : where N : byte, ushort;
 
+- Bonus.Calc(IEnumerable<T> months) where T : Enum
++ Bonus.Calc(IEnumerable<T> months) where T : Month OR Months // Months is Month but [Flags]
+
 
 ```
+
+To a turn (for me) numbers and constraints shall be like:
+
+```csharp
+
+method<N1, N2>(N1, N2) where N1 : whole, <100 where
+
+// and similar conditions
+```
+
 ---
 </details>
 
@@ -46,10 +59,27 @@ Plus-rated queries on Q&A sites form demands for much more  _constraints_ "gramm
 
 ## Syntax
 
+### Method calls as object initializer
+
+If a method has arguments of compatible type, the chances are good to shuffle them by mistake.\
+Some patterns and practices (object/enums, named ones) may reduce the risk, but they are overhead, and you still must deal with established calls and obey the args order.
+
+Using an object initializer technique would be a rescue.
+
+```csharp
+
+// not the best signature
+Calc(int a, short b, long c = 1);
+
+// transparent call
+
+
+```
+
 ### Sugar
 
 There's no excuse why shortcuts like `ArgumentNullException.ThrowIfNull(...)` aren't added to most exceptions. 
-As well there could be static classes without evident _Exception_ suffix (e.g. `NotImplemented.Throw()`). 
+There could also be static classes without evident _Exception_ suffix (e.g. `NotImplemented.Throw()`). 
 
 GUARDS and LINKE to USE-DEV **! ! ! **
 
