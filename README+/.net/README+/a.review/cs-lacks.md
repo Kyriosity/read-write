@@ -47,7 +47,11 @@ To a turn (for me) numbers and constraints shall be like:
 
 ```csharp
 
-method<N1, N2>(N1, N2) where N1 : whole, <100 where
+method<N>(N arg) where N : number, N !=0
+
+method<N1, N2>(N1, N2) where N1, N2 : integer
+   where N1<100  
+   where N2
 
 // and similar conditions
 ```
@@ -55,26 +59,29 @@ method<N1, N2>(N1, N2) where N1 : whole, <100 where
 ---
 </details>
 
-Plus-rated queries on Q&A sites form demands for much more  _constraints_ "grammar".
+Plus-rated queries on Q&A sites formulate demands for _constraints_ "grammar" further, better, and wider.
 
 ## Syntax
 
-### Method calls as object initializer
+### Method arguments as in object initializer
 
 If a method has arguments of compatible type, the chances are good to shuffle them by mistake.\
-Some patterns and practices (object/enums, named ones) may reduce the risk, but they are overhead, and you still must deal with established calls and obey the args order.
+Some patterns and practices (named args, side-typing) reduce the risk but bring overhead, and you still must deal with established calls and obey the args order.
 
-Using an object initializer technique would be a rescue.
+Using an object initializer technique would be a relief.
 
 ```csharp
 
-// not the best signature
+// longly known method
 Calc(int a, short b, long c = 1);
 
-// transparent call
-
+// its call
+- Bonus.Calc(IEnumerable<T> months) 
++ Bonus.Calc(IEnumerable<T> months) 
 
 ```
+
+This also would make much prettier initialization of objects from factory/builder methods.
 
 ### Sugar
 
