@@ -2,14 +2,15 @@
 
 > Not a paraphrase of [punchcards story](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup>🔗</sup> but short personal vintage experience.
 
+[![punched card image](../_rsc/_img/af/punchcard.jpg)](../_rsc/_img/af/punchcard.jpg)
+
 [BG PIC REQUIRED]
 
-It was long after the punch decline and the last year they were legacy coursework at my university<sup>🙋‍♂️</sup>. It was an exercise in PL/I&nbsp;<sup>1️⃣</sup> - print a curve of a simple exponential function: X-Y 2D with teletype symbols.
-
+It was long after the punch decline and the last year they were legacy coursework at my university<sup>🙋‍♂️</sup>. It was an exercise in PL/I&nbsp;<sup>1️⃣</sup> - print a curve of a simple exponential function: X-Y 2D with teletype symbols.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup>&nbsp;<sub>I guess because of the end of the "carton" supply.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>1️⃣</sup>&nbsp;<sub>IBM's [Programming Language One](https://en.wikipedia.org/wiki/PL/I)<sup>🔗</sup> - perhaps the best name and acronym of all time.</sub>
 
-[DRAWING REQUIRED]
+[DRAWING REQUIRED] ax^2 + bx + c
 
 It looks bizarre in this day and age what barely agile steps it took:
 
@@ -28,4 +29,13 @@ Between steps 3 and 4 a fellow disciple intruded: shuffling my deck unnoticed.
 
 ## Footnote. The best storage ? 
 
+Enough crypto [footnote ] to proof of work punch
 
+NOW, SERIOUS
+
+Domestic use
+
+make them great again ?
+Mini/micro ? OOP/OOD
+
+Best media ever by pros and cons: eco, resistance (electromagnetic)
