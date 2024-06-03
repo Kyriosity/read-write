@@ -2,7 +2,7 @@
 
 > Not a paraphrase of [punchcards story](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup>🔗</sup> but short personal vintage experience.
 
-[![punched card image](../_rsc/_img/af/punchcard.jpg)](../_rsc/_img/af/punchcard.jpg)
+[![punched card image](../_rsc/_img/af/punchcard.jpg)](../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)
 
 [BG PIC REQUIRED]
 
