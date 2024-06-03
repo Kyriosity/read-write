@@ -26,6 +26,6 @@ The fastest and least trouble.
 
 Between steps 3 and 4 a fellow disciple intruded: shuffling my deck unnoticed.
 
-## Footnote 
+## Footnote. The best storage ? 
 
 
