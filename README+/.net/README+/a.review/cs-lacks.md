@@ -65,8 +65,9 @@ Plus-rated queries on Q&A sites formulate demands for _constraints_ "grammar" fu
 
 ### Method arguments as in object initializer
 
-If a method has arguments of compatible type, the chances are good to shuffle them by mistake.\
-Some patterns and practices (named args, side-typing) reduce the risk but bring overhead, and you still must deal with established calls and obey the args order.
+If a method has arguments of compatible type, the chances are good to shuffle them by mistake.
+
+Named arguments are fine but optional. Some patterns and practices (sub-calls, side-typing) ensure the right assignment but bring overhead, and you still must deal with established calls and obey the args order.
 
 Using an object initializer technique would be a relief.
 
