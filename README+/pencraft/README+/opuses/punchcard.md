@@ -1,10 +1,12 @@
 # Punched cards - Once upon a time
 
-> Not a paraphrase of [punchcards story](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup>🔗</sup> but short personal vintage experience.
+> Not a paraphrase of [punchcards story](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup>🔗</sup>
 
-[![punched card image](../_rsc/_img/af/punchcard.jpg)](../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)
+## Personal SYN0 experience - short and vintage
 
-It was long after the punch decline and the last year they were legacy coursework at my university<sup>🙋‍♂️</sup>. 
+[![punched card snapshot](../_rsc/_img/af/punchcard.jpg)](../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)
+
+It was long after the punch decline and the last year they were legacy PL/I coursework at my university<sup>🙋‍♂️</sup>. 
 
 ## The Task
 
