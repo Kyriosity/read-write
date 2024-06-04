@@ -4,11 +4,17 @@
 
 [![punched card image](../_rsc/_img/af/punchcard.jpg)](../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)
 
-It was long after the punch decline and the last year they were legacy coursework at my university<sup>🙋‍♂️</sup>. It was an exercise in PL/I&nbsp;<sup>1️⃣</sup> - print a curve of a simple exponential function: X-Y 2D with teletype symbols.\
+It was long after the punch decline and the last year they were legacy coursework at my university<sup>🙋‍♂️</sup>. 
+
+## The Task
+
+It was an exercise in PL/I&nbsp;<sup>1️⃣</sup> - print a curve of a simple exponential function: X-Y 2D with teletype symbols.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup>&nbsp;<sub>I guess because of the end of the "carton" supply.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>1️⃣</sup>&nbsp;<sub>IBM's [Programming Language One](https://en.wikipedia.org/wiki/PL/I)<sup>🔗</sup> - perhaps the best name and acronym of all time.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>1️⃣</sup>&nbsp;<sub>IBM's [Programming Language One](https://en.wikipedia.org/wiki/PL/I)<sup>🔗</sup> - perhaps the best name reserved.</sub>
 
 [DRAWING REQUIRED] ax^2 + bx + c
+
+## Paper in, paper out
 
 It looks bizarre in this day and age what barely agile steps it took:
 
