@@ -15,8 +15,15 @@ The purpose of TDD is in no way test automation but means to:
 + vitalize skeleton **functionality**, evaluate trends and risks,
 + couple design fantasies with the tech-stack materiality.
 
-Optionally and cautionally:
+Optionally and cautionary:
 + start a **test framework** of the project (TDD will then outline test coverage with start stuff written in a good black-box manner).
+
+### Downsides of TDD
+
+it was so much test-driven flattery that some criticism must take place. The most negative influence could be _voodoo programming_ to achieve specific results, Others are:
+
+- ever-growing lines of non-production code, which require refactoring and maintenance lesser but comparable to main projects,
+- lack (if not absence) of ripe active frameworks. // 🚧ToDo: links to 3D
 
 ## DDD (Design Driven Design)
 
@@ -52,13 +59,13 @@ TDD/DDD may look first if not fun but a cozy exercise. Getting further will ask 
 
 ### Overfocus on structure and names
 
-With only a handful of tests written accurate naming and categorization may distract one from new and convey not much value. Detailed development and refactoring will all the same urge you to revise these attributes. 
+With only a handful of tests written accurate naming and categorization may distract one from new and convey little value. Detailed development and refactoring will urge you to revise these attributes. 
 
 ### Misjudgement of trivia
 
-Maybe it's the biggest illusion that apparent "live" concepts are easygoing to implement.<sup>:classical_building:</sup>
+These mirages appear chiefly on the horizons of new software. Apparent "live" concepts look easygoing to implement without much TDD.<sup>:classical_building:</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:classical_building:</sup> <sub>Ancient Greeks already did a good piece of TDD for math, but applying it to programmatic abstractions will surprise one with total rethinking (no exaggeration).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:classical_building:</sup> <sub>_Gia parádeigma_, ancient Greeks did a good piece of TDD for math, but applying it to programmatic abstractions will surprise one with total rethinking (no exaggeration).</sub>
 
 ### Contraindications
 
