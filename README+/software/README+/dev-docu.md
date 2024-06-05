@@ -79,6 +79,8 @@ However, they cost time, restrain presentation, stick thinking to 2D (literally 
 Fast simple sketches resting on multiple imaginary axes (horizontal grouping, aggregation/inheritance hierarchies, timeline) could be enough and broader in all senses. 
 They may start on a whiteboard during a casual discussion and as taking shapes recorded in (vector) graphics tools of choice and skills. 
 
+> **NOTE**❗ Whiteboard sketches are potent for understanding, but they will be trash for "future generations" unless trimmed and formalized.
+
 ### Artistic images
 
 Applying aesthetic traits to attribute images or enliven the text highly motivates readers when done with taste and bounds. Highly recommended as memory "anchors" on difficult subjects.
