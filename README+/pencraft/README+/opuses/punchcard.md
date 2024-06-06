@@ -31,17 +31,20 @@ If fail, read errors, debug (mentally), and go to step&nbsp;(2).
 
 The motivation was so high (as you can see) that most had succeeded in the first approach but not me. Between (4) and (5) a fellow disciple intruded: shuffling my deck unnoticed. A lesson learned about data security.
 
-## 🚧 Footnote. The best storage ?
+## Afterword
 
-🚧DRAFT ,,,
+My humble story was only a reminder of this great medium. Despite its fast decadence, the punchcard can be titled the best of all times by a superposition of pros and cons. 
 
-NOW, SERIOUS
+Endurance
 
-Enough crypto [footnote ] to proof of work punch
+Mechanical, electromagnetically
 
-Domestic use
+Eco-friendly and highly utilizable. Bookmarks and other domestic uses
 
-make them great again ?
+Enough crypto to proof of work punch
+
 Mini/micro ? OOP/OOD
 
-Best media ever by pros and cons: eco, resistance (electromagnetic)
+Ecology
+
+ resistance (electromagnetic)
