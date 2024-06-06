@@ -1,6 +1,6 @@
 # Punched cards - Once upon a time
 
-> Not a paraphrase of [the history](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup>🔗</sup>
+> Not a paraphrase of [wiki files](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup>🔗</sup>.
 
 [![punched card snapshot](../_rsc/_img/af/punchcard.jpg)](../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)
 
@@ -29,7 +29,7 @@ One can definitely treat their occupation as true coders.\
 8. Search for a graph there among collateral outputs.\
 If fail, read errors, debug (mentally), and go to step&nbsp;(2).
 
-As you can see, the motivation was so high that most had success from the first run but not me. Between (4) and (5) a fellow disciple intruded: shuffling my deck unnoticed. A lesson learned about data security.
+The motivation was so high (as you can see) that most had succeeded in the first approach but not me. Between (4) and (5) a fellow disciple intruded: shuffling my deck unnoticed. A lesson learned about data security.
 
 ## 🚧 Footnote. The best storage ?
 
