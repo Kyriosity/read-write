@@ -13,11 +13,11 @@
 <summary><ins>&nbsp;<b>More spectrum for requirements, management, testing, and administration?</b>&nbsp;</ins></summary>  
 &nbsp;
   
-These are **external** - optional and not, minor to strong, constructive and devastating (also neutral) - forces.
+These are **external** - optional and not, minor to strong, constructive and devastating (also neutral) - forces, factors, props, and drives. 
 
 Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four paints. 
 
-There are also math/logic skills and creativity which prop the picture.
+Initiative and funding are the canvas. Math/logic and artistic skills, domain expertise, and creativity prop the picture.
 
 </details>
 
@@ -33,7 +33,7 @@ The modest size and lifetime of many projects will shrink them almost to rectang
 
 ## ...  which is the very beginning
 
-Resource scaling will tear this patchwork. It's not a figure of speech even if we speak not about OS, dev platforms, or games but traditional LOB applications. 
+Resource scaling will tear this patchwork - not a figure of speech. Even if we speak not about OSes, IDEs, or game ecosystems but traditional LOB applications. 
 
 High abstraction will result in badly manageable chaos. 
 The growing size and complexity of a less challenging design will last longer but deliver a kludge of loosely coupled parts, where "loosely" redefines horribly.
@@ -59,6 +59,7 @@ Ill commu: under value of code vs design
 |- Classisication\
 |- Roles share for inclinations\
 |- Architecture and architector\
+|- Worth of coding (and mystic coders)\
 |- Wrap this
 
 ...
