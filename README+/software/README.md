@@ -25,15 +25,15 @@ Initiative and funding are the canvas. Math/logic and artistic skills, domain ex
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered role-driven processes.
 
-The modest size and lifetime of many projects will shrink them almost to rectangular, ...
+Many projects' modest size and lifetime will shrink them almost to rectangular, ...
 <picture>
   <img alt="Arc view at short projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/C-D-D-A_midiPrj.jpg">
 </picture>\
-... making it redundant to theorize further.
+... making further "theory" redundant.
 
 ## ...  which is the very beginning
 
-Resource scaling will tear this patchwork - not a figure of speech. Even if we speak not about OSes, IDEs, or game ecosystems but traditional LOB applications. 
+Resource scaling on larger projects will tear this patchwork - not a figure of speech. Even if we speak not about OSes, IDEs, or game ecosystems but traditional LOB applications. 
 
 High abstraction will result in badly manageable chaos. 
 The growing size and complexity of a less challenging design will last longer but deliver a kludge of loosely coupled parts, where "loosely" redefines horribly.
@@ -55,7 +55,7 @@ Ill commu: under value of code vs design
   
 </details>
 
-
+|- Objectives\
 |- Classisication\
 |- Roles share for inclinations\
 |- Architecture and architector\
