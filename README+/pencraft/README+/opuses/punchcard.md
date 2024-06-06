@@ -13,19 +13,20 @@ It was long after the punch decline and the last year they were legacy coursewor
 It was an exercise in PL/I&nbsp;<sup>1️⃣</sup> - present a curve of an assigned function (some $`ax^2 + bx + c`$ was mine). Using teletype symbols to print 2D X-Y graph.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>1️⃣</sup>&nbsp;<sub>[Programming Language One](https://en.wikipedia.org/wiki/PL/I)<sup>🔗</sup> - perhaps the best name IBM reserved.</sub>
 
-### Paper in, paper out
+### Carton in, paper out
 
 It looks bizarre in this day and age what barely agile steps it took:
 
 1. Think over the _programme_ and sketch it in the dedicated notebook (the paper one).
 2. Fill in a lined paper form with procedural statements. (I wonder how this would be object-oriented.)
 3. Submit this papyrus to the punch shop - where good ladies were used to decypher student scribble.\
+One can definitely treat their occupation as true coders.\
 ... 🌙 one day after ⛅ ... 
-4. Fetch a deck of punched paperboards.
-5. Bring it to the _computing center_ (one who saw mainframes would advocate the name).\
+5. Fetch a deck of punched paperboards.
+6. Bring it to the _computing center_ (one who saw mainframes would advocate the name).\
 ... 🌙 one/two days after ⛅ ... 
-6. Pick the medieval scroll in the "print" dprt. 
-7. Search for a graph there among collateral outputs.\
+7. Pick the medieval scroll in the "print" dprt. 
+8. Search for a graph there among collateral outputs.\
 If fail, read errors, debug (mentally), and go to step&nbsp;(2).
 
 As you can see, the motivation was so high that most had success from the first run but not me. Between (4) and (5) a fellow disciple intruded: shuffling my deck unnoticed. A lesson learned about data security.
