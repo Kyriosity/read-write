@@ -17,13 +17,13 @@ These are **external** - optional and not, minor to strong, constructive and dev
 
 Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four paints. 
 
-Initiative and funding are the canvas. Math/logic and artistic skills, domain expertise, and creativity prop the picture.
+Initiative and funding render the canvas. Math/logic and artistic skills, domain expertise, and creativity prop the picture.
 
 </details>
 
 ## Conclusion, ...
 
-**_Coding_**, **_development_**, **_design_**, and **_architecture_** combine tied, overlapping, and time-unordered role-driven processes.
+**_Coding_**, **_development_**, **_design_**, and **_architecture_** are tied, overlapping, and time-unordered role-driven processes.
 
 Many projects' modest size and lifetime will shrink them almost to rectangular, ...
 <picture>
@@ -31,14 +31,14 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 </picture>\
 ... making further "theory" redundant.
 
-## ...  which is the very beginning
+## ...  which opens tomes
 
-Resource scaling on larger projects will tear this patchwork - not a figure of speech. Even if we speak not about OSes, IDEs, or game ecosystems but traditional LOB applications. 
+Resource scaling on larger projects will tear this patchwork - not a figure of speech. Even if we speak not about megastructures (OSs, IDEs, gaming ecosystems, ...) but traditional LOB applications. 
 
-High abstraction will result in badly manageable chaos. 
-The growing size and complexity of a less challenging design will last longer but deliver a kludge of loosely coupled parts, where "loosely" redefines horribly.
+Towering abstractions, FIELDS, and waves of task tides will result in badly manageable chaos. 
+A less challenging design's growing size and complexity will last longer but deliver a kludge of loosely coupled parts, where "loosely" redefines horribly.
 
-To delve in, we shall first explode the picture.
+To delve in, we shall first explode the picture.'
 
 <details>
   <summary><ins>&nbsp;FORCES&nbsp;</ins></summary
