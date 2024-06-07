@@ -30,7 +30,7 @@ if (!PauseOver(out var remaining))
    _worker.Sleep(remaining);
 ```
 
-Can also be an exception damper (see in _Gimmicks_ below).
+Exception dampers (see in _Gimmicks_ below) can also use `out`.
 
 </details>
 
@@ -101,10 +101,12 @@ Making a "magic value" to constants or predefined values doesn't clean the code 
 ## Gimmicks
 
 <details>
-<summary><ins>&nbsp;Not only initialized&nbsp;</ins><code>required</code></summary>
+<summary><ins>&nbsp;Not only instance&nbsp;</ins><code>required</code></summary>
 &nbsp;
 
-A `required` field must be set on its parent instantiation. It's not possible in many scenarios (e.g. _builder_, lazy, on demand).
+A `required` marker is essential but requires immediate instantiation, impossible in many scenarios (e.g. _builder_, lazy, on demand).
+
+Leaving the default value for non-nullable values is bug-friendly, and nullable isn't much better.
 
 [Clay in use-dev](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcChrono/Models/Hap.cs) shows a custom workaround.
 ```csharp
