@@ -33,11 +33,14 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 
 ## ...  which opens tomes
 
-Resource scaling on larger projects will tear this patchwork - not a figure of speech. Even if we speak not about megastructures (OSs, IDEs, gaming ecosystems, ...) but traditional LOB applications. 
+Large projects will tear this patchwork - not a figure of speech. Even if we speak not about megastructures (OSs, IDEs, gaming worlds, ...) but traditional LOB<sup>🕴️</sup> applications or NAME4SMART. 
+
+Horizontal resource scaling will result in a kludge - getting harder and more expensive to evolve, and maintain, with little EXPERTise for NEXT GENEs.
 
 Towering abstractions, FIELDS, and waves of task tides will result in badly manageable chaos. 
 A less challenging design's growing size and complexity will last longer but deliver a kludge of loosely coupled parts, where "loosely" redefines horribly.
 
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🕴</sup>< sub>Line of Business Applications</sub>
 To delve in, we shall first explode the picture.'
 
 <details>
