@@ -35,6 +35,14 @@ One other distinct and legitimate niche is [comment-driven development](en.wikip
 * Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation).\
 <sub>The automation of this idea may stumble on implementation and maintenance expenses.</sub>
 
+### Commenting the code out
+
+ Switching off code lines is a usual manipulation but committing one requires a comment at least that it was on purpose. A team may decide on acronyms like:\
+ `///DEL` - delete after review\
+ `///ERR` - doesn't work
+
+---
+
 <p dir="rtl">. . .<br/>but think in 3D diagrams</p>
 
 ## Recording ⏺️ design ⏹️
