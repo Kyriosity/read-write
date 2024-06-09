@@ -33,7 +33,7 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 
 ## ...  which opens tomes
 
-Large projects will tear this patchwork - not a figure of speech. Even if we speak not about megastructures (OSs, IDEs, gaming worlds, ...) but traditional LOB<sup>🕴️</sup> applications or NAME4SMART. 
+Large/challenging projects will tear this patchwork - not a figure of speech. Even if we speak not about megastructures (OSs, IDEs, gaming worlds, ...) but traditional LOB<sup>🕴️</sup> applications or NAME4SMART. 
 
 Horizontal resource scaling will result in a kludge - getting harder and more expensive to evolve, and maintain, with little EXPERTise for NEXT GENEs.
 
