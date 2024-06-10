@@ -33,9 +33,9 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 
 ## ...  which opens tomes
 
-Expansion and/or _complex problems_ will tear this patchwork - not a figure of speech, and not limited to megastructures like OSs, IDEs, gaming engines, and award-winning solutions. https://en.wikipedia.org/wiki/Millennium_Technology_Prize
+Expansion or complexity beyond usual will tear this patchwork - not a figure of speech, and not limited to megastructures like OSs, IDEs, gaming engines, and nominee solutions.
 
-USUAL resource scaling against "horizontal" growth will deliver a kludge - getting harder and more expensive to evolve, and maintain, with no rational heritage except how not to do it.
+"Horizonal" resource scaling against "horizontal" growth will deliver a kludge - getting harder and more expensive to evolve, and maintain, with no rational heritage except how not to do it.
 but traditional LOB<sup>🕴️</sup> applications or NAME4SMART
 
 Towering abstractions, FIELDS, and waves of task tides will result in badly manageable chaos. 
@@ -59,7 +59,7 @@ Ill commu: under value of code vs design
   
 </details>
 
-|- Objectives\
+|- Objectives ( GRAPH STEEP-RAISe-LINE)\
 |- Classisication\
 |- Roles share for inclinations\
 |- Architecture and architector\
