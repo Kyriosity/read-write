@@ -1,6 +1,6 @@
 # The creation of software
 
-### **What makes software?** In a word - _development_, in four - 
+**What makes software?** In a word - _development_, in four - 
 
 <picture>
   <img alt="Arc view at small projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/darkCode2arcGold.jpg">
@@ -33,9 +33,11 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 
 ## ...  which opens tomes
 
-Large/challenging projects will tear this patchwork - not a figure of speech. Even if we speak not about megastructures (OSs, IDEs, gaming worlds, ...) but traditional LOB<sup>🕴️</sup> applications or NAME4SMART. 
+Challenges in X and Y axes<sup>📐</sup> will tear this patchwork - not a figure of speech, and not limited to megastructures like OSs, IDEs, and gaming worlds.\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>📐</sup> <sub>e**X**pansion and complexit**Y**.</sub>
 
 Horizontal resource scaling will result in a kludge - getting harder and more expensive to evolve, and maintain, with little EXPERTise for NEXT GENEs.
+but traditional LOB<sup>🕴️</sup> applications or NAME4SMART
 
 Towering abstractions, FIELDS, and waves of task tides will result in badly manageable chaos. 
 A less challenging design's growing size and complexity will last longer but deliver a kludge of loosely coupled parts, where "loosely" redefines horribly.
