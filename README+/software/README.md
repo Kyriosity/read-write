@@ -13,7 +13,7 @@
 <summary><ins>&nbsp;<b>More spectrum for requirements, management, testing, and administration?</b>&nbsp;</ins></summary>  
 &nbsp;
   
-These are **external** - optional and not, minor to strong, constructive and devastating (also neutral) - forces, factors, props, and drives. 
+These are **external** - optional and not, minor to strong, constructive and devastating (also neutral) - forces, factors, and drives. 
 
 Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four paints. 
 
@@ -33,10 +33,9 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 
 ## ...  which opens tomes
 
-Challenges in X and Y axes<sup>📐</sup> will tear this patchwork - not a figure of speech, and not limited to megastructures like OSs, IDEs, and gaming worlds.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>📐</sup> <sub>e**X**pansion and complexit**Y**.</sub>
+Expansion and/or _complex problems_ will tear this patchwork - not a figure of speech, and not limited to megastructures like OSs, IDEs, gaming engines, and award-winning solutions. https://en.wikipedia.org/wiki/Millennium_Technology_Prize
 
-Horizontal resource scaling will result in a kludge - getting harder and more expensive to evolve, and maintain, with little EXPERTise for NEXT GENEs.
+USUAL resource scaling against "horizontal" growth will deliver a kludge - getting harder and more expensive to evolve, and maintain, with no rational heritage except how not to do it.
 but traditional LOB<sup>🕴️</sup> applications or NAME4SMART
 
 Towering abstractions, FIELDS, and waves of task tides will result in badly manageable chaos. 
