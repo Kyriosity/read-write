@@ -5,7 +5,7 @@
 **In a word - _development_, in four -** 
 
 <picture>
-  <img alt="Arc view at small projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/darkCode2arcGold.jpg">
+  <img alt="Arc view at small projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/ArcDeco/darkCode2arcGold.jpg">
 </picture>
 
 <sup>:de:</sup> <sub>Inspired by informal interpretation of the German flag: from the dark past through the bloody present to the golden future.\
@@ -27,9 +27,9 @@ Initiative and funding render the canvas. Math/logic and artistic skills, domain
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** are tied, overlapping, and time-unordered role-driven processes.
 
-Many projects' modest size and lifetime will shrink them almost to rectangular, ...
+Many projects' modest size and lifetime will shrink them almost to rectangular, ...\
 <picture>
-  <img alt="Arc view at short projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/C-D-D-A_midiPrj.jpg">
+  <img alt="Arc view at short projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg">
 </picture>\
 ... making more theorizing redundant.
 
@@ -41,28 +41,13 @@ Resource scaling against "horizontal" growth of design will raise a kludge - hor
 
 Stacking design decisions to the model heap against towering abstractions will make chaos (inherent to any software dev) unmanageable at a certain height. 
 
-<details>
-  <summary><ins>&nbsp;FORCES&nbsp;</ins></summary
-  
-    EFFERENT (CentriFugal)
-              Sep of Converns(Roles)
-        HOLDING:
-            Commu
-           Continuity
-
-IMPEDANCE: DESIGN vs. REALIZATION
-
-Ill commu: under value of code vs design
-  
-</details>
-
-To distinguish our survey (at least for file system) i couldn't find a better tag but a mocking acronym Arc&nbsp;Deco<sup>🎨</sup> (**Arc**itecture **De**sign d**E**velopnent **Co**ding).
+To distinguish our survey (at least for file system) i couldn't find a better tag but a mocking acronym Arc&nbsp;Deco<sup>🎨</sup> (**Arc**itecture **De**sign d**E**velopment **Co**ding).
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco) `är(t)-dā-ˈkō`</sub>
 
 That's so much to share that can only stop here with the ToC:\
 |- [Objectives](README+/ArcDeco/1.ArcDeco-Objective.md)\
-|- Forces\
+|- [Big Picture and Forces](README+/ArcDeco/2.ArcDeco-BigPict.md)\
 |- Classisication\
 |- Roles share for inclinations\
 |- Architecture and architector\
