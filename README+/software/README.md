@@ -35,14 +35,11 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 
 ## ...  which opens tomes
 
- Axes of e**X**pansion and complexit**Y** beyond the ordinary will tear this patchwork - not a figure of speech, not about megastructures like OSs, IDEs, gaming engines, and nominee solutions.
+ Axes of e**X**pansion and complexit**Y** will tear this patchwork - not a figure of speech. It is not about megastructures (like OSs, IDEs, gaming engines) and IT prizewinners but challenges beyond the ordinary (LOB, CAD).
 
-Resource scaling against "horizontal" growth (e.g. LOB) will raise a kludge - horribly coupled, getting harder and more expensive to evolve and maintain, with no rational heritage but how not to do it.
+Resource scaling against "horizontal" growth of design will raise a kludge - horribly coupled, getting harder and more expensive to evolve and maintain, with no rational heritage but how not to do it.
 
-Stacking design decisions as they come to the model heap will make chaos (inherent to any software dev) unmanageable at a certain height. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🕴</sup>< sub>Line of Business Applications</sub>
-To delve in, we shall first explode the picture.'
+Stacking design decisions to the model heap against towering abstractions will make chaos (inherent to any software dev) unmanageable at a certain height. 
 
 <details>
   <summary><ins>&nbsp;FORCES&nbsp;</ins></summary
@@ -59,7 +56,12 @@ Ill commu: under value of code vs design
   
 </details>
 
-|- Objectives ( GRAPH STEEP-RAISe-LINE)\
+To distinguish our survey (at least for file system) i couldn't find a better tag but a mocking acronym Arc&nbsp;Deco<sup>🎨</sup> (**Arc**itecture **De**sign d**E**velopnent **Co**ding).
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco) `är(t)-dā-ˈkō`</sub>
+
+That's so much to share that can only stop here with the ToC:\
+|- [Objectives](README+/ArcDeco/1.ArcDeco-Objective.md)\
 |- Forces\
 |- Classisication\
 |- Roles share for inclinations\
