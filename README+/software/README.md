@@ -1,6 +1,6 @@
-# The creation of software
+# Software
 
-## What makes software? 
+## What makes it? 
 
 **In a word - _development_, in four -** 
 
@@ -35,11 +35,11 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 
 ## ...  which opens tomes
 
- Axes of e**X**pansion or complexit**Y** beyond the ordinary will tear this patchwork - not a figure of speech, not about megastructures like OSs, IDEs, gaming engines, and nominee solutions.
+ Axes of e**X**pansion and complexit**Y** beyond the ordinary will tear this patchwork - not a figure of speech, not about megastructures like OSs, IDEs, gaming engines, and nominee solutions.
 
 Resource scaling against "horizontal" growth (e.g. LOB) will raise a kludge - horribly coupled, getting harder and more expensive to evolve and maintain, with no rational heritage but how not to do it.
 
-Stacking design decisions as they come to the model heap will make chaos (immanent to sw dev) unmanageable at a certain height. 
+Stacking design decisions as they come to the model heap will make chaos (inherent to any software dev) unmanageable at a certain height. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🕴</sup>< sub>Line of Business Applications</sub>
 To delve in, we shall first explode the picture.'
@@ -60,6 +60,7 @@ Ill commu: under value of code vs design
 </details>
 
 |- Objectives ( GRAPH STEEP-RAISe-LINE)\
+|- Forces\
 |- Classisication\
 |- Roles share for inclinations\
 |- Architecture and architector\
