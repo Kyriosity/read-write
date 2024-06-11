@@ -33,13 +33,11 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 
 ## ...  which opens tomes
 
-Expansion or complexity beyond usual will tear this patchwork - not a figure of speech, and not limited to megastructures like OSs, IDEs, gaming engines, and nominee solutions.
+Expansion or complexity beyond the ordinary will tear this patchwork - not a figure of speech, not about megastructures like OSs, IDEs, gaming engines, and nominee solutions.
 
-"Horizonal" resource scaling against "horizontal" growth will deliver a kludge - getting harder and more expensive to evolve, and maintain, with no rational heritage except how not to do it.
-but traditional LOB<sup>🕴️</sup> applications or NAME4SMART
+Resource scaling against "horizontal" growth (e.g. LOB) will raise a kludge - horribly coupled, getting harder and more expensive to evolve, and maintain, with no rational heritage but how not to do it.
 
-Towering abstractions, FIELDS, and waves of task tides will result in badly manageable chaos. 
-A less challenging design's growing size and complexity will last longer but deliver a kludge of loosely coupled parts, where "loosely" redefines horribly.
+Stacking decisions as they come to the design heap will make chaos (immanent to sw dev) unmanageable at one height. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🕴</sup>< sub>Line of Business Applications</sub>
 To delve in, we shall first explode the picture.'
