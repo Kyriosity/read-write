@@ -5,7 +5,7 @@
           <img src="README+/pencraft/README+/_rsc/_img/memes/learn_is_swim.jpg"    
                alt="To learn is to swim against the current"></a><p>
     </td><td> 
-     ⭐<a href="README+/software/"><b>SOFTWARE</b></a><br/>
+     💫<a href="README+/software/"><b>SOFTWARE</b></a><br/>
       &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-naming.md">Naming</a>&nbsp;➰&nbsp;
       <a href="README+/software/README+/code-quality.md">Quality</a><br/>
       &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-mngmnt.md">Organization</a>&nbsp;➿&nbsp;
