@@ -2,7 +2,7 @@
  <tr valign="top">
     <td style="border: 1px solid #0000000;">
       <p><a href="README+/software/">
-          <img src="README+/pencraft/README+/_rsc/_img/memes/learn_is_swim.jpg"    
+          <img src="README+/_rsc/_img/memes/learn_is_swim.jpg"    
                alt="To learn is to swim against the current"></a><p>
     </td><td> 
      💫<a href="README+/software/"><b>SOFTWARE</b></a><br/>
@@ -36,7 +36,7 @@
      </td>
      <td>
       <p><a href="README+/.net/">
-          <img src="README+/pencraft/README+/_rsc/_img/memes/IT_is_waterfall.jpg"    
+          <img src="/README+/_rsc/_img/memes/IT_is_waterfall.jpg"    
                alt="then IT must be a waterfall"></a><p>
      </td>
 </table>
