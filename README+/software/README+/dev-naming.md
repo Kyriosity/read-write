@@ -1,4 +1,5 @@
 # Software - Naming 
+
 <p dir="rtl"><i>"...In the beginning was the Word"</div></i></p><br/>
 
  
@@ -31,7 +32,7 @@ Naming couldn't be flat - it's an axiom, but categorization in software abstract
 * floating
 *OOD.
 
-TRAP: Duplicate names in chain!
+TRAP: Duplicate names in the chain!
 
 ## Rules of thumb
 
@@ -39,7 +40,7 @@ The higher the level of naming, the more attention.
 
 Name, apply, get feedback, refactor.
 
-There're must be at least two with different background to confirm top names.
+There must be at least two with different backgrounds to confirm top names.
 
 # Wrapping up
 
@@ -55,7 +56,7 @@ I mean that the naming as [code quality](code-quality.md) can't be perfect, but 
 
 General words will sound vague if not bombastic unless established in the domain. Compare florid `[Fact]` to modest `[TestCase]`. 
 
-- **Match** 
+- **Unexpected match** 
 
 `public utility`
 
@@ -71,6 +72,8 @@ General words will sound vague if not bombastic unless established in the domain
 
 ### Hall of fame
 
++ Core S[E]QL commands.
+
 ### Hall of shame
 
-And 1st place goes to ... `dirty` used as the property of a modified object.
+And 1st place goes to ... `dirty` used as the trait of a modified object.
