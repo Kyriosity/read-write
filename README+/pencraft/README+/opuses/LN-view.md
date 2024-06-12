@@ -1,7 +1,7 @@
 # Lotus Notes - "This used to be my playground"
 <table><tr><td>
 <picture>
-  <img alt="Lotus Notes R5 splash screen" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/af/LotusNotesR5_SplashWin.jpg">
+  <img alt="Lotus Notes R5 splash screen" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/af/LotusNotesR5_SplashWin.jpg">
 </picture>
 </td><td>
 As a developer of Lotus Notes<br/>LOB applications for over a decade<br/>(before switching to .NET),<br/>I must have deserved the privilege<br/>of personal (Lotus) notes.
