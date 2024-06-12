@@ -37,11 +37,11 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 
  Axes of e**X**pansion and complexit**Y** will tear this patchwork - not a figure of speech. It is not about megastructures (like OSs, IDEs, gaming engines) and IT prizewinners but challenges beyond the ordinary (LOB, CAD).
 
-Resource scaling against "horizontal" growth of design will raise a kludge - horribly coupled, getting harder and more expensive to evolve and maintain, with no rational heritage but how not to do it.
+Pure resource scaling against "horizontal" growth will deliver a kludge - horribly coupled, getting harder and more expensive to evolve and maintain, with little rational heritage (except how not to do it).
 
-Stacking design decisions to the model heap against towering abstractions will make chaos (inherent to any software dev) unmanageable at a certain height. 
+Stacking design decisions (as they come) against towering abstractions will modelling heap. make chaos (inherent to any software dev) unmanageable at a certain height. 
 
-To distinguish our survey (at least for file system) i couldn't find a better tag but a mocking acronym Arc&nbsp;Deco<sup>🎨</sup> (**Arc**itecture **De**sign d**E**velopment **Co**ding).
+To distinguish our survey (at least for the file system) i couldn't find a better tag but a mocking acronym Arc&nbsp;Deco<sup>🎨</sup> (**Arc**itecture **De**sign d**E**velopment **Co**ding).
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco) `är(t)-dā-ˈkō`</sub>
 
