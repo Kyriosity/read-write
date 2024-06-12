@@ -5,7 +5,7 @@
 **In a word - _development_, in four -** 
 
 <picture>
-  <img alt="Arc view at small projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/ArcDeco/darkCode2arcGold.jpg">
+  <img alt="Arc view at small projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/darkCode2arcGold.jpg">
 </picture>
 
 <sup>:de:</sup> <sub>Inspired by informal interpretation of the German flag: from the dark past through the bloody present to the golden future.\
@@ -29,7 +29,7 @@ Initiative and funding render the canvas. Math/logic and artistic skills, domain
 
 Many projects' modest size and lifetime will shrink them almost to rectangular, ...\
 <picture>
-  <img alt="Arc view at short projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg">
+  <img alt="Arc view at short projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg">
 </picture>\
 ... making more theorizing redundant.
 
