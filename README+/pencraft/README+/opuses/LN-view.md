@@ -1,5 +1,9 @@
 # Lotus Notes - "This used to be my playground"
 
+<picture>
+  <img alt="Lotus Notes R5 splash screen" src="https://github.com/Kyriosity/read-write/blob/main/README+/pencraft/README+/_rsc/_img/af/LotusNotesR5_SplashWin.jpg">
+</picture>
+
 > As a developer of Lotus Notes LOB applications for over a decade (before switching to .NET), I must have deserved the privilege of personal (Lotus) notes.
 
 IBM PC users remember (or not) that it was a time and a **word**, not Microsoft's one, but "Lotus" - a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
@@ -52,5 +56,5 @@ As a substitute for rudimentary LotusSciprt; supporting the development of UX li
 &nbsp;\
 &nbsp;
 
-> Let me finish with the quote from another hit - _Now I know what made Lotus blue_. Seriously, I was pretty sure that _Lotus_ until [proof](https://en.wikipedia.org/wiki/Now_I_Know_What_Made_Otis_Blue). This tells enough about my involvement.
+> Let me finish with the quote from another hit - _Now I know what made Lotus blue_. In earnest, I was pretty sure that _Lotus_ until [proof](https://en.wikipedia.org/wiki/Now_I_Know_What_Made_Otis_Blue). This tells enough about my involvement.
 
