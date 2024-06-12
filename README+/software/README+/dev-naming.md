@@ -3,7 +3,7 @@
 <p dir="rtl"><i>"...In the beginning was the Word"</div></i></p><br/>
 
  
-Naming is the most **meaningful**, **underrated**, and **neglected** activity in the realm of software. It's seen as granted when it smoothly guides through the design and makes coding intuitive. 
+Naming is a pivotal but underrated and neglected activity in the realm of software. It's seen as granted when it smoothly guides through the design and makes coding intuitive. 
 
 On the contrary, wading through the thorns of poorly named and labyrinths of poorly categorized code, abatis of docu a developer will curse application complexity, learning curve, technologies used, and fate but not the naming.
 
