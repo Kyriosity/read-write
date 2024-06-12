@@ -76,7 +76,7 @@ IBM&nbsp;350 disk drive in 1956 was ... you can see the dimensions, feel the wei
 
 ### 🗃️ Universal storage ever
 
-[![Punch cards in 1960s](../_rsc/_img/photo/hist/1966.punch-cards_stack.jpg)](punchcard.md)\
+[![Punch cards in 1960s](../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)](punchcard.md)\
 A stack of punch cards for a casual program.
 
 ---------
