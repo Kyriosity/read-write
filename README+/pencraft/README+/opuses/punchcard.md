@@ -2,7 +2,7 @@
 
 > Not a paraphrase of [wiki files](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup>🔗</sup>
 
-[![punched card snapshot](../_rsc/_img/af/punchcard.jpg)](../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)
+[![punched card snapshot](../../../_rsc/_img/af/punchcard.jpg)](../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)
 
 ## Intramural experience - short and vintage
 
