@@ -107,14 +107,6 @@ Letter to her brother (1894)
 falling water, burning fire, starry sky,** and **tasks, you define and others commit**.\
 _Earliest humans_ (ca. 300`000 ago)
 
-#### Hammer❗
-
-> If you wish to be a success in the world, promise everything, deliver nothing.\
-― _Napoleon Bonaparte (1769-1821)_\
-<sub>He failed as a result of being inconsistent with his own saying.</sub>
-
-<sup>🇫🇷</sup> <sub>Original: "Si vous escomptez avoir du succès dans le monde, promettez tout, ne donnez rien."</sub>
-
 ---
 </details>
 
@@ -181,6 +173,9 @@ To name a few of the officially recognized:
 
 <details>
 <summary><ins>&nbsp;<b>...to acquit not doing</b>&nbsp;</ins></summary>
+&nbsp;
+  
+![Ignoramus et ignorabimus](https://img.shields.io/badge/Ignoramus-Ignorabimus-yellow)
 
 #### F.A.Q.
 
@@ -193,10 +188,19 @@ To name a few of the officially recognized:
 > Somewhere it's better to curse in the darkness than to light a single candle.\
 (Attributed to _Ferdinand von Zepellin_ or _von Hindenburg_)
 
-#### Success stories
+#### Proved to be true
 
-> **Every time you create something new, there should be questions**... (April 2015 interview with CBS News)\
-_Elizabeth Holmes_, one of 100 most influential people by Time magazine in 2015
+> **Every time you create something new, there should be questions**...\
+― _Elizabeth Holmes_, one of 100 most influential people by Time magazine in 2015\
+(April 2015 interview with CBS News)
+
+#### Hammer❗
+
+> If you wish to be a success in the world, promise everything, deliver nothing.\
+― _Napoleon Bonaparte (1769-1821)_\
+<sub>He failed as a result of being inconsistent with his own saying.</sub>
+
+<sup>🇫🇷</sup> <sub>Original: "Si vous escomptez avoir du succès dans le monde, promettez tout, ne donnez rien."</sub>
 
 ---
 </details>
@@ -207,7 +211,6 @@ _Elizabeth Holmes_, one of 100 most influential people by Time magazine in 2015
 🚧 Coming next ...
 ---
 </details>
-
 
 <p dir="rtl"><b>Postscriptum</b><br/></p>
 <p dir="rtl"><i>I never posted even one-tenth<br/>
