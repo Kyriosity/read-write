@@ -1,4 +1,4 @@
-# C# - Good parts - Underused
+# C# - Good sides - Underused
 
 Some of the C# syntax, features, and libraries are underestimated or unrevealed. The next observations may be biased but are based on live experience in various projects and teams.
 
@@ -6,11 +6,11 @@ Some of the C# syntax, features, and libraries are underestimated or unrevealed.
 
 C# evolves swiftly with regular and rich releases, but not every developer is an early adaptor, and not every team is eager to update the breadwinning production environment.
 
-However, staying fit with C# is reasonable and feasible. Releases of .NET are cumulative and stable; besides new syntax and structures, they bring more performance, security with longer support. 
+However, staying fit with C# is reasonable and feasible. Releases of .NET are cumulative and stable; besides new syntax and structures, they bring more performance, and security with longer support. 
 
-Devoted bloggers<sup>👨‍👩‍👧‍👦</sup> are greatly at separating the wheat from the chaff, and IDEs hint at new features.
+Devoted bloggers<sup>👨‍👩‍👧‍👦</sup> are greatly at separating the wheat from the chaff, and IDEs hint at new features<sup>🙋‍♂️</sup>.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I won't recommend any since this must be a personal experience, selection of the active and a matter of taste.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I won't recommend any since this must be a personal experience, selection of the active and a matter of taste. Except "native" [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🔗</sup>.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup> <sub>Revealing [CallerArgumentExpressions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression)<sup>🔗</sup> urged me to rewrite [exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcExt/Errors).</sub>
 
 ## Predicates and delegates as arguments
@@ -44,17 +44,17 @@ static void CalcHard(int nat) {
 
 ## All of the LINQ
 
-LINQ is so great that it's the first thing C# developers miss when coding in other languages&nbsp;<sup>:thought_balloon:</sup>. 
+LINQ is so great and practical that it's the first thing C# developers miss when coding in other languages.<sup>:large_blue_diamond:</sup>
 
 However, even its addicts may be unfamiliar with many tenable features. I myself knew about [OfType](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.oftype) vs. [Cast](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.cast), [Zip](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.zip) obscenely later than I must have used them.
 
 It's also better to be aware of disputable methods like [DefaultIfEmpty](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.defaultifempty), [TryGetNonEnumeratedCount](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.trygetnonenumeratedcount) before considering to implement that one specific.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:thought_balloon:</sup><sub>If you're lucky enough not to meet this, such [cheatsheet of equivalents](https://www.garethrepton.com/TypeScript-equivalents-for-DotNet-Linq-functions/)<sup>🔗</sup> may give you a feeling.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:large_blue_diamond:</sup><sub>If you're lucky enough not to meet this, such [cheatsheet of equivalents](https://www.garethrepton.com/TypeScript-equivalents-for-DotNet-Linq-functions/)<sup>🔗</sup> may give you a feeling.</sub>
 
 ## Reflection
 
-The image of "illegal" hacking and rumors of slow performance follow the reflection but are unfair. It does worth tricks and has become a programming paradigm (unless trying to substitute "direct" language construct). 
+The image of "illegal" hacking and rumors of slow performance follow the reflection but are unfair. It does worth tricks and has become a programming paradigm (unless trying to substitute a "direct" language construct). 
 
 // ToDo: link to caller !
 
