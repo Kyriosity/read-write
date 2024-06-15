@@ -13,7 +13,7 @@ The cleaner the code - the better performance. Though C# allows lower level prog
 Surprisingly C# is widely utilized in APIs and drivers to industry-standard embedded software (i.a. automotive and machinery) and game dev (Unity engine).
 
 Looking further C# has...&nbsp;↙️\
-|--- [Good parts underused](README+/b.deduced/cs-underused_parts.md)\
+|--- [Good sides underused](README+/b.deduced/cs-underused_sides.md)\
 |--- [Parts in shade](README+/b.deduced/cs-shadow_parts.md)\
 |--- [Boosting hints](README+/b.deduced/cs-hints.md)
 
