@@ -8,7 +8,7 @@ Its team learns from the drawbacks and advantages of other languages, community 
  
 C# allows developers to focus on clean code while .NET will take care of compiling that into effective and safe executables.<sup>💾</sup> 
 The cleaner the code - the better performance.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>💾</sup> <sub>Now you can avoid selecting processor, [memory models](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)<sup>🔗</sup> and switching off 1MB of RAM to have production buffer.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>💾</sup> <sub>Now you can avoid selecting a processor, [memory models](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)<sup>🔗</sup> and switching off 1MB of RAM to get performance bonus on release.</sub>
 
 Surprisingly C# is widely utilized in APIs and drivers to industry-standard embedded software (i.a. automotive and machinery).
 
