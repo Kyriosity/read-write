@@ -33,7 +33,7 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 </picture>\
 ... making more theorizing redundant.
 
-## which opens
+### which opens
 
  Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, gaming engines) and IT prizewinners but challenges beyond the ordinary (LOB, CAD).
 
@@ -45,7 +45,7 @@ To distinguish our survey (at least for the file system) I couldn't find a bette
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco) `är(t)-dā-ˈkō`</sub>
 
-## ... tomes
+### ... tomes
 
 |- [Objectives](README+/ArcDeco/1.ArcDeco-Objective.md)\
 |- [Big Picture and Forces](README+/ArcDeco/2.ArcDeco-BigPict.md)\
