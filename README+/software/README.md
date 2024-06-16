@@ -5,16 +5,19 @@
 **In a word - _development_, in four -** 
 
 <picture>
-  <img alt="Arc view at small projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/darkCode2arcGold.jpg">
+  <img alt="Coding, Development, Design, Architecture" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/darkCode2arcGold.jpg">
 </picture>
 
 <sup>:de:</sup> <sub>Inspired by informal interpretation of the German flag: from the dark past through the bloody present to the golden future.\
 &nbsp;&nbsp;&nbsp;&nbsp;(Since `4>3` tearful blue was inserted for Design.)</sub>
 
 <details>
-<summary><ins>&nbsp;<b>More spectrum for requirements, management, testing, and administration?</b>&nbsp;</ins></summary>  
-&nbsp;
-  
+<summary><ins>&nbsp;<b>More spectrum for requirements, management, testing, and administration?</b>&nbsp;</ins></summary>
+
+<picture>
+  <img alt="External factors of SW creation" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/SW-ext_factors.jpg">
+</picture>
+
 These are **external** - optional and not, minor to strong, constructive and devastating (also neutral) - forces, factors, and drives. 
 
 Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four paints. 
