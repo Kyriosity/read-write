@@ -51,7 +51,7 @@ One other distinct and legitimate niche is [comment-driven development](en.wikip
 This approach solus becomes exponentially harder and will not reveal remarkable design/architecture intentions. It's warped to unfold the big canvas of abstractions.
 
 In practice, the code will be partly or greatly obscure and tests will lack clarity and seamless categorization. 
-Code prose and time will bury great (no sarcasm) design decisions unless emphasized with a pen. 
+Code prose and time will bury grand (no sarcasm) design decisions unless highlighted with a pen. 
 Contrary explorers will overestimate poor or simplified parts unless highlighted.
 
 ### In word
