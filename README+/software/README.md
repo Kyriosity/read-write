@@ -36,7 +36,7 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 </picture>\
 ... making more theorizing redundant.
 
-### which opens
+### ... which begins ...
 
 However, axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, gaming engines) and IT prizewinners but challenges beyond the ordinary (say new LOB, CAD, or a great feature).
 
@@ -44,7 +44,7 @@ Pure resource scaling against "horizontal" growth will deliver a kludge - horrib
 
 Stacking design decisions (as they come) against towering abstractions will stack modeling heap and create chaos (inherent to any software dev) unmanageable at a certain height. 
 
-### ... Arc Deco
+### ... _Arc Deco_
 
 To distinguish our survey (at least for the file system) I couldn't find a better tag but a mocking acronym Arc&nbsp;Deco<sup>🎨</sup> (**Arc**itecture **De**sign d**E**velopment **Co**ding).
 
