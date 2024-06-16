@@ -35,19 +35,20 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 </picture>\
 ... making more theorizing redundant.
 
-## ...  which opens tomes
+### ...  which opens ...
 
- Axes of e**X**pansion and complexit**Y** will tear this patchwork - not a figure of speech. It is not about megastructures (like OSs, IDEs, gaming engines) and IT prizewinners but challenges beyond the ordinary (LOB, CAD).
+ Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, gaming engines) and IT prizewinners but challenges beyond the ordinary (LOB, CAD).
 
 Pure resource scaling against "horizontal" growth will deliver a kludge - horribly coupled, getting harder and more expensive to evolve and maintain, with little rational heritage (except how not to do it).
 
-Stacking design decisions (as they come) against towering abstractions will modelling heap. make chaos (inherent to any software dev) unmanageable at a certain height. 
+Stacking design decisions (as they come) against towering abstractions will stack modeling heap and create chaos (inherent to any software dev) unmanageable at a certain height. 
 
-To distinguish our survey (at least for the file system) i couldn't find a better tag but a mocking acronym Arc&nbsp;Deco<sup>🎨</sup> (**Arc**itecture **De**sign d**E**velopment **Co**ding).
+To distinguish our survey (at least for the file system) I couldn't find a better tag but a mocking acronym Arc&nbsp;Deco<sup>🎨</sup> (**Arc**itecture **De**sign d**E**velopment **Co**ding).
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco) `är(t)-dā-ˈkō`</sub>
 
-That's so much to share that can only stop here with the ToC:\
+## ... tomes
+
 |- [Objectives](README+/ArcDeco/1.ArcDeco-Objective.md)\
 |- [Big Picture and Forces](README+/ArcDeco/2.ArcDeco-BigPict.md)\
 |- Classisication\
