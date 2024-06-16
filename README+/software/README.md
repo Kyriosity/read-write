@@ -58,6 +58,6 @@ To distinguish our survey (at least for the file system) I couldn't find a bette
 |- Wrap this
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). It's 100 years since it was introduced, let's make `är(t)-dā-ˈkō` great again (mockery again).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). It's 100 years since it was introduced, and let's make `är(t)-dā-ˈkō` great again [mockery mode off].</sub>
 
 ...
