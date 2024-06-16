@@ -50,3 +50,7 @@ Mini/micro ? OOP/OOD
 Ecology
 
  resistance (electromagnetic)
+
+<sup>🚀</sup> <sub>[Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque)<sup>🔗</sup></sub>
+
+ 🔚
