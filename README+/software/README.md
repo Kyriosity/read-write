@@ -35,7 +35,7 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 
 ### which opens
 
- Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, gaming engines) and IT prizewinners but challenges beyond the ordinary (LOB, CAD).
+ Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, gaming engines) and IT prizewinners but challenges beyond the ordinary (say new LOB, CAD, or a great feature).
 
 Pure resource scaling against "horizontal" growth will deliver a kludge - horribly coupled, getting harder and more expensive to evolve and maintain, with little rational heritage (except how not to do it).
 
