@@ -23,6 +23,8 @@ Initiative and funding render the canvas. Math/logic and artistic skills, domain
 
 </details>
 
+## Placeholder
+
 ## Conclusion, ...
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** are tied, overlapping, and time-unordered role-driven processes.
