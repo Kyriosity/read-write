@@ -87,7 +87,10 @@ However, they cost time, restrain presentation, stick thinking to 2D (literally 
 Fast simple sketches resting on multiple imaginary axes (horizontal grouping, aggregation/inheritance hierarchies, timeline) could be enough and broader in all senses. 
 They may start on a whiteboard during a casual discussion and as taking shapes recorded in (vector) graphics tools of choice and skills. 
 
-> **NOTE**❗ Whiteboard sketches are potent for understanding but if stored as snapshots without shaping<sup>🔲</sup>, trimming<sup>✂️</sup> and attributing<sup>🍒</sup> they will be trash for "future generations".\
+> **NOTE**❗\
+Whiteboard sketches are potent for understanding but if stored as snapshots without shaping<sup>🔲</sup>, trimming<sup>✂️</sup> and attributing<sup>🍒</sup> they will be trash for "future generations".\
+This isn't a routine activity but an intellectual task of design and modeling.\
+&nbsp;\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🔲</sup>&nbsp;<sub>Visualize artifacts on boars as recognized entities and connections.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>✂️</sup>&nbsp;<sub>Remove (join) redundant elements and visual noize.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🍒</sup>&nbsp;<sub>Systematically classify and name artifacts.</sub>\
