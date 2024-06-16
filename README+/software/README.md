@@ -36,7 +36,7 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 </picture>\
 ... making more theorizing redundant.
 
-### ... which begins ...
+### ... which introduces ...
 
 However, axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, gaming engines) and IT prizewinners but challenges beyond the ordinary (say new LOB, CAD, or a great feature).
 
@@ -48,8 +48,9 @@ Stacking design decisions (as they come) against towering abstractions will stac
 
 To distinguish our survey (at least for the file system) I couldn't find a better tag but a mocking acronym Arc&nbsp;Deco<sup>🎨</sup> (**Arc**itecture **De**sign d**E**velopment **Co**ding).
 
-|- [Objectives](README+/ArcDeco/1.ArcDeco-Objective.md)\
-|- [Big Picture and Forces](README+/ArcDeco/2.ArcDeco-BigPict.md)\
+**Volumes**:\
+|- 1. [Objectives](README+/ArcDeco/1.ArcDeco-Objective.md)\
+|- 2. [Big Picture and Forces](README+/ArcDeco/2.ArcDeco-BigPict.md)\
 |- Classisication\
 |- Roles share for inclinations\
 |- Architecture and architector\
@@ -57,6 +58,6 @@ To distinguish our survey (at least for the file system) I couldn't find a bette
 |- Wrap this
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco) `är(t)-dā-ˈkō`</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). It's 100 years since it was introduced, let's make `är(t)-dā-ˈkō` great again (mockery again).</sub>
 
 ...
