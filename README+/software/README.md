@@ -33,7 +33,7 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 </picture>\
 ... making more theorizing redundant.
 
-### which opens.
+### which opens
 
  Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, gaming engines) and IT prizewinners but challenges beyond the ordinary (LOB, CAD).
 
