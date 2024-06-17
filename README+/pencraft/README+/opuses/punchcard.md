@@ -2,7 +2,13 @@
 
 > Not a paraphrase of [wiki files](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup>🔗</sup>
 
-[![punched card snapshot](../../../_rsc/_img/af/punchcard.jpg)](../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)
+<table><tr><td>
+<picture>
+  <img alt="Ancient Egypt bas-relief" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/af/ancient_egypt-bas-relief.jpg">
+</picture>
+</td><td>
+      <p><a href="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg"><img src="../../../_rsc/_img/af/punchcard.jpg" alt="Punch card in 1966"></a><p>
+</td></tr></table>
 
 ## Intramural experience - short and vintage
 
@@ -33,19 +39,23 @@ The motivation was so high (as you can see) that most had succeeded in the first
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🛠️</sup> <sub>One can definitely treat their occupation as true coders.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🏛️</sup> <sub>One who saw mainframes would advocate the name - huge open space hall with metal cabinets.</sub>
 
-## Afterword
+## Afterword - TRUBUTE to the best storage of all time.
 
-My humble story was only a reminder of this great medium. Despite the fast decadence<sup>💾</sup>, the punch card can still be called the best backup of all time.<sup>🚀</sup>
+My humble story was only a reminder of this great medium. Despite the fast decadence<sup>💾</sup>, the punch card can still be called the best storage of all time.
 
-#### Easy to make, write and read
+If i would consider a backup THEN ...  And that's why:
 
-There's nothing easier than punching the carton and optical scanning/reading of holes.
+<sup>🚀</sup>
  
-#### Endurance in all senses
+### Endurance
 
-+  Mechanical
+##### Mechanical
 
-+ Electromagnetic in the whole spectrum
+It's quite difficult
+
+Electromagnetic in the whole spectrum
+
+Household magnets proximity, domestic short-citcuit can put HDD/SDD out of irder while nearby [ gamma ray bursts](https://en.wikipedia.org/wiki/Gamma-ray_burst)
 
 + Eco-friendly and highly utilizable. Bookmarks and other domestic uses
 
@@ -56,8 +66,7 @@ There's nothing easier than punching the carton and optical scanning/reading of 
 #### Eco-friendly
 
 
-
 <sup>💾</sup> <sub>Prederemined by data density: there could be no mini and micro next.</sub>\
-<sup>🚀</sup> <sub>[Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque)<sup>🔗</sup></sub>
+<sup>🚀</sup> <sub>A deck of punchcards could make a better impression than [Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque)<sup>🔗</sup></sub>
 
  🔚
