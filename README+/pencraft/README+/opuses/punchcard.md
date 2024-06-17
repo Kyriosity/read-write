@@ -35,24 +35,29 @@ The motivation was so high (as you can see) that most had succeeded in the first
 
 ## Afterword
 
-My humble story was only a reminder of this great medium. Despite the fast decadence (data density fate), the punchcard can still be called the best backup of all time.<sup>🚀</sup>
+My humble story was only a reminder of this great medium. Despite the fast decadence<sup>💾</sup>, the punch card can still be called the best backup of all time.<sup>🚀</sup>
 
+#### Easy to make, write and read
 
-+ Easy to make, write and read\
 There's nothing easier than punching the carton and optical scanning/reading of holes.
-+ Endurance
+ 
+#### Endurance in all senses
 
-++ Mechanical, 
++  Mechanical
 
-electromagnetic in the whole spectrum
++ Electromagnetic in the whole spectrum
 
 + Eco-friendly and highly utilizable. Bookmarks and other domestic uses
 
+#### Enough safety
+
 + Enough crypto to proof of work punch
 
-Ecology
+#### Eco-friendly
 
 
+
+<sup>💾</sup> <sub>Prederemined by data density: there could be no mini and micro next.</sub>\
 <sup>🚀</sup> <sub>[Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque)<sup>🔗</sup></sub>
 
  🔚
