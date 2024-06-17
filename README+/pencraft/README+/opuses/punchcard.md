@@ -35,21 +35,23 @@ The motivation was so high (as you can see) that most had succeeded in the first
 
 ## Afterword
 
-My humble story was only a reminder of this great medium. Despite its fast decadence, the punchcard can be titled the best of all times by a superposition of pros and cons. 
+My humble story was only a reminder of this great medium. Despite the fast decadence (data density fate), the punchcard can still be called the best backup of all time.<sup>🚀</sup>
 
-Endurance
 
-Mechanical, electromagnetically
++ Easy to make, write and read\
+There's nothing easier than punching the carton and optical scanning/reading of holes.
++ Endurance
 
-Eco-friendly and highly utilizable. Bookmarks and other domestic uses
+++ Mechanical, 
 
-Enough crypto to proof of work punch
+electromagnetic in the whole spectrum
 
-Mini/micro ? OOP/OOD
++ Eco-friendly and highly utilizable. Bookmarks and other domestic uses
+
++ Enough crypto to proof of work punch
 
 Ecology
 
- resistance (electromagnetic)
 
 <sup>🚀</sup> <sub>[Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque)<sup>🔗</sup></sub>
 
