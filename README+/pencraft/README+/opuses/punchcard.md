@@ -1,6 +1,6 @@
 # Punched cards - Once upon a time
 
-> Not a paraphrase of [wiki files](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup>🔗</sup>
+> Not another paraphrase of [wiki files](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup>🔗</sup>
 
 <table><tr><td>
 <picture>
@@ -14,9 +14,9 @@
 
 It was long after the punch decline and the last year they were legacy coursework at my university. I guess because the supply of this carton product became extinct.
 
-### The Task
+### The task
 
-It was an exercise in PL/I&nbsp;<sup>🔆</sup> - output a curve of an assigned function (some $`ax^2 + bx + c`$ was mine). And _output_ meant direct to paper using teletype symbols for X/Y axes and the graph. Believe it or not, there was no computer monitor in this story.
+It was an exercise in PL/I&nbsp;<sup>🔆</sup> - output a curve of an assigned function (some $`ax^2 + bx + c`$ was mine). And the _output_ meant direct to paper using teletype symbols for X/Y axes and the graph. Believe it or not, there was no computer monitor in this story.
 
 ### Carton in, paper out
 
@@ -26,28 +26,27 @@ It looks bizarre in this day and age what barely agile steps it took:
 &nbsp;&nbsp;**2️⃣** Fill in a lined paper form with procedural statements. (I wonder how this would be object-oriented.)\
 &nbsp;&nbsp;**3️⃣** Submit this papyrus to the punching shop - where good ladies were used to decypher student scribble.<sup>🛠️</sup>\
 &nbsp;&nbsp;... 🌙 one day after ⛅ ...\
-&nbsp;&nbsp;**4️⃣** Fetch a deck of punched paperboard.\
+&nbsp;&nbsp;**4️⃣** Fetch a deck of punched paperboard (~inch thick).\
 &nbsp;&nbsp;**5️⃣** Bring it to the _computing center_<sup>🏛️</sup> where the mystery will occur.\
 &nbsp;&nbsp;... 🌙 one/two days after ⛅ ...\
 &nbsp;&nbsp;**6️⃣** Pick the medieval scroll in the "print" dprt.\
 &nbsp;&nbsp;**7️⃣**  Search for a graph among collateral outputs.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If fail, read errors, debug (mentally), and go to step&nbsp;(2).
 
-The motivation was so high (as you can see) that most had succeeded in the first approach but not me. Between **4️⃣** and **5️⃣** a fellow disciple intruded: shuffling my deck unnoticed. A lesson learned about data security.
+The motivation was so high (as you can feel) that most had succeeded in the first approach but not me. Between **4️⃣** and **5️⃣** a fellow disciple intruded: shuffling my deck unnoticed. A lesson learned about data security.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔆</sup>&nbsp;<sub>[Programming Language One](https://en.wikipedia.org/wiki/PL/I)<sup>🔗</sup> - perhaps the best name IBM reserved.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🛠️</sup> <sub>One can definitely treat their occupation as true coders.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🏛️</sup> <sub>One who saw mainframes would advocate the name - huge open space hall with metal cabinets.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔆</sup>&nbsp;<sub>[Programming Language One](https://en.wikipedia.org/wiki/PL/I)<sup>🔗</sup>. PL/1, DB2, OS/2, BS12, Type-III - IBM was a names' lord.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🛠️</sup> <sub>Precisionists can definitely treat their occupation as true pure coders.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🏛️</sup> <sub>One who saw mainframes would advocate the name for this huge open space hall with metal cabinets.</sub>
 
-## Afterword - TRUBUTE to the best storage of all time.
+// ToDo: noe about inheritance of OOP cards
 
-My humble story was only a reminder of this great medium. Despite the fast decadence<sup>💾</sup>, the punch card can still be called the best storage of all time.
+## Extramural afterword
 
-If i would consider a backup THEN ...  And that's why:
+My humble story is a chance to remind the reader of the remarkable traits of this medium, despite its fast decadence<sup>💾</sup>.
 
-<sup>🚀</sup>
- 
-### Endurance
+I venture to propose punch cards as a backup if computer illiteracy ages<sup>📚</sup> may come or for extraterrestrial spam<sup>🚀</sup>. 
+And that's why.
 
 ##### Mechanical
 
@@ -55,18 +54,19 @@ It's quite difficult
 
 Electromagnetic in the whole spectrum
 
-Household magnets proximity, domestic short-citcuit can put HDD/SDD out of irder while nearby [ gamma ray bursts](https://en.wikipedia.org/wiki/Gamma-ray_burst)
-
-+ Eco-friendly and highly utilizable. Bookmarks and other domestic uses
+Household magnets proximity, and domestic short-circuit can put HDD/SDD out of order while nearby [ gamma ray bursts](https://en.wikipedia.org/wiki/Gamma-ray_burst)
 
 #### Enough safety
 
 + Enough crypto to proof of work punch
 
-#### Eco-friendly
+AND EVEN IF THERE'S NO USE either our heirs or other species
++ Eco-friendly and highly utilizable. Bookmarks and other domestic uses
 
 
-<sup>💾</sup> <sub>Prederemined by data density: there could be no mini and micro next.</sub>\
-<sup>🚀</sup> <sub>A deck of punchcards could make a better impression than [Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque)<sup>🔗</sup></sub>
+<sup>💾</sup> <sub>Prederemined by data density: there could be no mini and micro, or double side next.</sub>\
+<sup>📚</sup> <sub>As it happened with the Writing in centuries before Homer.</sub>\
+<sup>🚀</sup> <sub>A deck of punchcards could make a better impression than philistine [Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque) 
+and volatile [phonograph records](https://en.wikipedia.org/wiki/Voyager_Golden_Record).<sup>🔗</sup></sub>
 
  🔚
