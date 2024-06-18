@@ -27,6 +27,12 @@ it was so much test-driven flattery that some criticism must take place. The mos
 
 ## DDD (Design Driven Design)
 
+<p dir=rtl><i>My ideal of program design is to represent the concepts<br/>
+.of the application domain directly in code<br>
+,That way, if you understand the application domain<br/>
+.you understand the code and vice versa</i><br/>
+<a href="https://www.stroustrup.com/quotes.html">Bjarne Stroustrup quotes</a></p>
+
 TDD and **D**omain **D**riven **D**esign are perfect matches and will boost each other. With _design hat_ on one will draught domain objects, their functions, and relations, which one wearing the _"test" hat_ will mock and stub, develop the syntax of their reference, and give essential feedback.
 
 There are many impressive stories of DDD to learn from, to which I can only supplement the next notice:
