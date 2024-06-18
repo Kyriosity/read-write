@@ -33,9 +33,11 @@ Translated east-to-west this means: find a sinecure in a big company.
 <summary><ins>&nbsp;<b>Fair random</b>&nbsp;</ins></summary>
 &nbsp;
 
-![true random](https://img.shields.io/badge/truly-random-yellow) ![new GUID](https://img.shields.io/badge/secure-nonce-blue) 
+![true random](https://img.shields.io/badge/how_to-new_GUID-yellow) ![new GUID](https://img.shields.io/badge/real_life-algorythms-blue) 
 
-[![Guaranted random by fair dice roll](../../../_rsc/_img/memes/IT-meme.random-number.png)](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/_rsc)
+<picture>
+  <img alt="Guaranteed random by fair dice roll" src="../../../_rsc/_img/memes/IT-meme.random-number.png">
+</picture><br/><br/>
 
 ---------
 </details>
@@ -59,9 +61,12 @@ Original study: https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 
 ![IT meets math](https://img.shields.io/badge/CTRL+F-X-blue) ![IT meets math](https://img.shields.io/badge/IT_meets-math-yellow)
 
-[![Here is X. Calm down Pythagoras](../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg)](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/_rsc)
+<picture>
+  <img alt="Here is X. Calm down Pythagoras" src="../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg">
+</picture><br/><br/>
 
-Justified, ability in exact sciences is no longer a prerequisite for applied programming. It's right to find a sorting algorithm implementation rather than to write one own.
+Justified, ability in exact sciences is no longer a prerequisite for applied programming. 
+It's right to find a sorting algorithm implementation rather than to write one own.
 
 ---------
 </details>
@@ -71,8 +76,9 @@ Justified, ability in exact sciences is no longer a prerequisite for applied pro
 
 ### :cd: When disks were indeed hard and strong skills in IT were obvious...
 
-[![Loading IBM disk in 1956 to rent](../../../_rsc/_img/photo/hist/IBM350_1956.jpg)](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/_rsc)\
-IBM&nbsp;350 disk drive in 1956 was ... you can see the dimensions, feel the weight, and guess the size in MBytes.
+<picture>
+  <img alt="year 1956: loading IBM disk in 1956 to rent" src="../../../_rsc/_img/photo/hist/IBM350_1956.jpg">
+</picture><br/><br/>
 
 ### 🗃️ Universal storage ever
 
@@ -88,7 +94,7 @@ A stack of punch cards for a casual program.
 
 ![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
 
-[![AI: 1500s vs 2020s](../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/_rsc)
+[![AI: 1500s vs 2020s](../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](AI-2020s.md)
 
 P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
 
