@@ -227,6 +227,13 @@ To name a few of the officially recognized:
 
 #### ... 🚧 Coming next 🚧 ...
 
+#### Moralité 
+
+"Errare humanum est, perseverare autem diabolicum." 
+
+"To err is human, to forgive divine"\
+Alexander Pope, poet (1688-1744)
+
 ---
 </details>
 
