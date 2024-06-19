@@ -104,3 +104,7 @@ P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "A
 
 &nbsp;\
 |- [**Volume&nbsp;II. Quotes**](IT-memes-Vol2.md) 
+
+---
+
+<sub>[Notes/disclaimer](../../../_rsc) about graphic resources here</sub>
