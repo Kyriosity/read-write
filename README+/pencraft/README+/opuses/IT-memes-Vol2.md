@@ -219,11 +219,12 @@ To name a few of the officially recognized:
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>...to interpret bugs the right way</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>...to interpret errors/bugs right</b>&nbsp;</ins></summary>
 
 #### Presented to you by ...
 
-[![BSoD on Win98 presentation](../../../_rsc/_img/photo/hist/1998.Win98-BSoD_w_BGates.jpg)](https://en.wikipedia.org/wiki/Blue_screen_of_death)
+[![BSoD on Win98 presentation](../../../_rsc/_img/photo/hist/1998.Win98-BSoD_w_BGates.jpg)](https://en.wikipedia.org/wiki/Blue_screen_of_death)\
+(click for details if unaware of this epic story)
 
 #### ... 🚧 Coming next 🚧 ...
 
