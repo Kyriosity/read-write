@@ -16,7 +16,10 @@ It was long after the punch decline and the last year they were legacy coursewor
 
 ### The task
 
-It was an exercise in PL/I&nbsp;<sup>🔆</sup> - output a curve of an assigned function (some $`ax^2 + bx + c`$ was mine). And the _output_ meant direct to paper using teletype symbols for X/Y axes and the graph. Believe it or not, there was no computer monitor in this story.
+It was an exercise in PL/I&nbsp;<sup>🔢</sup> - output a curve of an assigned function (some $`ax^2 + bx + c`$ was mine). And the _output_ meant direct to paper using teletype symbols for X/Y axes and the graph. Believe it or not, there was no computer monitor in this story.
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔢</sup>&nbsp;<sub>IBM's procedural [Programming Language One](https://en.wikipedia.org/wiki/PL/I)<sup>🔗</sup>.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PL/1, DB2, OS/2, Type-III, BS12,... - **IBM** was a names' lord.</sub>
 
 ### Carton in, paper out
 
@@ -35,7 +38,6 @@ It looks bizarre in this day and age what barely agile steps it took:
 
 The motivation was so high (as you can feel) that most had succeeded in the first approach but not me. Between **4️⃣** and **5️⃣** a fellow disciple intruded: shuffling my deck unnoticed. A lesson learned about data security.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔆</sup>&nbsp;<sub>[Programming Language One](https://en.wikipedia.org/wiki/PL/I)<sup>🔗</sup>. PL/1, DB2, OS/2, BS12, Type-III - IBM was a names' lord.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🛠️</sup> <sub>Precisionists can definitely treat their occupation as true pure coders.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🏛️</sup> <sub>One who saw mainframes would advocate the name for this huge open space hall with metal cabinets.</sub>
 
@@ -43,24 +45,24 @@ The motivation was so high (as you can feel) that most had succeeded in the firs
 
 ## Extramural afterword
 
-My humble story is a chance to remind the reader of the remarkable traits of this medium, despite its fast decadence<sup>💾</sup>.
+My mediocre story is a chance to remind the reader of the outstanding traits of this eco-friendly medium, despite its fast decadence<sup>💾</sup>.
 
-I venture to propose punch cards as a backup if computer illiteracy ages<sup>📚</sup> may come or for extraterrestrial spam<sup>🚀</sup>. 
+I venture to propose punch cards as a backup if computer illiteracy ages<sup>📚</sup> come or for extraterrestrial spam<sup>🚀</sup>. 
 And that's why.
 
-##### Mechanical
+The cards in the box will be intact for millennia in harsh environments.
 
-It's quite difficult
+Strongest solar flare 
 
-Electromagnetic in the whole spectrum
+Electromagnetic in the whole spectrum NOT SCARY
 
 Household magnets proximity, and domestic short-circuit can put HDD/SDD out of order while nearby [ gamma ray bursts](https://en.wikipedia.org/wiki/Gamma-ray_burst)
 
-#### Enough safety
 
 + Enough crypto to proof of work punch
 
 AND EVEN IF THERE'S NO USE either our heirs or other species
+
 + Eco-friendly and highly utilizable. Bookmarks and other domestic uses
 
 
