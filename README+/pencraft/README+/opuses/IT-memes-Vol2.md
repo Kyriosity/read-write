@@ -221,7 +221,12 @@ To name a few of the officially recognized:
 <details>
 <summary><ins>&nbsp;<b>...to interpret bugs the right way</b>&nbsp;</ins></summary>
 
-🚧 Coming next ...
+#### Presented to you by ...
+
+[![BSoD on Win98 presentation](../../../_rsc/_img/photo/hist/1998.Win98-BSoD_w_BGates.jpg)](https://en.wikipedia.org/wiki/Blue_screen_of_death)
+
+#### ... 🚧 Coming next 🚧 ...
+
 ---
 </details>
 
@@ -229,4 +234,3 @@ To name a few of the officially recognized:
 <p dir="rtl"><i>- I always have a quotation for everything<br/>
 .it saves original thinking</i><br/>
 Dorothy L. Sayers (1893-1957), novelist</p>
- 
