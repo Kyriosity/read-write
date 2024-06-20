@@ -4,13 +4,13 @@
 
 <table><tr><td>
 <picture>
-  <img alt="Ancient Egypt bas-relief" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/af/ancient_egypt-bas-relief.jpg">
+  <img alt="Ancient Egypt bas-relief" src="../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg">
 </picture>
 </td><td>
       <p><a href="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg"><img src="../../../_rsc/_img/af/punchcard.jpg" alt="Punch card in 1966"></a><p>
 </td><td>
 <picture>
-  <img alt="Please do not bend" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/signs/do_not_bend-122x215.jpg">
+  <img alt="Please do not bend" src="../../../_rsc/_img/signs/do_not_bend-122x215.jpg">
 </picture>
 </td></tr></table>
 
@@ -60,7 +60,7 @@ Any mechanical action, temperature, or humidity, that can damage them, will dest
 
 + EASY to READ
 
-Household magnets proximity, and domestic short-circuit can put HDD/SDD out of order while nearby [ gamma ray bursts](https://en.wikipedia.org/wiki/Gamma-ray_burst)
+"Handle with care",  Household magnets proximity, and domestic short-circuit can put HDD/SDD out of order while nearby [ gamma ray bursts](https://en.wikipedia.org/wiki/Gamma-ray_burst)
 
 
 + Enough crypto to proof of work punch
