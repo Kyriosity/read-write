@@ -13,7 +13,7 @@
 
 <details>
 <summary><ins>&nbsp;<b>More spectrum for requirements, management, testing, and administration?</b>&nbsp;</ins></summary>
-
+<br/>
 <picture>
   <img alt="External factors of SW creation" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/SW-ext_factors.jpg">
 </picture>
@@ -22,7 +22,7 @@ These are **external** - optional and not, minor to strong, constructive and dev
 
 Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four paints. 
 
-Initiative and funding render the canvas. Math/logic and artistic skills, domain expertise, and creativity prop the picture.
+Initiative and funding render the canvas. Abstraction/math/logic and artistic skills, domain expertise, and creativity prop the picture.
 
 </details>
 
