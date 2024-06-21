@@ -49,7 +49,7 @@ Stacking design decisions (as they come) against towering abstractions will stac
 To distinguish our survey (at least for the file system) I couldn't find a better tag but a mocking acronym Arc&nbsp;Deco<sup>🎨</sup> (**Arc**itecture **De**sign d**E**velopment **Co**ding).
 
 **Volumes**:\
-|- 1. [Objectives](README+/ArcDeco/1.ArcDeco-Objective.md)\
+|- 1. [Rationale](README+/ArcDeco/1.ArcDeco-Rationale.md)\
 |- 2. [Big Picture and Forces](README+/ArcDeco/2.ArcDeco-BigPict.md)\
 |- Classisication\
 |- Roles share for inclinations\
