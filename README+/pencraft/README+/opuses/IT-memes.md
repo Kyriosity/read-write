@@ -42,7 +42,6 @@ And ... the twist! It was a real random number, while algorithms generate only p
 The latter was what the great John von Neumann (1903-1957) noted:
 > Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin."
 
-
 ---------
 </details>
 
@@ -69,8 +68,11 @@ Original study: https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
   <img alt="Here is X. Calm down Pythagoras" src="../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg">
 </picture><br/><br/>
 
-Justified, ability in exact sciences is no longer a prerequisite for applied programming. 
-It's right to find a sorting algorithm implementation rather than to write one own.
+Justified: abilities in exact sciences are no longer a prerequisite for applied programming. 
+It's natural to find a sorting algorithm implementation (unless a platform provides one) rather than to write your own.
+
+A time to quote the IT pioneer _Alan Perlis_ (1922-1990):
+> Prolonged contact with the computer turns mathematicians into clerks and vice versa.
 
 ---------
 </details>
@@ -81,7 +83,7 @@ It's right to find a sorting algorithm implementation rather than to write one o
 ### :cd: When disks were indeed hard and strong skills in IT were obvious...
 
 <picture>
-  <img alt="year 1956: loading IBM disk in 1956 to rent" src="../../../_rsc/_img/photo/hist/IBM350_1956.jpg">
+  <img alt="Year 1956: loading an IBM disk to rent" src="../../../_rsc/_img/photo/hist/IBM350_1956.jpg">
 </picture><br/><br/>
 
 ### 🗃️ Universal storage ever
