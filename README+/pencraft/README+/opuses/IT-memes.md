@@ -33,11 +33,15 @@ Translated east-to-west this means: find a sinecure in a big company.
 <summary><ins>&nbsp;<b>Fair random</b>&nbsp;</ins></summary>
 &nbsp;
 
-![true random](https://img.shields.io/badge/how_to-new_GUID-yellow) ![new GUID](https://img.shields.io/badge/real_life-algorythms-blue) 
-
 <picture>
   <img alt="Guaranteed random by fair dice roll" src="../../../_rsc/_img/memes/IT-meme.random-number.png">
 </picture><br/><br/>
+
+And ... the twist! It was a real random number, while algorithms generate only pseudo-random ones.
+
+The latter was what the great John von Neumann (1903-1957) noted:
+> Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin."
+
 
 ---------
 </details>
