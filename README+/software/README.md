@@ -36,7 +36,7 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 </picture>\
 ... making more theorizing redundant.
 
-### ... which introduces ...
+### ... which begins ...
 
 However, axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, or gaming engines) and prize-winning brainteasers but challenges beyond the ordinary (say new LOB, CAD, or a great feature).
 
