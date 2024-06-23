@@ -2,7 +2,7 @@
 
 |- [**Volume I. Memes**](IT-memes.md)
 
-## Seasoned quotes
+## Seasoned citation
 
 <details>
 <summary><ins>&nbsp;<b>Philosophy and IT</b>&nbsp;</ins></summary>
@@ -226,7 +226,13 @@ To name a few of the officially recognized:
 [![BSoD on Win98 presentation](../../../_rsc/_img/photo/hist/1998.Win98-BSoD_w_BGates.jpg)](https://en.wikipedia.org/wiki/Blue_screen_of_death)\
 (click for details if unaware of this epic story)
 
-#### ... 🚧 Coming next 🚧 ...
+#### Customer gets King
+
+> _après nous le déluge_\
+(fr: "After us the deluge may come for aught we care")\
+attributed to Louis XV (1710-1774)
+
+The motto under which some (rare) fix-budget outsourced projects are delivered.
 
 #### Moralité 
 
