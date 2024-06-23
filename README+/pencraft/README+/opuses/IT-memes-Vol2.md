@@ -226,7 +226,7 @@ To name a few of the officially recognized:
 [![BSoD on Win98 presentation](../../../_rsc/_img/photo/hist/1998.Win98-BSoD_w_BGates.jpg)](https://en.wikipedia.org/wiki/Blue_screen_of_death)\
 (click for details if unaware of this epic story)
 
-#### Customer gets King
+#### Customer gets the King
 
 > _après nous le déluge_\
 (fr: "After us the deluge may come for aught we care")\
