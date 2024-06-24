@@ -46,9 +46,11 @@ However, axes of e**X**pansion and complexit**Y** will tear this patchwork. It i
 
 ### ... _Arc Deco_
 
+And here _Pure Reason_ may help to organize the job.
+
 To distinguish our survey (at least for the file system) I couldn't find a better tag but a mocking acronym Arc&nbsp;Deco<sup>🎨</sup> (**Arc**itecture **D**esign d**E**velopment **Co**ding).
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). It's 100 years since it was introduced, and let's make `är(t)-dā-ˈkō` great again [mockery again].</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). Its introduction a century ago (1925) calls to make `är(t)-dā-ˈkō` great again [mockery again].</sub>
 
 #### Volumes 
 
