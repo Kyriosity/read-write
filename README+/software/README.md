@@ -40,9 +40,9 @@ Many projects' modest size and lifetime will shrink them almost to rectangular, 
 
 However, axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, or gaming engines) and prize-winning brainteasers but challenges beyond the ordinary (say new LOB, CAD, or a great feature).
 
-Pure resource scaling against "horizontal" growth will deliver a kludge - horribly coupled, getting harder and more expensive to evolve and maintain, with little rational heritage (except how not to do it).
+**X**: Coercive resource scaling against "horizontal" growth will deliver a kludge - horribly coupled, getting harder and more expensive to evolve and maintain, with little rational heritage (except how not to do it).
 
-Stacking design decisions (as they come) against towering abstractions will stack modeling heap and create chaos (inherent to any software dev) unmanageable at a certain height. 
+**Y**: Stacking design decisions (as they come) against towering abstractions will make up a modeling heap. Then the chaos (inherent to any software dev) will become unmanageable at a certain height. 
 
 ### ... _Arc Deco_
 
@@ -57,9 +57,7 @@ To distinguish our survey (at least for the file system) I couldn't find a bette
 |- Classisication\
 |- Roles share for inclinations\
 |- Architecture and architector\
-|- Worth of coding (and mystic coders)\
-|- Wrap this
-
-
+|- [Worth of coding](README+/ArcDeco/ArcDeco-Coding_worth.md)\
+|- Wrap up
 
 ...
