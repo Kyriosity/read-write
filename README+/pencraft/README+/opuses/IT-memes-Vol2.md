@@ -126,7 +126,7 @@ _Earliest humans_ (ca. 300`000 ago)
 <details>
 <summary><ins>&nbsp;<b>...for perfectionism</b>&nbsp;</ins></summary>
 
- #### Nature 
+ #### Naturalism 
  
 > The role of the infinitely small in nature is infinitely great.\
 ― _Louis Pasteur (1822-1895)_\
@@ -147,9 +147,9 @@ having a good move, to seek for a better.**\
 ― _Edsger W. Dijkstra (1930-2002),_\
 _computer scientist, known i.a. for Dijkstra's algorithm._
 
-Not only the East grant us profound and eloquent teaching! What about this Mr. Kipling*? 
+Not only the East grant us profound and eloquent teaching! Whatever Mr. Kipling* did say.<sup>©️</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;* <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>©️</sup> <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
 
 ---
 </details>
