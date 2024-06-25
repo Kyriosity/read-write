@@ -32,6 +32,8 @@ Translated east-to-west this means: find a sinecure in a big company.
 <details>
 <summary><ins>&nbsp;<b>Fair random</b>&nbsp;</ins></summary>
 &nbsp;
+  
+![Genius](https://img.shields.io/badge/💡-Genius-blue)
 
 <picture>
   <img alt="Guaranteed random by fair dice roll" src="../../../_rsc/_img/memes/IT-meme.random-number.png">
