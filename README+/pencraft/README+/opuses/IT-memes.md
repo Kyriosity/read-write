@@ -41,7 +41,7 @@ Translated east-to-west this means: find a sinecure in a big company.
 
 And ... the twist! It was a real random number, while algorithms generate only pseudo-random ones.
 
-The latter was what the great John von Neumann (1903-1957) noted:
+The latter was what extraordinary _John von&nbsp;Neumann_ (1903-1957) noted:
 > Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin."
 
 ---------
@@ -75,6 +75,8 @@ It's natural to find a sorting algorithm implementation (unless a platform provi
 
 A time to quote the IT pioneer _Alan Perlis_ (1922-1990):
 > Prolonged contact with the computer turns mathematicians into clerks and vice versa.
+
+[I'm not sure the latter works nowadays.]
 
 ---------
 </details>
