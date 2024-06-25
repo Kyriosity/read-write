@@ -2,7 +2,7 @@
 
 ## What makes it? 
 
-**In a word - _development_, in four -** 
+**In a word - `programming`, in four -** 
 
 <picture>
   <img alt="Coding, Development, Design, Architecture" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/darkCode2arcGold.jpg">
@@ -34,11 +34,11 @@ Many projects' modest size and lifetime with banality will shrink them almost to
 <picture>
   <img alt="Arc view at short projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg">
 </picture>\
-... making more theorizing redundant.
+... making more theorizing wiredrawn.
 
 ### ... which begins ...
 
-However, axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, or gaming engines) and prize-winning brainteasers but challenges beyond the ordinary (say new LOB, CAD, or a great feature).
+However, axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, or gaming engines) and prize-winning brainteasers but challenges beyond the ordinary (say new LOB, CAD, or a cutting-edge module).
 
 **X**: Coercive resource scaling against "horizontal" growth will deliver a kludge - horribly coupled, getting harder and more expensive to evolve and maintain, with little rational heritage (except how not to do it).
 
@@ -47,7 +47,6 @@ However, axes of e**X**pansion and complexit**Y** will tear this patchwork. It i
 ### ... _Arc Deco_
 
 These obstacles give us legitimate space for the metaphysics of software. 
-
 To distinguish the survey following (at least for the file system) I couldn't find a better tag but a mocking acronym _Arc&nbsp;Deco_<sup>🎨</sup> (**Arc**itecture **D**esign d**E**velopment **Co**ding).
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). Its introduction a century ago (1925) appeals to make `är(t)-dā-ˈkō` great again [mockery again].</sub>
