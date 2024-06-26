@@ -71,12 +71,9 @@ Original study: https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 </picture><br/><br/>
 
 Justified: abilities in exact sciences are no longer a prerequisite for applied programming. 
-It's natural to find a sorting algorithm implementation (unless a platform provides one) rather than to write your own.
+It's natural to find a sorting algorithm implementation (unless a platform provides one) rather than to write your own or even comprehend/differentiate one.
 
-A time to quote the IT pioneer _Alan Perlis_ (1922-1990):
-> Prolonged contact with the computer turns mathematicians into clerks and vice versa.
-
-[I'm not sure the latter works nowadays.]
+This differs much what was on the eve of IT: LINK TO QUOTE: NOT AGED
 
 ---------
 </details>

@@ -1,8 +1,12 @@
-# Test coverage - pitfalls
+# Test coverage - Pitfalls
 
 Bad tests are worse than none, and since you can't and shan't write tests of tests their development must be focused and flawless.
 
 ## Falsely green tests
+
+<p dir="rtl">,Testing shows the presence<br/>.not the absence of bugs
+<br/><i>:grey_question: Edsger W. Dijkstra</i>, 1969*?</p>
+
 
 The worst case of malfunctioning tests is a passing one that indeed shields a fail. And the worst of the worst is when such fail/pass is sporadic and arduous to reproduce. That's like a crossroad with random green lights.
 

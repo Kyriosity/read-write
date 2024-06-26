@@ -248,3 +248,4 @@ Alexander Pope, poet (1688-1744)
 <p dir="rtl"><i>- I always have a quotation for everything<br/>
 .it saves original thinking</i><br/>
 Dorothy L. Sayers (1893-1957), novelist</p>
+
