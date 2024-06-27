@@ -115,7 +115,7 @@ _Alan Perlis_ (1922-1990)
 _Bjarne Stroustrup_ , :dk: father of C++, evangelist of paradigms.
 Beyond his contributions, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html) saving us from misinterpretations.
 
-*Grace Hopper*, Grace Brewster Hopper, née Murray  (1906-1992), :us: grandma of Cobol
++ ***Grace Hopper***, Grace Brewster Hopper, née Murray  (1906-1992), :us: grandma of Cobol, finder of the moth that opened the debugging era (which queerly chords with her name).
 
 [Edsger W. Dijkstra](wiki), the abolisher of GoTo, proposer of semaphores.
 
