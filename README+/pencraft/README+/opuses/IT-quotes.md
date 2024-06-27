@@ -42,9 +42,6 @@ That's why I have a clock on my wall that runs counterclockwise.
 
 ## History
 
-### Debugging born
-
-BUG by GRACE HOPPER (HER NAME ALSO DELIVERS!)
 
 ### Errors
 
@@ -78,32 +75,40 @@ Fred Brrok
 ## Controversial
 
 <details>
-<summary>9 women</summary>
+<summary><b><ins>Maternity ward</ins></b></summary>
 
-ORIGINAL:
-The bearing of a child takes nine months, no matter how many women are assigned.
-Page 17, cf. Theodore von Kármán (1957): "Everyone knows it takes a woman nine months to have a baby. But you Americans think if you get nine women pregnant, you can have a baby in a month."
-REFERRED in MYTH MAN-MONTH
+>  Everyone knows it takes a woman nine months to have a baby. But you Americans think if you get nine women pregnant, you can have a baby in a month.\
+_Theodore von Kármán_ (1957)
 
-Sounds a bit dense. 
+It would be ok for this specific case but _Fred Brooks_ popularized it in "The Mythical Man-Month":
 
-Edsger W. Dijkstra conveyed the idea much BETTER:
+> The bearing of a child takes nine months, no matter how many women are assigned.
+
+
+Not only derogatory but illogical. Finding nine women in the vicinity who will deliver ten babies in half a month will take a couple of days. 
+
+Edsger W. Dijkstra conveyed the idea much more plausible (albeit about languages, 1975):
 
 > It is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with **ten** blunt axes instead.
- (1975, about use of languages)
 
 ---
 
 </details>
+
+<details>
+<summary><b><ins>Bad Basic</ins></b></summary>
 
 > It is practically impossible to teach good programming to students that have had a prior exposure to BASIC:\
 as potential programmers they are mentally mutilated beyond hope of regeneration.
 
 My opinion is that languages as Basic offer an easy EINSTIEG to newbies and NUBs (i even stated this in my [LN REMINISCENCE](LN-view.md))
 
+</details>
+
 ## Appendices
 
 ### Authors
+
 
 Fred Brooks, Frederick Phillips Brooks Jr. (1931-2022), Known for IBM	OS/360
 
@@ -124,3 +129,5 @@ Maurice Wilkes, 🇬🇧 Maurice Vincent Wilkes (June 26, 1913 – November 29, 
 Barbara Liskov, is the only one honored with a personal letter in design principles - SO**L**ID.
 
 Charles Bachman (1924-2017) Godfather of DBMS
+
+_Theodore von Kármán_
