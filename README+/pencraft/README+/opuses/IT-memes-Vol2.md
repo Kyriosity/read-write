@@ -249,3 +249,10 @@ Alexander Pope, poet (1688-1744)
 .it saves original thinking</i><br/>
 Dorothy L. Sayers (1893-1957), novelist</p>
 
+I was a really negligent student. Sam Bankman-Fried
+I'm very skeptical of books.
+![Adidas Badge](https://img.shields.io/badge/Adidas-000?logo=adidas&logoColor=fff&style=for-the-badge)
+![IBM Badge](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=fff&style=for-the-badge)
+
+rating
+
