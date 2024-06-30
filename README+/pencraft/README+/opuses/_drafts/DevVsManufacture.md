@@ -2,9 +2,17 @@
 
 # Software - Why development couldn't be manufacturing
 
-Some may give a concise answer: _Because it's not. **Period**. And if you look for an industry parallel then dev is rather constructor bureua or R&D dprt._
-* I've heard once from a non-programmer customer: "Software is an art".
+Busy experienced developers may give a concise answer: _Because it's not._ **Period**.
 
-Then your contra-question will be what in the world is the title and what's my point? The problem is that many producers and customers see this way and expect the success of low-cost enterprises such as airlines.
+INFOLDED: if to look for an industry parallel then dev is closer to a constructor bureua or R&D department.
+
+<sub>I've heard once from a customer: *Software is an art*. Pleasing but barely real - there're no galleries of old masters with Algol listings.</sub>
+
+## Rationale
+
+Maybe the story of outsource and success of discounters (as low-cost airlines) is to blame but many producers, managers, investors and customers see development as a routine.
+
+Organize processes, SELECT by skills, plan tasks and hours, and wait planned hours DIV developers * 8/24 * 5/7 = DAYS. Ready
+
 
 ## Wrapping up
