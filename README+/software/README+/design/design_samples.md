@@ -13,7 +13,7 @@ The planning and presentation of software features oblige one with a pictorial b
 
 This popular, with easy-to-learn rules, board strategy of all times renders a favorable playground for software logic.  Other traits are...
 
-### Reversibility, full and plain
+### Reversibility: full and plain
 
 The conventional record of moves allows one to track a finished or in-progress game back to any point. The _reverse_ is just a specular move (with the recovery of taken figures).
 
