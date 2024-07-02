@@ -1,5 +1,7 @@
 # Driven design - TDD on DDD
 
+This chapter isn't miscellanea but the conjunction of the duo topics, which come hand in hand in the driven development.
+
 ## TDD (Test Driven Design)
 
 Simplicity and versatility make **TDD** superb for insight into fuzzy topics (almost any novel development). 
@@ -20,10 +22,12 @@ Optionally and cautionary:
 
 ### Downsides of TDD
 
-it was so much test-driven flattery that some criticism must take place. The most negative influence could be _voodoo programming_ to achieve specific results, Others are:
+it was so much test-driven flattery that some criticism must take place. The most negative influence could be _voodoo programming_ to achieve specific results.
+
+Others are:
 
 - ever-growing lines of non-production code, which require refactoring and maintenance lesser but comparable to main projects,
-- lack (if not absence) of ripe active frameworks. // 🚧ToDo: links to 3D
+- lack (if not absence) of ripe active frameworks. // 🚧 ToDo: use-dev links to "3D tests"
 
 ## DDD (Design Driven Design)
 
