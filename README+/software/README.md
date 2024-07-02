@@ -30,21 +30,21 @@ Initiative and funding render the canvas. Abstraction/math/logic and artistic sk
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** are tied, overlapping, and time-unordered role-driven processes.
 
-Many projects' modest size and lifetime with banality will shrink them almost to a bar, ...\
+Many projects' modest size lifetime with banality and, most importantly, isolated work on them will shrink the pie to a bar, ...\
 <picture>
   <img alt="Arc view at short projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg">
 </picture>\
 ... making more theorizing wiredrawn.
 
-### ... which begins ...
+### ... but ...
 
-However, axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, or gaming engines) and prize-winning brainteasers but challenges beyond the ordinary (say new LOB, CAD, or a cutting-edge module).
+Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, or gaming engines) and prize-winning brainteasers but challenges beyond the ordinary: new LOB, new domains (such as CAD), or cutting-edge modules.
 
 **X**: Coercive resource scaling against "horizontal" growth will deliver a kludge - horribly coupled, getting harder and more expensive to evolve and maintain, with little rational heritage (except how not to do it).
 
 **Y**: Stacking design decisions (as they come) against towering abstractions will make up a modeling heap. Then the chaos (inherent to any software dev) will become unmanageable at a certain height. 
 
-### ... _Arc Deco_
+### ... _Arc Deco_ begins
 
 These obstacles give us legitimate space for the metaphysics of software. 
 To distinguish the survey following (at least for the file system) I couldn't find a better tag but a mocking acronym _Arc&nbsp;Deco_<sup>🎨</sup> (**Arc**itecture **D**esign d**E**velopment **Co**ding).
