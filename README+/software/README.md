@@ -56,7 +56,7 @@ To distinguish the survey following (at least for the file system) I couldn't fi
 |- [Rationale](README+/ArcDeco/1.ArcDeco-Rationale.md)\
 |- [Big Picture - Outline](README+/ArcDeco/2.ArcDeco-BigPict-Outline.md)\
 |- Classisication\
-|- [Big Picture - Labeled](README+/ArcDeco/2.ArcDeco-BigPict-Marked.md)\
+|- [Big Picture - Labeled](README+/ArcDeco/4.ArcDeco-BigPict-Annotated.md)\
 |- Roles share for inclinations\
 |- Architecture and architector\
 |- [Worth of coding](README+/ArcDeco/ArcDeco-Coding_worth.md)\
