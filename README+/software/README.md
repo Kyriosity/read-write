@@ -57,9 +57,15 @@ To distinguish the survey following (at least for the file system) I couldn't fi
 |- [Big Picture - Outline](README+/ArcDeco/2.ArcDeco-BigPict-Outline.md)\
 |- Classisication\
 |- [Big Picture - Labeled](README+/ArcDeco/4.ArcDeco-BigPict-Annotated.md)\
+|-- Classificaion\
+|-- Forces\
 |- Roles share for inclinations\
 |- Architecture and architector\
 |- [Worth of coding](README+/ArcDeco/ArcDeco-Coding_worth.md)\
 |- Wrap up
 
-...
+## Sealing
+
+### Disclaimer
+
+
