@@ -73,7 +73,7 @@ Original study: https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 Justified: abilities in exact sciences are no longer a prerequisite for applied programming. 
 It's natural to find a sorting algorithm implementation (unless a platform provides one) rather than to write your own or even comprehend/differentiate one.
 
-This differs much what was on the eve of IT: LINK TO QUOTE: NOT AGED
+This differs much from what was on the eve of IT: LINK TO QUOTE: NOT AGED
 
 ---------
 </details>
@@ -84,7 +84,7 @@ This differs much what was on the eve of IT: LINK TO QUOTE: NOT AGED
 ### :cd: When disks were indeed hard and strong skills in IT were obvious...
 
 <picture>
-  <img alt="Year 1956: loading an IBM disk to rent" src="../../../_rsc/_img/photo/hist/IBM350_1956.jpg">
+  <img alt="The year 1956: loading an IBM disk to rent" src="../../../_rsc/_img/photo/hist/IBM350_1956.jpg">
 </picture><br/><br/>
 
 ### 🗃️ Universal storage ever
