@@ -3,7 +3,11 @@
 ❗🏠 && ❗🏢 = 🏞️ 🚋🛸
 
 <picture>
-  <img alt="The year 1956: loading an IBM disk to rent" src="../../../../_rsc/_img/photo/hist/IBM350_1956.jpg">
+  <img alt="NUE, Boeing 747-422 (Atlas Air)" src="../../../../_rsc/_img/photo/blog/NUE-Atlas_747.jpg">
+</picture>
+
+<picture>
+  <img alt="Brombachsee, die Bucht" src="../../../../_rsc/_img/photo/blog/Brombachsee-eBucht-pier.jpg">
 </picture>
 
 
