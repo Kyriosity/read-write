@@ -1,8 +1,8 @@
-# IT memes - Idiomatic collection
+# Idiomatic collection
 
 <div dir="rtl"><i>I like epigraphs for<br/>magnificent look and<br>.vertical indent</i></div>
 
-## Volume I
+## Volume I - IT memes
 
 <details>
 <summary><ins>&nbsp;<b>First and foremost ...</b>&nbsp;</ins></summary>
@@ -110,7 +110,7 @@ P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "A
 </details>
 
 &nbsp;\
-|- [**Volume&nbsp;II. Quotes**](IT-memes-Vol2.md) 
+|- [**Volume&nbsp;II. Inspirational quotes**](IT-memes-Vol2.md) 
 
 ---
 
