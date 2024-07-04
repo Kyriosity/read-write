@@ -31,11 +31,11 @@ Others are:
 
 ## DDD (Design Driven Design)
 
-<p dir=rtl><i>My ideal of program design is to represent the concepts<br/>
+<p dir=rtl>My ideal of program design is to represent the concepts<br/>
 .of the application domain directly in code<br>
 ,That way, if you understand the application domain<br/>
-.you understand the code and vice versa</i><br/>
-<a href="https://www.stroustrup.com/quotes.html">Bjarne Stroustrup quotes</a></p>
+.you understand the code and vice versa<br/>
+<i>++Bjarne Stroustrup, founder of C</i></p>
 
 TDD and **D**omain **D**riven **D**esign are perfect matches and will boost each other. With _design hat_ on one will draught domain objects, their functions, and relations, which one wearing the _"test" hat_ will mock and stub, develop the syntax of their reference, and give essential feedback.
 
