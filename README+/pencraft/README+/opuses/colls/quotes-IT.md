@@ -1,13 +1,15 @@
 # IT quotes - Fluid collection
 
-What is a good quote? 
-Subtle humorous, witty? — Nice but not obligatory. 
-Clever and concise? — Prerequisite.
-One that aged well. — A must.
+<p dir="rtl">?What is a good quote<br/>
+.Subtle humorous, witty? — Nice but not obligatory<br/>
+.Clever and concise? — Prerequisite<br/>
+.One that aged well. - A must</p>
+
 
 That's why here you'll see a definite inclination toward IT pioneers whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup>  
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Which work was beyond physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie afaik.</sub>
+
 
 
 NOTE❗This is continuous writing which will always get good stuff to copy-paste.
@@ -54,9 +56,8 @@ That's why I have a clock on my wall that runs counterclockwise.
 By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared. I well remember when this realization first came on me with full force.
 The EDSAC was on the top floor of the building and the tape-punching and editing equipment one floor below. [...] It was on one of my journeys between the EDSAC room and the punching equipment that "hesitating at the angles of stairs" the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 
-Maurice Wilkes
+_Maurice Wilkes_
 
-## Updgrade pending
 
 ## Aged not that good
 
@@ -121,6 +122,39 @@ My opinion is that languages as Basic offer an easy EINSTIEG to newbies and NUBs
 
 </details>
 
+## Misinterpreted and misattributed (disputed)
+
+<p dir="rtl"><i>I never posted even one-tenth of<br/>
+.the garbage they will quote as mine</i><br/>
+.W.Churchill | A.Einstein | S.Freud <i>et al</i></p>
+
+<details>
+ <summary><ins><b>&nbsp;Full story matters&nbsp;</b></ins></summary>
+&nbsp;
+ 
+> Where a calculator like ENIAC today is equipped with 18'000 vacuum tubes and weighs 30 tons, **computers in the future may** have only 1'000 vacuum tubes and perhaps **weigh only 1½ tons**.\
+_Popular Mechanics, March 1949_
+
+Wrongly quoted as futuristic cringe, it wasn't.
+
+The same magazine over seven decades later: "Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons."
+
+---
+
+</details>
+
+<details>
+ <summary><ins><b>&nbsp;Do salt&nbsp;</b></ins></summary>
+&nbsp;
+
+> "There are only two kinds of languages: the ones people complain about and the ones nobody uses".\
+Yes. Again, I very much doubt that the sentiment is original.\
+Of course, all "there are only two" quotes have to be taken with a grain of salt.\
+_**Bjarne Stroustrup**_ 
+ 
+</details>
+
+
 ## Appendices
 
 ### Authors
@@ -133,7 +167,7 @@ _**Alan Perlis**_ (1922-1990), ALGOL team
 _**Tony Hoare**_, _Charles Antony Richard Hoare_
  (born 1934), fundamental contributor to programming languages and algorithms
 
-_**Bjarne Stroustrup**_ , :dk: father of C++, evangelist of paradigms.
+_**Bjarne Stroustrup**_ , :dk: /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
 Beyond his contributions, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html) saving us from misinterpretations.
 
 + ***Grace Hopper***, Grace Brewster Hopper, née Murray  (1906-1992), :us: grandma of Cobol, finder of the moth that opened the debugging era (which queerly chords with her name).
