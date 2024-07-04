@@ -1,21 +1,24 @@
 # IT quotes - Fluid collection
 
 <p dir="rtl">?What is a good quote<br/>
-.Subtle humorous, witty? — Nice but not obligatory<br/>
+?Subtle, humorous, witty<br/>.Nice but not obligatory<br/>
 .Clever and concise? — Prerequisite<br/>
 .One that aged well. - A must</p>
 
-
-That's why here you'll see a definite inclination toward IT pioneers whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup>  
+That's why here you find a definite inclination toward IT pioneers whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup>  
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Which work was beyond physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie afaik.</sub>
 
+🚧 WORK IN PROGRESS: new good stuff will be pasted as found.
 
+## Cornerstones
 
-NOTE❗This is continuous writing which will always get good stuff to copy-paste.
+> Simplicity does not precede complexity but follows it.\
+_Alan Perlis_
 
-Alan Perlis
-> Simplicity does not precede complexity but follows it.
+![#architecture](https://img.shields.io/badge/%23-Architecture-yellow) ![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
+> Data abstractions provide the same benefits as procedures but for data.\
+_Barbara Liskov_
 
 ## First class
 
@@ -35,11 +38,6 @@ _Bjarne Stroustrup_
 
 The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.
 Edsger W. Dijkstra (1970)
-
-![#architecture](https://img.shields.io/badge/%23-Architecture-yellow) ![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
-> Data abstractions provide the same benefits as procedures but for data.\
-_Barbara Liskov_
-
 
 ![#design](https://img.shields.io/badge/%23-Methodolgy-yellow) 
 
