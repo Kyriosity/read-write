@@ -1,4 +1,4 @@
-# Idiomatic Collection - Volume II 
+# Idiomatic Collection - Inspirational quotes
 
 |- [**Volume I. Memes**](IT-memes.md)
 
