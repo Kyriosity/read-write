@@ -2,7 +2,7 @@
 
 Bad tests are worse than none, and since you can't and shan't write tests of tests their development must be focused and flawless.
 
-## Falsely green tests
+## Falsely green tests (Place 1)
 
 <p dir="rtl">,Testing shows the presence<br/>.not the absence of bugs
 <br/><i>Edsger W. Dijkstra</i>, 1969<sup>❔</sup></p>
@@ -13,6 +13,10 @@ The following guidelines help to avoid:
 
 + Ever test your test to show the red sign.
 + Right anti-test counterpart (e.g. that shall throw exceptions)
+
+## Class focus (Place 2)
+
+The subject of tests are logical units through interfaces while implementation can be changed or swapped.
 
 ## Blind fit to green and carousel
 
