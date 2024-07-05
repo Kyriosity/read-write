@@ -20,12 +20,13 @@ It was long after the punch decline and they were legacy coursework at my univer
 
 ### The task
 
-It was an exercise in PL/I&nbsp;<sup>🔢</sup> - output a curve of an assigned function (some $`ax^2 + bx + c`$ was mine). And the _output_ meant **direct to paper** using teletype symbols for X/Y axes and the graph. Believe it or not, there was no computer monitor in this story.
+It was an exercise in PL/I&nbsp;<sup>🔢</sup> - output a curve of an assigned function (some $`ax^2 + bx + c`$ was mine). And the _output_ meant **direct to the line printer** using teletype symbols for X/Y axes and the graph.
+
+Believe it or not, there was no electronic display in this story.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🔢</sup>&nbsp;<sub>IBM's procedural [Programming Language One](https://en.wikipedia.org/wiki/PL/I)<sup>🔗</sup> 
-PL/1, DB2, OS/2, Type-III, BS12,... - the Blue Giant was also a names' lord.</sub>
-
-Fun fact: traces of PL/1 appear in the epic [2001: A Space Odyssey](https://www.wired.com/story/2001-a-space-odyssey-predicted-the-future50-years-ago/).
+PL/1, DB2, OS/2, Type-III, BS12,... - the Blue Giant was also a names' lord.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:cinema:</sup><sub>Fun fact: traces of PL/1 appear in the epic [2001: A Space Odyssey](https://www.wired.com/story/2001-a-space-odyssey-predicted-the-future50-years-ago/).</sub>
 
 ### Carton in, paper out
 
@@ -42,7 +43,7 @@ It looks bizarre in this day and age what barely agile steps it took:
 &nbsp;&nbsp;**7️⃣**  Search for a graph among collateral outputs.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If fail, read errors, debug (mentally), and go to **2️⃣**.
 
-The motivation was so high (as you can feel) that many had succeeded in the first approach but not me. 
+The motivation was so strong (as you might feel) that many succeeded in the first approach but not me.
 
 Between **4️⃣** and **5️⃣** a fellow disciple intruded: shuffling my deck unnoticed. Instead of the graph, I got bad (machine) language printed and a lesson learned about data integrity and security.
 
@@ -65,7 +66,7 @@ Any mechanical action, dirt, temperature, or humidity, that can damage them, wil
 It's not about household magnets, short circuits, and solar flares. Punch cards will survive nuclear disasters and [gamma-ray bursts](https://en.wikipedia.org/wiki/Gamma-ray_burst).
 + They have a look&feel of data storage, easy to read<sup>🪢</sup> manually or with DIY device.
 + Eco-friendly and highly utilizable.\
-Even if the info remains unclaimed or safely copied, our heirs or other species may use the cards as our ancestors: bookmarks, pads, or fans.
+Even if the data remains unclaimed or safely copied, our heirs or other species may use the cards as our ancestors: bookmarks, pads, or fans.
 
 <sup>💾</sup> <sub>Prederemined by data density: there could be no mini and micro, or double side next.</sub>\
 <sup>📚</sup> <sub>As it happened with the Writing in centuries before Homer.</sub>\
