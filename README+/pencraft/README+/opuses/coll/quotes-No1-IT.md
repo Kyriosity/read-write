@@ -1,9 +1,18 @@
 # IT quotes - Fluid collection
 
+## Foreword 
+
 <p dir="rtl">?What is a good quote<br/>
 ?Subtle, humorous, witty<br/>.Nice but not obligatory<br/>
 .Clever and concise? — Prerequisite<br/>
 .One that aged well. - A must</p>
+ALSO CHANGING!!!
+
+Quotes are everywhere and I'm PUCKY
+
+LINKS TO AUTHORS
+
+ARCDECO STAR !!! 
 
 That's why here you find a definite inclination toward IT pioneers whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup>  
 
@@ -16,7 +25,9 @@ That's why here you find a definite inclination toward IT pioneers whose input t
 ![#architecture](https://img.shields.io/badge/%23-Architecture-yellow) ![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
 
 > Simplicity does not precede complexity but follows it.\
-_Alan Perlis_
+
+[Alan Perlis](#Alan-Perlis)
+
 
 ![#architecture](https://img.shields.io/badge/%23-Architecture-yellow) ![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
 > Data abstractions provide the same benefits as procedures but for data.\
