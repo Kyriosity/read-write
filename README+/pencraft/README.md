@@ -19,7 +19,10 @@ __Furthermore__\
 |- [Technical authoring](README+/tech-authoring.md)\
 |- Technical illustration
 
-+ Freestyle [**opuses**](README+/opuses), to highlight some complete:\
++ Freestyle:\
 |- [Private view on AI in 2020s](README+/opuses/AI-2020s.md)\
 |- [In memory of Lotus Notes](README+/opuses/LN-view.md)\
-|- [IT memes](README+/opuses/IT-memes.md), found reasonable and [quotes](README+/opuses/IT-quotes.md)
+|- [Punchcards](README+/opuses/punchcard.md)
+
++ Collections\
+|- [IT memes](README+/opuses/IT-memes.md), found reasonable and [quotes](README+/opuses/coll\quotes-IT.md)

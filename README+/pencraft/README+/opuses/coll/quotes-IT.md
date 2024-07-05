@@ -7,11 +7,13 @@
 
 That's why here you find a definite inclination toward IT pioneers whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Which work was beyond physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie afaik.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
 
-🚧 WORK IN PROGRESS: new good stuff will be pasted as found.
+🚧 WORK IN PROGRESS: new stuff will be pasted as found.
 
 ## Cornerstones
+
+![#architecture](https://img.shields.io/badge/%23-Architecture-yellow) ![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
 
 > Simplicity does not precede complexity but follows it.\
 _Alan Perlis_
@@ -19,6 +21,11 @@ _Alan Perlis_
 ![#architecture](https://img.shields.io/badge/%23-Architecture-yellow) ![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
 > Data abstractions provide the same benefits as procedures but for data.\
 _Barbara Liskov_
+
+> Without philosophy language design becomes hacking.
+
+_Bjarne Stroustrup_
+
 
 ## First class
 
@@ -32,9 +39,6 @@ The first method is far more difficult. It demands the same skill, devotion, ins
 ![#design](https://img.shields.io/badge/%23-Design-yellow) 
 woman_technologist
 
-> Without philosophy language design becomes hacking.
-
-_Bjarne Stroustrup_
 
 The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.
 Edsger W. Dijkstra (1970)
@@ -152,7 +156,6 @@ _**Bjarne Stroustrup**_
  
 </details>
 
-
 ## Appendices
 
 ### Authors
@@ -160,13 +163,17 @@ _**Bjarne Stroustrup**_
 
 _**Fred Brooks**_, Frederick Phillips Brooks Jr. (1931-2022), Known for IBM	OS/360
 
+### IT Pioneers
+
+#### Alan Perlis
+
 _**Alan Perlis**_ (1922-1990), ALGOL team
 
 _**Tony Hoare**_, _Charles Antony Richard Hoare_
  (born 1934), fundamental contributor to programming languages and algorithms
 
 _**Bjarne Stroustrup**_ , :dk: /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
-Beyond his contributions, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html) saving us from misinterpretations.
+Beyond his contributions, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html)<sup>:link:</sup> saving us from misinterpretations.
 
 + ***Grace Hopper***, Grace Brewster Hopper, née Murray  (1906-1992), :us: grandma of Cobol, finder of the moth that opened the debugging era (which queerly chords with her name).
 
@@ -179,3 +186,29 @@ _**Maurice Wilkes**_, 🇬🇧 Maurice Vincent Wilkes (June 26, 1913 – Novembe
 _**Charles Bachman**_ (1924-2017) Godfather of DBMS
 
 _Theodore von Kármán_
+
+# Volume II. Quotes from non-IT
+
+<details>
+<summary><ins>&nbsp;<b>Philosophy and IT</b>&nbsp;</ins></summary>
+
+### _Immanuel Kant_ for domain-driven design
+
+![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
+
+> The only **objects** of practical reason are therefore those of good and evil.\
+> For by the former is meant an object necessarily desired according to a principle of reason;\
+by the latter one necessarily shunned, also according to a principle of reason.
+
+No mockery but a modest tribute to the 300th birthday of the considered one of the greatest philosophers.
+
+<sup>🇩🇪</sup> <sub>Original: _Die alleinigen Objekte einer praktischen Vernunft sind also die vom Guten und Bösen. 
+Denn durch das erstere versteht man einen notwendigen Gegenstand des Begehrungs-, 
+durch das zweite des Verabscheuungsvermögens, beides aber nach einem Prinzip der Vernunft._\
+_**Kritik der praktischen Vernunft, 1788**_<sub>
+
+---------
+</details>
+
+
+
