@@ -1,13 +1,13 @@
 # IT quotes - Fluid collection
 
-<p dir="rtl">?What's a good quote<br/>
-?Subtle, humorous, witty<br/>.Nice but not obligatory<br/>
-.Clever and concise? — Prerequisite<br/>
-.One that aged well. - A must</p>
+<p dir="rtl">?What makes a good quote<br/>
+.Subtle, humorous, witty<br/>? —  Nice but optional<br/>
+.Brainy, concise? — Prerequisite<br/>
+.Aging. - A must</p>
 
-That's why here you find a definite inclination toward IT pioneers whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup>  
+That's why here you find a definite inclination toward IT pioneers whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup>  Their delusions also count.
 
-Quotes are everywhere and I'm PICKKY
+Quotes are everywhere and I'm PICKY
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
 
@@ -15,7 +15,7 @@ Quotes are everywhere and I'm PICKKY
 
 ## Cornerstones
 
-![#architecture](https://img.shields.io/badge/%23-Architecture-green) ![Kant quote](https://img.shields.io/badge/⭐-ArcDeco-yellow)
+![#architecture](https://img.shields.io/badge/%23-Architecture-lightseagreen) ![Kant quote](https://img.shields.io/badge/⭐-ArcDeco-yellow)
 
 > Simplicity does not precede complexity but follows it.\
 [Alan Perlis](#Alan-Perlis)
@@ -182,39 +182,21 @@ _**Tony Hoare**_, _Charles Antony Richard Hoare_
 
 _**Maurice Wilkes**_, 🇬🇧 Maurice Vincent Wilkes (June 26, 1913 – November 29, 2010) 
 
-**_Barbara Liskov_**, is the only one honored with a personal letter in design principles - SO**L**ID.
 
 _**Charles Bachman**_ (1924-2017) Godfather of DBMS
 
 _Theodore von Kármán_
 
-### Misc
+### Et alia
+
+#### Barbara Liskov
+
+is the only one honored with a personal letter in design principles - SO**L**ID.
 
 _**Bjarne Stroustrup**_ , :dk: /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
 Beyond his contributions, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html)<sup>:link:</sup> saving us from misinterpretations.
 
-# Volume II. Quotes from non-IT
 
-<details>
-<summary><ins>&nbsp;<b>Philosophy and IT</b>&nbsp;</ins></summary>
-
-### _Immanuel Kant_ for domain-driven design
-
-![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
-
-> The only **objects** of practical reason are therefore those of good and evil.\
-> For by the former is meant an object necessarily desired according to a principle of reason;\
-by the latter one necessarily shunned, also according to a principle of reason.
-
-No mockery but a modest tribute to the 300th birthday of the considered one of the greatest philosophers.
-
-<sup>🇩🇪</sup> <sub>Original: _Die alleinigen Objekte einer praktischen Vernunft sind also die vom Guten und Bösen. 
-Denn durch das erstere versteht man einen notwendigen Gegenstand des Begehrungs-, 
-durch das zweite des Verabscheuungsvermögens, beides aber nach einem Prinzip der Vernunft._\
-_**Kritik der praktischen Vernunft, 1788**_<sub>
-
----------
-</details>
 
 
 
