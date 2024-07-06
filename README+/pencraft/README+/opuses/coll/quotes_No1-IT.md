@@ -1,13 +1,13 @@
 # IT quotes - Fluid collection
 
 <p dir="rtl">?What makes a good quote<br/>
-.Subtle, humorous, witty<br/>? —  Nice but optional<br/>
+.Subtle, witty? —  Nice but optional<br/>
 .Brainy, concise? — Prerequisite<br/>
 .Aging. - A must</p>
 
 That's why here you find a definite inclination toward IT pioneers whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup>  Their delusions also count.
 
-Quotes are everywhere and I'm PICKY
+Quotes can be annoying but here I'm carefully picking only worthy.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
 
