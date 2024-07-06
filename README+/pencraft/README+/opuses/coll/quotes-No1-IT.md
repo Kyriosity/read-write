@@ -1,20 +1,13 @@
 # IT quotes - Fluid collection
 
-## Foreword 
-
-<p dir="rtl">?What is a good quote<br/>
+<p dir="rtl">?What's a good quote<br/>
 ?Subtle, humorous, witty<br/>.Nice but not obligatory<br/>
 .Clever and concise? — Prerequisite<br/>
 .One that aged well. - A must</p>
-ALSO CHANGING!!!
-
-Quotes are everywhere and I'm PUCKY
-
-LINKS TO AUTHORS
-
-ARCDECO STAR !!! 
 
 That's why here you find a definite inclination toward IT pioneers whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup>  
+
+Quotes are everywhere and I'm PICKKY
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
 
@@ -22,10 +15,9 @@ That's why here you find a definite inclination toward IT pioneers whose input t
 
 ## Cornerstones
 
-![#architecture](https://img.shields.io/badge/%23-Architecture-yellow) ![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
+![#architecture](https://img.shields.io/badge/%23-Architecture-green) ![Kant quote](https://img.shields.io/badge/⭐-ArcDeco-yellow)
 
 > Simplicity does not precede complexity but follows it.\
-
 [Alan Perlis](#Alan-Perlis)
 
 
@@ -183,8 +175,6 @@ _**Alan Perlis**_ (1922-1990), ALGOL team
 _**Tony Hoare**_, _Charles Antony Richard Hoare_
  (born 1934), fundamental contributor to programming languages and algorithms
 
-_**Bjarne Stroustrup**_ , :dk: /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
-Beyond his contributions, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html)<sup>:link:</sup> saving us from misinterpretations.
 
 + ***Grace Hopper***, Grace Brewster Hopper, née Murray  (1906-1992), :us: grandma of Cobol, finder of the moth that opened the debugging era (which queerly chords with her name).
 
@@ -197,6 +187,11 @@ _**Maurice Wilkes**_, 🇬🇧 Maurice Vincent Wilkes (June 26, 1913 – Novembe
 _**Charles Bachman**_ (1924-2017) Godfather of DBMS
 
 _Theodore von Kármán_
+
+### Misc
+
+_**Bjarne Stroustrup**_ , :dk: /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
+Beyond his contributions, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html)<sup>:link:</sup> saving us from misinterpretations.
 
 # Volume II. Quotes from non-IT
 
