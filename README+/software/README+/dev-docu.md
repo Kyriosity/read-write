@@ -4,8 +4,8 @@
 
 |- Input (Requirements)\
 |- Comments\
-|- Design\
-|- User (customer docu)\
+|- Design record\
+|- User/customer docu\
 |- Pencraft
 
 ## Preamble -  `//` Commenting the `code`
@@ -20,14 +20,16 @@ Exploring source codes of prominent providers on GitHub or elsewhere you'll find
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>©️</sup>&nbsp;<sub>As if there were no license agreement or such a spell may prohibit impudent copy-paste.</sub>
 
 <details>
-  <summary><ins>&nbsp;Naturally, there may be justified exclusions to expand a few:&nbsp;</ins></summary>
+  <summary><ins><b>&nbsp;Naturally, enough cases are licit to comment - to expand a few:&nbsp;</b></ins></summary>
 
++ stamps on auto-generated stuff,
 + weird workarounds (especially for third-party bugs),
 + courtesy of Q&A sites,
 + worthy tricks that harm readability,
 + code snippets in documentation,
-+ domain-explaining quotes from sources like a wiki.
-
++ informal notes on test data,
++ domain-explaining quotes from sources like a wiki.\
+\____________________________________
 </details>
 
 One other distinct and legitimate niche is [comment-driven development](en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. Further options can be worth deliberation as:
