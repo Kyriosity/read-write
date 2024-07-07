@@ -1,5 +1,7 @@
 # IT quotes - Fluid collection
 
+![Work in progress](https://img.shields.io/badge/🚧-Work_in_progress-yellow)
+
 <p dir="rtl">?What makes a good quote<br/>
 .Terse, witty? —  That's for aphorisms<br/>
 .Brainy, ingenious? — Prerequisite<br/>
@@ -16,7 +18,7 @@ Quotes can be annoying but here I'm carefully picking only worthy.
 
 ## Cornerstones
 
-![#architecture](https://img.shields.io/badge/%23-Architecture-lightseagreen) ![Kant quote](https://img.shields.io/badge/⭐-ArcDeco-yellow)
+![#architecture](https://img.shields.io/badge/%23-Architecture-lightseagreen) ![ArcDeco star](https://img.shields.io/badge/⭐-ArcDeco-yellow)
 
 > Simplicity does not precede complexity but follows it.\
 _Alan Perlis_
