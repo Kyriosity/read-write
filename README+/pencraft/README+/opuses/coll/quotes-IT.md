@@ -12,6 +12,7 @@ Quotes can be annoying but here I'm carefully picking only worthy.
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
 
 🚧 WORK IN PROGRESS: new stuff will be pasted as found.
+|- [Quotes from non-ITers](quotes-IT-amateurs)
 
 ## Cornerstones
 
@@ -44,20 +45,13 @@ _Edsger W. Dijkstra_ (1970)
 ![#design](https://img.shields.io/badge/%23-Methodolgy-yellow) 
 
 > **Humans are allergic to change**. They love to say, "We've always done it this way."  **I try to fight that.**\
-That's why I have a clock on my wall that runs counterclockwise.
-
+That's why I have a clock on my wall that runs counterclockwise.\
 *Grace Hopper*
 
-## History
+## Organisation
 
-
-### Errors
-
-By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared. I well remember when this realization first came on me with full force.
-The EDSAC was on the top floor of the building and the tape-punching and editing equipment one floor below. [...] It was on one of my journeys between the EDSAC room and the punching equipment that "hesitating at the angles of stairs" the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
-
-_Maurice Wilkes_
-
+> A man provided with paper, pencil, and rubber, and subject to strict **discipline**, is in effect a universal machine.\
+_Allan Turing_ (1948)
 
 ## Aged not that good
 
@@ -83,7 +77,7 @@ I could imagine a mathematician/physicist converted to keyboard plankton but ...
 &nbsp;
  
 > The programmer's primary weapon in the never-ending battle against slow system is to change the intramodular structure.\
-Fred Brooks
+_Fred Brooks_
 
 </details>
 
@@ -113,8 +107,7 @@ Edsger W. Dijkstra conveyed the idea much more plausible (albeit about languages
 <details>
 <summary><b><ins>Bad languages</ins></b></summary>
 
-> It is practically impossible to teach good programming to students that have had a prior exposure to **BASIC**:\
-as potential programmers they are mentally mutilated beyond hope of regeneration.
+> It is practically impossible to teach good programming to students that have had a prior exposure to **BASIC**: as potential programmers they are mentally mutilated beyond hope of regeneration.
 
 > 
 
@@ -128,12 +121,13 @@ My opinion is that languages as Basic offer an easy EINSTIEG to newbies and NUBs
 .the garbage they will quote as mine</i><br/>
 .W.Churchill | A.Einstein | S.Freud <i>et al</i></p>
 
-<details>
- <summary><ins><b>&nbsp;Full story matters&nbsp;</b></ins></summary>
-&nbsp;
- 
+### Know the full story
+
 > Where a calculator like ENIAC today is equipped with 18'000 vacuum tubes and weighs 30 tons, **computers in the future may** have only 1'000 vacuum tubes and perhaps **weigh only 1½ tons**.\
 _Popular Mechanics, March 1949_
+
+<details><summary><ins><b>&nbsp;but...&nbsp;</b></ins></summary>
+&nbsp;
 
 Wrongly quoted as futuristic cringe, it wasn't.
 
@@ -143,14 +137,23 @@ The same magazine over seven decades later: "Fully transistorized computer, the 
 
 </details>
 
-<details>
- <summary><ins><b>&nbsp;Season with scepticism&nbsp;</b></ins></summary>
+<details><summary><ins><b>&nbsp;Season with scepticism&nbsp;</b></ins></summary>
 &nbsp;
 
 > "There are only two kinds of languages: the ones people complain about and the ones nobody uses".\
 Yes. Again, I very much doubt that the sentiment is original.\
 Of course, all "there are only two" quotes have to be taken with a grain of salt.\
 _**Bjarne Stroustrup**_ 
+
+<details><summary><ins><b>&nbsp;Dooomed to debug&nbsp;</b></ins></summary>
+&nbsp;
+
+> ... the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+
+> By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared. I well remember when this realization first came on me with full force.
+The EDSAC was on the top floor of the building and the tape-punching and editing equipment one floor below. [...] It was on one of my journeys between the EDSAC room and the punching equipment that "hesitating at the angles of stairs" the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.\
+_Maurice Wilkes_
+
  
 </details>
 
@@ -158,25 +161,29 @@ _**Bjarne Stroustrup**_
 
 ### Authors
 
-
-_**Fred Brooks**_, Frederick Phillips Brooks Jr. (1931-2022), Known for IBM	OS/360
-
 ### IT Pioneers
+
+_**Alan Turing**_, Alan Mathison Turing (1912-1954)
 
 _**Alan Perlis**_ (1922-1990), ALGOL team
 
-_**Tony Hoare**_, _Charles Antony Richard Hoare_
- (born 1934), fundamental contributor to programming languages and algorithms
+_**Fred Brooks**_, Frederick Phillips Brooks Jr. (1931-2022), Known for IBM	OS/360
 
+_**Tony Hoare**_, _Charles Antony Richard Hoare_ (born 1934), a fundamental contributor to programming languages and algorithms
 
 + ***Grace Hopper***, Grace Brewster Hopper, née Murray  (1906-1992), :us: grandma of Cobol, finder of the moth that opened the debugging era (which queerly chords with her name).
 
 [**Edsger W. Dijkstra**](wiki), the abolisher of GoTo, the inventor of _mutex_.
 
+
 _**Maurice Wilkes**_, 🇬🇧 Maurice Vincent Wilkes (June 26, 1913 – November 29, 2010) 
 
 
-_**Charles Bachman**_ (1924-2017) who invented the DBMS and changed the business of GE.
+_**Charles Bachman**_ (1924-2017) who invented the DBMS and changed the business of GE. 
+A rare pure engineer among IT founders, and one who visited the White House to receive a National Medal of Technology and Innovation personally from the President.
+https://cacm.acm.org/opinion/how-charles-bachman-invented-the-dbms-a-foundation-of-our-digital-world/
+
+_**Ted Codd**_, Edgar Frank "Ted" Codd (1923-2003) who made databases relational (vs Network data model introduced by Charles Bachman and others)
 
 _Theodore von Kármán_
 
