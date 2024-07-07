@@ -20,9 +20,12 @@ __Furthermore__\
 |- Technical illustration
 
 + Freestyle:\
-|- [Private view on AI in 2020s](README+/opuses/AI-2020s.md)\
+|- [AI 2020s - much ado about?](README+/opuses/AI-2020s.md)\
 |- [In memory of Lotus Notes](README+/opuses/LN-view.md)\
-|- [Punchcards](README+/opuses/punchcard.md)
+|- [Punchcards - once upon a time](README+/opuses/punchcard.md)
 
 + Collections\
-|- [IT memes](README+/opuses/IT-memes.md), found reasonable and [quotes](README+/opuses/coll\quotes-IT.md)
+|- [IT memes](README+/opuses/coll/memes-IT.md),\
+|- [IT quotes](README+/opuses/coll/quotes-IT.md)
+
+And how without going [offtopic](README+/offtopic)?
