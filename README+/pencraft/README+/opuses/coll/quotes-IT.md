@@ -1,11 +1,11 @@
 # IT quotes - Fluid collection
 
 <p dir="rtl">?What makes a good quote<br/>
-.Subtle, witty? —  Nice but optional<br/>
-.Brainy, concise? — Prerequisite<br/>
-.Aging. - A must</p>
+.Terse, witty? —  That's for aphorisms<br/>
+.Brainy, ingenious? — Prerequisite<br/>
+.Aging. - The criterion</p>
 
-That's why here you find a definite inclination toward IT pioneers whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup>  Their delusions also count.
+That's why here you find a definite inclination toward [IT pioneers](#IT-Pioneers) whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
 
 Quotes can be annoying but here I'm carefully picking only worthy.
 
@@ -18,33 +18,28 @@ Quotes can be annoying but here I'm carefully picking only worthy.
 ![#architecture](https://img.shields.io/badge/%23-Architecture-lightseagreen) ![Kant quote](https://img.shields.io/badge/⭐-ArcDeco-yellow)
 
 > Simplicity does not precede complexity but follows it.\
-[Alan Perlis](#Alan-Perlis)
-
+_Alan Perlis_
 
 ![#architecture](https://img.shields.io/badge/%23-Architecture-yellow) ![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
 > Data abstractions provide the same benefits as procedures but for data.\
 _Barbara Liskov_
 
 > Without philosophy language design becomes hacking.
-
 _Bjarne Stroustrup_
 
 
-## First class
+## Simplicity vs complexity
 
 ![#design](https://img.shields.io/badge/%23-Design-yellow) 
-![#IT-pioneer](https://img.shields.io/badge/IT-Pioneer-orange) 
 
 > There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no *obvious* deficiencies.\
 &nbsp;\
 The first method is far more difficult. It demands the same skill, devotion, insight, and even inspiration as the discovery of the simple physical laws which underlie the complex phenomena of nature.
 
 ![#design](https://img.shields.io/badge/%23-Design-yellow) 
-woman_technologist
 
-
-The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.
-Edsger W. Dijkstra (1970)
+> The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.\
+_Edsger W. Dijkstra_ (1970)
 
 ![#design](https://img.shields.io/badge/%23-Methodolgy-yellow) 
 
@@ -100,7 +95,7 @@ Fred Brooks
 >  Everyone knows it takes a woman nine months to have a baby. But you Americans think if you get nine women pregnant, you can have a baby in a month.\
 _Theodore von Kármán_ (1957)
 
-It would be ok for this specific case but _Fred Brooks_ popularized it in "The Mythical Man-Month":
+It would be ok for this specific case but _Fred Brooks_ popularized it in [The Mythical Man-Month]()<sup>🔗</sup>:
 
 > The bearing of a child takes nine months, no matter how many women are assigned.
 
@@ -149,7 +144,7 @@ The same magazine over seven decades later: "Fully transistorized computer, the 
 </details>
 
 <details>
- <summary><ins><b>&nbsp;Do salt&nbsp;</b></ins></summary>
+ <summary><ins><b>&nbsp;Season with scepticism&nbsp;</b></ins></summary>
 &nbsp;
 
 > "There are only two kinds of languages: the ones people complain about and the ones nobody uses".\
@@ -168,8 +163,6 @@ _**Fred Brooks**_, Frederick Phillips Brooks Jr. (1931-2022), Known for IBM	OS/3
 
 ### IT Pioneers
 
-#### Alan Perlis
-
 _**Alan Perlis**_ (1922-1990), ALGOL team
 
 _**Tony Hoare**_, _Charles Antony Richard Hoare_
@@ -183,7 +176,7 @@ _**Tony Hoare**_, _Charles Antony Richard Hoare_
 _**Maurice Wilkes**_, 🇬🇧 Maurice Vincent Wilkes (June 26, 1913 – November 29, 2010) 
 
 
-_**Charles Bachman**_ (1924-2017) Godfather of DBMS
+_**Charles Bachman**_ (1924-2017) who invented the DBMS and changed the business of GE.
 
 _Theodore von Kármán_
 
@@ -195,8 +188,3 @@ is the only one honored with a personal letter in design principles - SO**L**ID.
 
 _**Bjarne Stroustrup**_ , :dk: /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
 Beyond his contributions, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html)<sup>:link:</sup> saving us from misinterpretations.
-
-
-
-
-
