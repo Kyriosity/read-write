@@ -41,7 +41,10 @@ One other distinct and legitimate niche is [comment-driven development](en.wikip
 
  Switching off code lines is a usual manipulation but committing one requires a comment at least that it was on purpose. A team may decide on acronyms like:\
  `///DEL` - delete after review\
- `///ERR` - doesn't work
+ `///ALT` - alternative implementation \
+ `///ERR` - doesn't work\
+ `///EXC` - causes an exception\
+ `///LOL` - i did it for lulz // It was a fast sketch which one may simplify or elaborate
 
 ---
 
