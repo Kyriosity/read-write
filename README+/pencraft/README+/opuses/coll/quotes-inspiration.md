@@ -1,6 +1,8 @@
-# Idiomatic Collection - Inspirational quotes
+# Quotes - Inspirational
 
-|- [**Volume I. Memes**](IT-memes.md)
+<p dir="rtl"><i>I never posted even one-tenth of<br/>
+.the garbage they will quote as mine</i><br/>
+.W.Churchill | A.Einstein | S.Freud <i>et al</i></p>
 
 <details>
 <summary><ins>&nbsp;<b>...to write the documentation</b>&nbsp;</ins></summary>
@@ -197,10 +199,16 @@ Alexander Pope, poet (1688-1744)
 .it saves original thinking</i><br/>
 Dorothy L. Sayers (1893-1957), novelist</p>
 
-I was a really negligent student. Sam Bankman-Fried
-I'm very skeptical of books.
-![Adidas Badge](https://img.shields.io/badge/Adidas-000?logo=adidas&logoColor=fff&style=for-the-badge)
-![IBM Badge](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=fff&style=for-the-badge)
+## Draft
 
-rating
+<details>
+<summary><ins>&nbsp;<b>...to learn</b>&nbsp;</ins></summary>
+&nbsp;
+
+> I was a really negligent student.\
+_Sam Bankman-Fried_, FTX cofounder, [only Zuck has been this rich young](https://www.forbes.com/sites/stevenehrlich/2021/10/06/the-richest-under-30-in-the-world-all-thanks-to-crypto/)
+
+> I'm very skeptical of books.
+
+</details>
 
