@@ -117,10 +117,6 @@ My opinion is that languages as Basic offer an easy EINSTIEG to newbies and NUBs
 
 ## Misinterpreted and misattributed (disputed)
 
-<p dir="rtl"><i>I never posted even one-tenth of<br/>
-.the garbage they will quote as mine</i><br/>
-.W.Churchill | A.Einstein | S.Freud <i>et al</i></p>
-
 ### Know the full story
 
 > Where a calculator like ENIAC today is equipped with 18'000 vacuum tubes and weighs 30 tons, **computers in the future may** have only 1'000 vacuum tubes and perhaps **weigh only 1½ tons**.\
@@ -145,7 +141,9 @@ Yes. Again, I very much doubt that the sentiment is original.\
 Of course, all "there are only two" quotes have to be taken with a grain of salt.\
 _**Bjarne Stroustrup**_ 
 
-<details><summary><ins><b>&nbsp;Dooomed to debug&nbsp;</b></ins></summary>
+</details>
+
+<details><summary><ins><b>&nbsp;Doomed to debug&nbsp;</b></ins></summary>
 &nbsp;
 
 > ... the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
@@ -154,7 +152,8 @@ _**Bjarne Stroustrup**_
 The EDSAC was on the top floor of the building and the tape-punching and editing equipment one floor below. [...] It was on one of my journeys between the EDSAC room and the punching equipment that "hesitating at the angles of stairs" the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.\
 _Maurice Wilkes_
 
- 
+---
+
 </details>
 
 ## Appendices
