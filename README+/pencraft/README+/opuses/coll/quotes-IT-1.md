@@ -55,6 +55,9 @@ That's why I have a clock on my wall that runs counterclockwise.\
 > A man provided with paper, pencil, and rubber, and subject to strict **discipline**, is in effect a universal machine.\
 _Allan Turing_ (1948)
 
+> One of my guiding principles is **don’t do anything that other people are doing. Always do something a little different if you can.** The concept is that if you do it a little differently there is a greater potential for reward than if you the same thing that other people are doing. I think that this kind of goal for one’s work, having obviously the maximum risk, would have the maximum reward no matter what the field may be.\
+_Seymour Cray_
+
 ## Aged not that good
 
 <details>
@@ -176,15 +179,15 @@ _**Tony Hoare**_, _Charles Antony Richard Hoare_ (born 1934), a fundamental cont
 
 [**Edsger W. Dijkstra**](wiki), the abolisher of GoTo, the inventor of _mutex_.
 
-
 _**Maurice Wilkes**_, 🇬🇧 Maurice Vincent Wilkes (June 26, 1913 – November 29, 2010) 
-
 
 _**Charles Bachman**_ (1924-2017) who invented the DBMS and changed the business of GE. 
 A rare pure engineer among IT founders, and one who visited the White House to receive a National Medal of Technology and Innovation personally from the President.
 https://cacm.acm.org/opinion/how-charles-bachman-invented-the-dbms-a-foundation-of-our-digital-world/
 
 _**Ted Codd**_, Edgar Frank "Ted" Codd (1923-2003) who made databases relational (vs Network data model introduced by Charles Bachman and others)
+
+_**Seymour Cray**_, (1925-1996), father of supercomputers
 
 _Theodore von Kármán_
 
