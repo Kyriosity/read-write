@@ -1,4 +1,4 @@
-# Quotes - Inspirational
+# Quotes store - Inspiration
 
 <p dir="rtl"><i>I never posted even one-tenth of<br/>
 .the garbage they will quote as mine</i><br/>
