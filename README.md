@@ -20,7 +20,9 @@
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       🥱&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a>
      &nbsp;➿&nbsp;
-     <a href="README+/pencraft/README+/opuses/coll">Colls</a>
+     <a href="README+/pencraft/README+/opuses/coll/quotes-IT-1.md">Quotes</a>
+      &nbsp;➿&nbsp;
+     <a href="README+/pencraft/README+/opuses/coll/IT_memes-1.md">Memes</a>
      </td>
  </tr><tr>
   </tr><tr>
