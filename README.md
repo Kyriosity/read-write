@@ -6,22 +6,25 @@
                alt="To learn is to swim against the current"></a><p>
     </td><td> 
      <a href="README+/software/"><b>SOFTWARE</b></a><br/>
-      &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-naming.md">Naming</a>&nbsp;➰&nbsp;
-      <a href="README+/software/README+/code-quality.md">Quality</a><br/>
-      &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-mngmnt.md">Organization</a>&nbsp;➿&nbsp;
+      &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-mngmnt.md">Organization</a>
+     &nbsp;➰&nbsp;
       <a href="README+/software/README+/dev-docu.md">Docu</a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/design"><b>Design</b></a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/testing"><b>Testing</b></a><br/>
-     &nbsp;&nbsp;🌵&nbsp;<a href="README+/software/README+/design/design_samples.md">Samples/Models</a><br/>
+      &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/design"><b>Design</b></a><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/README+/design/dev-naming.md">Naming</a>
+     &nbsp;➿&nbsp;
+     <a href="README+/software/README+/design/design-samples.md">Samples</a><br/>
+      &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/QA"><b>QA & Testing</b></a><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/README+/QA/README+/code-quality.md"><mark>Code</mark></a><br/>    
      <br/>
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
-      🥱&nbsp;feat.&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a>
+      🥱&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a>
      </td>
  </tr><tr>
   </tr><tr>
      <td>
 <a href="README+/.net/"><b>C#.NET</b></a><br/>
-                &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/a.review/cs-drawbacks.md">Drawbacks</a>&nbsp;➿&nbsp;
+                &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/a.review/cs-drawbacks.md">Drawbacks</a>
+      &nbsp;➰&nbsp;
                       <a href="README+/.net/README+/a.review/cs-lacks.md">Lacks</a><br/>
              &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/a.review/cs-malpractice.md">Malpractices</a>&nbsp;➗&nbsp;
                       <a href="README+/.net/README+/b.deduced/cs-hints.md">Hints</a><br/>
