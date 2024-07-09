@@ -9,12 +9,13 @@
 
 That's why here you find a definite inclination toward [IT pioneers](#IT-Pioneers) whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
 
-Quotes can be annoying but here I'm carefully picking only worthy. [![Arc Deco.](../../../,,/_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../) marked with star.
+Quotes can be annoying but here I'm carefully picking only worthy. [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../) marked with star.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
 
 🚧 WORK IN PROGRESS: new stuff will be pasted as found.
-|- [Quotes from non-ITers](quotes-IT-amateurs)
+
+|- [**Quotes from non-ITers**](quotes-IT-amateurs)
 
 ## Cornerstones
 
@@ -173,7 +174,7 @@ _Maurice Wilkes_
 
 ### Authors
 
-### IT Pioneers
+### IT Pioneers...
 
 _**Alan Turing**_, Alan Mathison Turing (1912-1954)
 
@@ -199,7 +200,7 @@ _**Seymour Cray**_, (1925-1996), father of supercomputers
 
 _Theodore von Kármán_
 
-### et alia
+### ...et alia
 
 #### Barbara Liskov
 
