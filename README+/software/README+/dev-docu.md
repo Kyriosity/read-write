@@ -52,7 +52,7 @@ One other distinct and legitimate niche is [comment-driven development](en.wikip
 
 ## Recording ⏺️ design ⏹️
 
-[Quality code](code-quality.md) reads well, peculiarly when a well-thought-of test plan guides the investigators. And nothing is better for reverse engineering than source code. 
+[Quality code](QA/README+/code-quality.md) reads well, peculiarly when a well-thought-of test plan guides the investigators. And nothing is better for reverse engineering than source code. 
 This approach solus becomes exponentially harder and will not reveal remarkable design/architecture intentions. It's warped to unfold the big canvas of abstractions.
 
 In practice, the code will be partly or greatly obscure and tests will lack clarity and seamless categorization. 
