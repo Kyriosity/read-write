@@ -1,4 +1,4 @@
-# Software - Testing
+# Software - Quality Assurance
 
 Tests are optional but highly recommended and a natural share of software development. Be it driven design or anti-bug coverage.
 
