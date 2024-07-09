@@ -42,13 +42,18 @@ The first method is far more difficult. It demands the same skill, devotion, ins
 ![#design](https://img.shields.io/badge/%23-Design-yellow) 
 
 > The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.\
-_Edsger W. Dijkstra_ (1970)
+_Edsger W. Dijkstra_, 1970
 
 ![#design](https://img.shields.io/badge/%23-Methodolgy-yellow) 
 
 > **Humans are allergic to change**. They love to say, "We've always done it this way."  **I try to fight that.**\
 That's why I have a clock on my wall that runs counterclockwise.\
 *Grace Hopper*
+
+## Testing
+
+> Testing shows the presence not the absence of bugs.\
+_Edsger W. Dijkstra_, 1969 (documented while the saying appeared before)
 
 ## Organisation
 
@@ -153,9 +158,12 @@ _**Bjarne Stroustrup**_
 
 > ... the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 
-> By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared. I well remember when this realization first came on me with full force.
+<details><summary>Full quote</summary>
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared. I well remember when this realization first came on me with full force.
 The EDSAC was on the top floor of the building and the tape-punching and editing equipment one floor below. [...] It was on one of my journeys between the EDSAC room and the punching equipment that "hesitating at the angles of stairs" the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.\
 _Maurice Wilkes_
+
+</details>
 
 ---
 
@@ -181,7 +189,7 @@ _**Tony Hoare**_, _Charles Antony Richard Hoare_ (born 1934), a fundamental cont
 
 _**Maurice Wilkes**_, 🇬🇧 Maurice Vincent Wilkes (June 26, 1913 – November 29, 2010) 
 
-_**Charles Bachman**_ (1924-2017) who invented the DBMS and changed the business of GE. 
+_**Charles Bachman**_ (1924-2017) who invented the DBMS and changed the business of GE.\
 A rare pure engineer among IT founders, and one who visited the White House to receive a National Medal of Technology and Innovation personally from the President.
 https://cacm.acm.org/opinion/how-charles-bachman-invented-the-dbms-a-foundation-of-our-digital-world/
 
@@ -191,7 +199,7 @@ _**Seymour Cray**_, (1925-1996), father of supercomputers
 
 _Theodore von Kármán_
 
-### Et alia
+### et alia
 
 #### Barbara Liskov
 
