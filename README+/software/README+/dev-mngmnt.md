@@ -1,4 +1,4 @@
-# Code, documentation and development - Management systems
+# Code, docu and dev - Management systems
 
 > NOTE: This article is about tools and methodologies but not activities of management (such as meetings, reporting, recruiting, and control).
 
@@ -10,7 +10,7 @@ You are reading from my profile on _Git_ but names of other platforms, framework
 
 The customers/users perspective - "not _how_ but _what_ matters" - draws a distinct watershed: **either** organization serves development, **or** _vice versa_.
 
-Commendable organization endows every process/measure with an exact explanation of how it facilitates development, spares resources, ensures quality and automates routines. (Not because it's on trends or in chosen methodology.)
+Commendable organization endows every process/measure with an exact explanation of how it facilitates development, spares resources, ensures quality, and automates routines. (Not because it's on trends or in chosen methodology.)
 
 ### Technical advantages expected
 
