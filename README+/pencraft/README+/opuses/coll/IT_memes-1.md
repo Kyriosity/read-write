@@ -5,12 +5,12 @@
 ## Volume I - IT memes
 
 <details>
-<summary><ins>&nbsp;<b>First and foremost ...</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>Primus</b>&nbsp;</ins></summary>
 &nbsp;
   
 ![West meets East](https://img.shields.io/badge/West_meets-East-yellow) ![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)
 
-[![... then IT must be a waterfall.](../../../_rsc/_img/memes/ITLearnWaterfall_horiz.png)](../../../software/)
+[![... then IT must be a waterfall.](../../../../_rsc/_img/memes/ITLearnWaterfall_horiz.png)](../../../software/)
 
 The grains of truth in this wisdom:
 
@@ -36,7 +36,7 @@ Translated east-to-west this means: find a sinecure in a big company.
 ![Genius](https://img.shields.io/badge/💡-Genius-blue)
 
 <picture>
-  <img alt="Guaranteed random by fair dice roll" src="../../../_rsc/_img/memes/IT-meme.random-number.png">
+  <img alt="Guaranteed random by fair dice roll" src="../../../../_rsc/_img/memes/IT-meme.random-number.png">
 </picture><br/><br/>
 
 And ... the twist! It was a real random number, while algorithms generate only pseudo-random ones.
@@ -55,7 +55,7 @@ The latter was what extraordinary _John von&nbsp;Neumann_ (1903-1957) noted:
 
 Original study: https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 
-([downloaded copy](../../../_rsc/_backup/ref/Marsupial/) if the URL doesn't work)
+([downloaded copy](../../../../_rsc/_backup/ref/Marsupial/) if the URL doesn't work)
 
 ---------
 </details>
@@ -67,7 +67,7 @@ Original study: https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 ![IT meets math](https://img.shields.io/badge/CTRL+F-X-blue) ![IT meets math](https://img.shields.io/badge/IT_meets-math-yellow)
 
 <picture>
-  <img alt="Here is X. Calm down Pythagoras" src="../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg">
+  <img alt="Here is X. Calm down Pythagoras" src="../../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg">
 </picture><br/><br/>
 
 Justified: abilities in exact sciences are no longer a prerequisite for applied programming. 
@@ -84,12 +84,12 @@ This differs much from what was on the eve of IT: LINK TO QUOTE: NOT AGED
 ### :cd: When disks were indeed hard and strong skills in IT were obvious...
 
 <picture>
-  <img alt="The year 1956: loading an IBM disk to rent" src="../../../_rsc/_img/photo/hist/IBM350_1956.jpg">
+  <img alt="The year 1956: loading an IBM disk to rent" src="../../../../_rsc/_img/photo/hist/IBM350_1956.jpg">
 </picture><br/><br/>
 
 ### 🗃️ Universal storage ever
 
-[![Punch cards in 1960s](../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)](punchcard.md)\
+[![Punch cards in 1960s](../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)](punchcard.md)\
 A stack of punch cards for a casual program.
 
 ---------
@@ -101,7 +101,7 @@ A stack of punch cards for a casual program.
 
 ![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
 
-[![AI: 1500s vs 2020s](../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](AI-2020s.md)
+[![AI: 1500s vs 2020s](../../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](AI-2020s.md)
 
 P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
 
@@ -110,8 +110,8 @@ P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "A
 </details>
 
 &nbsp;\
-|- [**Volume&nbsp;II. Inspirational quotes**](IT-memes-Vol2.md) 
+|- [**Volume&nbsp;II. Inspirational quotes**](quotes-inspiration.md) 
 
 ---
 
-<sub>[Notes/disclaimer](../../../_rsc) about graphic resources here</sub>
+<sub>[Notes/disclaimer](../../../../_rsc) about graphic resources here</sub> (🌘)2024
