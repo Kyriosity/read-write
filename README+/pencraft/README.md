@@ -26,6 +26,6 @@ __Furthermore__\
 
 + Collections\
 |- [IT memes](README+/opuses/coll/IT_memes-1.md),\
-|- [IT quotes](README+/opuses/coll/quotes-IT-1.md)
+|- [IT quotes](README+/opuses/coll/IT_quotes-1.md)
 
 And how without going [offtopic](README+/offtopic)?
