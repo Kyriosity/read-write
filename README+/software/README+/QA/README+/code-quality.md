@@ -6,7 +6,7 @@ guru deletes code<br/></p>
 
 # Code - Quality
 
-Code quality is the **cement** of software. It's imperceptible for spectators and doesn't matter much for booths, but ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions. Poor quality, as in building, results in security cracks.
+Code quality is the **cement** of software. It's imperceptible for spectators and doesn't matter much for booths, but it ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions — poor quality, as in buildings, leads to menacing cracks.
 
 ## High-quality code
 
@@ -29,11 +29,11 @@ High-quality code has
 
 The highest merit is that even a breaking change doesn't trigger unexpected side effects.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup>&nbsp;<sub>e.g. `String.Empty` instead of `""` and some [C# tricks](../../../README+/.net/README+/b.deduced/cs-hints.md)</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup>&nbsp;<sub>e.g. `String.Empty` instead of `""` and some [C# tricks](../../../../.net/README+/b.deduced/cs-hints.md)</sub>
 
 ### Re: Tests 🧪
 
-Test coverage may (and shall) share the same functionality with [Test Driven Design](../README+/design/tdd-ddd.md) but is intended to mechanically examine software (no matter when a subject of the test was implemented).
+Test coverage may (and shall) share the same functionality with [Test-Domain Driven Design](../../design/tdd-ddd.md) but is intended to mechanically examine software (no matter implemented prior to the subject or a posteriori).
 
 Efficient, ample test coverage allows only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, and performance testing.
 
@@ -43,7 +43,7 @@ _Errare humanum est_, and quality code allows one to focus tests on ...
 * subjects of frequent changes,
 * dependencies on imports and external parts.
 
-... and get more breath to avoid [tests pitfalls](../README+/testing/README+/tests-pitfalls.md).
+... and get more breath to avoid [tests pitfalls](tests-pitfalls.md).
 
 ## Moralité
 
@@ -61,9 +61,9 @@ Add here that not every developer self-reflects on "submit and forget" work, and
 
 ## Afterword
 
-**1)** Coding isn't a self-contained activity but an ingredient of [software creation](../), where quality is a derivative.
+**1)** Coding isn't a self-contained activity but an ingredient of [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../README.md), where quality is a derivative and bonus.
    
-**2)** The traits listed above are NOT acceptance criteria, but utmost aims. Even if a team comes close to them the code won't be a book of design revelation and its comprehension will depend on good [dev docu](dev-docu.md).
+**2)** The traits listed above are NOT acceptance criteria, but utmost aims. Even if a team comes close to them the code won't be a book of design revelation and its comprehension will depend on good [documentation](../../dev-docu.md).
 
 ## Appendix (1 of 1). Still mediocre code - why?!
 
@@ -81,4 +81,4 @@ Besides _classical_ over-creativity and procrastination the reasons could be:
 
 Some smart individuals develop great apps alone and are so good at keeping all details and the whole picture in mind that don't need and like to lose time with code organization. However, it's exceptional and not about enterprise development.
 
-🔚 THE END
+🔚 THE END (C)2024
