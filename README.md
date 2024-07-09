@@ -19,6 +19,8 @@
      <br/>    
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       🥱&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a>
+     &nbsp;➿&nbsp;
+     <a href="README+/pencraft/README+/opuses/coll">Colls</a>
      </td>
  </tr><tr>
   </tr><tr>
