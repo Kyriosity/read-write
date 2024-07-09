@@ -1,22 +1,33 @@
 # Test coverage - Pitfalls
 
-Bad tests are worse than none, and since you can't and shan't write tests of tests their development must be focused and flawless.
+## Conceptual
 
-## Falsely green tests (Place 1)
+### Test coverage as design drive
+
+ [TDD](../../design/tdd-ddd.md) 
+
+### Tests of tests
+
+Writing tests of test framework may put one into the infernal loop while running and analyzing applications tests will find out the errors there.
+
+### Falsely green tests
 
 <p dir="rtl">,Testing shows the presence<br/>.not the absence of bugs
 <br/><i>Edsger W. Dijkstra</i>, 1969<sup>❔</sup></p>
 
-The worst case of malfunctioning tests is a passing one that indeed shields a fail. And the worst of the worst is when such fail/pass is sporadic and arduous to reproduce. That's like a crossroad with random green lights.
+The worst case of malfunctioning tests is a passing one that indeed shields a fail. And the worst is when such fail/pass is sporadic and arduous to reproduce - imagine a crossroad with the random switch of green lights.
 
-The following guidelines help to avoid:
+The following guidelines help to avoid the trap:
 
-+ Ever test your test to show the red sign.
-+ Right anti-test counterpart (e.g. that shall throw exceptions)
++ Ever "test" your test to show the red sign.
++ Add counterpart test with the opposite result (e.g. that shall throw exceptions)
 
-## Class focus (Place 2)
 
-The subject of tests are logical units through interfaces while implementation can be changed or swapped.
+## Practical
+
+### Direct reference to implementation
+
+Contrary to TDD unit tests . Providers as adapters. // WRITE FOR TDD !
 
 ## Blind fit to green and carousel
 
