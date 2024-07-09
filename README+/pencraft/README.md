@@ -25,7 +25,7 @@ __Furthermore__\
 |- [Punchcards - once upon a time](README+/opuses/punchcard.md)
 
 + Collections\
-|- [IT memes](README+/opuses/coll/memes-IT.md),\
-|- [IT quotes](README+/opuses/coll/quotes-IT.md)
+|- [IT memes](README+/opuses/coll/IT_memes-1.md),\
+|- [IT quotes](README+/opuses/coll/quotes-IT-1.md)
 
 And how without going [offtopic](README+/offtopic)?
