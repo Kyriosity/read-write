@@ -10,12 +10,13 @@
      &nbsp;➰&nbsp;
       <a href="README+/software/README+/dev-docu.md">Docu</a><br/>
       &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/design"><b>Design</b></a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/README+/design/dev-naming.md">Naming</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;<a href="README+/software/README+/design/tdd-ddd.md">Tested Domain-Drive</a><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➿&nbsp;<a href="README+/software/README+/design/dev-naming.md">Naming</a>
      &nbsp;➿&nbsp;
-     <a href="README+/software/README+/design/design-samples.md">Samples</a><br/>
+     <a href="README+/software/README+/design/design-samples.md">Samples</a><br/>   
       &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/QA"><b>QA & Testing</b></a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/README+/QA/README+/code-quality.md"><mark>Code</mark></a><br/>    
-     <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/README+/QA/README+/code-quality.md"><mark>Code</mark></a>
+     <br/>    
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       🥱&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a>
      </td>
