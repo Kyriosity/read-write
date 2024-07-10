@@ -24,10 +24,10 @@ Even bug-**free** code can be bug-**prone**. Code style must be bug-unfriendly t
 
 High-quality code has
 
-+ syntax that prevents typos<sup>🎼</sup> and mistakes (like deceptive names, accidental casts or "ghost" arguments),
-+ visible logical flow (not limited to early return, shallow enclosures).
++ syntax that minimizes the risk of typos<sup>🎼</sup> and mistakes (like deceptive names, accidental casts or "ghost" arguments),
++ visible logical flow (e.g. early returns, shallow enclosures).
 
-The highest merit is that even a breaking change doesn't trigger unexpected side effects.
+The highest merit is that even a breaking change won't surprise devs and users with unexpected side effects.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup>&nbsp;<sub>e.g. `String.Empty` instead of `""` and some [C# tricks](../../../../.net/README+/b.deduced/cs-hints.md)</sub>
 
@@ -81,4 +81,4 @@ Besides _classical_ over-creativity and procrastination the reasons could be:
 
 Some smart individuals develop great apps alone and are so good at keeping all details and the whole picture in mind that don't need and like to lose time with code organization. However, it's exceptional and not about enterprise development.
 
-🔚 THE END (C)2024
+🔚 THE END (c<sup>#</sup>)2024
