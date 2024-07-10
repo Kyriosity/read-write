@@ -1,8 +1,8 @@
-# Driven design - TDD on DDD
+# Test-Domain Drivan Design (TDDD)
 
 This chapter isn't miscellanea but the conjunction of the duo topics, which come hand in hand in the driven development.
 
-## TDD (Test Driven Design)
+## TDD (Test Driven Development)
 
 Simplicity and versatility make **TDD** superb for insight into fuzzy topics (almost any novel development). 
 
@@ -30,12 +30,6 @@ Others are:
 - lack (if not absence) of ripe active frameworks. // 🚧 ToDo: use-dev links to "3D tests"
 
 ## DDD (Design Driven Design)
-
-<p dir=rtl>My ideal of program design is to represent the concepts<br/>
-.of the application domain directly in code<br>
-,That way, if you understand the application domain<br/>
-.you understand the code and vice versa<br/>
-<i>++Bjarne Stroustrup, founder of C</i></p>
 
 TDD and **D**omain **D**riven **D**esign are perfect matches and will boost each other. With _design hat_ on one will draught domain objects, their functions, and relations, which one wearing the _"test" hat_ will mock and stub, develop the syntax of their reference, and give essential feedback.
 
@@ -69,7 +63,7 @@ TDD/DDD may look first if not fun but a cozy exercise. Getting further will ask 
 
 ### Overfocus on structure and names
 
-With only a handful of tests written accurate naming and categorization may distract one from new and convey little value. Detailed development and refactoring will urge you to revise these attributes. 
+With only a handful of tests written accurate naming and categorization may distract one from new and convey little value. The detailed development and refactoring will urge you to revise these attributes. 
 
 ### Misjudgement of trivia
 
@@ -81,7 +75,6 @@ These mirages appear chiefly on the horizons of new software. Apparent "live" co
 
 TDD/DDD isn't  _lapis philosophorum_ and is barely a good approach for:
 
-+ test frameworks (tests of tests, then tests of these tests, and so on ...),
 + code porting,
 + non-testable entities: artistic brush, quality of the generated text, non-reproducible calculations.
 
