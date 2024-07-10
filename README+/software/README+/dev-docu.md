@@ -23,7 +23,7 @@ Exploring source codes of prominent providers on GitHub or elsewhere you'll find
   <summary><ins><b>&nbsp;Naturally, enough cases are licit to comment - to expand a few:&nbsp;</b></ins></summary>
 
 + stamps on auto-generated stuff,
-+ weird workarounds (especially for third-party bugs),
++ ridiculous workarounds (especially for third-party bugs),
 + courtesy of Q&A sites,
 + worthy tricks that harm readability,
 + code snippets in documentation,
