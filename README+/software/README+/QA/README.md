@@ -1,5 +1,19 @@
 # Software - Quality Assurance
 
+When there's no more room in RAM,\
+the bugs will walk the office.
+
+Software is error-prone by its nature.
+
+
+## Test by nature
+
+The developer is the first tester
+
+The cases when the submitted code is a bug by itself (i've seen such)
+
+## Automated tests
+
 Tests are optional but highly recommended and a natural share of software development. Be it driven design or anti-bug coverage.
 
 
