@@ -14,7 +14,7 @@ That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`cl
 
 + [x] **reads** in both directions<sup>↔️</sup>,
 + [x] **teaches** techniques and gimmicks,
-+ [x] **inspires** to contribute (rather than "it's better to rewrite that")
++ [x] **inspires** to contribute (rather than to rewrite)
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>↔️</sup> <sub>On-boarding developers can learn the domain from code (sure, not alone) while the domain expert (with some assistance) will grasp the implemented application logic.</sub>
 
@@ -24,7 +24,7 @@ Even bug-**free** code can be bug-**prone**. Code style must be bug-unfriendly t
 
 High-quality code has
 
-+ syntax that minimizes the risk of typos<sup>🎼</sup> and mistakes (like deceptive names, accidental casts or "ghost" arguments),
++ syntax that prevents typos<sup>🎼</sup> and mistakes (like plenty of magic strings and numbers, deceptive names, accidental casts, or "ghost" arguments),
 + visible logical flow (e.g. early returns, shallow enclosures).
 
 The highest merit is that even a breaking change won't surprise devs and users with unexpected side effects.
@@ -33,7 +33,7 @@ The highest merit is that even a breaking change won't surprise devs and users w
 
 ### Re: Tests 🧪
 
-Test coverage may (and shall) share the same functionality with [Test-Domain Driven Design](../../design/tdd-ddd.md) but is intended to mechanically examine software (no matter implemented prior to the subject or a posteriori).
+Test coverage may (and shall) share functionality with [Test-Domain Driven Design](../../design/tdd-ddd.md) but is intended to mechanically examine software (no matter implemented before the subject or a posteriori).
 
 Efficient, ample test coverage allows only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, and performance testing.
 
@@ -61,9 +61,11 @@ Add here that not every developer self-reflects on "submit and forget" work, and
 
 ## Afterword
 
-**1)** Coding isn't a self-contained activity but an ingredient of [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../README.md), where quality is a derivative and bonus.
+**1)** Coding isn't a self-contained activity but an ingredient of [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../README.md), where quality is a motive, derivative, and bonus.
    
-**2)** The traits listed above are NOT acceptance criteria, but utmost aims. Even if a team comes close to them the code won't be a book of design revelation and its comprehension will depend on good [documentation](../../dev-docu.md).
+**2)** The traits listed above are NOT acceptance criteria, but utmost aims. Even if your team comes close to them the code won't be a book of design revelation — you still owe quality [documentation](../../dev-docu.md).
+
+**3)** Lines of deleted code from previous releases count more than added.
 
 ## Appendix (1 of 1). Still mediocre code - why?!
 
