@@ -15,7 +15,7 @@ Quotes can be annoying but here I'm carefully picking only worthy. [![Arc Deco.]
 
 🚧 WORK IN PROGRESS: new stuff will be pasted as found.
 
-|- [**Quotes from non-ITers**](quotes-IT-amateurs)
+|- See also: [**Quotes from non-ITers**](IT-quotes-aux.md)
 
 ## Cornerstones
 
@@ -31,6 +31,9 @@ _Barbara Liskov_
 > Without philosophy language design becomes hacking.
 _Bjarne Stroustrup_
 
+> My ideal of program design is to represent the concepts of the application domain directly in code. 
+That way, if you understand the application domain, you understand the code and vice versa.
+_Bjarne Stroustrup_++
 
 ## Simplicity vs complexity
 
