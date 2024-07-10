@@ -42,7 +42,7 @@ Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not abo
 
 **X**: Coercive resource scaling against "horizontal" growth will deliver a kludge - horribly coupled, getting harder and more expensive to evolve and maintain, with little rational heritage (except how not to do it).
 
-**Y**: Stacking design decisions (as they come) against towering abstractions will make up a modeling heap. Then the chaos (inherent to any software dev) will become unmanageable at a certain height. 
+**Y**: Stacking design decisions (as they come) against towering abstractions will "model" a tumble. Then the chaos (inherent to any software dev) will become unmanageable at a certain height. 
 
 ### ... _Arc Deco_ begins
 
