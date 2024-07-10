@@ -36,7 +36,7 @@ Many projects' modest size lifetime with banality and, most importantly, isolate
 </picture>\
 ... making more theorizing wiredrawn.
 
-### ... but ...
+### ... which ...
 
 Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, or gaming engines) and prize-winning brainteasers but challenges beyond the ordinary: new LOB, new domains (such as CAD), or cutting-edge modules.
 
@@ -44,7 +44,7 @@ Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not abo
 
 **Y**: Stacking design decisions (as they come) against towering abstractions will "model" a tumble. Then the chaos (inherent to any software dev) will become unmanageable at a certain height. 
 
-### ... _Arc Deco_ begins
+### ... reveals _Arc Deco_
 
 These obstacles give us legitimate space for the metaphysics of software. 
 To distinguish the survey following (at least for the file system) I couldn't find a better tag but a mocking acronym _Arc&nbsp;Deco_<sup>🎨</sup> (**Arc**itecture **D**esign d**E**velopment **Co**ding).
