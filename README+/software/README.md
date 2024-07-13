@@ -2,7 +2,7 @@
 
 ## What makes it? 
 
-**In a word - `programming`, in four -** 
+### **In a word - `programming`, in four -** 
 
 <picture>
   <img alt="Coding, Development, Design, Architecture" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/darkCode2arcGold.jpg">
@@ -36,7 +36,7 @@ Many projects' modest size lifetime with banality and, most importantly, isolate
 </picture>\
 ... making more theorizing wiredrawn.
 
-### ... which ...
+### ... but ...
 
 Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or gaming engine) but challenges beyond the ordinary: new LOB, new domains (such as CAD), or cutting-edge modules.
 
@@ -44,7 +44,7 @@ Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not abo
 
 **Y**: Stacking design decisions (as they come) against towering abstractions will build a tumble. The chaos (inherent to the making of software) will become unmanageable at a certain height. 
 
-### ... reveals _Arc Deco_
+### ... beginning _Arc Deco_
 
 These obstacles give us legitimate space for the metaphysics of software. 
 To distinguish the survey following (at least for the file system) I couldn't tag better but a mocking acronym _Arc&nbsp;Deco_<sup>🎨</sup> (**Arc**itecture **D**esign d**E**velopment **Co**ding).
