@@ -5,7 +5,7 @@
 ### **In a word - `programming`, in four -** 
 
 <picture>
-  <img alt="Coding, Development, Design, Architecture" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/darkCode2arcGold.jpg">
+  <img alt="Coding, Development, Design, Architecture" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/darkCode2arcGold.jpg" />
 </picture>
 
 <sup>:de:</sup> <sub>Inspired by informal interpretation of the German flag: from the dark past through the bloody present to the golden future.\
@@ -15,7 +15,7 @@
 <summary><ins>&nbsp;<b>More spectrum for requirements, management, testing, and administration?</b>&nbsp;</ins></summary>
 <br/>
 <picture>
-  <img alt="External factors of SW creation" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/SW-ext_factors.jpg">
+  <img alt="External factors of SW creation" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/SW-ext_factors.jpg" />
 </picture>
 
 These are **external** - optional and not, minor to strong, constructive and devastating (also neutral) - forces, factors, and drives. 
@@ -32,7 +32,7 @@ Initiative and funding render the canvas. Abstraction/math/logic and artistic sk
 
 Many projects' modest size lifetime with banality and, most importantly, isolated work on them will shrink the pie to a bar, ...\
 <picture>
-  <img alt="Arc view at short projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg">
+  <img alt="Arc view at casual stand-alone projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" />
 </picture>\
 ... making more theorizing wiredrawn.
 
@@ -47,18 +47,19 @@ Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not abo
 ### ... beginning _Arc Deco_
 
 These obstacles give us legitimate space for the metaphysics of software. 
-To distinguish the survey following (at least for the file system) I couldn't tag better but a mocking acronym _Arc&nbsp;Deco_<sup>🎨</sup> (**Arc**itecture **D**esign d**E**velopment **Co**ding).
+To distinguish the survey following (at least for the file system) I couldn't find a better tag but a mocking acronym<sup>🎨</sup> - 
+<picture>
+  <img alt="Arc Deco" src="../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" />
+</picture>
+(**Arc**itecture **D**esign d**E**velopment **Co**ding).
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). Its introduction a century ago (1925) appeals to make `är(t)-dā-ˈkō` great again [mockery again].</sub>
 
 #### Volumes 
 
-|- [Rationale](README+/ArcDeco/1.ArcDeco-Rationale.md)\
-|- [Big Picture](README+/ArcDeco/2.ArcDeco-BigPict.md)\
-|- [Classisication](README+/ArcDeco/3.ArcDeco-Classification.md)\
-|- [Forces](README+/ArcDeco/4.ArcDeco-Forces.md)\
-|- Roles share and switch with inclinations\
-|- Architecture and architector\
+[Rationale](README+/ArcDeco/1.ArcDeco-Rationale.md) -> [Big Picture](README+/ArcDeco/2.ArcDeco-BigPict.md) -> [Classisication](README+/ArcDeco/3.ArcDeco-Classification.md) -> [Forces](README+/ArcDeco/4.ArcDeco-Forces.md) -> Roles -> 
+
+- Architecture and architector\
 |- [Worth of coding](README+/ArcDeco/ArcDeco-Coding_worth.md)\
 |- Wrap up
 
