@@ -4,13 +4,13 @@
 
 <table><tr><td>
 <picture>
-  <img alt="Ancient Egypt bas-relief" src="../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg">
+  <img alt="Ancient Egypt bas-relief" src="../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg" />
 </picture>
 </td><td>
-      <p><a href="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg"><img src="../../../_rsc/_img/af/punchcard.jpg" alt="Punch card in 1966"></a><p>
+      <p><a href="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg"><img src="../../../_rsc/_img/af/punchcard.jpg" alt="Punch card in 1966" /></a><p>
 </td><td>
 <picture>
-  <img alt="Please do not bend" src="../../../_rsc/_img/signs/do_not_bend-h200px.jpg">
+  <img alt="Please do not bend" src="../../../_rsc/_img/signs/do_not_bend-h200px.jpg" />
 </picture>
 </td></tr></table>
 
