@@ -36,7 +36,7 @@ Translated east-to-west this means: find a sinecure in a big company.
 ![Genius](https://img.shields.io/badge/💡-Genius-blue)
 
 <picture>
-  <img alt="Guaranteed random by fair dice roll" src="../../../../_rsc/_img/memes/IT-meme.random-number.png">
+  <img alt="Guaranteed random by fair dice roll" src="../../../../_rsc/_img/memes/IT-meme.random-number.png" />
 </picture><br/><br/>
 
 And ... the twist! It was a real random number, while algorithms generate only pseudo-random ones.
@@ -67,7 +67,7 @@ Original study: https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 ![IT meets math](https://img.shields.io/badge/CTRL+F-X-blue) ![IT meets math](https://img.shields.io/badge/IT_meets-math-yellow)
 
 <picture>
-  <img alt="Here is X. Calm down Pythagoras" src="../../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg">
+  <img alt="Here is X. Calm down Pythagoras" src="../../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg" />
 </picture><br/><br/>
 
 Justified: abilities in exact sciences are no longer a prerequisite for applied programming. 
@@ -84,7 +84,7 @@ This differs much from what was on the eve of IT: LINK TO QUOTE: NOT AGED
 ### :cd: When disks were indeed hard and strong skills in IT were obvious...
 
 <picture>
-  <img alt="The year 1956: loading an IBM disk to rent" src="../../../../_rsc/_img/photo/hist/IBM350_1956.jpg">
+  <img alt="The year 1956: loading an IBM disk to rent" src="../../../../_rsc/_img/photo/hist/IBM350_1956.jpg" />
 </picture><br/><br/>
 
 ### 🗃️ Universal storage ever
@@ -114,4 +114,4 @@ P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "A
 
 ---
 
-<sub>[Notes/disclaimer](../../../../_rsc) about graphic resources here</sub> (🌘)2024
+<sub>[Notes/disclaimer](../../../../_rsc) about graphic resources here</sub> 🌘 2024
