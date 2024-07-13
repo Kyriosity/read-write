@@ -2,8 +2,7 @@
  <tr valign="top">
     <td style="border: 1px solid #0000000;">
       <p><a href="README+/software/">
-          <img src="README+/_rsc/_img/memes/learn_is_swim.jpg"    
-               alt="To learn is to swim against the current"></a><p>
+          <img src="README+/_rsc/_img/memes/learn_is_swim.jpg" alt="To learn is to swim against the current" /></a><p>
     </td><td> 
      <a href="README+/software/"><b>SOFTWARE</b></a><br/>
       &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-mngmnt.md">Organization</a>
@@ -15,7 +14,7 @@
      &nbsp;➿&nbsp;
      <a href="README+/software/README+/design/design-samples.md">Samples</a><br/>   
       &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/QA"><b>QA & Testing</b></a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/README+/QA/README+/code-quality.md"><mark>Code</mark></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/README+/QA/README+/code-quality.md">`Code`</a>
      <br/>    
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       🥱&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a>
@@ -44,8 +43,7 @@
      </td>
      <td>
       <p><a href="README+/.net/">
-          <img src="/README+/_rsc/_img/memes/IT_is_waterfall.jpg"    
-               alt="then IT must be a waterfall"></a><p>
+          <img src="/README+/_rsc/_img/memes/IT_is_waterfall.jpg" alt="then IT must be a waterfall" /></a><p>
      </td>
 </table>
 
