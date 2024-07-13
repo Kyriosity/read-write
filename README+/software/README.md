@@ -38,11 +38,11 @@ Many projects' modest size lifetime with banality and, most importantly, isolate
 
 ### ... which ...
 
-Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures (like OSs, IDEs, or gaming engines) and prize-winning brainteasers but challenges beyond the ordinary: new LOB, new domains (such as CAD), or cutting-edge modules.
+Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or gaming engine) but challenges beyond the ordinary: new LOB, new domains (such as CAD), or cutting-edge modules.
 
 **X**: Coercive resource scaling against "horizontal" growth will deliver a kludge - horribly coupled, getting harder and more expensive to evolve and maintain, with little rational heritage (except how not to do it).
 
-**Y**: Stacking design decisions (as they come) against towering abstractions will "model" a tumble. Then the chaos (inherent to any software dev) will become unmanageable at a certain height. 
+**Y**: Stacking design decisions (as they come) against towering abstractions will build a tumble. The chaos (inherent to the making of software) will become unmanageable at a certain height. 
 
 ### ... reveals _Arc Deco_
 
@@ -54,12 +54,10 @@ To distinguish the survey following (at least for the file system) I couldn't fi
 #### Volumes 
 
 |- [Rationale](README+/ArcDeco/1.ArcDeco-Rationale.md)\
-|- [Big Picture - Outline](README+/ArcDeco/2.ArcDeco-BigPict-Outline.md)\
+|- [Big Picture ](README+/ArcDeco/2.ArcDeco-BigPict.md)\
 |- Classisication\
-|- [Big Picture - Labeled](README+/ArcDeco/4.ArcDeco-BigPict-Annotated.md)\
-|-- Classificaion\
 |-- Forces\
-|- Roles share for inclinations\
+|- Roles share and switch with inclinations\
 |- Architecture and architector\
 |- [Worth of coding](README+/ArcDeco/ArcDeco-Coding_worth.md)\
 |- Wrap up
