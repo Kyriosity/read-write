@@ -2,7 +2,7 @@
 
 ## What makes it? 
 
-**In a word - `programming`, in four -** 
+### **In a word - `programming`, in four -** 
 
 <picture>
   <img alt="Coding, Development, Design, Architecture" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/darkCode2arcGold.jpg">
