@@ -1,9 +1,15 @@
 # Quotes for IT
 
-<details>
-<summary><ins>&nbsp;<b>Philosophy and IT</b>&nbsp;</ins></summary>
-
 ## Philosophy and IT
+
+<details>
+<summary><ins>&nbsp;<b>German philosophy</b>&nbsp;</ins></summary>
+&nbsp;
+  
+ ![ArcDeco star](https://img.shields.io/badge/⭐-ArcDeco-yellow)
+> Experience without theory is blind but theory without experience is mere intellectual play.\
+_Immanuel Kant_
+
 
 _Immanuel Kant_ for domain-driven design
 
@@ -23,4 +29,5 @@ _**Kritik der praktischen Vernunft, 1788**_<sub>
 ---------
 </details>
 
-🚧... TO BE CONTINUED ... 🖋️
+
+🚧... WORK in PROGRESS ... 🖋️
