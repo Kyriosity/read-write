@@ -53,15 +53,12 @@ To distinguish the survey following (at least for the file system) I couldn't fi
 </picture>
 (**Arc**itecture **D**esign d**E**velopment **Co**ding).
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). Its introduction a century ago (1925) appeals to make `är(t)-dā-ˈkō` great again [mockery again].</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). Its introduction a century ago (1925) appeals to make `är-dā-ˈkō` great again [mockery again].</sub>
 
 #### Volumes 
 
-[Rationale](README+/ArcDeco/1.ArcDeco-Rationale.md) -> [Big Picture](README+/ArcDeco/2.ArcDeco-BigPict.md) -> [Classisication](README+/ArcDeco/3.ArcDeco-Classification.md) -> [Forces](README+/ArcDeco/4.ArcDeco-Forces.md) -> Roles -> 
+[Rationale](README+/ArcDeco/1.ArcDeco-Rationale.md) -> [Big Picture](README+/ArcDeco/2.ArcDeco-BigPict.md) -> [Taxonomy](README+/ArcDeco/3.ArcDeco-Taxonomy.md) -> [Forces](README+/ArcDeco/4.ArcDeco-Forces.md) -> [Roles](README+/ArcDeco/4.ArcDeco-Roles.md) -> [Wrap&nbsp;up](README+/ArcDeco/4.ArcDeco-WrapUp.md)
 
-- Architecture and architector\
-|- [Worth of coding](README+/ArcDeco/ArcDeco-Coding_worth.md)\
-|- Wrap up
 
 
 
