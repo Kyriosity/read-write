@@ -51,7 +51,7 @@ To distinguish the survey following (at least for the file system) I couldn't fi
 <picture>
   <img alt="Arc Deco" src="../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" />
 </picture>
-(**Arc**itecture **D**esign d**E**velopment **Co**ding).
+(<mark><b>Arc</b></mark>itecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding).
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). Its introduction a century ago (1925) appeals to make `är-dā-ˈkō` great again [mockery again].</sub>
 
