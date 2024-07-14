@@ -43,19 +43,14 @@ after reading the _Twilight_ novel series,\
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture></picture><br />
-<mark><b>&nbsp;Leonardo the Great Procrastinator (certified by court) ...</b></mark>
+<br /><picture><img alt="Leonardo da Vinci (1452-1519)" src="../../../../_rsc/_img/art/OldMasters/Leo(1452-1519)-portrait-found_2008_nearNaples.jpg" /></picture><br />
+<mark><b>...Leonardo the Great Procrastinator</b></mark> ([certified by court](https://interactions.acm.org/blog/view/leonardo-da-vinci-the-great-procrastinator))
 
 #### King Solomon
 
 > **For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.**\
 Ecclesiastes 1:18, Webster's Bible Translation.
 
-#### Relief in the great
-
-a) Pick a *da Vinci* quote, that motivates you to achieve.\
-b) Remember he was aka Leonardo the Great Procrastinator (certified by the court).\
-c) Optional: compare the costs of your work.
 
 #### Proverbs
 
@@ -115,7 +110,7 @@ Not only the East grant us profound and eloquent teaching! Whatever Mr. Kipling*
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img src="../../../../_rsc/_img/photo/hist/Twitter-FTX_SamFried.jpg" alt="nap in FTX office" /></picture><br />
+<br /><picture><img src="../../../../_rsc/_img/photo/misc/Twitter-FTX_SamFried.jpg" alt="nap in FTX office" /></picture><br />
 <mark><b>... Sam&nbsp;</b></mark> who [fried bankmen](https://www.techtarget.com/whatis/feature/FTX-scam-explained-Everything-you-need-to-know).
  
 #### German philosophy always rules
@@ -185,7 +180,7 @@ To name a few of the officially recognized:
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 
-[![BSoD on Win98 presentation](../../../../_rsc/_img/photo/hist/1998.Win98-BSoD_w_BGates.jpg)](https://en.wikipedia.org/wiki/Blue_screen_of_death)\
+[![BSoD on Win98 presentation](../../../../_rsc/_img/photo/misc/1998.Win98-BSoD_w_BGates.jpg)](https://en.wikipedia.org/wiki/Blue_screen_of_death)\
 (click for details if unaware of this epic story)
 
 #### Customer gets the King
@@ -212,6 +207,8 @@ Alexander Pope, poet (1688-1744)
 Dorothy L. Sayers (1893-1957), novelist</p>
 
 ## Draft
+
+🚧 .. **work in progress**__ ... 🚧
 
 <details>
 <summary><ins>&nbsp;<b>...to learn</b>&nbsp;</ins></summary>
