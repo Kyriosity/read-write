@@ -1,4 +1,4 @@
-# Test-Domain Drivan Design (TDDD)
+# Test-Driven Domain Design (TDDD, T3D)
 
 This chapter isn't miscellanea but the conjunction of the duo topics, which come hand in hand in the driven development.
 

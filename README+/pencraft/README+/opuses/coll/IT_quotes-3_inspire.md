@@ -40,6 +40,12 @@ after reading the _Twilight_ novel series,\
 <details>
 <summary><ins>&nbsp;<b>...to procrastinate</b>&nbsp;</ins></summary>
 
+&nbsp;
+ 
+<mark><b>&nbsp;Presented to you by ...</b></mark>
+<br /><picture></picture><br />
+<mark><b>&nbsp;Leonardo the Great Procrastinator (certified by court) ...</b></mark>
+
 #### King Solomon
 
 > **For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.**\
@@ -59,7 +65,7 @@ c) Optional: compare the costs of your work.
 #### Scientifically proven
 
 > **One never notices what has been done; one can only see what remains to be done.**\
-_― Maria Skłodowska-Curie (1867-1934)_, Nobel prise winner awardee\
+_― Maria Skłodowska-Curie (1867-1934)_, Nobel prize winner awardee\
 Letter to her brother (1894)
 
 <sup>PL</sup> <sub>Original: "Człowiek nigdy nie ogląda się na to, co zrobione, ale na to patrzy, co ma przed sobą do zrobienia."</sub>
@@ -106,6 +112,11 @@ Not only the East grant us profound and eloquent teaching! Whatever Mr. Kipling*
 
 <details>
 <summary><ins>&nbsp;<b>...to take a break</b>&nbsp;</ins></summary>
+&nbsp;
+ 
+<mark><b>&nbsp;Presented to you by ...</b></mark>
+<br /><picture><img src="../../../../_rsc/_img/photo/hist/Twitter-FTX_SamFried.jpg" alt="nap in FTX office" /></picture><br />
+<mark><b>... Sam&nbsp;</b></mark> who [fried bankmen](https://www.techtarget.com/whatis/feature/FTX-scam-explained-Everything-you-need-to-know).
  
 #### German philosophy always rules
 
@@ -170,10 +181,11 @@ To name a few of the officially recognized:
 
 <details>
 <summary><ins>&nbsp;<b>...to interpret errors/bugs right</b>&nbsp;</ins></summary>
+&nbsp;
+ 
+<mark><b>&nbsp;Presented to you by ...</b></mark>
 
-#### Presented to you by ...
-
-[![BSoD on Win98 presentation](../../../_rsc/_img/photo/hist/1998.Win98-BSoD_w_BGates.jpg)](https://en.wikipedia.org/wiki/Blue_screen_of_death)\
+[![BSoD on Win98 presentation](../../../../_rsc/_img/photo/hist/1998.Win98-BSoD_w_BGates.jpg)](https://en.wikipedia.org/wiki/Blue_screen_of_death)\
 (click for details if unaware of this epic story)
 
 #### Customer gets the King
