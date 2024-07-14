@@ -14,7 +14,7 @@
      &nbsp;➿&nbsp;
      <a href="README+/software/README+/design/design-samples.md">Samples</a><br/>   
       &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/QA"><b>QA & Testing</b></a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/README+/QA/README+/code-quality.md">`Code`</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/README+/QA/README+/code-quality.md"><code>Code</code></a>
      <br/>    
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       🥱&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a>
@@ -32,6 +32,7 @@
                       <a href="README+/.net/README+/a.review/cs-lacks.md">Lacks</a><br/>
              &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/a.review/cs-malpractice.md">Malpractices</a>&nbsp;➗&nbsp;
                       <a href="README+/.net/README+/b.deduced/cs-hints.md">Hints</a><br/>
+      <br/>
      <b>♯</b>&nbsp;<b>Sides/Parts</b><br/>
        &nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/b.deduced/cs-underused_sides.md">Underused</a> ➕&nbsp;
              <a href="README+/.net/README+/a.review/cs-lacks-parts.md">Nice to have</a><br/>
@@ -46,8 +47,3 @@
           <img src="/README+/_rsc/_img/memes/IT_is_waterfall.jpg" alt="then IT must be a waterfall" /></a><p>
      </td>
 </table>
-
-## Full table of contents
-
-// ToDo:
-...
