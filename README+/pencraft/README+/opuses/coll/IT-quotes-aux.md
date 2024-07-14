@@ -1,6 +1,6 @@
 # Quotes for IT
 
-## Philosophy and IT
+## Cornerstones
 
 <details>
 <summary><ins>&nbsp;<b>German philosophy</b>&nbsp;</ins></summary>
