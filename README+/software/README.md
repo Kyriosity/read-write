@@ -47,11 +47,11 @@ Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not abo
 ### ... beginning _Arc Deco_
 
 These obstacles give us legitimate space for the metaphysics of software. 
-To distinguish the survey following (at least for the file system) I couldn't find a better tag but a mocking acronym<sup>🎨</sup> - 
+To distinguish the survey following (at least for the file system) I couldn't find a better tag but a mocking acronym - 
 <picture>
   <img alt="Arc Deco" src="../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" />
 </picture>
-(<mark><b>Arc</b></mark>itecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding).
+(<mark><b>Arc</b></mark>itecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding).<sup>🎨</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). Its introduction a century ago (1925) appeals to make `är-dā-ˈkō` great again [mockery again].</sub>
 
