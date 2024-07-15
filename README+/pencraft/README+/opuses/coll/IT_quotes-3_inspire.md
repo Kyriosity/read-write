@@ -39,7 +39,6 @@ after reading the _Twilight_ novel series,\
 
 <details>
 <summary><ins>&nbsp;<b>...to procrastinate</b>&nbsp;</ins></summary>
-
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
