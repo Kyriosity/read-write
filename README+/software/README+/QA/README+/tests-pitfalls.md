@@ -28,6 +28,9 @@ LINK to use-dev
 
 ## Practical
 
+### Formalism
+
+
 ### Direct reference to implementation
 
 Contrary to TDD unit tests . Providers as adapters. // WRITE FOR TDD !
@@ -37,15 +40,24 @@ Contrary to TDD unit tests . Providers as adapters. // WRITE FOR TDD !
 Woodoo fix\
 ... 🚧  To DESCRIBE 🚧 ....
 
-### Excess and overlap, formalism
+### Excess and overlap
 
 Rules of a project may dictate 100% unit test coverage (at least one for an accessible member), and as a rule, this will formalize proofs. The formal test is a kind of `ASSERT 2+2 IS 2*2`<sup>:large_orange_diamond:</sup>.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:large_orange_diamond:</sup>&nbsp;<sub>Please do not take verbatim. Such real tests may be justified for floating-point checks.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:large_orange_diamond:</sup>&nbsp;<sub>Please do not take verbatim. Such tests may be justified for floating-point checks.</sub>
 
 The overlap means that a text _x_ will never pass if there's a test _y_ that fails. 
 
+
+### LOOOOOng naming
+
+Results from the URGE to make tests lists to specification and lack of organization.
+
+`ValidateShouldReturnErrorWhenFirstNameIsNull()`
+
+Would you admit such name in the code? Why shall it be in the test classes?
+
 ### Ideal environment
 
-The tests, which somehow concern performance, connections, proof of smoke, 
+The tests, which somehow concern performance, connections, communication, proof of smoke, 
 
 ⏲️... TO BE CONTINUED ... 🚧

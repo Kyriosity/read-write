@@ -1,6 +1,36 @@
-# Test-Driven Domain Design (TDDD, T3D)
+# Test-Driven Domain/Syntax Design (TDDD, T3D)
+
+## Watershed of tests applications
+
+NEMNOGO spustya after first programmes were written, THE same the demand to factiliate their proof with formalized actions and expectations. 
+
+After test automation red-test-first paradigm to prevent the biggest pitfall of CASUALY GREEN results.
+
+The latter
+
+* * Discuss and 
+* 
+
+Test-First: option and must
+Coded: option and must
+
+<details>
+
+Tests are one of the most popular subjects of IT discussion.
+
+</details>
+
+## Intro
+
+Tests, as formalized definition of actions and expectations are optional but essential, if not to say native, PART of software. 
+
+THEY CAN SPARE PROTOTYPES, SYS and so on to get a feeling of
+
+As tests evolved into frameworks the next DAWNING was to use tests as a drive for DEV and DESIGN.
 
 This chapter isn't miscellanea but the conjunction of the duo topics, which come hand in hand in the driven development.
+
+## TEST DRIVE
 
 ## TDD (Test Driven Development)
 
@@ -69,17 +99,24 @@ With only a handful of tests written accurate naming and categorization may dist
 
 These mirages appear chiefly on the horizons of new software. Apparent "live" concepts look easygoing to implement without much TDD.<sup>:classical_building:</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:classical_building:</sup> <sub>_Gia parádeigma_, ancient Greeks did a good piece of TDD for math, but applying it to programmatic abstractions will surprise one with total rethinking (no exaggeration).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:classical_building:</sup> <sub>_Gia parádeigma_ (XLAT), ancient Greeks did a good piece of TDD for math, but applying it to programmatic abstractions will surprise one with total rethinking (no exaggeration).</sub>
 
 ### Contraindications
 
-TDD/DDD isn't  _lapis philosophorum_ and is barely a good approach for:
+TDD/DDD isn't _lapis philosophorum_ and is barely a good approach for:
 
 + code porting,
-+ non-testable entities: artistic brush, quality of the generated text, non-reproducible calculations.
++ badly formalizable entities: artistic brush, or generated text (image, video, or sounds)
++ non-reproducible calculations.
+
+### Stereotypes
+
+TDDD back, TDDD for bugs
+
 
 ## Wrapping up
 
 We haven't resolved a mere trifle. How to make the TDD job effective and appealing. How to make tests a natural starting point for developers.
 
 🚧:... TO BE CONTINUED .... ✏️
+
