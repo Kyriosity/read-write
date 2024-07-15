@@ -1,29 +1,31 @@
-<table style="border-collapse: collapse;">
+<table>
  <tr valign="top">
-    <td style="border: 1px solid #0000000;">
+    <td>
       <p><a href="README+/software/">
           <img src="README+/_rsc/_img/memes/learn_is_swim.jpg" alt="To learn is to swim against the current" /></a><p>
-    </td><td> 
+    </td><td>
      <a href="README+/software/"><b>SOFTWARE</b></a><br/>
       &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-mngmnt.md">Organization</a>
      &nbsp;➰&nbsp;
       <a href="README+/software/README+/dev-docu.md">Docu</a><br/>
       &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/design"><b>Design</b></a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;<a href="README+/software/README+/design/tdd-ddd.md"><b>T</b>est-<b>D</b>omain <b>D</b>rive</a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➿&nbsp;<a href="README+/software/README+/design/dev-naming.md">Naming</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;<a href="README+/software/README+/design/TDDD">TDDD</a>
      &nbsp;➿&nbsp;
-     <a href="README+/software/README+/design/design-samples.md">Samples</a><br/>   
+<a href="README+/software/README+/design/README+/dev-naming.md">Naming</a>
+     &nbsp;➿&nbsp;
+     <a href="README+/software/README+/design/README+/design-samples.md">Samples</a><br/>
       &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/QA"><b>QA & Testing</b></a><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/README+/QA/README+/code-quality.md">of Code</a> 
      &nbsp;➿&nbsp;
      ➡️<a href="https://github.com/Kyriosity/use-dev/tree/main/README+/decisions/README+/testing">Decisions</a>
-     <br/>    
+     <br /> 
+     <br />
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       🥱&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a>
-     &nbsp;➿&nbsp;
-     <a href="README+/pencraft/README+/opuses/coll/IT_quotes-1.md">Quotes</a>
-      &nbsp;➿&nbsp;
-     <a href="README+/pencraft/README+/opuses/coll/IT_memes-1.md">Memes</a>
+     &nbsp;
+     🪝<a href="README+/pencraft/README+/opuses/coll/IT_quotes-1.md">Quotes</a>
+      &nbsp;
+     🪝<a href="README+/pencraft/README+/opuses/coll/IT_memes-1.md">Memes</a>
      </td>
  </tr><tr>
   </tr><tr>
