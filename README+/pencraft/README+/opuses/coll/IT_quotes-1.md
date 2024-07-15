@@ -17,24 +17,24 @@ Quotes and epigraphs can be annoying but here I'm carefully picking only worthy 
 
 To keep the seleciton genuine I relocated sarcasm and dubisioty to other chapters:\
 |- [Quotes for inspiration](IT_quotes-3_inspire.md)\
-|- [Quotes from non-ITers](IT_quotes-2_aux.md)\
+|- [Quotes from non-ITers](IT_quotes-2_aux.md)
 
 ## Cornerstones
 
 ![#architecture](https://img.shields.io/badge/%23-Architecture-lightseagreen) ![ArcDeco star](https://img.shields.io/badge/⭐-ArcDeco-yellow)
 
-> Simplicity does not precede complexity but follows it.\
+> **Simplicity does not precede complexity but follows it.**\
 _Alan Perlis_
 
 ![#architecture](https://img.shields.io/badge/%23-Architecture-yellow) ![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
-> Data abstractions provide the same benefits as procedures but for data.\
+> **Data abstractions provide the same benefits as procedures but for data.**\
 _Barbara Liskov_
 
-> Without philosophy language design becomes hacking.
+> **Without philosophy language design becomes hacking.**\
 _Bjarne Stroustrup_
 
 > My ideal of program design is to represent the concepts of the application domain directly in code. 
-That way, if you understand the application domain, you understand the code and vice versa.
+That way, if you understand the application domain, you understand the code and vice versa.\
 _Bjarne Stroustrup_++
 
 ## Simplicity vs complexity
@@ -81,9 +81,9 @@ _Alan Perlis_
 > Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.\
 Edsger W. Dijkstra (1975)
 
-The respected GRANDS couldn't foresee the EXPONENT growth of the developing force and the dramatic sinking of the POROG VHOZHDENYA.
+The respected masters couldn't foresee the exponential growth of the developing force and the dramatic sinking of the POROG VHOZHDENYA.
 
-I venture to reformulate: "Most enough yound and ADVANCED in EXCACT scienses can turn into developers but not vice versa".
+I venture to reformulate: "Most enough young and advanced in exact sciences can turn into good developers but not vice versa".
 
 ---
 
@@ -96,7 +96,7 @@ I venture to reformulate: "Most enough yound and ADVANCED in EXCACT scienses can
 > The programmer's primary weapon in the never-ending battle against slow system is to change the intramodular structure.\
 _Fred Brooks_
 
-Dare to say that resources and performance aren't a headached for majority of applications.
+Dare to say that resources and performance aren't a headache for the majority of applications.
 
 </details>
 
@@ -137,13 +137,11 @@ My opinion is that languages as Basic offer an easy EINSTIEG to newbies and NUBs
 
 ## Misinterpreted and misattributed (disputed)
 
-### Know the full story
+<details><summary><ins><b>&nbsp;Know the full story&nbsp;</b></ins></summary>
+&nbsp;
 
 > Where a calculator like ENIAC today is equipped with 18'000 vacuum tubes and weighs 30 tons, **computers in the future may** have only 1'000 vacuum tubes and perhaps **weigh only 1½ tons**.\
 _Popular Mechanics, March 1949_
-
-<details><summary><ins><b>&nbsp;but...&nbsp;</b></ins></summary>
-&nbsp;
 
 Wrongly quoted as futuristic cringe, it wasn't.
 
@@ -166,12 +164,14 @@ _**Bjarne Stroustrup**_
 <details><summary><ins><b>&nbsp;Doomed to debug&nbsp;</b></ins></summary>
 &nbsp;
 
-> ... the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+> ... the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.\
+_Maurice Wilkes_
+
+It's quoted sometimes as an appeal to quality but it's indeed a curious fact about the former hardware.
 
 <details><summary>Full quote</summary>
-By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared. I well remember when this realization first came on me with full force.
-The EDSAC was on the top floor of the building and the tape-punching and editing equipment one floor below. [...] It was on one of my journeys between the EDSAC room and the punching equipment that "hesitating at the angles of stairs" the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.\
-_Maurice Wilkes_
+> By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared. I well remember when this realization first came on me with full force.
+The EDSAC was on the top floor of the building and the tape-punching and editing equipment one floor below. [...] It was on one of my journeys between the EDSAC room and the punching equipment that "hesitating at the angles of stairs" the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 
 </details>
 
