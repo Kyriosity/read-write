@@ -9,13 +9,13 @@
 
 That's why here you find a definite inclination toward [IT pioneers](#IT-Pioneers) whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
 
-Quotes and epigraphs can be annoying but here I'm carefully picking only worthy that provoke deeper understanding of IT.
+Quotes and epigraphs can be annoying but here I'm carefully picking only worthy ones that provoke a deeper understanding of IT.
 
 ![ArcDeco star](https://img.shields.io/badge/⭐-ArcDeco-yellow) marks quotes which helped to backup the local survey [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software).
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
 
-To keep the seleciton genuine I relocated sarcasm and dubisioty to other chapters:\
+To keep the selection genuine I relocated sarcasm and debility to other chapters:\
 |- [Quotes for inspiration](IT_quotes-3_inspire.md)\
 |- [Quotes from non-ITers](IT_quotes-2_aux.md)
 
@@ -81,7 +81,7 @@ _Alan Perlis_
 > Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.\
 Edsger W. Dijkstra (1975)
 
-The respected masters couldn't foresee the exponential growth of the developing force and the dramatic sinking of the POROG VHOZHDENYA.
+The respected masters couldn't foresee the developing force's exponential growth and the entry threshold's dramatic sinking.
 
 I venture to reformulate: "Most enough young and advanced in exact sciences can turn into good developers but not vice versa".
 
@@ -96,7 +96,7 @@ I venture to reformulate: "Most enough young and advanced in exact sciences can 
 > The programmer's primary weapon in the never-ending battle against slow system is to change the intramodular structure.\
 _Fred Brooks_
 
-Dare to say that resources and performance aren't a headache for the majority of applications.
+Dare to say that resources and performance are no longer a headache for the majority of applications.
 
 </details>
 
@@ -118,7 +118,7 @@ _Edsger W.&nbsp;Dijkstra_ conveyed the idea much more plausible (albeit about la
 
 > It is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with **ten** blunt axes instead.
 
-(I could only add that a pencil maybe destroyed by previous to NOT REPAIR)
+(I could only add that a pencil may be destroyed beyond repair)
 
 ---
 
@@ -207,13 +207,11 @@ _**Ted Codd**_, Edgar Frank "Ted" Codd (1923-2003) who made databases relational
 
 _**Seymour Cray**_, (1925-1996), father of supercomputers
 
-_Theodore von Kármán_
-
 ### ...et alia
 
-#### Barbara Liskov
+_**Theodore von Kármán**_ (1881-1963), outstanding aerospace engineer best known for _Kármán line_
 
-is the only one honored with a personal letter in design principles - SO**L**ID.
+_**Barbara Liskov**_, the only one honored with a personal letter in design principles - SO**L**ID.
 
-_**Bjarne Stroustrup**_ , :dk: /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
+_**Bjarne Stroustrup**_ , 🇩🇰 /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
 Beyond his contributions, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html)<sup>:link:</sup> saving us from misinterpretations.
