@@ -1,21 +1,23 @@
 # IT quotes - Fluid collection
 
-![Work in progress](https://img.shields.io/badge/🚧-Work_in_progress-yellow)
+![Work in progress](https://img.shields.io/badge/🚧-Work_in_progress-yellow) ![Work in progress](https://img.shields.io/badge/CI-CD-green.svg)
 
 <p dir="rtl">?What makes a good quote<br/>
 .Terse, witty? —  That's for aphorisms<br/>
-.Brainy, ingenious? — Prerequisite<br/>
+.Brainy, ingenious? — Prerequisites<br/>
 .Aging. - The criterion</p>
 
 That's why here you find a definite inclination toward [IT pioneers](#IT-Pioneers) whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
 
-Quotes can be annoying but here I'm carefully picking only worthy. [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../) marked with star.
+Quotes and epigraphs can be annoying but here I'm carefully picking only worthy that provoke deeper understanding of IT.
+
+![ArcDeco star](https://img.shields.io/badge/⭐-ArcDeco-yellow) marks quotes which helped to backup the local survey [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software).
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
 
-🚧 WORK IN PROGRESS: new stuff will be pasted as found.
-
-|- See also: [**Quotes from non-ITers**](IT-quotes-aux.md)
+To keep the seleciton genuine I relocated sarcasm and dubisioty to other chapters:\
+|- [Quotes for inspiration](IT_quotes-3_inspire.md)\
+|- [Quotes from non-ITers](IT_quotes-2_aux.md)\
 
 ## Cornerstones
 
@@ -79,8 +81,9 @@ _Alan Perlis_
 > Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.\
 Edsger W. Dijkstra (1975)
 
+The respected GRANDS couldn't foresee the EXPONENT growth of the developing force and the dramatic sinking of the POROG VHOZHDENYA.
 
-I could imagine a mathematician/physicist converted to keyboard plankton but ...
+I venture to reformulate: "Most enough yound and ADVANCED in EXCACT scienses can turn into developers but not vice versa".
 
 ---
 
@@ -92,6 +95,8 @@ I could imagine a mathematician/physicist converted to keyboard plankton but ...
  
 > The programmer's primary weapon in the never-ending battle against slow system is to change the intramodular structure.\
 _Fred Brooks_
+
+Dare to say that resources and performance aren't a headached for majority of applications.
 
 </details>
 
@@ -107,12 +112,13 @@ It would be ok for this specific case but _Fred Brooks_ popularized it in [The M
 
 > The bearing of a child takes nine months, no matter how many women are assigned.
 
-
 Not only derogatory but illogical. Finding nine women in the vicinity who will deliver ten babies in half a month will take a couple of days. 
 
-Edsger W. Dijkstra conveyed the idea much more plausible (albeit about languages, 1975):
+_Edsger W.&nbsp;Dijkstra_ conveyed the idea much more plausible (albeit about languages, 1975):
 
 > It is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with **ten** blunt axes instead.
+
+(I could only add that a pencil maybe destroyed by previous to NOT REPAIR)
 
 ---
 
@@ -123,7 +129,7 @@ Edsger W. Dijkstra conveyed the idea much more plausible (albeit about languages
 
 > It is practically impossible to teach good programming to students that have had a prior exposure to **BASIC**: as potential programmers they are mentally mutilated beyond hope of regeneration.
 
-> 
+> ALGOL quotes
 
 My opinion is that languages as Basic offer an easy EINSTIEG to newbies and NUBs (i even stated this in my [LN REMINISCENCE](LN-view.md))
 
@@ -177,11 +183,11 @@ _Maurice Wilkes_
 
 ### Authors
 
-### IT Pioneers...
+### IT Pioneers
 
 _**Alan Turing**_, Alan Mathison Turing (1912-1954)
 
-_**Alan Perlis**_ (1922-1990), ALGOL team
+_**Alan Perlis**_ (1922-1990), one of the ALGOL founders
 
 _**Fred Brooks**_, Frederick Phillips Brooks Jr. (1931-2022), Known for IBM	OS/360
 
