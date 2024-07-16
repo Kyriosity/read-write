@@ -136,6 +136,21 @@ My opinion is that languages such as Basic offer an easy EINSTIEG to newbies and
 
 </details>
 
+<details>
+<summary><b><ins>Paradigms</ins></b></summary>
+&nbsp;
+ 
+> So programming languages on the whole are very much more complicated than they used to be: **object orientation, inheritance,** and other features are still not really being thought through from the point of view of a coherent and scientifically well-based discipline or a theory of correctness.\
+...
+
+_C.A.R. (Tony) Hoare_, 2002 in interview
+
+<details><summary>Full quote...</summary>
+ What’s happened is that practical programmers have used whatever understanding they’ve gained, or theoreticians have offered them, to increase complexity. So programming languages on the whole are very much more complicated than they used to be: object orientation, inheritance, and other features are still not really being thought through from the point of view of a coherent and scientifically well-based discipline or a theory of correctness. My original postulate, which I have been pursuing as a scientist all my life, is that one uses the criteria of correctness as a means of converging on a decent programming language design—one which doesn’t set traps for its users, and ones in which the different components of the program correspond clearly to different components of its specification, so you can reason compositionally about it. Programming languages in full generality have not really paid full attention to this aspect. They tend to be defined purely on the basis of what the  29 machine does when it’s executing the program, and often at quite a low level of granularity too—individual storage accesses. I still think we have to get the message across. The tools, including the compiler, have to be based on some theory of what it means to write a correct program.
+</details>
+
+</details>
+
 ## Misinterpreted and misattributed (disputed)
 
 <details><summary><ins><b>&nbsp;Know the full story&nbsp;</b></ins></summary>
@@ -171,6 +186,7 @@ _Maurice Wilkes_
 It's quoted sometimes as an appeal to quality but it's indeed a curious fact about the former hardware.
 
 <details><summary>Full quote</summary>
+ 
 > By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared. I well remember when this realization first came on me with full force.
 The EDSAC was on the top floor of the building and the tape-punching and editing equipment one floor below. [...] It was on one of my journeys between the EDSAC room and the punching equipment that "hesitating at the angles of stairs" the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 
