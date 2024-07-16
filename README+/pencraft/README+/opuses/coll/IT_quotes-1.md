@@ -79,11 +79,11 @@ _Seymour Cray_
 _Alan Perlis_
 
 > Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.\
-Edsger W. Dijkstra (1975)
+_Edsger W. Dijkstra_, 1975
 
 The respected masters couldn't foresee the developing force's exponential growth and the entry threshold's dramatic sinking.
 
-I venture to reformulate: "Most enough young and advanced in exact sciences can turn into good developers but not vice versa".
+I venture to reformulate: "Most enough young and advanced in exact sciences can turn into good software developers but not vice versa".
 
 ---
 
@@ -118,7 +118,7 @@ _Edsger W.&nbsp;Dijkstra_ conveyed the idea much more plausible (albeit about la
 
 > It is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with **ten** blunt axes instead.
 
-(I could only add that a pencil may be destroyed beyond repair)
+(I could only add that the sharpest axes in clumsy hands may have already destroyed a pencil beyond repair.)
 
 ---
 
@@ -127,11 +127,12 @@ _Edsger W.&nbsp;Dijkstra_ conveyed the idea much more plausible (albeit about la
 <details>
 <summary><b><ins>Bad languages</ins></b></summary>
 
-> It is practically impossible to teach good programming to students that have had a prior exposure to **BASIC**: as potential programmers they are mentally mutilated beyond hope of regeneration.
+> It is practically impossible to teach good programming to students that have had a prior exposure to **BASIC**: as potential programmers they are mentally mutilated beyond hope of regeneration.\
+_Edsger W. Dijkstra_, 1975
 
 > ALGOL quotes
 
-My opinion is that languages as Basic offer an easy EINSTIEG to newbies and NUBs (i even stated this in my [LN REMINISCENCE](LN-view.md))
+My opinion is that languages such as Basic offer an easy EINSTIEG to newbies and NUBs (i even stated this in my [LN REMINISCENCE](LN-view.md))
 
 </details>
 
@@ -193,9 +194,11 @@ _**Fred Brooks**_, Frederick Phillips Brooks Jr. (1931-2022), Known for IBM	OS/3
 
 _**Tony Hoare**_, _Charles Antony Richard Hoare_ (born 1934), a fundamental contributor to programming languages and algorithms
 
-+ ***Grace Hopper***, Grace Brewster Hopper, née Murray  (1906-1992), :us: grandma of Cobol, finder of the moth that opened the debugging era (which queerly chords with her name).
++ ***Grace Hopper***, Grace Brewster Hopper, née Murray (1906-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (which queerly chords with her name).
 
-[**Edsger W. Dijkstra**](wiki), the abolisher of GoTo, the inventor of _mutex_.
++ _**Edsger W. Dijkstra**_, _Edsger Wybe Dijkstra_ (1930-2002) 🇳🇱, known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+
+?? the abolisher of GoTo, the inventor of _mutex_.
 
 _**Maurice Wilkes**_, 🇬🇧 Maurice Vincent Wilkes (June 26, 1913 – November 29, 2010) 
 
