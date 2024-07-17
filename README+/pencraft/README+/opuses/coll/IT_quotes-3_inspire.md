@@ -1,8 +1,8 @@
-# Quotes store - Inspiration
+# Quotes store - Inspiration shelve
 
-<p dir="rtl"><i>I never posted even one-tenth of<br/>
-.the garbage they will quote as mine</i><br/>
-.W.Churchill | A.Einstein | S.Freud <i>et al</i></p>
+<p dir="rtl"><mark>I never posted even one-tenth of<br/>
+.the garbage they will quote as mine</mark><br/>
+.<i>M.Twain</i>, <i>A.Einstein</i>, <i>S.Freud</i> and <i><b>Anonymous</b></i></p>
 
 <details>
 <summary><ins>&nbsp;<b>...to write the documentation</b>&nbsp;</ins></summary>
@@ -45,13 +45,10 @@ after reading the _Twilight_ novel series,\
 <br /><picture><img alt="Leonardo da Vinci (1452-1519)" src="../../../../_rsc/_img/art/OldMasters/Leo(1452-1519)-portrait-found_2008_nearNaples.jpg" /></picture><br />
 <mark><b>...Leonardo the Great Procrastinator</b></mark> ([certified by court](https://interactions.acm.org/blog/view/leonardo-da-vinci-the-great-procrastinator))
 
-#### King Solomon
+#### Idioms and proverbs
 
-> **For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.**\
-Ecclesiastes 1:18, Webster's Bible Translation.
-
-
-#### Proverbs
+> **Nice guys finish last**.\
+From the baseball world of the late 1940s - [learn more](https://crossidiomas.com/nice-guys-finish-last/)
 
 > **The bird catches the early worm.**\
 (The late cat catches the dozy bird.)
@@ -64,13 +61,8 @@ Letter to her brother (1894)
 
 <sup>PL</sup> <sub>Original: "Człowiek nigdy nie ogląda się na to, co zrobione, ale na to patrzy, co ma przed sobą do zrobienia."</sub>
 
-#### Handshake thru generations
-
-> **There are four things to watch forever:\
-falling water, burning fire, starry sky,** and **tasks, you define and others commit**.\
-_Earliest humans_ (ca. 300`000 ago)
-
 ---
+
 </details>
 
 <details>
@@ -137,13 +129,19 @@ To name a few of the officially recognized:
 + _Sewing machine_, Elias Howe (1819-1867)
 
 ---
+
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>...to acquit not doing</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>...to acquit not doing/learning</b>&nbsp;</ins></summary>
 &nbsp;
-  
-![Ignoramus et ignorabimus](https://img.shields.io/badge/Ignoramus-Ignorabimus-yellow)
+ 
+<mark><b>&nbsp;Presented to you by ...</b></mark>
+<br /><picture><img alt="Luca Giordano: The dream of Solomon" src="../../../../_rsc/_img/art/OldMasters/LucaGiordano-TheDreamOfSolomon-w555px.jpg" /></picture><br />
+<mark><b>...King Solomon</b></mark>, who said:
+
+> **For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.**\
+Ecclesiastes 1:18, Webster's Bible Translation.
 
 #### F.A.Q.
 
@@ -151,16 +149,21 @@ To name a few of the officially recognized:
 ― _Harry Mulisch (1927-2010)_, The Discovery of Heaven\
 <sub>This quote is also known from earlier authors.</sub>
 
+#### Forbes talent selection
+
+![Ignoramus et ignorabimus](https://img.shields.io/badge/Ignoramus-Ignorabimus-yellow)
+
+> **Every time you create something new, there should be questions**...\
+― _Elizabeth Holmes_, one of the 100 most influential people by Time magazine in 2015\
+(April 2015 interview with CBS News)
+
+> **I was a really negligent student.**\
+_Sam Bankman-Fried_, FTX cofounder, [only Zuck has been this rich young](https://www.forbes.com/sites/stevenehrlich/2021/10/06/the-richest-under-30-in-the-world-all-thanks-to-crypto/)
+
 #### Amulets against refactoring
 
 > Somewhere it's better to curse in the darkness than to light a single candle.\
 (Attributed to _Ferdinand von Zepellin_ or _von Hindenburg_)
-
-#### Proved to be true
-
-> **Every time you create something new, there should be questions**...\
-― _Elizabeth Holmes_, one of 100 most influential people by Time magazine in 2015\
-(April 2015 interview with CBS News)
 
 #### Hammer❗
 
@@ -170,7 +173,14 @@ To name a few of the officially recognized:
 
 <sup>🇫🇷</sup> <sub>Original: "Si vous escomptez avoir du succès dans le monde, promettez tout, ne donnez rien."</sub>
 
+#### Handshake thru generations
+
+> **There are four things to watch forever:\
+falling water, burning fire, starry sky,** and **tasks, you define and others commit**.\
+_Earliest humans_ (ca. 300`000 ago)
+
 ---
+
 </details>
 
 <details>
@@ -213,10 +223,9 @@ Dorothy L. Sayers (1893-1957), novelist</p>
 <summary><ins>&nbsp;<b>...to learn</b>&nbsp;</ins></summary>
 &nbsp;
 
-> I was a really negligent student.\
-_Sam Bankman-Fried_, FTX cofounder, [only Zuck has been this rich young](https://www.forbes.com/sites/stevenehrlich/2021/10/06/the-richest-under-30-in-the-world-all-thanks-to-crypto/)
+> I'm very skeptical of books.\
+_Sam Bankman-Fried_, FTX cofounder
 
-> I'm very skeptical of books.
 
 </details>
 
