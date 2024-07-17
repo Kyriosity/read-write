@@ -1,10 +1,10 @@
 # Software - Quality Assurance
 
-When there's no more room in RAM,\
-the bugs will walk the office.
+When there's no more room in code,\
+the bugs will walk the Earth.
 
 Software is error-prone by its nature.
-
+AS IT... AS IS
 
 ## Test by nature
 
