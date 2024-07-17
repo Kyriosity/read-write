@@ -54,19 +54,47 @@ Maybe the worst example is their usage for multi-inheritance. Extending tuples o
 
 Extended methods shall be used for big, common features across projects (like LINQ).
 
-### Errors
+## Errors and messaging
 
-### "Catch-all" clause
+### "Reversing" things
 
-It's a known "catch" but 
+#### Indiscriminate catch
 
+Negligent use of snippets can create the next good known crash-prone block:
+
+```csharp
+try { 
+   /// sharp code
+} catch (Exception) { success = false; } // out of memory, disk error ? sweep it under the carpet!
+```
+
+It's explicit and mostly corrected but not its minor siblings as here:
+
+```csharp
+var firstName = "X Æ A-12";
 try {
-
-} catch (Exception) {
-
-    throw;
+     names.Human.Register(firstName);
+} catch(ArgumentException exc) {
+/// expected 
+     log.error("Couldn't register invalid name: firstName);
+     success = false;
 }
 
-### Throwing not recommended and VICE VERSA
+fistName = "Anton";
+/// ...
+/// and what if we are again 
 
-🚧 ... TO BE CONTINUED ... 🚧
+```
+
+The code above must have given the idea
+
+#### Extra own _vs._ not recommended
+
+Before throwing an exception
+
+
+### Catching w.out respect to origin
+
+#### NullPointer softpedalling
+
+## 🚧 ... TO BE CONTINUED ... 🚧
