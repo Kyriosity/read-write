@@ -6,7 +6,7 @@
 </td><td>
 As a developer of Lotus Notes<br/>LOB applications for over a decade<br/>(before switching to .NET),<br/>I must have deserved the privilege<br/>of personal (Lotus) notes.
 </td></tr></table>
-IBM PC users remember (or not) that it was a time and a **word**, not Microsoft's one, but "Lotus" - a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
+IBM PC users remember (or not) that it was a time and a <b>word</b>, not Microsoft's one, but "Lotus" - a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
 
 The multiplatform groupware _Lotus Notes_ (henceforth also _LN_), released at the turn of 1991, joined the best of computer sciences from the 1980s with _laissez-faire_ IT in the 1990s and rapidly became the system of core value for corporations. 
 
@@ -33,7 +33,7 @@ Besides synchronizing DBs it allowed to seamlessly use/develop LN offline, guara
 
 ## Postsriptum. Alternative history
 
-Notes had enough downsides to surrender to the rival from Redmond (WA), but let's dream up how "survived" LN could look today.
+Notes had enough outdated and weak sides to surrender to the rival from Redmond (WA), but let's dream up how "survived" LN could look.
 
 + **Storage as a sound object-relational model over IBM DB2**\
 Instead of enclosed and specific Notes Storage Facility (NSF)<sup>💿</sup> 
