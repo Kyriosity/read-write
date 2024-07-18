@@ -57,7 +57,7 @@ To distinguish the survey following (at least for the file system) I couldn't fi
 
 #### Further 
 
-[Rationale](README+/ArcDeco/1.ArcDeco-Rationale.md) -> [Big Picture](README+/ArcDeco/2.ArcDeco-BigPict.md) -> [Sripes](README+/ArcDeco/3.ArcDeco-Stripes.md) -> [Forces](README+/ArcDeco/4.ArcDeco-Forces.md) -> [Roles](README+/ArcDeco/5.ArcDeco-Roles.md) -> [Wrap&nbsp;up](README+/ArcDeco/7.ArcDeco-WrapUp.md)
+[Rationale](README+/ArcDeco/1.ArcDeco-Rationale.md) -> [Big Picture](README+/ArcDeco/2.ArcDeco-BigPict.md) -> [Stripes](README+/ArcDeco/3.ArcDeco-Stripes.md) -> [Forces](README+/ArcDeco/4.ArcDeco-Forces.md) -> [Roles](README+/ArcDeco/5.ArcDeco-Roles.md) -> [Wrap&nbsp;up](README+/ArcDeco/7.ArcDeco-WrapUp.md)
 
 
 
