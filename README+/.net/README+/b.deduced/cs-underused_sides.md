@@ -84,4 +84,4 @@ There must be other useful but neglected parts, features, and syntax of C# and i
 
 Besides definitely underused parts there are\
 |--- [Parts in shade](cs-shadow_parts.md)\
-|--- Obsolete/bad parts, features, and [practices](../a.review/cs-malpractice.md) 
+|--- Obsolete/bad parts, features, and [malpractices](../a.review/cs-malpractice.md) 
