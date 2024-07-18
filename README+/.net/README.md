@@ -10,9 +10,9 @@ C# allows developers to focus on clean code while .NET will take care of compili
 The cleaner the code - the better performance. Though C# allows lower level programming with pointers, memory alloc, interop, and so on.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>💾</sup> <sub>Now you can avoid selecting a processor, [memory models](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)<sup>🔗</sup> and turning off 1MB of RAM to get performance bonus on release.</sub>
 
-Surprisingly C# is widely utilized in APIs and drivers to industry-standard embedded software (i.a. automotive and machinery) and game dev (Unity engine).
+Surprisingly C# is widely utilized in APIs and drivers to industry-standard embedded software (i.a. automotive and machinery) and game dev (namely [Unity engine](https://unity.com/solutions/programming)<sup>🔗</sup>).
 
-Looking further C# has...&nbsp;↙️\
+This intro and next essays must be tendential but are based on live experience in various projects and teams ↙️\
 |--- [Good sides underused](README+/b.deduced/cs-underused_sides.md)\
 |--- [Parts in shade](README+/b.deduced/cs-shadow_parts.md)\
 |--- [Boosting hints](README+/b.deduced/cs-hints.md)
