@@ -67,6 +67,16 @@ Letter to her brother (1894)
 
 <details>
 <summary><ins>&nbsp;<b>...for perfectionism</b>&nbsp;</ins></summary>
+&nbsp;
+ 
+<mark><b>&nbsp;Presented to you by ...</b></mark>
+<br /><picture><img alt="Collage: best works of modern perfectionism" src="../../../../_rsc/_img/memes/collage-modern_perfectionism.jpg" /></picture><br />
+
+#### Classics
+
+> **Trifles make perfection, and perfection is no trifle.**\
+attributed to _Michelangelo_ (1475-1564) about his David statue\
+(for which allegedly the Master surveyed the marble piece for two years)
 
  #### Naturalism 
  
