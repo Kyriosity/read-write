@@ -7,10 +7,11 @@
 .Brainy, ingenious? — Prerequisites<br/>
 .Aging. - The criterion</p>
 
-That's why here you find a definite inclination toward [IT pioneers](#IT-Pioneers) whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
+That's why here you find a VISIBLE inclination toward [IT pioneers](#IT-Pioneers) whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
 
-Quotes and epigraphs can be annoying but here I'm carefully picking only worthy ones that provoke a deeper understanding of IT.
+Quotes and epigraphs can be annoying but here I'm carefully picking only worthy ones that provoke a deeper understanding of IT. Good quotes are a rare find INASMUCH AS ...
 
+// ToDo: LINK INSTEAD
 ![ArcDeco star](https://img.shields.io/badge/⭐-ArcDeco-yellow) marks quotes which helped to backup the local survey [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software).
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
