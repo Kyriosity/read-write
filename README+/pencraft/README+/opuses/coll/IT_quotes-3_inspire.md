@@ -43,7 +43,7 @@ after reading the _Twilight_ novel series (*assumed)
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="Leonardo da Vinci (1452-1519)" src="../../../../_rsc/_img/art/OldMasters/Leo(1452-1519)-portrait-found_2008_nearNaples.jpg" /></picture><br />
-<mark><b>...Leonardo the Great Procrastinator</b></mark> ([widely known](https://interactions.acm.org/blog/view/leonardo-da-vinci-the-great-procrastinator) and certified by court)
+<mark><b>...Leonardo the Great Procrastinator</b></mark> ([widely known](https://interactions.acm.org/blog/view/leonardo-da-vinci-the-great-procrastinator) and "certified" by court)
 
 #### Idioms and proverbs
 
