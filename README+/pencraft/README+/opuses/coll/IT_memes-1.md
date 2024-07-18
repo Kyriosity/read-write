@@ -79,7 +79,7 @@ This differs much from what was on the eve of IT: LINK TO QUOTE: NOT AGED
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>Historic photos</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>Historic snapshots</b>&nbsp;</ins></summary>
 
 ### :cd: When disks were indeed hard and strong skills in IT were obvious...
 
@@ -91,6 +91,15 @@ This differs much from what was on the eve of IT: LINK TO QUOTE: NOT AGED
 
 [![Punch cards in 1960s](../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)](punchcard.md)\
 A stack of punch cards for a casual program.
+
+### Full self-drive "next year" since 2014? 1957!
+
+<picture>
+  <img alt="LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../../_rsc/_img/snap/media/1957.02.25_LIFE_Page8_FSD.jpg" />
+</picture><br/><br/>
+
+> ELECTRICITY MAY BE THE DRIVER. One day your car may speed along an electric highway, its speed and steering automatically controlled by electronic devices embedded in the road.\
+_LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 ---------
 </details>
