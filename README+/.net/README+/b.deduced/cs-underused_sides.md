@@ -1,6 +1,6 @@
 # C# - Good sides - Underused
 
-Some of the C# syntax, features, and libraries are underestimated or unrevealed. The next observations may be biased but are based on live experience in various projects and teams.
+Parts of C# syntax, certain features, libraries, and frameworks are underestimated or unrevealed.
 
 ## Fresh released
 
@@ -10,7 +10,7 @@ However, staying fit with C# is reasonable and feasible. Releases of .NET are cu
 
 Devoted bloggers<sup>👨‍👩‍👧‍👦</sup> are greatly at separating the wheat from the chaff, and IDEs hint at new features<sup>🙋‍♂️</sup>.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I won't recommend any since this must be a personal experience, selection of the active and a matter of taste. Except "native" [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🔗</sup>.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I won't recommend any since this must be a personal experience, selection of the active and a matter of taste. Except the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🔗</sup>.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup> <sub>Revealing [CallerArgumentExpressions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression)<sup>🔗</sup> urged me to rewrite [exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcExt/Errors).</sub>
 
 ## Predicates and delegates as arguments
