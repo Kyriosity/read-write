@@ -56,9 +56,7 @@ Extended methods shall be used for big, common features across projects (like LI
 
 ## Errors and messaging
 
-### "Reversing" things
-
-#### Indiscriminate catch
+### Indiscriminate catch
 
 Negligent use of snippets can create the next good known crash-prone block:
 
@@ -74,27 +72,19 @@ It's explicit and mostly corrected but not its minor siblings as here:
 var firstName = "X Æ A-12";
 try {
      names.Human.Register(firstName);
-} catch(ArgumentException exc) {
+} catch(ArgumentException) {
 /// expected 
-     log.error("Couldn't register invalid name: firstName);
+     log.error("Couldn't register invalid: {firstName});
      success = false;
 }
 
-fistName = "Anton";
-/// ...
-/// and what if we are again 
-
 ```
 
-The code above must have given the idea
+Now consider that we submit a popular legal name (say, "John") and land  again in the catch clause. Why?
+Filtering to the expected doesn't exclude the same type thrown from other code parts (e.g. internal bug of our register). 
 
-#### Extra own _vs._ not recommended
+Solutions for this and other traps with exception are proposed in ➡️[design decisions](https://github.com/Kyriosity/use-dev/tree/main/README+/decisions/intercom/README+/errors) 
 
-Before throwing an exception
-
-
-### Catching w.out respect to origin
-
-#### NullPointer softpedalling
+---
 
 ## 🚧 ... TO BE CONTINUED ... 🚧
