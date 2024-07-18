@@ -31,10 +31,10 @@
 
 > **Gimme that torch, now!**\
 ― _Ray Bradbury (1920-2012)_\
-after reading the _Twilight_ novel series,\
-*assumed
+after reading the _Twilight_ novel series (*assumed)
 
 ---
+
 </details>
 
 <details>
@@ -43,7 +43,7 @@ after reading the _Twilight_ novel series,\
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="Leonardo da Vinci (1452-1519)" src="../../../../_rsc/_img/art/OldMasters/Leo(1452-1519)-portrait-found_2008_nearNaples.jpg" /></picture><br />
-<mark><b>...Leonardo the Great Procrastinator</b></mark> ([certified by court](https://interactions.acm.org/blog/view/leonardo-da-vinci-the-great-procrastinator))
+<mark><b>...Leonardo the Great Procrastinator</b></mark> ([widely known](https://interactions.acm.org/blog/view/leonardo-da-vinci-the-great-procrastinator) and certified by court)
 
 #### Idioms and proverbs
 
@@ -112,7 +112,7 @@ Not only the East grant us profound and eloquent teaching! Whatever Mr. Kipling*
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img src="../../../../_rsc/_img/photo/misc/Twitter-FTX_SamFried.jpg" alt="nap in FTX office" /></picture><br />
-<mark><b>... Sam&nbsp;</b></mark> who [fried bankmen](https://www.techtarget.com/whatis/feature/FTX-scam-explained-Everything-you-need-to-know).
+<mark><b>... Sam&nbsp;</b></mark> who [Fried Bankm**e**n](https://www.techtarget.com/whatis/feature/FTX-scam-explained-Everything-you-need-to-know).
  
 #### German philosophy always rules
 
