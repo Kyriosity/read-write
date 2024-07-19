@@ -1,6 +1,6 @@
 # IT quotes - Fluid collection
 
-![Work in progress](https://img.shields.io/badge/🚧-Work_in_progress-yellow) ![Work in progress](https://img.shields.io/badge/CI-CD-green.svg)
+![Work in progress](https://img.shields.io/badge/🚧-CI/CD-yellow) 
 
 <p dir="rtl">?What makes a good quote<br/>
 .Terse, witty? —  That's for aphorisms<br/>
@@ -9,20 +9,22 @@
 
 That's why here you find a VISIBLE inclination toward [IT pioneers](#IT-Pioneers) whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
 
-Quotes and epigraphs can be annoying but here I'm carefully picking only worthy ones that provoke a deeper understanding of IT. Good quotes are a rare find INASMUCH AS ...
-
-// ToDo: LINK INSTEAD
-![ArcDeco star](https://img.shields.io/badge/⭐-ArcDeco-yellow) marks quotes which helped to backup the local survey [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software).
+Quotes and epigraphs can be annoying, but I'm carefully picking only worthy ones that provoke a deeper understanding of IT. Good quotes are rare - not every expert speaks/writes/thinks in them and maintains their list.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
 
-To keep the selection genuine I relocated sarcasm and debility to other chapters:\
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](https://github.com/Kyriosity/read-write/tree/main/README+/software)
+
+To keep the selection genuine I relocated sarcasm and dubiety to other chapters:\
 |- [Quotes for inspiration](IT_quotes-3_inspire.md)\
 |- [Quotes from non-ITers](IT_quotes-2_aux.md)
 
 ## Cornerstones
 
-![#architecture](https://img.shields.io/badge/%23-Architecture-lightseagreen) ![ArcDeco star](https://img.shields.io/badge/⭐-ArcDeco-yellow)
+![#architecture](https://img.shields.io/badge/%23-Architecture-lightseagreen) 
+[![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>⭐</sup> <sub>Thanks star from writers of [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](https://github.com/Kyriosity/read-write/tree/main/README+/software)] for inspiration.</sub>
 
 > **Simplicity does not precede complexity but follows it.**\
 _Alan Perlis_
