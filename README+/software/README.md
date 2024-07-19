@@ -5,7 +5,7 @@
 ### **In a word - `programming`, in four -** 
 
 <picture>
-  <img alt="Coding, Development, Design, Architecture" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/darkCode2arcGold.jpg" />
+  <img alt="black Coding, red Development, blue Design, gold Architecture" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/darkCode2arcGold.jpg" />
 </picture>
 
 <sup>:de:</sup> <sub>Inspired by informal interpretation of the German flag: from the dark past through the bloody present to the golden future.\
@@ -14,13 +14,17 @@
 <details>
 <summary><ins>&nbsp;<b>More spectrum for requirements, management, testing, and administration?</b>&nbsp;</ins></summary>
 <br/>
-<picture>
-  <img alt="External factors of SW creation" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/SW-ext_factors.jpg" />
-</picture>
 
-These are **external** - optional and not, minor to strong, constructive and devastating (also neutral) - forces, factors, and drives.  Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four paints. 
+<table><tr valign="top"><td>
+   <picture><img alt="External factors of SW creation" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/SW-ext_factors-w333px.jpg" /></picture>
+<td/><td>
+These are <b>external</b> - optional and not, minor to strong, <br />constructive and devastating (also neutral) - <br />forces, factors, and drives. <br />
+Which, culturally speaking, mix, tint, blur, or shade <br />(if not wash off) the four paints. 
+</td></tr></table>
 
 Initiative and funding render the canvas. Abstraction/math/logic and artistic skills, domain expertise, and creativity prop the picture.
+
+\__________________________________________________
 
 </details>
 
@@ -54,7 +58,3 @@ To distinguish the survey following (at least for the file system) I couldn't fi
 #### Further 
 
 [Rationale](README+/ArcDeco/1.ArcDeco-Rationale.md) -> [Big Picture](README+/ArcDeco/2.ArcDeco-BigPict.md) -> [Stripes](README+/ArcDeco/3.ArcDeco-Stripes.md) -> [Forces](README+/ArcDeco/4.ArcDeco-Forces.md) -> [Roles](README+/ArcDeco/5.ArcDeco-Roles.md) -> [Wrap&nbsp;up](README+/ArcDeco/7.ArcDeco-WrapUp.md)
-
-
-
-
