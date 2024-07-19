@@ -83,7 +83,7 @@ try {
 Now consider that we submit a popular legal name (say, "John") and land  again in the catch clause. Why?
 Filtering to the expected doesn't exclude the same type thrown from other code parts (e.g. internal bug of our register). 
 
-Solutions for this and other traps with exception are proposed in ➡️[design decisions](https://github.com/Kyriosity/use-dev/tree/main/README+/decisions/intercom/README+/errors) 
+Solutions for this and other traps with exception are proposed in ➡️[design decisions](https://github.com/Kyriosity/use-dev/tree/main/README+/decisions/README+/intercom/README+/errors) 
 
 ---
 
