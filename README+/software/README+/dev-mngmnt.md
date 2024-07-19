@@ -8,7 +8,7 @@ You are reading from my profile on _Git_ but names of other platforms, framework
 
 ## Good organization
 
-The customers/users perspective - "not _how_ but _what_ matters" - draws a distinct watershed: **either** organization serves development, **or** _vice versa_.
+The customers/users perspective - "not _how_ but _what_ matters" - draws a crucial dividing ridge: **either** organization serves development, **or** _vice versa_.
 
 Commendable organization endows every process/measure with an exact explanation of how it facilitates development, spares resources, ensures quality, and automates routines. (Not because it's on trends or in chosen methodology.)
 
