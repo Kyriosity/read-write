@@ -1,10 +1,10 @@
-# Code, docu and dev - Management systems
+# Code, dev and docu - Management systems
 
-> NOTE: This article is about tools and methodologies but not activities of management (such as meetings, reporting, recruiting, and control).
+> NOTE: This article is about tools and methodologies but not activities of management (such as planning, meetings, reporting, recruiting, and control).
 
 The exponential (and chaotic) growth of software projects in the 2000s founded their organization's "parallel" ecosystem: requirements/issue tracking, code collecting/versioning, collaboration tools, deployment services, and project management. 
 
-You are reading from my profile on _Git_ but names of other platforms, frameworks, and methodologies would take some screens to name popular only.
+You are reading from my profile on _Git_ but names of other platforms, frameworks, and methodologies would take some screens to name only the popular ones.
 
 ## Good organization
 
