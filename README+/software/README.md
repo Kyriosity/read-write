@@ -18,13 +18,13 @@
 <table><tr valign="top"><td>
    <picture><img alt="External factors of SW creation" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/SW-ext_factors-w333px.jpg" /></picture>
 <td/><td>
-These are <b>external</b> - optional and not, minor to strong, <br />constructive and devastating (also neutral) - <br />forces, factors, and drives. <br />
-Which, culturally speaking, mix, tint, blur, or shade <br />(if not wash off) the four paints. 
+These are <b>external</b> - optional and not, minor to <br />strong, <constructive and devastating <br />(also neutral) -- forces, factors, and drives. <br />
+<br />
+Which, culturally speaking, mix, tint, blur, or <br />shade (if not wash off) the four paints.<br />
+<br />
+Initiative and funding render the canvas. <br />
+Abstraction/math/logic and artistic skills, <br />domain expertise, and creativity prop the picture.
 </td></tr></table>
-
-Initiative and funding render the canvas. Abstraction/math/logic and artistic skills, domain expertise, and creativity prop the picture.
-
-\__________________________________________________
 
 </details>
 
