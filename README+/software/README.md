@@ -55,6 +55,6 @@ To distinguish the survey following (at least for the file system) I couldn't fi
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). Its introduction a century ago (1925) appeals to make `är-dā-ˈkō` great again [mockery again].</sub>
 
-#### Let's begin 
+#### Let's move further... 
 
 [Rationale](README+/ArcDeco/1.ArcDeco-Rationale.md) -> [Big Picture](README+/ArcDeco/2.ArcDeco-BigPict.md) -> [Stripes](README+/ArcDeco/3.ArcDeco-Stripes.md) -> [Forces](README+/ArcDeco/4.ArcDeco-Forces.md) -> [Roles](README+/ArcDeco/5.ArcDeco-Roles.md) -> [Wrap&nbsp;up](README+/ArcDeco/7.ArcDeco-WrapUp.md)
