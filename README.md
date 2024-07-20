@@ -1,21 +1,21 @@
 <table>
  <tr valign="top">
     <td>
-      <p><a href="README+/software/">
+      <p><a href="README+/software/ArcDeco">
           <img src="README+/_rsc/_img/memes/learn_is_swim.jpg" alt="To learn is to swim against the current" /></a><p>
     </td><td>
-     <a href="README+/software/"><b>SOFTWARE</b></a><br/>
-      &nbsp;&nbsp;&nbsp;<a href="README+/software/README+/dev-mngmnt.md">Organization</a>
+     <a href="README+/software/ArcDeco"><b>SOFTWARE</b></a><br/>
+      &nbsp;&nbsp;&nbsp;<a href="README+/software/mngmnt">Organization</a>
      &nbsp;➰&nbsp;
-      <a href="README+/software/README+/dev-docu.md">Docu</a><br/>
-      &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/design"><b>Design</b></a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;<a href="README+/software/README+/design/TDDD">TDDD</a>
+      <a href="README+/software/docu/">Docu</a><br/>
+      &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/design"><b>Design</b></a><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;<a href="README+/software/design/TDDD">TDDD</a>
      &nbsp;➿&nbsp;
-<a href="README+/software/README+/design/README+/dev-naming.md">Naming</a>
+<a href="README+/software/design/README+/dev-naming.md">Naming</a>
      &nbsp;➿&nbsp;
-     <a href="README+/software/README+/design/README+/design-samples.md">Samples</a><br/>
-      &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/README+/QA"><b>QA & Testing</b></a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/README+/QA/README+/code-quality.md">of Code</a> 
+     <a href="README+/software/design/README+/design-samples.md">Samples</a><br/>
+      &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/QA"><b>QA & Testing</b></a><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">of Code</a> 
      &nbsp;➿&nbsp;
      ➡️<a href="https://github.com/Kyriosity/use-dev/tree/main/README+/decisions/README+/testing">Decisions</a>
      <br /> 
