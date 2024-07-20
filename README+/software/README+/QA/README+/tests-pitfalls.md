@@ -48,7 +48,7 @@ Rules of a project may dictate 100% unit test coverage (at least one for an acce
 The overlap means that a text _x_ will never pass if there's a test _y_ that fails. 
 
 
-### LOOOOOng naming
+### Extra long naming
 
 Results from the URGE to make tests lists to specification and lack of organization.
 
