@@ -10,7 +10,7 @@
   
 ![West meets East](https://img.shields.io/badge/West_meets-East-yellow) ![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)
 
-[![... then IT must be a waterfall.](../../../../_rsc/_img/memes/ITLearnWaterfall_horiz.png)](../../../software/)
+[![... then IT must be a waterfall.](../../../../_rsc/_img/memes/ITLearnWaterfall_horiz.png)](../../../../software/)
 
 The grains of truth in this wisdom:
 
@@ -71,9 +71,7 @@ Original study: https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 </picture><br/><br/>
 
 Justified: abilities in exact sciences are no longer a prerequisite for applied programming. 
-It's natural to find a sorting algorithm implementation (unless a platform provides one) rather than to write your own or even comprehend/differentiate one.
-
-This differs much from what was on the eve of IT: LINK TO QUOTE: NOT AGED
+It's normal to neglect a sorting algorithm implementation (that a platform provides) rather than to write one's own or even comprehend/differentiate one.
 
 ---------
 </details>
@@ -110,7 +108,7 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 ![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
 
-[![AI: 1500s vs 2020s](../../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](AI-2020s.md)
+[![AI: 1500s vs 2020s](../../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](../freestyle/AI-2020s.md)
 
 P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
 
@@ -119,7 +117,7 @@ P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "A
 </details>
 
 &nbsp;\
-|- [**Volume&nbsp;II. Inspirational quotes**](quotes-inspiration.md) 
+|- [**Volume&nbsp;II. Inspirational quotes**](IT_quotes-3_inspire.md) 
 
 ---
 
