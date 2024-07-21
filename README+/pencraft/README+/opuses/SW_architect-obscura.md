@@ -1,6 +1,9 @@
-# Software architect - Occupation, role or ghost ?
+# Software architect - Occupation, role, or ghost?
 
-> This article is a derivative and continuation of [Software creation](../../../software/).
+🚧🚧🚧 ... DRAFT ... 🚧🚧🚧
+
+> This article is a derivative and continuation of [![Arc Deco](../.././/_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../software/ArcDeco/README.md), 
+
 
 ## Part 1. Software architecture
 
@@ -26,7 +29,7 @@ The term migrated to other sphere and got obscure.
 
 In my spoiled and biased opinion, there are no pure _software architects_ while architecture artifacts rest on collective development.
 
-> If there's a microarchitecture is there microarchitect? What about nano?
+> If there's a microarchitecture is there microarchitecture? And nano?
 
 Architecture, opposite to design, must be a platform-independent<sup>🎈</sup> abstraction which nevertheless must grow from the practical development.
 
