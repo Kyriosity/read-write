@@ -2,7 +2,7 @@
 
 🚧🚧🚧 ... DRAFT ... 🚧🚧🚧
 
-> This article is a derivative and continuation of [![Arc Deco](../.././/_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../software/ArcDeco/README.md), 
+> This article is a derivative and continuation of [![Arc Deco](../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../software/ArcDeco/README.md), 
 
 
 ## Part 1. Software architecture
