@@ -1,11 +1,12 @@
 # Application model - Reminder
 
-The _Model_, though a rather obscure term, is a cornerstone of software engineering, which shapes and formalizes entities and tasks of the application.\
-A model may rank from the dumbest `new Brick { W = 20, D = 12, H = 6,5 }` up to a universe of media franchise, from private proof of concept to enterprise solution, bubble sort to 3D engine.
+The _Model_, though a rather obscure term, is a cornerstone of software engineering, which shapes and formalizes entities and tasks of the application.
+
+A model may rank from the dumbest `new Brick { W = 20, D = 12, H = 6,5 }` up to a universe of media franchises, from private proof of concept to enterprise solution, bubble sort to 3D engine.
 
 ## Insight into model data
 
-First and foremost, _model_ is not identical to _data_, its vital but nevertheless optional part. A model may render pure functionality (e.g. input and output of hash calculation).
+First and foremost, _model_ is not identical to _data_, it's a vital but nevertheless optional part. A model may render pure functionality (e.g. input and output of hash calculation).
 
 Model data can be a homogeneous monolith of primitive data types, as well as distributed and heterogeneous high-level abstraction.\
 Serving not only business or other primary data but may present collateral settings, statistics, roaming or temporary storage.
