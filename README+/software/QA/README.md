@@ -1,7 +1,7 @@
 # Software - Quality Assurance
 
 <p dir="rtl">,When there's no more room in code</br>
-.the bugs will walk the Earth (as before)</p>
+.the bugs will walk the Earth.</p>
 
 🚧🚧🚧 ... DRAFT ... 🚧🚧🚧
 
