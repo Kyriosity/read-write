@@ -42,7 +42,7 @@ Many projects' modest size lifetime with banality and, most importantly, isolate
 
 Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or gaming engine) but challenges beyond the ordinary: new LOB, new domains (such as CAD), or cutting-edge modules.
 
-**X**: Coercive resource scaling against "horizontal" growth will deliver a kludge - horribly coupled, getting harder and more expensive to evolve and maintain, with little rational heritage (except how not to do it).
+**X**: Coercive resource scaling against "horizontal" growth will deliver a kludge - coupled horribly and getting harder and more expensive to evolve and maintain, with little rational heritage (except how not to do it).
 
 **Y**: Stacking design decisions (as they come) against towering abstractions will build a tumble. The chaos (inherent to the making of software) will become unmanageable at a certain height. 
 
@@ -50,11 +50,11 @@ Axes of e**X**pansion and complexit**Y** will tear this patchwork. It is not abo
 
 These threats give us legitimate space for the metaphysics of software. 
 To distinguish the survey following (at least for the file system) I couldn't find a better tag but a mocking acronym - 
-<picture><img alt="Arc Deco" src="../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" /></picture>
+<picture><img alt="Arc Deco" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" /></picture>
 (<mark><b>Arc</b></mark>itecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding).<sup>🎨</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). Its introduction a century ago (1925) appeals to make `är-dā-ˈkō` great again [mockery again].</sub>
 
 #### Let's move further... 
 
-[Rationale](README+/ArcDeco/1.ArcDeco-Rationale.md) -> [Big Picture](README+/ArcDeco/2.ArcDeco-BigPict.md) -> [Stripes](README+/ArcDeco/3.ArcDeco-Stripes.md) -> [Forces](README+/ArcDeco/4.ArcDeco-Forces.md) -> [Roles](README+/ArcDeco/5.ArcDeco-Roles.md) -> [Wrap&nbsp;up](README+/ArcDeco/7.ArcDeco-WrapUp.md)
+[Rationale](README+/1.ArcDeco-Rationale.md) -> [Big Picture](README+/2.ArcDeco-BigPict.md) -> [Stripes](README+/3.ArcDeco-Stripes.md) -> [Forces](README+/4.ArcDeco-Forces.md) -> [Roles](README+/5.ArcDeco-Roles.md) -> [Wrap&nbsp;up](README+/7.ArcDeco-WrapUp.md)
