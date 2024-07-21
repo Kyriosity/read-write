@@ -39,7 +39,7 @@ One other distinct and legitimate niche is [comment-driven development](en.wikip
 
 ### Commenting the code out
 
- Switching off code lines is a usual manipulation but committing one requires a comment at least that it was on purpose. A team may decide on acronyms like:\
+ Switching off code lines is a usual manipulation but committing one requires a comment at least that it was on purpose. It might be just three slashes `///` or a team may decide on acronyms like:\
  `///DEL` - delete after review\
  `///ALT` - alternative implementation \
  `///ERR` - doesn't work\
@@ -52,7 +52,7 @@ One other distinct and legitimate niche is [comment-driven development](en.wikip
 
 ## Recording ⏺️ design ⏹️
 
-[Quality code](QA/README+/code-quality.md) reads well, peculiarly when a well-thought-of test plan guides the investigators. And nothing is better for reverse engineering than source code. 
+[Quality code](../QA/code-quality.md) reads well, peculiarly when a well-thought-of test plan guides the investigators. And nothing is better for reverse engineering than source code. 
 This approach solus becomes exponentially harder and will not reveal remarkable design/architecture intentions. It's warped to unfold the big canvas of abstractions.
 
 In practice, the code will be partly or greatly obscure and tests will lack clarity and seamless categorization. 
@@ -130,5 +130,4 @@ You will be the first to thank yourself after a pause on this or that piece of d
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔖</sup> <sub>You are self the consumer&nbsp;Nr1 of this product - it's only a week to lose a grasp on the "unfocused" design part.</sub>
 
 🔚
-
 
