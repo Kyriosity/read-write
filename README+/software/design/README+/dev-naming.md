@@ -45,7 +45,7 @@ There must be at least two with different backgrounds to confirm top names.
 
 Even top developers under time pressure and brakes on perfectionism would be barely proud of their implementation of naming.
 
-I mean that the naming as [code quality](code-quality.md) can't be perfect, but efforts to improve them must be genuine.
+I mean that the naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be genuine.
 
 ## Appendix 1 (of 2). Guidelines and Verbal Sins 
 
