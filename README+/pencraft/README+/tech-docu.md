@@ -33,4 +33,8 @@ Don't anticipate much from IT leaders but must-know hints and rules:
 [Google tech-writing courses](https://developers.google.com/tech-writing/overview)<sup>🔗</sup>
 
 ### Tools
-[Grammarly](https://app.grammarly.com/apps) - swift and sweet multi-language check in browsers.
+
+[Grammarly](https://app.grammarly.com/apps) - swift and sweet multi-language check in browsers.\
+[Merriam-Webster](https://m-w.com) - which appeared on the Web just at the beginning and still looks cool.\
+
+🔚
