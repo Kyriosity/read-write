@@ -1,4 +1,4 @@
-# Software House from Ghosts 
+# Software architect - Occupation, role or ghost ?
 
 > This article is a derivative and continuation of [Software creation](../../../software/).
 
