@@ -1,7 +1,9 @@
 # Software - Quality Assurance
 
-When there's no more room in code,\
-the bugs will walk the Earth.
+<p dir="rtl">,When there's no more room in code</br>
+.the bugs will walk the Earth (as before)</p>
+
+🚧🚧🚧 ... DRAFT ... 🚧🚧🚧
 
 Software is error-prone by its nature.
 AS IT... AS IS
