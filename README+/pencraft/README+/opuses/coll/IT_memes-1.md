@@ -89,7 +89,7 @@ This differs much from what was on the eve of IT: LINK TO QUOTE: NOT AGED
 
 ### 🗃️ Universal storage ever
 
-[![Punch cards in 1960s](../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)](punchcard.md)\
+[![Punch cards in 1960s](../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)](../freestyle/punchcard.md)\
 A stack of punch cards for a casual program.
 
 ### Full self-drive "next year" since 2014? 1957!

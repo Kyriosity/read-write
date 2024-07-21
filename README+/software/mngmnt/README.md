@@ -33,7 +33,7 @@ Commendable organization endows every process/measure with an exact explanation 
 
 ## Wrap up
 
-DevOps grew from primitive file check-in/out to cloud solutions<sup>☁️</sup>, and now claims to use AI. However, as I noted in [my Lotus Notes](../../pencraft/README+/opuses/LN-view.md) simple and sound tools can do the job lighter.
+DevOps grew from primitive file check-in/out to cloud solutions<sup>☁️</sup>, and now claims to use AI. However, as I noted in [my Lotus Notes](../../pencraft/README+/opuses/freestyle/LN-view.md) simple and sound tools can do the job lighter.
 
 How? No automation can beat _the laissez-faire_ of responsible win-win-thinking craftsmen.
 

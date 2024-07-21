@@ -7,13 +7,11 @@
 .Brainy, ingenious? — Prerequisites<br/>
 .Aging. - The criterion</p>
 
-That's why here you find a VISIBLE inclination toward [IT pioneers](#IT-Pioneers) whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
+That's why here you find a discernible inclination toward [IT pioneers](#IT-Pioneers) whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
 
 Quotes and epigraphs can be annoying, but I'm carefully picking only worthy ones that provoke a deeper understanding of IT. Good quotes are rare - not every expert speaks/writes/thinks in them and maintains their list.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
-
-[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](https://github.com/Kyriosity/read-write/tree/main/README+/software)
 
 To keep the selection genuine I relocated sarcasm and dubiety to other chapters:\
 |- [Quotes for inspiration](IT_quotes-3_inspire.md)\
@@ -135,7 +133,7 @@ _Edsger W. Dijkstra_, 1975
 
 > ALGOL quotes
 
-My opinion is that languages such as Basic offer an easy EINSTIEG to newbies and NUBs (i even stated this in my [LN REMINISCENCE](LN-view.md))
+My opinion is that languages such as Basic offer an easy get in to newbies and NUBs (i even stated this in my [LN REMINISCENCE](LN-view.md))
 
 </details>
 
