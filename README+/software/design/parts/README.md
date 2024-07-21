@@ -1,4 +1,4 @@
-# Software parts
+# Software - Big parts
 
 |- **Logical division**\
 |--- [Model](README+/app-model.md)\
