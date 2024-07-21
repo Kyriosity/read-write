@@ -36,9 +36,11 @@ Components for testing are so organic for applications that are associated/integ
 
 ## Free, commercial, open source, proprietary, initiative
 
-Some non-commercial projects launched by individuals or groups have grown to industry standards and been adopted in mainstream languages. Remember [Newton.json](https://www.newtonsoft.com/json)<sup>🔗</sup> which has for years filled the JSON gap in C#.
+Some non-commercial projects launched by individuals or groups have grown to industry standards and been adopted in mainstream languages. Recall [Newton.json](https://www.newtonsoft.com/json)<sup>🔗</sup> that has filled the JSON gap in C# for years.
  
-Nevertheless, when applying such 3d-party think if there's a community (maybe, only you) - able to maintain the stuff within lifecycles of using projects. Recall accomplished but abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks, last updated 10 years ago.
+Besides the licensing, when applying such 3d-party think if there's a community (maybe, only you) able to maintain the stuff within the lifecycles of dependent projects.
+I'd prefer readable code with transparent design ideas above all (releases, active community, extra features, popularity).<sup>:raising_hand:</sup>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Remind the accomplished but abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks, last updated 10 years ago.</sub>
 
 All-around pro solutions aren't free but annual dev licenses below $1K will quickly pay off even for a humble undertaking. Let alone live support and membership in a durable motivated community.&nbsp;<sup>:raising_hand:</sup>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup><sub>&nbsp;I like the pragmatic and eloquent motto "We are your extended team" (DevExpress).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>I like the pragmatic and eloquent motto "We are your extended team" (DevExpress).</sub>
