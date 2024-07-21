@@ -33,7 +33,7 @@ The highest merit is that even a breaking change won't surprise devs and users w
 
 ### Re: Tests 🧪
 
-Test coverage may (and shall) share functionality with [Test-Domain Driven Design](../../design/tdd-ddd.md) but is intended to mechanically examine software (no matter implemented before the subject or a posteriori).
+Test coverage may (and shall) share functionality with [Test-Domain Driven Design](../../design/TDDD) but is intended to mechanically examine software (no matter implemented before the subject or a posteriori).
 
 Efficient, ample test coverage allows only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, and performance testing.
 
@@ -61,9 +61,9 @@ Add here that not every developer self-reflects on "submit and forget" work, and
 
 ## Afterword
 
-**1)** Coding isn't a self-contained activity but an ingredient of [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../README.md), where quality is a motive, derivative, and bonus.
+**1)** Coding isn't a self-contained activity but an ingredient of [![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../software/ArcDeco/README.md), where quality is a motive, derivative, and bonus.
    
-**2)** The traits listed above are NOT acceptance criteria, but utmost aims. Even if your team comes close to them the code won't be a book of design revelation — you still owe quality [documentation](../../dev-docu.md).
+**2)** The traits listed above are NOT acceptance criteria, but utmost aims. Even if your team comes close to them the code won't be a book of design revelation — you still owe quality [documentation](../../docu).
 
 **3)** Lines of deleted code from previous releases count more than added.
 
@@ -83,4 +83,4 @@ Besides _classical_ over-creativity and procrastination the reasons could be:
 
 Some smart individuals develop great apps alone and are so good at keeping all details and the whole picture in mind that don't need and like to lose time with code organization. However, it's exceptional and not about enterprise development.
 
-🔚 THE END (c<sup>#</sup>)2024
+🔚 THE END 🌜2024

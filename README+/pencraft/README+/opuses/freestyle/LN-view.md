@@ -1,4 +1,5 @@
 # Lotus Notes - "This used to be my playground"
+
 <table><tr><td>
 <picture>
   <img alt="Lotus Notes R5 splash screen" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/af/LotusNotesR5_SplashWin.jpg">
