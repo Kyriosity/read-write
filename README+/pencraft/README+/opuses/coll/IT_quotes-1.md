@@ -20,9 +20,9 @@ To keep the selection genuine I relocated sarcasm and dubiety to other chapters:
 ## Cornerstones
 
 ![#architecture](https://img.shields.io/badge/%23-Architecture-lightseagreen) 
-[![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software)
+[![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software/ArcDeco/README.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>⭐</sup> <sub>Thanks star from writers of [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](https://github.com/Kyriosity/read-write/tree/main/README+/software)] for inspiration.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>⭐</sup> <sub>Thanks star from writers of [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software/ArcDeco/README.md)] for inspiration.</sub>
 
 > **Simplicity does not precede complexity but follows it.**\
 _Alan Perlis_
