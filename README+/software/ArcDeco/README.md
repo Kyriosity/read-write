@@ -5,7 +5,7 @@
 ### **In a word - `programming`, in four -** 
 
 <picture>
-  <img alt="black Coding, red Development, blue Design, gold Architecture" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/darkCode2arcGold.jpg" />
+  <img alt="black Coding, red Development, blue Design, gold Architecture" src="../../_rsc/_img/ArcDeco/darkCode2arcGold.jpg" />
 </picture>
 
 <sup>:de:</sup> <sub>Inspired by informal interpretation of the German flag: from the dark past through the bloody present to the golden future.\
@@ -16,9 +16,9 @@
 <br/>
 
 <table><tr valign="top"><td>
-   <picture><img alt="External factors of SW creation" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/SW-ext_factors-w333px.jpg" /></picture>
+   <picture><img alt="External factors of SW creation" src="../../_rsc/_img/ArcDeco/SW-ext_factors-w333px.jpg" /></picture>
 <td/><td>
-These are <b>external</b> - optional and not, minor to <br />strong, <constructive and devastating <br />(also neutral) -- forces, factors, and drives. <br />
+These are <b>external</b> - optional and not, minor to <br />strong, <constructive and devastating <br />(also neutral) — forces, factors, and drives. <br />
 <br />
 Which, culturally speaking, mix, tint, blur, or <br />shade (if not wash off) the four paints.<br />
 <br />
@@ -34,7 +34,7 @@ Abstraction/math/logic and artistic skills, <br />domain expertise, and creativi
 
 Many projects' modest size lifetime with banality and, most importantly, isolated work on them will shrink the pie to a bar, ... ⬇️\
 <picture>
-  <img alt="Arc view at casual stand-alone projects" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" />
+  <img alt="Arc view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" />
 </picture>\
 ⬆️... making more theorizing wiredrawn.
 
