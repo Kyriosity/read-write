@@ -38,6 +38,10 @@ _Bjarne Stroustrup_
 That way, if you understand the application domain, you understand the code and vice versa.\
 _Bjarne Stroustrup_++
 
+[![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software/ArcDeco/README.md)
+> The people at the bottom do not have the larger, global view, but at the top they do not have the local view of all the details, many of which can often be very important, so **either extreme gets poor results**.\
+_Richard Hamming_
+
 ## Simplicity vs complexity
 
 ![#design](https://img.shields.io/badge/%23-Design-yellow) 
@@ -195,7 +199,6 @@ The EDSAC was on the top floor of the building and the tape-punching and editing
 
 ---
 
-</details>
 
 ## Appendices
 
@@ -203,15 +206,17 @@ The EDSAC was on the top floor of the building and the tape-punching and editing
 
 ### IT Pioneers
 
++ ***Grace Hopper***, Grace Brewster Hopper, née Murray (1906-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (which queerly chords with her name).
+
 _**Alan Turing**_, Alan Mathison Turing (1912-1954)
+
+_**Richard Hamming**_, 🇺🇸 Richard Wesley Hamming (1915-1988), a mathematician known for prize-winning IT solutions
 
 _**Alan Perlis**_ (1922-1990), one of the ALGOL founders
 
 _**Fred Brooks**_, Frederick Phillips Brooks Jr. (1931-2022), Known for IBM	OS/360
 
 _**Tony Hoare**_, _Charles Antony Richard Hoare_ (born 1934), a fundamental contributor to programming languages and algorithms
-
-+ ***Grace Hopper***, Grace Brewster Hopper, née Murray (1906-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (which queerly chords with her name).
 
 + _**Edsger W. Dijkstra**_, _Edsger Wybe Dijkstra_ (1930-2002) 🇳🇱, known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
