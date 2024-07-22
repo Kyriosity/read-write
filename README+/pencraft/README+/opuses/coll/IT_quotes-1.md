@@ -76,8 +76,7 @@ _Seymour Cray_
 
 ## Aged not that good
 
-<details>
-<summary><b><ins>Skills</ins></b></summary>
+<details><summary><b><ins>Skills</ins></b></summary>
 &nbsp;
  
 > Prolonged contact with the computer turns mathematicians into clerks and vice versa.\
@@ -94,8 +93,7 @@ I venture to reformulate: "Most enough young and advanced in exact sciences can 
 
 </details>
 
-<details>
-<summary><b><ins>Hardware</ins></b></summary>
+<details><summary><b><ins>Hardware</ins></b></summary>
 &nbsp;
  
 > The programmer's primary weapon in the never-ending battle against slow system is to change the intramodular structure.\
@@ -107,8 +105,7 @@ Dare to say that resources and performance are no longer a headache for the majo
 
 ## Controversial
 
-<details>
-<summary><b><ins>Maternity ward</ins></b></summary>
+<details><summary><b><ins>Maternity ward</ins></b></summary>
 
 >  Everyone knows it takes a woman nine months to have a baby. But you Americans think if you get nine women pregnant, you can have a baby in a month.\
 _Theodore von Kármán_ (1957)
@@ -129,8 +126,7 @@ _Edsger W.&nbsp;Dijkstra_ conveyed the idea much more plausible (albeit about la
 
 </details>
 
-<details>
-<summary><b><ins>Bad languages</ins></b></summary>
+<details><summary><b><ins>Bad languages</ins></b></summary>
 
 > It is practically impossible to teach good programming to students that have had a prior exposure to **BASIC**: as potential programmers they are mentally mutilated beyond hope of regeneration.\
 _Edsger W. Dijkstra_, 1975
@@ -141,8 +137,7 @@ My opinion is that languages such as Basic offer an easy get in to newbies and N
 
 </details>
 
-<details>
-<summary><b><ins>Paradigms</ins></b></summary>
+<details><summary><b><ins>Paradigms</ins></b></summary>
 &nbsp;
  
 > So programming languages on the whole are very much more complicated than they used to be: **object orientation, inheritance,** and other features are still not really being thought through from the point of view of a coherent and scientifically well-based discipline or a theory of correctness.\
@@ -199,6 +194,7 @@ The EDSAC was on the top floor of the building and the tape-punching and editing
 
 ---
 
+</details>
 
 ## Appendices
 
