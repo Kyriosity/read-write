@@ -112,7 +112,7 @@ Not only the East grant us profound and eloquent teaching! Whatever Mr. Kipling*
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img src="../../../../_rsc/_img/photo/misc/Twitter-FTX_SamFried.jpg" alt="nap in FTX office" /></picture><br />
-<mark><b>... Sam&nbsp;</b></mark> who [Fried Bankm**e**n](https://www.techtarget.com/whatis/feature/FTX-scam-explained-Everything-you-need-to-know).
+<mark><b>... Sam&nbsp;</b></mark> who [Fried Bankm**e**n](https://www.techtarget.com/whatis/feature/FTX-scam-explained-Everything-you-need-to-know) and not only.
  
 #### German philosophy always rules
 
