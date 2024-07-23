@@ -219,24 +219,19 @@ Alexander Pope, poet (1688-1744)
 ---
 </details>
 
-to DEBUG...
+<details>
+<summary><ins>&nbsp;<b>...to debug</b>&nbsp;</ins></summary>
+&nbsp;
+ 
+<mark><b>&nbsp;Presented to you by ...</b></mark>
+<br /><picture><img alt="Teleevanglist: If there's no more room in stack, the bugs will walk the Earth..." src="../../../../_rsc/_img/memes/misquote-no_more_stack.jpg" /></picture><br />
+
+\_________________________________
+
+</details>
 
 <p dir="rtl"><b>Postscriptum</b><br/></p>
 <p dir="rtl"><i>- I always have a quotation for everything<br/>
 .it saves original thinking</i><br/>
 Dorothy L. Sayers (1893-1957), novelist</p>
-
-## Draft
-
-🚧 .. **work in progress**__ ... 🚧
-
-<details>
-<summary><ins>&nbsp;<b>...to learn</b>&nbsp;</ins></summary>
-&nbsp;
-
-> I'm very skeptical of books.\
-_Sam Bankman-Fried_, FTX cofounder
-
-
-</details>
 
