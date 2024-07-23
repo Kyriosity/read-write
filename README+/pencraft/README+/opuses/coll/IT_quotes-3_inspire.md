@@ -56,7 +56,7 @@ From the baseball world of the late 1940s - [learn more](https://crossidiomas.co
 #### Scientifically proven
 
 > **One never notices what has been done; one can only see what remains to be done.**\
-_― Maria Skłodowska-Curie (1867-1934)_, Nobel prize winner awardee\
+_― Maria Skłodowska-Curie (1867-1934)_, Nobel prize awardee\
 Letter to her brother (1894)
 
 <sup>PL</sup> <sub>Original: "Człowiek nigdy nie ogląda się na to, co zrobione, ale na to patrzy, co ma przed sobą do zrobienia."</sub>
