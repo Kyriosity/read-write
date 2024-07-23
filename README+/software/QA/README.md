@@ -1,8 +1,5 @@
 # Software - Quality Assurance
 
-<p dir="rtl">,When there's no more room in code</br>
-.the bugs will walk the Earth.</p>
-
 🚧🚧🚧 ... DRAFT ... 🚧🚧🚧
 
 Software is error-prone by its nature.
