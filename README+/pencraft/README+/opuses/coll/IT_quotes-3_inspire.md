@@ -219,6 +219,8 @@ Alexander Pope, poet (1688-1744)
 ---
 </details>
 
+to DEBUG...
+
 <p dir="rtl"><b>Postscriptum</b><br/></p>
 <p dir="rtl"><i>- I always have a quotation for everything<br/>
 .it saves original thinking</i><br/>
