@@ -6,9 +6,7 @@
 
 There are projects, products, and technologies that deserve the work of pen or brush. The quality of such work may be a decision factor Nr&nbsp;1 for usage/purchase of its subject: either attract or divert for good.
 
-WYSIWYG<sup>🔤</sup> of creative work won't produce compilation errors and is transparent to create square miles of wastepaper. 
-
-Good lines of wording are much more sophisticted and painfull than of good code. Everybody will notice poor or mediocre style from the very first sight.
+WYSIWYG<sup>🔤</sup> of creative work won't produce compilation errors and is transparent to create square miles of wastepaper. However noble lines of words are much more sophisticated and painful than excellent code. And everybody will notice poor or mediocre style from the very first sight.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🔤</sup> <sub>What you see is what you get.</sub>
 
@@ -26,5 +24,6 @@ Thesis + Struct + Phrases
 
 ## Pitfalls
 
-🚧 Anchors !
+🚧🚧🚧🚧🚧🚧🚧 
 
+* <sub>If you give some minutes to a recherche of the uncredited authoring market the epigraph won't look like a pure joke.</sub>
