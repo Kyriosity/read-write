@@ -199,7 +199,7 @@ _Earliest humans_ (ca. 300`000 ago)
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="BSoD on Win98 presentation" src="../../../../_rsc/_img/photo/misc/1998.Win98-BSoD_w_BGates.jpg" /></picture><br />
-(This **BSoD** must be an XX-century [history](https://en.wikipedia.org/wiki/Blue_screen_of_death) but it [stroke](https://www.msn.com/en-us/news/technology/a-blue-screen-of-death-loop-how-a-crowdstrike-update-crashed-microsoft-systems-around-the-world/ar-BB1qgFNC) again in 2024.)
+(This **BSoD** must be an XX-century [history](https://en.wikipedia.org/wiki/Blue_screen_of_death) but it [struck](https://www.msn.com/en-us/news/technology/a-blue-screen-of-death-loop-how-a-crowdstrike-update-crashed-microsoft-systems-around-the-world/ar-BB1qgFNC) again in 2024.)
 
 #### Customer gets the King
 
