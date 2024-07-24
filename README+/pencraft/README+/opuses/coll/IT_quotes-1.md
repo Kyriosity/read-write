@@ -1,6 +1,6 @@
 # IT quotes - Fluid collection
 
-![Work in progress](https://img.shields.io/badge/🚧-CI/CD-yellow) 
+![Work in progress](https://img.shields.io/badge/🚧_work_🚧-in_progress-yellow) 
 
 <p dir="rtl">?What makes a good quote<br/>
 .Terse, witty? —  That's for aphorisms<br/>
