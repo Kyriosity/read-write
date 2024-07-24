@@ -14,7 +14,7 @@ Quotes and epigraphs can be annoying, but I'm carefully picking only worthy ones
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
 
 To keep the selection genuine I relocated sarcasm and dubiety to other chapters:\
-|- [Quotes for inspiration](IT_quotes-3_inspire.md)\
+|- [**Quotes for inspiration**](IT_quotes-3_inspire.md)\
 |- [Quotes from non-ITers](IT_quotes-2_aux.md)
 
 ## Cornerstones
@@ -93,6 +93,19 @@ I venture to reformulate: "Most enough young and advanced in exact sciences can 
 
 </details>
 
+<details><summary><b><ins>QA</ins></b></summary>
+&nbsp;
+
+> **If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.**\
+Attributed to _Gerald Weinberg_
+
+Knowing the high-responsibility software in which Mr.&nbsp;Weinberg participated one would strongly doubt his authorship. Or it was an explicit joke.
+
+Despite all epic failures, software, on which our life depends, is extremely robust and contrary made the world safer. And the aphorism shall better be: "If the software is built like houses, customers will wait decades for change requests.",
+
+</details>
+
+
 <details><summary><b><ins>Hardware</ins></b></summary>
 &nbsp;
  
@@ -127,13 +140,14 @@ _Edsger W.&nbsp;Dijkstra_ conveyed the idea much more plausible (albeit about la
 </details>
 
 <details><summary><b><ins>Bad languages</ins></b></summary>
-
+&nbsp;
+ 
 > It is practically impossible to teach good programming to students that have had a prior exposure to **BASIC**: as potential programmers they are mentally mutilated beyond hope of regeneration.\
 _Edsger W. Dijkstra_, 1975
 
-> ALGOL quotes
+> 🚧 ALGOL and C# quotes 🚧
 
-My opinion is that languages such as Basic offer an easy get in to newbies and NUBs (i even stated this in my [LN REMINISCENCE](LN-view.md))
+Sure, an environment may force bad practices but they don't make developers.
 
 </details>
 
@@ -202,7 +216,7 @@ The EDSAC was on the top floor of the building and the tape-punching and editing
 
 ### IT Pioneers
 
-+ ***Grace Hopper***, Grace Brewster Hopper, née Murray (1906-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (which queerly chords with her name).
+***Grace Hopper***, Grace Brewster Hopper, née Murray (1906-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (which queerly chords with her name).
 
 _**Alan Turing**_, Alan Mathison Turing (1912-1954)
 
@@ -212,9 +226,11 @@ _**Alan Perlis**_ (1922-1990), one of the ALGOL founders
 
 _**Fred Brooks**_, Frederick Phillips Brooks Jr. (1931-2022), Known for IBM	OS/360
 
+_**Gerald Weinberg**_, Gerald Marvin Weinberg (1933-2018), a computer scientist at IBM, a teacher of the psychology and anthropology of software
+
 _**Tony Hoare**_, _Charles Antony Richard Hoare_ (born 1934), a fundamental contributor to programming languages and algorithms
 
-+ _**Edsger W. Dijkstra**_, _Edsger Wybe Dijkstra_ (1930-2002) 🇳🇱, known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+_**Edsger W. Dijkstra**_, _Edsger Wybe Dijkstra_ (1930-2002) 🇳🇱, known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 ?? the abolisher of GoTo, the inventor of _mutex_.
 
