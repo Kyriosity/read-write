@@ -4,11 +4,9 @@
 
 ### **In a word - `programming`, in four -** 
 
-<picture>
-  <img alt="black Coding, red Development, blue Design, gold Architecture" src="../../_rsc/_img/ArcDeco/darkCode2arcGold.jpg" />
-</picture>
+<picture><img alt="black Coding, red Development, blue Design, gold Architecture" src="../../_rsc/_img/ArcDeco/darkCode2arcGold.jpg" /></picture>
 
-<sup>:de:</sup> <sub>Inspired by informal interpretation of the German flag: from the dark past through the bloody present to the golden future.\
+<sup>:de:</sup> <sub>Inspired by informal interpretation of the German flag: from the **dark** past through the bloody present to the <mark>golden</mark> future.\
 &nbsp;&nbsp;&nbsp;&nbsp;(Since `4>3` tearful blue was inserted for Design.)</sub>
 
 <details>
