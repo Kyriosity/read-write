@@ -1,5 +1,7 @@
 # Test coverage - Pitfalls
 
+NOTE: Test coverage notwithstanding whether it was written first or after the implementation it not a test 
+
 ## Conceptual
 
 ### Test coverage as design drive
@@ -19,8 +21,10 @@ The worst case of malfunctioning tests is a passing one that indeed shields a fa
 
 The following guidelines help to avoid the trap:
 
-+ Ever "test" your test to show the red sign.
++ Periodically "test" your test to show the red sign (not at the beginning only).
 + Add counterpart test with the opposite result (e.g. that shall throw exceptions)
+
+### Red first illusion
 
 ### One-to-one with DRIVER (not DATA)
 
@@ -33,7 +37,7 @@ LINK to use-dev
 
 ### Direct reference to implementation
 
-Contrary to TDD unit tests . Providers as adapters. // WRITE FOR TDD !
+Contrary to TDD unit tests. Providers as adapters. // WRITE FOR TDD !
 
 ### Blind fit to green and carousel
 
@@ -48,13 +52,13 @@ Rules of a project may dictate 100% unit test coverage (at least one for an acce
 The overlap means that a text _x_ will never pass if there's a test _y_ that fails. 
 
 
-### Extra long naming
+### Extra-long naming
 
 Results from the URGE to make tests lists to specification and lack of organization.
 
 `ValidateShouldReturnErrorWhenFirstNameIsNull()`
 
-Would you admit such name in the code? Why shall it be in the test classes?
+Would you admit such a name in the code? Why should it be in the test classes?
 
 ### Ideal environment
 
