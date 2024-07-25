@@ -61,10 +61,18 @@ _Edsger W. Dijkstra_, 1970
 That's why I have a clock on my wall that runs counterclockwise.\
 *Grace Hopper*
 
-## Testing
+### Docu and comments
+
+> When you feel the need to write a comment, first try to refactor the code so **that any comment becomes superfluous**.\
+_Kent Beck_,  "Refactoring", 1999
+
+### Testing
 
 > Testing shows the presence not the absence of bugs.\
 _Edsger W. Dijkstra_, 1969 (documented while the saying appeared before)
+
+> The key is to **test the areas that you are most worried about going wrong**. That way you get the most benefit for your testing effort. It is better to write and run incomplete tests than not to run complete tests.\
+_Kent Beck_,  "Refactoring", 1999
 
 ## Organisation
 
@@ -187,7 +195,7 @@ The same magazine over seven decades later: "Fully transistorized computer, the 
 > "There are only two kinds of languages: the ones people complain about and the ones nobody uses".\
 Yes. Again, I very much doubt that the sentiment is original.\
 Of course, all "there are only two" quotes have to be taken with a grain of salt.\
-_**Bjarne Stroustrup**_ 
+Bjarne Stroustrup*_ 
 
 </details>
 
@@ -252,3 +260,5 @@ _**Barbara Liskov**_, the only one honored with a personal letter in design prin
 
 _**Bjarne Stroustrup**_ , 🇩🇰 /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
 Beyond his contributions, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html)<sup>:link:</sup> saving us from misinterpretations.
+
+_**Kent Beck**_, eXtreme Programming founder
