@@ -26,4 +26,4 @@ Thesis + Struct + Phrases
 
 🚧🚧🚧🚧🚧🚧🚧 
 
-* <sub>If you give some minutes to a recherche of the uncredited authoring market the epigraph won't look like a pure joke.</sub>
+* <sub>A web search for the uncredited authoring offer and demand will partially deprive the epigraph of sarcasm.</sub>
