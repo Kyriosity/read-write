@@ -1,6 +1,14 @@
-# Test coverage - Pitfalls
+# Test coverage - Pitfalls 
+
+You must know\
+Developers hate when testers know them\
+They wouldn't like you don't know them\
+(Select a clickbait or none)
+
 
 NOTE: Test coverage notwithstanding whether it was written first or after the implementation it not a test 
+
+[![ArcDeco thanks](https://img.shields.io/badge/Powered-by_quotes-white?style=flat&labelColor=3A3B3C&color=green)](../../../pencraft/README+/opuses/coll/IT_quotes-1.md#QA)
 
 ## Conceptual
 
@@ -10,7 +18,7 @@ NOTE: Test coverage notwithstanding whether it was written first or after the im
 
 ### Tests of tests
 
-Writing tests of test framework may put one into the infernal loop while running and analyzing applications tests will find out the errors there.
+Writing tests of test frameworks may put one into the infernal loop while running and analyzing application tests, which will find the errors there.
 
 ### Falsely green tests
 
