@@ -2,8 +2,9 @@
 
 🚧🚧🚧 ... DRAFT ... 🚧🚧🚧
 
-> This article is a derivative and continuation of [![Arc Deco](../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../software/ArcDeco/README.md), 
+> This article derives from Architecture survey in [![Arc Deco](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software/ArcDeco/README+/3.ArcDeco-Stripes.md), 
 
+<p dir=rtl>".I am the Architect"<br>🎦&nbsp;<i>The Architect</i><br/>fictitious character of)<br/>(<i>The Matrix Reloaded</i></p>
 
 ## Part 1. Software architecture
 
@@ -24,8 +25,6 @@ The term migrated to other sphere and got obscure.
 * versatile vs strict
 
 ## Part 2. Software architect? Architects!
-
-<p dir=rtl>".I am the Architect"<br>🎦&nbsp;<i>The Architect</i><br/>fictitious character of)<br/>(<i>The Matrix Reloaded</i></p>
 
 In my spoiled and biased opinion, there are no pure _software architects_ while architecture artifacts rest on collective development.
 
