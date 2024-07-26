@@ -66,7 +66,7 @@ That's why I have a clock on my wall that runs counterclockwise.\
 > When you feel the need to write a comment, first try to refactor the code so **that any comment becomes superfluous**.\
 _Kent Beck_,  "Refactoring", 1999
 
-### Testing
+### QA
 
 > Testing shows the presence not the absence of bugs.\
 _Edsger W. Dijkstra_, 1969 (documented while the saying appeared before)
