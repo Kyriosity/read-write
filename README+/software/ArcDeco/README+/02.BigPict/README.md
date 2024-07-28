@@ -1,4 +1,4 @@
-[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.jpg)](../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;[Rationale](1.ArcDeco-Rationale.md) -> **Big&nbsp;Picture** -> [Stripes](3.ArcDeco-Stripes.md) -> [Forces](4.ArcDeco-Forces.md) -> [Roles](5.ArcDeco-Roles.md) -> [Wrap&nbsp;up](7.ArcDeco-WrapUp.md)
+[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.jpg)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;[Rationale](../01.Rationale/README.md) -> **Big&nbsp;Picture** -> [Stripes](../03.Stripes/README.md) -> [Forces](../04.Forces/README.md) -> [Roles](../05.Roles/README.md) -> [Factors](../06.Factors/README.md) -> [Wrap&nbsp;up](../07.Wrapping/README.md)
 
 ---
 

@@ -1,10 +1,12 @@
-[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.jpg)](../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;**Rationale** -> [Big Picture](2.ArcDeco-BigPict.md) -> [Stripes](3.ArcDeco-Stripes.md) -> [Forces](4.ArcDeco-Forces.md) -> [Roles](5.ArcDeco-Roles.md) -> [Wrap&nbsp;up](7.ArcDeco-WrapUp.md)
+[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.jpg)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;**Rationale** -> [Big Picture](../02.BigPict/README.md) -> [Stripes](../03.Stripes/README.md) -> [Forces](../04.Forces/README.md) -> [Roles](../05.Roles/README.md) -> [Factors](../06.Factors/README.md) -> [Wrap&nbsp;up](../07.Wrapping/README.md)
 
 ---
 
 # Rationale
 
 Software is a unique product: it's pure abstraction but bound to 100% 
+
+Is there an abstraction of abstraction? Yes, formalization of software.
 
 Each sophisticated matter deserves its study: universe (cosmology), mathematics (philosophy), physics (epistemology), art (theory), building (architecture), excavations (anthropology) ... 
 
