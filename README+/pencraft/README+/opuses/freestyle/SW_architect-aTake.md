@@ -1,15 +1,17 @@
 > **This article derives from and contributes to** [![Arc Deco](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software/ArcDeco/).
 
-# Software architects - Where to find them
+# Software Architects - Where to find them
 
 <p dir=rtl>"<b>.I am the Architect</b>"<br />🎦&nbsp;<i>The Architect</i><br/>fictitious character of)<br/>(<i>The Matrix Reloaded</i></p>
 
-Software architecture is a formalizable and veritable product, but not an activity. It's not to defame _software architects_ but to qualify it as an honor rather than a job title for a bunch of advanced practices.
+Software architecture, whatever it means, is formalizable and veritable as a product, but not an exercise. This said not to defame _software architects_ but to qualify it as an honor rather than a job title for a bunch of advanced practices.
 Let me explain my take.
 
 ## Intro
 
-The conception of architecture appeared as folks managed to erect something more baroque and durable than a hut of piled branches. Ancient Greeks were so good at it that coined the term _architect_<sup>🏛️</sup>. Then it took epochs till this trade got formalized and acknowledged in the conservative art of static constructions.
+The conception of architecture appeared as folks managed to erect something more baroque and durable than a hut of piled branches. Ancient Greeks were so good at it that coined the term _architect_ centuries before Romans latinized it to a noun.<sup>🏛️</sup> 
+
+Then it took epochs till this trade got formalized and acknowledged in the conservative art of static constructions.
 
 In modern times architecture is applied in miscellaneous spheres with design or SYN0 overhead: from hardware and vessels to economics and politics. However, there's no **μ**archictect of processors, while architects of détente or economic miracle are more estimate.
 
