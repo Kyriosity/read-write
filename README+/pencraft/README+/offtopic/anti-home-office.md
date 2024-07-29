@@ -10,6 +10,9 @@
   <img alt="Brombachsee, die Bucht" src="../../../_rsc/_img/photo/blog/Brombachsee-eBucht-pier.jpg" />
 </picture>
 
+<picture>
+  <img alt="Slopes of Ochsenkopf, 1024m" src="../../../_rsc/_img/photo/blog/Ochsenkopf_July.jpg" />
+</picture>
 
 
 
