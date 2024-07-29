@@ -7,7 +7,9 @@
 * Albeit C# has pointers, destructors, finalizers, calls to the garbage collector, memory allocation, "front door" to unmanaged code, and interop with other languages — 
 programming them for business applications doesn't look natural, unless for a very specific workaround, fix of bizarre bugs, or non-conforming 3d-party API.
 
-* Microsoft thoroughly documents which C# constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive (Q&A sites cite contradictory opinions about string interpolation, await/async). As well C# doesn't guarantee the same CLR output for the next releases or every platform.
+* Microsoft thoroughly documents which C# constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive (Q&A sites cite contradictory opinions about string interpolation, await/async). As well C# doesn't guarantee the same CLR output for future releases or every platform.
+
+Best improving intentions of individuals may occur in parallel with those similar of the .NET team on interpretation and the latter will probably win.
 
 ### "Bare" code for high-performance calculations
 
@@ -17,7 +19,7 @@ To stay with C# in such a case, hardware acceleration or external libraries are 
 
 ### Phantom gains
 
-Spans, non-generic collections, record structs, and "jettison" of LINQ are suitable when 1) performance is a huge issue, 2) better syntax and match with entities (e.g. `struct` for _x-y-point_ objects).
+[ArrayPool](https://learn.microsoft.com/en-us/dotnet/api/system.buffers.arraypool-1), spans, non-generic collections, record structs, and "jettison" of LINQ are suitable when 1) performance is a huge issue, 2) better syntax and match with entities (e.g. `struct` for _x-y-point_ objects).
 
 ### Obsolete constructs
 
