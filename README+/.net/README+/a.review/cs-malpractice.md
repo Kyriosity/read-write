@@ -4,24 +4,24 @@
 
 ### Essence 
 
-Albeit C# has destructors, finalizers, calls to the garbage collector, memory allocation, and "front door" to unmanaged code - 
-programming them doesn't look natural, unless for a very specific workaround, fix of bizarre bugs, or non-conforming 3d-party API.
+* Albeit C# has pointers, destructors, finalizers, calls to the garbage collector, memory allocation, "front door" to unmanaged code, and interop with other languages — 
+programming them for business applications doesn't look natural, unless for a very specific workaround, fix of bizarre bugs, or non-conforming 3d-party API.
 
-Microsoft thoroughly documents which C# constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive (Q&A sites cite contradictory opinions about string interpolation, await/async). As well C# doesn't guarantee the same CLR output for the next releases or every platform.
+* Microsoft thoroughly documents which C# constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive (Q&A sites cite contradictory opinions about string interpolation, await/async). As well C# doesn't guarantee the same CLR output for the next releases or every platform.
 
 ### "Bare" code for high-performance calculations
 
 The backside of comfy C# programming is that .NET isn't suited for direct top-efficient code (like C++ on WinCom). The energy of .NET will exceed the needs of business solutions but will slow down calculations over arrays of millions of items or high-speed transformation of images or videos (even with all the parallelism in the play).
 
-To stay with C# in such a case, the use of hardware acceleration libraries is required.
+To stay with C# in such a case, hardware acceleration or external libraries are required.
 
 ### Phantom gains
 
-Non-generic collections, record structs, and rejection of LINQ are suitable when 1) performance is an issue, 2) better syntax and match with entities (e.g. `struct` for _x-y-point_ objects).
+Spans, non-generic collections, record structs, and "jettison" of LINQ are suitable when 1) performance is a huge issue, 2) better syntax and match with entities (e.g. `struct` for _x-y-point_ objects).
 
 ### Obsolete constructs
 
-- Any **un**named tuples in new stuff is out of law.
+- Any **un**named tuples in new stuff must be out of law.
 - 🚧🚧🚧
 
 ## Declarations
