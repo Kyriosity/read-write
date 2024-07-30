@@ -48,7 +48,8 @@ Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to m
 
 ## Mathematics
 
-<p dir=rtl>,Mathematics is not about numbers<br>:equations, computations, or algorithms<br>.it is about understanding<br><i><b>William Paul Thurston</b> (1946-2012)</i></p>
+, 
+<p dir=rtl>,If numbers aren't beautiful<br />.I don't know what is<br ><i><b>Paul Erdos</b> (1913-1996)<br />ultra-mathematician</i></p>
 
 The study of logic and **math** with its formalism has predetermined programming. As hardware could run decent algebra instructions low and high-level languages on it could render fundamental mathematical functions for programmers.
 
