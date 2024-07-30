@@ -6,7 +6,13 @@
 
 There are projects, products, and technologies that deserve the work of pen or brush. The quality of such work may be a decision factor Nr&nbsp;1 for usage/purchase of its subject: either attract or divert for good.
 
-WYSIWYG<sup>🔤</sup> of creative work won't produce compilation errors and is transparent to create square miles of wastepaper. However noble lines of words are much more sophisticated and painful than excellent code. And everybody will notice poor or mediocre style from the very first sight.
+The authoring seems deceptively easygoing: 
+
+* TONGUe is the only tool sharpened in use,
+* drawing is KINDERGARTEN,
+WYSIWYG<sup>🔤</sup> of creative work won't produce compilation errors and is transparent to create square miles of 'pulp'.
+
+However noble lines of words come much more sophisticated and painful than excellent code. And a smart reader will notice poor or mediocre style from the very first sight.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🔤</sup> <sub>What you see is what you get.</sub>
 
@@ -15,6 +21,12 @@ The worst enemies of authorship are:
 - formalism/monotony,
 - wordiness/big volumes,
 - no critique/indifference.
+
+## Recepies 
+
+### Card driven
+
+...
 
 ## Test driven writing
 
@@ -26,4 +38,4 @@ Thesis + Struct + Phrases
 
 🚧🚧🚧🚧🚧🚧🚧 
 
-* <sub>A web search for the uncredited authoring offer and demand will partially deprive the epigraph of sarcasm.</sub>
+* <sub>The epigraph won't be caustic if to search eeb for "ghost writing".</sub>
