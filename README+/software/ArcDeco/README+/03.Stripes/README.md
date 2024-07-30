@@ -13,6 +13,7 @@ Development vs. Coding
 
 Architecture vs. Design
 
+Architecture, opposite to design, must be a platform-independent<sup>🎈</sup> abstraction which nevertheless must grow from the practical development.
 
 Architecture may describe both ARC and VISION ...
 
