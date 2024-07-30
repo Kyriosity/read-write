@@ -1,6 +1,6 @@
 # Design - Samples
 
-The planning and presentation of software features oblige one with a pictorial background. We'll rely often on the next samples:\
+The planning and presentation of software features require a pictorial and encouraging background. We'll rely often on the next samples:\
 |- [Chess](#chess)\
 |- [Mathematics](#mathematics)\
 |- [Raster images](#raster-images)\
@@ -9,9 +9,9 @@ The planning and presentation of software features oblige one with a pictorial b
 
 ## Chess
 
-<p dir=rtl>.Chess speaks for itself<br><i>Hans Moke Niemann, GM, 2022</i></p>
+<p dir=rtl>Chess speaks for itself<br><i><b>Hans Moke Niemann</b>, GM, 2022</i></p>
 
-This popular, with easy-to-learn rules, board strategy of all times renders a favorable playground for software logic.  Other traits are...
+This popular board strategy of all times with fast-to-learn rules renders a favorable playground for software logic.  Other traits are...
 
 ### Reversibility: full and plain
 
@@ -48,13 +48,13 @@ Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to m
 
 ## Mathematics
 
-<p dir=rtl>,Mathematics is not about numbers<br>:equations, computations, or algorithms<br>.it is about understanding<br><i>William Paul Thurston (1946-2012)</i></p>
+<p dir=rtl>,Mathematics is not about numbers<br>:equations, computations, or algorithms<br>.it is about understanding<br><i><b>William Paul Thurston</b> (1946-2012)</i></p>
 
 The study of logic and **math** with its formalism has predetermined programming. As hardware could run decent algebra instructions low and high-level languages on it could render fundamental mathematical functions for programmers.
 
 More specific functions can be found in external libraries and if not are the subject of tailored development: from a casual task for non-mathematicians to scientific work (as some _computer-assisted-proofs_). 
 
-* Arguments and results of functions aren't only numbers but also compound and highly abstract structures. 
+* Arguments and results of functions are not only numbers but also compound and highly abstract structures. 
 * A simple or not formula may spare loads of modification storage and still be swift. 
 * Contrariwise long or resource-consuming calculations can serve as _proof-of-work_, performance tests, and simulation of load.
 
@@ -72,7 +72,7 @@ Parallelization (multi-threading) of algorithms, when applicable, tangibly speed
 
 ## Raster images
 
-<p dir=rtl>,When I am in a painting<br>.I'm not aware of what I'm doing<br><i>Jackson Pollock (1912-1956) </i></p>
+<p dir=rtl>,When I am in a painting<br>.I'm not aware of what I'm doing<br><i><b>Jackson Pollock</b> (1912-1956) </i></p>
 
 Editor of raster images is the richest and multi-faceted support of thinking in application design: presentation, processing, and persistence. 
 All of these three ask for optimization, equally logical and tricky.
@@ -88,20 +88,23 @@ Actions vary from simple (flip, rotate) to highly processed retouching or effect
 
 ## Still plain models
 
-<p dir=rtl><sup>🎼</sup>.Architecture is frozen music<br><i>Arthur Schopenhauer (1788-1860)</i></p>
+<p dir=rtl>In some mysterious way woods have<br />
+.never seemed to me to be <b>static</b> things<br />
+;In physical terms, I move through them<br />
+,yet in metaphysical ones<br />
+.they seem to move through me<br />
+<i><b>John Fowles</b> (1926-2005), [post]modernist</i></p>
 
-Software design asks for "static" bare models too. The samples above are more functional ("dynamic") - they have properties and hierarchies but are more demonstrative of processes that change them.
+Software design asks for "static" bare figures, which makes core models. The preceding samples are more functional ("dynamic") - they have properties and hierarchies but are more demonstrative of processes that change them.
 
-"Static" models can be altered too but first of all they must represent hierarchies, parametrization, and initialization in demonstrative fashion. 
+"Static" models can be altered too but first of all they must represent hierarchies, parametrization, and initialization in a demonstrative fashion. 
 One of their custom implementations is available as use-dev➡️ [AbcModels](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels).
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>Full original quote: _Architektur ist gefrorene Musik_. Falsely attributed to Johann Wolfgang von Goethe (1749-1832).</sub>
 
 ---
 
 ## Wrapping up
 
-Developers can select this or that sample/model good enough to think over a feature or implement prototypes and tests. 
+Developers can select this or that sample/model that fits features under development, and implement (or re-use) prototypes with tests. 
 
 However, put them all together on the mental green field of growing application to plan:
 
