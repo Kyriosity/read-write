@@ -1,15 +1,20 @@
 # Software - Quality Assurance
 
-🚧🚧🚧 ... DRAFT ... 🚧🚧🚧
+> 🚧🖊️🚧 ... PEN in PROGRESS ... 🚧🖌️🚧
 
-Software is error-prone by its nature.
-AS IT... AS IS
+Development is error-prone by itself. The changes are as near as the fingers to the keyboard, and there's always a gap till delivery.
 
-## Test by nature
+Test automation is EASY.
+
+## Natural born quality
+
+I could claim to have witnessed a pair of projects.
 
 The developer is the first tester
 
-The cases when the submitted code is a bug by itself (i've seen such)
+What are the cases when the submitted code is a bug by itself?
+
+[Quality code](README+/code-quality.md)
 
 ## Automated tests
 
