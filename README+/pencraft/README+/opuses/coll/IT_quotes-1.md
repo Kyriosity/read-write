@@ -76,8 +76,11 @@ _Kent Beck_,  "Refactoring", 1999
 
 ## Organisation
 
-> A man provided with paper, pencil, and rubber, and subject to strict **discipline**, is in effect a universal machine.\
+> <mark>A man provided with paper, pencil, and rubber, and subject to strict **discipline**, is in effect a universal machine.</mark>\
 _Allan Turing_ (1948)
+
+> <mark>When I read commentary about suggestions for where C should go, I often think back and give thanks that it wasn`t developed under the advice of a worldwide crowd.</mark>\
+_Dennis Ritchie_
 
 > One of my guiding principles is **don’t do anything that other people are doing. Always do something a little different if you can.** The concept is that if you do it a little differently there is a greater potential for reward than if you the same thing that other people are doing. I think that this kind of goal for one’s work, having obviously the maximum risk, would have the maximum reward no matter what the field may be.\
 _Seymour Cray_
@@ -113,6 +116,17 @@ Despite all epic failures, software, on which our life depends, is extremely rob
 
 </details>
 
+<details><summary><b><ins>Software</ins></b></summary>
+&nbsp;
+
+> <mark>In 30 years Lisp will likely be ahead of C++/Java (but behind something else).</mark>\
+_Peter Norvig_, 1999
+
+After 25 years Java is in the top five, C++ -- in 10, and where will be Lisp in the five remaining years?
+
+\_______
+ 
+</details>
 
 <details><summary><b><ins>Hardware</ins></b></summary>
 &nbsp;
@@ -153,7 +167,14 @@ _Edsger W.&nbsp;Dijkstra_ conveyed the idea much more plausible (albeit about la
 > It is practically impossible to teach good programming to students that have had a prior exposure to **BASIC**: as potential programmers they are mentally mutilated beyond hope of regeneration.\
 _Edsger W. Dijkstra_, 1975
 
-> 🚧 ALGOL and C# quotes 🚧
+> C++ is a badly designed and ugly language. It would be a shame to use it in Emacs.\
+_Richard Stallman_
+
+> FORTRAN—the "infantile disorder" by now nearly 20 years old, is hopelessly inadequate for whatever computer application you have in mind today: it is now too clumsy, too risky, and too expensive to use.\
+_Edsger W. Dijkstra_
+
+> <mark>C++ is a language strongly optimized for liars and people who go by guesswork and ignorance.</mark>\
+_Erik Naggum_, Lisp programmer, 2008 on Usenet
 
 Sure, an environment may force bad practices but they don't make developers.
 
@@ -254,6 +275,8 @@ _**Seymour Cray**_, (1925-1996), father of supercomputers
 
 ### ...et alia
 
+**_Dennis Ritchie_**, Dennis MacAlistair Ritchie (1941-2011) creator of C and co-author of UNIX (with Ken Thompson)
+
 _**Theodore von Kármán**_ (1881-1963), outstanding aerospace engineer best known for _Kármán line_
 
 _**Barbara Liskov**_, the only one honored with a personal letter in design principles - SO**L**ID.
@@ -261,4 +284,8 @@ _**Barbara Liskov**_, the only one honored with a personal letter in design prin
 _**Bjarne Stroustrup**_ , 🇩🇰 /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
 Beyond his contributions, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html)<sup>:link:</sup> saving us from misinterpretations.
 
+**_Richard Stallman_**, Richard Matthew Stallman, founder of GNU and Free Software Movement
+
 _**Kent Beck**_, eXtreme Programming founder
+
+**_Peter Norvig_**, 🇺🇸 AI computer scientist
