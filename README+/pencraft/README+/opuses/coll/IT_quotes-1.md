@@ -5,7 +5,7 @@
 <p dir="rtl">?What makes a good quote<br/>
 .Terse, witty? —  That's for aphorisms<br/>
 .Brainy, ingenious? — Prerequisites<br/>
-.Aging. - The criterion</p>
+.Aging. — The criterion</p>
 
 That's why here you find a discernible inclination toward [IT pioneers](#IT-Pioneers) whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
 
@@ -76,10 +76,10 @@ _Kent Beck_,  "Refactoring", 1999
 
 ## Organisation
 
-> <mark>A man provided with paper, pencil, and rubber, and subject to strict **discipline**, is in effect a universal machine.</mark>\
+> A man provided with paper, pencil, and rubber, and subject to strict **discipline**, is in effect a universal machine.\
 _Allan Turing_ (1948)
 
-> <mark>When I read commentary about suggestions for where C should go, I often think back and give thanks that it wasn`t developed under the advice of a worldwide crowd.</mark>\
+> When I read commentary about suggestions for where C should go, I often think back and give thanks that it wasn`t developed under the advice of a worldwide crowd.\
 _Dennis Ritchie_
 
 > One of my guiding principles is **don’t do anything that other people are doing. Always do something a little different if you can.** The concept is that if you do it a little differently there is a greater potential for reward than if you the same thing that other people are doing. I think that this kind of goal for one’s work, having obviously the maximum risk, would have the maximum reward no matter what the field may be.\
@@ -119,7 +119,7 @@ Despite all epic failures, software, on which our life depends, is extremely rob
 <details><summary><b><ins>Software</ins></b></summary>
 &nbsp;
 
-> <mark>In 30 years Lisp will likely be ahead of C++/Java (but behind something else).</mark>\
+> In 30 years Lisp will likely be ahead of C++/Java (but behind something else).\
 _Peter Norvig_, 1999
 
 After 25 years Java is in the top five, C++ -- in 10, and where will be Lisp in the five remaining years?
