@@ -15,10 +15,12 @@
      &nbsp;➿&nbsp;
      <a href="README+/software/design/README+/design-samples.md">Samples</a><br/>
       &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/QA"><b>QA & Testing</b></a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">of Code</a> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
      &nbsp;➿&nbsp;
-     ➡️<a href="https://github.com/Kyriosity/use-dev/tree/main/README+/decisions/README+/testing">Decisions</a>
+     <a href="README+/software/QA/README+/tests-pitfalls.md">Tests pitfalls</a>
      <br /> 
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     ➡️<a href="https://github.com/Kyriosity/use-dev/tree/main/README+/decisions/README+/testing">Decisions</a>
      <br />
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       🥱&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a>
