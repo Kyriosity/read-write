@@ -42,6 +42,9 @@ _Bjarne Stroustrup_++
 > The people at the bottom do not have the larger, global view, but at the top they do not have the local view of all the details, many of which can often be very important, so **either extreme gets poor results**.\
 _Richard Hamming_
 
+> Science is what we understand well enough to explain to a **computer**. Art is everything else we do.\
+_Donald Knuth_
+
 ## Simplicity vs complexity
 
 ![#design](https://img.shields.io/badge/%23-Design-yellow) 
@@ -261,6 +264,8 @@ _**Fred Brooks**_, Frederick Phillips Brooks Jr. (1931-2022), Known for IBM	OS/3
 _**Gerald Weinberg**_, Gerald Marvin Weinberg (1933-2018), a computer scientist at IBM, a teacher of the psychology and anthropology of software
 
 _**Tony Hoare**_, _Charles Antony Richard Hoare_ (born 1934), a fundamental contributor to programming languages and algorithms
+
+**_Donald Knuth_**, _Donald Ervin Knuth_ (born 1938), one of the first and most prominent computer scientists, best known for _The Art of Computer Programming_, 1962-1973
 
 _**Edsger W. Dijkstra**_, _Edsger Wybe Dijkstra_ (1930-2002) 🇳🇱, known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
