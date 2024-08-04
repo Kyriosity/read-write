@@ -100,6 +100,16 @@ A stack of punch cards for a casual program.
 _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 ---------
+
+</details>
+
+<details>
+<summary><ins>&nbsp;<b>Dull historic parallels</b>&nbsp;</ins></summary>
+
+🚧🚧🚧 ... COMING SOON ... 🚧🚧🚧
+
+---
+
 </details>
 
 <details>
