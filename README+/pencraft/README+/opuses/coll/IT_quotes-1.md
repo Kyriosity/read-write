@@ -66,13 +66,16 @@ That's why I have a clock on my wall that runs counterclockwise.\
 > When you feel the need to write a comment, first try to refactor the code so **that any comment becomes superfluous**.\
 _Kent Beck_,  "Refactoring", 1999
 
-### QA
+### Quality assurance
 
 > Testing shows the presence not the absence of bugs.\
 _Edsger W. Dijkstra_, 1969 (documented while the saying appeared before)
 
 > The key is to **test the areas that you are most worried about going wrong**. That way you get the most benefit for your testing effort. It is better to write and run incomplete tests than not to run complete tests.\
 _Kent Beck_,  "Refactoring", 1999
+
+> **I find it very odd.** I’m a fairly private person who just sits in front of the computer and hacks on code.\
+_Andres Freund_, 2024, a programmer who occasionally prevented the "century" cyberattack in [NYT interview](https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html).
 
 ## Organisation
 
