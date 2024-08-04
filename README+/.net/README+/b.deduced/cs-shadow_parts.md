@@ -15,7 +15,8 @@ Sure, event/stream-based development isn't for every use and its paradigm requir
 * Hardware. Dealing with APIs you may deal with physical effects and remedies (like debouncing of switches).
 
 ## Miscellaneous
-
+|- **General**\
+|--- [DataObject](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.dataobject)\
 |- Accelerated calculations\
 |--- [Single instruction, multiple data (SIMD)](https://learn.microsoft.com/en-us/dotnet/standard/simd)<sup>🔗</sup>\
 |--- [Hardware acceleration](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/optimizing-performance-taking-advantage-of-hardware)<sup>🔗</sup>
