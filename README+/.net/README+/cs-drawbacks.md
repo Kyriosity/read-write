@@ -30,7 +30,7 @@ Advanced C# design reveals more generic restraints and results in *Vodoo program
 
 Some shortcuts obfuscate original goodies with insignificant gains in size.
 
-For example, [EnsureSuccessStatusCode](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpresponsemessage.ensuresuccessstatuscode) is better:
+For example, [`EnsureSuccessStatusCode`](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpresponsemessage.ensuresuccessstatuscode) is better in its natural form:
 
 ```csharp
 if (response.IsSuccessStatusCode) /// or differentiate for more specific conditions
@@ -44,7 +44,7 @@ if (response.IsSuccessStatusCode) /// or differentiate for more specific conditi
 - Either `class`, `record`, `record class`, `struct`, `record struct`, or *tuples* can declare an entity. Each has pros and cons for a particular case, but deciding between them could distract from design.
 
 - There's no method signature to specify that it must unconditionally throw an exception, and `void` as a return is incorrect.\
-(The workaround may be to [declare the return as an exception to be thrown](../b.deduced/cs-hints.md#Gimmicks)).
+(The workaround may be to [declare the return as an exception to be thrown](cs-hints.md#Gimmicks)).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🐡</sup> <sub>Besides, the override of dummy `Equals()` and `ToString()` may bring nontrivial logic and violate _single responsibility_.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>👣</sup> <sub>Especially annoying in inter-methods within builders, when you expect to select among next steps.</sub>
@@ -103,11 +103,11 @@ Ambiguous order and `int` input of year/month/day allows nonsense values, which 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🐛</sup> <sub>Test initalization and `.Tostring()` with `new DateOnly(2023, 02, 29)`, `new DateOnly(31, 12, 1975)`, `var May = 5; new DateOnly(2007, 1, May)`, `new DateTime(0, 0, 0)`</sub>
 
-Continued in [C# lacks - Dates](cs-lacks-parts.md#Dates).
+Continued in [C# lacks - Dates](parts/cs-lacks-parts.md#Dates).
 
 ## Inborn naming
 
--  *Interface* is a too common term for contracts (and not only in C#).
+-  *Interface* is a term that is too common for contracts (not only in C#).
 - *Reverse*, as in [LINQ method](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse)<sup>:link:</sup>, is actually *flip*.
 - Type modifiers _in_/_out_ for contra-/covariance collide with the same name parameter modifiers (_more_/_less_ can be better)
 
