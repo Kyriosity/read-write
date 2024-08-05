@@ -32,7 +32,7 @@ Many frameworks are good at themselves but will burden your project with too muc
 
 ## Testing
 
-Components for testing are so organic for applications that are associated/integrated with popular languages/platforms/IDEs (Java, Angular) and DevOps. Their state for .NET got a piece of discussion in [C# nice-to-have](../../../../../.net/README+/a.review/cs-lacks-parts.md#testing).
+Components for testing are so organic for applications that are associated/integrated with popular languages/platforms/IDEs (Java, Angular) and DevOps. Their state for .NET got a piece of discussion in [C# nice-to-have](../../../../../.net/README+/cs-lacks-parts.md#testing).
 
 ## Free, commercial, open source, proprietary, initiative
 
