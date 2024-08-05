@@ -143,9 +143,26 @@ class Benchmark : IDisposable
 <summary><ins>&nbsp;"Limit swithes" to protect runtime attributes</code></summary>
 &nbsp;
 
-Attributes as [CallerMemberName](https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.callermembernameattribute)<sup>🔗</sup> or [CallerArgumentExpression](https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.callerargumentexpressionattribute)<sup>🔗</sup> set value in runtime but you can't rely on them since they caller may accidentely overwrite the values (which tastes as a flaw). 
+Inline attributes as 
+[`CallerMemberName`](https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.callermembernameattribute) or 
+[`CallerArgumentExpression`](https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.callerargumentexpressionattribute) 
+set value in runtime but you can't rely on them since the caller may accidentally overwrite the values (that tastes like a flaw). 
 
-Instead of the rest discussion i'd better propose an imperfect workaround in this [clay test](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/ClayTests/Errors/99\)MiscDemos.cs).
+```csharp
+
+class Bio {
+    static string Of(string firstName, string lastName, [CallerMemberName] string caller = "") {
+        stats.Log(caller);
+        /// ... further logic and return
+    }
+}
+
+_ = Bio.Of("Paul", "Erdos"); 
+_ = Bio.Of("Carl", "Freidrich", "Gauss"); // ERROR !
+
+```
+
+Instead of the discussion, I'd better propose an imperfect workaround in this [Extensions test](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/ExtensionsTests/Exceptions/99&#41;MiscDemos.cs).
 
 </details>
 
@@ -155,7 +172,7 @@ Instead of the rest discussion i'd better propose an imperfect workaround in thi
 </summary>
 &nbsp;
 
-It's absolutely legal to write `throw` in any C# method, but there may be motives to delegate exceptions up:
+It's legal to write `throw` in any C# method, but there may be motives to delegate exceptions up:
 
 * Other concurrent methods (not only parallel) may throw and better the caller accumulates and weights exceptions without heavy `catch` for each.
 * You'd like to explicitly tell code readers what a method may throw (akin to signature in Java).
@@ -229,4 +246,4 @@ enum FundamentalStatesOfMatter
 ## Subsystems, frameworks
 
 + **WPF** ...\
-| - [WPF hints](../wpf/README+/wpf-hints.md)
+| - [WPF hints](wpf/README+/wpf-hints.md)
