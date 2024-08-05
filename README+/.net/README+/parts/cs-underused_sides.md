@@ -46,9 +46,14 @@ static void CalcHard(int nat) {
 
 LINQ is so great and practical that it's the first thing C# developers miss when coding in other languages.<sup>:large_blue_diamond:</sup>
 
-However, even its addicts may be unfamiliar with many tenable features. I myself knew about [OfType](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.oftype) vs. [Cast](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.cast), [Zip](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.zip) obscenely later than I must have used them.
+However, even its addicts may be unfamiliar with many tenable features. I myself knew about 
+[`OfType`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.oftype) vs. 
+[`Cast`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.cast), 
+[`Zip`](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.zip) obscenely later than I must have used them.
 
-It's also better to be aware of disputable methods like [DefaultIfEmpty](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.defaultifempty), [TryGetNonEnumeratedCount](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.trygetnonenumeratedcount) before considering to implement that one specific.
+It's also better to be aware of disputable methods like 
+[`DefaultIfEmpty`](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.defaultifempty), 
+[`TryGetNonEnumeratedCount`](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.trygetnonenumeratedcount) before considering to implement that one specific.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:large_blue_diamond:</sup><sub>If you're lucky enough not to meet this, such [cheatsheet of equivalents](https://www.garethrepton.com/TypeScript-equivalents-for-DotNet-Linq-functions/)<sup>🔗</sup> may give you a feeling.</sub>
 
@@ -84,4 +89,4 @@ There must be other useful but neglected parts, features, and syntax of C# and i
 
 Besides definitely underused parts there are\
 |--- [Parts in shade](cs-shadow_parts.md)\
-|--- Obsolete/bad parts, features, and [malpractices](../a.review/cs-malpractice.md) 
+|--- Obsolete/bad parts, features, and [malpractices](../cs-malpractice.md) 
