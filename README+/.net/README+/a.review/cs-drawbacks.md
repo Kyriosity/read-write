@@ -26,6 +26,17 @@ Advanced C# design reveals more generic restraints and results in *Vodoo program
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)<sup>:link:</sup> that their generics are "_does nots_" of C++ templates.</sub>
 
+### Questionable shortcuts
+
+Some shortcuts obfuscate original goodies with insignificant gains in size.
+
+For example, [EnsureSuccessStatusCode](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpresponsemessage.ensuresuccessstatuscode) is better:
+
+```csharp
+if (response.IsSuccessStatusCode) /// or differentiate for more specific conditions
+     throw new HttpRequestException(); /// or specify explicitly any custom exception
+```
+
 ## Type system
   
 - Root `object`, both non-abstract and interface-less, asserts flaws in object-oriented design<sup>🐡</sup>. On the other hand, it brings an "original" footprint, big enough to pollute coding space with names.<sup>👣</sup>
