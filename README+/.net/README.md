@@ -19,5 +19,5 @@ This intro and next essays must be tendential but are based on live experience i
 With all given praise C# isn't monumentally accomplished and if I dare to remark...&nbsp;↙️\
 |--- [Drawbacks](README+/cs-drawbacks.md)\
 |--- [Malpractice](README+/cs-malpractice.md)\
-|--- [Missing parts (or nice-to-have)](README+/cs-lacks.md)\
+|--- [Nice-to-have](README+/cs-lacks.md)\
 |----- [WPF lacks](README+/wpf/README+/wpf-drawbacks.md)
