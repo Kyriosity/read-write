@@ -14,10 +14,10 @@ Surprisingly C# is widely utilized in APIs and drivers to industry-standard embe
 This intro and next essays must be tendential but are based on live experience in various projects and teams ↙️\
 |--- [Good sides underused](README+/b.deduced/cs-underused_sides.md)\
 |--- [Parts in shade](README+/b.deduced/cs-shadow_parts.md)\
-|--- [Boosting hints](README+/b.deduced/cs-hints.md)
+|--- [Boosting hints](README+/cs-hints.md)
 
 With all given praise C# isn't monumentally accomplished and if I dare to remark...&nbsp;↙️\
-|--- [Drawbacks](README+/a.review/cs-drawbacks.md)\
-|--- [Malpractice](README+/a.review/cs-malpractice.md)\
-|--- [Missing parts (or nice-to-have)](README+/a.review/cs-lacks.md)\
+|--- [Drawbacks](README+/cs-drawbacks.md)\
+|--- [Malpractice](README+/cs-malpractice.md)\
+|--- [Missing parts (or nice-to-have)](README+/cs-lacks.md)\
 |----- [WPF lacks](README+/wpf/README+/wpf-drawbacks.md)
