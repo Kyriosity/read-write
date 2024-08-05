@@ -1,4 +1,4 @@
-# Subjective and biased about C#
+# Subjective and strongly biased about `C#`
 
 C# on .NET deserves to be noted as one of the most **eloquent** and **all-around** languages/platforms for business applications. It's a flagship of Microsoft (enough said), where the ship is .NET and the flag is C#.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<sub>Genuine C++ experts are justified to name C# "just another Basic" while others will argue that the latter harnesses design phantasies for the sake of dev progress and clarity.</sub>
