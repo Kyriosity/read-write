@@ -64,6 +64,8 @@ Others are:
 
 ## DDD (Design Driven Design)
 
+EVERY DEV IS DD explicit or not, obfuscated or not.
+
 TDD and **D**omain **D**riven **D**esign are perfect matches and will boost each other. With _design hat_ on one will draught domain objects, their functions, and relations, which one wearing the _"test" hat_ will mock and stub, develop the syntax of their reference, and give essential feedback.
 
 There are many impressive stories of DDD to learn from, to which I can only supplement the next notice:
