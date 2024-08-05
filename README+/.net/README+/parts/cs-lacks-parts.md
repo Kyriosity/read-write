@@ -1,6 +1,6 @@
 # C# - Nice to have - Parts and frameworks
 
-Along with [nice-to-have syntax/features](cs-lacks.md) **C#** could grow with some naturally expected parts/frameworks.
+Along with [nice-to-have syntax/features](../cs-lacks.md) **C#** could grow with some naturally expected parts/frameworks.
 
 ## Testing
 
