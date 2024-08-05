@@ -18,10 +18,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
      &nbsp;➿&nbsp;
      <a href="README+/software/QA/README+/tests-pitfalls.md">Tests pitfalls</a>
-     <br /> 
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     ➡️<a href="https://github.com/Kyriosity/use-dev/tree/main/README+/decisions/README+/testing">Decisions</a>
-     <br />
+     <br /> <br />
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       🥱&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a>
      &nbsp;
