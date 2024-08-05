@@ -36,10 +36,10 @@
    <br/>
      <b>♯</b>&nbsp;<b>Sides/Parts</b>
    <br/>
-       &nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/b.deduced/cs-underused_sides.md">Underused</a> ➕&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/parts/cs-underused_sides.md">Underused</a> ➕&nbsp;
              <a href="README+/.net/README+/cs-lacks-parts.md">Nice to have</a><br/>
              <a href="README+/.net/README+/cs-lacks-parts.md">Nice to have</a><br/>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➕&nbsp;<a href="README+/.net/README+/b.deduced/cs-shadow_parts.md">In shadow</a><br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➕&nbsp;<a href="README+/.net/README+/parts/cs-shadow_parts.md">In shadow</a><br/>
      💠&nbsp;<a href="README+/.net/README+/wpf"><b>WPF</b></a><br/>
       <br/>
      <b><a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Design decisions</a></b> ➡️&nbsp;<i>use-dev</i>
