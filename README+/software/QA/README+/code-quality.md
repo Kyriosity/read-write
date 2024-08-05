@@ -29,7 +29,7 @@ High-quality code has
 
 The highest merit is that even a breaking change won't surprise devs and users with unexpected side effects.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup>&nbsp;<sub>e.g. `String.Empty` instead of `""` and some [C# tricks](../../../../.net/README+/b.deduced/cs-hints.md)</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup>&nbsp;<sub>e.g. `String.Empty` instead of `""` and some [C# tricks](../../../../.net/README+/cs-hints.md)</sub>
 
 ### Re: Tests 🧪
 

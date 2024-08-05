@@ -35,7 +35,7 @@
       &nbsp;➰&nbsp;
            <a href="README+/.net/README+/cs-lacks.md">Lacks</a><br/>
              &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-malpractice.md">Malpractices</a>&nbsp;➗&nbsp;
-                      <a href="README+/.net/README+/b.deduced/cs-hints.md">Hints</a>
+                      <a href="README+/.net/README+/cs-hints.md">Hints</a>
    <br/>
      <b>♯</b>&nbsp;<b>Sides/Parts</b>
    <br/>
