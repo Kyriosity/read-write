@@ -7,20 +7,22 @@ Full-fledged third-party frameworks, libraries, and services allow developers to
 
 Such external parts are often a click away from evaluation and range:
 
-* **from** solo algorithm **to** browser engine (hallo, Edge),
+* **from** solo algorithm **to** browser engine (the latter is surprisingly easier to borrow),
 * **from** built-in source code **to** remote black-box service,
 * **from** lib calls **to** injecting into frameworks,
-* **from** open source and free **to** commercial and obfuscated,
+* **from** open source or/and free **to** commercial and obfuscated,
 
-Even great enterprises are reluctant to create the parts from the ground up and re-invent the wheel (unless it's rounder than others or "security first").
+Even great enterprises are reluctant to create the parts from the ground up and re-invent the wheel (unless it's rounder than others or "security first" rules).
 
 ## Core components
 
 Integration of video/image-processing/3D/browsing/search in custom applications is chiefly organic and indisputable.
 
+The same applies to text editors.
+
 ## Frontend
 
-Downright a must, met by more than experienced providers of suites, frameworks, and controls for Rapid Application Development: Telerik, DevExpress, Google, and Infragistics - to name a few.
+Downright a must, and an acute demand met by more than experienced providers of suites, frameworks, and controls for Rapid Application Development: Telerik, DevExpress, Google, and Infragistics - to name a few.
 
 Developers get the best out-of-the-box: state-of-the-art UI, professional look and feel, binding logical classes to place onto Model/ViewModel/Controller (with _table_ as the finest demonstrator).
 
@@ -36,10 +38,10 @@ Components for testing are so organic for applications that are associated/integ
 
 ## Free, commercial, open source, proprietary, initiative
 
-Some non-commercial projects launched by individuals or groups have grown to industry standards and been adopted in mainstream languages. Recall [Newton.json](https://www.newtonsoft.com/json)<sup>🔗</sup> that has filled the JSON gap in C# for years.
+Some non-commercial projects launched by individuals or groups have grown to industry standards and been adopted in mainstream languages. Recall [Newton.json](https://www.newtonsoft.com/json)<sup>🔗</sup> that has filled the JSON blank in C# for years.
  
-Besides the licensing, when applying such 3d-party think if there's a community (maybe, only you) able to maintain the stuff within the lifecycles of dependent projects.
-I'd prefer readable code with transparent design ideas above all (releases, active community, extra features, popularity).<sup>:raising_hand:</sup>
+Besides the licensing, when applying such 3d-party think if there's a community (maybe, only you) able to maintain the stuff within the lifecycles of dependent projects. 
+Then I'd prefer readable code with transparent design ideas above all (releases, active community, extra features, popularity).<sup>:raising_hand:</sup>
 
 Freeware means pretty often open-source and here not all are ready to give out the best ideas and realizations.
 
