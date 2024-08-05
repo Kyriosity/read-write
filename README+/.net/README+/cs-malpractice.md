@@ -21,7 +21,7 @@ To stay with C# in such a case, hardware acceleration or external libraries are 
 
 ### Phantom gains
 
-[ArrayPool](https://learn.microsoft.com/en-us/dotnet/api/system.buffers.arraypool-1), spans, non-generic collections, record structs, and "jettison" of LINQ are suitable when 1) performance is a huge issue, 2) better syntax and match with entities (e.g. `struct` for _x-y-point_ objects).
+[`ArrayPool`](https://learn.microsoft.com/en-us/dotnet/api/system.buffers.arraypool-1), spans, non-generic collections, record structs, and "jettison" of LINQ are suitable when 1) performance is a huge issue, 2) better syntax and match with entities (e.g. `struct` for _x-y-point_ objects).
 
 ### Obsolete constructs
 
