@@ -183,5 +183,5 @@ void Planning.Capacity.Register(<ILoadSpecs, IPassengerConfig> transport) { ... 
 Such a feature will be useful also for run-time object composition.
 
 <ins>&nbsp;**Further nice-to-have:**&nbsp;</ins>\
-|- [Parts and frameworks](cs-lacks-parts.md)
+|- [Parts and frameworks](parts/cs-lacks-parts.md)
 
