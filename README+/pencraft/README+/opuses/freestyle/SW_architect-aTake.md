@@ -2,7 +2,7 @@
 
 # Finding Software Architect
 
-<p dir=rtl>"<b><mark>.I am the Architect</mark></b>"<br />🎦&nbsp;<i>The Architect</i><br/>fictitious character of)<br/>(<i>The Matrix Reloaded</i></p>
+<p dir=rtl><b><mark>".I am the Architect"</mark></b><br />🎦&nbsp;<i>The Architect</i><br/>fictitious character of)<br/>(<i>The Matrix Reloaded</i></p>
 
 *Software architecture*, whatever it means, is formalizable and veritable as a product, but not as an exercise. 
 
@@ -24,13 +24,15 @@ Architecture/Design of constructions and software has much in common. Both must 
 
 Both must accumulate practices and reveal patterns.
 
-W/OUT good plan will end up as disastrous mess that will sooner or later loudly crash.
+Without a good plan, both will end up as a disastrous mess that will sooner or later loudly crash.
 
 The diversity is much greater.
 
 ### Deltas
 
-First, software is too fluid, and dynamic compared to static structures. The philosophical remark "Architecture is frozen music"<sup>🎼</sup> may project to software as: HEATED SYMPHONIC ORCHESTER cacophony MARATHON on 💊💊💊
+First, software is too fluid, and dynamic compared to static structures. 
+
+The philosopher<sup>🎼</sup> who remarked "Architecture is frozen music" would find software as "GRAND GALA of symphonic cacophony MARATHON on 💊💊💊 under the circus tent".
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>Arthur Schopenhauer (1788-1860), falsely attributed to Johann Wolfgang von Goethe (1749-1832).\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full original quote: _Architektur ist gefrorene Musik. (Möge es immer beschwingt und harmonisch zugehen in diesem Haus!)_</sub>
@@ -53,7 +55,7 @@ A determined person or board in high-pro fixed teams may rely on communication B
 
 ### Dissonance
 
-Reputable software manufacturers hire _architects_, and they are the central figures at many IT events, and there's certification after all.
+Reputable software manufacturers hire _architects_, and they are the central figures at many IT events, there's certification after all.
 
 First, *software architect* sounds cool. Then it may mean a permanent transit to a level over developers but still tech. It may be just a dream of one enlightened to draw beautiful top diagrams without digging in the dirty code. It's often an alias for these posts and duties:
 
