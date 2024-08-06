@@ -3,16 +3,16 @@
 Model-View-ViewModel (abbr. MVVM) is a well-accepted, easy, powerful concept of __separation of concerns__, also known as [MVP](https://martinfowler.com/eaaDev/uiArchs.html)<sup>🔗</sup>.
 
 WinForms application can be an exemplary MVVM<sup>:wrench:</sup> but it was WPF that formed a symbiosis with MVVM and made the latter mainstream (and not only in WPF). Notably successful and stable Microsoft Visual Studio&nbsp;2010 was written from scratch in WPF relying on MVVM (Model-View-ViewModel).\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:wrench:</sup>&nbsp;<sub>In fact WPF is based on Winform's [Binding](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.binding)<sup>🔗</sup></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:wrench:</sup>&nbsp;<sub>In fact WPF is based on Winform's [`Binding`](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.binding)</sub>
 
 ## Structure
 
-|- __Model__  - usual [application model](../../../../../software/README+/design/parts/README+/app-model.md)\
+|- __Model__  - usual [application model](../../../../../software/design/parts/README+/app-model.md)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// Model classes must be frontend agnostic but virtual (open) for adapting in presentation (e.g. `virtual` props and methods.\
 |- [__ViewModel__](README+/wpf_mvvm-viewmodel.md)\
 |- [XAML view](../wpf-xaml_view.md) *
 
-&nbsp;&nbsp;&nbsp;&nbsp;* It can also be any other kind of [application view](../../../../../software/README+/design/parts/README+/app-view.md) bound with the ViewModel
+&nbsp;&nbsp;&nbsp;&nbsp;* It can also be any other kind of [application view](../../../../../software/design/parts/README+/app-view.md) bound with the ViewModel
 
 ## Sample
 
