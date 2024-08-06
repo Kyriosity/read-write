@@ -9,9 +9,9 @@ programming them for business applications doesn't look natural, unless for a ve
 
 * Microsoft thoroughly documents which C# constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive (Q&A sites cite contradictory opinions about string interpolation, await/async). As well C# doesn't guarantee the same CLR output for future releases or every platform.
 
-Best improving intentions of individuals may occur in parallel with those similar to the .NET team on interpretation/compilation and the latter will probably win.
+Best improving intentions of individuals on a "low level" may occur in parallel with those similar to the .NET team on interpretation/compilation and the latter will probably win.
 
-Ok, that's nothing bad to know the very details of CLR and below except the time resources and focus one must invest.
+Ok, nothing wrong with knowing the details of CLR and IL (it makes one a better developer) except the time resources, and focus one must invest.
 
 ### "Bare" code for high-performance calculations
 
