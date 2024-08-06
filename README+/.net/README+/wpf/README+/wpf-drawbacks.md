@@ -13,7 +13,7 @@ Microsoft and the .NET team were more than busy with cross-platform, Web, and mo
 
 Since the early 2010s, Microsoft has neither ported nor created any significant proprietary product in full WPF<sup>🏗️</sup>. The legacy of the ecosystem<sup>👜</sup> doesn't excuse this for medium foundations.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🥀</sup> <sub>A lesson that Microsoft itself taught to others, as recounted in my [Lotus&nbsp;notes](../../../../../README+/pencraft/README+/opuses/LN-view.md).</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🥀</sup> <sub>A lesson that Microsoft itself taught to others, as recounted in my [Lotus&nbsp;notes](../../../../../README+/pencraft/README+/opuses/freestyle/LN-view.md).</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🏗️</sup> <sub>Visual Studio 2010, fresh [re-built in WPF]((https://devblogs.microsoft.com/visualstudio/wpf-in-visual-studio-2010-part-1-introduction)<sup>🔗</sup>), then supplemented with novel Blend are clear-cut hits  and role models.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👜</sup> <sub>Windows is still much COM, and MS Office means giant stacks of C++ and Objective&nbsp;C, reckless to re-write.</sub>
 
@@ -22,7 +22,7 @@ Since the early 2010s, Microsoft has neither ported nor created any significant 
 There's no state-of-the-art MVVM backbone from Microsoft that could spare much dev time and encourage teams to select this subsystem.
 Free first-class cliparts, galleries, and libraries of user controls are scattered if available at all.
 
-Commercial frameworks offer superb high-level boilerplate, but Microsoft could allure even more developers if `New-Project` could propose template wizard: Editor, Drawing, Studio (code, CAD i.a.), Messenger etc.
+Commercial frameworks offer superb high-level boilerplate, but Microsoft could allure even more developers if `New-Project` could propose a template wizard: Editor, Drawing, Studio (code, CAD i.a.), Messenger etc.
 
 ## XAML
 
@@ -62,7 +62,7 @@ XML-based languages are bulky by their origin and XAML goes even further. Many n
 ### Shortfall
 
 Out-of-the-box converters are occasional and literally undeveloped. 
-Not to sound unfounded that is what I would expect from subsystems creators: [Bool-to-Visibility](https://github.com/Kyriosity/use-dev/blob/main/README+/snippets/wpf/bool2viz_improved.md).
+Not to sound unfounded, but that is what I would expect from subsystem creators ➡️ [Bool-to-Visibility](https://github.com/Kyriosity/use-dev/blob/main/README+/snippets/wpf/bool2viz_improved.md).
 
 
 ### Soft-pedalling of errors
