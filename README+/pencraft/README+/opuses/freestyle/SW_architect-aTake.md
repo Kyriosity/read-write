@@ -2,7 +2,7 @@
 
 # Finding Software Architect
 
-<p dir=rtl><b><mark>".I am the Architect"</mark></b><br />🎦&nbsp;<i>The Architect</i><br/>fictitious character of)<br/>(<i>The Matrix Reloaded</i></p>
+<p dir=rtl><mark>"<b>.I am the Architect</b>"</mark><br />🎦&nbsp;<i>The Architect</i><br/>fictitious character of)<br/>(<i>The Matrix Reloaded</i></p>
 
 *Software architecture*, whatever it means, is formalizable and veritable as a product, but not as an exercise. 
 
@@ -24,17 +24,15 @@ Architecture/Design of constructions and software has much in common. Both must 
 
 Both must accumulate practices and reveal patterns.
 
-Without a good plan, both will end up as a disastrous mess that will sooner or later loudly crash.
+Without solid planning, both will end up as a disastrous MESS that will sooner or later loudly crash.
 
-The diversity is much greater.
+Diversities are larger.
 
-### Deltas
+### Radical odds
 
-First, software is too fluid, and dynamic compared to static structures. 
+First, software is too fluid, and dynamic compared to static structures. The thinker who found "Architecture is frozen music"<sup>🎼</sup> would see software as "unleashed gala symphonic cacophony [under the circus tent]".
 
-The philosopher<sup>🎼</sup> who remarked "Architecture is frozen music" would find software as "GRAND GALA of symphonic cacophony MARATHON on 💊💊💊 under the circus tent".
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>Arthur Schopenhauer (1788-1860), falsely attributed to Johann Wolfgang von Goethe (1749-1832).\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>Arthur Schopenhauer (1788-1860), also missattributed to Johann Wolfgang von Goethe (1749-1832).\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full original quote: _Architektur ist gefrorene Musik. (Möge es immer beschwingt und harmonisch zugehen in diesem Haus!)_</sub>
 
 The lifecycle of construction is much longer.
@@ -64,7 +62,7 @@ First, *software architect* sounds cool. Then it may mean a permanent transit to
 * _lead_/_senior developer_,
 * _consultant_, _tutor_, or _technology evangelist_, proposing blueprints for the solution,
 * "librarian-navigator", somebody with the utmost knowledge of the project,
-+ _computer scientist_.
+* geeks from _computer science_.
 
 ### Jack of all trades
 
