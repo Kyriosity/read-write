@@ -11,7 +11,7 @@ However, staying fit with C# is reasonable and feasible. Releases of .NET are cu
 Devoted bloggers<sup>👨‍👩‍👧‍👦</sup> are greatly at separating the wheat from the chaff, and IDEs hint at new features<sup>🙋‍♂️</sup>.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I won't recommend any since this must be a personal experience, selection of the active and a matter of taste. Except the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🔗</sup>.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup> <sub>Revealing [CallerArgumentExpressions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression)<sup>🔗</sup> urged me to rewrite [exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcExt/Errors).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup> <sub>Revealing [`CallerArgumentExpressions`](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression) urged me to rewrite [exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcExt/Errors).</sub>
 
 ## Predicates and delegates as arguments
 
@@ -46,7 +46,7 @@ static void CalcHard(int nat) {
 
 LINQ is so great and practical that it's the first thing C# developers miss when coding in other languages.<sup>:large_blue_diamond:</sup>
 
-However, even its addicts may be unfamiliar with many tenable features. I myself knew about 
+However, even its addicts may be unfamiliar with many tenable features. I knew about 
 [`OfType`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.oftype) vs. 
 [`Cast`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.cast), 
 [`Zip`](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.zip) obscenely later than I must have used them.
@@ -88,5 +88,5 @@ Along with another abstraction `IValueTaskSource` it's a choice over `Task` for 
 There must be other useful but neglected parts, features, and syntax of C# and its subsystem, that you may know and contribute to this document.
 
 Besides definitely underused parts there are\
-|--- [Parts in shade](cs-shadow_parts.md)\
-|--- Obsolete/bad parts, features, and [malpractices](../cs-malpractice.md) 
+|--- [Parts in shade](parts/cs-shadow_parts.md)\
+|--- Obsolete/bad parts, features, and [malpractices](cs-malpractice.md) 
