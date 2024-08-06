@@ -4,7 +4,9 @@
 
 # Rationale
 
-Software is a unique product: it's pure abstraction but bound to 100% 
+Software is a unique product: it's pure abstraction but ground to 100% realization in bits (maybe cubits someday).
+
+YOU MAY LIVE HAPPY without thinking. BUT SYSTEMIZE
 
 Is there an abstraction of abstraction? Yes, formalization of software.
 
@@ -12,7 +14,7 @@ Each sophisticated matter deserves its study: universe (cosmology), mathematics 
 
 Even if the subject of the activity (as software) is mundane, the restricted reflection never harms especially when intended for practical rewards.
 
-Software is descriptive and agile formalization and coding of variegated extrinsic concepts. It's no way manufacturing and far more abstractive than similar electronics, mechanical engineering, or building.
+Software is descriptive and agile formalization and coding of variegated extrinsic concepts. It's in no way manufacturing and far more abstractive than similar electronics, mechanical engineering, or building.
 
 Being a multilevel imagination, fastly implemented over digits and their calculations, the software renders enormous space for utilitarian phantasies and alternativeness of solutions.
 
