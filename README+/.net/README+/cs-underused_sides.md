@@ -8,9 +8,9 @@ C# evolves swiftly with regular and rich releases, but not every developer is an
 
 However, staying fit with C# is reasonable and feasible. Releases of .NET are cumulative and stable; besides new syntax and structures, they bring more performance, and security with longer support. 
 
-Devoted bloggers<sup>👨‍👩‍👧‍👦</sup> are greatly at separating the wheat from the chaff, and IDEs hint at new features<sup>🙋‍♂️</sup>.
+Devoted bloggers and speakers<sup>👨‍👩‍👧‍👦</sup> are greatly at separating the wheat from the chaff, and IDEs hint at new features<sup>🙋‍♂️</sup>.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I won't recommend any since this must be a personal experience, selection of the active and a matter of taste. Except the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🔗</sup>.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I won't recommend any since this must be a personal experience, selection of the active and a matter of taste. Except for the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🔗</sup> and Mads Torgersen (if he needs a presentation).</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup> <sub>Revealing [`CallerArgumentExpressions`](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression) urged me to rewrite ➡️[exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcExt/Errors).</sub>
 
 ## Predicates and delegates as arguments
