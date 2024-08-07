@@ -5,6 +5,10 @@
 
 🚧🚧🚧 ... DRAFT in progress ... 🚧🚧🚧
 
+CONTRA FORCES
+
+COMMUNICATION IS EVERYTHING
+
 
 # Wrap up
 
