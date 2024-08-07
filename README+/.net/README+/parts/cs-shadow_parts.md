@@ -14,12 +14,13 @@ Sure, event/stream-based development isn't for every use and its paradigm requir
 * Messaging. In evolved scenarios, you may like to group messages or give a grace period to revoke one.
 * Hardware. Dealing with APIs, you may deal with physical effects and remedies (e.g., bouncing switches).
 
-## Aliases -- explicit/implicit extensions
+## Explicit extensions
 
-The [proposal](https://github.com/dotnet/csharplang/blob/main/proposals/extensions.md) by Mads Torgersen himself intercepts much with inheritance and shall be used with care.
+The [proposal](https://github.com/dotnet/csharplang/blob/main/proposals/extensions.md) by Mads Torgersen himself intercepts much with inheritance and shall be used with care for pure functional logics.
 
 ```csharp
-public extension Customer for DataObject {
+/// since C# 13
+public explicit extension Customer for DataObject {
   ///... extra props and methods
 }
 ```
