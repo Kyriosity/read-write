@@ -27,21 +27,19 @@
 🥨<a href="README+/pencraft/README+/opuses/coll/IT_quotes-1.md">Quotes</a>
      </td>
 </tr><tr></tr><tr><td>
-    <a href="README+/.net/"><b>C#.NET</b></a><br/>
-                &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>
-      &nbsp;➰&nbsp;
-           <a href="README+/.net/README+/cs-lacks.md">Lacks</a><br/>
-             &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-malpractice.md">Malpractices</a>&nbsp;➗&nbsp;
-                      <a href="README+/.net/README+/cs-hints.md"><mark>Hints</mark></a>
-   <br/>
+<a href="README+/.net/"><b>C#.NET</b></a><br/>
+&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;➰&nbsp;
+<a href="README+/.net/README+/cs-lacks.md">Lacks</a>&nbsp;➗&nbsp;
+  <a href="README+/.net/README+/cs-hints.md"><mark>Hints</mark></a>
+ <br/>
+&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-malpractice.md">Malpractices</a>&nbsp;➗&nbsp;<a href="README+/.net/README+/cs-feat_underused.md">Underused</a>
+ <br />
      <b>♯</b>&nbsp;<b>Sides/Parts</b>
    <br/>
-       &nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-feat_underused.md">Underused</a> ➕&nbsp;
-             <a href="README+/.net/README+/parts/cs-lacks-parts.md">Nice to have</a><br/>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➕&nbsp;<a href="README+/.net/README+/parts/cs-shadow_parts.md">In shadow</a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/parts/cs-lacks-parts.md">Nice to have</a>&nbsp;➕&nbsp;<a href="README+/.net/README+/parts/cs-shadow_parts.md">In shadow</a><br/>
      💠&nbsp;<a href="README+/.net/README+/wpf"><b>WPF</b></a><br/>
       <br/>
-     <b><a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Design decisions</a></b> ➡️&nbsp;<i>use-dev</i>
+     ➡️<b><a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Design decisions</a></b>&nbsp;<i>use-dev</i>
 </td><td>
       <p><a href="README+/.net/">
           <img src="/README+/_rsc/_img/memes/IT_is_waterfall.jpg" alt="then IT must be a waterfall" /></a><p>
