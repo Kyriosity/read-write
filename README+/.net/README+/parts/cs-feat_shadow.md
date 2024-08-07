@@ -1,4 +1,4 @@
-# C# - Parts in shade
+# C# - Features and parts in shade
 
 Contrary to [underused parts](cs-underused_sides.md) these shaded parts (good or not) are specific and a developer may never need to use one. However one must be aware of them to use on demand or compare with a custom realization.
 
@@ -16,7 +16,9 @@ Sure, event/stream-based development isn't for every use and its paradigm requir
 
 ## Explicit extensions
 
-The [proposal](https://github.com/dotnet/csharplang/blob/main/proposals/extensions.md) by Mads Torgersen himself intercepts much with inheritance and shall be used with care for pure functional logics.
+[Proposal](https://github.com/dotnet/csharplang/blob/main/proposals/extensions.md) of Mads Torgersen himself divides extensions for implicit and explicit.
+
+The former is just a better syntax for extension methods. The latter intercepts much with inheritance and shall be used with care for pure functional logic.
 
 ```csharp
 /// since C# 13
