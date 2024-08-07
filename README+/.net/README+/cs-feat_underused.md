@@ -18,7 +18,7 @@ Devoted bloggers and speakers<sup>👨‍👩‍👧‍👦</sup> are greatly at
 Among other features, two may be used fresh from the oven.
 
 + `using` aliases improved: 1) full qualification not required for imported namespaces, 2) generics supported.
-+ `extension` keyword (`explicit` and `implicit`): good to replace clumsy extension methods with `this`. 
++ `extension` keyword (`explicit` and `implicit`): 1) good to replace clumsy extension methods with `this`, 2) properties supported.
 
 ## Predicates and delegates as arguments
 
