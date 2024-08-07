@@ -20,7 +20,7 @@
      <a href="README+/software/QA/README+/tests-pitfalls.md">Tests pitfalls</a>
      <br /> <br />
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
-      🥱&nbsp;<a href="README+/pencraft/README+/opuses">Opuses</a>
+      🥱&nbsp;<a href="README+/pencraft/README+/opuses/freestyle">freestyle</a>
      &nbsp;
 🪝<a href="README+/pencraft/README+/opuses/coll/IT_memes-1.md">Memes</a>
            &nbsp;
