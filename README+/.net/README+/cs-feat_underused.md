@@ -10,8 +10,15 @@ However, staying fit with C# is reasonable and feasible. Releases of .NET are cu
 
 Devoted bloggers and speakers<sup>👨‍👩‍👧‍👦</sup> are greatly at separating the wheat from the chaff, and IDEs hint at new features<sup>🙋‍♂️</sup>.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I won't recommend any since this must be a personal experience, selection of the active and a matter of taste. Except for the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🔗</sup> and Mads Torgersen (if he needs a presentation).</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I won't recommend any since this must be a personal experience, selection of the active and a matter of taste. Except for the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🔗</sup> and Mads Torgersen (the first to announce novelties officially).</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup> <sub>Revealing [`CallerArgumentExpressions`](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression) urged me to rewrite ➡️[exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcExt/Errors).</sub>
+
+### C#13.NET9 (2024)
+
+Among other features, two may be used fresh from the oven.
+
++ `using` aliases improved: 1) full qualification not required for imported namespaces, 2) generics supported.
++ `extension` keyword (`explicit` and `implicit`): good to replace clumsy extension methods with `this`. 
 
 ## Predicates and delegates as arguments
 
