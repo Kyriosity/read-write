@@ -46,9 +46,7 @@ Axes of e**X**pansion and complexit**Y** will tear this patchwork.
 
 <sub>This said not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or gaming engine) but challenges beyond the ordinary: new LOB, newSYN0 domains (such as CAD or ASYNC), or cutting-edge modules (EXAMPLE).</sub>
 
-### ... opening
-
-_Arc Deco_ IMAGE
+### ... opening _Arc Deco_
 
 These threats give us legitimate space for the metaphysics of software. 
 To distinguish the survey following (at least for the file system) I couldn't find a better tag but a mocking acronym - 
