@@ -10,13 +10,11 @@ Any sophisticated matter deserves its study: universe -> cosmology, mathematics 
 
 Software is a VERY unique product: pure miltilevel abstraction but ground to 100% hardware realization in BINARY bits (or qubits someday).
 
-THESE abstractions CONTRA  formalizes concept from ALIEN domains.
+THESE abstractions CONTRA  formalize concepts from ALIEN domains: be it exact science or entertainment.
 
 YOU MAY LIVE HAPPY without thinking. BUT SYSTEMIZE
 
 Is there an abstraction of abstraction? Yes, formalization of software.
-
-Each 
 
 Even if the subject of the activity (as software) is mundane, the restricted reflection never harms especially when intended for practical rewards.
 
