@@ -40,9 +40,9 @@ Many projects' modest size lifetime with banality and, most importantly, isolate
 
 Axes of e**X**pansion and complexit**Y** will tear this patchwork.
 
-**X**: Coercive resource scaling against "horizontal" growth will deliver a kludge - coupled horribly and getting harder and more expensive to evolve and maintain, with little rational heritage (except how not to do it).
+**X**: Coercive resource scaling against "horizontal" growth will deliver a kludge PILE - coupled horribly and getting harder and more expensive to evolve and maintain, with little rational heritage (except how not to do it).
 
-**Y**: Stacking design decisions (as they come) against towering abstractions will build a tumble. The chaos (inherent to the making of software) will become unmanageable at a certain height. 
+**Y**: Stacking design decisions (as they come) against towering abstractions will build a NEUSTICHEVYI tumble. The chaos (inherent to software) will become unmanageable at a certain height. 
 
 <sub>This said not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or gaming engine) but challenges beyond the ordinary: new LOB, newSYN0 domains (such as CAD or ASYNC), or cutting-edge modules (EXAMPLE).</sub>
 
