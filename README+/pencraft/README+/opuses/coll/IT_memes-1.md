@@ -85,7 +85,7 @@ It's normal to neglect a sorting algorithm implementation (that a platform provi
   <img alt="The year 1956: loading an IBM disk to rent" src="../../../../_rsc/_img/photo/hist/IBM350_1956.jpg" />
 </picture><br/><br/>
 
-### 🗃️ Universal storage ever
+### 🗃️ Universal storage ever -- but how did `Find` work there?
 
 [![Punch cards in 1960s](../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)](../freestyle/punchcard.md)\
 A stack of punch cards for a casual program.
