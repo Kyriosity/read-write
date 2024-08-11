@@ -11,7 +11,7 @@ Let's begin with contours, intentionally left not annotated to defy the reader's
 
 <details>
   <summary>🖼️<b><ins>&nbsp;Big outline&nbsp;</ins></b></summary>
-<picture><br/><img alt="Arc Deco - Big Picture - outline" src="../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-outline.jpg" /></picture>
+<picture><br/><img alt="Arc Deco - Big Picture - outline" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-outline.jpg" /></picture>
 
 </details>
 
@@ -22,7 +22,7 @@ The <mark>"tearing X and Y axes"</mark> in the intro were a two-dimension simpli
 
 <details>
   <summary>🖼️<b><ins>&nbsp;Forces annotated&nbsp;</ins></b></summary
-<picture><br/><img alt="Arc Deco - Forces annotated" src="../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-forces_annotated.jpg" /></picture>
+<picture><br/><img alt="Arc Deco - Forces annotated" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-forces_annotated.jpg" /></picture>
 
 </details>
 

@@ -35,7 +35,9 @@ First, software is fluid, and dynamic compared to static constructions. The thin
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>Arthur Schopenhauer (1788-1860), also missattributed to Johann Wolfgang von Goethe (1749-1832).\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full original quote: _Architektur ist gefrorene Musik. (Möge es immer beschwingt und harmonisch zugehen in diesem Haus!)_</sub>
 
-The timescale of software isn't only much DENSER, YOUND but EXPLODING. IT will be naive to keep templates, patterns as STABLE.
+The lifecycle of construction is much longer. Changes in SW are much more fluent.
+
+Architecture results in masterpiece buildings and indistinctive typical constructions. The latter isn't for IT, where even tailoring the existing software isn't development.
  
 
 
@@ -56,7 +58,9 @@ A determined person or board in high-pro fixed teams may rely on communication B
 
 Reputable software manufacturers hire _architects_, and they are the central figures at many IT events, there's certification after all.
 
-First, *software architect* sounds cool. Then it may mean a permanent transit to a level over developers but still tech. It may be just a dream of one enlightened to draw beautiful top diagrams without digging in the dirty code. It's often an alias for these posts and duties:
+First, *software architect* sounds cool. Better than _mastermind_, or _dev lord_, that it means.
+
+Maybe the title expresses a dream of one being enlightened to draw top diagrams unchained of the dusty code. It's often an alias for these posts and duties:
 
 * _domain expert_ or _business analyst_, who boils down requirements to systematic description,
 * _team lead_ or _project manager_,

@@ -75,18 +75,19 @@ It's normal to neglect a sorting algorithm implementation (that a platform provi
 <details>
 <summary><ins>&nbsp;<b>Historic snapshots</b>&nbsp;</ins></summary>
 
-### :cd: When disks were indeed hard and strong skills in IT were obvious...
+### :cd: When disks were indeed hard and strong skills in IT were in no way exaggerated requirements...
 
 <picture><img alt="The year 1956: loading an IBM disk to rent" src="../../../../_rsc/_img/photo/hist/IBM350_1956.jpg" /></picture><br/><br/>
 
-### 🗃️ Universal storage ever
+### 🗃️ How did `Find` and `Paste` work there? 
 
-[![Punch cards in 1960s](../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg)](../freestyle/punchcard.md)\
-A stack of punch cards for a casual program.
+<picture><img alt="LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" /></picture><br/>
+
+A stack of punch cards for a casual program. I'm proud to have a [little experience](../freestyle/punchcard.md) of dealing with them
 
 ### Full self-drive "next year" since 2014? 1957!
 
-<picture><img alt="LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../../_rsc/_img/snap/media/1957.02.25_LIFE_Page8_FSD.jpg" /></picture><br/><br/>
+<picture><img alt="LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../../_rsc/_img/snap/media/1957.02.25_LIFE_Page8_FSD.jpg" /></picture><br/>
 
 > ELECTRICITY MAY BE THE DRIVER. One day your car may speed along an electric highway, its speed and steering automatically controlled by electronic devices embedded in the road.\
 _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
@@ -114,7 +115,9 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 [![AI: 1500s vs 2020s](../../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](../freestyle/AI-2020s.md)
 
-P.S. I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
+<sub>Answer: Homunculus shows the middle finger on the left hand.</sub>
+
+<mark>P.S.</mark> I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
 
 ---
 
