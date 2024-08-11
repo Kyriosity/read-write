@@ -30,21 +30,22 @@ Diversities are larger.
 
 ### Radical odds
 
-First, software is too fluid, and dynamic compared to static structures. The thinker who found "Architecture is frozen music"<sup>🎼</sup> would see software as "unleashed gala symphonic cacophony [under the circus tent]".
+First, software is fluid, and dynamic compared to static constructions. The thinker who found "Architecture is frozen music"<sup>🎼</sup> would see software as "unleashed gala symphonic cacophony [under the circus tent]".
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>Arthur Schopenhauer (1788-1860), also missattributed to Johann Wolfgang von Goethe (1749-1832).\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full original quote: _Architektur ist gefrorene Musik. (Möge es immer beschwingt und harmonisch zugehen in diesem Haus!)_</sub>
 
-The lifecycle of construction is much longer.
-
-Architecture results in masterpiece buildings and indistinctive typical constructions. The latter isn't for IT, where even tailoring the existing software isn't development.
+The timescale of software isn't only much DENSER, YOUND but EXPLODING. IT will be naive to keep templates, patterns as STABLE.
  
- MUST BRING from  the aesthetic value to ART. NO Pantheon.
 
 
 ### Hypothesis
 
 This said the software is least suitable for pure architects. 
+
+One can't IMAGIMNE an arch zameshivauishivaego BETON, SOPROMAT.
+
+One who doesn't deal with code
 
 IF NO_CODE THEN ELSE_IF CODE THEN
 
@@ -78,6 +79,8 @@ Building are multifaceted but domains of SW even more.
 Architecture and design are synergies of 
 
 Architecture artifacts rest on collective development.
+
+MULTILEVEL and KNOW THE PREV LEVEL
 
 And let's salt all this with a bitter reminder that most projects are application of known arthitectural solutions with decent contribution. Much arch and desing solition are already solved in languages and platforms.
 

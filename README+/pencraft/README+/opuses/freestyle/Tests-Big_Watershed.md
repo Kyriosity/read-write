@@ -1,6 +1,6 @@
 # Coverage and Drives - Big Watershed of Tests
 
-🚧🚧🚧 WORK in PROGRESS 🚧🚧🚧
+🚧:pen:🚧 WORK in PROGRESS 🚧:brush:🚧
 
 > SPOILER❗**Write-first test coverage shall not drive design while design tests shall not cover functionality to develop.**\
 <sub>This simple revelation struck me at a lecture on TDD when I realized that the last D is not for **D**esign but **D**evelopment.</sub>
@@ -12,3 +12,5 @@ TDDx
 
 ToDo: port stripes to Pencraft
 
+
+Diff treatment of DOUBLES

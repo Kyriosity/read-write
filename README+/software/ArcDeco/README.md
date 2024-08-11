@@ -31,9 +31,7 @@ Abstraction/math/logic and artistic skills, <br />domain expertise, and creativi
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** are tied, overlapping, and loosely-ordered role-driven processes.
 
 Many projects' modest size lifetime with banality and, most importantly, isolated work on them will shrink the pie to a bar, ... ⬇️\
-<picture>
-  <img alt="Arc view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" />
-</picture>\
+<picture><img alt="Arc view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" /></picture>\
 ⬆️... making more theorizing wiredrawn.
 
 ### ... but ...

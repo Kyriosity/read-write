@@ -12,10 +12,9 @@
 ---
 
 
+Remember that our patchwork demonstratively overlaps motley **stripes**<sup>📚</sup> with gradient transition? This means ...
 
-Remember that our patchwork demonstratively overlaps motley gradient **stripes**.<sup>📚</sup> This means ...
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>>📚</sup> <sub>Synonymic ***tiers*** and **layers**** are already strongly associated with practical architecture/design.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>📚</sup> <sub>Synonymic ***tiers*** and **layers**** are already strongly associated with practical architecture/design.</sub>
 
 In general Let's divide first into two tiers: coding vs. development (closer to the keyboard) and Design Architecture (from the keyboard to thoughts)
 

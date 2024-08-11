@@ -4,7 +4,7 @@
 
 # Rationale
 
-Any sophisticated matter deserves its study: universe -> cosmology, mathematics -> philosophy, physics (epistemology), art (theory), building (architecture), excavations (anthropology) ... 
+Any sophisticated matter deserves its study: universe -> cosmology, mathematics -> philosophy, physics -> epistemology, art -> theory, building -> architecture, excavations -> anthropology ... 
 
 ## About
 
