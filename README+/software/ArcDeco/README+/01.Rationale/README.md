@@ -4,11 +4,11 @@
 
 # Rationale
 
-Any sophisticated matter deserves its study: universe -> cosmology, mathematics -> philosophy, physics -> epistemology, art -> theory, building -> architecture, excavations -> anthropology ... 
+Any sophisticated matter deserves its study: universe -> cosmology, mathematics -> philosophy, physics -> epistemology, art -> theory, excavations -> anthropology ... 
 
 ## About
 
-Software is a VERY unique product: pure miltilevel abstraction but ground to 100% hardware realization in BINARY bits (or qubits someday).
+Software is a VERY unique product: pure multilevel abstraction but ground to 100% hardware realization in BINARY bits (or qubits someday).
 
 THESE abstractions CONTRA  formalize concepts from ALIEN domains: be it exact science or entertainment.
 
