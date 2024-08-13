@@ -31,6 +31,9 @@ _Alan Perlis_
 > **Data abstractions provide the same benefits as procedures but for data.**\
 _Barbara Liskov_
 
+> `AND` and `OR` are the basic operations of logic. Together with `NO` they are a complete set of basic logical operations—all other logical operations, **no matter how complex, can be obtained by suitable combinations of these**.\
+_John von Neumann_
+
 > **Without philosophy language design becomes hacking.**\
 _Bjarne Stroustrup_
 
@@ -250,6 +253,8 @@ The EDSAC was on the top floor of the building and the tape-punching and editing
 ### Authors
 
 ### IT Pioneers
+
+***John von Neumann***, _inter alia_ with the widest coverage of mathematics in his time 
 
 ***Grace Hopper***, Grace Brewster Hopper, née Murray (1906-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (which queerly chords with her name).
 
