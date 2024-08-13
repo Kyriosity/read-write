@@ -30,21 +30,24 @@ Abstraction/math/logic and artistic skills, <br />domain expertise, and creativi
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** are tied, overlapping, and loosely-ordered role-driven processes.
 
-Many projects' modest size lifetime with banality and, most importantly, isolated work on them will shrink the pie to a bar, ... ⬇️\
+Many projects' modest size lifetime with banality and, in particular, isolated work on them will shrink the pie to a bar, ... ⬇️\
 <picture><img alt="Arc view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" /></picture>\
 ⬆️... making more theorizing wiredrawn.
 
 ### ... but ...
 
-Axes of e**X**pansion and complexit**Y** will tear this patchwork.
+Axes of e**X**pansion and complexit**Y** may tear this patchwork.
 
-**X**: Coercive resource scaling against "horizontal" growth will add up to a horribly folded pile getting harder and more expensive to evolve and maintain, with little rational heritage (except how not to do it).
+**X**: Coercive resource scaling against "horizontal" growth will add to a horrific pile.\
+(getting harder and more expensive to evolve and maintain, with little rational heritage except how not to do tips)
 
-**Y**: With stacking design decisions (as they come) this pile will begin to fall to pieces at a certain height of abstraction. (The chaos, inherent to software, will become unmanageable.) 
+**Y**: With stacking up design decisions (as they come) this pile will begin to fall to pieces at a certain height of abstraction.\
+(That is, the chaos, inherent to any programming, will become unmanageable.) 
 
-<sup>🙋</sup> <sub>This said not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or gaming engine) but challenges beyond the ordinary: new LOB, unfamiliar domains (such as CAD or interpreters), or cutting-edge modules (original graph network).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>This said not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or gaming engines) but challenges beyond the ordinary:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;new LOB foundation, unfamiliar domains (such as CAD or interpreters), or remakes (original graph base, making async from legacy and dividing modules).</sub>
 
-These threats give us legitimate space for the metaphysics of software. 
+Such menaces encourage us to verbalize the metaphysics of software. 
 
 To distinguish the survey following (at least for the file system) I couldn't find a better tag but a mocking acronym - 
 <picture><img alt="Arc Deco" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" /></picture>
