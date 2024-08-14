@@ -30,7 +30,7 @@ Diversities are larger.
 
 ### Radical odds
 
-First, software is fluid, and dynamic compared to static constructions. The thinker who found "Architecture is frozen music"<sup>🎼</sup> would see software as "unleashed gala symphonic cacophony [under the circus tent]".
+Software is too fluid, and dynamic compared to static structures. The thinker who found "Architecture is frozen music"<sup>🎼</sup> would see software as "unleashed gala symphonic cacophony [under the circus tent]".
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>Arthur Schopenhauer (1788-1860), also missattributed to Johann Wolfgang von Goethe (1749-1832).\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full original quote: _Architektur ist gefrorene Musik. (Möge es immer beschwingt und harmonisch zugehen in diesem Haus!)_</sub>
@@ -39,15 +39,12 @@ The lifecycle of construction is much longer. Changes in SW are much more fluent
 
 Architecture results in masterpiece buildings and indistinctive typical constructions. The latter isn't for IT, where even tailoring the existing software isn't development.
  
+ MUST BRING from  the aesthetic value to ART. NO Pantheon.
 
 
 ### Hypothesis
 
 This said the software is least suitable for pure architects. 
-
-One can't IMAGIMNE an arch zameshivauishivaego BETON, SOPROMAT.
-
-One who doesn't deal with code
 
 IF NO_CODE THEN ELSE_IF CODE THEN
 
@@ -58,9 +55,11 @@ A determined person or board in high-pro fixed teams may rely on communication B
 
 Reputable software manufacturers hire _architects_, and they are the central figures at many IT events, there's certification after all.
 
-First, *software architect* sounds cool. Better than _mastermind_, or _dev lord_, that it means.
+First and above all, *software architect* sounds cool. Not that  than _mastermind_, and more serious than _dev lord_, that it means.
 
-Maybe the title expresses a dream of one being enlightened to draw top diagrams unchained of the dusty code. It's often an alias for these posts and duties:
+Then the title expresses a path of enlightenment of one unchained from the keyboard to draw beautiful top diagrams freed of the digging within dusty codes. 
+
+It's often an alias for these posts and duties:
 
 * _domain expert_ or _business analyst_, who boils down requirements to systematic description,
 * _team lead_ or _project manager_,
@@ -76,7 +75,7 @@ HOW OFTEN TO BE ON THE SPOT?
 * static vs dynamic
 * versatile vs strict
 
-Building are multifaceted but domains of SW even more.
+Building is multifaceted but domains of SW even more.
 
 ## Wrap up
 
@@ -84,9 +83,7 @@ Architecture and design are synergies of
 
 Architecture artifacts rest on collective development.
 
-MULTILEVEL and KNOW THE PREV LEVEL
-
-And let's salt all this with a bitter reminder that most projects are application of known arthitectural solutions with decent contribution. Much arch and desing solition are already solved in languages and platforms.
+And let's salt all this with a bitter reminder that most projects are application of known architectural solutions with decent contributions. Many arch and design solutions are already solved in languages and platforms.
 
 **This essay derives from and contributes to** [![Arc Deco](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software/ArcDeco/).
 
@@ -95,4 +92,4 @@ And let's salt all this with a bitter reminder that most projects are applicatio
 <mark>"**Smith will suffice."**</mark>\
 _Agent Smith_ 🔨
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>quotes by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu)</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>quotes guaranteed by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu)</sub>
