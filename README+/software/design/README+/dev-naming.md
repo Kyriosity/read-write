@@ -1,10 +1,10 @@
-# Software - Naming 
+# Code - Naming 
 
 <p dir="rtl"><i>"...In the beginning was the Word"</div></i></p><br/>
 
-Denomination is a pivotal but underrated and very neglected activity in the realm of software, seen as granted when names and categorization smoothly guide through the design and make coding intuitive. 
+The denomination is a pivotal but underrated and neglected activity in the realm of software, seen as granted when names and categorization smoothly guide through the design and make coding intuitive. 
 
-On the contrary, wading through the thorns of poorly named and labyrinths of poorly categorized code, abatis of docu a developer will curse application complexity, learning curve, technologies used, and fate but not the naming.
+On the contrary, wading through the thorns of poorly named and labyrinths of poorly categorized code, abatis of docu developers will curse application complexity, learning curve, technologies used, and fate but at least the naming.
 
 ## How to...
 
@@ -12,16 +12,16 @@ On the contrary, wading through the thorns of poorly named and labyrinths of poo
 
 ✔️ The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. 
 
-The inevitable and noticeable expenses will pay off with ***lingua franca*** throughout the team and project, and ...
+The inevitable and noticeable expenses will pay off with the formation of ***lingua franca*** throughout the team and project, and ...
   
 + common comprehension of a domain, collaboration, and indeed bound team,
 + genuine design and self-descriptive code,
 + inspiration for behavior/domain-driven design,
 + escape from heaps of docs<sup>📒</sup>,
 + reduced efforts to get into a project for newcomers,
-+ comfy navigation in the source code (even with <kbd>CTRL+F</kbd>).
++ comfy navigation in the source code (incl. <kbd>CTRL+F</kbd>).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team here there aren't developers only but customers, testers, along with end users</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team means not only developers and managers but customers, testers with end users.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📒</sup><sub> reqs/specs, DoU, meetings protocols, and primers - hard to follow but easy to misunderstand or forget but mostly neglected</sub>
 
 ## Categorization
@@ -39,7 +39,7 @@ The higher the level of naming, the more attention.
 
 Name, apply, get feedback, refactor.
 
-There must be at least two with different backgrounds to confirm top names.
+There must be at least two people with different backgrounds to confirm the top names.
 
 # Wrapping up
 
@@ -47,13 +47,13 @@ Even top developers under time pressure and brakes on perfectionism would be bar
 
 I mean that the naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be genuine.
 
-## Appendix 1 (of 2). Guidelines and Verbal Sins 
+## Appendix 1 (of 3). Guidelines and Verbal Sins 
 
 ## Verbal sins
 
 - **Grandiloquence** 
 
-General words will sound vague if not bombastic unless established in the domain. Compare florid `[Fact]` to modest `[TestCase]`. 
+General words sound vague (if not bombastic) unless established in the domain. Compare florid `[Fact]` to modest `[TestCase]`. 
 
 - **Unexpected match** 
 
@@ -67,7 +67,13 @@ General words will sound vague if not bombastic unless established in the domain
 
 🚧 .. TO BE CONTINUED ... 🚧
 
-## Appendix 2 (of 2). Learning from others
+## Appendix 2 (of 2). Pabulum
+
+### Active or passive voice
+
+Document.print(), plotter.Print
+
+## Appendix 3 (of 3). Learning from others
 
 ### Hall of fame
 
