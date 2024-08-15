@@ -1,4 +1,4 @@
-# Code patterns
+# Code - Patterns
 
 The original vision of  *patterns* as code constructs has spread over software templates, project solutions, methodologies, and even developer's manners, but let's stay on its initial meaning.
 
