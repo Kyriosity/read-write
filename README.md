@@ -9,11 +9,11 @@
      &nbsp;➰&nbsp;
       <a href="README+/software/docu/">Docu</a><br/>
       &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/design"><b>Design</b></a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;<a href="README+/software/design/drive">Drive</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;<a href="README+/software/~design/drive">Drive</a>
      &nbsp;➿&nbsp;
-<a href="README+/software/design/README+/dev-naming.md">Naming</a>
+<a href="README+/software/~design/names">Naming</a>
      &nbsp;➿&nbsp;
-     <a href="README+/software/design/README+/design-samples.md">Samples</a><br/>
+     <a href="README+/software/~design/samples">Samples</a><br/>
       &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/QA"><b>QA & Testing</b></a><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
      &nbsp;➿&nbsp;
