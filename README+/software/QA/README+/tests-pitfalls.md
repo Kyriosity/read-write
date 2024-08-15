@@ -14,7 +14,7 @@ NOTE: Test coverage notwithstanding whether it was written first or after the im
 
 ### Test coverage as design drive
 
- [TDD](../../design/tdd-ddd.md) 
+ [TDD](../../~design/drive) 
 
 ### Tests of tests
 
