@@ -1,10 +1,10 @@
-# Code - Naming 
+# Software - Naming and categorization
 
 <p dir="rtl"><i>"...In the beginning was the Word"</div></i></p><br/>
 
-The denomination is a pivotal but underrated and neglected activity in the realm of software, seen as granted when names and categorization smoothly guide through the design and make coding intuitive. 
+The denomination is a pivotal but underrated and neglected activity in every sphere. 
 
-On the contrary, wading through the thorns of poorly named and labyrinths of poorly categorized code, abatis of docu developers will curse application complexity, learning curve, technologies used, and fate but at least the naming.
+In software, it looks like granted when names with categories smoothly guide through the design and make coding intuitive. On the contrary, wading through the thorns of poorly named and labyrinths of badly categorized code, abatis of docu developers will curse application complexity, learning curve, technologies used, and fate but at least the naming.
 
 ## How to...
 
@@ -24,8 +24,9 @@ The inevitable and noticeable expenses will pay off with the formation of ***lin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team means not only developers and managers but customers, testers with end users.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📒</sup><sub> reqs/specs, DoU, meetings protocols, and primers - hard to follow but easy to misunderstand or forget but mostly neglected</sub>
 
-## Categorization
+### Categorization
 
+Categoria
 Naming couldn't be flat - it's an axiom, but categorization in software abstraction has two major challenges
 
 * floating
@@ -33,19 +34,22 @@ Naming couldn't be flat - it's an axiom, but categorization in software abstract
 
 TRAP: Duplicate names in the chain!
 
-## Rules of thumb
 
-The higher the level of naming, the more attention.
+### Guidelines/Rules of thumb
 
-Name, apply, get feedback, refactor.
+* The higher the level of naming, the more attention.\
+It's a routine to comb out    sdfsdf
+* Name, apply, get feedback, refactor.
+* At least two people with different backgrounds must confirm the top names.
+* divide et empera
 
-There must be at least two people with different backgrounds to confirm the top names.
+### Impedance with inherited domain names
+
+// ToDescribe
 
 # Wrapping up
 
-Even top developers under time pressure and brakes on perfectionism would be barely proud of their implementation of naming.
-
-I mean that the naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be genuine.
+Even top teams under time pressure and brakes on perfectionism would be barely proud of their implementation of naming. Then the naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be continuous and genuine.
 
 ## Appendix 1 (of 3). Guidelines and Verbal Sins 
 
