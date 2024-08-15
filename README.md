@@ -1,14 +1,13 @@
 <table>
  <tr valign="top">
     <td>
-      <p><a href="README+/software/ArcDeco">
-          <img src="README+/_rsc/_img/memes/learn_is_swim.jpg" alt="To learn is to swim against the current" /></a><p>
+      <picture><img src="README+/_rsc/_img/memes/learn_is_swim.jpg" alt="To learn is to swim against the current" /><picture>
     </td><td>
      <a href="README+/software/ArcDeco"><b>SOFTWARE</b></a><br/>
       &nbsp;&nbsp;&nbsp;<a href="README+/software/mngmnt">Organization</a>
      &nbsp;➰&nbsp;
       <a href="README+/software/docu/">Docu</a><br/>
-      &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/design"><b>Design</b></a><br/>
+      &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/~design"><b>Design</b></a><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;<a href="README+/software/~design/drive">Drive</a>
      &nbsp;➿&nbsp;
 <a href="README+/software/~design/names">Naming</a>
@@ -41,7 +40,6 @@
       <br/>
      ➡️<b><a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Design decisions</a></b>&nbsp;<i>use-dev</i>
 </td><td>
-      <p><a href="README+/.net/">
-          <img src="/README+/_rsc/_img/memes/IT_is_waterfall.jpg" alt="then IT must be a waterfall" /></a><p>
+      <picture><img src="/README+/_rsc/_img/memes/IT_is_waterfall.jpg" alt="then IT must be a waterfall" /><picture>
      </td>
 </table>
