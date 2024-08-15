@@ -33,7 +33,7 @@ The highest merit is that even a breaking change won't surprise devs and users w
 
 ### Re: Tests 🧪
 
-Test coverage may (and shall) share functionality with [Test-Domain Driven Design](../../design/TDDD) but is intended to mechanically examine software (no matter implemented before the subject or a posteriori).
+Test coverage may (and shall) share functionality with [Test-Domain Driven Design](../../~design/drive) but is intended to mechanically examine software (no matter implemented before the subject or a posteriori).
 
 Efficient, ample test coverage allows only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, and performance testing.
 
