@@ -1,4 +1,4 @@
-# Software - Design
+# Software - Design - Related themes
 
 By *Design* we mean a bridge between the highly abstract and platform/application-agnostic *Architecture* and closer to routine coding *Development*.
 
