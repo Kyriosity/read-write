@@ -82,6 +82,7 @@ Document.print(), plotter.Print
 ### Hall of fame
 
 + Core S[E]QL commands.
++ _Bread crumbling _for navigation - both the idea and name win
 
 ### Hall of shame
 
