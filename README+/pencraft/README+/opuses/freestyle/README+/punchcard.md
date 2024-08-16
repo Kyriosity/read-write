@@ -1,5 +1,7 @@
 # Punched cards - Once upon a time
 
+📝[Pencraft](../../../README.md) -> [Freestyle](../README.md)
+
 > Not another paraphrase of [wiki files](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup>🔗</sup>
 
 <table><tr><td>
