@@ -1,4 +1,4 @@
-# Technical writing
+# Pen & brush craft - Technical writing
 
 It needs not too much description and let's first split the subject:
 
