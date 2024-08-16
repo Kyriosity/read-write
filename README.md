@@ -5,12 +5,12 @@
     </td><td>
      <a href="README+/software/ArcDeco"><b>SOFTWARE</b></a><br/>
       &nbsp;&nbsp;&nbsp;<a href="README+/software/mngmnt">Organization</a>
-     &nbsp;➰&nbsp;
+     &nbsp;➰&nbsp;<a href="README+/software/~design/names">Naming</a>
+     &nbsp;➿&nbsp;
       <a href="README+/software/docu/">Docu</a><br/>
+     &nbsp;&nbsp;
       &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/~design"><b>Design</b></a><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;<a href="README+/software/~design/drive">Drive</a>
-     &nbsp;➿&nbsp;
-<a href="README+/software/~design/names">Naming</a>
      &nbsp;➿&nbsp;
      <a href="README+/software/~design/samples">Samples</a><br/>
       &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/QA"><b>QA & Testing</b></a><br/>
