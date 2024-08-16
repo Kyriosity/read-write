@@ -113,7 +113,7 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 ![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
 
-[![AI: 1500s vs 2020s](../../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](../freestyle/AI-2020s.md)
+[![AI: 1500s vs 2020s](../../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](../freestyle/README+/AI-2020s.md)
 
 <sub>Answer: Homunculus shows the middle finger on the left hand.</sub>
 

@@ -23,9 +23,9 @@ Regardless of missions, any tech writing is an expensive and exhausting exercise
 |- Technical illustration 🚧 // will be written when I finally master the pen tablet
 
 + Freestyle:\
-|- [AI 2020s - much ado about?](README+/opuses/freestyle/AI-2020s.md)\
-|- [In memory of Lotus Notes](README+/opuses/freestyle/LN-view.md)\
-|- [Punchcards - once upon a time](README+/opuses/freestyle/punchcard.md)
+|- [AI 2020s - much ado about?](README+/opuses/freestyle/README+/AI-2020s.md)\
+|- [In memory of Lotus Notes](README+/opuses/freestyle/README+/LN-view.md)\
+|- [Punchcards - once upon a time](README+/opuses/freestyle/README+/punchcard.md)
 
 + Collections\
 |- [IT memes](README+/opuses/coll/IT_memes-1.md),\
