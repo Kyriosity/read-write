@@ -37,7 +37,7 @@
      <b>♯</b>&nbsp;<b>Sides/Parts</b>
    <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/parts/cs-lacks-parts.md">Nice to have</a>&nbsp;➕&nbsp;<a href="README+/.net/README+/parts/cs-feat_shadow.md">In shadow</a><br/>
-  <b>&gt;</b>&nbsp;<a href="README+/.net/README+/wpf"><b>WPF</b></a><br/>
+  🪟&nbsp;<a href="README+/.net/README+/wpf"><b>WPF</b></a><br/>
       <br/>
      <b><a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">DESIGN DECISIONS</a></b>&nbsp;➡️<code>use-dev</code>
 </td><td>
