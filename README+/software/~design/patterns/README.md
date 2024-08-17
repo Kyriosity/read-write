@@ -30,4 +30,4 @@ Keen developers will intuitively follow design patterns even if they are unaware
 
 **Going further:**\
 |- Design principles and methodlogies\
-|--- [reviewed SOLID](../../../pencraft/README+/opuses/contraSOLID.md) 🚧
+|--- [reviewed SOLID](../../../pencraft/README+/opuses/freestyle/README+/contraSOLID.md) 🚧
