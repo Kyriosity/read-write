@@ -1,29 +1,30 @@
 <table>
  <tr valign="top">
     <td>
-      <picture><img src="README+/_rsc/_img/memes/learn_is_swim.jpg" alt="To learn is to swim against the current" /><picture>
+      <picture><img src="README+/_rsc/_img/memes/learn_is_swim.jpg" alt="If to learn is to swim against the current ..." /><picture>
     </td><td>
      <a href="README+/software/ArcDeco"><b>SOFTWARE</b></a><br/>
-      &nbsp;&nbsp;&nbsp;<a href="README+/software/mngmnt">Organization</a>
-     &nbsp;➰&nbsp;<a href="README+/software/~design/names">Naming</a>
-     &nbsp;➿&nbsp;
-      <a href="README+/software/docu/">Docu</a><br/>
-     &nbsp;&nbsp;
-      &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/~design"><b>Design</b></a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;<a href="README+/software/~design/drive">Drive</a>
-     &nbsp;➿&nbsp;
+     &nbsp;&nbsp;<a href="README+/software/~design/names">Names</a>
+     ➰
+      <a href="README+/software/docu/">Docu</a>
+     ➰
      <a href="README+/software/~design/samples">Samples</a><br/>
-      &nbsp;&nbsp;<b>></b>&nbsp;<a href="README+/software/QA"><b>QA & Testing</b></a><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
-     &nbsp;➿&nbsp;
+     <div dir="rtl"><a href="README+/software/~design/"><b>...<i>all design notes</i></b></a></div>
+      &nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
+    ➿
      <a href="README+/software/QA/README+/tests-pitfalls.md">Tests pitfalls</a>
-     <br /> <br />
+     <p dir="rtl">...more QA & tests</p>
+     <p>&nbsp;&nbsp;
+     <a href="README+/software/~design/drive">Drive</a>
+     ➿
+     <a href="README+/software/mngmnt">Organization</a>
+     </p>
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       🥱&nbsp;<a href="README+/pencraft/README+/opuses/freestyle/README.md">freestyle</a>
      &nbsp;
-🪝<a href="README+/pencraft/README+/opuses/coll/IT_memes-1.md">memes</a>
+🪝<a href="README+/pencraft/README+/opuses/memes">memes</a>
            &nbsp;
-🥨<a href="README+/pencraft/README+/opuses/coll/IT_quotes-1.md">quotes</a>
+🥨<a href="README+/pencraft/README+/opuses/quotes">quotes</a>
      </td>
 </tr><tr></tr><tr><td>
 <a href="README+/.net/"><b>C#.NET</b></a><br/>
@@ -40,6 +41,6 @@
       <br/>
      <b><a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">DESIGN DECISIONS</a></b>&nbsp;➡️<code>use-dev</code>
 </td><td>
-      <picture><img src="/README+/_rsc/_img/memes/IT_is_waterfall.jpg" alt="then IT must be a waterfall" /><picture>
+      <picture><img src="README+/_rsc/_img/memes/IT_is_waterfall.jpg" alt="... then IT must be a waterfall" /><picture>
      </td>
 </table>
