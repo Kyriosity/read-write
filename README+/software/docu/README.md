@@ -32,7 +32,7 @@ Exploring source codes of prominent providers on GitHub or elsewhere you'll find
 \____________________________________
 </details>
 
-One other distinct and legitimate niche is [comment-driven development](en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. Further options can be worth deliberation as:
+One other distinct and legitimate niche is [comment-driven development](https://en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. Further options can be worth deliberation as:
 
 * Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation).\
 <sub>The automation of this idea may stumble on implementation and maintenance expenses.</sub>
@@ -52,7 +52,7 @@ One other distinct and legitimate niche is [comment-driven development](en.wikip
 
 ## Recording ⏺️ design ⏹️
 
-[Quality code](../QA/code-quality.md) reads well, peculiarly when a well-thought-of test plan guides the investigators. And nothing is better for reverse engineering than source code. 
+[Quality code](../QA/README+/code-quality.md) reads well, peculiarly when a well-thought-of test plan guides the investigators. And nothing is better for reverse engineering than source code. 
 This approach solus becomes exponentially harder and will not reveal remarkable design/architecture intentions. It's warped to unfold the big canvas of abstractions.
 
 In practice, the code will be partly or greatly obscure and tests will lack clarity and seamless categorization. 
