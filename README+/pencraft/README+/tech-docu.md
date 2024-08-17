@@ -6,7 +6,9 @@ Before writing from the ground up, I would search and try to adapt the following
 
 ### Similar writing
 
-Any previous version, description of a similar product, any freeware pattern. It could even be a borrowed _magnum opus_, the owner of which may permit "plagiarism" just for reference and thanks.
+Any previous version, description of a similar product, or freeware templates. 
+
+Reading other works may inspire but not for plagiarism.
 
 ### Requirements
 
@@ -19,7 +21,7 @@ A tracking system may collect and generate documentation with a pleasant degree 
 ## Some guidelines to contribute
 
 + First and foremost, the less docu covers essentials the better for all (unless the subject deserves its own wiki). 
-+ **Split the flow.** Long-running sentences, paragraphs, and sections are first-degree misdemeanors.
++ **Split the flow.** Long-running sentences, paragraphs, and chapters are first-degree misdemeanors.
 + Except for citations use quotation marks for metaphors while _italic_ to introduce terms. Example:
 > To compare _multitasking_ vs. _parallelism_ imagine the CPU being a "kitchen" where a quick cook vs. an orderly brigade can prepare the same courses.
 
@@ -34,7 +36,8 @@ Don't anticipate much from IT leaders but must-know hints and rules:
 
 ### Tools
 
-[Grammarly](https://app.grammarly.com/apps) - swift and sweet multi-language check in browsers.\
-[Merriam-Webster](https://m-w.com) - which appeared on the Web just at the beginning and still looks cool.\
++ [Grammarly](https://app.grammarly.com/apps) - swift and sweet multi-language check in browsers.
++ [Merriam-Webster](https://m-w.com) - good old English dictionary which appeared on the Web just at the beginning and still looks cool.
++ [Britannica](https://www.britannica.com/topic/ampersand) - the same
 
-🔚
+🔚 :crescent_moon:2024
