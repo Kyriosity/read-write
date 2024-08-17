@@ -95,5 +95,5 @@ Along with another abstraction `IValueTaskSource` it's a choice over `Task` for 
 There must be other useful but neglected parts, features, and syntax of C# and its subsystem, that you may know and contribute to this document.
 
 Besides definitely underused parts there are\
-|--- [Parts in shade](parts/cs-shadow_parts.md)\
+|--- [Parts in shade](parts/cs-feat_shadow.md)\
 |--- Obsolete/bad parts, features, and [malpractices](cs-malpractice.md) 
