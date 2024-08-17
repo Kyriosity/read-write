@@ -9,11 +9,11 @@
       <a href="README+/software/docu/">Docu</a>
      ➰
      <a href="README+/software/~design/samples">Samples</a><br/>
-     <div dir="rtl"><a href="README+/software/~design/"><b>...<i>all design notes</i></b></a></div>
+     <div dir="rtl"><a href="README+/software/~design/"><b><i>all design notes</i>...</b></a></div>
       &nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
     ➿
      <a href="README+/software/QA/README+/tests-pitfalls.md">Tests pitfalls</a>
-     <p dir="rtl">...more QA & tests</p>
+     <div dir="rtl">...more QA & tests</div>
      <p>&nbsp;&nbsp;
      <a href="README+/software/~design/drive">Drive</a>
      ➿
@@ -37,7 +37,7 @@
      <b>♯</b>&nbsp;<b>Sides/Parts</b>
    <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/parts/cs-lacks-parts.md">Nice to have</a>&nbsp;➕&nbsp;<a href="README+/.net/README+/parts/cs-feat_shadow.md">In shadow</a><br/>
-     💠&nbsp;<a href="README+/.net/README+/wpf"><b>WPF</b></a><br/>
+  <b>&gt;</b>&nbsp;<a href="README+/.net/README+/wpf"><b>WPF</b></a><br/>
       <br/>
      <b><a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">DESIGN DECISIONS</a></b>&nbsp;➡️<code>use-dev</code>
 </td><td>
