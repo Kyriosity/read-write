@@ -21,9 +21,9 @@
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       🥱&nbsp;<a href="README+/pencraft/README+/opuses/freestyle/README.md">freestyle</a>
      &nbsp;
-🪝<a href="README+/pencraft/README+/opuses/coll/IT_memes-1.md">memes</a>
+🪝<a href="README+/pencraft/README+/opuses/memes">memes</a>
            &nbsp;
-🥨<a href="README+/pencraft/README+/opuses/coll/IT_quotes-1.md">quotes</a>
+🥨<a href="README+/pencraft/README+/opuses/quotes">quotes</a>
      </td>
 </tr><tr></tr><tr><td>
 <a href="README+/.net/"><b>C#.NET</b></a><br/>
