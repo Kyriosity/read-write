@@ -14,28 +14,31 @@ The spirit of architecture appeared as folks managed to erect something more ext
 
 Then it took ages till the immobile art of construction methodolized and acknowledged architects as a detached trade. That means refined craftsmen, exempt from narrow-profile routines and headaches to focus on vision, design, blueprints, and aesthetics.
 
-In modern times miscellaneous spheres loaned *architecture* mostly as a metaphor to underline the system complicacy. From mega-vessels and supercomputers down to less determinate economics and politics. However, **μ**arch hasn't fostered microarchitects, while architects of détente or economic miracle are sooner for a compliment.
+Later MISC spheres loaned *architecture* mostly as a metaphor to underline the system complicacy. From mega-vessels and supercomputers down to less determinate economics and politics. However, **μ**arch hasn't fostered microarchitects, while architects of détente or *economic miracle* are sooner for a compliment.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the Pyramids suggest.</sub>
 
-## Software vs. Building 
+## Software as Building 
 
-Architecture/Design of constructions and software has much in common. Both must yield functional products rather than aesthetic values.
+Architecture/DESIGN? of constructions and software have much in common. Both must yield functional products rather than aesthetic values.
 
 Both must accumulate practices and reveal patterns.
 
-Without solid planning, both will end up as a disastrous MESS that will sooner or later loudly crash.
+Without solid asbtraction work, both end up as a disastrous BABYLON TOWER that sooner or later will loudly crash.
 
-Diversities are larger.
+Diversities are larger...
 
-### Radical odds
+### Software != Building
 
-Software is too fluid, and dynamic compared to static structures. The thinker who found "Architecture is frozen music"<sup>🎼</sup> would see software as "unleashed gala symphonic cacophony [under the circus tent]".
+Software is fluid compared to static structures. The thinker who noticed: "Architecture is frozen music"<sup>🎼</sup>, would see software as "unleashed symphonic cacophony [under the circus tent]".
+NAME OF ORCHE RAZYGRYV-e
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>Arthur Schopenhauer (1788-1860), also missattributed to Johann Wolfgang von Goethe (1749-1832).\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>Arthur Schopenhauer (1788-1860), missattributed to Johann Wolfgang von Goethe (1749-1832).\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full original quote: _Architektur ist gefrorene Musik. (Möge es immer beschwingt und harmonisch zugehen in diesem Haus!)_</sub>
 
-The lifecycle of construction is much longer. Changes in SW are much more fluent.
+The lifecycle of construction is much longer. 
+
+YOU CAN't ACCEPT a BUILD that may crash (no stage).
 
 Architecture results in masterpiece buildings and indistinctive typical constructions. The latter isn't for IT, where even tailoring the existing software isn't development.
  
@@ -59,16 +62,16 @@ First and above all, *software architect* sounds cool. Not that  than _mastermin
 
 Then the title expresses a path of enlightenment of one unchained from the keyboard to draw beautiful top diagrams freed of the digging within dusty codes. 
 
-It's often an alias for these posts and duties:
+It's often an alias for roles and duties:
 
 * _domain expert_ or _business analyst_, who boils down requirements to systematic description,
 * _team lead_ or _project manager_,
 * _lead_/_senior developer_,
 * _consultant_, _tutor_, or _technology evangelist_, proposing blueprints for the solution,
-* "librarian-navigator", somebody with the utmost knowledge of the project,
+* "*librarian-navigator*", somebody with the utmost knowledge of the project,
 * geeks from _computer science_.
 
-### Jack of all trades
+### :construction: Jack of all trades
 
 HOW OFTEN TO BE ON THE SPOT?
 
@@ -93,3 +96,6 @@ And let's salt all this with a bitter reminder that most projects are applicatio
 _Agent Smith_ 🔨
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>quotes guaranteed by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu)</sub>
+
+\-------\
+ 🔚 &nbsp;🌘 kyriosity 2023-2024

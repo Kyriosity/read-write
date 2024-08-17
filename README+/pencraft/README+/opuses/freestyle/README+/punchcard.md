@@ -1,5 +1,3 @@
-[**Pencraft**](../../../../README.md)&nbsp;&nbsp;&nbsp;<mark>></mark>&nbsp;&nbsp;&nbsp;[**Freestyle**](../README.md)
-
 # Punched cards - Once upon a time
 
 > Not another paraphrase of [wiki files](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup>🔗</sup>
@@ -73,4 +71,4 @@ Even if the data remains unclaimed or safely copied, our heirs or other species 
 and volatile mundane [phonograph records](https://en.wikipedia.org/wiki/Voyager_Golden_Record).</sub>\
 <sup>🪢</sup> <sub>Though there was a joke that IBM's positioning of holes won the US government bid for encryption.</sub>
 
- 🔚 &nbsp;🌘 2024
+ 🔚 &nbsp;🌘 kyriosity 2024

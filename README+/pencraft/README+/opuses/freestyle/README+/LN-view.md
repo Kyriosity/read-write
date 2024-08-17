@@ -57,3 +57,7 @@ As a substitute for rudimentary LotusSciprt; supporting the development of UX li
 
 > Let me finish with the quote from another hit - _Now I know what made Lotus blue_. In earnest, I was pretty sure that _Lotus_ until [proof](https://en.wikipedia.org/wiki/Now_I_Know_What_Made_Otis_Blue). This tells enough about my involvement.
 
+\-------\
+ 🔚 &nbsp;🌘 kyriosity 2024
+
+
