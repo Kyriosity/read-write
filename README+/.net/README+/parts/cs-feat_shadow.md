@@ -1,6 +1,6 @@
 # C# - Features and parts in shade
 
-Contrary to [underused parts](cs-underused_sides.md) these shaded parts (good or not) are specific and a developer may never need to use one. However one must be aware of them to use on demand or compare with a custom realization.
+Different from [underused sides](../cs-feat_underused.md) these shaded parts (good or not) are specific and a developer may never need to use one. However one must be aware of them to use on demand or compare with a custom realization.
 
 ## ReactiveX
 
@@ -29,7 +29,7 @@ public explicit extension Customer for DataObject {
 
 ## Miscellaneous
 |- **General**\
-|--- [DataObject](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.dataobject)\
+|--- [`DataObject`](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.dataobject)\
 |- Accelerated calculations\
 |--- [Single instruction, multiple data (SIMD)](https://learn.microsoft.com/en-us/dotnet/standard/simd)<sup>🔗</sup>\
 |--- [Hardware acceleration](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/optimizing-performance-taking-advantage-of-hardware)<sup>🔗</sup>
