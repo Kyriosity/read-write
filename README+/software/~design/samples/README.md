@@ -75,8 +75,8 @@ Parallelization (multi-threading) of algorithms, when applicable, tangibly speed
 
 <p dir=rtl>,When I am in a painting<br>.I'm not aware of what I'm doing<br><i><b>Jackson Pollock</b> (1912-1956) </i></p>
 
-Editor of raster images is the richest and multi-faceted support of thinking in application design: presentation, processing, and persistence. 
-All of these three ask for optimization, equally logical and tricky.
+Editor of raster images is the richest and most multi-faceted support for thinking in application design: presentation, processing, and persistence. 
+All of these three ask for optimization (equally logical and tricky).
 
 Maps of pixels range from grayscale thumbnails to giant high-density multi-layered canvases or animations. 
 
@@ -90,7 +90,7 @@ Actions vary from simple (flip, rotate) to highly processed retouching or effect
 ## Still plain models
 
 <p dir=rtl>In some mysterious way woods have<br />
-.never seemed to me to be <b>static</b> things<br />
+.never seemed to me to be <mark>static</mark> things<br />
 ;In physical terms, I move through them<br />
 ,yet in metaphysical ones<br />
 .they seem to move through me<br />
