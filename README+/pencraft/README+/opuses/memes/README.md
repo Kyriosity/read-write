@@ -124,7 +124,7 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 </details>
 
 &nbsp;\
-|- [**Volume&nbsp;II. Inspirational quotes**](IT_quotes-3_inspire.md) 
+|- [**Volume&nbsp;II. Inspirational quotes**](../quotes/IT_quotes-3_inspire.md) 
 
 ---
 
