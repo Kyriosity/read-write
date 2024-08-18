@@ -1,4 +1,4 @@
-# C# - Drawbacks - "Minority report"
+I'm# C# - Drawbacks - "Minority report"
 
 Art can be perfect, but not technology. With all its goodies __C#__ has downsides as bulky declarations of hierarchies, rigid interfaces, or restrained generics.
 
@@ -9,8 +9,9 @@ The following language artifacts are awkward leastwise for me.
 - Rudimentary `;` ending a line brings nothing but visual noise.
 - Constructor names imply extra refactoring on class/struct renaming (could be independent `ctor()`, `this()`). Take the "untitled" `base()` call in the same constructors.
 - Rudimentary `0` as the start index in collections<sup>:o:</sup>, which doesn't correlate with the count and shall better start from `1`.
-- Missing (default) access modifier<sup>:o:</sup> shall be better reserved for ultimate `private` or better `public` than for specific and less used `internal`
-- The `const` modifier shall not be limited to pre-compiled values (it's mere optimization) but prevent re-assignment, as `init` and `readonly` do.
+- Default (when missing)  access modifier<sup>:o:</sup> shall be better reserved for "ultimate" `private` or  `public` than for less EXPLICIT and  less used `internal`
+- The `const` modifier shall not be limited to pre-compiled values (as in intermediate languages) but prevent re-assignment, as `init` and `readonly` do.
+- CONSTANAts in Signatures!!!
 - Nullable declaration (with `?` prefix) is evident for value types but ambiguous for references and objects, which can be nulled anyway:\
 `string a = null; string? b = null;`
 - Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# readability.<sup>🙋</sup>
