@@ -7,12 +7,12 @@ WinForms application can be an exemplary MVVM<sup>:wrench:</sup> but it was WPF 
 
 ## Structure
 
-|- __Model__  - usual [application model](../../../../../software/design/parts/README+/app-model.md)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// Model classes must be frontend agnostic but virtual (open) for adapting in presentation (e.g. `virtual` props and methods.\
+|- __Model__  - any common or tailored [application model](../../../../../software/~design/parts/README+/app-model.md)\
+&nbsp;&nbsp;// Model classes must be frontend agnostic but virtual (open) for adapting in presentation (e.g. `virtual` props and methods.\
 |- [__ViewModel__](README+/wpf_mvvm-viewmodel.md)\
 |- [XAML view](../wpf-xaml_view.md) *
 
-&nbsp;&nbsp;&nbsp;&nbsp;* It can also be any other kind of [application view](../../../../../software/design/parts/README+/app-view.md) bound with the ViewModel
+&nbsp;&nbsp;&nbsp;&nbsp;* It can also be any other kind of [application view](../../../../../software/~design/parts/README+/app-view.md) bound with the ViewModel
 
 ## Sample
 
@@ -22,7 +22,7 @@ An MVVM application may grow into an enterprise solution, but from the ground up
 <summary><b><ins>&nbsp;Simplest MVVM application&nbsp;</ins></b></summary>
 &nbsp;
 
-![sketch of WPF app](../../../../../pencraft/README+/_rsc/_img/recipes/wpf-app_sketch.jpg)
+<picture><img alt="&emsp;Three fast steps to layout a WPF app" src="../../../../../_rsc/_img/recipes/wpf-app_sketch.jpg" ></picture>
 
 <sup>:arrow_down:</sup>&nbsp;<sub>Project of Microsoft Visual Studio</sub>
 </details>
