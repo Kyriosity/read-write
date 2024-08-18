@@ -28,11 +28,11 @@
      </td>
 </tr><tr></tr><tr><td>
 <a href="README+/.net/"><b>C#.NET</b></a><br/>
-&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;➰&nbsp;
-<a href="README+/.net/README+/cs-lacks.md">Lacks</a>&nbsp;➗&nbsp;
+&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>✖️
+<a href="README+/.net/README+/cs-lacks.md">Lacks</a>➗
   <a href="README+/.net/README+/cs-hints.md"><b>Hints</b></a>
  <br/>
-&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-malpractice.md">Malpractices</a>&nbsp;➗&nbsp;<a href="README+/.net/README+/cs-feat_underused.md">Underused</a>
+&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-malpractice.md">Malpractices</a>:heavy<a href="README+/.net/README+/cs-feat_underused.md">Underused</a>
  <br />
  &nbsp;&nbsp;<b>♯</b>&nbsp;<b>Sides/Parts</b>
    <br/>
