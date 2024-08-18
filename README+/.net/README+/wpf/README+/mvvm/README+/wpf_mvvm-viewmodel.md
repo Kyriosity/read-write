@@ -9,3 +9,4 @@ As well ViewModel shall not outline ways of UI arrangement and interaction (wind
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup><sub> Could be redundant to say but still a common mistake.</sub>
 
+🚧📝🚧 ... to be CONTINUED ... 🚧🖌️🚧
