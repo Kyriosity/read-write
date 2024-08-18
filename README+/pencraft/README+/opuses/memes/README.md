@@ -97,9 +97,9 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>Dull parallels</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>Cooked up parallels</b>&nbsp;</ins></summary>
 
-## Deployment tenses
+### Deployment tenses
 
 🚧🚧🚧 ... COMING SOON ... 🚧🚧🚧
 
