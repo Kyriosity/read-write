@@ -13,7 +13,7 @@
       &nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
     ➿
      <a href="README+/software/QA/README+/tests-pitfalls.md">Tests pitfalls</a>
-     <div dir="rtl">...more QA & tests</div>
+      <div dir="rtl"><a href="README+/software/QA/"><b><i>all QA notes</i>...</b></a></div>
      <p>&nbsp;&nbsp;
      <a href="README+/software/~design/drive">Drive</a>
      ➿
