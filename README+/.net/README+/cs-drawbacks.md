@@ -1,6 +1,6 @@
-I'm# C# - Drawbacks - "Minority report"
+# C# - Drawbacks - "Minority report"
 
-Art can be perfect, but not technology. With all its goodies __C#__ has downsides as bulky declarations of hierarchies, rigid interfaces, or restrained generics.
+Artworks can be perfect — not technologies. With all its goodies __C#__ has downsides as bulky declarations of hierarchies, rigid interfaces, and notably restrained generics.
 
 The following language artifacts are awkward leastwise for me. 
 
@@ -17,7 +17,7 @@ The following language artifacts are awkward leastwise for me.
 - Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# readability.<sup>🙋</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:o:</sup> <sub>These native features can't be changed.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>I assume arguability but hope that C# team doesn't plan to make a Perl out of their language</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Though this paces and hopefully .NET team doesn't plan to make a Perl out of their language</sub>
   
 ### Generics
 
