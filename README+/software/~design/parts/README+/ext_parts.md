@@ -3,7 +3,7 @@
 What are the cornerstones of a new big project - technologies, tools, requirements, planning, team, budget? Neither. \
 **The fundamentals are already existing and proven concepts/components to adopt.**
 
-Full-fledged third-party frameworks, libraries, and services allow developers to focus on application business and UX rather than tame technologies, type and maintain tons of boilerplate code; test, find, and fix extra bugs.
+Full-fledged third-party frameworks, libraries, and services allow developers to focus on application business and UX rather than tame technologies, type and maintain tons of boilerplate code; test, find, and fix extra bugs.<sup>:raising_hand:</sup>
 
 Such external parts are often a click away from evaluation and range:
 
@@ -13,6 +13,10 @@ Such external parts are often a click away from evaluation and range:
 * **from** open source or/and free **to** commercial and obfuscated,
 
 Even great enterprises are reluctant to create the parts from the ground up and re-invent the wheel (unless it's rounder than others or "security first" rules).
+
+\___________
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>I like the pragmatic and eloquent motto "We are your extended team" (DevExpress).</sub>
 
 ## Core components
 
@@ -41,11 +45,12 @@ Components for testing are so organic for applications that are associated/integ
 Some non-commercial projects launched by individuals or groups have grown to industry standards and been adopted in mainstream languages. Recall [Newton.json](https://www.newtonsoft.com/json)<sup>🔗</sup> that has filled the JSON blank in C# for years.
  
 Besides the licensing, when applying such 3d-party think if there's a community (maybe, only you) able to maintain the stuff within the lifecycles of dependent projects. 
-Then I'd prefer readable code with transparent design ideas above all (releases, active community, extra features, popularity).<sup>:raising_hand:</sup>
+Then I'd prefer readable code with transparent design ideas above all (releases, active community, extra features, popularity).
 
 Freeware means pretty often open-source and here not all are ready to give out the best ideas and realizations.
 
 All-around pro solutions aren't free but annual dev licenses below $1K will quickly pay off even for a humble undertaking. Let alone live support and membership in a durable motivated community.&nbsp;<sup>:raising_hand:</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Remind the accomplished but abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks, last updated 10 years ago.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>I like the pragmatic and eloquent motto "We are your extended team" (DevExpress).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Remind the exciting accomplished but then abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks ... last updated 10 years ago.</sub>
+
+:end:
