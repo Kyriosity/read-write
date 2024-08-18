@@ -12,7 +12,7 @@ The authoring seems deceptively easygoing:
 * drawing is KINDERGARTEN,
 WYSIWYG<sup>🔤</sup> of creative work won't produce compilation errors and is transparent to create square miles of 'pulp'.
 
-However noble lines of words come much more sophisticated and painful than excellent code. And a smart reader will notice poor or mediocre style from the very first sight.
+However noble lines of words are much more sophisticated and painful than excellent code. And a smart reader will notice poor or mediocre style from the very first sight.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🔤</sup> <sub>What you see is what you get.</sub>
 
@@ -38,4 +38,4 @@ Thesis + Struct + Phrases
 
 🚧🚧🚧🚧🚧🚧🚧 
 
-* <sub>The epigraph won't be caustic if to search eeb for "ghost writing".</sub>
+🔚 ✴️ <sub>The epigraph won't be caustic if to search the web for "ghostwriting".</sub>
