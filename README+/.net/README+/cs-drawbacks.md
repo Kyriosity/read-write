@@ -16,12 +16,14 @@ The following language artifacts are awkward leastwise for me.
 `string a = null; string? b = null;`
 - Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# readability.<sup>🙋</sup>
 
+\_______________
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:o:</sup> <sub>These native features can't be changed.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Though this paces and hopefully .NET team doesn't plan to make a Perl out of their language</sub>
   
 ### Generics
 
-The next definition is terse and clear `class CollWrapper<C, T> where C : ICollection<T> { ... }`, but not the redundancy in its declaration `new CollWrapper<List<int>, int>()`.
+The next definition is terse and clear `class CollWrapper<C, T> where C : ICollection<T> { ... }` but not the redundancy in its declaration `new CollWrapper<List<int>, int>()`.
 
 Advanced C# design reveals more generic restraints and results in *Vodoo programming* to workaround them.<sup>🙋</sup>
 
@@ -64,7 +66,7 @@ Other peculiar and arbitrary alternatives are [extension methods](https://docs.m
 
 * Historic namespaces as [System](https://learn.microsoft.com/en-us/dotnet/api/system)<sup>🔗</sup> are bloated and mixed.
 First of all, numerous errors should be moved from `System` to their own `namespace Exception`.__*__
-* Classes like [Math](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>🔗</sup>, [MathF](https://docs.microsoft.com/en-us/dotnet/api/system.mathf)<sup>:link:</sup> shall be namespaces for granulated domain classes.
+* Classes like [`Math`](https://docs.microsoft.com/en-us/dotnet/api/system.math), [`MathF`](https://docs.microsoft.com/en-us/dotnet/api/system.mathf) shall be namespaces for granulated domain classes.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*__<sub> System.SystemException => Exception.System</sub>
 
@@ -109,9 +111,11 @@ Continued in [C# lacks - Dates](parts/cs-lacks-parts.md#Dates).
 ## Inborn naming
 
 -  *Interface* is a term that is too common for contracts (not only in C#).
-- *Reverse*, as in [LINQ method](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse)<sup>:link:</sup>, is actually *flip*.
+- LINQ [`Revers()`](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse), is actually *flip*.
 - Type modifiers _in_/_out_ for contra-/covariance collide with the same name parameter modifiers (_more_/_less_ can be better)
 
 ## 🚧 To be continued ...
 
 The list is far from being complete and I wait for one day (better to say a decade) when .NET hits a higher note - D-flat or even D#.
+
+🔚
