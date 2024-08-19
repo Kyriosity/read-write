@@ -9,7 +9,7 @@
 |--- [Design record](README+/design-record.md)
 
 |- **_Relevant topics_**:\
-|--- Pencraft
+|--- [Pencraft](../../pencraft/)
 
 
 🔚
