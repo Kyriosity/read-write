@@ -1,17 +1,18 @@
 # Software - Design - Drive 
 
+🚧🚧🚧🚧🚧 DRAFT: Work in Progress 🚧🚧🚧🚧🚧
 
 Test-Driven Domain/Syntax Design (TDDD, T3D)
 
 ## Watershed of tests applications
 
-NEMNOGO spustya after first programmes were written, THE same the demand to factiliate their proof with formalized actions and expectations. 
+Short after the first programs were written, THE same the demand to facilitate their proof with formalized actions and expectations. 
 
 After test automation red-test-first paradigm to prevent the biggest pitfall of CASUALY GREEN results.
 
 The latter
 
-* * Discuss and 
+* Discuss and 
 * 
 
 Test-First: option and must
