@@ -17,21 +17,24 @@ To keep the selection genuine I relocated sarcasm and dubiety to other chapters:
 |- [**Quotes for inspiration**](IT_quotes-3_inspire.md)\
 |- [Quotes from non-ITers](IT_quotes-2_aux.md)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>⭐</sup> <sub>Thanks star from writer(s) of [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software/ArcDeco/README.md)] for inspiration.</sub>
+
 ## Cornerstones
 
 ![#architecture](https://img.shields.io/badge/%23-Architecture-lightseagreen) 
 [![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software/ArcDeco/README.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>⭐</sup> <sub>Thanks star from writers of [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software/ArcDeco/README.md)] for inspiration.</sub>
-
 > **Simplicity does not precede complexity but follows it.**\
 _Alan Perlis_
+
+> **The entire history of software engineering is that of the rise in levels of abstraction**.\
+_Grady Booch_, 2003
 
 ![#architecture](https://img.shields.io/badge/%23-Architecture-yellow) ![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
 > **Data abstractions provide the same benefits as procedures but for data.**\
 _Barbara Liskov_
 
-> `AND` and `OR` are the basic operations of logic. Together with `NO` they are a complete set of basic logical operations—all other logical operations, **no matter how complex, can be obtained by suitable combinations of these**.\
+> `AND` and `OR` are the basic operations of logic. Together with `NO` they are a complete set of basic logical operations — **all other logical operations**, no matter how complex, **can be obtained by suitable combinations of these**.\
 _John von Neumann_
 
 > **Without philosophy language design becomes hacking.**\
@@ -291,6 +294,8 @@ _**Seymour Cray**_, (1925-1996), father of supercomputers
 **_Dennis Ritchie_**, Dennis MacAlistair Ritchie (1941-2011) creator of C and co-author of UNIX (with Ken Thompson)
 
 _**Theodore von Kármán**_ (1881-1963), outstanding aerospace engineer best known for _Kármán line_
+
+**_Grady Booch_**, :us: software engineer from the "Gang of Four": founder of UML and the first famous [Design Pattern](https://en.wikipedia.org/wiki/Design_Patterns) "almanac".
 
 _**Barbara Liskov**_, the only one honored with a personal letter in design principles - SO**L**ID.
 
