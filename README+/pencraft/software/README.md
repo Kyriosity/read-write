@@ -25,7 +25,7 @@ A tracking system may collect and generate documentation with a pleasant degree 
 + Except for citations use quotation marks for metaphors while _italic_ to introduce terms. Example:
 > To compare _multitasking_ vs. _parallelism_ imagine the CPU being a "kitchen" where a quick cook vs. an orderly brigade can prepare the same courses.
 
-+ **Last but not least**, if you write regularly, contribute to content management tools and templates to facilitate further work of you and others.
++ **Last but not least**, if you write regularly, contribute to content management tools and templates to facilitate further work for you and others.
 
 ## Wrapping up: Resources
 
@@ -37,7 +37,7 @@ Don't anticipate much from IT leaders but must-know hints and rules:
 ### Tools
 
 + [Grammarly](https://app.grammarly.com/apps) - swift and sweet multi-language check in browsers.
-+ [Merriam-Webster](https://m-w.com) - good old English dictionary which appeared on the Web just at the beginning and still looks cool.
-+ [Britannica](https://www.britannica.com/topic/ampersand) - the same
++ [Merriam-Webster](https://m-w.com) - the oldest American published online since the beginning of WWW and still looks great.
++ [Britannica](https://www.britannica.com/topic/ampersand) - the cult British encyclopedia online
 
 🔚 :crescent_moon:2024
