@@ -32,12 +32,14 @@ One other distinct and legitimate niche is [comment-driven development](https://
 
 ### Commenting the code out
 
- Switching off code lines is a usual manipulation but committing one requires a comment at least that it was on purpose. It might be just three slashes `///` or a team may decide on acronyms like:\
- &nbsp;&nbsp;&nbsp;&nbsp;`///DEL` - delete after review\
- &nbsp;&nbsp;&nbsp;&nbsp;`///ALT` - alternative implementation \
- &nbsp;&nbsp;&nbsp;&nbsp;`///ERR` - doesn't work\
- &nbsp;&nbsp;&nbsp;&nbsp;`///EXC` - causes an exception\
- &nbsp;&nbsp;&nbsp;&nbsp;`///LOL` - i did it for lulz // It was a fast sketch which one may simplify or elaborate
+ Switching off code lines is a usual manipulation but committing one requires a comment at least that it was on purpose. It might be just three slashes `///` or a team may decide on acronyms like:
+
+&nbsp;&nbsp;&nbsp;&nbsp;`///DEL` — delete after review\
+&nbsp;&nbsp;&nbsp;&nbsp;`///ALT` — alternative implementation \
+&nbsp;&nbsp;&nbsp;&nbsp;`///ERR` — doesn't work\
+&nbsp;&nbsp;&nbsp;&nbsp;`///EXC` — causes an exception\
+&nbsp;&nbsp;&nbsp;&nbsp;`///IDEA` — It was a fast sketch which one may simplify or elaborate\
+&nbsp;&nbsp;&nbsp;&nbsp;`///LOL` — i did it for lulz
 
  🔚
 
