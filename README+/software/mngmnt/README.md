@@ -1,16 +1,14 @@
-# Code, dev and docu - Management systems
+# Code, dev and docu - Management - Overview
 
-> NOTE: This article is about tools and methodologies but not activities of management (such as planning, meetings, reporting, recruiting, and control).
+The exponential (and chaotic) growth of software projects in the 2000s founded the "parallel" realm of their organization: requirements/issue tracking, code collecting/versioning, collaboration tools, deployment services, and project management.
 
-The exponential (and chaotic) growth of software projects in the 2000s founded their organization's "parallel" ecosystem: requirements/issue tracking, code collecting/versioning, collaboration tools, deployment services, and project management. 
-
-You are reading from my profile on _Git_ but names of other platforms, frameworks, and methodologies would take some screens to name only the popular ones.
+You must be reading now from a repository on _Git_<sup>:octocat:</sup> but names of other platforms, frameworks, and methodologies would take some screens to name only the popular ones.
 
 ## Good organization
 
 The customers/users perspective - "not _how_ but _what_ matters" - draws a crucial dividing ridge: **either** organization serves development, **or** _vice versa_.
 
-Commendable organization endows every process/measure with an exact explanation of how it facilitates development, spares resources, ensures quality, and automates routines. (Not because it's on trends or in chosen methodology.)
+Commendable organization endows every process/measure with an exact explanation of how it facilitates development, spares resources, ensures quality and automates routines. (Not because it's on trends or in chosen methodology.)
 
 ### Technical advantages expected
 
@@ -39,4 +37,4 @@ How? No automation can beat _the laissez-faire_ of responsible win-win-thinking 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>☁️</sup> <sub>TFS became Azure DevOps Server</sub>
 
----
+🔚
