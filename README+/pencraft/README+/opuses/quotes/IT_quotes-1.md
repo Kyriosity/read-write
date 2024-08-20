@@ -193,7 +193,6 @@ Sure, an environment may force bad practices but they don't make developers.
 </details>
 
 <details><summary><b><ins>Paradigms</ins></b></summary>
-&nbsp;
  
 > So programming languages on the whole are very much more complicated than they used to be: **object orientation, inheritance,** and other features are still not really being thought through from the point of view of a coherent and scientifically well-based discipline or a theory of correctness.\
 ...
@@ -203,6 +202,16 @@ _C.A.R. (Tony) Hoare_, 2002 in interview
 <details><summary>Full quote...</summary>
  What’s happened is that practical programmers have used whatever understanding they’ve gained, or theoreticians have offered them, to increase complexity. So programming languages on the whole are very much more complicated than they used to be: object orientation, inheritance, and other features are still not really being thought through from the point of view of a coherent and scientifically well-based discipline or a theory of correctness. My original postulate, which I have been pursuing as a scientist all my life, is that one uses the criteria of correctness as a means of converging on a decent programming language design—one which doesn’t set traps for its users, and ones in which the different components of the program correspond clearly to different components of its specification, so you can reason compositionally about it. Programming languages in full generality have not really paid full attention to this aspect. They tend to be defined purely on the basis of what the  29 machine does when it’s executing the program, and often at quite a low level of granularity too—individual storage accesses. I still think we have to get the message across. The tools, including the compiler, have to be based on some theory of what it means to write a correct program.
 </details>
+
+</details>
+
+<details><summary><b><ins>Hardware vs. software</ins></b></summary>
+
+> **Software gets slower faster than hardware gets faster.**\
+_Niklaus Wirth_, 1995, "A Plea for Lean Software"\
+(aka Wirth's law)
+
+The growth of hardware capacities and speed allows the software to become abstracter and larger.
 
 </details>
 
@@ -273,11 +282,13 @@ _**Gerald Weinberg**_, Gerald Marvin Weinberg (1933-2018), a computer scientist 
 
 _**Tony Hoare**_, _Charles Antony Richard Hoare_ (born 1934), a fundamental contributor to programming languages and algorithms
 
+**_Niklaus Wirth_**, _Niklaus Emil Wirth_ 🇨🇭 (1934-2024) inventor of Pascal and other languages
+
 **_Donald Knuth_**, _Donald Ervin Knuth_ (born 1938), one of the first and most prominent computer scientists, best known for _The Art of Computer Programming_, 1962-1973
 
 _**Edsger W. Dijkstra**_, _Edsger Wybe Dijkstra_ (1930-2002) 🇳🇱, known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
-?? the abolisher of GoTo, the inventor of _mutex_.
+?? the abolisher of GoTo (sorry, it was _Niklaus Wirth_), the inventor of _mutex_.
 
 _**Maurice Wilkes**_, 🇬🇧 Maurice Vincent Wilkes (June 26, 1913 – November 29, 2010) 
 
