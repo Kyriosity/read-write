@@ -21,7 +21,7 @@
       <br /><div align="center"><h4>TESTS vs. DRIVES</h4></div></a>
     </td>
     <td>
-      <a href="README+/SW_architect-aTake.md"><img src="../../../../_rsc/_img/_nav/tiles/SW_Architect_200px.jpg" alt="SW_architect-aTake.md" title="Finding Software Architect - a Take"/>
+      <a href="README+/SW_architect-aTake.md"><img src="../../../../_rsc/_img/_nav/tiles/Architect_200px.jpg" alt="SW_architect-aTake.md" title="Finding Software Architect - a Take"/>
       <br /><div align="center"><h4>SOFTWARE ARCHITECT</h4></div></a>
     </td>
     <td>
