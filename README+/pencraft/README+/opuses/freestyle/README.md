@@ -18,11 +18,11 @@
   <tr>
     <td>
       <a href="README+/Tests-Big_Watershed.md"><img src="../../../../_rsc/_img/_nav/tiles/T3D_200px.jpg" alt="Tests-Big_Watershed.md" title="Tests & Drives - Big Watershed"/>
-      <br /><div align="center"><b>TESTS vs. DRIVES</b></div></a>
+      <br /><div align="center"><h4>TESTS vs. DRIVES</h4></div></a>
     </td>
     <td>
       <a href="README+/SW_architect-aTake.md"><img src="../../../../_rsc/_img/_nav/tiles/SW_Architect_200px.jpg" alt="SW_architect-aTake.md" title="Finding Software Architect - a Take"/>
-      <br /><div align="center"><b>SOFTWARE ARCHITECT</b></div></a>
+      <br /><div align="center"><h4>SOFTWARE ARCHITECT</h4></div></a>
     </td>
     <td>
       <picture><img src="../../../../_rsc/_img/_nav/tiles/comingNext_200px.jpg" alt="Coming up next..." title="Next essay coming sooner or later.."/></picture>
