@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>
-      <a href="README+/Tests-Big_Watershed.md"><img src="../../../../_rsc/_img/_nav/tiles/T3D_200px.jpg" alt="Tests-Big_Watershed.md" title="Tests & Drives - Big Watershed"/>
+      <a href="README+/Tests-Big_Watershed.md"><img src="../../../../_rsc/_img/_nav/tiles/_WorkInProgress_200px.jpg" alt="Tests-Big_Watershed.md" title="Tests & Drives - Big Watershed"/>
       <br /><div align="center"><h4>TESTS vs. DRIVES</h4></div></a>
     </td>
     <td>
@@ -25,7 +25,7 @@
       <br /><div align="center"><h4>SOFTWARE ARCHITECT</h4></div></a>
     </td>
     <td>
-      <picture><img src="../../../../_rsc/_img/_nav/tiles/comingNext_200px.jpg" alt="Coming up next..." title="Next essay coming sooner or later.."/></picture>
+      <picture><img src="../../../../_rsc/_img/_nav/tiles/_ComingNext_200px.jpg" alt="Coming up next..." title="Next essay coming sooner or later.."/></picture>
     </td>
   </tr>
 </table>
