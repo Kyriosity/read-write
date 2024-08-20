@@ -8,7 +8,7 @@
     </td>
       <td>
       <a href="README+/LN-view.md"><img src="../../../../_rsc/_img/_nav/tiles/LotusNotes_200px.jpg" alt="LN-view.md" title="Lotus Notes - This used to be my playground"/>
-      <br /><div align="center"><b>LOTUS NOTES</b></div></a>
+      <br /><div align="center"><h3>LOTUS NOTES</h3></div></a>
     </td>
     <td>
       <a href="README+/AI-2020s.md"><img src="../../../../_rsc/_img/_nav/tiles/AIchemy_200px.jpg" alt="AI-2020s.md" title="AI Twenties - Much ado about nothing?"/>
