@@ -30,4 +30,4 @@
   </tr>
 </table>
 
-🔚 🌔 -2024+ <i>These are fresstyle essays - the product of imagination AS IS.</i>
+🔚 🌔 -2024+ <i>These are freestyle essays - the product of imagination AS IS.</i>
