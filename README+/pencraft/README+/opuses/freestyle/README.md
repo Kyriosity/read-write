@@ -26,6 +26,7 @@
     </td>
     <td>
       <picture><img src="../../../../_rsc/_img/_nav/tiles/_ComingNext_200px.jpg" alt="Coming up next..." title="Next essay coming sooner or later.."/></picture>
+<br /><div align="center"><h4>? ? ?</h4>
     </td>
   </tr>
 </table>
