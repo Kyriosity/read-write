@@ -2,7 +2,7 @@
 
 <p dir="rtl">,Code in English<br/>,comment in Latin<br/>,document en français<br/>but think in 3D diagrams</p>
 
-[Quality code](../../QA/README+/code-quality.md) with profound and thoroughly categorized [names](../../~design/names) must explain design brainchilds in intuitive fashion. genuinely written [design-defining-tests](../../~design/drive/) must introduce them without hitches. And nothing is more suitable for reverse engineering (handmade or automatic) than source codes. 
+[Quality code](../../QA/README+/code-quality.md) with profound and thoroughly categorized [names](../../~design/names) must explain design brainchilds in intuitive fashion. genuinely written [design-defining-tests](../../~design/drive/) must introduce them without hitches. And nothing is more suitable for reverse engineering than source codes (handmade or automatic). 
 
 Albeit this approach solus becomes gradually tougher (until it hits the wall of the perfectionism exponent) and will not reveal remarkable design/architecture intentions. It's warped to unfold the big canvas of abstractions.
 
@@ -62,7 +62,15 @@ This isn't a routine activity but an intellectual task of design and modeling.
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>✂️</sup> <sub>Remove (join) redundant elements and visual noize.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🍒</sup> <sub>Systematically classify and name artifacts.</sub>
 
-## Artistic images
+## Summary
+
+1. Docu shortage will obfuscate substantial concepts and require essential efforts to (re)gain focus on a software part later<sup>🔖</sup>.  
+2. Instead of being a side-effect of development docu shall be an acknowledged task, requiring resources and enthusiasm.
+3. Docu shall evolve along with software for accuracy and mutual contribution.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔖</sup> <sub>You are self the consumer&nbsp;**#1** of this product - it's only a week to lose a grasp on the "unfocused" design part.</sub>
+
+## Appendix 1/2. Artistic images (sounds, videos)
 
 Applying aesthetic traits to attribute images or enliven the text highly motivates readers when done with taste and bounds. Highly recommended as memory "anchors" on difficult subjects.
 
@@ -74,15 +82,8 @@ A team should limit them to a subset<sup>🍋</sup>, define the exact meaning of
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🍋</sup> <sub>By default markdown emojis, supported by GitHub  - see this [cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)<sup>🔗</sup>.</sub>
 
-## Summary
 
-1. Docu shortage will obfuscate substantial concepts and require essential efforts to (re)gain focus on a software part later<sup>🔖</sup>.  
-2. Instead of being a side-effect of development docu shall be an acknowledged task, requiring resources and enthusiasm.
-3. Docu shall evolve along with software for accuracy and mutual contribution.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔖</sup> <sub>You are self the consumer&nbsp;**#1** of this product - it's only a week to lose a grasp on the "unfocused" design part.</sub>
-
-## Appendix. Alternatives?
+## Appendix 2/2. Alternatives?
 
 ### Video tutorial - Screen capture
 
