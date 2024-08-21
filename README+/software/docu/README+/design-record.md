@@ -15,8 +15,6 @@ That's why any design beyond `hello world` still needs documentation.
 
 ## Recording ⏺️ design ⏹️
 
-### In word
-
 Even if there's extensive user guidance, even the best quality application code needs a fluent explanation: 
 
 * engaging intro,
@@ -26,13 +24,13 @@ Even if there's extensive user guidance, even the best quality application code 
 
 The higher the level and more concise (yet complete) the documentation &mdash; the better. Nobody will maintain volumes of papers up-to-date and rare will read them thoroughly.
 
-#### Log/Blog
+### Log/Blog
 
 Commit comments can make a skeleton of the design log. Theoretically automated but practically there will be too many mixed entries with white noise.
 
 Just a daily (semi-weekly) log (or blog) on notable decisions could be a great help in documenting the pace of design. 
 
-#### F.A.Q.
+### F.A.Q.
 
 Continuous ratification of design decisions (incl. rejection) in the form of Question-Answer will compose a useful and concise user/developer document. 
 
@@ -40,7 +38,7 @@ Continuous ratification of design decisions (incl. rejection) in the form of Que
 
 Any text document (except F.A.Q.) over a few pages will be boring without drawings, diagrams, and presentations.
 
-### Diagrams and presentations
+## Diagrams and presentations
 
 There are elaborated methodologies and tools (to remember classical IBM Rational Rose and RUP) to evolve a project in UML and other diagrams. 
 However, they cost time, restrain presentation, stick thinking to 2D (literally and metaphorically), and prompt to input redundant details. Mutual synchronization with code will make matters even worse.
@@ -50,27 +48,25 @@ They may start on a whiteboard<sup>🔲</sup> during a casual discussion and as 
 
 \_________
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔲</sup> <sub>Can anything be better than a whiteboard? GLASS BOARD !</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔲</sup> <sub>Can anything be better than a whiteboard? The glass board! Which allows one to look at design from the other side.</sub>
 
-#### Beyond sketches
+### Beyond sketches
 
-Whiteboard sketches are potent for understanding but if stored as snapshots without shaping<sup>🗜️</sup>, trimming<sup>✂️</sup> and attributing<sup>🍒</sup> they will be only trash for "future generations".\
-This isn't a routine activity but an intellectual task of design and modeling.\
-&nbsp;\
+Easy come - easy go. 
+Whiteboard sketches are potent for understanding but if stored as snapshots without shaping<sup>🗜️</sup>, trimming<sup>✂️</sup>, and attributing<sup>🍒</sup> they will be only trash for "future generations".\
+This isn't a routine activity but an intellectual task of design and modeling.
 
 \_________
 
-&nbsp;&nbsp;&nbsp;<sup>🗜️</sup>&nbsp;<sub>Visualize artifacts on boars as recognized entities and connections.<sub>\ DOUBLE SUB aND SUP
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>✂️</sup>&nbsp;<sub>Remove (join) redundant elements and visual noize.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🍒</sup>&nbsp;<sub>Systematically classify and name artifacts.</sub>\
-&nbsp;
+&nbsp;&nbsp;&nbsp;<sup>🗜️</sup> <sub>Visualize artifacts on boars as recognized entities and connections.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>✂️</sup> <sub>Remove (join) redundant elements and visual noize.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🍒</sup> <sub>Systematically classify and name artifacts.</sub>
 
-
-### Artistic images
+## Artistic images
 
 Applying aesthetic traits to attribute images or enliven the text highly motivates readers when done with taste and bounds. Highly recommended as memory "anchors" on difficult subjects.
 
-#### Pictograms / emojis
+### Pictograms / emojis
 
 Small images are smart helpers to annotate, navigate, and focus unless heavily overused. They may apply to everything - text, solution items (folders and filenames), and even program output (UTF-8 glyphs to rescue).
 
@@ -109,7 +105,7 @@ Maybe the most effective and fast way to introduce a project is to make a new pr
 
 It's not a PAIR PROG . SHALL NOT BE CONTRA: WATCH&LEARN!
 
-Disadvantage: it's a one-time excercise which takes an hours of most competent developers.
+Disadvantage: it's a one-time exercise which takes an hours of most competent developers.
 
 Taking advantage of disadvantage: it  what to docu in live manner.
 
