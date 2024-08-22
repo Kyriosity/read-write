@@ -288,7 +288,7 @@ _**Edsger W. Dijkstra**_, _Edsger Wybe Dijkstra_ (1930-2002) 🇳🇱, known als
 _**Maurice Wilkes**_, 🇬🇧 Maurice Vincent Wilkes (June 26, 1913 – November 29, 2010) 
 
 _**Charles Bachman**_ (1924-2017) who invented the DBMS and changed the business of GE.\
-A rare pure engineer among IT founders, and one who visited the White House to receive a National Medal of Technology and Innovation personally from the President.
+A rare pure engineer among IT founders, and one who visited the White House to receive a National Medal of Technology and Innovation personally from the President.\
 https://cacm.acm.org/opinion/how-charles-bachman-invented-the-dbms-a-foundation-of-our-digital-world/
 
 _**Ted Codd**_, Edgar Frank "Ted" Codd (1923-2003) who made databases relational (vs Network data model introduced by Charles Bachman and others)
