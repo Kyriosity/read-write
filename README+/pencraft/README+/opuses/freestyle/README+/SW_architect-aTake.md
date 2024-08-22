@@ -28,6 +28,8 @@ Without solid asbtraction work, both end up as a disastrous BABYLON TOWER that s
 
 Diversities are larger...
 
+// ToDo: LINK2AnteHomeOffice !!!
+
 ### Software != Building
 
 Software is fluid compared to static structures. The thinker who noticed: "Architecture is frozen music"<sup>🎼</sup>, would see software as "unleashed symphonic cacophony [under the circus tent]".
