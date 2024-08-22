@@ -8,6 +8,9 @@
 
 **Let me explain such a take.** (This was not to defame _software architects_ but to qualify the term as an honor rather than a job title for a bunch of avant practices.)
 
+1. OTHER STRONG VIEWS EXIST
+2. both DESIGN and ARC
+
 ## Genesis
 
 The spirit of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that they coined the term _architect_<sup>🏛️</sup> centuries before Romans latinized *architecture* from it.
@@ -28,8 +31,6 @@ Without solid asbtraction work, both end up as a disastrous BABYLON TOWER that s
 
 Diversities are larger...
 
-// ToDo: LINK2AnteHomeOffice !!!
-
 ### Software != Building
 
 Software is fluid compared to static structures. The thinker who noticed: "Architecture is frozen music"<sup>🎼</sup>, would see software as "unleashed symphonic cacophony [under the circus tent]".
@@ -46,6 +47,7 @@ Architecture results in masterpiece buildings and indistinctive typical construc
  
  MUST BRING from  the aesthetic value to ART. NO Pantheon.
 
+// ToDo: LINK2 ante-home-office
 
 ### Hypothesis
 
