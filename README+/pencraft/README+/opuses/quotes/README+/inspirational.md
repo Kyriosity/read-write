@@ -224,7 +224,8 @@ Alexander Pope, poet (1688-1744)
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="Teleevanglist: If there's no more room in stack, the bugs will walk the Earth..." src="../../../../_rsc/_img/memes/misquote-no_more_stack.jpg" /></picture><br />
+<br /><picture><img alt="Teleevanglist: If there's no more room in stack, the bugs will walk the Earth..." 
+                src="../../../../_rsc/_img/memes/misquote-no_more_stack.jpg" title="Stack is overflowing..." /></picture><br />
 <mark><b>...Ken Foree fandom</b></mark>
 
  #### Already classics
