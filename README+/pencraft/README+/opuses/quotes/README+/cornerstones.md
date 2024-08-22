@@ -1,28 +1,21 @@
 # IT quotes - Cornerstones
 
-![Work in progress](https://img.shields.io/badge/🚧_work_🚧-in_progress-yellow) 
+[![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../../software/ArcDeco/README.md)
 
 <p dir="rtl">?What makes a good quote<br/>
 .Terse, witty? —  That's for aphorisms<br/>
 .Brainy, ingenious? — Prerequisites<br/>
 .Aging. — The criterion</p>
 
-That's why here you find a discernible inclination toward [IT pioneers](#IT-Pioneers) whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
+That's why here you find a discernible inclination toward [IT pioneers](contributors/README.md#IT-Pioneers) whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
 
-Quotes and epigraphs can be annoying, but I'm carefully picking only worthy ones that provoke a deeper understanding of IT. Good quotes are rare - not every expert speaks/writes/thinks in them and maintains their list.
+Quotes and epigraphs can be annoying, but for this paper, I cherrypick worthy ones that provoke a deeper understanding of IT. Good quotes are rare - not every expert speaks/writes/thinks in them and maintains their list.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
 
-To keep the selection genuine I relocated sarcasm and dubiety to other chapters:\
-|- [**Quotes for inspiration**](IT_quotes-3_inspire.md)\
-|- [Quotes from non-ITers](IT_quotes-2_aux.md)
+To keep the selection genuine I relocated sarcasm and dubiety to other chapters.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>⭐</sup> <sub>Thanks star from writer(s) of [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software/ArcDeco/README.md)] for inspiration.</sub>
-
-## Cornerstones
-
-![#architecture](https://img.shields.io/badge/%23-Architecture-lightseagreen) 
-[![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software/ArcDeco/README.md)
+## Simplicity (vs complexity)
 
 > **Simplicity does not precede complexity but follows it.**\
 _Alan Perlis_
@@ -51,8 +44,6 @@ _Richard Hamming_
 > Science is what we understand well enough to explain to a **computer**. Art is everything else we do.\
 _Donald Knuth_
 
-## Simplicity vs complexity
-
 ![#design](https://img.shields.io/badge/%23-Design-yellow) 
 
 > There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no *obvious* deficiencies.\
@@ -75,9 +66,9 @@ That's why I have a clock on my wall that runs counterclockwise.\
 > When you feel the need to write a comment, first try to refactor the code so **that any comment becomes superfluous**.\
 _Kent Beck_,  "Refactoring", 1999
 
-### Quality assurance
+## Quality assurance
 
-> Testing shows the presence not the absence of bugs.\
+> **Testing shows the presence not the absence of bugs.**\
 _Edsger W. Dijkstra_, 1969 (documented while the saying appeared before)
 
 > The key is to **test the areas that you are most worried about going wrong**. That way you get the most benefit for your testing effort. It is better to write and run incomplete tests than not to run complete tests.\
