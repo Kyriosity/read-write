@@ -20,10 +20,18 @@ Now, time to split:\
 |- Technical illustration 🚧 // will be written when I finally master the pen tablet
 
 Other uses of pen&brush, you may enjoy (or recoil in distaste):\
-|- [Freestyle essays](README+/opuses/freestyle/)\
-|- [Collecting IT quotes](README+/opuses/quotes)\
-|- [IT Memes](README+/opuses/memes)
+|- [Freestyle essays](README+/essays/)\
+|- [Collecting IT quotes](README+/quotes)\
+|- [IT Memes](README+/memes)
 
 And how without going [offtopic](README+/offtopic)?
 
-:end:
+## DISCLAIMER
+
+The writings and collections here are ...
+
+* The subject of personal tastes, inclination, vision, and fallacies. It's up to you whether to read/like them or not.
+* The subject of continuous work and rework
+* Some works are in the state of 🚧draft🚧
+
+:end: You are welcome to contribute or correct factual errors.

@@ -83,7 +83,7 @@ It's normal to neglect a sorting algorithm implementation (that a platform provi
 
 <picture><img alt="LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" /></picture><br/>
 
-A stack of punch cards for a casual program. I'm proud to have a [little experience](../freestyle/punchcard.md) of dealing with them
+A stack of punch cards for a casual program. I'm proud to have a [little experience](../essays/README+/punchcard.md) of dealing with them
 
 ### Full self-drive "next year" since 2014? 1957!
 
@@ -113,7 +113,7 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 ![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
 
-[![AI: 1500s vs 2020s](../../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](../freestyle/README+/AI-2020s.md)
+[![AI: 1500s vs 2020s](../../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](../essays/README+/AI-2020s.md)
 
 <sub>Answer: Homunculus shows the middle finger on the left hand.</sub>
 
