@@ -26,12 +26,14 @@ Other uses of pen&brush, you may enjoy (or recoil in distaste):\
 
 And how without going [offtopic](README+/offtopic)?
 
-## DISCLAIMER
+## Disclaimer
 
 The writings and collections here are ...
 
-* The subject of personal tastes, inclination, vision, and fallacies. It's up to you whether to read/like them or not.
+* The subject of personal taste, inclination, vision, and fallacies. It's up to you whether to read/like them or not.
 * The subject of continuous work and rework
 * Some works are in the state of 🚧draft🚧
 
-:end: You are welcome to contribute or correct factual errors.
+\_______
+
+:end: You are welcome to contribute and correct errata.
