@@ -8,7 +8,7 @@ They wouldn't like you don't know them\
 
 NOTE: Test coverage notwithstanding whether it was written first or after the implementation it not a test 
 
-[![ArcDeco thanks](https://img.shields.io/badge/Powered-by_quotes-white?style=flat&labelColor=3A3B3C&color=green)](../../../pencraft/README+/opuses/quotes/IT_quotes-1.md#QA)
+[![ArcDeco thanks](https://img.shields.io/badge/Powered-by_quotes-white?style=flat&labelColor=3A3B3C&color=green)](../../../pencraft/README+/opuses/quotes/README+/cornerstones.md#QA)
 
 ## Conceptual
 
