@@ -3,11 +3,11 @@
 > Not another paraphrase of [wiki files](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup>🔗</sup>
 
 <table><tr><td>
-<picture><img alt="Ancient Egypt bas-relief" src="../../../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg" /></picture>
+<picture><img alt="Ancient Egypt bas-relief" src="../../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg" /></picture>
 </td><td>
-      <p><a href="../../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg"><img src="../../../../../_rsc/_img/af/punchcard.jpg" alt="Punch card in 1966" /></a><p>
+      <p><a href="../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg"><img src="../../../../_rsc/_img/af/punchcard.jpg" alt="Punch card in 1966" /></a><p>
 </td><td>
-<picture><img alt="Please do not bend" src="../../../../../_rsc/_img/signs/do_not_bend-h200px.jpg" />
+<picture><img alt="Please do not bend" src="../../../../_rsc/_img/signs/do_not_bend-h200px.jpg" />
 </picture>
 </td></tr></table>
 
@@ -70,5 +70,7 @@ Even if the data remains unclaimed or safely copied, our heirs or other species 
 <sup>🚀</sup> <sub>A deck of punchcards could make a better impression than naive [Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque) 
 and volatile mundane [phonograph records](https://en.wikipedia.org/wiki/Voyager_Golden_Record).</sub>\
 <sup>🪢</sup> <sub>Though there was a joke that IBM's positioning of holes won the US government bid for encryption.</sub>
+
+\_______
 
  🔚 &nbsp;🌘 kyriosity 2024

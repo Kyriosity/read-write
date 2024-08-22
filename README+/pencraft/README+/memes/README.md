@@ -10,7 +10,7 @@
   
 ![West meets East](https://img.shields.io/badge/West_meets-East-yellow) ![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)
 
-[![... then IT must be a waterfall.](../../../../_rsc/_img/memes/ITLearnWaterfall_horiz.png)](../../../../software/)
+[![... then IT must be a waterfall.](../../../_rsc/_img/memes/ITLearnWaterfall_horiz.png)](../../../software/)
 
 The grains of truth in this wisdom:
 
@@ -35,7 +35,7 @@ Translated east-to-west this means: find a sinecure in a big company.
   
 ![Genius](https://img.shields.io/badge/💡-Genius-blue)
 
-<picture><img alt="Guaranteed random by fair dice roll" src="../../../../_rsc/_img/memes/IT-meme.random-number.png" /></picture><br/><br/>
+<picture><img alt="Guaranteed random by fair dice roll" src="../../../_rsc/_img/memes/IT-meme.random-number.png" /></picture><br/><br/>
 
 And ... the twist! It was a real random number, while algorithms generate only pseudo-random ones.
 
@@ -53,7 +53,7 @@ The latter was what extraordinary _John von&nbsp;Neumann_ (1903-1957) noted:
 
 Original study: https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 
-([downloaded copy](../../../../_rsc/_backup/ref/Marsupial/) if the URL doesn't work)
+([downloaded copy](../../../_rsc/_backup/ref/Marsupial/) if the URL doesn't work)
 
 ---------
 </details>
@@ -64,7 +64,7 @@ Original study: https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
 
 ![IT meets math](https://img.shields.io/badge/CTRL+F-X-blue) ![IT meets math](https://img.shields.io/badge/IT_meets-math-yellow)
 
-<picture><img alt="Here is X. Calm down Pythagoras" src="../../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg" /></picture><br/><br/>
+<picture><img alt="Here is X. Calm down Pythagoras" src="../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg" /></picture><br/><br/>
 
 Justified: abilities in exact sciences are no longer a prerequisite for applied programming. 
 It's normal to neglect a sorting algorithm implementation (that a platform provides) rather than to write one's own or even comprehend/differentiate one.
@@ -77,17 +77,17 @@ It's normal to neglect a sorting algorithm implementation (that a platform provi
 
 ### :cd: When disks were indeed hard and strong skills in IT were in no way exaggerated requirements...
 
-<picture><img alt="The year 1956: loading an IBM disk to rent" src="../../../../_rsc/_img/photo/hist/IBM350_1956.jpg" /></picture><br/><br/>
+<picture><img alt="The year 1956: loading an IBM disk to rent" src="../../../_rsc/_img/photo/hist/IBM350_1956.jpg" /></picture><br/><br/>
 
 ### 🗃️ How did `Find` and `Paste` work there? 
 
-<picture><img alt="LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" /></picture><br/>
+<picture><img alt="LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" /></picture><br/>
 
 A stack of punch cards for a casual program. I'm proud to have a [little experience](../essays/README+/punchcard.md) of dealing with them
 
 ### Full self-drive "next year" since 2014? 1957!
 
-<picture><img alt="LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../../_rsc/_img/snap/media/1957.02.25_LIFE_Page8_FSD.jpg" /></picture><br/>
+<picture><img alt="LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../_rsc/_img/snap/media/1957.02.25_LIFE_Page8_FSD.jpg" /></picture><br/>
 
 > ELECTRICITY MAY BE THE DRIVER. One day your car may speed along an electric highway, its speed and steering automatically controlled by electronic devices embedded in the road.\
 _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
@@ -113,7 +113,7 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 ![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
 
-[![AI: 1500s vs 2020s](../../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](../essays/README+/AI-2020s.md)
+[![AI: 1500s vs 2020s](../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](../essays/README+/AI-2020s.md)
 
 <sub>Answer: Homunculus shows the middle finger on the left hand.</sub>
 
@@ -128,4 +128,4 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 ---
 
-<sub>[Notes/disclaimer](../../../../_rsc) about graphic resources here</sub> 🌘 2024
+<sub>[Notes/disclaimer](../../../_rsc) about graphic resources here</sub> 🌘 2024
