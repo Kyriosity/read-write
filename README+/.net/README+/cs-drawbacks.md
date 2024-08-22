@@ -11,7 +11,8 @@ The following language artifacts are awkward leastwise for me.
 - Rudimentary `0` as the start index in collections<sup>:o:</sup>, which doesn't correlate with the count and shall better start from `1`.
 - Default (when missing)  access modifier<sup>:o:</sup> shall be better reserved for "ultimate" `private` or  `public` than for less EXPLICIT and  less used `internal`
 - The `const` modifier shall not be limited to pre-compiled values (as in intermediate languages) but prevent re-assignment, as `init` and `readonly` do.
-- CONSTANAts in Signatures!!!
+- No constant option for default values in signatures.\
+`Do(int val, string rem=string.empty)`
 - Nullable declaration (with `?` prefix) is evident for value types but ambiguous for references and objects, which can be nulled anyway:\
 `string a = null; string? b = null;`
 - Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# readability.<sup>🙋</sup>
@@ -64,7 +65,7 @@ Other peculiar and arbitrary alternatives are [extension methods](https://docs.m
 
 ## Namespaces and class organization
 
-* Historic namespaces as [System](https://learn.microsoft.com/en-us/dotnet/api/system)<sup>🔗</sup> are bloated and mixed.
+* Historic namespaces as [`System`](https://learn.microsoft.com/en-us/dotnet/api/system) are bloated and mixed.
 First of all, numerous errors should be moved from `System` to their own `namespace Exception`.__*__
 * Classes like [`Math`](https://docs.microsoft.com/en-us/dotnet/api/system.math), [`MathF`](https://docs.microsoft.com/en-us/dotnet/api/system.mathf) shall be namespaces for granulated domain classes.
 

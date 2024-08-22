@@ -36,9 +36,10 @@ Don't anticipate much from IT leaders but must-know hints and rules:
 
 ### Tools
 
-+ [Grammarly](https://app.grammarly.com/apps) - swift and sweet multi-language check in browsers.
-+ [Merriam-Webster](https://m-w.com) - the oldest American published online since the beginning of WWW and still looks great.
-+ [Britannica](https://www.britannica.com/topic/ampersand) - the cult British encyclopedia online
-+ [LibreOffice](https://www.libreoffice.org/) - may be the best freeware to write and draw (open source with fresh [git contributions](https://github.com/LibreOffice)<sup>:octocat:</sup>).
++ [Grammarly](https://app.grammarly.com/apps) &mdash; swift and sweet multi-language check in browsers.
++ [Merriam-Webster](https://m-w.com) &mdash; the oldest American published online since the beginning of WWW and still looks great.
++ [Britannica](https://www.britannica.com/topic/ampersand) &mdash; the cult British encyclopedia online
++ [LibreOffice](https://www.libreoffice.org/) &mdash; may be the best freeware to write and draw (open source with fresh [git contributions](https://github.com/LibreOffice)<sup>:octocat:</sup>).
++ [Mermaid](https://mermaid.js.org/intro/) &mdash; fast diagrams sketching **officially supported** in :octocat: markdown
 
 🔚 :crescent_moon:2024

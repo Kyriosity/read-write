@@ -124,7 +124,7 @@ Attributed to _Gerald Weinberg_
 
 Knowing the high-responsibility software in which Mr.&nbsp;Weinberg participated one would strongly doubt his authorship. Or it was an explicit joke.
 
-Despite all epic failures, software, on which our life depends, is extremely robust and contrary made the world safer. And the aphorism shall better be: "If the software is built like houses, customers will wait decades for change requests.",
+Despite all epic failures, software, on which our life depends, is extremely robust and contrary made the world safer. The aphorism shall better be: "If the software is built like houses, customers will wait decades for change requests.",
 
 </details>
 
@@ -143,10 +143,15 @@ After 25 years Java is in the top five, C++ -- in 10, and where will be Lisp in 
 <details><summary><b><ins>Hardware</ins></b></summary>
 &nbsp;
  
-> The programmer's primary weapon in the never-ending battle against slow system is to change the intramodular structure.\
+> The programmer's primary weapon in the **never-ending battle against slow system** is to change the intramodular structure.\
 _Fred Brooks_
 
-Dare to say that resources and performance are no longer a headache for the majority of applications.
+I dare say that resources and performance are no longer a headache for the majority of applications.
+
+> **Software gets slower faster than hardware gets faster.**\
+_Niklaus Wirth_, 1995, "A Plea for Lean Software" (aka Wirth's law)
+
+Much has changed since the 1990s when sparing half a byte was _bon ton_. Things like auto memory allocation with garbage collection and intermediate languages appeared only because the hardware could facilitate them.
 
 </details>
 
@@ -202,16 +207,6 @@ _C.A.R. (Tony) Hoare_, 2002 in interview
 <details><summary>Full quote...</summary>
  What’s happened is that practical programmers have used whatever understanding they’ve gained, or theoreticians have offered them, to increase complexity. So programming languages on the whole are very much more complicated than they used to be: object orientation, inheritance, and other features are still not really being thought through from the point of view of a coherent and scientifically well-based discipline or a theory of correctness. My original postulate, which I have been pursuing as a scientist all my life, is that one uses the criteria of correctness as a means of converging on a decent programming language design—one which doesn’t set traps for its users, and ones in which the different components of the program correspond clearly to different components of its specification, so you can reason compositionally about it. Programming languages in full generality have not really paid full attention to this aspect. They tend to be defined purely on the basis of what the  29 machine does when it’s executing the program, and often at quite a low level of granularity too—individual storage accesses. I still think we have to get the message across. The tools, including the compiler, have to be based on some theory of what it means to write a correct program.
 </details>
-
-</details>
-
-<details><summary><b><ins>Hardware vs. software</ins></b></summary>
-
-> **Software gets slower faster than hardware gets faster.**\
-_Niklaus Wirth_, 1995, "A Plea for Lean Software"\
-(aka Wirth's law)
-
-The growth of hardware capacities and speed allows the software to become abstracter and larger.
 
 </details>
 
@@ -293,7 +288,7 @@ _**Edsger W. Dijkstra**_, _Edsger Wybe Dijkstra_ (1930-2002) 🇳🇱, known als
 _**Maurice Wilkes**_, 🇬🇧 Maurice Vincent Wilkes (June 26, 1913 – November 29, 2010) 
 
 _**Charles Bachman**_ (1924-2017) who invented the DBMS and changed the business of GE.\
-A rare pure engineer among IT founders, and one who visited the White House to receive a National Medal of Technology and Innovation personally from the President.
+A rare pure engineer among IT founders, and one who visited the White House to receive a National Medal of Technology and Innovation personally from the President.\
 https://cacm.acm.org/opinion/how-charles-bachman-invented-the-dbms-a-foundation-of-our-digital-world/
 
 _**Ted Codd**_, Edgar Frank "Ted" Codd (1923-2003) who made databases relational (vs Network data model introduced by Charles Bachman and others)
