@@ -1,4 +1,4 @@
-# Pencraft - Freestyle - Essays
+# Pencraft - Essays
 
 <table>
   <tr>
@@ -24,9 +24,15 @@
       <a href="README+/SW_architect-aTake.md"><img src="../../../../_rsc/_img/_nav/tiles/Architect_200px.jpg" alt="SW_architect-aTake.md" title="Finding Software Architect - a Take"/>
       <br /><div align="center"><h4>SOFTWARE ARCHITECT</h4></div></a>
     </td>
+        <td>
+          <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/cs-think_tasks.md"><img src="../../../../_rsc/_img/_nav/tiles/_WorkInProgress_200px.jpg" alt="think-tasks.md" title="Promise oriented patterns on tasks"/>
+            <br /><div align="center"><h4>THINKING in TASKS</h4></div></a>
+        </td>
+  </tr>
+  <tr>
     <td>
       <picture><img src="../../../../_rsc/_img/_nav/tiles/_ComingNext_200px.jpg" alt="Coming up next..." title="Next essay coming sooner or later.."/></picture>
-<br /><div align="center"><h4>? ? ?</h4>
+      <br /><div align="center"><h4>? PEN RESISTANCE ?</h4>
     </td>
   </tr>
 </table>
