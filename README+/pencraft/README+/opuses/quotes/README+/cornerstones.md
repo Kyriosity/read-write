@@ -1,4 +1,4 @@
-# IT quotes - Fluid collection
+# IT quotes - Cornerstones
 
 ![Work in progress](https://img.shields.io/badge/🚧_work_🚧-in_progress-yellow) 
 
