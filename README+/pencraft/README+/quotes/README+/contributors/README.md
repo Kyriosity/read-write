@@ -1,6 +1,6 @@
-# Persons
+# Influencers
 
-## IT
+## Techno
 
 ### IT Pioneers
 
@@ -16,26 +16,39 @@ _Grace Brewster Hopper_, née Murray (**1906**-1992), 🇺🇸 grandma of Cobol,
 
 _Alan Mathison Turing_ (**1912**-1954)
 
-_**Richard Hamming**_, 🇺🇸 Richard Wesley Hamming (1915-1988), a mathematician known for prize-winning IT solutions
+#### Richard Hamming
 
-_**Alan Perlis**_ (1922-1990), one of the ALGOL founders
+_Richard Wesley Hamming_ (**1915** 🇺🇸 - 1988), a mathematician known for prize-winning IT solutions
 
-_**Fred Brooks**_, Frederick Phillips Brooks Jr. (1931-2022), Known for IBM	OS/360
+#### Alan Perlis
 
-_**Gerald Weinberg**_, Gerald Marvin Weinberg (1933-2018), a computer scientist at IBM, a teacher of the psychology and anthropology of software
+_Alan Jay Perlis_ (**1922** Pittsburgh, Pennsylvania :us: - 1990), MIT, one of the ALGOL founders
 
-_**Tony Hoare**_, _Charles Antony Richard Hoare_ (born 1934), a fundamental contributor to programming languages and algorithms
+#### Fred Brooks
 
-**_Niklaus Wirth_**, _Niklaus Emil Wirth_ 🇨🇭 (1934-2024) inventor of Pascal and other languages
+_Frederick Phillips Brooks Jr._ (1931-2022), Known for IBM	OS/360
 
-**_Donald Knuth_**, _Donald Ervin Knuth_ (born 1938), one of the first and most prominent computer scientists, best known for _The Art of Computer Programming_, 1962-1973
+#### Gerald Weinberg
 
+_Gerald Marvin Weinberg_ (**1933** - 2018), a computer scientist at IBM, a teacher of the psychology and anthropology of software
+
+#### Tony Hoare**
+
+_Charles Antony Richard Hoare_ (born **1934**), a fundamental contributor to programming languages and algorithms
+
+### Niklaus Wirth
+
+_Niklaus Emil Wirth_ (**1934** 🇨🇭 - 2024) inventor of Pascal and other languages
+
+#### Donald Knuth
+
+_Donald Ervin Knuth_ (born **1938** Milwaukee, Wisconsin 🇺🇸), one of the first and most prominent computer scientists, best known for _The Art of Computer Programming_, 1962-1973
 
 #### Edsger W Dijkstra
 
 _Edsger Wybe Dijkstra_ (**1930**, Rotterdam 🇳🇱 - 2002) 🇳🇱, known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
-?? the abolisher of GoTo (sorry, it was _Niklaus Wirth_), the inventor of _mutex_.
+ The inventor of _mutex_, ?the abolisher of `go to`? (sorry, it was _Niklaus Wirth_).
 
 _**Maurice Wilkes**_, 🇬🇧 Maurice Vincent Wilkes (June 26, 1913 – November 29, 2010) 
 
@@ -46,7 +59,6 @@ https://cacm.acm.org/opinion/how-charles-bachman-invented-the-dbms-a-foundation-
 _**Ted Codd**_, Edgar Frank "Ted" Codd (1923-2003) who made databases relational (vs Network data model introduced by Charles Bachman and others)
 
 _**Seymour Cray**_, (1925-1996), father of supercomputers
-
 
 ### Rational Gang of Four
 
@@ -68,11 +80,17 @@ _Grady Booch_ (1955 Amarillo, Texas us)
 
 ### _et alia_
 
-**_Dennis Ritchie_**, Dennis MacAlistair Ritchie (1941-2011) creator of C and co-author of UNIX (with Ken Thompson)
+#### Theodore von Kármán
 
-_**Theodore von Kármán**_ (1881-1963), outstanding aerospace engineer best known for _Kármán line_
+_Theodore von Kármán_ (1881-1963), outstanding aerospace engineer best known for _Kármán line_
 
-_**Barbara Liskov**_, the only one honored with a personal letter in design principles - SO**L**ID.
+#### Dennis Ritchie
+
+_Dennis MacAlistair Ritchie_ (**1941**-2011) creator of C and co-author of UNIX (with Ken Thompson)
+
+#### Barbara Liskov
+
+_Barbara Liskov_, the only one honored with a personal letter in design principles - SO**L**ID.
 
 #### Bjarne Stroustrup
 
