@@ -17,9 +17,10 @@ Regardless of missions, any tech writing is an expensive and exhausting exercise
 Now, time to split:\
 |- [Documentation](README+/tech_docu.md)\
 |- [Authoring](README+/tech-authoring.md)\
-|- Technical illustration 🚧 // will be written when I finally master the pen tablet
+|- Technical illustration :tablet:\
+// will be written when I finally master the pen tablet
 
-Other uses of pen&brush, you may enjoy (or recoil in distaste):\
+Other uses of pen&brush, you may enjoy:\
 |- [Freestyle essays](README+/essays/)\
 |- [Collecting IT quotes](README+/quotes)\
 |- [IT Memes](README+/memes)
@@ -30,9 +31,9 @@ And how without going [offtopic](README+/offtopic)?
 
 The writings and collections here are ...
 
-* The subject of personal taste, inclination, vision, and fallacies. It's up to your taste and mood to like them or not.
-* The subject of continuous work and rework
-* Some opuses may be in the badly readable state of 🚧draft🚧 (just skip)
+* The subject of personal taste, inclination, vision, and fallacies. It's up to you whether to like them or recoil in distaste.
+* The subject of endless edit and rework.
+* Some opuses may be in the badly readable state of 🚧draft🚧 (just skip).
 
 \_______
 
