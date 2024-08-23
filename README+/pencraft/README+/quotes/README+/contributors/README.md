@@ -51,8 +51,10 @@ _**Theodore von Kármán**_ (1881-1963), outstanding aerospace engineer best kno
 
 _**Barbara Liskov**_, the only one honored with a personal letter in design principles - SO**L**ID.
 
-_**Bjarne Stroustrup**_ , 🇩🇰 /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
-Beyond his contributions, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html)<sup>:link:</sup> saving us from misinterpretations.
+#### Bjarne Stroustrup
+
+Bjarne Stroustrup (1950, Aarhus 🇩🇰) /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
+Beyond the great programming, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html)<sup>:link:</sup> saving us from misinterpretations.
 
 **_Richard Stallman_**, Richard Matthew Stallman, founder of GNU and Free Software Movement
 
