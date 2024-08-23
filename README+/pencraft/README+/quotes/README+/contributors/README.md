@@ -2,7 +2,9 @@
 
 ## IT Pioneers
 
-***John von Neumann***, _inter alia_ with the widest coverage of mathematics in his time 
+### John von Neumann
+
+John von Neumann (1903, Budapest - 1957, Washington, D.C.), _inter alia_ mathematician with the widest coverage in his time 
 
 ***Grace Hopper***, Grace Brewster Hopper, née Murray (1906-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (which queerly chords with her name).
 
