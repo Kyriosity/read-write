@@ -30,10 +30,10 @@ And how without going [offtopic](README+/offtopic)?
 
 The writings and collections here are ...
 
-* The subject of personal taste, inclination, vision, and fallacies. It's up to you whether to read/like them or not.
+* The subject of personal taste, inclination, vision, and fallacies. It's up to your taste and mood to like them or not.
 * The subject of continuous work and rework
-* Some works are in the state of 🚧draft🚧
+* Some opuses may be in the badly readable state of 🚧draft🚧 (just skip)
 
 \_______
 
-:end: You are welcome to contribute and correct errata.
+:end: <sub>You are welcome to contribute and correct errata.</sub>
