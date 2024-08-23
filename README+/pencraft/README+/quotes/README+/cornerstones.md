@@ -1,41 +1,48 @@
-# IT quotes - Cornerstones
+# IT - Quotes - Cornerstones
 
-[![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../../software/ArcDeco/README.md)
+[![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software/ArcDeco/README.md)
+
+🔲✅
+
+![#architecture](https://img.shields.io/badge/%23-Architecture-yellow) ![#SimpleVsComplex](https://img.shields.io/badge/%23-Simple➿comp⚔️lex!-green)
 
 <p dir="rtl">?What makes a good quote<br/>
 .Terse, witty? —  That's for aphorisms<br/>
 .Brainy, ingenious? — Prerequisites<br/>
 .Aging. — The criterion</p>
 
-That's why here you find a discernible inclination toward [IT pioneers](contributors/README.md#IT-Pioneers) whose input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
+That's why here you find a discernible inclination toward [IT pioneers](contributors/README.md#IT-Pioneers) whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
 
-Quotes and epigraphs can be annoying, but for this paper, I cherrypick worthy ones that provoke a deeper understanding of IT. Good quotes are rare - not every expert speaks/writes/thinks in them and maintains their list.
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
+Quotes and epigraphs can be annoying, but only worthy ones have been cherry-picked for this paper to provoke deeper IT thinking. Looking for quotes gets arduous - not every expert spoke/wrote/thought in them and maintained their list.
 
 To keep the selection genuine I relocated sarcasm and dubiety to other chapters.
 
-## Simplicity (vs complexity)
+\_________
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
+
+## Aged good
 
 > **Simplicity does not precede complexity but follows it.**\
-_Alan Perlis_
+[Alan Perlis](contributors/README.md#Alan-Perlis)
+
+## Abstraction
 
 > **The entire history of software engineering is that of the rise in levels of abstraction**.\
-_Grady Booch_, 2003
+[Grady Booch](contributors/README.md#Grady-Booch), 2003
 
-![#architecture](https://img.shields.io/badge/%23-Architecture-yellow) ![Kant quote](https://img.shields.io/badge/Dare_to-know!-scarlet)
 > **Data abstractions provide the same benefits as procedures but for data.**\
 _Barbara Liskov_
 
 > `AND` and `OR` are the basic operations of logic. Together with `NO` they are a complete set of basic logical operations — **all other logical operations**, no matter how complex, **can be obtained by suitable combinations of these**.\
-_John von Neumann_
+[John von Neumann](contributors/README.md#John-von-Neumann)
 
 > **Without philosophy language design becomes hacking.**\
-_Bjarne Stroustrup_
+[Bjarne Stroustrup](contributors/README.md#Bjarne-Stroustrup)
 
 > My ideal of program design is to represent the concepts of the application domain directly in code. 
 That way, if you understand the application domain, you understand the code and vice versa.\
-_Bjarne Stroustrup_++
+[Bjarne Stroustrup](contributors/README.md#Bjarne-Stroustrup)
 
 [![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software/ArcDeco/README.md)
 > The people at the bottom do not have the larger, global view, but at the top they do not have the local view of all the details, many of which can often be very important, so **either extreme gets poor results**.\
@@ -53,13 +60,13 @@ The first method is far more difficult. It demands the same skill, devotion, ins
 ![#design](https://img.shields.io/badge/%23-Design-yellow) 
 
 > The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.\
-_Edsger W. Dijkstra_, 1970
+[Edsger W. Dijkstra](contributors/README.md#Edsger-W-Dijkstra), 1970
 
 ![#design](https://img.shields.io/badge/%23-Methodolgy-yellow) 
 
 > **Humans are allergic to change**. They love to say, "We've always done it this way."  **I try to fight that.**\
 That's why I have a clock on my wall that runs counterclockwise.\
-*Grace Hopper*
+[Grace Hopper](contributors/README.md#Grace-Hopper)
 
 ### Docu and comments
 
@@ -69,7 +76,7 @@ _Kent Beck_,  "Refactoring", 1999
 ## Quality assurance
 
 > **Testing shows the presence not the absence of bugs.**\
-_Edsger W. Dijkstra_, 1969 (documented while the saying appeared before)
+[Edsger W. Dijkstra](contributors/README.md#Edsger-W-Dijkstra), 1969 (documented while the saying appeared before)
 
 > The key is to **test the areas that you are most worried about going wrong**. That way you get the most benefit for your testing effort. It is better to write and run incomplete tests than not to run complete tests.\
 _Kent Beck_,  "Refactoring", 1999
@@ -88,7 +95,7 @@ _Dennis Ritchie_
 > One of my guiding principles is **don’t do anything that other people are doing. Always do something a little different if you can.** The concept is that if you do it a little differently there is a greater potential for reward than if you the same thing that other people are doing. I think that this kind of goal for one’s work, having obviously the maximum risk, would have the maximum reward no matter what the field may be.\
 _Seymour Cray_
 
-## Aged not that good
+## Part 2/2. Aged not that good
 
 <details><summary><b><ins>Skills</ins></b></summary>
 &nbsp;
@@ -97,7 +104,7 @@ _Seymour Cray_
 _Alan Perlis_
 
 > Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.\
-_Edsger W. Dijkstra_, 1975
+[Edsger W. Dijkstra](contributors/README.md#Edsger-W-Dijkstra), 1975
 
 The respected masters couldn't foresee the developing force's exponential growth and the entry threshold's dramatic sinking.
 
@@ -159,7 +166,7 @@ It would be ok for this specific case but _Fred Brooks_ popularized it in [The M
 
 Not only derogatory but illogical. Finding nine women in the vicinity who will deliver ten babies in half a month will take a couple of days. 
 
-_Edsger W.&nbsp;Dijkstra_ conveyed the idea much more plausible (albeit about languages, 1975):
+[Edsger W. Dijkstra](contributors/README.md#Edsger-W-Dijkstra) conveyed the idea much more plausible (albeit about languages, 1975):
 
 > It is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with **ten** blunt axes instead.
 
@@ -173,13 +180,13 @@ _Edsger W.&nbsp;Dijkstra_ conveyed the idea much more plausible (albeit about la
 &nbsp;
  
 > It is practically impossible to teach good programming to students that have had a prior exposure to **BASIC**: as potential programmers they are mentally mutilated beyond hope of regeneration.\
-_Edsger W. Dijkstra_, 1975
+[Edsger W. Dijkstra](contributors/README.md#Edsger-W-Dijkstra), 1975
 
 > C++ is a badly designed and ugly language. It would be a shame to use it in Emacs.\
 _Richard Stallman_
 
 > FORTRAN—the "infantile disorder" by now nearly 20 years old, is hopelessly inadequate for whatever computer application you have in mind today: it is now too clumsy, too risky, and too expensive to use.\
-_Edsger W. Dijkstra_
+[Edsger W. Dijkstra](contributors/README.md#Edsger-W-Dijkstra)
 
 > <mark>C++ is a language strongly optimized for liars and people who go by guesswork and ignorance.</mark>\
 _Erik Naggum_, Lisp programmer, 2008 on Usenet
