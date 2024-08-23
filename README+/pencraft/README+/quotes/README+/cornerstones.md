@@ -32,7 +32,7 @@ To keep the selection genuine I relocated sarcasm and dubiety to other chapters.
 [Grady Booch](contributors/README.md#Grady-Booch), 2003
 
 > **Data abstractions provide the same benefits as procedures but for data.**\
-_Barbara Liskov_
+[Barbara Liskov](contributors/README.md#Barbara-Liskov)
 
 > `AND` and `OR` are the basic operations of logic. Together with `NO` they are a complete set of basic logical operations — **all other logical operations**, no matter how complex, **can be obtained by suitable combinations of these**.\
 [John von Neumann](contributors/README.md#John-von-Neumann)
