@@ -8,22 +8,24 @@ __Documentation__ and __authoring__ are two diverging employments of writing and
 * Authoring is **initiative**, must take a bird view of the subject, inspire and explain sophisticated and regulated ideas in abstractive friendly, and sometimes informal, fashion.\
 (Much of the renowned works, such as relational DBs or REST, were based on "paper" concepts with little or no implementation.)
 
+It's a burden for readers to find and study documentation. With authoring, it's a headache for authors to attract readers.
+
 Regardless of missions, any tech writing is an expensive and exhausting exercise and, if not a hobby or bondage, must:
 
 + [x] have a live eager auditorium,
 + [x] excel other ways of teaching (consider quickly sketched presentation, captured video tutorial, watercooler talks),
 + [x] be long-term (updated and evolved).
 
-Now, time to split:\
+**Further:**\
 |- [Documentation](README+/tech_docu.md)\
 |- [Authoring](README+/tech-authoring.md)\
-|- Technical illustration :tablet:\
-// will be written when I finally master the pen tablet
+|- Technical illustration<sup>🖌️</sup>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🖌️</sup> <sub>will be written when mastering the pen tablet</sub>
 
-Other uses of pen&brush, you may enjoy:\
+Other uses of pen&brush for IT, you may find here:\
 |- [Freestyle essays](README+/essays/)\
-|- [Collecting IT quotes](README+/quotes)\
-|- [IT Memes](README+/memes)
+|- [Collecting quotes](README+/quotes)\
+|- [Memes](README+/memes)
 
 And how without going [offtopic](README+/offtopic)?
 
@@ -32,8 +34,8 @@ And how without going [offtopic](README+/offtopic)?
 The writings and collections here are ...
 
 * The subject of personal taste, inclination, vision, and fallacies. It's up to you whether to like them or recoil in distaste.
-* The subject of endless edit and rework.
-* Some opuses may be in the badly readable state of 🚧draft🚧 (just skip).
+* The subject of endless editing and rework.
+* Some opuses may be in the badly readable state of 🚧draft🚧 (just skip them).
 
 \_______
 
