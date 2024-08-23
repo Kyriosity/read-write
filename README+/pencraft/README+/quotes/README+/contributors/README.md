@@ -28,7 +28,10 @@ _**Tony Hoare**_, _Charles Antony Richard Hoare_ (born 1934), a fundamental cont
 
 **_Donald Knuth_**, _Donald Ervin Knuth_ (born 1938), one of the first and most prominent computer scientists, best known for _The Art of Computer Programming_, 1962-1973
 
-_**Edsger W. Dijkstra**_, _Edsger Wybe Dijkstra_ (1930-2002) 🇳🇱, known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+
+#### Edsger W. Dijkstra
+
+_Edsger Wybe Dijkstra_ (1930, Rotterdam 🇳🇱 - 2002) 🇳🇱, known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 ?? the abolisher of GoTo (sorry, it was _Niklaus Wirth_), the inventor of _mutex_.
 
