@@ -22,7 +22,7 @@ The grains of truth in this wisdom:
 **Escape?**
 
 > Don't swim against the current. Stay in the river, become the river; and the river is already going to the sea. This is the great teaching.\
-— Rajneesh, aka Osho (1931-1990)
+— _Rajneesh, aka Osho_ (1931-1990)
 
 Translated east-to-west this means: find a sinecure in a big company.
 
