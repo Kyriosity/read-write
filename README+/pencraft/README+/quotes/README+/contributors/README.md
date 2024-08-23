@@ -1,12 +1,16 @@
 # Persons
 
-## IT Pioneers
+## IT
 
-### John von Neumann
+### IT Pioneers
 
-John von Neumann (1903, Budapest - 1957, Washington, D.C.), _inter alia_ mathematician with the widest coverage in his time 
+#### John von Neumann
 
-***Grace Hopper***, Grace Brewster Hopper, née Murray (1906-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (which queerly chords with her name).
+_John von Neumann_ (**1903**, Budapest - 1957, Washington, D.C. 🇺🇸), _inter alia_ mathematician with the widest coverage in his time 
+
+#### Grace Hopper
+
+_Grace Brewster Hopper_, née Murray (**1906**-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (which queerly chords with her name).
 
 _**Alan Turing**_, Alan Mathison Turing (1912-1954)
 
@@ -39,11 +43,25 @@ _**Ted Codd**_, Edgar Frank "Ted" Codd (1923-2003) who made databases relational
 _**Seymour Cray**_, (1925-1996), father of supercomputers
 
 
-## Gang of Four
+### Rational Gang of Four
 
-**_Grady Booch_**, us: software engineer from the "Gang of Four": founder of UML and the first famous [Design Pattern](https://en.wikipedia.org/wiki/Design_Patterns) "almanac".
+The founders of UML and the first famous [Design Pattern](https://en.wikipedia.org/wiki/Design_Patterns) "almanac".
 
-## _et alia_
+#### Ivar Jacobson 
+
+_Ivar Hjalmar Jacobson_ (1939 Ystad 🇸🇪)
+
+#### James Rumbaugh
+
+_James E. Rumbaugh_ (1947  Bethlehem, Pennsylvania us)
+
+#### Grady Booch
+
+_Grady Booch_ (1955 Amarillo, Texas us)
+
+#### 
+
+### _et alia_
 
 **_Dennis Ritchie_**, Dennis MacAlistair Ritchie (1941-2011) creator of C and co-author of UNIX (with Ken Thompson)
 
