@@ -12,7 +12,9 @@ _John von Neumann_ (**1903**, Budapest - 1957, Washington, D.C. 🇺🇸), _inte
 
 _Grace Brewster Hopper_, née Murray (**1906**-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (which queerly chords with her name).
 
-_**Alan Turing**_, Alan Mathison Turing (1912-1954)
+#### Alan Turing
+
+_Alan Mathison Turing_ (**1912**-1954)
 
 _**Richard Hamming**_, 🇺🇸 Richard Wesley Hamming (1915-1988), a mathematician known for prize-winning IT solutions
 
@@ -29,9 +31,9 @@ _**Tony Hoare**_, _Charles Antony Richard Hoare_ (born 1934), a fundamental cont
 **_Donald Knuth_**, _Donald Ervin Knuth_ (born 1938), one of the first and most prominent computer scientists, best known for _The Art of Computer Programming_, 1962-1973
 
 
-#### Edsger W. Dijkstra
+#### Edsger W Dijkstra
 
-_Edsger Wybe Dijkstra_ (1930, Rotterdam 🇳🇱 - 2002) 🇳🇱, known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+_Edsger Wybe Dijkstra_ (**1930**, Rotterdam 🇳🇱 - 2002) 🇳🇱, known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 ?? the abolisher of GoTo (sorry, it was _Niklaus Wirth_), the inventor of _mutex_.
 
