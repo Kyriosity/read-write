@@ -5,7 +5,7 @@
 .<i>M.Twain</i>, <i>A.Einstein</i>, <i>S.Freud</i> and <i><b>Anonymous</b></i></p>
 
 <details>
-<summary><ins>&nbsp;<b>...to write the documentation</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>...to document</b>&nbsp;</ins></summary>
 &nbsp;
 
 > **Epistula non erubescit**\
@@ -153,6 +153,11 @@ To name a few of the officially recognized:
 > **For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.**\
 Ecclesiastes 1:18, Webster's Bible Translation.
 
+#### Laws of nature
+
+> **Nature uses as little as possible of anything.**\
+_Johannes Kepler_ (1571-1630), key prolific astronomer
+
 #### F.A.Q.
 
 > **That question is too good to spoil with an answer.**\
@@ -233,7 +238,15 @@ Alexander Pope, poet (1688-1744)
 > **Never allow the same bug to bite you twice.**\
 _Steve Maguire_, programmer and author
 
+\_________________________________
 
+</details>
+
+<details>
+<summary><ins>&nbsp;<b>🚧...COMING NEXT...🚧</b>&nbsp;</ins></summary>
+&nbsp;
+
++ To find the right flattering words
 
 \_________________________________
 
