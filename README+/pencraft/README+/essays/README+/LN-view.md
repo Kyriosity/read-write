@@ -5,9 +5,10 @@
 </td><td>
 As a developer of Lotus Notes<br/>LOB applications for over a decade<br/>(before switching to .NET),<br/>I must have deserved the privilege<br/>of personal (Lotus) notes.
 </td></tr></table>
-IBM PC users remember (or not) that it was a time and a <b>word</b>, not Microsoft's one, but "Lotus" - a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
 
-The multiplatform groupware _Lotus Notes_ (henceforth also _LN_), released at the turn of 1991, joined the best of computer sciences from the 1980s with _laissez-faire_ IT in the 1990s and rapidly became the system of core value for corporations. 
+Corporate IBM PC users remember (or not) that it was a time and a <b>word</b> &mdash; not Microsoft's one or WordPerfect, but <mark>"Lotus"</mark>, a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
+
+The multiplatform groupware _Lotus Notes_ (henceforth also _LN_), released at the turn of 1991, joined the best of computer sciences from the 1980s with _laissez-faire_ IT in the 1990s and rapidly became the system of core value for companies and teams. 
 
 LN paved the public road to diverse innovations: client-server, multirole/group authorization, doc-oriented DB<sup>📜</sup>, __**replication**__<sup>⭐</sup>, to name a few of the unique goodies.
 
@@ -57,7 +58,8 @@ As a substitute for rudimentary LotusSciprt; supporting the development of UX li
 
 > Let me finish with the quote from another hit - _Now I know what made Lotus blue_. In earnest, I was pretty sure that _Lotus_ until [proof](https://en.wikipedia.org/wiki/Now_I_Know_What_Made_Otis_Blue). This tells enough about my involvement.
 
-\-------\
+\______
+
  🔚 &nbsp;🌘 kyriosity 2024
 
 
