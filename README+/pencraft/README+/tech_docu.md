@@ -40,6 +40,6 @@ Don't anticipate much from IT leaders but must-know hints and rules:
 + [Merriam-Webster](https://m-w.com) &mdash; the oldest American published online since the beginning of WWW and still looks great.
 + [Britannica](https://www.britannica.com/topic/ampersand) &mdash; the cult British encyclopedia online
 + [LibreOffice](https://www.libreoffice.org/) &mdash; may be the best freeware to write and draw (open source with fresh [git contributions](https://github.com/LibreOffice)<sup>:octocat:</sup>).
-+ [Mermaid](https://mermaid.js.org/intro/) &mdash; fast diagrams sketching **officially supported** in :octocat: markdown
++ [Mermaid](https://mermaid.js.org/intro/) &mdash; sketching diagrams of misc. types **native supported** in :octocat: markdown
 
 🔚 :crescent_moon:2024
