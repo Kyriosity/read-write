@@ -9,13 +9,13 @@
 <p dir="rtl">?What makes a good quote<br/>
 .Terse, witty? —  That's for aphorisms<br/>
 .Brainy, ingenious? — Prerequisites<br/>
-.Context independent. — The criterion</p>
+.Context-free. — The criterion</p>
 
 That's why here you find a discernible inclination toward [IT pioneers](contributors/README.md#IT-Pioneers) whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
 
-Quotes and epigraphs can be annoying, but only worthy ones have been cherry-picked for this paper to provoke deeper IT thinking. Looking for quotes gets arduous - not every expert spoke/wrote/thought in them and maintained their list.
-
-To keep the selection genuine I relocated sarcasm and dubiety to other chapters.
+* Quotes and epigraphs can be annoying, but only worthy ones are cherry-picked for this paper to provoke deeper IT thinking. 
+* Looking for quotes gets arduous - not every expert spoke/wrote/thought in them and maintained their list.
+* To keep the selection genuine sarcasm and dubiety are avoided here.
 
 \_________
 
