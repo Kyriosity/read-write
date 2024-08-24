@@ -9,7 +9,7 @@
 <p dir="rtl">?What makes a good quote<br/>
 .Terse, witty? —  That's for aphorisms<br/>
 .Brainy, ingenious? — Prerequisites<br/>
-.Aging. — The criterion</p>
+.Context independent. — The criterion</p>
 
 That's why here you find a discernible inclination toward [IT pioneers](contributors/README.md#IT-Pioneers) whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
 
@@ -46,10 +46,10 @@ That way, if you understand the application domain, you understand the code and 
 
 [![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software/ArcDeco/README.md)
 > The people at the bottom do not have the larger, global view, but at the top they do not have the local view of all the details, many of which can often be very important, so **either extreme gets poor results**.\
-_Richard Hamming_
+[Richard Hamming](contributors/README.md#Richard-Hamming)
 
 > Science is what we understand well enough to explain to a **computer**. Art is everything else we do.\
-_Donald Knuth_
+[Donald Knuth](contributors/README.md#Donald-Knuth)
 
 ![#design](https://img.shields.io/badge/%23-Design-yellow) 
 
@@ -71,7 +71,7 @@ That's why I have a clock on my wall that runs counterclockwise.\
 ### Docu and comments
 
 > When you feel the need to write a comment, first try to refactor the code so **that any comment becomes superfluous**.\
-_Kent Beck_,  "Refactoring", 1999
+[Kent Beck](contributors/README.md#Kent-Beck), "Refactoring", 1999
 
 ## Quality assurance
 
@@ -79,21 +79,22 @@ _Kent Beck_,  "Refactoring", 1999
 [Edsger W. Dijkstra](contributors/README.md#Edsger-W-Dijkstra), 1969 (documented while the saying appeared before)
 
 > The key is to **test the areas that you are most worried about going wrong**. That way you get the most benefit for your testing effort. It is better to write and run incomplete tests than not to run complete tests.\
-_Kent Beck_,  "Refactoring", 1999
+[Kent Beck](contributors/README.md#Kent-Beck), "Refactoring", 1999
 
+{QA!!!}
 > **I find it very odd.** I’m a fairly private person who just sits in front of the computer and hacks on code.\
-_Andres Freund_, 2024, a programmer who occasionally prevented the "century" cyberattack in [NYT interview](https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html).
+_Andres Freund_, 2024, a programmer who occasionally prevented the "century" cyberattack, [NYT interview](https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html).
 
 ## Organisation
 
 > A man provided with paper, pencil, and rubber, and subject to strict **discipline**, is in effect a universal machine.\
-_Allan Turing_ (1948)
+[Allan Turing](contributors/README.md#Allan-Turing) (1948)
 
 > When I read commentary about suggestions for where C should go, I often think back and give thanks that it wasn`t developed under the advice of a worldwide crowd.\
-_Dennis Ritchie_
+[Dennis_Ritchie](contributors/README.md#Dennis-Ritchie)
 
 > One of my guiding principles is **don’t do anything that other people are doing. Always do something a little different if you can.** The concept is that if you do it a little differently there is a greater potential for reward than if you the same thing that other people are doing. I think that this kind of goal for one’s work, having obviously the maximum risk, would have the maximum reward no matter what the field may be.\
-_Seymour Cray_
+[Seymour Cray](contributors/README.md#Seymour-Cray)
 
 ## Part 2/2. Aged not that good
 
@@ -101,7 +102,7 @@ _Seymour Cray_
 &nbsp;
  
 > Prolonged contact with the computer turns mathematicians into clerks and vice versa.\
-_Alan Perlis_
+[Alan Perlis](contributors/README.md#Alan-Perlis)
 
 > Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.\
 [Edsger W. Dijkstra](contributors/README.md#Edsger-W-Dijkstra), 1975
@@ -147,7 +148,7 @@ _Fred Brooks_
 I dare say that resources and performance are no longer a headache for the majority of applications.
 
 > **Software gets slower faster than hardware gets faster.**\
-_Niklaus Wirth_, 1995, "A Plea for Lean Software" (aka Wirth's law)
+[Niklaus Wirth](contributors/README.md#Niklaus-Wirth), 1995, "A Plea for Lean Software" (aka Wirth's law)
 
 Much has changed since the 1990s when sparing half a byte was _bon ton_. Things like auto memory allocation with garbage collection and intermediate languages appeared only because the hardware could facilitate them.
 
