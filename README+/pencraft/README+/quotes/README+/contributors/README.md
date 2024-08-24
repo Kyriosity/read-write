@@ -4,6 +4,8 @@
 
 ### IT Pioneers
 
+There's a discernible inclination in quotes here toward [IT pioneers](contributors/README.md#IT-Pioneers) whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
+
 #### John von Neumann
 
 _John von Neumann_ (**1903**, Budapest - 1957, Washington, D.C. 🇺🇸), _inter alia_ mathematician with the widest coverage in his time 
@@ -49,7 +51,7 @@ _Seymour Roger Cray_ 🇺🇸 (1925-1996), UoM, father of supercomputers
 
 _Edsger Wybe Dijkstra_ 🇳🇱 (**1930**, Rotterdam  - 2002) 🇳🇱, known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
- The inventor of _mutex_, ?the abolisher of `go to`? (sorry, it was _Niklaus Wirth_).
+ The inventor of _mutex_, ?the abolisher of `goto`? (sorry, it was _Niklaus Wirth_).
 
 #### Fred Brooks
 
