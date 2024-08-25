@@ -4,8 +4,7 @@
 
 ### IT Pioneers
 
-There's a discernible inclination in quotes here toward the first generation of IT whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
-
+There's a discernible inclination in quotes here toward the first generation of IT whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and enough delusions count.
 
 \_________
 
@@ -13,7 +12,11 @@ There's a discernible inclination in quotes here toward the first generation of 
 
 #### John von Neumann
 
-_John von Neumann_ (**1903**, Budapest - 1957, Washington, D.C. 🇺🇸), _inter alia_ mathematician with the widest coverage in his time 
+_John von Neumann_ (**1903**, Budapest - 1957, Washington, D.C. 🇺🇸), one of IT founders, _inter alia_ mathematician with the widest coverage in his time. 
+
+One of the numerous bright quotes about him: "Most mathematicians prove what they can, von Neumann proves what he wants." (_Paul Halmos_, mathematician)
+
+Fun fact: searching for _von Neumann_ without the first name will bring primary a list of artifacts (like theorems) given his name.
 
 #### Grace Hopper
 
