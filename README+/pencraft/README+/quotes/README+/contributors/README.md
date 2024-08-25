@@ -4,7 +4,7 @@
 
 ### IT Pioneers
 
-There's a discernible inclination in quotes here toward the first generation of IT whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and enough delusions count.
+There's a discernible inclination in quotes here toward the mathematicians and engineers who stood behind the first computers. Whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and enough delusions count.
 
 \_________
 
@@ -63,7 +63,7 @@ _Edsger Wybe Dijkstra_ 🇳🇱 (**1930**, Rotterdam  - 2002) 🇳🇱, known al
 
 #### Fred Brooks
 
-_Frederick Phillips Brooks Jr._ (**1931**-2022), Known for IBM	OS/360
+_Frederick Phillips Brooks Jr._ (**1931**-2022), known for IBM	OS/360
 
 #### Gerald Weinberg
 
@@ -73,7 +73,7 @@ _Gerald Marvin Weinberg_ (**1933** - 2018), a computer scientist at IBM, a teach
 
 _Charles Antony Richard Hoare_ (born **1934**), a fundamental contributor to programming languages and algorithms
 
-### Niklaus Wirth
+#### Niklaus Wirth
 
 _Niklaus Emil Wirth_ (**1934** 🇨🇭 - 2024) inventor of Pascal and other languages
 
@@ -132,5 +132,7 @@ _Kent Beck_, eXtreme Programming founder
 #### Peter Norvig
 
 Peter Norvig 🇺🇸 AI computer scientist
+
+\______
 
 :end: but to be extended ...
