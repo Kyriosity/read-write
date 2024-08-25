@@ -20,7 +20,7 @@ The same magazine over seven decades later: "Fully transistorized computer, the 
 > "There are only two kinds of languages: the ones people complain about and the ones nobody uses".\
 Yes. Again, I very much doubt that the sentiment is original.\
 Of course, all "there are only two" quotes have to be taken with a grain of salt.\
-Bjarne Stroustrup*_ 
+[Bjarne Stroustrup](../contributors/README.md#Bjarne-Stroustrup)
 
 </details>
 
@@ -28,7 +28,7 @@ Bjarne Stroustrup*_
 &nbsp;
 
 > ... the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.\
-_Maurice Wilkes_
+[Maurice Wilkes](../contributors/README.md#Maurice-Wilkes)
 
 It's quoted sometimes as an appeal to quality but it's indeed a curious fact about the former hardware.
 
@@ -43,4 +43,4 @@ The EDSAC was on the top floor of the building and the tape-punching and editing
 
 </details>
 
-🔚
+🔚 ... TO BE CONTINUED ✏️...

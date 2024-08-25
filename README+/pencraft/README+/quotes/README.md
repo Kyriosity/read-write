@@ -15,6 +15,20 @@
                                             title="Quotes for inspiration"/></a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="README+/aside/soar.md"><img src="../../../_rsc/_img/_nav/cloag/notAged_390x250px.jpg" alt="&nbsp;&nbsp;&nbsp;IT Quotes - Aged not good" 
+                                  title="Quotes, which aged not that good."/></a>
+    </td>
+    <td>
+      <a href="README+/aside/miss_quotes.md"><img src="../../../_rsc/_img/_nav/abriss/disputed_390x250px.jpg" alt="&nbsp;&nbsp;&nbsp;Quotes - Disputed" 
+                                            title="Misattributed, disputed and misinterpreted quotes"/></a>
+    </td>
+        <td>
+          <a href="README+/aside/controversy.md"><img src="../../../_rsc/_img/_nav/abriss/controversy_390x250px.jpg" alt="&nbsp;&nbsp;&nbsp;Quotes - Controversial" 
+                                            title="Dispituable quotes - misattributed and "/></a>
+    </td>
+  </tr>
 </table>
 
 :end: 
