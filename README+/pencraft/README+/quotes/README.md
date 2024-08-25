@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>
-      <a href="README+/aside/soar.md"><img src="../../../_rsc/_img/_nav/cloag/notAged_390x250px.jpg" alt="&nbsp;&nbsp;&nbsp;IT Quotes - Aged not good" 
+      <a href="README+/aside/sour_quotes.md"><img src="../../../_rsc/_img/_nav/cloud/notAged_390x250px.jpg" alt="&nbsp;&nbsp;&nbsp;IT Quotes - Aged not good" 
                                   title="Quotes, which aged not that good."/></a>
     </td>
     <td>
@@ -26,7 +26,7 @@
     </td>
         <td>
           <a href="README+/aside/controversy.md"><img src="../../../_rsc/_img/_nav/abriss/controversy_390x250px.jpg" alt="&nbsp;&nbsp;&nbsp;Quotes - Controversial" 
-                                            title="Dispituable quotes - misattributed and "/></a>
+                                            title="IT quotes - controversial"/></a>
     </td>
   </tr>
 </table>
