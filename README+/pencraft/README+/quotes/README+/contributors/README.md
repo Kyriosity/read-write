@@ -4,7 +4,12 @@
 
 ### IT Pioneers
 
-There's a discernible inclination in quotes here toward [IT pioneers](contributors/README.md#IT-Pioneers) whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
+There's a discernible inclination in quotes here toward the first generation of IT whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and delusions count.
+
+
+\_________
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
 
 #### John von Neumann
 
