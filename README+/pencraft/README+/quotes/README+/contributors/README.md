@@ -71,7 +71,7 @@ _Gerald Marvin Weinberg_ (**1933** - 2018), a computer scientist at IBM, a teach
 
 #### Tony Hoare
 
-_Charles Antony Richard Hoare_ (born **1934**), a fundamental contributor to programming languages and algorithms
+_C.A.R. Hoare_, _Charles Antony Richard Hoare_ (born **1934**), a fundamental contributor to programming languages and algorithms
 
 #### Niklaus Wirth
 
