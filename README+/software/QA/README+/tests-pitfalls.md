@@ -8,7 +8,7 @@ They wouldn't like you don't know them\
 
 NOTE: Test coverage notwithstanding whether it was written first or after the implementation it not a test 
 
-[![ArcDeco thanks](https://img.shields.io/badge/Powered-by_quotes-white?style=flat&labelColor=3A3B3C&color=green)](../../../pencraft/README+/quotes/README+/cornerstones.md#QA)
+[![Powered by quotes](https://img.shields.io/badge/Powered-by_quotes-white?style=flat&labelColor=3A3B3C&color=green)](../../../pencraft/README+/quotes/README+/cornerstones.md)
 
 ## Conceptual
 
@@ -21,9 +21,6 @@ NOTE: Test coverage notwithstanding whether it was written first or after the im
 Writing tests of test frameworks may put one into the infernal loop while running and analyzing application tests, which will find the errors there.
 
 ### Falsely green tests
-
-<p dir="rtl">,Testing shows the presence<br/>.not the absence of bugs
-<br/><i>Edsger W. Dijkstra</i>, 1969<sup>❔</sup></p>
 
 The worst case of malfunctioning tests is a passing one that indeed shields a fail. And the worst is when such fail/pass is sporadic and arduous to reproduce - imagine a crossroad with the random switch of green lights.
 
