@@ -39,8 +39,8 @@ Translated east-to-west this means: find a sinecure in a big company.
 
 And ... the twist! It was a real random number, while algorithms generate only pseudo-random ones.
 
-The latter was what extraordinary _John von&nbsp;Neumann_ (1903-1957) noted:
-> Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin."
+The latter was what extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/README.md#John-von-Neumann) noted:
+> Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin.
 
 ---------
 </details>
@@ -124,7 +124,7 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 </details>
 
 &nbsp;\
-|- [**Volume&nbsp;II. Inspirational quotes**](../quotes/IT_quotes-3_inspire.md) 
+|- [**Volume&nbsp;II. Inspirational quotes**](../quotes/README+/inspirational.md) 
 
 ---
 
