@@ -4,7 +4,9 @@
 
 ### IT Pioneers
 
-There's a discernible inclination in quotes here toward the mathematicians and engineers who stood behind the first computers. Whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and enough delusions count.
+There's a discernible inclination in quotes toward the mathematicians and engineers who stood behind the first computers. Whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and enough delusions count.
+
+"One advantage to being in the field so early was that great problems were sitting there. All you had to do was jump on them,” (Barbara Liskov)
 
 \_________
 
@@ -24,7 +26,9 @@ _Grace Brewster Hopper_, née Murray (**1906**-1992), 🇺🇸 grandma of Cobol,
 
 #### Alan Turing
 
-_Alan Mathison Turing_ (**1912**-1954)
+_Alan Mathison Turing_ 🇬🇧 (**1912**-1954), 🏅 Cambridge, 🏅Princeton
+
+Enough to say that many on this list got the prize of his name as the highest distinction.
 
 #### Maurice Wilkes
 
@@ -106,15 +110,26 @@ _Grady Booch_ (1955 Amarillo, Texas us)
 
 #### Theodore von Kármán
 
-_Theodore von Kármán_ (1881-1963), outstanding aerospace engineer best known for _Kármán line_
+_Theodore von Kármán_ (**1881**-1963), outstanding aerospace engineer best known for _Kármán line_
+
+#### George Pólya
+
+Prof. _George Pólya_ (**1887**-1985) mathematician, [Martianin](https://en.wikipedia.org/wiki/The_Martians_(scientists))
+
+Curios fact: one of his students was _John von Neumann_.
+
+#### Paul Halmos
+
+_Paul Richard Halmos_ (**1916**-2006), UIUC, [Martianin](https://en.wikipedia.org/wiki/The_Martians_(scientists)), a mathematician with fundamental advances.
 
 #### Dennis Ritchie
 
-_Dennis MacAlistair Ritchie_ (**1941**-2011) creator of C and co-author of UNIX (with Ken Thompson)
+_Dennis MacAlistair Ritchie_ (**1941**-2011) creator of `C` and co-author of UNIX (with Ken Thompson)
 
 #### Barbara Liskov
 
-_Barbara Liskov_, the only one honored with a personal letter in design principles - SO**L**ID.
+Prof. _Barbara Jane Liskov_, née _Huberman_ (born 1939) 🇺🇸 MIT, multiple awardee (incl. Turing).\
+The only one honored with a personal letter in design principles - [SO**L**ID]().
 
 #### Bjarne Stroustrup
 
