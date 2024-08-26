@@ -71,18 +71,14 @@ This isn't a routine activity but an intellectual task of design and modeling.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔖</sup> <sub>You are self the consumer&nbsp;**#1** of this product - it's only a week to lose a grasp on the "unfocused" design part.</sub>
 
+Further reading:\
+|- **Pencraft**\
+|--- [Documentation](../../../pencraft/README+/tech_docu.md)\
+|-----[Tips](../../../pencraft/README+/tech_docu-tips.md)
+
 ## Appendix 1/2. Artistic images (sounds, videos)
 
 Applying aesthetic traits to attribute images or enliven the text highly motivates readers when done with taste and bounds. Highly recommended as memory "anchors" on difficult subjects.
-
-### Pictograms / emojis
-
-Small images are smart helpers to annotate, navigate, and focus unless heavily overused. They may apply to everything - text, solution items (folders and filenames), and even program output (UTF-8 glyphs to rescue).
-
-A team should limit them to a subset<sup>🍋</sup>, define the exact meaning of most, and put some on a blacklist (for ambiguity or cultural issues).
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🍋</sup> <sub>By default markdown emojis, supported by GitHub  - see this [cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)<sup>🔗</sup>.</sub>
-
 
 ## Appendix 2/2. Alternatives?
 
