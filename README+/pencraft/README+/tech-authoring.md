@@ -4,13 +4,15 @@
 <p dir="rtl";'>[<i>Good authors advise</i>]</p>
 &nbsp;
 
-There are projects, products, and technologies that deserve the work of pen or brush. The quality of such work may be a decision factor Nr&nbsp;1 for usage/purchase of its subject: either attract or divert for good.
+There are projects, products, and technologies that deserve the work of pen or brush. The rank of such work may be a decision factor Nr&nbsp;1 for the usage of/paying for its subject: either attract or divert for good.
 
-The authoring seems deceptively easygoing: 
+The authoring may seem deceptively easygoing: 
 
-* TONGUe is the only tool sharpened in use,
-* drawing is KINDERGARTEN,
-WYSIWYG<sup>🔤</sup> of creative work won't produce compilation errors and is transparent to create square miles of 'pulp'.
+* tongue is the only tool sharpened in use,
+* creative work won't produce compilation errors,
+* illustration is what one learns in the early childhood
+  
+WYSIWYG<sup>🔤</sup> of  and is transparent to create square miles of 'pulp'.
 
 However noble lines of words are much more sophisticated and painful than excellent code. And a smart reader will notice poor or mediocre style from the very first sight.
 
@@ -22,13 +24,15 @@ The worst enemies of authorship are:
 - wordiness/big volumes,
 - no critique/indifference.
 
-## Recepies 
+## Recipies 
 
 ### Card driven
 
 ...
 
-## Test driven writing
+## Dev driven writing
+
+
 
 🚧TO BE WRITTEN
 
