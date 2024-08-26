@@ -8,6 +8,8 @@ Any sophisticated matter deserves its study: universe -> cosmology, mathematics 
 
 ## About
 
+ [![Powered by good quotes](https://img.shields.io/badge/Powered-by_quotes-yellow?style=flat&labelColor=3A3B3C&color=teal)](../../../../pencraft/README+/quotes/README+/cornerstones.md)
+
 Software is a VERY unique product: pure multilevel abstraction but ground to 100% hardware realization in BINARY bits (or qubits someday).
 
 THESE abstractions CONTRA  formalize concepts from ALIEN domains: be it exact science or entertainment.
