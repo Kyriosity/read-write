@@ -85,6 +85,13 @@ _Niklaus Emil Wirth_ (**1934** 🇨🇭 - 2024) inventor of Pascal and other lan
 
 _Donald Ervin Knuth_ (born **1938** Milwaukee, Wisconsin 🇺🇸), one of the first and most prominent computer scientists, best known for _The Art of Computer Programming_, 1962-1973
 
+#### Barbara Liskov
+
+Prof. _Barbara Jane Liskov_, née _Huberman_ (born **1939**) 🇺🇸 MIT, multiple awardee (incl. Turing).\
+
+With the most contribution to data abstraction theories, Prof. Liskov is the only one honored with a personal letter in design principles - [SO**L**ID](https://en.wikipedia.org/wiki/SOLID).
+
+
 ### Gang of Four and Design Patterns
 
 The founders of UML and the first famous [Design Pattern](https://en.wikipedia.org/wiki/Design_Patterns) "almanac".
@@ -126,10 +133,6 @@ _Paul Richard Halmos_ (**1916**-2006), UIUC, [Martianin](https://en.wikipedia.or
 
 _Dennis MacAlistair Ritchie_ (**1941**-2011) creator of `C` and co-author of UNIX (with Ken Thompson)
 
-#### Barbara Liskov
-
-Prof. _Barbara Jane Liskov_, née _Huberman_ (born 1939) 🇺🇸 MIT, multiple awardee (incl. Turing).\
-The only one honored with a personal letter in design principles - [SO**L**ID]().
 
 #### Bjarne Stroustrup
 
