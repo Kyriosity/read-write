@@ -20,12 +20,12 @@ A tracking system may collect and generate documentation with a pleasant degree 
 
 ## Some guidelines to contribute
 
-+ First and foremost, the less docu covers essentials the better for all (unless the subject deserves its own wiki). 
-+ **Split the flow.** Long-running sentences, paragraphs, and chapters are first-degree misdemeanors.
-+ Except for citations use quotation marks for metaphors while _italic_ to introduce terms. Example:
-> To compare _multitasking_ vs. _parallelism_ imagine the CPU being a "kitchen" where a quick cook vs. an orderly brigade can prepare the same courses.
+* First and foremost, the less docu covers essentials the better for all (unless the subject deserves its own wiki). 
+* Begin with mindmaps but then apply methodologies to writing (structure, plan, and timeline).
+* **Last but not least**, if you write regularly, contribute to content management tools and templates to facilitate further work for you and others.
 
-+ **Last but not least**, if you write regularly, contribute to content management tools and templates to facilitate further work for you and others.
+**Further**:\
+|- [Documentation tips](tech_docu-tips.md)
 
 ## Wrapping up: Resources
 
