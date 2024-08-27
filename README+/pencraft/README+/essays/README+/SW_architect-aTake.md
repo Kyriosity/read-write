@@ -13,7 +13,7 @@
 
 ## Genesis
 
-The spirit of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that they coined the term _architect_<sup>🏛️</sup> centuries before Romans latinized *architecture* from it.
+The spirit of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that they coined the term _architect_<sup>🏛️</sup> centuries before it was romanized to _architecture_.
 
 Then it took ages till the immobile art of construction methodolized and acknowledged architects as a detached trade. That means refined craftsmen, exempt from narrow-profile routines and headaches to focus on vision, design, blueprints, and aesthetics.
 
