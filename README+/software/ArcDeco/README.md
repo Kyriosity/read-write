@@ -56,5 +56,4 @@ To distinguish the survey following (at least for the file system) I couldn't fi
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). Its introduction a century ago (1925) appeals to make `är-dā-ˈkō` great again [mockery again].</sub>
 
 ### ... opening ...
-
-<picture><img alt="Arc Deco" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.jpg" /></picture> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;[Rationale](README+/01.Rationale/README.md) -> [Big Picture](README+/02.BigPict/README.md) -> [Stripes](README+/03.Stripes/README.md) -> [Forces](README+/04.Forces/README.md) -> [Roles](README+/05.Roles/README.md) -> [Factors](README+/06.Factors/README.md) -> [Wrap&nbsp;up](README+/07.Wrapping/README.md)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;[Rationale](README+/01.Rationale/README.md) -> [Big Picture](README+/02.BigPict/README.md) -> [Stripes](README+/03.Stripes/README.md) -> [Forces](README+/04.Forces/README.md) -> [Roles](README+/05.Roles/README.md) -> [Factors](README+/06.Factors/README.md) -> [Wrap&nbsp;up](README+/07.Wrapping/README.md)
