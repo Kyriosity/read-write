@@ -1,14 +1,16 @@
 # Pen & brush craft - Technical writing
 
-__Documentation__ and __authoring__ are two diverging employments of writing and painting skills with opposed values of formalism, creativity, imagination, and styles. Their principled distinction is __*driven*__ vs __*drives*__:
+[__Documentation__](README+/tech_docu.md) and [__authoring__](README+/tech-authoring.md) are two very diverging employments of writing and painting skills with opposed values of formalism, creativity, imagination, and styles. Their principled distinction is __*driven*__ vs __*drives*__:
 
-* Documentation is **on-demand/request** derivative of a product, must follow templates, and shall be (auto-)generated and reused as much as possible.<sup>:raising_hand:</sup>\
+* [Documentation](README+/tech_docu.md) is **on-demand/request** derivative of a product, must follow templates and shall be (auto-)generated and reused as much as possible.<sup>:raising_hand:</sup>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>A strict _User manual_ of hazardous tools is an exemplary story.</sub>
 
-* Authoring is **initiative**, must take a bird view of the subject, inspire and explain sophisticated and regulated ideas in abstractive friendly, and sometimes informal, fashion.\
+* [Authoring](README+/tech-authoring.md) is **initiative**, must take a bird's view of the subject, inspire and explain sophisticated and regulated ideas in abstractive, friendly, and sometimes informal, fashion.\
 (Much of the renowned works, such as relational DBs or REST, were based on "paper" concepts with little or no implementation.)
 
 It's a burden for readers to find and study documentation. With authoring, it's a headache for authors to attract readers.
+
+In documenting sticking to the narrowed vocabulary and cliches is a benefactor, in authoring the repetition is a failure.
 
 Regardless of missions, any tech writing is an expensive and exhausting exercise and, if not a hobby or bondage, must:
 
@@ -16,18 +18,12 @@ Regardless of missions, any tech writing is an expensive and exhausting exercise
 + [x] excel other ways of teaching (consider quickly sketched presentation, captured video tutorial, watercooler talks),
 + [x] be long-term (updated and evolved).
 
-**Further:**\
-|- [Documentation](README+/tech_docu.md)\
-|- [Authoring](README+/tech-authoring.md)\
-|- Technical illustration<sup>🖌️</sup>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🖌️</sup> <sub>will be written when mastering the pen tablet</sub>
-
 Other uses of pen&brush for IT, you may find here:\
 |- [Freestyle essays](README+/essays/)\
 |- [Collecting quotes](README+/quotes)\
-|- [Memes](README+/memes)
-
-And how without going [offtopic](README+/offtopic)?
+|- [Memes](README+/memes)\
+|- Technical illustration  &mdash; to write when mastering the acquired pen tablet\
+|- [Offtopic](README+/offtopic) &mdash; I can't help going there\
 
 ## Disclaimer
 
