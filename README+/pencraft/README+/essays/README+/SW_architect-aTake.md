@@ -6,35 +6,30 @@
 
 *Software architecture*, whatever it means, is formalizable and veritable as a product, but not as an exercise. 
 
-**Let me explain such a take.** (This was not to defame _software architects_ but to qualify the term as an honor rather than a job title for a bunch of avant practices.)
-
-1. OTHER STRONG VIEWS EXIST
-2. both DESIGN and ARC
+**Let me explain such a take.**  There's no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bunch of avant practices. Other no weaker opinions also exist.
+  
+> Here we treat architecture and design together (as everything over the code of particular and imaginary applications/systems) while [![Arc Deco](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software/ArcDeco/) (from which this essay derives) discriminates them as [kin adjacent activities](../../../../software/ArcDeco/README+/03.Stripes).
 
 ## Genesis
 
 The spirit of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that they coined the term _architect_<sup>🏛️</sup> centuries before it was romanized to _architecture_.
 
-Then it took ages till the immobile art of construction methodolized and acknowledged architects as a detached trade. That means refined craftsmen, exempt from narrow-profile routines and headaches to focus on vision, design, blueprints, and aesthetics.
+Then it took ages till the art of immobile methodized and acknowledged architects as a detached trade &mdash; 
+refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, and aesthetics.
 
-Later MISC spheres loaned *architecture* mostly as a metaphor to underline the system complicacy. From mega-vessels and supercomputers down to less determinate economics and politics. However, **μ**arch hasn't fostered microarchitects, while architects of détente or *economic miracle* are sooner for a compliment.
+Later on, diverse spheres (from mega-vessels and supercomputers down to less determinate economics and politics) loaned «architecture» mostly as a metaphor to underline systematic complicacy. However, **μ**arch hasn't fostered microarchitects, while architects of détente or *economic miracle* are sooner for a compliment.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the Pyramids suggest.</sub>
 
 ## Software as Building 
 
-Architecture/DESIGN? of constructions and software have much in common. Both must yield functional products rather than aesthetic values.
+The architecture of construction and software has much in common. Both must yield functional products in a short period rather than aesthetic values. Both MISC INSTRUMENTS. Both must accumulate practices and reveal patterns.
 
-Both must accumulate practices and reveal patterns.
+Without solid abstraction work and planning, both end up as a mess that sooner or later will loudly crash.
 
-Without solid asbtraction work, both end up as a disastrous BABYLON TOWER that sooner or later will loudly crash.
-
-Diversities are larger...
-
-### Software != Building
+**Diversities are larger...**
 
 Software is fluid compared to static structures. The thinker who noticed: "Architecture is frozen music"<sup>🎼</sup>, would see software as "unleashed symphonic cacophony [under the circus tent]".
-NAME OF ORCHE RAZYGRYV-e
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>Arthur Schopenhauer (1788-1860), missattributed to Johann Wolfgang von Goethe (1749-1832).\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full original quote: _Architektur ist gefrorene Musik. (Möge es immer beschwingt und harmonisch zugehen in diesem Haus!)_</sub>
@@ -90,16 +85,14 @@ Architecture and design are synergies of
 
 Architecture artifacts rest on collective development.
 
-And let's salt all this with a bitter reminder that most projects are application of known architectural solutions with decent contributions. Many arch and design solutions are already solved in languages and platforms.
+And let's salt all this with a bitter reminder that most projects are CASTING domain concepts to known and tried architectural solutions with decent contributions. Many arch and design solutions are already solved in languages and platforms.
 
-**This essay derives from and contributes to** [![Arc Deco](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software/ArcDeco/).
-
----
 
 <mark>"**Smith will suffice."**</mark>\
 _Agent Smith_ 🔨
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>quotes guaranteed by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu)</sub>
 
-\-------\
+\_______
+
  🔚 &nbsp;🌘 kyriosity 2023-2024
