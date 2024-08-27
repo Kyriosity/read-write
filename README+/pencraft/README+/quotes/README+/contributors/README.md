@@ -1,12 +1,10 @@
-# Influencers
+# Contributors and influencers
 
 ## Techno
 
 ### IT Pioneers
 
 There's a discernible inclination in quotes toward the mathematicians and engineers who stood behind the first computers. Whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and enough delusions count.
-
-"One advantage to being in the field so early was that great problems were sitting there. All you had to do was jump on them,” (Barbara Liskov)
 
 \_________
 
@@ -87,10 +85,11 @@ _Donald Ervin Knuth_ (born **1938** Milwaukee, Wisconsin 🇺🇸), one of the f
 
 #### Barbara Liskov
 
-Prof. _Barbara Jane Liskov_, née _Huberman_ (born **1939**) 🇺🇸 MIT, multiple awardee (incl. Turing).\
+Prof. _Barbara Jane Liskov_, née _Huberman_ (born **1939**) 🇺🇸 MIT, awardee of multiple prizes (incl. Turing), the only one honored with a personal letter in [SO**L**ID](https://en.wikipedia.org/wiki/SOLID)
 
-With the most contribution to data abstraction theories, Prof. Liskov is the only one honored with a personal letter in design principles - [SO**L**ID](https://en.wikipedia.org/wiki/SOLID).
+Data abstraction concepts, to which she mostly contributed, became natural as the mother tongue but then it was *terra incognita*.
 
+Prof. Liskov: «One advantage to being in the field so early was that great problems were sitting there. All you had to do was jump on them.»
 
 ### Gang of Four and Design Patterns
 
@@ -122,6 +121,8 @@ _Theodore von Kármán_ (**1881**-1963), outstanding aerospace engineer best kno
 #### George Pólya
 
 Prof. _George Pólya_ (**1887**-1985) mathematician, [Martianin](https://en.wikipedia.org/wiki/The_Martians_(scientists))
+
+He is distinguished for his endowment in the pedagogics of mathematics.
 
 Curios fact: one of his students was _John von Neumann_.
 
