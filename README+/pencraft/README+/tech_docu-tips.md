@@ -1,25 +1,39 @@
 # Technical documentation - Tips
 
-## First and foremost
+## Content
 
 ### Split the flow.
 
 Long-running sentences, paragraphs, and chapters are first-degree misdemeanors.
 
-Does this commonplace need a reminder? Yes, it still has to be met everywhere, and in the era of smartphones become poignant.
+Do you think this commonplace deserves a reminder? Yes, it still has to be met everywhere, and it has become poignant in the era of smartphones.
 
-## Selections
+### Emphasizing
 
 * Except for citations use quotation marks for metaphors while _italic_ to introduce terms. Example:
 > To compare _multitasking_ vs. _parallelism_ imagine the CPU being a "kitchen" where a quick cook vs. an orderly brigade can prepare the same courses.
 
-* Numbering totals - navigation grace for authors and readers.\
+## Navigation 
+
+### Totals
+
+* Numbering totals will keep readers and editors focused.\
 Page 3 of **7**, Appendix 1/**3**, Chapter 11 of **20**.
 
 ## Characters and symbols 
 
-* Format symbols as \
-You can paste from here for free ! <<<>>>>
+### Replacements
+
+Many typography symbols may appear in text when markup is broken. To exclude doubts it's better to insert their symbolic versions, escape tags or codes when possible:
+
+* <mark>“”</mark>, <mark>«»</mark>, or <mark>\&quot;</mark> instead of <mark>""</mark>,
+* <mark>⟨ ⟩</mark> or <mark>\&lt; \&gt;</mark> instead of angle brackets <mark><></mark>,
+* <mark>\&amp;</mark> for &\
+_and so on_.
+
+### Helpers
+
+Besides replacement use <mark>\&mdash;</mark> for long dash, <mark>\&nbsp</mark> for non-breakable space, and so on.
 
 ### Pictograms / emojis
 
@@ -31,8 +45,9 @@ A team should limit them to a subset<sup>🍋</sup>, define the exact meaning of
 
 ## Checklist
 
-GRAMMAR? Keep dicts updated
-PROVE LINKS
+- [ ] Run spell/grammar check.
+- [ ] Prove links
+- [ ] ...
 
 ## Wrap up
 
