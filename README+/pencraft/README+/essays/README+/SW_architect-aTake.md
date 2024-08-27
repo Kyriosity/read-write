@@ -21,7 +21,7 @@ Later on, diverse spheres (from mega-vessels and supercomputers down to less det
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the Pyramids suggest.</sub>
 
-## Software as Building 
+## Software vs. Building 
 
 The architecture of construction and software has much in common. Both must yield functional products in a short period rather than aesthetic values. Both MISC INSTRUMENTS. Both must accumulate practices and reveal patterns.
 
@@ -39,10 +39,6 @@ The lifecycle of construction is much longer.
 YOU CAN't ACCEPT a BUILD that may crash (no stage).
 
 Architecture results in masterpiece buildings and indistinctive typical constructions. The latter isn't for IT, where even tailoring the existing software isn't development.
- 
- MUST BRING from  the aesthetic value to ART. NO Pantheon.
-
-// ToDo: LINK2 ante-home-office
 
 ### Hypothesis
 
