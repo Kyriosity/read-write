@@ -36,4 +36,4 @@
   </tr>
 </table>
 
-:end: 
+:end: 🌜(2024) <sub>see also 👩‍🔬[Contributors](README+/contributors/)🧑‍💻</sub>
