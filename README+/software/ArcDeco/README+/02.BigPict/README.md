@@ -34,7 +34,7 @@ The <mark>"tearing X and Y axes"</mark> in the intro were a two-dimension simpli
 
 <details>
   <summary>🖼️<b><ins>&nbsp;Agents annotated&nbsp;</ins></b></summary
-<br /><picture><img alt="Arc Deco - External factors - annotated" src="../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-agents_annotated.jpg" /></picture>
+<br /><picture><img alt="Arc Deco - External factors - annotated" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-agents_annotated.jpg" /></picture>
 
 </details>
 
