@@ -4,7 +4,12 @@
 
 # The Big Picture
 
-Explanation of compound stuff needs a big portrait, otherwise, it will be esoteric and duller than planned. 
+Big thoughts need big ILLU.
+
+<SUB></SUB>
+
+Whatever it looks it's better plain text. 
+
 It may come out commonplace, a plane section, angled or blurred, or even childish but it will beat explanation prose and ensure you with an eagle view.
 
 Let's begin with contours, intentionally left not annotated to defy the reader's 3D imagination. It would be nice if she or he could guess or imagine the forces and factors (they ought not to match those, as explained below).
@@ -52,4 +57,4 @@ Just imagine them behind the objects.
 
 This work of _art naif_ may look juvenile but let's dive deeper into details in the following chapters.
 
-🔚
+🔚 MK CMN END
