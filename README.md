@@ -1,8 +1,8 @@
 <table>
  <tr valign="top">
-    <td>
+    <td width="50%">
       <picture><img src="README+/_rsc/_img/memes/learn_is_swim.jpg" alt="If to learn is to swim against the current ..." /><picture>
-    </td><td>
+    </td><td width="50%">
      <a href="README+/software/ArcDeco"><b>SOFTWARE</b></a><br/>
      &nbsp;&nbsp;<a href="README+/software/~design/names">Names</a>
      ➰
