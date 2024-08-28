@@ -11,6 +11,7 @@
 
 ---
 
+🚧🚧🚧 ... DRAFT in progress ... 🚧🚧🚧
 
 Remember that our patchwork demonstratively overlaps motley **stripes**<sup>📚</sup> with gradient transition? This means ...
 
@@ -37,5 +38,7 @@ When you find finished good but IMMEDIATELY have an idea how to redo.
 Everything done on the keyboard to code is the coding. The pure coding is inefficient -< Roles
 
 
-🚧🚧🚧 ... DRAFT in progress ... 🚧🚧🚧
+🔚 **...** <picture><img alt="&nbsp;&nbsp;&nbsp;&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg"
+title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde"/></picture>
+&nbsp;🌔 (2024...)
 
