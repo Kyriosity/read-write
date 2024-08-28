@@ -4,11 +4,7 @@
 
 # The Big Picture
 
-Big thoughts need big ILLU.
-
-<SUB></SUB>
-
-Whatever it looks it's better plain text. 
+Big thoughts &mdash; big pictures. Whatever &mdash; shallow, angled, or blurred.
 
 It may come out commonplace, a plane section, angled or blurred, or even childish but it will beat explanation prose and ensure you with an eagle view.
 
@@ -49,12 +45,9 @@ The <mark>"tearing X and Y axes"</mark> in the intro were a two-dimension simpli
 
 ## Background
 
-To avoid image overloading, the background wasn't layed - the sheets of resulting code with data and documentation. 
-
-Just imagine them behind the objects.
+<div title="Just imagine them behind the objects.">To avoid image overloading, the background wasn't laid - the sheets of resulting code with data and documentation.</div>
 
 ## What's next
 
-This work of _art naif_ may look juvenile but let's dive deeper into details in the following chapters.
+Let's dive deeper behind pictures of _art naif_ in the following chapters.
 
-🔚 MK CMN END
