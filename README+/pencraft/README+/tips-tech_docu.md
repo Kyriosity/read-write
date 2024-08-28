@@ -32,16 +32,17 @@ Page 3 of **7**, Appendix 1/**3**, Chapter 11 of **20**.
 
 Many typography symbols may appear in text when markup is broken. To exclude doubts it's better to insert their symbolic versions, escape tags, or codes when possible:
 
-* <mark>“”</mark>, <mark>«»</mark>, or <mark>\&quot;</mark> instead of <mark>""</mark>,
-* <mark>⟨ ⟩</mark> or <mark>\&lt; \&gt;</mark> instead of angle brackets <mark><></mark>,
-* <mark>\&amp;</mark> for **&**\
-_and so on_ (you can copy-paste for free).
+* <mark>“”</mark>, <mark>«»</mark>, or <tt>\&quot;</tt> instead of <mark>""</mark>,
+* <mark>⟨ ⟩</mark> or <tt>\&lt; \&gt;</tt> instead of angle brackets <mark><></mark>,
+* <tt>\&amp;</tt> for **&**,
+* <tt>\&mdash;</tt> for long dash\
+[and so on](https://www.w3schools.com/html/html_entities.asp).
 
-Using/defining shortcuts for them in your editors is a fast PAY OFF. (Like Ctrl+Shift-Space for non-breaking space in Microsoft Word)
+Using/defining shortcuts for them in your editors will be fastly rewarded. (Like <tt>Ctrl+Shift-Space</tt> for non-breaking space in Microsoft Word)
 
 ### Helpers
 
-Besides replacements use <mark>\&mdash;</mark> for long dash, <mark>\&nbsp</mark> for non-breakable space, and so on.
+Replacements can be functional and ensure the text layout: <tt>\&nbsp</tt> for non-breakable space, <tt>\&#8209</tt>; for non-breaking hyphen, and so on.
 
 ### Pictograms / emojis
 
@@ -51,22 +52,24 @@ A team should limit them to a subset<sup>🍋</sup>, define the exact meaning of
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🍋</sup> <sub>By default markdown emojis, supported by GitHub &mdash; see this [cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)<sup>🔗</sup>.</sub>
 
-#### What about <tt>Find</tt>?
+#### Side effects
 
-Use of special characters and escapte tags spoil the PRIVYCHNYE "plain" search but as a side-effect creates a sort of bookmarkingtagging.
+Special characters and escape tags spoil the familiar "plain" search but as a side-effect create a sort of bookmarking/tagging.
+
+Ensure that your spell- and grammarcheckers recognize replacements.
 
 ## Checklist
 
 - [ ] Make character replacements (see above)
 - [ ]  Run spell/grammar check.
 - [ ] Prove internal links
-- [ ] Prove external links for existance
-// much resources become to _404_. 
+- [ ] Prove external links for existence
+// much resources degrade to _404_. 
 - [ ] ...
 
 ## Wrap up
 
-**Last but not least** - stamp with ending sign or note.
+**Last but not least** - stamp with an ending sign or note, even if there's a "conclusion" section (there might be appendices missing).
 
 Ensure yourself and your readers that it was the intentional ending. Use custom note (like below), typographical ["tombstone"](https://en.wikipedia.org/wiki/Tombstone_(typography)), or exquisite [Q.E.D.](https://en.wikipedia.org/wiki/Q.E.D.)
 
