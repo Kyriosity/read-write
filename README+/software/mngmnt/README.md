@@ -8,7 +8,7 @@ You must be reading now from a repository on _Git_<sup>:octocat:</sup> but names
 
 The customers/users perspective - "not _how_ but _what_ matters" - draws a crucial dividing ridge: **either** organization serves development, **or** _vice versa_.
 
-Commendable organization endows every process/measure with an exact explanation of how it facilitates development, spares resources, ensures quality and automates routines. (Not because it's on trends or in chosen methodology.)
+Commendable organization endows every process/measure with an exact explanation of how it facilitates development, spares resources, ensures quality, and automates routines. (Not because it's on trends or in chosen methodology.)
 
 ### Technical advantages expected
 
