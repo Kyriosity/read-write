@@ -25,7 +25,7 @@ A tracking system may collect and generate documentation with a pleasant degree 
 * **Last but not least**, if you write regularly, contribute to content management tools and templates to facilitate further work for you and others.
 
 **Further**:\
-|- [Documentation tips](tech_docu-tips.md)
+|- [Documentation tips](tips-tech_docu.md)
 
 ## Wrapping up: Resources
 

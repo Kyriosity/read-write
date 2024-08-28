@@ -74,7 +74,7 @@ This isn't a routine activity but an intellectual task of design and modeling.
 Further reading:\
 |- **Pencraft**\
 |--- [Documentation](../../../pencraft/README+/tech_docu.md)\
-|-----[Tips](../../../pencraft/README+/tech_docu-tips.md)
+|-----[Tips](../../../pencraft/README+/tips-tech_docu.md)
 
 ## Appendix 1/2. Artistic images (sounds, videos)
 
