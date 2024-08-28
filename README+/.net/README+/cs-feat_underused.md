@@ -24,8 +24,9 @@ Among other features, two may be used fresh from the oven.
 The following "old" practical syntax and features remain unused in enough programs I've seen.
 
 - [ ]  single file namespaces with `;` instead of `[]`
-- [ ] [Tuple assignments](https://essentialcsharp.com/tuples#tuples)
+- [ ] [Tuple assignments](https://essentialcsharp.com/tuples#tuples) - shortcuts assignment (swap!) and comparison.
 - [ ] [`CallerArgumentExpressions`](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression)<sup>🙋‍♂️</sup>
+- [ ] `readonly` methods - questionable but don't harm and may prevent bugs
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup> <sub>This urged me to rewrite ➡️[exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcExt/Errors).</sub>
 
