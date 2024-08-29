@@ -150,7 +150,7 @@ _Kent Beck_ (born 1961) 🇺🇸, the eXtreme Programming founder, a signer of _
 
 #### Peter Norvig
 
-Peter Norvig 🇺🇸 AI computer scientist
+Peter Norvig 🇺🇸 AI computer scientist, sistinguished Education Fellow at Stanford.
 
 \______
 
