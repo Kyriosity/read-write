@@ -9,9 +9,14 @@ Albeit this approach solus becomes gradually tougher (until it hits the wall of 
 In reality, the code will be partly or greatly obscure and tests will lack clarity and both &mdash; seamless categorization. 
 Code prose and time will bury grand (no sarcasm) design decisions unless highlighted with a pen. 
 
-Explorers on the other side will overestimate simplified parts and search for deep meaning in the neglected.
+Explorers on the other side will overestimate weak decisions, and search for deep meaning in shallow parts.
 
 That's why any design beyond `hello world` still needs documentation.
+
+More to theme:\
+|- **Pencraft**\
+|--- [Documentation](../../../pencraft/README+/tech_docu.md)\
+|-----[Tips](../../../pencraft/README+/tips-tech_docu.md)
 
 ## Recording ⏺️ design ⏹️
 
@@ -41,6 +46,8 @@ Continuous ratification of design decisions (incl. rejection) in the form of Que
 There are elaborated methodologies and tools (to remember classical IBM Rational Rose and RUP) to evolve a project in UML and other diagrams. 
 However, they cost time, restrain presentation, stick thinking to 2D (literally and metaphorically), and prompt to input redundant details. Mutual synchronization with code will make matters even worse.
 
+The compromise is to maintain top diagrams with modest detailing. make presentations with and root documentation from them. 
+
 ## Whiteboard
 
 Fast simple sketches resting on multiple imaginary axes (horizontal grouping, aggregation/inheritance hierarchies, timeline) could be enough and broader in all senses. 
@@ -49,7 +56,7 @@ They may start on a whiteboard<sup>🔲</sup> during a casual discussion and as 
 
 \_________
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔲</sup> <sub>Can anything be better than a whiteboard? The glass board! It allows one not only to look at the design from the unusual side but attach various backgrounds (e.g. previous version printout).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔲</sup> <sub>Can anything be better than a whiteboard? The glass board! It allows one not only to look at the design from the unusual side but also attach various backgrounds (e.g. previous printout).</sub>
 
 ### Beyond sketches
 
@@ -63,6 +70,7 @@ This isn't a routine activity but an intellectual task of design and modeling.
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>✂️</sup> <sub>Remove (join) redundant elements and visual noize.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🍒</sup> <sub>Systematically classify and name artifacts.</sub>
 
+
 ## Summary
 
 1. Docu shortage will obfuscate substantial concepts and require essential efforts to (re)gain focus on a software part later<sup>🔖</sup>.  
@@ -71,10 +79,15 @@ This isn't a routine activity but an intellectual task of design and modeling.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔖</sup> <sub>You are self the consumer&nbsp;**#1** of this product - it's only a week to lose a grasp on the "unfocused" design part.</sub>
 
-Further reading:\
-|- **Pencraft**\
-|--- [Documentation](../../../pencraft/README+/tech_docu.md)\
-|-----[Tips](../../../pencraft/README+/tips-tech_docu.md)
+## Wrap up. Sync with code.
+
+No excuse for the docu missing references to the implementation - that is code. Not every feature but entry points.
+
+[Example](https://github.com/Kyriosity/use-dev/blob/main/README.md#UVal)
+
+The most important note was reserved. Documentation must link to principal parts of the code.
+
+MAIN NAV
 
 ## Appendix 1/2. Artistic images (sounds, videos)
 
@@ -86,9 +99,9 @@ Applying aesthetic traits to attribute images or enliven the text highly motivat
 
 "A picture is worth a thousand words", and the shortest video is made up of thousands of them. That's the absolute winner in the snap of design. 
 
-When a release is ripe, it will take half an hour pro module (app) to switch the screen snap on, explore the code, and commentate impromptu.<sup>📹</sup> Then an hour or some to review and record a much better version.
+When a release is ripe, it will take half an hour per module (app) to switch the screen snap on, explore the code, and commentate impromptu.<sup>📹</sup> Then an hour or some to review and record a much better version.
 
-Yes, it's a kind of documentation (or source for) but rather peculiar.
+Yes, it's a kind of documentation (or source for) but it is rather peculiar.
 
 \_______
 
@@ -96,7 +109,7 @@ Yes, it's a kind of documentation (or source for) but rather peculiar.
 
 ### Coding under guidance
 
-Maybe the most effective and fast way to introduce a project is to make a new programmer code a feature under the guidance of an experienced developer (with a domain expert).
+Arbitrarart, the most effective and fast way to introduce a project is to make new programmers code a feature under the guidance of an experienced developer (with a domain expert).
 
 It's not a _pair programming_ and must be in no way the opposite "watch&learn".
 
