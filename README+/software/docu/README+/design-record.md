@@ -11,12 +11,13 @@ Code prose and time will bury grand (no sarcasm) design decisions unless highlig
 
 Explorers on the other side will overestimate weak decisions, and search for deep meaning in shallow parts.
 
-That's why any design beyond `hello world` still needs documentation.
+**That's why software design needs documentation, which must be a creative stratum between code readability and dev team lore.**
 
-More to theme:\
-|- **Pencraft**\
-|--- [Documentation](../../../pencraft/README+/tech_docu.md)\
-|-----[Tips](../../../pencraft/README+/tips-tech_docu.md)
+\_________
+
+**General to the theme:**\
+|- [Tech docu](../../../pencraft/README+/tech_docu.md)\
+|--- [Tips](../../../pencraft/README+/tips-tech_docu.md)
 
 ## Recording ⏺️ design ⏹️
 
@@ -79,15 +80,13 @@ This isn't a routine activity but an intellectual task of design and modeling.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔖</sup> <sub>You are self the consumer&nbsp;**#1** of this product - it's only a week to lose a grasp on the "unfocused" design part.</sub>
 
-## Wrap up. Sync with code.
+## Wrap up. Sync with code!
 
-No excuse for the docu missing references to the implementation - that is code. Not every feature but entry points.
+> ❗ The most important note was reserved to the end.
 
-[Example](https://github.com/Kyriosity/use-dev/blob/main/README.md#UVal)
+**No excuse for the docu missing references to the implementation** - that is code. Not every feature but entry points.
 
-The most important note was reserved. Documentation must link to principal parts of the code.
-
-MAIN NAV
+As an example in progress see ➡️[use-dev](https://github.com/Kyriosity/use-dev/).
 
 ## Appendix 1/2. Artistic images (sounds, videos)
 
@@ -111,7 +110,7 @@ Yes, it's a kind of documentation (or source for) but it is rather peculiar.
 
 Arbitrarart, the most effective and fast way to introduce a project is to make new programmers code a feature under the guidance of an experienced developer (with a domain expert).
 
-It's not a _pair programming_ and must be in no way the opposite "watch&learn".
+It's not a _pair programming_ and must be in no way the opposite of "watch&learn".
 
 Disadvantage: it's a one-time exercise that takes hours from most competent team members.
 
