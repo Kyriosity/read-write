@@ -25,5 +25,6 @@ Some memes are too folk (public), or old to be proprietary or copyright-protecte
 
 If you have questions or demands, feel free to contact me by committing to one of the repositories.
 
-Looking forward to hearing from you, 
-Yours owner of github.com/Kyriosity (Kyrill D).
+\_______
+
+:end: <sub>Looking forward to hear from you...</sub>
