@@ -146,7 +146,7 @@ _Richard Matthew Stallman_, founder of GNU and Free Software Movement
 
 #### Kent Beck
 
-_Kent Beck_, eXtreme Programming founder
+_Kent Beck_ (born 1961) 🇺🇸, the eXtreme Programming founder, a signer of _Agile Manifesto_, a prolific author on patterns and contributor frameworks ([JUnit](https://github.com/junit-team) as an example).
 
 #### Peter Norvig
 
