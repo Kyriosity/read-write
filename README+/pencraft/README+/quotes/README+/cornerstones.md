@@ -53,7 +53,7 @@ The first method is far more difficult. It demands the same skill, devotion, ins
     </td>
     <td>
       When I read commentary about suggestions for where <b></b><tt>C</tt></b> should go, I often think back and give thanks that it wasn`t developed under the advice of a worldwide crowd.<br />
-                <a href="contributors/README.md#Dennis-Ritchie">Dennis Ritchie</a>
+                <a href="contributors/README.md#Dennis-Ritchie"><b>Dennis Ritchie</b></a>
     </td>
   </tr> 
   <tr valign="top">
