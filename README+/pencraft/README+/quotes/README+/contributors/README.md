@@ -57,7 +57,7 @@ https://cacm.acm.org/opinion/how-charles-bachman-invented-the-dbms-a-foundation-
 
 _Seymour Roger Cray_ 🇺🇸 (1925-1996), UoM, father of supercomputers
 
-#### <a name="EdsgerWDijkstra"></a>Edsger W. Dijkstra
+#### Edsger W. Dijkstra
 
 _Edsger Wybe Dijkstra_ 🇳🇱 (**1930**, Rotterdam  - 2002) 🇳🇱, known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
