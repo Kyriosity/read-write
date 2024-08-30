@@ -19,26 +19,32 @@ refined craftsmen exempt from routines and narrow-profile burdens to focus on vi
 
 Later on, diverse spheres (from mega-vessels and supercomputers down to less determinate economics and politics) loaned «architecture» mostly as a metaphor to underline systematic complicacy. However, **μ**arch hasn't fostered microarchitects, while architects of détente or *economic miracle* are sooner for a compliment.
 
+\_______
+
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the Pyramids suggest.</sub>
 
 ## Software vs. Building 
 
 The architecture of construction and software has much in common. Both must yield functional products in a short period rather than aesthetic values. Both MISC INSTRUMENTS. Both must accumulate practices and reveal patterns.
 
-Without solid abstraction work and planning, both end up as a mess that sooner or later will loudly crash.
+Lack of sturdy abstraction work and planning bring both to a mess that sooner or later will loudly crash.
 
 **Diversities are larger...**
 
-Software is fluid compared to static structures. The thinker who noticed: "Architecture is frozen music"<sup>🎼</sup>, would see software as "unleashed symphonic cacophony [under the circus tent]".
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>Arthur Schopenhauer (1788-1860), missattributed to Johann Wolfgang von Goethe (1749-1832).\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full original quote: _Architektur ist gefrorene Musik. (Möge es immer beschwingt und harmonisch zugehen in diesem Haus!)_</sub>
+Structures are static &mdash; software is fluid. If <b>«</b>architecture is frozen music»<sup>🎼</sup>, the software is "unleashed symphonic cacophony circus tent]", or_ Babylon Tower_ with woodpeckers.
 
 The lifecycle of construction is much longer. 
 
 YOU CAN't ACCEPT a BUILD that may crash (no stage).
 
 Architecture results in masterpiece buildings and indistinctive typical constructions. The latter isn't for IT, where even tailoring the existing software isn't development.
+
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+
+\_______
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>_Arthur Schopenhauer_ (1788-1860), missattributed to _Johann Wolfgang von Goethe_ (1749-1832).\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full original quote: <b>«</b>Architektur ist gefrorene Musik. (Möge es immer beschwingt und harmonisch zugehen in diesem Haus!)<b>»</b></sub>
 
 ### Hypothesis
 
