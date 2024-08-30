@@ -20,12 +20,7 @@ I venture to reformulate: "Most enough young and advanced in exact sciences can 
 <details><summary><b><ins>QA</ins></b></summary>
 &nbsp;
 
-> **If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.**\
-Attributed to _Gerald Weinberg_
-
-Knowing the high-responsibility software in which Mr.&nbsp;Weinberg participated one would strongly doubt his authorship. Or it was an explicit joke.
-
-Despite all epic failures, software, on which our life depends, is extremely robust and contrary made the world safer. The aphorism shall better be: "If the software is built like houses, customers will wait decades for change requests.",
+🚧 ... coming sooner or later ... 🚧
 
 </details>
 
