@@ -8,7 +8,7 @@ There's a discernible inclination in quotes toward the mathematicians and engine
 
 \_________
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project, Mercury or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
 
 #### John von Neumann
 
@@ -69,7 +69,7 @@ _Frederick Phillips Brooks Jr._ (**1931**-2022), known for IBM	OS/360
 
 #### Gerald Weinberg
 
-_Gerald Marvin Weinberg_ (**1933** - 2018), a computer scientist at IBM, a teacher of the psychology and anthropology of software
+_Gerald Marvin Weinberg_ (**1933** - 2018) 🇺🇸, UMich, IBM, a computer scientist, a teacher of the psychology and anthropology of software.
 
 #### Tony Hoare
 
