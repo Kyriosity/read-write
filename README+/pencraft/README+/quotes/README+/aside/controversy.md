@@ -19,6 +19,18 @@ Not only derogatory but illogical. Finding nine women in the vicinity who will d
 
 (I could only add that the sharpest axes in clumsy hands may have already destroyed a pencil beyond repair.)
 
+## Bitter words
+
+### QA
+
+> **If builders built houses the way programmers built programs, the first <mark>woodpecker</mark> to come along would destroy civilization.**\
+Attributed to [Gerald Weinberg](../contributors/README.md#Gerald-Weinberg)
+
+Knowing the high-responsibility software in which Mr.&nbsp;Weinberg participated one would strongly doubt his authorship. Or it was an explicit joke.
+
+Despite all epic failures, software, on which our life depends, is extremely robust and contrary made the world safer. The aphorism shall better be: "If the software is built like houses, customers will wait decades for change requests.",
+
+
 ### Bad languages
  
 > It is practically impossible to teach good programming to students that have had a prior exposure to **BASIC**: as potential programmers they are mentally mutilated beyond hope of regeneration.\
