@@ -15,7 +15,9 @@ The following language artifacts are awkward leastwise for me.
 `Do(int val, string rem=string.empty)`
 - Nullable declaration (with `?` prefix) is evident for value types but ambiguous for references and objects, which can be nulled anyway:\
 `string a = null; string? b = null;`
-- Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# readability.<sup>🙋</sup>
+- a perplexing extension of nullable as `((int?)1).Value`.
+
+Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# readability.<sup>🙋</sup>
 
 \_______________
 
