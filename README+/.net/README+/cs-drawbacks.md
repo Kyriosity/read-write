@@ -15,15 +15,16 @@ The following language artifacts are awkward leastwise for me.
 `Do(int val, string rem=string.empty)`
 - Nullable declaration (with `?` prefix) is evident for value types but ambiguous for references and objects, which can be nulled anyway:\
 `string a = null; string? b = null;`
-- a perplexing extension of nullable as `((int?)1).Value`.
+- a perplexing extension of nullable as `((int?)1).Value` and `((bool?)true).HasValue`<sup>❔</sup>.
 
 Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# readability.<sup>🙋</sup>
 
 \_______________
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:o:</sup> <sub>These native features can't be changed.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Though this paces and hopefully .NET team doesn't plan to make a Perl out of their language</sub>
-  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Though this paces and hopefully .NET team doesn't plan to make a Perl out of their language</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>❔</sup> <sub>Isn't `null` a value too?</sub>
+
 ### Generics
 
 The next definition is terse and clear `class CollWrapper<C, T> where C : ICollection<T> { ... }` but not the redundancy in its declaration `new CollWrapper<List<int>, int>()`.
