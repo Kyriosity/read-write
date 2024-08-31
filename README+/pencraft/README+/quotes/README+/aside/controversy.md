@@ -7,22 +7,23 @@
 >  Everyone knows it takes a woman nine months to have a baby. But you Americans think if you get nine women pregnant, you can have a baby in a month.\
 _Theodore von Kármán_ (1957)
 
-It would be ok for this specific case but [Fred Brooks](../contributors/README.md#Fred-Brooks) popularized it in [The Mythical Man-Month]()<sup>🔗</sup>:
+It matched a private aviation engineering talk but [Fred Brooks](../contributors/README.md#Fred-Brooks) popularized it in his [The Mythical Man-Month]()<sup>🔗</sup>:
 
 > The bearing of a child takes nine months, no matter how many women are assigned.
 
-Not only derogatory but illogical. Finding nine women in the vicinity who will deliver ten babies in half a month is trivia. 
+Not only derogatory but illogical. Finding nine women in the vicinity who will deliver ten babies in half a month is not a poser. 
 
 [Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra) conveyed the idea much more plausible (albeit about languages, 1975):
 
 > It is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with **ten** blunt axes instead.
 
-(I could only add that the sharpest axes in clumsy hands may have already destroyed a pencil beyond repair.)
+(To add only that the sharpest axes in clumsy hands may have already destroyed a pencil beyond repair.)
 
 ## Bitter words
 
 ### QA
 
+<a id="woodpecker"></a>
 > **If builders built houses the way programmers built programs, the first <mark>woodpecker</mark> to come along would destroy civilization.**\
 Attributed to [Gerald Weinberg](../contributors/README.md#Gerald-Weinberg)
 
