@@ -55,7 +55,7 @@ As the extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/READ
 <table>
   <tr>
     <td width="50%">
-      <a href="https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/">Object-oriented kangaroos</a>
+      <a href="https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/"><b>&nbsp;🦘Object-oriented kangaroos 🇦🇺&nbsp;</b></a>
     </td>
     <td>
     Just for illustration
