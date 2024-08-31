@@ -39,7 +39,8 @@ Translated east-to-west this means: find a sinecure in a big company.
 
 And ... the twist! It was a real random number, while algorithms generate only pseudo-random ones.
 
-The latter was what extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/README.md#John-von-Neumann) noted:
+As the extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/README.md#John-von-Neumann) stressed:
+
 > Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin.
 
 ---------
@@ -51,11 +52,30 @@ The latter was what extraordinary [John von&nbsp;Neumann](../quotes/README+/cont
 
 ![DRY principle](https://img.shields.io/badge/clean_code-Oz-cyan)  ![clean code](https://img.shields.io/badge/DRY-🇦🇺-yellow) ![fact check](https://img.shields.io/badge/Fact❓-Check❗-green)  
 
-Original study: https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/
-
-([downloaded copy](../../../_rsc/_backup/ref/Marsupial/) if the URL doesn't work)
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/">Object-oriented kangaroos</a>
+    </td>
+    <td>
+    Just for illustration
+    </td>
+  </tr>
+  <tr valign="top">
+    <td>
+      <a href="../../../_rsc/_backup/ref/Marsupial/">downloaded safe-copy</a> <br />if the URL above doesn't work
+    </td>
+    <td>
+      <a href="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy)_thumb250px.jpg">
+        <img src="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy)_thumb250px.jpg" 
+          alt="&nbsp;a flying kangaroo"   
+          title="A kangaroo clears a fence in Beveridge, 37 km north of Melbourne's CBD (snapshot by Nathan Xuebsy, 2024)"></a>
+    </td>
+  </tr>
+</table>
 
 ---------
+
 </details>
 
 <details>
