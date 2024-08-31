@@ -66,7 +66,7 @@ As the extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/READ
       <a href="../../../_rsc/_backup/ref/Marsupial/">downloaded safe-copy</a> <br />if the URL above doesn't work
     </td>
     <td>
-      <a href="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy)_thumb250px.jpg">
+      <a href="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy).jpg">
         <img src="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy)_thumb250px.jpg" 
           alt="&nbsp;a flying kangaroo"   
           title="A kangaroo clears a fence in Beveridge, 37 km north of Melbourne's CBD (snapshot by Nathan Xuebsy, 2024)"></a>
