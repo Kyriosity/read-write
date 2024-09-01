@@ -1,6 +1,6 @@
 # IT - Quotes - Cornerstones
 
-* Quotes and epigraphs can be annoying, but only worthy ones are cherry-picked for this paper to provoke deeper IT thinking. 
+* Quotes and epigraphs can be annoying, their hackneyed selections migrate between resources &mdash; only worthy ones are cherry-picked here to provoke deeper IT thinking. 
 * Looking for quotes gets arduous - not every expert spoke/wrote/thought in them and maintained their list, and not every best is in _wikiquote_.
 
 [![#SimpleVsComplex](https://img.shields.io/badge/%23-Simple⚔️Complex-2962FF)](#) [![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software/ArcDeco/README.md)
@@ -78,8 +78,7 @@ The first method is far more difficult. It demands the same skill, devotion, ins
           <a href="contributors/README.md#Kent-Beck"><b>Kent Beck</b></a>, "Refactoring", 1999
     </td>
     <td>
-      <b>I find it very odd.</b> I’m a fairly private person who just sits in front of the computer and <mark>hacks</mark> on code.<br />
-         <ins><i>Andres Freund</i></ins>, 2024, a programmer who occasionally prevented the "century" cyberattack, <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html">NYT</a>.
+      Given enough eyeballs, all <mark>bugs</mark> are shallow.<br /><a href="https://en.wikipedia.org/wiki/Linus%27s_law">Linus's law</a>
     </td>
   </tr>
   <tr valign="top">
