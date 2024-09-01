@@ -238,6 +238,9 @@ Alexander Pope, poet (1688-1744)
 > **Never allow the same bug to bite you twice.**\
 _Steve Maguire_, programmer and author
 
+> **I find it very odd. I’m a fairly private person who just sits in front of the computer and hacks on code.**\
+_Andres Freund_, a programmer who occasionally prevented the ["century" cyberattack](https://en.wikipedia.org/wiki/XZ_Utils_backdoor), in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html">NYT inteview</a>, 2024.
+
 \_________________________________
 
 </details>
