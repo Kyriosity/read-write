@@ -1,4 +1,4 @@
-# C# - Derived from praxis
+# C# - from praxis - Hints
 
 ## Syntactic reminder
 
@@ -243,7 +243,14 @@ enum FundamentalStatesOfMatter
 
 </details>
 
-## Subsystems, frameworks
+### Further
 
-+ **WPF** ...\
-| - [WPF hints](wpf/README+/wpf-hints.md)
+|- [**Techniques**](cs-techniques.md)\
+|- ➡️ [Design decisions](https://github.com/Kyriosity/use-dev/tree/main/README+/decisions) (_use-dev_)\
+|- Sybsystems/frameworks\
+|--- **WPF**\
+|----- [WPF hints](wpf/README+/wpf-hints.md)
+
+\_______
+
+🔚 <sub>🎼 ©️# XXI</sub>
