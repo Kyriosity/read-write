@@ -124,11 +124,13 @@ _Theodore von Kármán_ (**1881**-1963), outstanding aerospace engineer best kno
 
 #### George Pólya
 
-Prof. _George Pólya_ (**1887**-1985) mathematician, [Martianin](https://en.wikipedia.org/wiki/The_Martians_(scientists))
+Prof. _George Pólya_ (**1887**-1985) mathematician, Zürich, Stanford; [Martianin](https://en.wikipedia.org/wiki/The_Martians_(scientists))<sub>🔗</sub>
 
-He is distinguished for his endowment in the pedagogics of mathematics.
+He is distinguished for his endowment in the pedagogics of mathematics. One of his students was _John von Neumann_.
 
-Curios fact: one of his students was _John von Neumann_.
+#### Paul Erdos
+
+_Paul Erdos_ (**1913**-1996, math. conference, Warsaw), one of the most prolific mathematicians with namesake prizes; [Martianin](https://en.wikipedia.org/wiki/The_Martians_(scientists))<sub>🔗</sub>
 
 #### Paul Halmos
 
