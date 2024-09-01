@@ -57,10 +57,17 @@ Sure, an environment may force bad practices but they don't make developers.
 > So programming languages on the whole are very much more complicated than they used to be: **object orientation, inheritance,** and other features are still not really being thought through from the point of view of a coherent and scientifically well-based discipline or a theory of correctness.\
 ...
 
-[C.A.R. (Tony) Hoare](../contributors/README.md#Tony-Hoare), 2002 in interview
+<details><summary><ins>&nbsp;Full quote...&nbsp;</ins></summary>
+ <p>What’s happened is that practical programmers have used whatever understanding they’ve gained, or theoreticians have offered them, to increase complexity.</p>
+<p>So programming languages on the whole are very much more complicated than they used to be: object orientation, inheritance, and other features are still not really being thought through from the point of view of a coherent and scientifically well-based discipline or a theory of correctness.</p>
+<p>My original postulate, which I have been pursuing as a scientist all my life, is that one uses the criteria of correctness as a means of converging on a decent programming language design &mdash; one which doesn’t set traps for its users, and ones in which the different components of the program correspond clearly to different components of its specification, so you can reason compositionally about it.</p>
+<p>Programming languages in full generality have not really paid full attention to this aspect. They tend to be defined purely on the basis of what the machine does when it’s executing the program, and often at quite a low level of granularity too &mdash; individual storage accesses.</p>
+<p>I still think we have to get the message across. The tools, including the compiler, have to be based on some theory of what it means to write a correct program.</p>
 
-<details><summary>Full quote...</summary>
- What’s happened is that practical programmers have used whatever understanding they’ve gained, or theoreticians have offered them, to increase complexity. So programming languages on the whole are very much more complicated than they used to be: object orientation, inheritance, and other features are still not really being thought through from the point of view of a coherent and scientifically well-based discipline or a theory of correctness. My original postulate, which I have been pursuing as a scientist all my life, is that one uses the criteria of correctness as a means of converging on a decent programming language design—one which doesn’t set traps for its users, and ones in which the different components of the program correspond clearly to different components of its specification, so you can reason compositionally about it. Programming languages in full generality have not really paid full attention to this aspect. They tend to be defined purely on the basis of what the  29 machine does when it’s executing the program, and often at quite a low level of granularity too—individual storage accesses. I still think we have to get the message across. The tools, including the compiler, have to be based on some theory of what it means to write a correct program.
+\______
+
 </details>
 
-🔚
+[C.A.R. (Tony) Hoare](../contributors/README.md#Tony-Hoare), in interview, 2002
+
+🔚 but to be continued...
