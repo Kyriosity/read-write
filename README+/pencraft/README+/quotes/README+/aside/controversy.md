@@ -2,6 +2,11 @@
 
 ## Controversial
 
+> Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.\
+[Linus Torvalds](../contributors/README.md#Linus-Torvalds)
+
+Master Torvvalds could have meant bright open source contributors, but there're most smart guys in IT are for wages and it's not a fun in commercial deveopment.
+
 ### Maternity ward
 
 >  Everyone knows it takes a woman nine months to have a baby. But you Americans think if you get nine women pregnant, you can have a baby in a month.\
@@ -17,7 +22,7 @@ Not only derogatory but illogical. Finding nine women in the vicinity who will d
 
 > It is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with **ten** blunt axes instead.
 
-(To add only that the sharpest axes in clumsy hands may have already destroyed a pencil beyond repair.)
+(To add only that the sharpest axes in clumsy hands may have already destroyed pencils beyond repair.)
 
 ## Bitter words
 
@@ -29,22 +34,21 @@ Attributed to [Gerald Weinberg](../contributors/README.md#Gerald-Weinberg)
 
 Knowing the high-responsibility software in which Mr.&nbsp;Weinberg participated one would strongly doubt his authorship. Or it was an explicit joke.
 
-Despite all epic failures, software, on which our life depends, is extremely robust and contrary made the world safer. The aphorism shall better be: "If the software is built like houses, customers will wait decades for change requests.",
+Despite all epic failures, software, on which our life depends, is extremely robust and contrary made the world safer. The aphorism shall better be: "If the software is built like houses, customers will wait decades for change requests."
 
-
-### Bad languages
+### Languages
  
 > It is practically impossible to teach good programming to students that have had a prior exposure to **BASIC**: as potential programmers they are mentally mutilated beyond hope of regeneration.\
 [Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra), 1975
 
-> C++ is a badly designed and ugly language. It would be a shame to use it in Emacs.\
-[Richard Stallman](../contributors/README.md#Richard-Stallman)
-
-> FORTRAN—the "infantile disorder" by now nearly 20 years old, is hopelessly inadequate for whatever computer application you have in mind today: it is now too clumsy, too risky, and too expensive to use.\
+> **FORTRAN** &mdash; the "infantile disorder" by now nearly 20 years old, is hopelessly inadequate for whatever computer application you have in mind today: it is now too clumsy, too risky, and too expensive to use.\
 [Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra)
 
-> <mark>C++ is a language strongly optimized for liars and people who go by guesswork and ignorance.</mark>\
+> <mark><b>C++</b> is a language strongly optimized for liars and people who go by guesswork and ignorance.</mark>\
 _Erik Naggum_, Lisp programmer, 2008 on Usenet
+
+> **C++** is a badly designed and ugly language. It would be a shame to use it in Emacs.\
+[Richard Stallman](../contributors/README.md#Richard-Stallman)
 
 Sure, an environment may force bad practices but they don't make developers.
 
