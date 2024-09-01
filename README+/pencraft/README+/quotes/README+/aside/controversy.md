@@ -5,18 +5,18 @@
 > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.\
 [Linus Torvalds](../contributors/README.md#Linus-Torvalds)
 
-Master Torvvalds could have meant bright open source contributors, but there're most smart guys in IT are for wages and it's not a fun in commercial deveopment.
+Master Torvalds could have meant renowned open-source contributors, but most smart guys in IT are for wages and it's not fun in commercial development.
 
 ### Maternity ward
 
 >  Everyone knows it takes a woman nine months to have a baby. But you Americans think if you get nine women pregnant, you can have a baby in a month.\
 _Theodore von Kármán_ (1957)
 
-It matched a private aviation engineering talk but [Fred Brooks](../contributors/README.md#Fred-Brooks) popularized it in his [The Mythical Man-Month]()<sup>🔗</sup>:
+It matched a private aviation engineering talk but [Fred Brooks](../contributors/README.md#Fred-Brooks) popularized it in his [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)<sup>🔗</sup>:
 
 > The bearing of a child takes nine months, no matter how many women are assigned.
 
-Not only derogatory but illogical. Finding nine women in the vicinity who will deliver ten babies in half a month is not a poser. 
+Not only derogatory but illogical. Finding nine women in the vicinity who will deliver ten babies in half a month is just a search. (Finding developers who can save a failing project is a question of payment.) 
 
 [Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra) conveyed the idea much more plausible (albeit about languages, 1975):
 
@@ -44,11 +44,11 @@ Despite all epic failures, software, on which our life depends, is extremely rob
 > **FORTRAN** &mdash; the "infantile disorder" by now nearly 20 years old, is hopelessly inadequate for whatever computer application you have in mind today: it is now too clumsy, too risky, and too expensive to use.\
 [Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra)
 
-> <mark><b>C++</b> is a language strongly optimized for liars and people who go by guesswork and ignorance.</mark>\
-_Erik Naggum_, Lisp programmer, 2008 on Usenet
-
 > **C++** is a badly designed and ugly language. It would be a shame to use it in Emacs.\
 [Richard Stallman](../contributors/README.md#Richard-Stallman)
+
+> <mark><b>C++</b> is a language strongly optimized for liars and people who go by guesswork and ignorance.</mark>\
+_Erik Naggum_, Lisp programmer, 2008 on Usenet
 
 Sure, an environment may force bad practices but they don't make developers.
 
