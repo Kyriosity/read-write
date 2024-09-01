@@ -14,9 +14,9 @@ There's a discernible inclination in quotes toward the mathematicians and engine
 
 _John von Neumann_ (**1903**, Budapest - 1957, Washington, D.C. 🇺🇸), one of IT founders, _inter alia_ mathematician with the widest coverage in his time. 
 
-One of the numerous bright quotes about him: "Most mathematicians prove what they can, von Neumann proves what he wants." (_Paul Halmos_, mathematician)
+One of the numerous bright quotes about him: «Most mathematicians prove what they can, von Neumann proves what he wants.» (_Paul Halmos_)
 
-Fun fact: searching for _von Neumann_ without the first name will bring primary a list of artifacts (like theorems) given his name.
+Fun fact: searching for _von Neumann_ without the first name will list first namesake artifacts (like theorems).
 
 #### Grace Hopper
 
@@ -130,7 +130,7 @@ He is distinguished for his endowment in the pedagogics of mathematics. One of h
 
 #### Paul Erdos
 
-_Paul Erdos_ (**1913**-1996, math. conference, Warsaw), one of the most prolific mathematicians with namesake prizes; [Martianin](https://en.wikipedia.org/wiki/The_Martians_(scientists))<sub>🔗</sub>
+_Paul Erdos_ (**1913**-1996, math. conference, Warsaw), one of the most prolific mathematicians and publisher; [Martianin](https://en.wikipedia.org/wiki/The_Martians_(scientists))<sub>🔗</sub>
 
 #### Paul Halmos
 
