@@ -39,9 +39,11 @@
         <a href="contributors/README.md#Richard-Hamming"><b>Richard Hamming</b></a>
     </td>
     <td>
-      There are two ways of constructing a software <mark>design</mark>: one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no <i>obvious</i> deficiencies.<br />
-The first method is far more difficult. It demands the same skill, devotion, insight, and even inspiration as the discovery of the simple physical laws which underlie the complex phenomena of nature.<br />
-      <a href="contributors/README.md#Tony-Hoare"><b>C. A. R. Hoare</b></a>
+      There are two ways of constructing a software <mark>design</mark>: one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no <i>obvious</i> deficiencies.
+<details><summary>The first method is...</summary>
+...far more difficult. It demands the same skill, devotion, insight, and even inspiration as the discovery of the simple physical laws which underlie the complex phenomena of nature.
+  </details>
+  <a href="contributors/README.md#Tony-Hoare"><b>C. A. R. Hoare</b></a>
     </td>
   </tr>
   <tr valign="top">
@@ -58,6 +60,7 @@ The first method is far more difficult. It demands the same skill, devotion, ins
   </tr> 
   <tr valign="top">
     <td>
+      If <mark>numbers</mark> aren't beautiful, I don't know what is.<br /><a href="contributors/README.md#Paul-Erdos"><b>Paul Erdos</b></a><br />
       I like <mark>words</mark> more than numbers, and I always did.<br /><a href="contributors/README.md#Paul-Halmos"><b>Paul Halmos</b>
     </td>
     <td>
@@ -74,7 +77,10 @@ The first method is far more difficult. It demands the same skill, devotion, ins
       <mark>Testing</mark> shows the presence not the absence of bugs.<br /><a href="contributors/README.md#Edsger-W-Dijkstra"><b>Edsger W. Dijkstra</b></a>, 1969<br />(documented while the saying appeared before)
     </td>
     <td>
-      The key is to <b><mark>test</mark> the areas that you are most worried about going wrong</b>. That way you get the most benefit for your testing effort.<br />It is better to write and run incomplete tests than not to run complete tests.<br />
+      The key is to <b><mark>test</mark> the areas that you are most worried about going wrong</b>. 
+      <details><summary>That way you...</summary>
+      ...get the most benefit for your testing effort.<br />It is better to write and run incomplete tests than not to run complete tests.
+      </details>
           <a href="contributors/README.md#Kent-Beck"><b>Kent Beck</b></a>, "Refactoring", 1999
     </td>
     <td>
@@ -90,7 +96,10 @@ The first method is far more difficult. It demands the same skill, devotion, ins
   <a href="contributors/README.md#Grace-Hopper"><b>Grace Hopper</b></a>
     </td>
     <td>
-      One of my guiding principles is <b>don’t do anything that other people are doing. Always do something a little different if you can.</b> The concept is that if you do it a little differently there is a greater potential for reward than if you the same thing that other people are doing. I think that this kind of goal for one’s work, having obviously the maximum risk, would have the maximum reward no matter what the field may be.<br />
+      One of my guiding principles is <b>don’t do anything that other people are doing. Always do something a little different if you can.</b>
+    <details><summary>The concept is...</summary>
+        ...that if you do it a little differently there is a greater potential for reward than if you the same thing that other people are doing. I think that this kind of goal for one’s work, having obviously the maximum risk, would have the maximum reward no matter what the field may be.
+      </details>
 <a href="contributors/README.md#Seymour-Cray"><b>Seymour Cray</b></a>
     </td>    
   </tr>
