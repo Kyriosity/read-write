@@ -110,7 +110,11 @@ _James E. Rumbaugh_ (1947  Bethlehem, Pennsylvania us)
 
 _Grady Booch_ (1955 Amarillo, Texas us)
 
-#### 
+### Open Source / Freeware
+
+#### Linus Torvalds
+
+_Linus Benedict Torvalds_ (born 1969) 🇫🇮 🇺🇸 Universität Helsinki
 
 ### _et alia_
 
