@@ -22,7 +22,7 @@
     </td>
     <td>
       <a href="README+/SW_architect-aTake.md"><img src="../../../_rsc/_img/_nav/tiles/Architect_200px.jpg" alt="SW_architect-aTake.md" title="Finding Software Architect - a Take"/>
-      <br /><div align="center"><h4>SOFTWARE ARCHITECT</h4></div></a>
+      <br /><div align="center"><h4>ARCHITECT(URE)</h4></div></a>
     </td>
    <td>
       <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/cs-think_tasks.md"><img src="../../../_rsc/_img/_nav/tiles/_WorkInProgress_200px.jpg" alt="think-tasks.md" title="Promise oriented patterns on tasks"/>
