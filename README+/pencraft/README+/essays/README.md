@@ -3,16 +3,16 @@
 <table>
   <tr>
     <td>
-      <a href="README+/punchcard.md"><img src="../../../_rsc/_img/_nav/tiles/punchcard_200px.jpg" alt="punchacrd.md" title="Punchcards - once upon a time"/>
-        <br /><div align="center"><h4>PUNCHCARDS</h4></div></a>
+      <a href="README+/AI-2020s.md"><img src="../../../_rsc/_img/_nav/tiles/AIchemy_200px.jpg" alt="AI-2020s.md" title="AI Twenties - Much ado about nothing?"/>
+      <br /><div align="center"><h4>AI TWENTIES</h4></div></a>
     </td>
       <td>
       <a href="README+/LN-view.md"><img src="../../../_rsc/_img/_nav/tiles/LotusNotes_200px.jpg" alt="LN-view.md" title="Lotus Notes - This used to be my playground"/>
       <br /><div align="center"><h4>LOTUS NOTES</h4></div></a>
     </td>
-    <td>
-      <a href="README+/AI-2020s.md"><img src="../../../_rsc/_img/_nav/tiles/AIchemy_200px.jpg" alt="AI-2020s.md" title="AI Twenties - Much ado about nothing?"/>
-      <br /><div align="center"><h4>AI TWENTIES</h4></div></a>
+        <td>
+      <a href="README+/punchcard.md"><img src="../../../_rsc/_img/_nav/tiles/punchcard_200px.jpg" alt="punchacrd.md" title="Punchcards - once upon a time"/>
+        <br /><div align="center"><h4>PUNCHCARDS</h4></div></a>
     </td>
   </tr>
   <tr>
