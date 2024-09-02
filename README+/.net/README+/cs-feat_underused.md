@@ -1,6 +1,6 @@
 # C# - Good sides - Underused
 
-Parts of C# syntax, certain features, libraries, and frameworks are underestimated or unrevealed.
+Parts of C# syntax, certain features, libraries, and frameworks are preferable but often remain unrevealed.
 
 ## Fresh released
 
@@ -29,6 +29,12 @@ The following "old" practical syntax and features remain unused in enough progra
 - [ ] `readonly` for `struct` methods - questionable but don't harm and may prevent bugs
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup> <sub>This urged me to rewrite ➡️[exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcExt/Errors).</sub>
+
+## Structures
+
+### Tuples
+
+[Table conditional tuples](cs-techniques.md#tabTuples)
 
 ## Predicates and delegates as arguments
 
