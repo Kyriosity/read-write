@@ -4,7 +4,7 @@ _Techniques_ mean practical choices on the level between [hints](cs-hints.md) an
 
 ## Logic
 
-### "Tabular" "tupled" switch
+### Tabular "tupled" conditions
 
 <a id="tabTuples"></a>
 The `switch` may look worse `elseif`s  but together with tuple pattern matching, it is an undefeated shortcut for lists of loose combinations.
