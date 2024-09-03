@@ -15,7 +15,7 @@
      <a href="README+/software/QA/README+/tests-pitfalls.md">Tests pitfalls</a>
       <div dir="rtl"><a href="README+/software/QA/"><b><i>all QA notes</i>...</b></a></div>
      <p>&nbsp;&nbsp;
-     <a href="README+/software/~design/drive">Drive</a>
+     <a href="README+/software/~design/drive">Drives</a>
      ➿
      <a href="README+/software/mngmnt">Organization</a>
      </p>
