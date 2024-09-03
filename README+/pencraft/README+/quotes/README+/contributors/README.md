@@ -20,7 +20,7 @@ Fun fact: searching for _von Neumann_ without the first name will list first nam
 
 #### Grace Hopper
 
-_Grace Brewster Hopper_, née Murray (**1906**-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (that queerly chords with her name).
+_Grace Brewster Hopper_, née Murray (**1906**-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (that queer chords with her name).
 
 #### Alan Turing
 
@@ -91,12 +91,27 @@ Data abstraction concepts, to which she mostly contributed, became natural as th
 
 Prof. Liskov: «One advantage to being in the field so early was that great problems were sitting there. All you had to do was jump on them.»
 
+### Math / Phys
+
+#### George Pólya
+
+Prof. _George Pólya_ (**1887**-1985)<sup>👽</sup> mathematician, Zürich, Stanford
+
+He is distinguished for his endowment in the pedagogics of mathematics. One of his students was _John von Neumann_.
+
+#### Paul Erdos
+
+_Paul Erdos_ (**1913**-1996, math. conference, Warsaw)<sup>👽</sup>, one of the most prolific mathematicians and publisher; 
+
+#### Paul Halmos
+
+_Paul Richard Halmos_ (**1916**-2006)<sup>👽</sup> UIUC, a mathematician with fundamental advances.
+
 ### Gang of Four and Design Patterns
 
 The founders of UML and the first famous [Design Pattern](https://en.wikipedia.org/wiki/Design_Patterns) "almanac".
 
 GoF: Erich Gamma 🇨🇭, _Richard Helm_, _Ralph Johnson_ 🇺🇸, and _John Vlissides_ 🇺🇸
-
 
 #### Ivar Jacobson 
 
@@ -122,20 +137,6 @@ _Linus Benedict Torvalds_ (born 1969) 🇫🇮 🇺🇸 Univ. Helsinki
 
 _Theodore von Kármán_ (**1881**-1963)<sup>👽</sup>, outstanding aerospace engineer best known for _Kármán line_
 
-#### George Pólya
-
-Prof. _George Pólya_ (**1887**-1985)<sup>👽</sup> mathematician, Zürich, Stanford
-
-He is distinguished for his endowment in the pedagogics of mathematics. One of his students was _John von Neumann_.
-
-#### Paul Erdos
-
-_Paul Erdos_ (**1913**-1996, math. conference, Warsaw)<sup>👽</sup>, one of the most prolific mathematicians and publisher; 
-
-#### Paul Halmos
-
-_Paul Richard Halmos_ (**1916**-2006)<sup>👽</sup> UIUC, a mathematician with fundamental advances.
-
 #### Dennis Ritchie
 
 _Dennis MacAlistair Ritchie_ (**1941**-2011)<sup>🥇</sup> creator of `C` and co-author of UNIX (with Ken Thompson)
@@ -151,7 +152,7 @@ _Richard Matthew Stallman_, founder of GNU and Free Software Movement
 
 #### Kent Beck
 
-_Kent Beck_ (born 1961) 🇺🇸, the eXtreme Programming founder, a signer of _Agile Manifesto_, a prolific author on patterns and contributor frameworks ([JUnit](https://github.com/junit-team) as an example).
+_Kent Beck_ (born 1961) 🇺🇸 the eXtreme Programming founder, a signer of _Agile Manifesto_, a prolific author on patterns and contributor frameworks ([JUnit](https://github.com/junit-team) as an example).
 
 \______
 
