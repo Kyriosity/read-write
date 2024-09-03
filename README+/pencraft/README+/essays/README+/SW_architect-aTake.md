@@ -1,15 +1,11 @@
 > 🚧 :pencil2: 🚧 ... WRITING in PROGRESS ... 🚧 :paintbrush: 🚧
 
-# Architecture and Architect
-
-<p dir=rtl><mark>"<b>.I am the Architect</b>"</mark><br />🎦&nbsp;<i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i></p>
-
 > This essay treats architecture and design together (as everything over particular and imaginary applications/systems/constructions) while
-<picture><img alt="&nbsp;Arc Deco" src=" /../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
-title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
-discriminates them as [kin adjacent activities](../../../../software/ArcDeco/README+/03.Stripes).
+<picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
+title="LOCAL SURVEY&#013;&#010;Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
+, from which this essay derives, discriminates them as [kin adjacent activities](../../../../software/ArcDeco/README+/03.Stripes).
 
-## Genesis
+# Architecture and Architect
 
 The spirit of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that being great thinkers they coined the term _architect_<sup>🏛️</sup> centuries before it was romanized to _architecture_.
 
@@ -51,6 +47,8 @@ YOU CAN't ACCEPT a BUILD that may crash (no stage).
 
 
 ### Construction architect vs. software 
+
+<p dir=rtl><mark>"<b>.I am the Architect</b>"</mark><br />🎦&nbsp;<i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i></p>
 
 ## Hypothesis
 
