@@ -12,7 +12,7 @@ There's a discernible inclination in quotes toward the mathematicians and engine
 
 #### John von Neumann
 
-_John von Neumann_ (**1903**, Budapest - 1957, Washington, D.C. 🇺🇸)<sup>👽</sup> one of IT founders, _inter alia_ mathematician with the widest coverage. 
+_John von Neumann_ (**1903**, Budapest - 1957, Washington, D.C. 🇺🇸)<span title="Martians as scientific group"><sup>👽</sup></span> one of IT founders, _inter alia_ mathematician with the widest coverage. 
 
 One of the numerous honoring quotes about him: «Most mathematicians prove what they can, von Neumann proves what he wants.» (_Paul Halmos_)
 
@@ -30,7 +30,7 @@ Enough to say that many on this list got the prize of his name<sup>🥇</sup> as
 
 #### Maurice Wilkes
 
-_Maurice Vincent Wilkes_ 🇬🇧 (June 26, **1913** – November 29, 2010)<sup>🥇</sup>
+_Maurice Vincent Wilkes_ 🇬🇧 (June 26, **1913** – November 29, 2010)<sup title="Turing Award, 1967">🥇</sup>
 
 Designer of the earliest stored program computers (EDSAC, 1949) and inventor of **μ**programming,
 
@@ -40,15 +40,15 @@ _Richard Wesley Hamming_ (**1915** 🇺🇸 - 1988), a mathematician known for p
 
 #### Alan Perlis
 
-_Alan Jay Perlis_ (**1922** Pittsburgh, Pennsylvania :us: - 1990)<sup>🥇</sup> MIT, one of the ALGOL founders
+_Alan Jay Perlis_ (**1922** Pittsburgh, Pennsylvania :us: - 1990)<sup title="Turing Award, 1966">🥇</sup> MIT, one of the ALGOL founders
 
 #### Ted Codd
 
-_Edgar Frank "Ted" Codd_ 🇬🇧 (**1923**-2003)<sup>🥇</sup> IBM, Oxford, who made databases relational (vs Network data model introduced by Charles Bachman and others)
+_Edgar Frank "Ted" Codd_ 🇬🇧 (**1923**-2003)<sup title="Turing Award, 1981">🥇</sup> IBM, Oxford, who made databases relational (vs Network data model introduced by Charles Bachman and others)
 
 #### Charles Bachman
 
-_Charles William Bachman III_ 🇺🇸 (**1924**-2017)<sup>🥇</sup> who invented the DBMS and changed the business of GE.
+_Charles William Bachman III_ 🇺🇸 (**1924**-2017)<sup title="Turing Award, 1973">🥇</sup> who invented the DBMS and changed the business of GE.
 
 A rare pure engineer among IT founders, and one who visited the White House to receive the National Medal of Technology and Innovation personally from the President.\
 https://cacm.acm.org/opinion/how-charles-bachman-invented-the-dbms-a-foundation-of-our-digital-world/
@@ -59,13 +59,13 @@ _Seymour Roger Cray_ 🇺🇸 (1925-1996), UoM, father of supercomputers
 
 #### Edsger W. Dijkstra
 
-_Edsger Wybe Dijkstra_ 🇳🇱 (**1930**, Rotterdam  - 2002)🇳🇱<sup>🥇</sup> known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+_Edsger Wybe Dijkstra_ 🇳🇱 (**1930**, Rotterdam  - 2002)🇳🇱<sup title="Turing Award, 1972">🥇</sup> known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
  The inventor of _mutex_, ¿the abolisher of `goto`? (sorry, it was _Niklaus Wirth_).
 
 #### Fred Brooks
 
-_Frederick Phillips Brooks Jr._ (**1931**-2022)<sup>🥇</sup> known for IBM	OS/360
+_Frederick Phillips Brooks Jr._ (**1931**-2022)<sup title="Turing Award, 1999">🥇</sup> known for IBM	OS/360
 
 #### Gerald Weinberg
 
@@ -73,19 +73,19 @@ _Gerald Marvin Weinberg_ (**1933** - 2018) 🇺🇸, UMich, IBM, a computer scie
 
 #### Tony Hoare
 
-_C.A.R. Hoare_, _Charles Antony Richard Hoare_ (born **1934**)<sup>🥇</sup> a fundamental contributor to programming languages and algorithms
+_C.A.R. Hoare_, _Charles Antony Richard Hoare_ (born **1934**)<sup title="Turing Award, 1980">🥇</sup> a fundamental contributor to programming languages and algorithms
 
 #### Niklaus Wirth
 
-_Niklaus Emil Wirth_ (**1934** - 2024)🇨🇭 <sup>🥇</sup> inventor of Pascal and other languages
+_Niklaus Emil Wirth_ (**1934** - 2024)🇨🇭 <sup title="Turing Award, 1984">🥇</sup> PhD, inventor of Pascal and other innovative languages
 
 #### Donald Knuth
 
-_Donald Ervin Knuth_ (born **1938** Milwaukee, Wisconsin 🇺🇸)<sup>🥇</sup> one of the first and most prominent computer scientists, best known for _The Art of Computer Programming_, 1962-1973
+_Donald Ervin Knuth_ (born **1938** Milwaukee, Wisconsin 🇺🇸)<sup title="Turing Award, 1974">🥇</sup> one of the first and most prominent computer scientists, best known for _The Art of Computer Programming_, 1962-1973
 
 #### Barbara Liskov
 
-Prof. _Barbara Jane Liskov_, née _Huberman_ (born **1939**) 🇺🇸 <sup>🥇</sup> MIT, awardee of multiple prizes (incl. Turing), the only one honored with a personal letter in [SO**L**ID](https://en.wikipedia.org/wiki/SOLID)
+Prof. _Barbara Jane Liskov_, née _Huberman_ (born **1939**) 🇺🇸 <sup title="Turing Award, 2008">🥇</sup> MIT, awardee of multiple prizes (incl. Turing), the only one honored with a personal letter in [SO**L**ID](https://en.wikipedia.org/wiki/SOLID)
 
 Data abstraction concepts, to which she mostly contributed, became natural as the mother tongue but then it was *terra incognita*.
 
@@ -139,7 +139,7 @@ _Theodore von Kármán_ (**1881**-1963)<sup>👽</sup>, outstanding aerospace en
 
 #### Dennis Ritchie
 
-_Dennis MacAlistair Ritchie_ (**1941**-2011)<sup>🥇</sup> creator of `C` and co-author of UNIX (with Ken Thompson)
+_Dennis MacAlistair Ritchie_ (**1941**-2011)<sup title="Turing Award, 1983, with Ken Thompson">🥇</sup> creator of `C` and co-author of UNIX (with Ken Thompson)
 
 #### Bjarne Stroustrup
 
@@ -152,11 +152,11 @@ _Richard Matthew Stallman_, founder of GNU and Free Software Movement
 
 #### Kent Beck
 
-_Kent Beck_ (born 1961) 🇺🇸 the eXtreme Programming founder, a signer of _Agile Manifesto_, a prolific author on patterns and contributor frameworks ([JUnit](https://github.com/junit-team) as an example).
+_Kent Beck_ (born 1961) 🇺🇸 the eXtreme Programming founder, a signer of _Agile Manifesto_, a prolific author on patterns and contributor to frameworks ([JUnit](https://github.com/junit-team)<sup>🔗</sup> as most famous).
 
 \______
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👽</sup> <sub>Labelled selection of prominent scientists known as [Martians](https://en.wikipedia.org/wiki/The_Martians_(scientists))<sup>🔗</sup></sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🥇</sup> <sub>[Turing Award](https://en.wikipedia.org/wiki/Turing_Award)<sup>🔗</sup>, aka "Nobel Prize of Computing".</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🥇</sup> <sub>Association for Computing Machinery [Turing Award](https://en.wikipedia.org/wiki/Turing_Award)<sup>🔗</sup>, aka "Nobel Prize of Computing".</sub>
 
 🔚 ... but to be continued ...
