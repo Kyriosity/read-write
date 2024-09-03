@@ -1,6 +1,6 @@
 # Code - Patterns
 
-The original vision of  *patterns* as code constructs has spread over software templates, project solutions, methodologies, and even developer's manners, but let's stay on its initial meaning.
+The original vision of code constructs, as in the famous ["Design Patterns"](https://en.wikipedia.org/wiki/Design_Patterns), has spread over software templates, project solutions, methodologies, and even developers' manners, but let's stay on its initial meaning.
 
 As the growth of instruction sets of processors resulted in abstractions clever programmers noticed useful patterns of code to repeat and recommend. 
 In the 1970s-1990s they were augmented, systematized, and popularized - the most admitted of them became dogmatic and featured in languages/frameworks.
