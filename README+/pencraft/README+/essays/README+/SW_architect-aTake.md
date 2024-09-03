@@ -4,16 +4,16 @@
 
 <p dir=rtl><mark>"<b>.I am the Architect</b>"</mark><br />🎦&nbsp;<i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i></p>
 
-> Here we treat architecture and design together (as everything over the code of particular and imaginary applications/systems) while [![Arc Deco](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software/ArcDeco/), from which this essay derives, discriminates them as [kin adjacent activities](../../../../software/ArcDeco/README+/03.Stripes).
+> This essay treats architecture and design together (as everything over the code OR BUILD of particular and imaginary applications/systems) while [![Arc Deco](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software/ArcDeco/) discriminates them as [kin adjacent activities](../../../../software/ArcDeco/README+/03.Stripes).
 
 ## Genesis 
 
-The spirit of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that they coined the term _architect_<sup>🏛️</sup> centuries before it was romanized to _architecture_.
+The spirit of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that being the great thinkers they  coined the term _architect_<sup>🏛️</sup> centuries before it was romanized to _architecture_.
 
 Then it took ages till the art of immobile methodized and acknowledged architects as a detached trade &mdash; 
 refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, and aesthetics.
 
-Later on, diverse spheres (from mega-vessels and supercomputers down to less determinate economics and politics) loaned «architecture» mostly as a metaphor to underline systematic complicacy. However, **μ**arch hasn't fostered microarchitects, while architects of détente or *economic miracle* are a metaphor.
+Later on, diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» mostly METAPHORIC to underline systematic complicacy. However, TITLE=**μ**arch hasn't fostered microarchitects (GIGA neither), while architects of détente or *economic miracle* are a metaphor.
 
 \_______
 
