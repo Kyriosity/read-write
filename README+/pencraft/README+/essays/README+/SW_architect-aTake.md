@@ -4,16 +4,19 @@
 
 <p dir=rtl><mark>"<b>.I am the Architect</b>"</mark><br />🎦&nbsp;<i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i></p>
 
-> This essay treats architecture and design together (as everything over the code OR BUILD of particular and imaginary applications/systems) while [![Arc Deco](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../../software/ArcDeco/) discriminates them as [kin adjacent activities](../../../../software/ArcDeco/README+/03.Stripes).
+> This essay treats architecture and design together (as everything over particular and imaginary applications/systems/constructions) while
+<picture><img alt="&nbsp;Arc Deco" src=" /../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
+title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
+discriminates them as [kin adjacent activities](../../../../software/ArcDeco/README+/03.Stripes).
 
-## Genesis 
+## Genesis
 
-The spirit of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that being the great thinkers they  coined the term _architect_<sup>🏛️</sup> centuries before it was romanized to _architecture_.
+The spirit of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that being great thinkers they coined the term _architect_<sup>🏛️</sup> centuries before it was romanized to _architecture_.
 
 Then it took ages till the art of immobile methodized and acknowledged architects as a detached trade &mdash; 
 refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, and aesthetics.
 
-Later on, diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» mostly METAPHORIC to underline systematic complicacy. However, TITLE=**μ**arch hasn't fostered microarchitects (GIGA neither), while architects of détente or *economic miracle* are a metaphor.
+Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. However, <span title="Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (giga- either), while architects of détente or *economic miracle* is a compliment.
 
 \_______
 
@@ -21,17 +24,15 @@ Later on, diverse spheres (from mega-vessels and supercomputers to less determin
 
 ## Software vs. Building
 
-The architecture of construction and software have much in common. Both must deliver functional wholes in a short period rather than aesthetic values. Both rely on the dynamic extent of tools, techniques, and skills. Both must accumulate practices and reveal patterns.
+The architecture of construction and software have much in common. Both give big space for phantasy but must deliver functional wholes in a short period rather than aesthetic values. Both rely on a dynamic plethora of tools, techniques, and skills. Both must accumulate practices and reveal patterns.
 
 Lack of proficient abstraction work and planning can make both a mess that will eventually crash loudly. Both can be grounds for hollow promises and sandcastles.
 
 **Diversities are larger...**
 
-If <b>«</b>architecture is frozen music»<sup>🎼</sup>, the software is "unleashed symphonic cacophony circus tent]"<sup>🐦‍⬛</sup>.
+Structures are static &mdash; software is fluid. If <b>«</b>architecture is frozen music»<sup>🎼</sup>, the software is "unleashed symphonic cacophony circus tent]"<sup>🐦‍⬛</sup>.
 
-Structures are static &mdash; software is fluid.
-
-Ends up in MATERIALS vs. ABSTRACTION which ends up in absraction (don't NEED even considering TRANSISTOR). SOFTWARE HAS NOT LIMITs (take mining farms) COMPARE TO BURJ HALIF or NEOM !
+Ends up in MATERIALS vs. ABSTRACTION which ends up in abstraction (don't NEED even considering TRANSISTOR). SOFTWARE HAS NOT LIMITs (take mining farms) COMPARE TO BURJ HALIF or NEOM !
 
 The software gives freedom of FULL-SCALE experiment unthinkable in other spheres.
 
@@ -39,13 +40,15 @@ The lifecycle of construction is much longer.
 
 YOU CAN't ACCEPT a BUILD that may crash (no stage).
 
-Architecture results in masterpiece buildings and indistinctive typical constructions. The latter isn't for IT, where even tailoring the existing software isn't development.
-
 \_______
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>_Arthur Schopenhauer_ (1788-1860), missattributed to _Johann Wolfgang von Goethe_ (1749-1832).\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full original quote: <b>«</b>Architektur ist gefrorene Musik. (Möge es immer beschwingt und harmonisch zugehen in diesem Haus!)<b>»</b></sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🐦‍⬛</sup> <sub>or _Babylon Tower_ with [woodpeckers](../../quotes/README+/aside/controversy.md#woodpecker)</sub>
+
+**Diversities between CHIEFS are overriding...**
+
+
 
 ### Construction architect vs. software 
 
