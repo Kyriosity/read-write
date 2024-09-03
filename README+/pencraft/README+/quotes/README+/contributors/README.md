@@ -12,15 +12,15 @@ There's a discernible inclination in quotes toward the mathematicians and engine
 
 #### John von Neumann
 
-_John von Neumann_ (**1903**, Budapest - 1957, Washington, D.C. 🇺🇸), one of IT founders, _inter alia_ mathematician with the widest coverage in his time. 
+_John von Neumann_ (**1903**, Budapest - 1957, Washington, D.C. 🇺🇸), one of IT founders, _inter alia_ mathematician with the widest coverage. 
 
-One of the numerous bright quotes about him: «Most mathematicians prove what they can, von Neumann proves what he wants.» (_Paul Halmos_)
+One of the numerous honoring quotes about him: «Most mathematicians prove what they can, von Neumann proves what he wants.» (_Paul Halmos_)
 
 Fun fact: searching for _von Neumann_ without the first name will list first namesake artifacts (like theorems).
 
 #### Grace Hopper
 
-_Grace Brewster Hopper_, née Murray (**1906**-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (which queerly chords with her name).
+_Grace Brewster Hopper_, née Murray (**1906**-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (that queerly chords with her name).
 
 #### Alan Turing
 
@@ -50,7 +50,7 @@ _Edgar Frank "Ted" Codd_ 🇬🇧 (**1923**-2003) IBM, Oxford, who made database
 
 _Charles William Bachman III_ 🇺🇸 (**1924**-2017) who invented the DBMS and changed the business of GE.
 
-A rare pure engineer among IT founders, and one who visited the White House to receive a National Medal of Technology and Innovation personally from the President.\
+A rare pure engineer among IT founders, and one who visited the White House to receive the National Medal of Technology and Innovation personally from the President.\
 https://cacm.acm.org/opinion/how-charles-bachman-invented-the-dbms-a-foundation-of-our-digital-world/
 
 #### Seymour Cray
@@ -114,7 +114,7 @@ _Grady Booch_ (1955 Amarillo, Texas us)
 
 #### Linus Torvalds
 
-_Linus Benedict Torvalds_ (born 1969) 🇫🇮 🇺🇸 Universität Helsinki
+_Linus Benedict Torvalds_ (born 1969) 🇫🇮 🇺🇸 Univ. Helsinki
 
 ### _et alia_
 
@@ -130,7 +130,7 @@ He is distinguished for his endowment in the pedagogics of mathematics. One of h
 
 #### Paul Erdos
 
-_Paul Erdos_ (**1913**-1996, math. conference, Warsaw), one of the most prolific mathematicians and publisher; [Martianin](https://en.wikipedia.org/wiki/The_Martians_(scientists))<sub>🔗</sub>
+_Paul Erdos_ (**1913**-1996, math. conference, Warsaw) 👽, one of the most prolific mathematicians and publisher; 
 
 #### Paul Halmos
 
@@ -160,4 +160,6 @@ Peter Norvig 🇺🇸 (born 1856) AI computer science PhD, distinguished Educati
 
 \______
 
-:end: but to be extended ...
+👽 [Martianin](https://en.wikipedia.org/wiki/The_Martians_(scientists)<sub>🔗</sub>\
+Turing AWARD\
+:end: but to be continued ...
