@@ -1,13 +1,18 @@
 > 🚧 :pencil2: 🚧 ... WRITING in PROGRESS ... 🚧 :paintbrush: 🚧
 
-> This essay treats architecture and design together (as everything over particular and imaginary applications/systems/constructions) while
+<table><tr>
+ <td widh="25%"></td>
+ <td><blockquote>
+This essay treats architecture and design together (as everything over particular and imaginary applications/systems/constructions) while
 <picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
 title="LOCAL SURVEY&#013;&#010;Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
-, from which this essay derives, discriminates them as [kin adjacent activities](../../../../software/ArcDeco/README+/03.Stripes).
+, from which this essay derives, discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin adjacent activities</a>.
+ </blockquote></td>
+</tr></table>
 
 # Architecture and Architect
 
-The spirit of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that being great thinkers they coined the term _architect_<sup>🏛️</sup> centuries before it was romanized to _architecture_.
+The spirit of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that being great observers they coined the term _architect_<sup>🏛️</sup> centuries before it was romanized to _architecture_.
 
 Then it took ages till the art of immobile methodized and acknowledged architects as a detached trade &mdash; 
 refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, and aesthetics.
@@ -20,13 +25,13 @@ Much later diverse spheres (from mega-vessels and supercomputers to less determi
 
 ## Software vs. Building
 
-The architecture of construction and software have much in common. Both give big space for phantasy but must deliver functional wholes in a short period rather than aesthetic values. Both rely on a dynamic plethora of tools, techniques, and skills. Both must accumulate practices and reveal patterns.
+The architecture of construction and software have much in common. Both demand creativity, and provide huge room for phantasy but must deliver functional wholes in a short period rather than aesthetic values. Both rely on a dynamic plethora of tools, techniques, and skills. Both must accumulate practices and reveal patterns.
 
 Lack of proficient abstraction work and planning can make both a mess that will eventually crash loudly. Both can be grounds for hollow promises and sandcastles.
 
 **Diversities are larger...**
 
-Structures are static &mdash; software is fluid. If <b>«</b>architecture is frozen music»<sup>🎼</sup>, the software is "unleashed symphonic cacophony circus tent]"<sup>🐦‍⬛</sup>.
+Constructions are static &mdash; software is fluid. If <b>«</b>architecture is frozen music»<sup>🎼</sup>, the software is "unleashed symphonic cacophony circus tent]"<sup>🐦‍⬛</sup>.
 
 Ends up in MATERIALS vs. ABSTRACTION which ends up in abstraction (don't NEED even considering TRANSISTOR). SOFTWARE HAS NOT LIMITs (take mining farms) COMPARE TO BURJ HALIF or NEOM !
 
@@ -43,7 +48,6 @@ YOU CAN't ACCEPT a BUILD that may crash (no stage).
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🐦‍⬛</sup> <sub>or _Babylon Tower_ with [woodpeckers](../../quotes/README+/aside/controversy.md#woodpecker)</sub>
 
 **Diversities between CHIEFS are overriding...**
-
 
 
 ### Construction architect vs. software 
@@ -64,9 +68,12 @@ A determined person or board in high-pro fixed teams may rely on communication B
 
 ### Dissonance
 
-Reputable software manufacturers hire _architects_, and they are the central figures at many IT events, there's certification after all.
+ Reputable software manufacturers hire _architects_, and they are the central figures at many IT events, there's certification after all.
+The team of C#.NET, which is the cnterfold of my dev, speaks about architects....
 
-First and above all, *software architect* sounds cool. Not that  than _mastermind_, and more serious than _dev lord_, that it means. FOR CLIENTS its
+First and above all, *software architect* sounds cool and distinguishes one from the crowd of developers<sup></sup>. Not that  than _mastermind_, and more serious than _dev lord_, that it means. FOR CLIENTS its
+
+<sub>Much profanated DEVeloper where everybody is senior</sub>
 
 Then the title expresses a path of enlightenment of one unchained from the keyboard to draw beautiful top diagrams freed of the digging within dusty codes. 
 
@@ -107,4 +114,4 @@ _Agent Smith_ 🔨
 
 \_______
 
- 🔚 &nbsp;🌘 kyriosity 2023-2024
+ 🔚 &nbsp;🌘 kyriosity 2023-2024 POSTCREDIT ???
