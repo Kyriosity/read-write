@@ -1,7 +1,10 @@
 > 🚧 :pencil2: 🚧 ... WRITING in PROGRESS ... 🚧 :paintbrush: 🚧
 
 <table><tr>
- <td widh="25%"></td>
+ <td widh="39%">
+  <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" 
+            title="Walhalla on Danube, WIKI"/></picture>
+ </td>
  <td><blockquote>
 This essay treats architecture and design together (as everything over particular and imaginary applications/systems/constructions) while
 <picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
@@ -99,11 +102,12 @@ Architecture and design are synergies of
 
 Architecture artifacts rest on collective development.
 
-And let's salt all this with a bitter reminder that most projects are CASTING domain concepts to known and tried architectural solutions with decent contributions. Many arch and design solutions are already solved in languages and platforms.
 
 ## Wrap up. Does it matter?
 
-Not at all. People meet one by title but judge by skills.
+Not at all. Titles are like book covers. You don't care about it when getting to the contents.
+
+And let's salt all this with a bitter reminder that most projects are CASTING domain concepts to known and tried architectural solutions with decent contributions. Many arch and design solutions are already solved in languages and platforms.
 
 RETURN to ARC DECO
 
