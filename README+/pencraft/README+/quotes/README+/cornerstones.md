@@ -89,7 +89,7 @@
   </tr>
   <tr valign="top">
     <td>
-      A man provided with paper, pencil, and rubber, and subject to strict <b>discipline</b>, is in effect a universal machine.<br /><a href="contributors/README.md#Alan-Turing"><b>Alan Turing</b></a>, 1948
+      A man provided with paper, pencil, and rubber, and subject to strict <span title="no internet"><ins>discipline</ins></span>, is in effect a universal machine.<br /><a href="contributors/README.md#Alan-Turing"><b>Alan Turing</b></a>, 1948
     </td>
     <td>
       <b>Humans are allergic to change</b>. They love to say, "We've always done it this way."<br />I try to fight that. That's why I have a clock on my wall that runs counterclockwise.<br />
