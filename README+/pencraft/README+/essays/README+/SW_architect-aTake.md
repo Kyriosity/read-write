@@ -36,7 +36,7 @@ Lack of proficient abstraction work and planning can make both a mess that will 
 
 Constructions are static &mdash; software is fluid. If <b>«</b>architecture is frozen music»<sup>🎼</sup>, the software is "unleashed symphonic cacophony circus tent]"<sup>🐦‍⬛</sup>.
 
-Ends up in MATERIALS vs. ABSTRACTION which ends up in abstraction (don't NEED even considering TRANSISTOR). SOFTWARE HAS NOT LIMITs (take mining farms) COMPARE TO BURJ HALIF or NEOM !
+Ends up in MATERIALS vs. ABSTRACTION which ends up in abstraction (don't NEED even considering LAMP vs. TRANSISTOR, ssd vs vinchester). SOFTWARE HAS NOT LIMITs (take mining farms) COMPARE TO BURJ HALIF or NEOM !
 
 The software gives freedom of FULL-SCALE experiment unthinkable in other spheres.
 
