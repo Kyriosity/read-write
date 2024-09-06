@@ -2,7 +2,7 @@
 
 # Tests, Design, Development - Coverage and Drives - Big Watershed of Tests
 
-I was bicycling to a casual lecture on [TD<mark>D</mark>](https://en.wikipedia.org/wiki/Test-driven_development)<sup>🔗</sup> and a doubt crept in: «Is <mark><b>D</b></mark> not for _Design_ but _Development_?». It wasn't about the attended lecture but the principal divergence.
+I was bicycling to listen a casual lecture on [TD<mark>D</mark>](https://en.wikipedia.org/wiki/Test-driven_development)<sup>🔗</sup> and a doubt crept in: «Is <mark><b>D</b></mark> not for _Design_ but _Development_?». It wasn't about the  lecture but the principal divergence.
 
 Worried I reviewed of TDD learning stuff revealed that the shadow of doubt was from oncoming cumulus clouds: "domain", "design", "drives", and "tests".
 
