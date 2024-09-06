@@ -4,18 +4,18 @@
       <picture><img src="README+/_rsc/_img/memes/learn_is_swim.jpg" alt="If to learn is to swim against the current ..." /><picture>
     </td><td width="50%">
      <a href="README+/software/ArcDeco"><b>SOFTWARE</b></a><br/>
-     &nbsp;&nbsp;<a href="README+/software/~design/names">Names</a>
+     &nbsp;&nbsp;<a href="README+/software/design/names">Names</a>
      ➰
       <a href="README+/software/docu/">Docu</a>
      ➰
-     <a href="README+/software/~design/samples">Samples</a><br/>
-     <div dir="rtl"><a href="README+/software/~design/"><b><i>all design notes</i>...</b></a></div>
+     <a href="README+/software/design/samples">Samples</a><br/>
+     <div dir="rtl"><a href="README+/software/design/"><b><i>all design notes</i>...</b></a></div>
       &nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
     ➿
      <a href="README+/software/QA/README+/tests-pitfalls.md">Tests pitfalls</a>
       <div dir="rtl"><a href="README+/software/QA/"><b><i>all QA notes</i>...</b></a></div>
      <p>&nbsp;&nbsp;
-     <a href="README+/software/~design/drive">Drives</a>
+     <a href="README+/software/design/drive">Drives</a>
      ➿
      <a href="README+/software/mngmnt">Organization</a>
      </p>

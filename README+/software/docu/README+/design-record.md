@@ -2,7 +2,7 @@
 
 <p dir="rtl">,Code in English<br/>,comment in Latin<br/>,document en français<br/>but think in 3D diagrams</p>
 
-[Quality code](../../QA/README+/code-quality.md) with profound and thoroughly categorized [names](../../~design/names) must explain design brainchilds in intuitive fashion. Sincerely written [design-defining-tests](../../~design/drive/) must smoothly introduce them. And nothing is more suitable for reverse engineering (manual or automatic) than source codes. 
+[Quality code](../../QA/README+/code-quality.md) with profound and thoroughly categorized [names](../../design/names) must explain design brainchilds in intuitive fashion. Sincerely written [design-defining-tests](../../design/drive/) must smoothly introduce them. And nothing is more suitable for reverse engineering (manual or automatic) than source codes. 
 
 Albeit this approach solus becomes gradually tougher (until it hits the wall of the perfectionism exponent) and will not reveal remarkable design/architecture intentions. It's warped to unfold the big canvas of abstractions.
 
