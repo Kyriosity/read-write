@@ -61,6 +61,13 @@ Letter to her brother (1894)
 
 <sup>PL</sup> <sub>Original: "Człowiek nigdy nie ogląda się na to, co zrobione, ale na to patrzy, co ma przed sobą do zrobienia."</sub>
 
+
+#### Add to calendar
+
+_Procrastinators' Club of America_ (with international membership) established [Be Late for Something Day](https://nationaltoday.com/national-be-late-for-something-day/) on **5h&nbsp;September**. As an honest sympathizer, I appended this reminder a day later&mdash;**September&nbsp;6th**, 2024 which surprisingly is [Fight Procrastination Day](https://www.daysoftheyear.com/days/fight-procrastination-day).
+
+Comming next&mdash;[National Procrastination Week](https://en.wikipedia.org/wiki/National_Procrastination_Week).
+
 ---
 
 </details>
