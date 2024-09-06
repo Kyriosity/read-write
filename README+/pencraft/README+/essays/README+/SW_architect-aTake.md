@@ -1,42 +1,42 @@
 > 🚧 :pencil2: 🚧 ... WRITING in PROGRESS ... 🚧 :paintbrush: 🚧
 
 <table><tr>
- <td widh="39%">
-  <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" 
-            title="Walhalla on Danube, WIKI"/></picture>
- </td>
+ <td widh="39%"></td>
  <td><blockquote>
 This essay treats architecture and design together (as everything over particular and imaginary applications/systems/constructions) while
 <picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
 title="LOCAL SURVEY&#013;&#010;Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
 , from which this essay derives, discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin adjacent activities</a>.
- </blockquote></td>
-</tr></table>
+ </blockquote></td></tr></table>
 
 # Architecture and Architect
 
-The spirit of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that being great observers they coined the term _architect_<sup>🏛️</sup> centuries before it was romanized to _architecture_.
-
-Then it took ages till the art of immobile methodized and acknowledged architects as a detached trade &mdash; 
-refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, and aesthetics.
-
-Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. However, <span title="Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (giga- either), while architects of détente or *economic miracle* is a compliment.
-
-\_______
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the Pyramids suggest.</sub>
+<table><tr valign="top">
+ <td widh="20%">
+  <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" 
+ title="Walhalla Hall of Fame, built 1820-1842, on the river Danube, Bavaria"/></picture>
+ </td><td>
+<p>The spirit of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that being great observers they coined the term <i>architect</i><sup>🏛️</sup> centuries before it was romanized to <i>architecture</i>.</p>
+<p>Then it took ages till the art of immobile methodized and acknowledged architects as a detached trade &mdash; 
+refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, and aesthetics.</p>
+<p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. However, <span title="Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (giga- either), while architects of détente or *economic miracle* is a compliment.</p>
+___________<br />
+<sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the Pyramids suggest (but Stonehenge refutes).</sub>
+ </td></tr></table>
 
 ## Software vs. Building
 
-The architecture of construction and software have much in common. Both demand creativity, and provide huge room for phantasy but must deliver functional wholes in a short period rather than aesthetic values. Both rely on a dynamic plethora of tools, techniques, and skills. Both must accumulate practices and reveal patterns.
+The architecture of construction and software have much in common. Both demand creativity and allow huge room for phantasy and missteps but must deliver functional wholes in a short period rather than aesthetic values. Both rely on a dynamic plethora of tools, techniques, and skills. Both must accumulate practices and reveal patterns.
 
 Lack of proficient abstraction work and planning can make both a mess that will eventually crash loudly. Both can be grounds for hollow promises and sandcastles.
 
+Both can't rely on the experience of a single mastermind but a team or/and a hierarchy of advanced designers.
+
 **Diversities are larger...**
 
-Constructions are static &mdash; software is fluid. If <b>«</b>architecture is frozen music»<sup>🎼</sup>, the software is "unleashed symphonic cacophony circus tent]"<sup>🐦‍⬛</sup>.
+Constructions are static &mdash; software is fluid. If <b>«</b>architecture is frozen music»<sup>🎼</sup>, the software is "unleashed symphonic cacophony [under the circus tent]"<sup>🐦‍⬛</sup>.
 
-Ends up in MATERIALS vs. ABSTRACTION which ends up in abstraction (don't NEED even considering LAMP vs. TRANSISTOR, ssd vs vinchester). SOFTWARE HAS NOT LIMITs (take mining farms) COMPARE TO BURJ HALIF or NEOM !
+Ends up in MATERIALS vs. ABSTRACTION which ends up in abstraction (don't NEED even considering TRANSISTOR). SOFTWARE HAS NOT LIMITs (take mining farms) COMPARE TO BURJ HALIF or NEOM !
 
 The software gives freedom of FULL-SCALE experiment unthinkable in other spheres.
 
@@ -68,6 +68,8 @@ This said the software is least suitable for pure architects.
 IF NO_CODE THEN ELSE_IF CODE THEN
 
 A determined person or board in high-pro fixed teams may rely on communication BUT ...
+
+THE MATRIX ARCHITECT is the most fictional figure for software.
 
 ### Dissonance
 
