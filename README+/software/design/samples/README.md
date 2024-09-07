@@ -1,11 +1,10 @@
 # Design - Samples
 
 The planning and presentation of software features require a pictorial and encouraging background. We'll rely often on the next samples:\
-|- [Chess](#chess)\
-|- [Mathematics](#mathematics)\
-|- [Raster images](#raster-images)\
-|- [Still plain models](#still-plain-models)\
-&nbsp;
+|- ♟️ [Chess](#chess)\
+|- 🧮 [Mathematics](#mathematics)\
+|- 🎨 [Raster images](#raster-images)\
+|- 🧱 [Still plain models](#still-plain-models)
 
 ## Chess
 
