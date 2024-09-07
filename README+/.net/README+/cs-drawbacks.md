@@ -1,6 +1,6 @@
 # C# - Drawbacks - "Minority report"
 
-Artworks can be perfect — not technologies. With all its goodies __C#__ has downsides as bulky declarations of hierarchies, rigid interfaces, and notably restrained generics.
+Artworks can be perfect &mdash; not technologies. With all its goodies __C#__ has downsides as bulky declarations of hierarchies, rigid interfaces, and notably restrained generics.
 
 The following language artifacts are awkward leastwise for me. 
 
@@ -17,7 +17,7 @@ The following language artifacts are awkward leastwise for me.
 `string a = null; string? b = null;`
 - a perplexing extension of nullable as `((int?)1).Value` and `((bool?)true).HasValue`<sup>❔</sup>.
 
-Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# readability.<sup>🙋</sup>
+Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# readability.<sup>🙋</sup> While shortcuts as `[]` for empty colls are rational and eye-pleasing.
 
 \_______________
 
