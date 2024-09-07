@@ -1,5 +1,7 @@
 # C# - from praxis - Techniques
 
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white)](#)
+
 _Techniques_ mean practical choices on the level between [hints](cs-hints.md) and [design decisions](https://github.com/Kyriosity/use-dev/tree/main/README+/decisions).
 
 ## Logic
