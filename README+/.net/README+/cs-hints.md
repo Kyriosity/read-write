@@ -1,9 +1,10 @@
 # C# - from praxis - Hints
 
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-blue.svg?logo=cshrp&logoColor=white)](#)
+
 ## Syntactic reminder
 
-<details>
-<summary><ins>&nbsp;Negate with <i>exclusive or</i>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;Negate with <i>exclusive or</i>&nbsp;</ins></summary>
 &nbsp;
 
 ```diff csharp
@@ -21,8 +22,7 @@
 
 </details>
 
-<details>
-<summary><ins>&nbsp;Argument</ins> <code>out</code> <ins>for readability&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;Argument</ins> <code>out</code>&nbsp;<ins>for readability&nbsp;</ins></summary>
 &nbsp;
 
 ```csharp
@@ -34,8 +34,7 @@ Exception dampers (see in _Gimmicks_ below) can also use `out`.
 
 </details>
 
-<details>
-<summary><ins>&nbsp;Discard with underscore&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;Discard with underscore&nbsp;</ins></summary>
 &nbsp;
 
 ```csharp
@@ -68,8 +67,7 @@ var rfidTagFilter = 0b_0111_1100_0100_0011;
 
 </details>
 
-<details>
-<summary><ins>&nbsp;Name "magic" constants&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;Name "magic" constants&nbsp;</ins></summary>
 &nbsp;
 
 Making a "magic value" to constants or predefined values doesn't clean the code unless named good.   
@@ -86,8 +84,7 @@ Making a "magic value" to constants or predefined values doesn't clean the code 
 ```
 </details>
 
-<details>
-<summary><ins>&nbsp;Interpolate instead of&nbsp;</ins>&nbsp;<code>ToString</code></summary>
+<details><summary><ins>&nbsp;Interpolate instead of&nbsp;</ins>&nbsp;<code>ToString</code></summary>
 &nbsp;
 
 ```diff csharp
@@ -98,10 +95,20 @@ Making a "magic value" to constants or predefined values doesn't clean the code 
 
 </details>
 
+<details><summary><ins>&nbsp;Extension methods and props work on </ins><code>null</code>&nbsp;<ins>...</ins></summary>
+&nbsp;
+
+... and facilitate queer calls causing no `NullReferenceException` &mdash; such as `((string)null).AnyStringExtensionMethod(...)`
+
+And it's good and practical, as a loved and often added shortcut `stringInstance.IsNullOrWhitespace`.
+
+Further, this hack can shrink guards. Suppose, `stringArg.MustBeWordOfMinLength(numChars)`.
+
+</details>
+
 ## Gimmicks
 
-<details>
-<summary><ins>&nbsp;Not only instance&nbsp;</ins><code>required</code></summary>
+<details><summary><ins>&nbsp;Not only instance&nbsp;</ins><code>required</code></summary>
 &nbsp;
 
 A `required` marker is essential but requires immediate instantiation, impossible in many scenarios (e.g. _builder_, lazy, on demand).
@@ -114,8 +121,7 @@ Leaving the default value for non-nullable values is bug-friendly, and nullable 
 ```
 </details>
 
-<details>
-<summary><ins>&nbsp;Benchmark/profile with&nbsp;</ins><code>using</code></summary>
+<details><summary><ins>&nbsp;Benchmark/profile with&nbsp;</ins><code>using</code></summary>
 &nbsp;
 
 ```csharp
@@ -139,8 +145,7 @@ class Benchmark : IDisposable
 ```
 </details>
 
-<details>
-<summary><ins>&nbsp;"Limit swithes" to protect runtime attributes</code></summary>
+<details><summary><ins>&nbsp;"Limit toggles" to protect runtime attributes</code></summary>
 &nbsp;
 
 Inline attributes as 
@@ -166,10 +171,7 @@ Instead of the discussion, I'd better propose an imperfect workaround in this [E
 
 </details>
 
-<details>
-<summary>
-   <ins>&nbsp;Exception dampers&nbsp;</ins>
-</summary>
+<details><summary><ins>&nbsp;Exception dampers&nbsp;</ins></summary>
 &nbsp;
 
 It's legal to write `throw` in any C# method, but there may be motives to delegate exceptions up:
@@ -190,8 +192,7 @@ bool TryParse(string raw, out FormatException? exception, out ThisProjectExcepti
 
 ## Organization of entities
 
-<details>
-<summary><ins>&nbsp;Tuples as design shortcuts&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;Tuples as design shortcuts&nbsp;</ins></summary>
 &nbsp;
 
 Piles of interfaces, classes, and structs for every single trifle may obscure the contours of OOD, and their maintenance distracts from design. Then sparsely applied _named tuples_ are a rational compromise.
@@ -225,11 +226,11 @@ using Book = (string title, short year, (string Name, string Surname) author);
 
 </details>
 
-<details>
-<summary><ins>&nbsp;Distinct default of enums&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;Distinct default of enums&nbsp;</ins></summary>
 &nbsp;
 
 Reserve, when appropriate, _none_, _undefined_ or _unknown_ as zero-value to prevent unexpected default assignment and consequent bugs.
+
 ```csharp
 enum FundamentalStatesOfMatter
 {
