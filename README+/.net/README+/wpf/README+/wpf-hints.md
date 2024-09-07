@@ -1,6 +1,6 @@
 # WPF - from praxis - Hints
 
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-blue.svg?logo=cshrp&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white)](#)
 
 ## Converters
 
