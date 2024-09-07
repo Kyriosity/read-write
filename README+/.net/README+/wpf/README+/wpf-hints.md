@@ -1,4 +1,6 @@
-# WPF - Hints from praxis
+# WPF - from praxis - Hints
+
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-blue.svg?logo=cshrp&logoColor=white)](#)
 
 ## Converters
 
