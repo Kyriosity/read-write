@@ -86,7 +86,7 @@ This also would make much prettier initialization of objects from factory/builde
 There's no excuse why shortcuts like `ArgumentNullException.ThrowIfNull(...)` aren't added to most exceptions. 
 There could also be static classes without evident _Exception_ suffix (e.g. `NotImplemented.Throw()`). 
 
-GUARDS and LINK to USE-DEV **!**
+Meanwhile, such substitutes are available in use-dev➡️ [exception wrappers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/ExtensionsTests/Exceptions).
 
 ### Extra inheritance
 
