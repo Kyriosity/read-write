@@ -4,18 +4,15 @@
 
 # The Big Picture
 
-Big thoughts &mdash; big pictures. Whatever &mdash; shallow, angled, or blurred.
+Big thoughts &mdash; big pictures. Whatever &mdash; shallow, angled, or blurred.<sup>🙋</sup>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>It may come out commonplace, a plane section, angled or blurred, or even childish but it will beat explanation prose and ensure you with an eagle view.</sub>
 
-It may come out commonplace, a plane section, angled or blurred, or even childish but it will beat explanation prose and ensure you with an eagle view.
+Let's begin with contours, intentionally left without annotations to defy your 3D imagination. 
 
-Let's begin with contours, intentionally left not annotated to defy the reader's 3D imagination. It would be nice if she or he could guess or imagine the forces and factors (they ought not to match those, as explained below).
+<picture><img alt="Arc Deco - Big Picture - outline" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-outline.jpg" 
+    title="Unannotated forces in multiple dimensions"/></picture>
 
-<details>
-  <summary>🖼️<b><ins>&nbsp;Big outline&nbsp;</ins></b></summary>
-<picture><br/><img alt="Arc Deco - Big Picture - outline" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-outline.jpg" /></picture>
-
-</details>
-
+It would be nice if you guess or imagine the forces and factors (they ought not to match those, as explained below).
 
 ## Forces and factors
 
