@@ -26,15 +26,18 @@ ___________<br />
 
 ## Software vs. Building
 
-The architecture of construction and software have much in common. Both demand creativity and allow huge room for phantasy and missteps but must deliver functional wholes in a short period rather than aesthetic values. Both rely on a dynamic plethora of tools, techniques, and skills. Both must accumulate practices and reveal patterns.
+The architecture of construction and software have much in common. Both demand creativity and grant huge room for phantasy and missteps but must deliver functional wholes in a short period rather than aesthetic values. Both rely on a dynamic plethora of tools, techniques, and skills. Both must accumulate practices and reveal patterns.
 
 Lack of proficient abstraction work and planning can make both a mess that will eventually crash loudly. Both can be grounds for hollow promises and sandcastles.
 
-Both can't rely on the experience of a single mastermind but a team or/and a hierarchy of advanced designers.
+Both can't rely solely on generations of experience and a single mastermind but on a team and a hierarchy of experts.
 
-**Diversities are larger...**
+### Diffs are larger...
 
-Constructions are static &mdash; software is fluid. If <b>«</b>architecture is frozen music»<sup>🎼</sup>, the software is "unleashed symphonic cacophony [under the circus tent]"<sup>🐦‍⬛</sup>.
+<p dir=rtl><b><code>IF</code></b><br />«.Architecure is a frozen music»<br /><sup>🎼</sup><i>Arthur Schopenhauer (1788-1860)</i><br/>
+<b><code>THEN</code></b><br />.Software is unleashed symphonic cacophony<br /><sup>🐦‍⬛</sup>[under the wandering circus tent]</p>
+
+Constructions are static, conservative, and traditional &mdash; software is fluid and experimental with no comeback of solutions and styles.
 
 Ends up in MATERIALS vs. ABSTRACTION which ends up in abstraction (don't NEED even considering TRANSISTOR). SOFTWARE HAS NOT LIMITs (take mining farms) COMPARE TO BURJ HALIF or NEOM !
 
@@ -46,18 +49,21 @@ YOU CAN't ACCEPT a BUILD that may crash (no stage).
 
 \_______
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>_Arthur Schopenhauer_ (1788-1860), missattributed to _Johann Wolfgang von Goethe_ (1749-1832).\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>missattributed to _Johann Wolfgang von Goethe_ (1749-1832).\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full original quote: <b>«</b>Architektur ist gefrorene Musik. (Möge es immer beschwingt und harmonisch zugehen in diesem Haus!)<b>»</b></sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🐦‍⬛</sup> <sub>or _Babylon Tower_ with [woodpeckers](../../quotes/README+/aside/controversy.md#woodpecker)</sub>
 
-**Diversities between CHIEFS are overriding...**
+### Diffs between masterminds are overriding...
 
+Jack of all trades
 
-### Construction architect vs. software 
+HOW OFTEN TO BE ON THE SPOT?
 
-<p dir=rtl><mark>"<b>.I am the Architect</b>"</mark><br />🎦&nbsp;<i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i></p>
+Building is multifaceted but domains of SW even more.
 
 ## Hypothesis
+
+<p dir=rtl><mark>"<b>.I am the Architect</b>"</mark><br />🎦&nbsp;<i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i></p>
 
 *Software architecture*, whatever it means, is formalizable and veritable as a product, but not as an exercise. 
 
@@ -76,7 +82,7 @@ THE MATRIX ARCHITECT is the most fictional figure for software.
  Reputable software manufacturers hire _architects_, and they are the central figures at many IT events, there's certification after all.
 The team of C#.NET, which is the cnterfold of my dev, speaks about architects....
 
-First and above all, *software architect* sounds cool and distinguishes one from the crowd of developers<sup></sup>. Not that  than _mastermind_, and more serious than _dev lord_, that it means. FOR CLIENTS its
+First and above all, *software architect* sounds cool and distinguishes one from the crowd of developers<sup></sup>. Not that than _mastermind_, and more serious than _dev lord_, that it means. FOR CLIENTS its
 
 <sub>Much profanated DEVeloper where everybody is senior</sub>
 
@@ -91,12 +97,6 @@ It's often an alias for roles and duties:
 * _tutor_, or _technology evangelist_, proposing blueprints for the solution,
 * "*librarian-navigator*", somebody with the utmost knowledge of the project,
 * geeks from _computer science_.
-
-### :construction: Jack of all trades
-
-HOW OFTEN TO BE ON THE SPOT?
-
-Building is multifaceted but domains of SW even more.
 
 ## Conclusion
 
