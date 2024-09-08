@@ -5,14 +5,14 @@
 > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.\
 [Linus Torvalds](../contributors/README.md#Linus-Torvalds)
 
-Master Torvalds could have meant renowned open-source contributors, but most smart guys in IT are for wages and it's not fun in commercial development.
+Master _Torvalds_ could have meant renowned open-source contributors, but most smart guys in IT are for and because of wages and it's not fun in commercial development.
 
 ### Maternity ward
 
 >  Everyone knows it takes a woman nine months to have a baby. But you Americans think if you get nine women pregnant, you can have a baby in a month.\
 _Theodore von Kármán_ (1957)
 
-It matched a private aviation engineering talk but [Fred Brooks](../contributors/README.md#Fred-Brooks) popularized it in his [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)<sup>🔗</sup>:
+It matched a private aviation engineering talk but [Fred Brooks](../contributors/README.md#Fred-Brooks) popularized the phrase in his [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)<sup>🔗</sup>:
 
 > The bearing of a child takes nine months, no matter how many women are assigned.
 
@@ -47,7 +47,7 @@ Despite all epic failures, software, on which our life depends, is extremely rob
 > **C++** is a badly designed and ugly language. It would be a shame to use it in Emacs.\
 [Richard Stallman](../contributors/README.md#Richard-Stallman)
 
-> <mark><b>C++</b> is a language strongly optimized for liars and people who go by guesswork and ignorance.</mark>\
+> <mark><b>C++</b> is a language strongly optimized for liars and people who go by guesswork and ignorance.</mark> 🤦‍♂️\
 _Erik Naggum_, Lisp programmer, 2008 on Usenet
 
 Sure, an environment may force bad practices but they don't make developers.
