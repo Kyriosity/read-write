@@ -5,18 +5,18 @@
  <td><blockquote>
 This essay treats architecture and design together (as everything over particular and imaginary applications/systems/constructions) while
 <picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
-title="LOCAL SURVEY&#013;&#010;Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
+title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
 , from which this essay derives, discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin adjacent activities</a>.
  </blockquote></td></tr></table>
 
-# Architecture and Architect
+# Architecture and Architects
 
 <table><tr valign="top">
  <td widh="20%">
   <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" 
  title="Walhalla Hall of Fame, built 1820-1842, on the river Danube, Bavaria"/></picture>
  </td><td>
-<p>The spirit of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that being great observers they coined the term <i>architect</i><sup>🏛️</sup> centuries before it was romanized to <i>architecture</i>.</p>
+<p>The essence of architecture appeared as folks managed to erect anything more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that being great observers they coined the term <i>architect</i><sup>🏛️</sup> centuries before it was romanized to <i>architecture</i>.</p>
 <p>Then it took ages till the art of immobile methodized and acknowledged architects as a detached trade &mdash; 
 refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, and aesthetics.</p>
 <p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. However, <span title="Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (giga- either), while architects of détente or *economic miracle* is a compliment.</p>
@@ -26,34 +26,34 @@ ___________<br />
 
 ## Software vs. Building
 
-The architecture of construction and software have much in common. Both demand creativity and grant huge room for phantasy and missteps but must deliver functional wholes in a short period rather than aesthetic values. Both rely on a dynamic plethora of tools, techniques, and skills. Both must accumulate practices and reveal patterns.
+The architecture of construction and software have much in common. Both demand creativity and grant huge room for phantasy and missteps but must deliver functional wholes in a short while rather than aesthetic values.
 
-Lack of proficient abstraction work and planning can make both a mess that will eventually crash loudly. Both can be grounds for hollow promises and sandcastles.
+Both rely on a dynamic plethora of tools, techniques, and skills. Both must accumulate practices and reveal patterns.
+
+Lack of proficient abstraction work and planning can make both a mess which products loudly crash. Both can be grounds for hollow promises and sandcastles.
 
 Both can't rely solely on generations of experience and a single mastermind but on a team and a hierarchy of experts.
 
 ### Diffs are larger...
 
-<p dir=rtl><b><code>IF</code></b><br />«.Architecure is a frozen music»<br /><sup>🎼</sup><i>Arthur Schopenhauer (1788-1860)</i><br/>
-<b><code>THEN</code></b><br />.Software is unleashed symphonic cacophony<br /><sup>🐦‍⬛</sup>[under the wandering circus tent]</p>
+<p dir=rtl><sup>🎼</sup>«.<b><code>IF</code></b>&nbsp;<span title=":Full original quote&#013;&#010;.Architektur ist gefrorene Musik»&#013;&#010;(Möge es immer beschwingt und harmonisch zugehen in diesem Haus!)«»">
+ «<ins>Architecture is a frozen music</ins></span><br />
+<b>.<code>THEN</code></b>&nbsp;software is unleashed symphonic cacophony<br /><sup>🐦‍⬛</sup>[under the wandering circus tent]</p>
 
-Constructions are static, conservative, and traditional &mdash; software is fluid and experimental with no comeback of solutions and styles.
+Buildings are static, conservative, and traditional &mdash; software is fluid, experimental, and without return of solutions and styles. Constructions are embossed with materials &mdash; software abstracts from boolean logic (no relay, transistor or warm lamp vibes).
 
-Ends up in MATERIALS vs. ABSTRACTION which ends up in abstraction (don't NEED even considering TRANSISTOR). SOFTWARE HAS NOT LIMITs (take mining farms) COMPARE TO BURJ HALIF or NEOM !
+Software is the most automated production where copying, scaling, and installation are clickable. The lifecycle of construction is much longer while decades are an exclusive case for mainframe programs.
 
-The software gives freedom of FULL-SCALE experiment unthinkable in other spheres.
-
-The lifecycle of construction is much longer. 
-
-YOU CAN't ACCEPT a BUILD that may crash (no stage).
+Software development gives freedom of full-scale trial and error unthinkable in other spheres.
 
 \_______
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>missattributed to _Johann Wolfgang von Goethe_ (1749-1832).\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full original quote: <b>«</b>Architektur ist gefrorene Musik. (Möge es immer beschwingt und harmonisch zugehen in diesem Haus!)<b>»</b></sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🐦‍⬛</sup> <sub>or _Babylon Tower_ with [woodpeckers](../../quotes/README+/aside/controversy.md#woodpecker)</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>_Arthur Schopenhauer_ (1788-1860), missattributed to _Johann Wolfgang von Goethe_ (1749-1832)</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🐦‍⬛</sup> <sub>or _Babylon Tower_ full of [💬woodpeckers](../../quotes/README+/aside/controversy.md#woodpecker)</sub> 
 
 ### Diffs between masterminds are overriding...
+
+A chief, who can stir concrete better than workers, is up and there on the spot to help lay bricks and blocks, knows the mechanics of materials, can operate excavators and cranes like a pro 
 
 Jack of all trades
 
