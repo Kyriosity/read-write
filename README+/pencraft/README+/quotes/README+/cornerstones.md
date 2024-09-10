@@ -40,10 +40,10 @@
     </td>
     <td>
       There are two ways of constructing a software <mark>design</mark>: one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no <i>obvious</i> deficiencies.
-<details><summary>The first method is...</summary>
+<details><summary><ins>The first method is...</ins></summary>
 ...far more difficult. It demands the same skill, devotion, insight, and even inspiration as the discovery of the simple physical laws which underlie the complex phenomena of nature.
-  </details>
-  <a href="contributors/README.md#Tony-Hoare"><b>C. A. R. Hoare</b></a>
+</details>
+<a href="contributors/README.md#Tony-Hoare"><b>C. A. R. Hoare</b></a>
     </td>
   </tr>
   <tr valign="top">
@@ -78,7 +78,7 @@
     </td>
     <td>
       The key is to <b><mark>test</mark> the areas that you are most worried about going wrong</b>. 
-      <details><summary>That way you...</summary>
+      <details><summary><ins>That way you...</ins></summary>
       ...get the most benefit for your testing effort.<br />It is better to write and run incomplete tests than not to run complete tests.
       </details>
           <a href="contributors/README.md#Kent-Beck"><b>Kent Beck</b></a>, "Refactoring", 1999
@@ -97,7 +97,7 @@
     </td>
     <td>
       One of my guiding principles is <b>don’t do anything that other people are doing. Always do something a little different if you can.</b>
-    <details><summary>The concept is...</summary>
+    <details><summary><ins>The concept is...</ins></summary>
         ...that if you do it a little differently there is a greater potential for reward than if you the same thing that other people are doing. I think that this kind of goal for one’s work, having obviously the maximum risk, would have the maximum reward no matter what the field may be.
       </details>
 <a href="contributors/README.md#Seymour-Cray"><b>Seymour Cray</b></a>
