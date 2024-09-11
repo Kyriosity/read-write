@@ -40,7 +40,8 @@ _Richard Wesley Hamming_ (**1915** 🇺🇸 - 1988), a mathematician known for p
 
 #### Alan Perlis
 
-_Alan Jay Perlis_ (**1922** Pittsburgh, Pennsylvania :us: - 1990)<sup title="Turing Award, 1966">🥇</sup> MIT, one of the ALGOL founders
+_Alan Jay Perlis_ (**1922** Pittsburgh, Pennsylvania :us: - 1990)<sup title="Turing Award, 1966">🥇</sup> MIT,  research mathematician, one of the ALGOL founders and the early TDD advocate.\
+Some facts more: https://history.computer.org/pioneers/perlis.html
 
 #### Ted Codd
 
