@@ -14,7 +14,7 @@ COVERAGE DRIVEN TESTS and DESIGN DRIVEN TESTS
 Design Driven Development
 
 TDD-DZN Δ
-TDDx
+TDDx T⚙️D **T**⚙️**D**
 
 Diff treatment of DOUBLES
 
