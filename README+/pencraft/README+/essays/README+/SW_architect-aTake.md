@@ -14,7 +14,7 @@ title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nb
   <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" 
  title="Walhalla Hall of Fame, built 1820-1842, on the river Danube, Bavaria"/></picture>
  </td><td width="65%">
-<p>The essence of architecture appeared as folks managed to erect anything more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that being great observers they coined the term <i>architect</i><sup>🏛️</sup> centuries before it was romanized to <i>architecture</i>.</p>
+<p>The essence of architecture appeared as folks managed to erect anything more extravagant and durable than a hut of piled branches. Some ancient Greeks were so good at it that others, being great observers, named them <i>architects</i><sup>🏛️</sup> centuries before the coined the term was romanized to <i>architecture</i>.</p>
 <p>Ages passed till the art of immobile acknowledged and methodized architects as a detached trade &mdash; 
 refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, and aesthetics.</p>
 <p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. However, <span title="Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (giga- either) and architects of détente or <em>economic miracle</em> are compliments (or flattery).</p>
