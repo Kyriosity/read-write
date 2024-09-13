@@ -34,7 +34,12 @@
       <picture><img src="../../../_rsc/_img/_nav/tiles/_ComingNext_200px.jpg" alt="Coming up next..." title="Next essay coming sooner or later.."/></picture>
       <br /><div align="center"><h4>? PEN RESISTANCE ?</h4>
     </td>
+    <td></td>
+    <td>
+      <a href="../offtopic/anti-home-office.md"><img src="../../../_rsc/_img/_nav/tiles/_BonusTrack_200px.jpg" alt="Bonus track: anti-home-office" title="Photos of ante-home office"/>
+        <br /><div align="center"><h4>ANTI HOME OFFICE</h4></div></a>
+    </td>
   </tr>
 </table>
 
-🔚 🌔 -2024+ <i>These are freestyle essays - the product of imagination AS IS.</i>
+🔚 🌔 -2024+ <i>These are freestyle essays - the product of imagination AS it IS.</i>
