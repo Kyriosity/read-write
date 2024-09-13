@@ -1,6 +1,8 @@
-# Photoblog - Anti-home-office
+# Photoblog &mdash; Anti-home-office
 
 ❗🏠 && ❗🏢 = 🏞️ 🚋🛸
+
+All the photos here were staged when contributing to the repositories.
 
 <picture><img alt="NUE, Boeing 747-422 (Atlas Air)" src="../../../_rsc/_img/photo/blog/NUE-Atlas_747.jpg" /></picture>
 
