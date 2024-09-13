@@ -1,5 +1,16 @@
 # IT Quotes - Misinterpreted and misattributed (disputed)
 
+## On the top
+
+> If you can't explain it simply, you don't understand it well enough.\
+<s>Albert Einstein</s> 🤦‍♂️
+
+The backside of scientific fame is that the figure of Albert Einstein (not he) became the King of wrong quoting. And this quote, beloved in sci-pop and crash courses, is the shining diamond in the crown of misquoting (Mr. Einstein was the least thinker to say such).
+
+**Nobody can explain simple (or not) if the learner doesn't know the subject fundamentally.**
+
+\___________
+
 <details><summary><ins><b>&nbsp;Know the full story&nbsp;</b></ins></summary>
 &nbsp;
 
