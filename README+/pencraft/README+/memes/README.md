@@ -117,17 +117,6 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>Cooked up parallels</b>&nbsp;</ins></summary>
-
-### Deployment tenses
-
-🚧🚧🚧 ... COMING SOON ... 🚧🚧🚧
-
----
-
-</details>
-
-<details>
 <summary><ins>&nbsp;<b>AI</b>&nbsp;</ins><code>xor</code><ins>&nbsp;<b>IT</b>&nbsp;</ins></summary>
 <a name="AIxorIT"></a>&nbsp;
 
@@ -143,7 +132,43 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 </details>
 
-&nbsp;\
+<details>
+<summary><ins>&nbsp;<b>Cooked up metaphors</b>&nbsp;</ins></summary>
+
+#### Deployment tenses
+
+<table>
+  <tr>
+    <td>PAST was PERFECT</td>
+  </tr>
+  <tr>
+     <td><picture><img src="../../../_rsc/_img/af/convent.jpg" alt="&nbsp;&nbsp;&nbsp;Medieval convent pic" alt="&nbsp;&nbsp;&nbsp;Image of convent" title="It worked on my ..." width="200" /></picture></td>
+    <td><picture><img src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" alt="punchcard stack pic" title="Pucnhcards ..." width="200" /></picture></td>
+    <td><picture><img alt="&nbsp;&nbsp;&nbsp;Image of PC" " width="200" /></picture></td>
+    <td><picture><img alt="&nbsp;&nbsp;&nbsp;Image of cloud" width="200" /></picture></td>
+    <td><picture><img alt="&nbsp;&nbsp;&nbsp;Imagine a qubit" width="200" /></picture></td>
+  </tr>
+  <tr>
+    <td>It worked in my convent</td>
+    <td>It worked on my floor</td>
+    <td><b>It worked on my PC</b></td>
+    <td>It's working in my cloud</td>
+    <td>It will work on my qubits</td>
+  </tr>
+
+VOAYGER
+
+ 1 / 0 COMMAND !
+
+</table>
+
+🚧🐝🚧 ... WORK in PROGRESS ... 🚧:bee:🚧
+
+
+---
+
+</details>
+
 |- [**Volume&nbsp;II. Inspirational quotes**](../quotes/README+/inspirational.md) 
 
 ---
