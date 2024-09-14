@@ -4,7 +4,7 @@
 
 ### **In a word - `programming`, in four -** 
 
-<picture><img alt="black Coding, red Development, blue Design, gold Architecture" src="../../_rsc/_img/ArcDeco/darkCode2arcGold.jpg" /></picture>
+<picture><img alt="&nbsp;black Coding, red Development, blue Design, gold Architecture" src="../../_rsc/_img/ArcDeco/darkCode2arcGold.jpg" /></picture>
 
 <sup>:de:</sup> <sub>Inspired by informal interpretation of the German flag: from the **dark** past through the bloody present to the <mark>golden</mark> future.\
 &nbsp;&nbsp;&nbsp;&nbsp;(Since `4>3` tearful blue was inserted for Design.)</sub>
@@ -14,7 +14,7 @@
 <br/>
 
 <table><tr valign="top"><td>
-   <picture><img alt="External factors of SW creation" src="../../_rsc/_img/ArcDeco/SW-ext_factors-w333px.jpg" /></picture>
+   <picture><img alt="&nbsp;&nbsp;&nbsp;External factors of SW creation" src="../../_rsc/_img/ArcDeco/SW-ext_factors-w333px.jpg" /></picture>
 <td/><td>
 These are <b>external</b> - optional and not, minor to <br />strong, <constructive and devastating <br />(also neutral) — forces, factors, and drives. <br />
 <br />
@@ -31,8 +31,8 @@ Abstraction/math/logic and artistic skills, <br />domain expertise, and creativi
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** are tied, overlapping, and loosely-ordered role-driven processes.
 
 Many projects' modest size lifetime with banality and, in particular, isolated work on them will shrink the pie to a bar, ... ⬇️\
-<picture><img alt="Arc view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" /></picture>\
-⬆️... making more theorizing wiredrawn.
+<picture><img alt="&nbsp;&nbsp;&nbsp;ArcDeco view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" /></picture>\
+⬆️... making more theorizing far-fetched.
 
 ### ... but ...
 
@@ -56,4 +56,5 @@ To distinguish the survey following (at least for the file system) I couldn't fi
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to Arc&nbsp;Deco - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco). Its introduction a century ago (1925) appeals to make `är-dā-ˈkō` great again [mockery again].</sub>
 
 ### ... opening ...
+
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;[Rationale](README+/01.Rationale/README.md) -> [Big Picture](README+/02.BigPict/README.md) -> [Stripes](README+/03.Stripes/README.md) -> [Forces](README+/04.Forces/README.md) -> [Roles](README+/05.Roles/README.md) -> [Factors](README+/06.Factors/README.md) -> [Wrap&nbsp;up](README+/07.Wrapping/README.md)
