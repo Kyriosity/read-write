@@ -44,7 +44,7 @@ after reading the _Twilight_ novel series (*assumed)
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="Leonardo da Vinci (1452-1519)" src="../../../../_rsc/_img/art/OldMasters/Leo(1452-1519)-portrait-found_2008_nearNaples.jpg" /></picture><br />
+<br /><picture><img alt="&nbsp;Leonardo da Vinci (1452-1519)" src="../../../../_rsc/_img/art/OldMasters/Leo(1452-1519)-portrait-found_2008_nearNaples.jpg" /></picture><br />
 <mark><b>...Leonardo the Great Procrastinator</b></mark> ([widely known](https://interactions.acm.org/blog/view/leonardo-da-vinci-the-great-procrastinator) and "certified" by court)
 
 #### Idioms and proverbs
@@ -79,7 +79,7 @@ Comming next&mdash;[National Procrastination Week](https://en.wikipedia.org/wiki
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="Collage: best works of modern perfectionism" src="../../../../_rsc/_img/memes/collage-modern_perfectionism.jpg" /></picture><br />
+<br /><picture><img alt="&nbsp;Collage: best works of modern perfectionism" src="../../../../_rsc/_img/memes/collage-modern_perfectionism.jpg" /></picture><br />
 
 #### Classics
 
@@ -105,8 +105,7 @@ having a good move, to seek for a better.**\
 ![Brevity - sibling of talent](https://img.shields.io/badge/Brevity-Sister_of_Talent-yellow)
 
 > **Do only what only you can do.**\
-― _Edsger W. Dijkstra (1930-2002),_\
-_computer scientist, known i.a. for Dijkstra's algorithm._
+― [Edsger W. Dijkstra](contributors/README.md#Edsger-W-Dijkstra)
 
 Not only the East grant us profound and eloquent teaching! Whatever Mr. Kipling* did say.<sup>©️</sup>
 
@@ -120,7 +119,7 @@ Not only the East grant us profound and eloquent teaching! Whatever Mr. Kipling*
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img src="../../../../_rsc/_img/photo/misc/Twitter-FTX_SamFried.jpg" alt="nap in FTX office" /></picture><br />
+<br /><picture><img src="../../../../_rsc/_img/photo/misc/Twitter-FTX_SamFried.jpg" alt="&nbsp;nap in FTX office" /></picture><br />
 <mark><b>... Sam&nbsp;</b></mark> who [Fried Bankm**e**n](https://www.techtarget.com/whatis/feature/FTX-scam-explained-Everything-you-need-to-know) and not only.
  
 #### German philosophy always rules
@@ -156,7 +155,7 @@ To name a few of the officially recognized:
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="Luca Giordano: The dream of Solomon" src="../../../../_rsc/_img/art/OldMasters/LucaGiordano-TheDreamOfSolomon-w555px.jpg" /></picture><br />
+<br /><picture><img alt="&nbsp;Luca Giordano: The dream of Solomon" src="../../../../_rsc/_img/art/OldMasters/LucaGiordano-TheDreamOfSolomon-w555px.jpg" /></picture><br />
 <mark><b>...King Solomon</b></mark>, who said:
 
 > **For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.**\
@@ -212,7 +211,8 @@ _Earliest humans_ (ca. 300`000 ago)
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="BSoD on Win98 presentation" src="../../../../_rsc/_img/photo/misc/1998.Win98-BSoD_w_BGates.jpg" /></picture><br />
+<br /><picture><img alt="&nbsp;BSoD on Win98 presentation" src="../../../../_rsc/_img/photo/misc/1998.Win98-BSoD_w_BGates.jpg" 
+                title=" True frame from the presentation of Windows plug&play in 1998"/></picture><br />
 (This **BSoD** must be an XX-century [history](https://en.wikipedia.org/wiki/Blue_screen_of_death) but it [struck](https://www.msn.com/en-us/news/technology/a-blue-screen-of-death-loop-how-a-crowdstrike-update-crashed-microsoft-systems-around-the-world/ar-BB1qgFNC) again in 2024.)
 
 #### Customer gets the King
@@ -238,8 +238,8 @@ Alexander Pope, poet (1688-1744)
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="Teleevanglist: If there's no more room in stack, the bugs will walk the Earth..." 
-                src="../../../../_rsc/_img/memes/misquote-no_more_stack.jpg" title="Stack is overflowing..." /></picture><br />
+<br /><picture><img alt="&nbsp;Teleevanglist: If there's no more room in stack, the bugs will walk the Earth..." 
+                src="../../../../_rsc/_img/memes/misquote-no_more_stack.jpg" title=" Stack is overflowing..." /></picture><br />
 <mark><b>...Ken Foree fandom</b></mark>
 
  #### Already classics
