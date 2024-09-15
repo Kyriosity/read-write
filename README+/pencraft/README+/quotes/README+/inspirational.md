@@ -1,8 +1,8 @@
 # Quotes store - Inspiration shelve
 
-<p dir="rtl"><mark>I never posted even one-tenth of<br/>
-.the garbage they will quote as mine</mark><br/>
-.<i>M.Twain</i>, <i>A.Einstein</i>, <i>S.Freud</i> and <i><b>Anonymous</b></i></p>
+<p dir="rtl"><mark/><i>- I always have a quotation for everything<br/>
+.it saves original thinking</i></mark><br/>
+Dorothy L. Sayers (1893-1957), novelist</p>
 
 <details>
 <summary><ins>&nbsp;<b>...to document</b>&nbsp;</ins></summary>
@@ -262,8 +262,4 @@ _Andres Freund_, a programmer who occasionally prevented the ["century" cyberatt
 
 </details>
 
-<p dir="rtl"><b>Postscriptum</b><br/></p>
-<p dir="rtl"><i>- I always have a quotation for everything<br/>
-.it saves original thinking</i><br/>
-Dorothy L. Sayers (1893-1957), novelist</p>
-
+🔚 ... subject of continuous delivery ...
