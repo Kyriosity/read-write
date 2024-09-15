@@ -14,7 +14,7 @@ title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nb
   <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" 
  title="Walhalla Hall of Fame, built 1820-1842, on the river Danube, Bavaria"/></picture>
  </td><td width="65%">
-<p>The essence of architecture appeared as folks managed to erect anything more extravagant and durable than a hut of piled branches. Ancient Greeks were so good at it that observers among them coined "<i>architect</i>"<sup>🏛️</sup> - the term romanized to <i>architecture</i> only centuries later.</p>
+<p>The essence of architecture appeared as folks managed to erect anything more extravagant and durable than a hut of piled branches. Some ancient Greeks were so good at it that observers coined "<i>architect</i>"<sup>🏛️</sup> - the term romanized to <i>architecture</i> only centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &mdash; 
 refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, and aesthetics.</p>
 <p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. However, <span title="Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (giga- either) and architects of détente or <em>economic miracle</em> are compliments (or flattery).</p>
@@ -24,13 +24,13 @@ ___________<br />
 
 ## Software vs. Building - much in common...
 
-The architecture of both demands creativity and grants enough room for phantasy and missteps but must deliver functional wholes quickly rather than ripen aesthetic values.
+The architecture of both demands creativity and grants enough room for phantasy and missteps but must deliver functional wholes quickly rather than ripen aesthetic values. Projects in both often begin from sketching on white paper or board.
 
 Both take advantage of the flexible plethora of tools, techniques, and skills. Both must accumulate mainstream and alternate practices and reveal patterns.
 
-Lack of proficient abstraction work and planning can make both a mess which products loudly crash. Both can appear to be grounds for hollow promises and sandcastles.
+Lack of proficient abstraction work and planning can make both a mess which products loudly crash. Both can be grounds for hollow promises and sandcastles.
 
-Both can't rely solely on generations of experience and a single mastermind but on a team (with a hierarchy or not) of experts.
+Both can't rely solely on generations of experience and a single mastermind but on a team (with a hierarchy or not) of pundits.
 
 ### ...but diffs are bigger
 
@@ -49,9 +49,7 @@ Software development gives freedom of full-scale _trial and **error**_ unthinkab
 
 A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry must be a fantastic creature but not in software teams.
 
-Education and activities in construction are far more specialized and regulated (also legally).
-
-ultima ratio: slang differs.
+Education and activities in construction are far more specialized and regulated (also legally). **Ultima ratio**: slang differs.
 
 \_______\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>_Arthur Schopenhauer_ (1788-1860), missattributed to _Johann Wolfgang von Goethe_ (1749-1832)</sub>\
@@ -64,13 +62,19 @@ ultima ratio: slang differs.
 
 *Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise. Complementary factors **disperse the classical figure of architect**:
 
+ToDo: TAGS and CLOUDs !
+
+abstract nature, fluidity, informality, 24x7 and PLACE availability,
+
+These complementary agents
 + Abstraction nature with full place and time availability **allows** everybody with IT knowledge to participate in every process (from bits to top judgments).
 + Informality and fluidity do **not** allow to be agnostic of implementation. EXPLAIN !
 
-Reputable software providers hire _architects_, and they are the central figures at many IT events, there's certification after all.
+
+Software disperses the classical figure of architect **but wait ...** reputed software providers hire/promote _architects_, and they are the central figures at many IT events, there's certification after all!
 The team of C#.NET, which is the centerfold of my dev, speaks about architects....
 
-First and above all, *software architect* sounds cool and distinguishes one from the crowd of developers<sup></sup>. Not that than _mastermind_, and more serious than _dev lord_, that it means. FOR CLIENTS its
+First and above all, *software architect* sounds cool and distinguishes one from the crowd of developers<sup></sup>. Other titles can be abstract or informal: _expert_, _mastermind_, _dev lord_. It makes a good impression on customers and stakehoders.
 
 <sub>Much profanated DEVeloper where everybody is senior</sub>
 
