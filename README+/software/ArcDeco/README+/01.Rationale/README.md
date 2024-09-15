@@ -4,13 +4,15 @@
 
 # Rationale
 
+ [![Powered by good quotes](https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue)](../../../../pencraft/README+/quotes/README+/cornerstones.md)
+
 Any sophisticated matter deserves its study: universe -> cosmology, mathematics -> philosophy, physics -> epistemology, art -> theory, excavations -> anthropology ... 
 
 ## About
 
- [![Powered by good quotes](https://img.shields.io/badge/Powered-by_quotes-yellow?style=flat&labelColor=3A3B3C&color=teal)](../../../../pencraft/README+/quotes/README+/cornerstones.md)
-
 Software is a VERY unique product: pure multilevel abstraction but ground to 100% hardware realization in BINARY bits (or qubits someday).
+
+The experience, delusion, and frustration, advanced developers hit, is that cutting-edge design decisions don't make up the design/architecture of application.
 
 THESE abstractions CONTRA  formalize concepts from ALIEN domains: be it exact science or entertainment.
 
