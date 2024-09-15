@@ -137,16 +137,20 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 #### Deployment tenses
 
+🚧🐝🚧 ... WORK in PROGRESS ... 🚧:bee:🚧
+
 <table>
   <tr>
     <td>PAST was PERFECT</td>
   </tr>
   <tr>
-     <td><picture><img src="../../../_rsc/_img/af/convent.jpg" alt="&nbsp;&nbsp;&nbsp;Medieval convent pic" alt="&nbsp;&nbsp;&nbsp;Image of convent" title="It worked on my ..." width="200" /></picture></td>
-    <td><picture><img src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" alt="punchcard stack pic" title="Pucnhcards ..." width="200" /></picture></td>
-    <td><picture><img alt="&nbsp;&nbsp;&nbsp;Image of PC" " width="200" /></picture></td>
+     <td><picture><img src="../../../_rsc/_img/af/convent.jpg" alt="&nbsp;&nbsp;&nbsp;Monks, Medieval convent" 
+        alt="&nbsp;&nbsp;&nbsp;Image of convent" title="It worked on my ..." width="200" /></picture></td>
+    <td><picture><img src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" alt="punchcard stack" title="Pucnhcards ..." width="200" /></picture></td>
+    <td><picture><img alt="&nbsp;&nbsp;&nbsp;Personal Computer" " width="200" /></picture></td>
     <td><picture><img alt="&nbsp;&nbsp;&nbsp;Image of cloud" width="200" /></picture></td>
-    <td><picture><img alt="&nbsp;&nbsp;&nbsp;Imagine a qubit" width="200" /></picture></td>
+    <td><picture><img src="../../../_rsc/_img/symbols/phys/MIT-qubit_500px.jpg"
+        alt="&nbsp;&nbsp;&nbsp;Imagine a qubit" width="200" title=" Image credit: MIT, Awschalom Group, D. Laorenza"  /></picture></td>
   </tr>
   <tr>
     <td>It worked in my convent</td>
@@ -161,9 +165,6 @@ VOAYGER
  1 / 0 COMMAND !
 
 </table>
-
-🚧🐝🚧 ... WORK in PROGRESS ... 🚧:bee:🚧
-
 
 ---
 
