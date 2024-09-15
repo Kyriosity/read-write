@@ -18,7 +18,7 @@ The inevitable and noticeable expenses will pay off with the formation of ***lin
 + genuine design and self-descriptive code,
 + inspiration for behavior/domain-driven design,
 + escape from heaps of docs<sup>📒</sup>,
-+ reduced efforts to get into a project for newcomers,
++ minigated tension to get into a project for newcomers,
 + comfy navigation in the source code (incl. <kbd>CTRL+F</kbd>).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team means not only developers and managers but customers, testers with end users.</sub>\

@@ -87,7 +87,7 @@ As the extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/READ
 <picture><img alt="Here is X. Calm down Pythagoras" src="../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg" /></picture><br/><br/>
 
 Justified: abilities in exact sciences are no longer a prerequisite for applied programming. 
-It's normal to neglect a sorting algorithm implementation (that a platform provides) rather than to write one's own or even comprehend/differentiate one.
+It's normal to neglect a triage algorithm implementation (that a platform provides) rather than to write one's own or even comprehend/differentiate one.
 
 ---------
 </details>
