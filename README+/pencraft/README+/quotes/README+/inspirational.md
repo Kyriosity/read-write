@@ -1,8 +1,10 @@
-# Quotes store - Inspiration shelve
+# Quotes store &mdash; Inspiration department
 
 <p dir="rtl"><mark/><i>- I always have a quotation for everything<br/>
 .it saves original thinking</i></mark><br/>
 Dorothy L. Sayers (1893-1957), novelist</p>
+
+## Shelves 
 
 <details>
 <summary><ins>&nbsp;<b>...to document</b>&nbsp;</ins></summary>
