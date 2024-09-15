@@ -57,7 +57,7 @@ They may start on a whiteboard<sup>🔲</sup> during a casual discussion and as 
 
 \_________
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔲</sup> <sub>Can anything be better than a whiteboard? The glass board! It allows one not only to look at the design from the unusual side but also attach various backgrounds (e.g. previous printout).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔲</sup> <sub>Can anything be better than a whiteboard? The glass board! It allows one not only to look at the design from the unusual side but also attach various backgrounds (e.g. previous printout). _Trace paper_ is a compact individual variant.</sub>
 
 ### Beyond sketches
 
