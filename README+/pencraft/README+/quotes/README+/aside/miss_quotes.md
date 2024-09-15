@@ -1,13 +1,17 @@
-# IT Quotes - Misinterpreted and misattributed (disputed)
+# IT Quotes &mdash; Misinterpreted and misattributed (disputed)
 
-## On the top
+<p dir="rtl"><mark>I never posted even one-tenth of<br/>
+.the garbage they will quote as mine</mark><br/>
+.<i>M.Twain</i>, <i>A.Einstein</i>, <i>S.Freud</i> and <i><b>Anonymous</b></i></p>
 
-> If you can't explain it simply, you don't understand it well enough.\
+## Top quotes
+
+> **If you can't explain it simply, you don't understand it well enough.**\
 <s>Albert Einstein</s> 🤦‍♂️
 
-The backside of scientific fame is that the figure of Albert Einstein (not he) became the King of wrong quoting. And this quote, beloved in sci-pop and crash courses, is the shining diamond in the crown of misquoting (Mr. Einstein was the least thinker to say such).
+The backside of scientific fame is that the figure of Albert Einstein (not he) became the King of wrong quoting. And this quote, beloved in sci-pop and crash courses, is the shining diamond in the crown of misquoting.
 
-**Nobody can explain simple (or not) if the learner doesn't know the subject fundamentally.**
+Dr. Einstein was the least thinker to say such a thing. **Nobody can explain a thesis simply** (or in detail) **if the learner doesn't know the subject fundamentally.**
 
 \___________
 
