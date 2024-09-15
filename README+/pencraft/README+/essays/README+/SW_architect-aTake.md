@@ -45,9 +45,13 @@ Constructions are embossed with materials and locations &mdash; software abstrac
 
 Software is the most automated production where copying, scaling, installation, and updates are clickable. Decades, min for wood cabins, set records in mainframe software, which won't recur (till interstellar flights).
 
-Software development gives freedom of full-scale _trial and error_ unthinkable in other production. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (utilities). On the contrary, drawing plans months ahead of some implementation is unimaginable in software.
+Software development gives freedom of full-scale _trial and **error**_ unthinkable in other production. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (utilities). On the contrary, drawing plans months ahead of some implementation is unimaginable in software.
 
-A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot for master classes in laying bricks and blocks, knows the mechanics of materials as electrics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry must be a fantastic creature but not in software teams.
+A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry must be a fantastic creature but not in software teams.
+
+Education and activities in construction are far more specialized and regulated (also legally).
+
+ultima ratio: slang differs.
 
 \_______\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>_Arthur Schopenhauer_ (1788-1860), missattributed to _Johann Wolfgang von Goethe_ (1749-1832)</sub>\
@@ -61,11 +65,18 @@ A construction engineer, whose modeling tasks are interlaced with stirring concr
 *Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise. Complementary factors **disperse the classical figure of architect**:
 
 + Abstraction nature with full place and time availability **allows** everybody with IT knowledge to participate in every process (from bits to top judgments).
-+ Informality and fluidity do **not** allow to be agnostic of implementation. 
++ Informality and fluidity do **not** allow to be agnostic of implementation. EXPLAIN !
 
 Reputable software providers hire _architects_, and they are the central figures at many IT events, there's certification after all.
+The team of C#.NET, which is the centerfold of my dev, speaks about architects....
 
-First and above all, *software architect* sounds cool and distinguishes one from the crowd of developers<sup></sup>. Not that than _mastermind_, and more serious than _dev lord_, that it means.
+First and above all, *software architect* sounds cool and distinguishes one from the crowd of developers<sup></sup>. Not that than _mastermind_, and more serious than _dev lord_, that it means. FOR CLIENTS its
+
+<sub>Much profanated DEVeloper where everybody is senior</sub>
+
+_Jacks of all trades_
+
+Then the title expresses a path of enlightenment of one unchained from the keyboard to draw beautiful top diagrams freed of the digging within dusty codes. 
 
 It's often an alias for roles and duties:
 
@@ -81,7 +92,14 @@ It's often an alias for roles and duties:
 
 There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bunch of avant practices with strong practical backup. Architecture is a synergy of collective and best of vision, design, and development.
 
-And let's salt all this with a bitter reminder that most projects cast domain issues to known and tried architectural solutions with quite decent design contributions.
+And let's salt all this with a bitter reminder that most projects aren't a Pantheon but cast domain issues to known and tried architectural solutions with quite decent design contributions.
+
+It doesn't assume PARTY but BIAS. ...  ArcDeco ... to which sore WRITE let me return.
+
+<picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
+title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
+
+INVERT and RE-READ
 
 <p dir=rtl><mark>"<b>.Smith will suffice</b>"</mark><br /><i><sup>🎦🔨</sup>Agent Smith</i></p>
 
