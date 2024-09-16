@@ -11,6 +11,7 @@
           <a href="contributors/README.md#Donald-Knuth"><b>Donald Knuth</b></a>
     </td>
     <td width="33%">
+      <b>KISS</b>: Keep it short and simple.<br /><p><i>Minnesota Star Tribune</i>, 1938</p>
      <mark>Simplicity</mark> does not precede complexity but follows it.<br />
            <a href="contributors/README.md#Alan-Perlis"><b>Alan Perlis</b></a>
     </td>
