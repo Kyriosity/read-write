@@ -11,8 +11,8 @@ title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nb
 
 <table><tr valign="top">
  <td widh="35%">
-  <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" 
- title="Walhalla Hall of Fame, built 1820-1842, on the river Danube, Bavaria"/></picture>
+  <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" /></picture><br />
+  <i>Walhalla</i>, on the river Danube, Bavaria (built 1820-1842), as an example of neoclassicism
  </td><td width="65%">
 <p>The essence of architecture appeared as folks managed to erect anything more extravagant and durable than a hut of piled branches. Some ancient Greeks were so good at it that observers coined "<i>architect</i>"<sup>🏛️</sup> - the term romanized to <i>architecture</i> only centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &mdash; 
@@ -60,25 +60,23 @@ Education and activities in construction are very specialized and regulated (als
 
 <p dir=rtl><mark>"<b>.I am the Architect</b>"</mark><br /><sup>🎦</sup><i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i>, 2003</p>
 
-*Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise. Complementary factors **disperse the classical figure of architect**:
-
-ToDo: TAGS and CLOUDs !
+*Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise.
 
 pure abstract nature, fluidity, informality, 24x7 and PLACE ENV availability,
 
-These complementary agents
- **allow** everybody with IT knowledge to participate in every process (from bits to top judgments).
-+ Informality and fluidity do **not** allow to be agnostic of implementation. EXPLAIN !
+The complementary agents
 
+* **allow** everybody with IT knowledge to participate in every process (from bits to top judgments).
+* Informality and fluidity do **not** allow to be agnostic of implementation. EXPLAIN !
 
-Software disperses the classical figure of architect **but wait ...** reputed software providers hire/promote _architects_, they are the central figures at many IT events, there's certification after all!
-The team of C#.NET, which is the centerfold of my dev, speaks about architects....
+and thus  **disperse the classical figure of architect** and put candidates into "player-coach" mode.  **But wait ...**, reputed software providers hire/promote _architects_, they are the central figures at many IT events, there's certification after all!\
+(The team of C#.NET, which is the centerfold of my dev, speaks about architects....)
 
 First and above all, *software architect* sounds cool and distinguishes one from the crowd of developers<sup></sup>. Other titles can be abstract or informal: _expert_, _mastermind_, _dev lord_. It makes a good impression on customers and stakehoders.
 
 <sub>Much profanated DEVeloper where everybody is senior</sub>
 
-_Jacks of all trades_
+_Jacks of all trades_   ZOOOM in
 
 Then the title expresses a path of enlightenment of one unchained from the keyboard to draw beautiful top diagrams freed of the digging within dusty codes. 
 
