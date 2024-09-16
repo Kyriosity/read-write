@@ -1,20 +1,14 @@
-# Test coverage - Pitfalls 
+........... 🚧🐝🚧 ... WORK in PROGRESS... 🚧✏️🚧
 
-You must know\
-Developers hate when testers know them\
-They wouldn't like you don't know them\
-(Select a clickbait or none)
+# Software testing &mdash; Pitfalls 
 
+<p dir=rtl>Testers hate it when<br />.developers know these catches<br/>(Clickbait🪝)</p>
 
-NOTE: Test coverage notwithstanding whether it was written first or after the implementation it not a test 
+> NOTE: Tests are also subject to development/design [drive](../../design/drive).
 
 [![Powered by quotes](https://img.shields.io/badge/Powered-by_quotes-white?style=flat&labelColor=3A3B3C&color=green)](../../../pencraft/README+/quotes/README+/cornerstones.md)
 
 ## Conceptual
-
-### Test coverage as design drive
-
- [TDD](../../design/drive) 
 
 ### Tests of tests
 
