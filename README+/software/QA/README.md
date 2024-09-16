@@ -1,22 +1,24 @@
-> ................. 🚧🖊️🚧 ... PEN in PROGRESS ... 🚧🖌️🚧 
+> ................. 🚧🐝🚧 ... PEN in PROGRESS ... 🚧🖌️🚧 
 
 # Software &mdash; Quality Assurance
 
-Software development's frivolous, fleeting, and improvising spirit is inherently error-prone. Breaking changes are as close as the fingers to the keyboard, you can always roll back and there's always a gap till delivery to production (for last-minute fixes or bug introduction).
+Development's frivolous, fleeting, and improvising spirit makes software inherently error-prone. Breaking changes are as close as the fingers to the keyboard, you can always roll back and there's always a gap till delivery to production (for last-minute fixes or bug introduction).
 
 QA is inevitable.
 
 ## Natural born quality
 
-We must have witnessed projects written from scratch without allotted QA measures (let alone test automation) but robust from the first release. 
+Many must have witnessed projects written from scratch without allotted QA measures (let alone test automation) but robust from the first release. 
 
-This can be achieved in localized high-pro teams writing [Quality code](README+/code-quality.md) but doesn't override quality proofing.
+This may occur in localized high-pro teams writing [Quality code](README+/code-quality.md) but doesn't override quality proofing. On systems and big applications, teams will be distributed and uneven.
 
 ## Tests
 
+First, let's separate the writing of tests - ⚙️[drives](../design/drive)
+
 ### Manual
 
-The developer is the first tester
+The developer is the first tester.
 
 ### Automated tests
 
