@@ -25,7 +25,7 @@ Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# read
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Though this paces and hopefully .NET team doesn't plan to make a Perl out of their language</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>❔</sup> <sub>Isn't `null` a value too?</sub>
 
-### Generics
+### Generics - limitations
 
 The next definition is terse and clear `class CollWrapper<C, T> where C : ICollection<T> { ... }` but not the redundancy in its declaration `new CollWrapper<List<int>, int>()`.
 
@@ -33,7 +33,7 @@ Advanced C# design reveals more generic restraints and results in *Vodoo program
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)<sup>:link:</sup> that their generics are "_does nots_" of C++ templates.</sub>
 
-### Questionable shortcuts
+### Fishy shortcuts
 
 Some shortcuts obfuscate original goodies with insignificant gains in size.
 
