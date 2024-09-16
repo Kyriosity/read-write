@@ -45,11 +45,11 @@ Constructions are embossed with materials and locations &mdash; software abstrac
 
 Software is the most automated production where copying, scaling, installation, and updates are clickable. Decades, min for wood cabins, set records in mainframe software, which won't recur (till interstellar flights).
 
-Software development gives freedom of full-scale _trial and **error**_ unthinkable in other production. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (utilities). On the contrary, drawing plans months ahead of some implementation is unimaginable in software.
+Software development gives freedom of full-scale _trial and **error**_ unthinkable in other production. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (utilities). On the contrary, drawing plans months ahead of some code is advert to software.
 
 A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry must be a fantastic creature but not in software teams.
 
-Education and activities in construction are far more specialized and regulated (also legally). **Ultima ratio**: slang differs.
+Education and activities in construction are very specialized and regulated (also legally). **Ultima ratio**: slang differs.
 
 \_______\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>_Arthur Schopenhauer_ (1788-1860), missattributed to _Johann Wolfgang von Goethe_ (1749-1832)</sub>\
@@ -64,14 +64,14 @@ Education and activities in construction are far more specialized and regulated 
 
 ToDo: TAGS and CLOUDs !
 
-abstract nature, fluidity, informality, 24x7 and PLACE availability,
+pure abstract nature, fluidity, informality, 24x7 and PLACE ENV availability,
 
 These complementary agents
-+ Abstraction nature with full place and time availability **allows** everybody with IT knowledge to participate in every process (from bits to top judgments).
+ **allow** everybody with IT knowledge to participate in every process (from bits to top judgments).
 + Informality and fluidity do **not** allow to be agnostic of implementation. EXPLAIN !
 
 
-Software disperses the classical figure of architect **but wait ...** reputed software providers hire/promote _architects_, and they are the central figures at many IT events, there's certification after all!
+Software disperses the classical figure of architect **but wait ...** reputed software providers hire/promote _architects_, they are the central figures at many IT events, there's certification after all!
 The team of C#.NET, which is the centerfold of my dev, speaks about architects....
 
 First and above all, *software architect* sounds cool and distinguishes one from the crowd of developers<sup></sup>. Other titles can be abstract or informal: _expert_, _mastermind_, _dev lord_. It makes a good impression on customers and stakehoders.
@@ -96,7 +96,7 @@ It's often an alias for roles and duties:
 
 There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bunch of avant practices with strong practical backup. Architecture is a synergy of collective and best of vision, design, and development.
 
-And let's salt all this with a bitter reminder that most projects aren't a Pantheon but cast domain issues to known and tried architectural solutions with quite decent design contributions.
+And let's salt all this with a bitter reminder that most projects aren't a Pantheon but routine cast of domain issues to known and tried  solutions with quite decent contribution of design FRESH.
 
 It doesn't assume PARTY but BIAS. ...  ArcDeco ... to which sore WRITE let me return.
 
