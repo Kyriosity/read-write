@@ -1,18 +1,16 @@
-# Software - Quality Assurance
+> ................. 🚧🖊️🚧 ... PEN in PROGRESS ... 🚧🖌️🚧 
 
-> 🚧🖊️🚧 ... PEN in PROGRESS ... 🚧🖌️🚧
+# Software &mdash; Quality Assurance
 
-LEKOMYSL software development is error-prone by itself. The changes are as near as the fingers to the keyboard, and there's always a gap till delivery.
+Software development's frivolous, fleeting, and improvising spirit is inherently error-prone. Breaking changes are as close as the fingers to the keyboard, you can always roll back and there's always a gap till delivery to production (for last-minute fixes or bug introduction).
 
-Test automation is EASY.
+QA is inevitable.
 
 ## Natural born quality
 
-Programmers with rich pro bio claim to have witnessed a pair of projects.
+We must have witnessed projects written from scratch without allotted QA measures (let alone test automation) but robust from the first release. 
 
-What are the cases when the submitted code is a bug by itself?
-
-[Quality code](README+/code-quality.md)
+This can be achieved in localized high-pro teams writing [Quality code](README+/code-quality.md) but doesn't override quality proofing.
 
 ## Tests
 
