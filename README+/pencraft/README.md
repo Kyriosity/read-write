@@ -1,12 +1,12 @@
 # Pen & brush craft - Technical writing
 
-[__Documentation__](README+/tech_docu.md) and [__authoring__](README+/tech-authoring.md) are two very diverging employments of writing and painting skills with opposed values of formalism, creativity, imagination, and styles. Their principled distinction is __*driven*__ vs __*drives*__:
+[__Documentation__](README+/tech_docu.md)<sup>➕</sup> and [__authoring__](README+/tech-authoring.md)<sup>➕</sup> are two very diverging employments of writing and painting skills with opposed values of formalism, creativity, imagination, and styles. Their principled distinction is __*driven*__ vs __*drives*__:
 
-* [Documentation](README+/tech_docu.md) is **on-demand/request** derivative of a product, must follow templates and shall be (auto-)generated and reused as much as possible.<sup>:raising_hand:</sup>\
+* <mark>Documentation</mark> is **on-demand/request** derivative of a product, must follow templates, and shall be (auto-)generated and reused as much as possible.<sup>:raising_hand:</sup>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>A strict _User manual_ of hazardous tools is an exemplary story.</sub>
 
-* [Authoring](README+/tech-authoring.md) is **initiative**, must take a bird's view of the subject, inspire and explain sophisticated and regulated ideas in abstractive, friendly, and sometimes informal, fashion.\
-(Much of the renowned works, such as relational DBs or REST, were based on "paper" concepts with little or no implementation.)
+* <mark>Authoring</mark> is **initiative**, must take a bird's view of the subject, inspire and explain sophisticated and regulated ideas in abstractive, friendly, and sometimes informal, fashion.<sup>:raising_hand:</sup>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Much of the renowned works, such as relational DBs or REST, were based on "paper" concepts with little or no implementation.</sub>
 
 It's a burden for readers to find and study documentation. With authoring, it's a headache for authors to attract readers.
 
@@ -19,11 +19,11 @@ Regardless of missions, any tech writing is an expensive and exhausting exercise
 + [x] be long-term (updated and evolved).
 
 Other uses of pen&brush for IT, you may find here:\
-|- [Freestyle essays](README+/essays/)\
-|- [Collecting quotes](README+/quotes)\
-|- [Memes](README+/memes)\
+|- 😪 [Freestyle essays](README+/essays/)\
+|- 🥨 [Collecting quotes](README+/quotes)\
+|- 🪝 [Memes](README+/memes)\
 |- Technical illustration  &mdash; to write when mastering the acquired pen tablet\
-|- [Offtopic](README+/offtopic) &mdash; I can't help going there\
+|- [Offtopic](README+/offtopic) &mdash; I can't help going there
 
 ## Disclaimer
 
@@ -31,7 +31,7 @@ The writings and collections here are ...
 
 * The subject of personal taste, inclination, vision, and fallacies. It's up to you whether to like them or recoil in distaste.
 * The subject of endless editing and rework.
-* Some opuses may be in the badly readable state of 🚧draft🚧 (just skip them).
+* Some opuses may be in the badly readable state of 🚧draft🚧 (now skip them).
 
 \_______
 
