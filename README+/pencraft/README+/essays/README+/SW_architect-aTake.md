@@ -1,18 +1,17 @@
-<table><tr>
- <td widh="39%"></td>
- <td><blockquote>
-This essay treats architecture and design together (as everything over particular and imaginary applications/systems/constructions) while
+<table><tr></tr><tr>
+ <td widh="39%">☝️</td>
+ <td>This essay treats architecture and design together (as everything over particular and imaginary applications/systems/constructions) while
 <picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
 title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
 , from which this essay derives, discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin adjacent activities</a>.
- </blockquote></td></tr></table>
+ </td></tr></table>
 
 # Architecture and Architects
 
 <table><tr valign="top">
  <td widh="35%">
   <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" /></picture><br />
-  <i>Walhalla</i>, on the river Danube, Bavaria (built 1820-1842), as an example of neoclassicism
+  <i>Walhalla</i> on the river Danube, Bavaria (built 1820-1842) is an exemplary neoclassicism.
  </td><td width="65%">
 <p>The essence of architecture appeared as folks managed to erect anything more extravagant and durable than a hut of piled branches. Some ancient Greeks were so good at it that observers coined "<i>architect</i>"<sup>🏛️</sup> - the term romanized to <i>architecture</i> only centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &mdash; 
@@ -45,9 +44,11 @@ Constructions are embossed with materials and locations &mdash; software abstrac
 
 Software is the most automated production where copying, scaling, installation, and updates are clickable. Decades, min for wood cabins, set records in mainframe software, which won't recur (till interstellar flights).
 
-Software development gives freedom of full-scale _trial and **error**_ unthinkable in other production. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (utilities). On the contrary, drawing plans months ahead of some code is advert to software.
+Software development gives freedom of full-scale _trial and **error**_ unthinkable in other production. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (utilities). On the contrary, drawing plans months ahead of some code is adverse to software.
 
 A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry must be a fantastic creature but not in software teams.
+
+Construction places for any work are laptop in the software.
 
 Education and activities in construction are very specialized and regulated (also legally). **Ultima ratio**: slang differs.
 
@@ -60,25 +61,15 @@ Education and activities in construction are very specialized and regulated (als
 
 <p dir=rtl><mark>"<b>.I am the Architect</b>"</mark><br /><sup>🎦</sup><i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i>, 2003</p>
 
-*Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise.
+*Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise. 
 
-pure abstract nature, fluidity, informality, 24x7 and PLACE ENV availability,
+And the opposite occurs - CAN AND SHALL ZOOM IN
 
 The complementary agents
 
 * **allow** everybody with IT knowledge to participate in every process (from bits to top judgments).
-* Informality and fluidity do **not** allow to be agnostic of implementation. EXPLAIN !
+* do **not** allow to be agnostic of implementation
 
-and thus  **disperse the classical figure of architect** and put candidates into "player-coach" mode.  **But wait ...**, reputed software providers hire/promote _architects_, they are the central figures at many IT events, there's certification after all!\
-(The team of C#.NET, which is the centerfold of my dev, speaks about architects....)
-
-First and above all, *software architect* sounds cool and distinguishes one from the crowd of developers<sup></sup>. Other titles can be abstract or informal: _expert_, _mastermind_, _dev lord_. It makes a good impression on customers and stakehoders.
-
-<sub>Much profanated DEVeloper where everybody is senior</sub>
-
-_Jacks of all trades_   ZOOOM in
-
-Then the title expresses a path of enlightenment of one unchained from the keyboard to draw beautiful top diagrams freed of the digging within dusty codes. 
 
 It's often an alias for roles and duties:
 
@@ -96,12 +87,6 @@ There was no intention to defame _software architects_ but to qualify the term a
 
 And let's salt all this with a bitter reminder that most projects aren't a Pantheon but routine cast of domain issues to known and tried  solutions with quite decent contribution of design FRESH.
 
-It doesn't assume PARTY but BIAS. ...  ArcDeco ... to which sore WRITE let me return.
-
-<picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
-title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
-
-INVERT and RE-READ
 
 <p dir=rtl><mark>"<b>.Smith will suffice</b>"</mark><br /><i><sup>🎦🔨</sup>Agent Smith</i></p>
 
