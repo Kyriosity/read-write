@@ -61,17 +61,25 @@ Education and activities in construction are very specialized and regulated (als
 
 <p dir=rtl><mark>"<b>.I am the Architect</b>"</mark><br /><sup>🎦</sup><i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i>, 2003</p>
 
-*Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise. 
+*Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise. Contrary to the building it
+* **grants** everybody with IT knowledge the possibility to participate in every process (from bits to top judgments).
+* do **not** allow to be agnostic of implementation. EXPLAIN !
 
-And the opposite occurs - CAN AND SHALL ZOOM IN
+ CAN AND SHALL ZOOM IN
 
-The complementary agents
+and thus  **disperse the classical figure of architect** and put candidates into "player-coach" mode.  **But wait ...**, reputed software providers hire/promote _architects_, they are the central figures at many IT events, there's certification after all!
 
-* **allow** everybody with IT knowledge to participate in every process (from bits to top judgments).
-* do **not** allow to be agnostic of implementation
+First and above all, *software architect* sounds cool and distinguishes one from the crowd of developers<sup>🙋</sup>. It makes a good impression on customers and stakeholders.
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>A position heavily profanated by quantity.</sub>
+
+_Jacks of all trades_   ZOOOM in
+(The team of C#.NET, which is the centerfold of my dev, speaks about architects....)
 
 
-It's often an alias for roles and duties:
+Then the title expresses a path of enlightenment of one unchained from the keyboard to draw beautiful top diagrams freed of the digging within dusty codes. 
+
+<details><summary>It's often an alias for roles and duties:</summary>
 
 * _domain expert_ or _business analyst_, who boils down requirements to systematic description,
 * _team lead_ or _project manager_,
@@ -80,16 +88,27 @@ It's often an alias for roles and duties:
 * _tutor_, or _technology evangelist_, proposing blueprints for the solution,
 * "*librarian-navigator*", somebody with the utmost knowledge of the project,
 * geeks from _computer science_.
+ 
+</details>
+
+LET ALONE DevOps
 
 ## Conclusion
 
 There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bunch of avant practices with strong practical backup. Architecture is a synergy of collective and best of vision, design, and development.
 
-And let's salt all this with a bitter reminder that most projects aren't a Pantheon but routine cast of domain issues to known and tried  solutions with quite decent contribution of design FRESH.
+And let's salt all this with a bitter reminder that most projects aren't a Pantheon but the routine cast of domain issues to known and tried  solutions with quite a decent contribution of design FRESH.
 
+It doesn't assume PARTY but BIAS. ...  ArcDeco ... to which sore WRITE let me return.
+
+<picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
+title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
+
+INVERT and RE-READ
 
 <p dir=rtl><mark>"<b>.Smith will suffice</b>"</mark><br /><i><sup>🎦🔨</sup>Agent Smith</i></p>
 
 \_______
 
  🔚 &nbsp;🌘 kyriosity 2023-2024&nbsp;&nbsp;&nbsp;<b>.......</b>&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> quotes guaranteed by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu)
+ 
