@@ -25,7 +25,7 @@
       <br /><div align="center"><h4>ARCHITECT(URE)</h4></div></a>
     </td>
    <td>
-      <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/cs-think_tasks.md"><img src="../../../_rsc/_img/_nav/tiles/_WorkInProgress_200px.jpg" alt="&nbsp;think-tasks.md" title="&nbsp;Promise oriented patterns on tasks"/>
+      <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/model_as_tasks.md"><img src="../../../_rsc/_img/_nav/tiles/_WorkInProgress_200px.jpg" alt="&nbsp;model_as_tasks.md" title="&nbsp;Promise oriented patterns on tasks"/>
         <br /><div align="center"><h4>THINKING in TASKS</h4></div></a>
     </td>
   </tr>
