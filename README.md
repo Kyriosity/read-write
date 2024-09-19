@@ -20,11 +20,7 @@
      <a href="README+/software/mngmnt">Organization</a>
      </p>
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
-      🥱&nbsp;<a href="README+/pencraft/README+/essays/README.md">essays</a>
-     &nbsp;
-🪝<a href="README+/pencraft/README+/memes">memes</a>
-           &nbsp;
-🥨<a href="README+/pencraft/README+/quotes/README.md">quotes</a>
+      🥱<a href="README+/pencraft/README+/essays/README.md">essays</a> 🪝<a href="README+/pencraft/README+/memes">memes</a> 🥨<a href="README+/pencraft/README+/quotes/README.md">quotes</a>
      </td>
 </tr><tr></tr><tr><td>
 <a href="README+/.net/"><b>C#.NET</b></a><br/>
