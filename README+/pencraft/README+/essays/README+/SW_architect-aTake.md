@@ -46,7 +46,7 @@ Software is the most automated production where copying, scaling, installation, 
 
 Software development gives freedom of full-scale _trial and **error**_ unthinkable in other production. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (utilities). On the contrary, drawing plans months ahead of some code is adverse to software.
 
-A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry must be a fantastic creature but not in software teams.
+A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry must be a fantastic creature but usual Jack-of-all-trade in software teams.
 
 Construction places for any work are laptop in the software.
 
@@ -61,19 +61,14 @@ Education and activities in construction are very specialized and regulated (als
 
 <p dir=rtl><mark>"<b>.I am the Architect</b>"</mark><br /><sup>🎦</sup><i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i>, 2003</p>
 
-*Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise. Contrary to the building it
-* **grants** everybody with IT knowledge the possibility to participate in every process (from bits to top judgments).
-* do **not** allow to be agnostic of implementation. EXPLAIN !
+*Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise. Contrary to the building DIRECTIVE it **disperses the classical figure of architect** allowing <mark>everybody</mark> <mark>effectively</mark> to zoom IN details and zoom OUT concepts (up to top architecture).
 
- CAN AND SHALL ZOOM IN
-
-and thus  **disperse the classical figure of architect** and put candidates into "player-coach" mode.  **But wait ...**, reputed software providers hire/promote _architects_, they are the central figures at many IT events, there's certification after all!
+**But wait ...**, reputed software providers hire/promote _architects_, they are the central figures at many IT events, there's certification after all!
 
 First and above all, *software architect* sounds cool and distinguishes one from the crowd of developers<sup>🙋</sup>. It makes a good impression on customers and stakeholders.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>A position heavily profanated by quantity.</sub>
 
-_Jacks of all trades_   ZOOOM in
 (The team of C#.NET, which is the centerfold of my dev, speaks about architects....)
 
 
