@@ -27,7 +27,7 @@ The architecture of both demands creativity and grants enough room for phantasy 
 
 Both take advantage of the flexible plethora of tools, techniques, and skills. Both must accumulate mainstream and alternate practices and reveal patterns.
 
-Lack of proficient abstraction work and planning can make both a mess which products loudly crash. Both can be grounds for hollow promises and sandcastles.
+Lack of proficient abstraction work and planning can make both a mess which products loudly crash. Both can abused for hollow promises and sandcastles.
 
 Both can't rely solely on generations of experience and a single mastermind but on a team (with a hierarchy or not) of pundits.
 
@@ -46,9 +46,9 @@ Software is the most automated production where copying, scaling, installation, 
 
 Software development gives freedom of full-scale _trial and **error**_ unthinkable in other production. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (utilities). On the contrary, drawing plans months ahead of some code is adverse to software.
 
-A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry must be a fantastic creature but usual Jack-of-all-trade in software teams.
+A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry must be a fantastic creature &mdash; but usual Jack-of-all-trades in software teams.
 
-Construction places for any work are laptop in the software.
+Construction places for any work are 24x7 laptop in the software.
 
 Education and activities in construction are very specialized and regulated (also legally). **Ultima ratio**: slang differs.
 
@@ -61,45 +61,39 @@ Education and activities in construction are very specialized and regulated (als
 
 <p dir=rtl><mark>"<b>.I am the Architect</b>"</mark><br /><sup>🎦</sup><i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i>, 2003</p>
 
-*Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise. Contrary to the building DIRECTIVE it **disperses the classical figure of architect** allowing <mark>everybody</mark> <mark>effectively</mark> to zoom IN details and zoom OUT concepts (up to top architecture).
+*Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise. Contrary to the building DIRECTIVE it <ins>disperses the classical figure of the architect</ins> allowing **everybody** and **efficiently** to zoom IN technological details and zoom OUT to concepts (up to top architecture). 
 
-**But wait ...**, reputed software providers hire/promote _architects_, they are the central figures at many IT events, there's certification after all!
+> This doesn't assume parity. The bigger the team, the bigger the offset of its members to coding or design with or without roles exchanged.
 
-First and above all, *software architect* sounds cool and distinguishes one from the crowd of developers<sup>🙋</sup>. It makes a good impression on customers and stakeholders.
+**But wait ...** Reputable software providers hire/promote architects, who are the central figures at many IT events. There's certification after all.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>A position heavily profanated by quantity.</sub>
+First and above all, *software architect* sounds cool and distinguishes one from crowds of developers<sup>🙋</sup>, impressing managers, customers, and stakeholders.
 
-(The team of C#.NET, which is the centerfold of my dev, speaks about architects....)
-
-
-Then the title expresses a path of enlightenment of one unchained from the keyboard to draw beautiful top diagrams freed of the digging within dusty codes. 
-
-<details><summary>It's often an alias for roles and duties:</summary>
+<details><summary><ins>&nbsp;It's often an alias for roles and duties:&nbsp;</inst> ➡️</summary>
 
 * _domain expert_ or _business analyst_, who boils down requirements to systematic description,
 * _team lead_ or _project manager_,
 * _lead_/_senior developer_,
-* _consultant_, extrapolating known solutions to other adaptations,
+* _consultant_, propagating portfolio of verified solutions to new applications,
 * _tutor_, or _technology evangelist_, proposing blueprints for the solution,
 * "*librarian-navigator*", somebody with the utmost knowledge of the project,
 * geeks from _computer science_.
  
 </details>
 
-LET ALONE DevOps
+⬅️ Let alone DevOps, as a separate subject of Architecture.
+
+\___________
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋🙋</sup> <sub>The tops of C#.NET are titled architects or leads but all of them show strong coding skills at presentations.</sub>
+
 
 ## Conclusion
 
-There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bunch of avant practices with strong practical backup. Architecture is a synergy of collective and best of vision, design, and development.
+There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bunch of avant practices with strong practical backup. This makes up the architecture &mdash; a synergy of collective and best vision, design, and development.
 
-And let's salt all this with a bitter reminder that most projects aren't a Pantheon but the routine cast of domain issues to known and tried  solutions with quite a decent contribution of design FRESH.
-
-It doesn't assume PARTY but BIAS. ...  ArcDeco ... to which sore WRITE let me return.
-
-<picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
-title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
-
-INVERT and RE-READ
+And let's salt all this with a bitter reminder that most projects aren't _Pantheon_ but the routine adaptation of requirements to known and tried solutions with quite a decent design novelty.
 
 <p dir=rtl><mark>"<b>.Smith will suffice</b>"</mark><br /><i><sup>🎦🔨</sup>Agent Smith</i></p>
 
