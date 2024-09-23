@@ -4,21 +4,19 @@
 
 Development's frivolous, fleeting, and improvising spirit makes software inherently error-prone. Breaking changes are as close as the fingers to the keyboard, you can always roll back and there's always a gap till delivery to production (for last-minute fixes or bug introduction).
 
-Errors aren't only bugs but poor performance, and bad user experience.
-
-Devs are by their lazy nature interested in hiding problems under the carpet. Quality control as a separate activity is inevitable.
+Errors aren't only bugs but poor performance, and frustrating user experience.
 
 ## Natural born quality
 
-Many must have witnessed projects done from scratch without allotted QA measures (and without test automation) but robust from the first release. 
+Many must have witnessed big projects done from scratch without allotted QA measures and test automation (let alone code reviews) but robust from the first release. 
 
-This may occur in localized high-pro teams of responsible individuals writing [Quality code](README+/code-quality.md) but doesn't override quality proofing. On systems and big applications, teams will be distributed and uneven.
+This may occur in localized high-pro teams of responsible individuals but such exceptions make the rule - separated QA is inevitable.
 
-LITERATE separating and severity classification USTOICHIV SUDNA.
+Writing [Quality code](README+/code-quality.md) must be an objective but teams will be uneven, distributed/fluctuating, and stressed. Add here that NATURE to sweep problems under the carpet - quite thick in software.
 
-## Tests
+## Testing
 
-First, let's put aside tests as ⚙️[drives](../design/drive) of development and design (though they may COMPLEMENT).
+> Let's put aside tests as ⚙️[drives](../design/drive) of development and design (though they may complemet to proofing coverage).
 
 ### Manual
 
@@ -28,7 +26,6 @@ The developer is the first tester.
 
 Bug searching and quality proofing tests are optional but highly recommended and a natural share of software development. 
 
-
 **Further**↙️:\
 |--- [Pitfalls](README+/tests-pitfalls.md)\
 |--- Test 3D
@@ -37,6 +34,4 @@ Bug searching and quality proofing tests are optional but highly recommended and
 |--- [Testing](https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/testing)\
 |--- Acquitting multiple asserts\
 
-
-
-
+:end: README+
