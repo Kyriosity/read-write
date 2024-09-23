@@ -9,7 +9,7 @@
       <a href="README+/software/design/drive/">Drives</a>
      ➰
      <a href="README+/software/design/samples">Samples</a><br/>
-     <div dir="rtl"><a href="README+/software/design/"><b><i>design</i></b></a>&thinsp;➕↘️</div>
+     <div dir="rtl"><a href="README+/software/design/">DESIGN</a>&thinsp;➕↘️</div>
       &nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
     ➿
      <a href="README+/software/QA/README+/tests-pitfalls.md">Tests pitfalls</a>
