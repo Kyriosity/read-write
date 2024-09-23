@@ -21,20 +21,23 @@
       <br /><div align="center"><h4>TD<mark>D</mark> WATERSHED</h4></div></a>
     </td>
     <td>
-      <a href="README+/SW_architect-aTake.md"><img src="../../../_rsc/_img/_nav/tiles/Architect_200px.jpg" alt="&nbsp;SW_architect-aTake.md" title="&nbsp;Finding Software Architect - a Take"/>
+      <a href="README+/SW_architect-aTake.md"><img src="../../../_rsc/_img/_nav/tiles/Architect_200px.jpg" alt="&nbsp;U-Val" title="&nbsp;Finding Software Architect - a Take"/>
       <br /><div align="center"><h4>ARCHITECT(URE)</h4></div></a>
     </td>
    <td>
-      <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/model_as_tasks.md"><img src="../../../_rsc/_img/_nav/tiles/_WorkInProgress_200px.jpg" alt="&nbsp;model_as_tasks.md" title="&nbsp;Promise oriented patterns on tasks"/>
-        <br /><div align="center"><h4>THINKING in TASKS</h4></div></a>
+      <a href="https://github.com/Kyriosity/use-dev/edit/main/README%2B/projects/U-Val/README.md"><img src="../../../_rsc/_img/_nav/tiles/U-Val_200px.jpg" alt="&nbsp;Multifacet value" title="&nbsp;Multifacet values"/>
+      <br /><div align="center"><h4>Multifacet VALUE</h4></div></a>
     </td>
   </tr>
   <tr>
+       <td>
+      <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/model_as_tasks.md"><img src="../../../_rsc/_img/_nav/tiles/_WorkInProgress_200px.jpg" alt="&nbsp;model_as_tasks.md" title="&nbsp;Promise oriented patterns on tasks"/>
+        <br /><div align="center"><h4>THINKING in TASKS</h4></div></a>
+    </td>
     <td>
       <picture><img src="../../../_rsc/_img/_nav/tiles/_ComingNext_200px.jpg" alt="&nbsp;Coming up next..." title="&nbsp;Next essay coming sooner or later.."/></picture>
       <br /><div align="center"><h4>? PEN RESISTANCE ?</h4>
     </td>
-    <td></td>
     <td>
       <a href="../offtopic/anti-home-office.md"><img src="../../../_rsc/_img/_nav/tiles/_BonusTrack_200px.jpg" alt="&nbsp;Bonus track: anti-home-office" title="&nbsp;Neither office nor home spots"/>
         <br /><div align="center"><h4>ANTI-HOME-OFFICE</h4></div></a>
