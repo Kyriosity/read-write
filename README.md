@@ -4,20 +4,19 @@
       <picture><img src="README+/_rsc/_img/memes/learn_is_swim.jpg" alt="If to learn is to swim against the current ..." /><picture>
     </td><td width="50%">
      <a href="README+/software/ArcDeco"><b>SOFTWARE</b></a><br/>
-     &nbsp;&nbsp;<a href="README+/software/design/names">Names</a>
+     <div>&nbsp;<a href="README+/software/design/"><b>Design</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i></div>
+     &nbsp;&nbsp;&nbsp;<a href="README+/software/design/names">Names</a>
      ⚙️
       <a href="README+/software/design/drive/">Drives</a>
      ➰
      <a href="README+/software/design/samples">Samples</a><br/>
-     <div dir="rtl"><a href="README+/software/design/">DESIGN</a>&thinsp;➕↘️</div>
-      &nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
+     <div>&nbsp;<a href="README+/software/QA/"><b>QA</b></a>&thinsp;↘️</div>
+      &nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
     ➿
      <a href="README+/software/QA/README+/tests-pitfalls.md">Tests pitfalls</a>
-      <div dir="rtl"><a href="README+/software/QA/"><b><i>all QA notes</i></b></a>&thinsp;↘️</div>
-     <p>&nbsp;&nbsp;
-     <a href="README+/software/docu">Documentation</a>
+     <p>&nbsp;<a href="README+/software/docu"><b>Documentation</b></a>
      ➿
-     <a href="README+/software/mngmnt">Organization</a>
+     <a href="README+/software/mngmnt"><b>Organization</b></a>
      </p>
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       🥱<a href="README+/pencraft/README+/essays/README.md">essays</a> 🪝<a href="README+/pencraft/README+/memes">memes</a> 🥨<a href="README+/pencraft/README+/quotes/README.md">quotes</a>
