@@ -40,17 +40,16 @@ Both can't rely solely on generations of experience and a single mastermind but 
 
 Buildings are static, conservative, and traditional &mdash; software is fluid, experimental, and with no place for neoclassicism. 
 
-Constructions are embossed with materials and locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks, storage, servers, communication protocols, ...) and imports.
+Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks, storage, servers, communication protocols, ...) and imports.
 
 Software is the most automated production where copying, scaling, installation, and updates are clickable. Decades, min for wood cabins, set records in mainframe software, which won't recur (till interstellar flights).
 
 Software development gives freedom of full-scale _trial and **error**_ unthinkable in other production. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (utilities). On the contrary, drawing plans months ahead of some code is adverse to software.
 
-A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry must be a fantastic creature &mdash; but usual Jack-of-all-trades in software teams.
+A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry ...\
+... must be a fantastic creature &mdash; but a usual Jack-of-all-trades in software teams where construction places are open 24x7 laptop.
 
-Construction places for any work are 24x7 laptop in the software.
-
-Education and activities in construction are very specialized and regulated (also legally). **Ultima ratio**: slang differs.
+Education and construction activities are very narrow and regulated (also legally). **Ultima ratio**: slang differs.
 
 \_______\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>_Arthur Schopenhauer_ (1788-1860), missattributed to _Johann Wolfgang von Goethe_ (1749-1832)</sub>\
@@ -63,11 +62,11 @@ Education and activities in construction are very specialized and regulated (als
 
 *Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise. Contrary to the building DIRECTIVE it <ins>disperses the classical figure of the architect</ins> allowing **everybody** and **efficiently** to zoom IN technological details and zoom OUT to concepts (up to top architecture). 
 
-> This doesn't assume parity. The bigger the team, the bigger the offset of its members to coding or design with or without roles exchanged.
+> This doesn't assume parity. The bigger the team, the bigger the offset of its members to coding or design according to preferences and talents with or without roles exchange.
 
 **But wait ...** Reputable software providers hire/promote architects, who are the central figures at many IT events. There's certification after all.
 
-First and above all, *software architect* sounds cool and distinguishes one from crowds of developers<sup>🙋</sup>, impressing managers, customers, and stakeholders.
+First and above all, *software architect* sounds cool and distinguishes one from crowds of senior developers<sup>🙋</sup>, impressing managers, customers, and stakeholders.
 
 <details><summary><ins>&nbsp;It's often an alias for roles and duties:&nbsp;</inst> ➡️</summary>
 
@@ -81,19 +80,18 @@ First and above all, *software architect* sounds cool and distinguishes one from
  
 </details>
 
-⬅️ Let alone DevOps, as a separate subject of Architecture.
+⬅️ Let alone DevOps, as a separate subject in software.
 
 \___________
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋🙋</sup> <sub>The tops of C#.NET are titled architects or leads but all of them show strong coding skills at presentations.</sub>
 
-
 ## Conclusion
 
-There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bunch of avant practices with strong practical backup. This makes up the architecture &mdash; a synergy of collective and best vision, design, and development.
+There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of avant practices with strong practical backup. This makes up the architecture &mdash; a synergy of collective and best vision, design, and development.
 
-And let's salt all this with a bitter reminder that most projects aren't _Pantheon_ but the routine adaptation of requirements to known and tried solutions with quite a decent design novelty.
+And let's salt all this with a bitter reminder that most projects aren't _Pantheon_ but the routine adaptation of requirements to known and tried solutions with quite a decent input of cutting-edge ideas.
 
 <p dir=rtl><mark>"<b>.Smith will suffice</b>"</mark><br /><i><sup>🎦🔨</sup>Agent Smith</i></p>
 
