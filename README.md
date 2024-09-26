@@ -14,15 +14,16 @@
       &nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
     ➿
      <a href="README+/software/QA/README+/tests-pitfalls.md">Tests pitfalls</a>    
-     <h6>&nbsp;<a href="README+/software/docu"><b>Documentation</b></a>
+     <h4>
+     &nbsp;<a href="README+/software/docu"><b>Documentation</b></a>
      ➿
      <a href="README+/software/mngmnt"><b>Organization</b></a>
-     </h6>
+     </h4>
      <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
       🥱<a href="README+/pencraft/README+/essays/README.md">essays</a> 🪝<a href="README+/pencraft/README+/memes">memes</a> 🥨<a href="README+/pencraft/README+/quotes/README.md">quotes</a>
      </td>
 </tr><tr></tr><tr><td>
-<a href="README+/.net/"><b>C#.NET</b></a><br/>
+<a href="README+/.net/"><b>C#.NET</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
 &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;✖️&nbsp;
 <a href="README+/.net/README+/cs-lacks.md">Lacks</a>&nbsp;➗&nbsp;
   <a href="README+/.net/README+/cs-hints.md"><mark>Hints</mark></a>
