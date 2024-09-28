@@ -4,16 +4,16 @@
       <picture><img src="README+/_rsc/_img/memes/learn_is_swim.jpg" alt="If to learn is to swim against the current ..." /><picture>
     </td><td width="50%">
      <a href="README+/software/ArcDeco"><b>SOFTWARE</b></a><br/>
-     &nbsp;<sup>∑</sup>&nbsp;<a href="README+/software/design/"><b>Design</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i>
+     &nbsp;&nbsp;<a href="README+/software/design/"><b>Design</b></a>&thinsp;<sup>∑</sup>&nbsp;&nbsp;<i>feat.</i>
           <br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/design/names">Names</a>
      ⚙️
       <a href="README+/software/design/drive/">Drives</a>
      ➰
      <a href="README+/software/design/samples">Samples</a><br/>
-     &nbsp;∀&nbsp;<a href="README+/software/QA/"><b>QA</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i>
+     &nbsp;&nbsp;<a href="README+/software/QA/"><b>Quality</b></a>&thinsp;<sup>∑</sup>&nbsp;&nbsp;<i>feat.</i>
           <br />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">of Code</a> 
     ➿
      <a href="README+/software/QA/README+/tests-pitfalls.md">Tests pitfalls</a>    
           <h4>
