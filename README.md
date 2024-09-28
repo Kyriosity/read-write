@@ -1,26 +1,29 @@
-<table>
+<table> 
  <tr valign="top">
     <td width="50%">
       <picture><img src="README+/_rsc/_img/memes/learn_is_swim.jpg" alt="If to learn is to swim against the current ..." /><picture>
     </td><td width="50%">
      <a href="README+/software/ArcDeco"><b>SOFTWARE</b></a><br/>
-     <div>&nbsp;&nbsp;<a href="README+/software/design/"><b>Design</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i></div>
-     &nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/design/names">Names</a>
+     &nbsp;<sup>∑</sup>&nbsp;<a href="README+/software/design/"><b>Design</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i>
+          <br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/design/names">Names</a>
      ⚙️
       <a href="README+/software/design/drive/">Drives</a>
      ➰
      <a href="README+/software/design/samples">Samples</a><br/>
-     <div>&nbsp;&nbsp;<a href="README+/software/QA/"><b>QA</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i></div>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
+     &nbsp;∀&nbsp;<a href="README+/software/QA/"><b>QA</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i>
+          <br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> 
     ➿
      <a href="README+/software/QA/README+/tests-pitfalls.md">Tests pitfalls</a>    
-     <h4>
+          <h4>
      &nbsp;<a href="README+/software/docu"><b>Documentation</b></a>
      ➿
      <a href="README+/software/mngmnt"><b>Organization</b></a>
-     </h4>
-     <a href="README+/pencraft"><b>PENCRAFT</b></a><br/>
-      🥱<a href="README+/pencraft/README+/essays/README.md">essays</a> 🪝<a href="README+/pencraft/README+/memes">memes</a> 🥨<a href="README+/pencraft/README+/quotes/README.md">quotes</a>
+            </h4>
+     <a href="README+/pencraft"><b>PENCRAFT</b></a>
+              <br/>
+      &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md">essays</a> 🪝<a href="README+/pencraft/README+/memes">memes</a> 🥨<a href="README+/pencraft/README+/quotes/README.md">quotes</a>
      </td>
 </tr><tr></tr><tr><td>
 <a href="README+/.net/"><b>C#.NET</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
