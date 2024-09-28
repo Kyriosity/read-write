@@ -39,7 +39,7 @@ Both can't rely solely on generations of experience and a single mastermind but 
  <sup>🐦‍⬛</sup>.[unleashed under the wandering circus tent]</p>
 
 <table><tr valign="top">
-<td width="30%"><picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title="AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture></td>
+<td width="30%"><picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title=" AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture></td>
  <td><p>Buildings are static, conservative, and traditional &mdash; software is fluid, experimental, knowing no nostalgia, and with no place for neoclassicism.</p>
  <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks, storage, servers, communication protocols, ...) and imports.</p>
   <p>Software is the most automated production where copying, scaling, installation, and updates are clickable. Decades, min for wood cabins, set records in mainframe software, which won't recur (till interstellar flights).</p>
@@ -50,13 +50,14 @@ Software development gives freedom of life-sized _trial and **error**_ unthinkab
 
 <table><tr valign="top">
  <td>
-  A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry ...<br />
-... must be a fantastic creature &mdash; but a usual Jack-of-all-trades in software teams where construction places are open 24x7 laptop.
+ <p>A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry ...<br />
+... must be a fantastic creature &mdash; but a usual Jack-of-all-trades in software teams where construction places are open 24x7 laptop.</p>
+  <p>Education and construction activities are very narrow and regulated (also legally).</p>
  </td>
- <td width="30%"><picture><img src=""../../../../_rsc/_img/snap/screen/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" title="Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture></td>
+ <td width="30%"><picture><img src="../../../../_rsc/_img/snap/screen/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" title=" Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture></td>
 </tr></table>
 
-Education and construction activities are very narrow and regulated (also legally). **Ultima ratio**: slang differs.
+**Ultima ratio**: slang differs.
 
 \_______\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>_Arthur Schopenhauer_ (1788-1860), missattributed to _Johann Wolfgang von Goethe_ (1749-1832)</sub>\
