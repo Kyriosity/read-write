@@ -126,7 +126,7 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 <sub>Answer: Homunculus shows the middle finger on the left hand.</sub>
 
-<mark>P.S.</mark> I swear that concocting this collage I was unaware of _Hubert Dreyfus_'s "Alchemy and AI", 1965. 
+<mark><b>P.S.</b></mark> I swear that concocted this collage unaware of [Hubert Dreyfus](../quotes/README+/contributors/README.md#Hubert-Dreyfus) "Alchemy and AI", 1965. 
 
 ---
 
