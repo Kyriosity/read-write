@@ -1,6 +1,6 @@
 > ................. 🚧🐝🚧 ... PEN in PROGRESS ... 🚧🖌️🚧 
 
-# Software &mdash; Quality Assurance
+# Software &mdash; Quality &mdash; Assurance
 
 Development's frivolous, fleeting, and improvising spirit makes software inherently error-prone. Breaking changes are as close as the fingers to the keyboard, you can always roll back and there's always a gap till delivery to production (for last-minute fixes or bug introduction).
 
