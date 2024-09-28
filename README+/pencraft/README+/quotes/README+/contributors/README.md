@@ -138,6 +138,16 @@ _Linus Benedict Torvalds_ (born 1969) 🇫🇮 🇺🇸 Univ. Helsinki
 
 _Theodore von Kármán_ (**1881**-1963)<sup>👽</sup>, outstanding aerospace engineer best known for _Kármán line_
 
+#### Hubert Dreyfus
+
+_Hubert Lederer Dreyfus_ (1929-2017) 🇺🇸, Professor of philosophy at UC Berkeley
+
+He was brave enough to be [critical of AI](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence) in the years it wasn't commercial hype but the research. Known for the books:
+
++ _Alchemy and Artificial Intelligence_, 1965
++ _What Computers Can't Do_, 1972\
+«We're like the man who climbed on a chair and declared he was a little closer to the moon»
+
 #### Dennis Ritchie
 
 _Dennis MacAlistair Ritchie_ (**1941**-2011)<sup title="Turing Award, 1983, with Ken Thompson">🥇</sup> creator of `C` and co-author of UNIX (with Ken Thompson)
