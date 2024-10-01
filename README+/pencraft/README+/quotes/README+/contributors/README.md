@@ -74,7 +74,9 @@ _Gerald Marvin Weinberg_ (**1933** - 2018) 🇺🇸, UMich, IBM, a computer scie
 
 #### Tony Hoare
 
-_C.A.R. Hoare_, _Charles Antony Richard Hoare_ (born **1934**)<sup title="Turing Award, 1980">🥇</sup> a fundamental contributor to programming languages and algorithms
+_C.A.R. Hoare_, _Charles Antony Richard Hoare_ (born **1934**)<sup title="Turing Award, 1980">🥇</sup> a fundamental contributor to programming languages and algorithms.
+
+It was he who coined the famous [Billion Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/) for _NullReference_.
 
 #### Niklaus Wirth
 
