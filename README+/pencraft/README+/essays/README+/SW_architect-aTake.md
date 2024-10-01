@@ -27,7 +27,7 @@ The architecture of both demands creativity and grants enough room for phantasy 
 
 Both take advantage of the flexible plethora of tools, techniques, and skills. Both must accumulate mainstream and alternate practices and reveal patterns.
 
-Lack of proficient abstraction work and planning can make both a mess which products loudly crash. Both can abused for hollow promises and sandcastles.
+Imperfect abstraction work and planning can make both a mess which products loudly crash. Both can abused for hollow promises and sandcastles.
 
 Both can't rely solely on generations of experience and a single mastermind but on a team (with a hierarchy or not) of pundits.
 

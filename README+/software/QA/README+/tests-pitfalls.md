@@ -53,7 +53,7 @@ The overlap means that a text _x_ will never pass if there's a test _y_ that fai
 
 ### Extra-long naming
 
-Results from the URGE to make tests lists to specification and lack of organization.
+Results from the URGE to make tests lists to specification and come short of organization.
 
 `ValidateShouldReturnErrorWhenFirstNameIsNull()`
 
