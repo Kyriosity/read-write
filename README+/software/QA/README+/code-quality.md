@@ -29,11 +29,15 @@ High-quality code has
 
 The highest merit is that even a breaking change won't surprise devs and users with unexpected side effects.
 
+Code optimization (deleting redundancies, merging common logic and data, shortening syntax), which retains readability, is prizewinning: less code - less soil for bugs.
+
+\___________
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup>&nbsp;<sub>e.g. `String.Empty` instead of `""` and some [C# tricks](../../../../README+/.net/README+/cs-hints.md)</sub>
 
 ### Re: Tests 🧪
 
-Test coverage may (and shall) share functionality with [Test-Domain Driven Design](../../design/drive) but is intended to mechanically examine software (no matter implemented before the subject or a posteriori).
+Test coverage may (and shall) share functionality with [Test-Domain Driven Design](../../design/drive) but is intended to mechanically examine software (no matter whether implemented before the subject or a posteriori).
 
 Efficient, ample test coverage allows only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, and performance testing.
 
@@ -44,6 +48,14 @@ _Errare humanum est_, and quality code allows one to focus tests on ...
 * dependencies on imports and external parts.
 
 ... and get more breath to avoid [tests pitfalls](tests-pitfalls.md).
+
+## Afterword
+
+**1)** Coding isn't a self-contained activity but an ingredient of [![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../software/ArcDeco/README.md), where quality is a motive, derivative, and bonus.
+
+**2)** While design sets formworks of code **concrete**, coding [rules and frames](https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames_rules) reinforce it .
+
+**3)** The traits listed above are NOT acceptance criteria, but utmost aims. Even if your team comes close to them the code won't be a book of design revelation — you still owe quality [documentation](../../docu).
 
 ## Moralité
 
@@ -57,15 +69,7 @@ With all that said, why does deficient code prevail and _clean code_ migrate to 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family_man_woman_boy_boy:</sup>&nbsp;<sub>Customers, developers, tester, users and project organizers.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:parachute:</sup>&nbsp;<sub>When its originators may be safely on other projects, leaving the headache to others.</sub>
 
-Add here that not every developer self-reflects on "submit and forget" work, and not every project management will draw a golden section between profanity and academism. 
-
-## Afterword
-
-**1)** Coding isn't a self-contained activity but an ingredient of [![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../software/ArcDeco/README.md), where quality is a motive, derivative, and bonus.
-   
-**2)** The traits listed above are NOT acceptance criteria, but utmost aims. Even if your team comes close to them the code won't be a book of design revelation — you still owe quality [documentation](../../docu).
-
-**3)** Lines of deleted code from previous releases count more than added.
+Top up with the fact that not every developer self-reflects on "submit and forget" work, and not every project management will draw a golden section between profanity and academism. 
 
 ## Appendix (1 of 1). Still mediocre code - why?!
 
@@ -83,4 +87,4 @@ Besides _classical_ over-creativity and procrastination the reasons could be:
 
 Some smart individuals develop great apps alone and are so good at keeping all details and the whole picture in mind that don't need and like to lose time with code organization. However, it's exceptional and not about enterprise development.
 
-🔚 THE END 🌜2024
+🔚 ...🌜2024
