@@ -25,7 +25,7 @@
       <br /><div align="center"><h4>ARCHITECT(URE)</h4></div></a>
     </td>
    <td>
-      <a href="https://github.com/Kyriosity/use-dev/edit/main/README%2B/projects/U-Val/README.md"><img src="../../../_rsc/_img/_nav/tiles/U-Val_200px.jpg" alt="&nbsp;Multifacet value" title="&nbsp;Multifacet values"/>
+      <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/projects/U-Val/README.md"><img src="../../../_rsc/_img/_nav/tiles/U-Val_200px.jpg" alt="&nbsp;Multifacet value" title="&nbsp;Multifacet values"/>
       <br /><div align="center"><h4>MULTIFACET VALUE</h4></div></a>
     </td>
   </tr>
