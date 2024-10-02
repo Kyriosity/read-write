@@ -21,10 +21,16 @@ When possible I refer the source or/and attribute to the author.
 I couldn't trace the authors of certain images/texts. (Archaeologists say that the source of any can be found in cuneiform.) 
 Some memes are too folk (public), or old to be proprietary or copyright-protected.
 
-## Conclusion
+## Tools
 
-If you have questions or demands, feel free to contact me by committing to one of the repositories.
+The tools mostly utilized to stuff the repositories are:
+
++ **Paint.net**, dotPDN LLC®️,
++ **LibreOffice**,
++ Microsoft®️ **Office**,
++ Microsoft®️ **Visual Studio **(Community version),
++ and **GitHub**.
 
 \_______
 
-:end: <sub>Looking forward to hear from you...</sub>
+:end: <sub>If you have questions or demands, feel free to contact me through the Git (e.g. pull request)....</sub>
