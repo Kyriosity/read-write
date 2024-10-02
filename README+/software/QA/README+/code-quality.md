@@ -6,7 +6,12 @@ guru deletes code<br/></p>
 
 # Code - Quality
 
-Code is the **cement** of software. Its quality is imperceptible for spectators and doesn't matter much for booths. Still, it ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions — poor quality, as in buildings, leads to menacing cracks.
+<table><tr valign="top"><td width=30%>
+  <picture><img src="../../../_rsc/_img/photo/misc/pour_concrete.jpg" alt="&nbsp;pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
+</td><td>
+<p>Code is the <b>cement</b> of software. Its quality is imperceptible for spectators and doesn't matter much for booths.</p>
+<p>Still, it ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions — poor quality, as in buildings, leads to menacing cracks.</p>
+</td></tr></table>
 
 ## High-quality code
 
