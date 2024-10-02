@@ -39,8 +39,10 @@ Both can't rely solely on generations of experience and a single mastermind but 
  <sup>🐦‍⬛</sup>.[unleashed under the wandering circus tent]</p>
 
 <table><tr valign="top">
-<td width="30%"><picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title=" AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture></td>
- <td><p>Buildings are static, conservative, and traditional &mdash; software is fluid, experimental, knowing no nostalgia, and with no place for neoclassicism.</p>
+<td width="30%"><picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title=" AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture>
+ <br /><ins>&nbsp;Buiding diagram&nbsp;</ins>
+</td><td>
+ <p>Buildings are static, conservative, and traditional &mdash; software is fluid, experimental, knowing no nostalgia, and with no place for neoclassicism.</p>
  <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks, storage, servers, communication protocols, ...) and imports.</p>
   <p>Software is the most automated production where copying, scaling, installation, and updates are clickable. Decades, min for wood cabins, set records in mainframe software, which won't recur (till interstellar flights).</p>
  </td>
@@ -53,8 +55,11 @@ Software development gives freedom of life-sized _trial and **error**_ unthinkab
  <p>A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry ...<br />
 ... must be a fantastic creature &mdash; but a usual Jack-of-all-trades in software teams where construction places are open 24x7 laptop.</p>
   <p>Education and construction activities are very narrow and regulated (also legally).</p>
+ </td><td width="30%">
+  <picture><img src="../../../../_rsc/_img/snap/screen/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" 
+            title=" Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture>
+  <br /><ins>&nbsp;Software diagram&nbsp;</ins>
  </td>
- <td width="30%"><picture><img src="../../../../_rsc/_img/snap/screen/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" title=" Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture></td>
 </tr></table>
 
 **Ultima ratio**: slang differs.
@@ -74,9 +79,9 @@ Software development gives freedom of life-sized _trial and **error**_ unthinkab
 
 **But wait ...** Reputable software providers hire/promote architects, who are the central figures at many IT events. There's certification after all.
 
-First and above all, *software architect* sounds cool and distinguishes one from crowds of senior developers<sup>🙋</sup>, impressing managers, customers, and stakeholders.
+First and above all, *software architect* sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup>, and impresses managers, customers, and stakeholders.
 
-<details><summary><ins>&nbsp;It's often an alias for roles and duties:&nbsp;</inst> ➡️</summary>
+<details><summary><ins>&nbsp;It's often an alias for known roles and duties:&nbsp;</inst> ➡️</summary>
 
 * _domain expert_ or _business analyst_, who boils down requirements to systematic description,
 * _team lead_ or _project manager_,
