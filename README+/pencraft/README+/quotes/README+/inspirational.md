@@ -4,10 +4,10 @@
 .it saves original thinking</i></mark><br/>
 Dorothy L. Sayers (1893-1957), novelist</p>
 
-## Shelves 
+## Incite...
 
 <details>
-<summary><ins>&nbsp;<b>...to document</b>&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>...to write/document</b>&nbsp;</ins></summary>
 &nbsp;
 
 > **Epistula non erubescit**\
@@ -31,9 +31,7 @@ Dorothy L. Sayers (1893-1957), novelist</p>
 **And so I invented the Monospace.**\
 ― _George Williams_ (*assumed)
 
-> **Gimme that torch, now!**\
-― _Ray Bradbury (1920-2012)_\
-after reading the _Twilight_ novel series (*assumed)
+<p dir="rtl"><b>!Gimme that torch, now</b><br /><i>Ray Bradbury (1920-2012)</i><br />after reading the <i>Twilight</i> novel series (*assumed)</p>
 
 ---
 
@@ -264,4 +262,5 @@ _Andres Freund_, a programmer who occasionally prevented the ["century" cyberatt
 
 </details>
 
+\___________\
 🔚 ... subject of continuous delivery ...
