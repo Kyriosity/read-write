@@ -40,7 +40,7 @@
       <br/>
      <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions"><b>DESIGN DECISIONS</b></a>&nbsp;➡️<code>use-dev</code>
  <br />
-     <b>CODE FRAMES</b>
+     &nbsp;&nbsp;&nbsp;<mark><a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames_rules">Code frames</a></mark>
 </td><td>
       <picture><img src="README+/_rsc/_img/memes/IT_is_waterfall.jpg" alt="... then IT must be a waterfall" /><picture>
      </td>
