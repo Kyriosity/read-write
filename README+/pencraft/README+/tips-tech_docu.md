@@ -6,7 +6,7 @@
 
 Long-running sentences, paragraphs, and chapters are first-degree misdemeanors.
 
-Does such a commonplace deserve a reminder? Yes, it still has to be met everywhere, and it has become poignant in the era of smartphones.
+Does such a commonplace deserve a reminder? Yes, it still has to be met everywhere and became more poignant in the era of smartphones.
 
 ### Emphasizing
 
