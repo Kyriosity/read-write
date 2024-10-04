@@ -1,4 +1,4 @@
-# IT Quotes - Store - Backshelve
+# Quotes - Store - Backshelve
 
 ## Controversial
 
@@ -70,4 +70,16 @@ Sure, an environment may force bad practices but they don't make developers.
 
 [C.A.R. (Tony) Hoare](../contributors/README.md#Tony-Hoare), in interview, 2002
 
+## Bad advice
+
+### Writing/documentation
+
+> **Plot is the last resort of bad writers.**\
+_Stephen Edwin King_
+
+Whether one has read books by Mr. King or not, likes them or not, the indisputable fact is that he remains an incredibly prolific author of bestselling stuff for decades (and a worthy person).
+
+Following this and his other conclusions for authoring is like teaching a kid to ride city byke from downhill champions. 
+
+\___________\
 🔚 but to be continued...
