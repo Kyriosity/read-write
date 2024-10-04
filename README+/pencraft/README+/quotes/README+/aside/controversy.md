@@ -5,7 +5,7 @@
 > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.\
 [Linus Torvalds](../contributors/README.md#Linus-Torvalds)
 
-Master _Torvalds_ could have meant renowned open-source contributors, but most smart guys in IT are for and because of wages and it's not fun in commercial development.
+Master _Torvalds_ could have meant renowned open-source contributors, but most smart guys in IT are for and because of wages and it never was fun in commercial development.
 
 ### Maternity ward
 
@@ -16,13 +16,13 @@ It matched a private aviation engineering talk but [Fred Brooks](../contributors
 
 > The bearing of a child takes nine months, no matter how many women are assigned.
 
-Not only derogatory but illogical. Finding nine women in the vicinity who will deliver ten babies in half a month is just a search. (Finding developers who can save a failing project is a question of payment.) 
+Not only derogatory but illogical. Finding nine women in the vicinity who will deliver even **ten** babies in half a month is an ordinary search. (Finding expert developers who can save a failing project is a question of payment.) 
 
-[Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra) conveyed the idea much more plausible (albeit about languages, 1975):
+[Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra) conveyed the idea much more plausible (albeit about programming languages, 1975):
 
 > It is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with **ten** blunt axes instead.
 
-(To add only that the sharpest axes in clumsy hands may have already destroyed pencils beyond repair.)
+(To add only that the sharpest axes in clumsy hands may have already destroyed all pencils beyond repair.)
 
 ## Bitter words
 
@@ -32,9 +32,9 @@ Not only derogatory but illogical. Finding nine women in the vicinity who will d
 > **If builders built houses the way programmers built programs, the first <mark>woodpecker</mark> to come along would destroy civilization.**\
 Attributed to [Gerald Weinberg](../contributors/README.md#Gerald-Weinberg)
 
-Knowing the high-responsibility software in which Mr.&nbsp;Weinberg participated one would strongly doubt his authorship. Or it was an explicit joke.
+Knowing the high-responsibility software in which Mr.&nbsp;Weinberg participated one would strongly doubt his authorship. Unless it was a sheer joke.
 
-Despite all epic failures, software, on which our life depends, is extremely robust and contrary made the world safer. The aphorism shall better be: "If the software is built like houses, customers will wait decades for change requests."
+Despite all epic failures, software, on which our life depends, is extremely robust and, contrary, made the world safer (civil aviation for example). The aphorism shall better be: "If the software is built like houses, updates will be pending for decades."
 
 ### Languages
  
@@ -50,12 +50,12 @@ Despite all epic failures, software, on which our life depends, is extremely rob
 > <mark><b>C++</b> is a language strongly optimized for liars and people who go by guesswork and ignorance.</mark> 🤦‍♂️\
 _Erik Naggum_, Lisp programmer, 2008 on Usenet
 
-Sure, an environment may force bad practices but they don't make developers.
+Sure, an environment may force bad practices but they don't make developers. Vice versa, limitations can stimulate optimization, abstraction, pattern thinking, and search for unexpected solutions. 
 
 ### Paradigms
  
 > So programming languages on the whole are very much more complicated than they used to be: **object orientation, inheritance,** and other features are still not really being thought through from the point of view of a coherent and scientifically well-based discipline or a theory of correctness.\
-...
+[C.A.R. (Tony) Hoare](../contributors/README.md#Tony-Hoare), in interview, 2002
 
 <details><summary><ins>&nbsp;Full quote...&nbsp;</ins></summary>
  <p>What’s happened is that practical programmers have used whatever understanding they’ve gained, or theoreticians have offered them, to increase complexity.</p>
@@ -68,7 +68,7 @@ Sure, an environment may force bad practices but they don't make developers.
 
 </details>
 
-[C.A.R. (Tony) Hoare](../contributors/README.md#Tony-Hoare), in interview, 2002
+Enough to say that OOP/OOD were mainstream at that time and remain there.
 
 ## Bad advice
 
@@ -82,4 +82,4 @@ Whether one has read books by Mr. King or not, likes them or not, the indisputab
 Following this and his other conclusions for authoring is like teaching a kid to ride city byke from downhill champions. 
 
 \___________\
-🔚 but to be continued...
+🔚 ...but to be continued...
