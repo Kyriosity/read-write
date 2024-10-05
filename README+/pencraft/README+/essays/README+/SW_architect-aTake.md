@@ -23,7 +23,7 @@ ___________<br />
 
 ## Part&nbsp;I. Software vs. Building - much in common...
 
-The architecture of both demands creativity and grants vast playland for phantasy and missteps but must define functional wholes quickly rather than ripen aesthetic values. Projects in both often begin from sketching on white paper or board.
+The architecture of both demands creativity and grants leeway and vast playland for phantasy and missteps, but functional wholes must be defined quickly rather than ripen aesthetic values. Projects in both often begin from sketching on white paper or board.
 
 Both take advantage of the flexible plethora of tools, techniques, and skills. Both must accumulate mainstream and alternate practices and reveal patterns.
 
@@ -55,7 +55,7 @@ Software is the most automated production where copying, scaling, installation, 
 <table><tr valign="top"><td>
  <p>A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry ...<br />
 ... must be a fantastic creature &mdash; but a usual Jack-of-all-trades in software teams where construction places are open 🕙24x7 💻laptop.</p>
-  <p>Building education and  activities are very narrow and regulated (also legally).</p>
+  <p>Building education and  activities are very narrow and regulated (also legally). IT indulges formalities of schooling.</p>
  </td><td width="30%">
   <picture><img src="../../../../_rsc/_img/snap/screen/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" 
             title=" Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture>
@@ -80,8 +80,8 @@ Contrary to the building experience programming <ins>disperses the classical fig
 
 > This assumes neither parity nor full inside of each technology and methodology.&#8287;
 > The bigger the project, the bigger the horizontal and vertical offsets of team members according to skills, talents, and preferences with or without roles exchange.\
-> Vertical: between coding and design.\
-> Horizontal: within technologies stack. 
+> &nbsp;
+> (Vertical: between coding and design. Horizontal: within the technologies stack.) 
 
 <details><summary><ins>&nbsp;"Architect" is often an alias for known roles and duties:&nbsp;</ins> <sup>➡️</sup></summary>
 
@@ -101,9 +101,9 @@ This makes up the software architecture &mdash; a synergy of collective and best
 
 ## But hold on...
 
-Reputable software providers hire/promote architects, who are central figures at many IT events. There's certification after all.
+Reputable software providers hire/promote architects; they are central figures at many IT events. There's certification after all.
 
-Above all, *software architect* sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup>, and impresses managers, customers, and stakeholders.&#8287;
+Above all, *software architect* sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup><sup>👩‍👦‍👦</sup>, and impresses managers, customers, and stakeholders.&#8287;
 Neither "expert", "Chief Programming Officer" nor "dev lord" would match.
 
 > There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of avant practices with strong practical backup. 
@@ -114,9 +114,10 @@ And let's salt all this with a bitter reminder that most projects aren't _Panthe
 
 \___________
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom IN/OUT</mark>" from [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) of thrivingtechnologist.com ....</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom IN/OUT</mark>" from [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) of thrivingtechnologist.com&#8287;
+(who stands out as _architect_ - how ungrateful i am)</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋🙋</sup> <sub>The tops of C#.NET are titled architects or leads but all of them show strong coding skills at presentations.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of C#.NET in Microsoft are titled _architects_ or _leads_ but all of them show strong coding skills at presentations.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes guaranteed by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu)</sub>
 
 
