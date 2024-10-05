@@ -2,17 +2,22 @@
 
 # Driving Tests &mdash; Big Watershed
 
-I was bicycling to hear a casual lecture on __TD<mark>D</mark>__ and the doubt crept in &mdash; where am I going: 
+<span><img alt="&nbsp;arrows fork: left-right" src="../../../../_rsc/_img/signs/arrows_fork-bw_100px.jpg" /></span>    
+  <span>I was bicycling to hear a casual lecture on <b>TD<mark>D</mark></b> and the doubt crept in &mdash; where am I going: </span>
+  
+    Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓&nbsp;&nbsp;(It wasn't about the lecture, but the principal divergence.)<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;<sub>For the record: the lecture regarded <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup>🔗</sup> as you night have already pointed</sub></span>
 
 <table><tr valign="top"><td>
-<picture><img height="50px" alt="&nbsp;arrows fork: left-right" src="../../../../_rsc/_img/signs/arrows_fork-bw_100px.jpg" /></picture>    
-  </td><td>
-     <b>"</b>Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓<b>"</b>&nbsp;&nbsp;It wasn't about the lecture, but the principal divergence.<br />
-    &nbsp;&nbsp;&nbsp;&nbsp;<sub>For the record: the lecture regarded <a href="https://en.wikipedia.org/wiki/Test-driven_development<sup>🔗</sup>">Test Driven <b>Development</b></a> as you night have already expected.</sub>
+<picture><img alt="&nbsp;arrows fork: left-right" src="../../../../_rsc/_img/signs/arrows_fork-bw_100px.jpg" /></picture>    
+  </td><td><p>I was bicycling to hear a casual lecture on <b>TD<mark>D</mark></b> and the doubt crept in &mdash; where am I going: </p>
+    Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓&nbsp;&nbsp;(It wasn't about the lecture, but the principal divergence.)<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;<sub>For the record: the lecture regarded <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup>🔗</sup> as you night have already pointed</sub>
 </td></tr></table>
 
-Worried I retrospected popular TDD tutorials and revealed that the shadow of doubt was from the ridge dividing _dev_ and _design_. 
-What's did matter worse (I had to rewrite much of my stuff) - it was one on the landscape among others mountain chaings with the peaks named "domain", "design", "drives", and "tests". I've exploited this theme in DRIVES but here I'd like to share the thought...
+Pretty worried I retrospected popular TDD tutorials and revealed that the shadow of doubt was from the ridge dividing _dev_ and _design_. While dev was mainstream understanding - some even didn't bother much and used both terms interchangeable.
+
+What did matters worse (I had to rewrite much of my stuff) - it was one on the landscape among others mountain chains with the peaks named "domain", "design", "drives", and "tests". I've exploited this theme in DRIVES but here I'd like to share the thought...
 
 DRIVE LINKE
 
@@ -30,12 +35,7 @@ Alan Perlis
 
 COVERAGE DRIVEN TESTS and DESIGN DRIVEN TESTS
 
-Design Driven Development
-
-
-<samp>be everybody</samp>
-
-                   R I D G E
+<samp>Design Driven Development</samp>
 
 TDD-DZN Δ
 TDDx T⚙️D **T**⚙️**D**
