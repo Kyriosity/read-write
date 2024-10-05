@@ -21,15 +21,15 @@ The following guidelines help to avoid the trap:
 
 ### TDD tribute
 
-Test Driven **Development** and **Design**, as I [divide them](../../../pencraft/README+/essays/README+/Tests-Big_Watershed.md), can create procedures that can be ported to coverage.
+Procedures _Test Driven Development_ can serve in coverage - not practices.
 
-<table><tr></tr><tr align="center"><td>⚙️&thinsp;<b>TDD</b></td><td>Proof coverage</td>
+<table><tr></tr><tr align="center"><td width="30%">⚙️&thinsp;<b>TDD</b></td><td>Proof coverage</td>
   </tr><tr valign="top"><td>
   <p>🔴&thinsp;Red</p>
   <p>🟢&thinsp;Green</p>
   <p>🟡&thinsp;Refactor</p>
 </td><td>
-  You shoud 
+  Write something, make it pass, and improve is the antipattern for coverage. Critical parts of the code must be thoroughly covered with both positive and negative ("inverted") asserts.
 </td></tr></table>
 
 ### One-to-one with DRIVER (not DATA)
