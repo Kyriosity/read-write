@@ -6,9 +6,7 @@ Dorothy L. Sayers (1893-1957), novelist</p>
 
 ## Incite...
 
-<details>
-<summary><ins>&nbsp;<b>...to write/document</b>&nbsp;</ins></summary>
-&nbsp;
+<details><summary><ins>&nbsp;<b>...to write/document</b>&nbsp;</ins></summary>&nbsp;
 
 > **Epistula non erubescit**\
 ― _Marcus Tullius Cicero (106-43 BC)_\
@@ -37,9 +35,7 @@ Dorothy L. Sayers (1893-1957), novelist</p>
 
 </details>
 
-<details>
-<summary><ins>&nbsp;<b>...to procrastinate</b>&nbsp;</ins></summary>
-&nbsp;
+<details><summary><ins>&nbsp;<b>...to procrastinate</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;Leonardo da Vinci (1452-1519)" src="../../../../_rsc/_img/art/OldMasters/Leo(1452-1519)-portrait-found_2008_nearNaples.jpg" /></picture><br />
@@ -61,7 +57,6 @@ Letter to her brother (1894)
 
 <sup>PL</sup> <sub>Original: "Człowiek nigdy nie ogląda się na to, co zrobione, ale na to patrzy, co ma przed sobą do zrobienia."</sub>
 
-
 #### Add to calendar
 
 _Procrastinators' Club of America_ (with international membership) established [Be Late for Something Day](https://nationaltoday.com/national-be-late-for-something-day/) on **5h&nbsp;September**. As an honest sympathizer, I appended this reminder a day later&mdash;**September&nbsp;6th**, 2024 which surprisingly is [Fight Procrastination Day](https://www.daysoftheyear.com/days/fight-procrastination-day).
@@ -72,9 +67,7 @@ Comming next&mdash;[National Procrastination Week](https://en.wikipedia.org/wiki
 
 </details>
 
-<details>
-<summary><ins>&nbsp;<b>...for perfectionism</b>&nbsp;</ins></summary>
-&nbsp;
+<details><summary><ins>&nbsp;<b>...for perfectionism</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;Collage: best works of modern perfectionism" src="../../../../_rsc/_img/memes/collage-modern_perfectionism.jpg" /></picture><br />
@@ -112,9 +105,7 @@ Not only the East grant us profound and eloquent teaching! Whatever Mr. Kipling*
 ---
 </details>
 
-<details>
-<summary><ins>&nbsp;<b>...to take a break</b>&nbsp;</ins></summary>
-&nbsp;
+<details><summary><ins>&nbsp;<b>...to take a break</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img src="../../../../_rsc/_img/photo/misc/Twitter-FTX_SamFried.jpg" alt="&nbsp;nap in FTX office" /></picture><br />
@@ -148,9 +139,7 @@ To name a few of the officially recognized:
 
 </details>
 
-<details>
-<summary><ins>&nbsp;<b>...to acquit not doing/learning</b>&nbsp;</ins></summary>
-&nbsp;
+<details><summary><ins>&nbsp;<b>...to acquit not doing/learning</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;Luca Giordano: The dream of Solomon" src="../../../../_rsc/_img/art/OldMasters/LucaGiordano-TheDreamOfSolomon-w555px.jpg" /></picture><br />
@@ -204,9 +193,7 @@ _Earliest humans_ (ca. 300`000 ago)
 
 </details>
 
-<details>
-<summary><ins>&nbsp;<b>...to interpret errors right...</b>&nbsp;</ins></summary>
-&nbsp;
+<details><summary><ins>&nbsp;<b>...to interpret errors right...</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;BSoD on Win98 presentation" src="../../../../_rsc/_img/photo/misc/1998.Win98-BSoD_w_BGates.jpg" 
@@ -221,6 +208,13 @@ attributed to Louis XV (1710-1774)
 
 The motto under which some (rare) fix-budget outsourced projects are delivered.
 
+#### Medieval
+
+> Not he is unmannered who falls beneath the table\
+but one who notices this.
+
+The rule of medieval feasts and merciful testers
+
 #### Moralité 
 
 "Errare humanum est, perseverare autem diabolicum." 
@@ -231,12 +225,11 @@ _Alexander Pope_, poet (1688-1744)
 ---
 </details>
 
-<details>
-<summary><ins>&nbsp;<b>...but to debug</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>...but to debug</b>&nbsp;</ins></summary>
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="&nbsp;Teleevanglist: If there's no more room in stack, the bugs will walk the Earth..." 
+<br /><picture><img alt="&nbsp; Teleevanglist: If there's no more room in stack, the bugs will walk the Earth..." 
                 src="../../../../_rsc/_img/memes/misquote-no_more_stack.jpg" title=" Stack is overflowing..." /></picture><br />
 <mark><b>...Ken Foree fandom</b></mark>
 
@@ -245,6 +238,8 @@ _Alexander Pope_, poet (1688-1744)
 > **Never allow the same bug to bite you twice.**\
 _Steve Maguire_, programmer and author
 
+#### Recent
+
 > **I find it very odd. I’m a fairly private person who just sits in front of the computer and hacks on code.**\
 _Andres Freund_, a programmer who occasionally prevented the ["century" cyberattack](https://en.wikipedia.org/wiki/XZ_Utils_backdoor), in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html">NYT inteview</a>, 2024.
 
@@ -252,9 +247,7 @@ _Andres Freund_, a programmer who occasionally prevented the ["century" cyberatt
 
 </details>
 
-<details>
-<summary><ins>&nbsp;<b>🚧...COMING NEXT...🚧</b>&nbsp;</ins></summary>
-&nbsp;
+<details><summary><ins>&nbsp;<b>🚧...COMING NEXT...🚧</b>&nbsp;</ins></summary>&nbsp;
 
 + To find the right flattering words
 
