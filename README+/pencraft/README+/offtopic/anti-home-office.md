@@ -17,7 +17,11 @@ All the photos here were staged when contributing to repositories.
 
 <span><img alt="&nbsp;&nbsp;&nbsp;image not foundt" src="../../../_rsc/_img/photo/blog/Brombachsee-eBucht-pier.jpg" width="300" title="&nbsp;Brombachsee, Mittelfranken, Germany" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/Ochsenkopf_July.jpg" width="300" title="&nbsp;Slopes of Mt. Ochsenopf, Fichtelgebirge, 1'024m" /></span>
-<span><img alt="&nbsp;&nbsp;&nbspimage not found" src="../../../_rsc/_img/photo/blog/Sea_balcony.jpg" width="300" title="&nbsp;Vlore, Albania" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/Sea_balcony.jpg" width="300" title="&nbsp;Vlore, Albania" /></span>
+
+## Public spaces
+
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/Nue_Lib.jpg" width="300" title="&nbsp;Stadt Bibliothek, reading hall" /></span>
 
 \___________\
 🔚 ... to be continued ...
