@@ -32,12 +32,26 @@ In the decade of LLM-generated content criteria for the good word and syllable a
 
 Thesis + Struct + Phrases
 
+## Tips
+
+Internet swarms with advice, hints, and guidelines for writing - useful, practical - but which you could formulate yourself. 
+
+May I add up a few? In case when you stagnate in writing.
+
+### Lectures/Courses
+
+Wake up your imagination, and enrich your lexicon.
+
+### Library
+
+LINK to BLOG
+
 ## Pitfalls
 
 The worst enemies of authorship are:
 
+- flood wordiness/big volumes,
 - formalism/monotony,
-- wordiness/big volumes,
 - no critique/indifference.
 - 🚧🚧🚧🚧🚧🚧🚧 
 
