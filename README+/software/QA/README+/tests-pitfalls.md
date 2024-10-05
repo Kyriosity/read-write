@@ -4,10 +4,6 @@
 
 <p dir=rtl>Testers hate it when<br />.developers know these catches<br/>(Clickbait🪝)</p>
 
-> NOTE: Tests are also subject to development/design [drive](../../design/drive).
-
-[![Powered by quotes](https://img.shields.io/badge/Powered-by_quotes-white?style=flat&labelColor=3A3B3C&color=green)](../../../pencraft/README+/quotes/README+/cornerstones.md)
-
 ## Conceptual
 
 ### Tests of tests
@@ -16,14 +12,25 @@ Writing tests of test frameworks may put one into the infernal loop while runnin
 
 ### Falsely green tests
 
-The worst case of malfunctioning tests is a passing one that indeed shields a fail. And the worst is when such fail/pass is sporadic and arduous to reproduce - imagine a crossroad with the random switch of green lights.
+The worst case of malfunctioning tests is a passing one that indeed shields a fail. And the worst of the worst is when such fail-pass is sporadic and arduous to reproduce - imagine a crossroad with the random switch of green lights.
 
 The following guidelines help to avoid the trap:
 
-+ Periodically "test" your test to show the red sign (not at the beginning only).
++ Periodically break and then check vital tests to show the red sign.
 + Add counterpart test with the opposite result (e.g. that shall throw exceptions)
 
-### Red first illusion
+### TDD tribute
+
+Test Driven **Development** and **Design**, as I [divide them](../../../pencraft/README+/essays/README+/Tests-Big_Watershed.md), can create procedures that can be ported to coverage.
+
+<table><tr></tr><tr align="center"><td>⚙️&thinsp;<b>TDD</b></td><td>Proof coverage</td>
+  </tr><tr valign="top"><td>
+  <p>🔴&thinsp;Red</p>
+  <p>🟢&thinsp;Green</p>
+  <p>🟡&thinsp;Refactor</p>
+</td><td>
+  You shoud 
+</td></tr></table>
 
 ### One-to-one with DRIVER (not DATA)
 
@@ -49,7 +56,6 @@ Rules of a project may dictate 100% unit test coverage (at least one for an acce
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:large_orange_diamond:</sup>&nbsp;<sub>Please do not take verbatim. Such tests may be justified for floating-point checks.</sub>
 
 The overlap means that a text _x_ will never pass if there's a test _y_ that fails. 
-
 
 ### Extra-long naming
 
