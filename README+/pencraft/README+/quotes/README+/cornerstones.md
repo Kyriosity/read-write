@@ -1,6 +1,6 @@
 # IT - Quotes - Cornerstones
 
-* Quotes and epigraphs can be annoying, their hackneyed selections migrate between resources &mdash; only worthy ones are cherry-picked here to provoke deeper IT thinking. 
+* Quotes and epigraphs can be annoying, their hackneyed selections migrate between resources &mdash; but only worthy ones are cherry-picked here to provoke deeper IT thinking. 
 * Looking for quotes gets arduous - not every expert spoke/wrote/thought in them and maintained their list, and not every best is in _wikiquote_.
 
 [![#SimpleVsComplex](https://img.shields.io/badge/%23-Simple⚔️Complex-2962FF)](#) [![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software/ArcDeco/README.md)
@@ -11,7 +11,7 @@
           <a href="contributors/README.md#Donald-Knuth"><b>Donald Knuth</b></a>
     </td>
     <td width="33%">
-      <b>KISS</b>: Keep it short and simple.<br /><p><i>Minnesota Star Tribune</i>, 1938</p>
+      <b>KISS</b>: Keep it short and simple.<br /><p><i>Minnesota Star Tribune</i>, <b>1938</b></p>
      <mark>Simplicity</mark> does not precede complexity but follows it.<br />
            <a href="contributors/README.md#Alan-Perlis"><b>Alan Perlis</b></a>
     </td>
@@ -28,7 +28,7 @@
     </td>
    <td width="34%">
       The art of programming is the art of organizing <mark>complexity</mark>, of mastering multitude and avoiding its bastard chaos as effectively as possible.<br />
-      <a href="contributors/README.md#Edsger-W-Dijkstra"><b>Edsger W. Dijkstra</b></a>, 1970
+      <a href="contributors/README.md#Edsger-W-Dijkstra"><b>Edsger W. Dijkstra</b></a>, <b><i>1970</i></b>
     </td> 
   </tr>
   <tr valign="top">
@@ -56,7 +56,7 @@
     </td>
     <td>
       When I read commentary about suggestions for where <b></b><tt>C</tt></b> should go, I often think back and give thanks that it wasn`t developed under the advice of a worldwide crowd.<br />
-                <a href="contributors/README.md#Dennis-Ritchie"><b>Dennis Ritchie</b></a>
+      <a href="contributors/README.md#Dennis-Ritchie"><b>Dennis Ritchie</b></a>
     </td>
   </tr> 
   <tr valign="top">
@@ -70,19 +70,16 @@
     </td>
     <td>
       When you feel the need to write a <mark>comment</mark>, first try to refactor the code so that any comment becomes superfluous.<br />
-      <a href="contributors/README.md#Kent-Beck"><b>Kent Beck</b></a>, "Refactoring", 1999
+      <a href="contributors/README.md#Kent-Beck"><b>Kent Beck</b></a>, "Refactoring", <b><i>1999</i></b>
     </td>
   </tr>
   <tr valign="top">
-     <td>
-      <mark>Testing</mark> shows the presence not the absence of bugs.<br /><a href="contributors/README.md#Edsger-W-Dijkstra"><b>Edsger W. Dijkstra</b></a>, 1969<br />(documented while the saying appeared before)
-    </td>
     <td>
-      The key is to <b><mark>test</mark> the areas that you are most worried about going wrong</b>. 
-      <details><summary><ins>That way you...</ins></summary>
-      ...get the most benefit for your testing effort.<br />It is better to write and run incomplete tests than not to run complete tests.
-      </details>
-          <a href="contributors/README.md#Kent-Beck"><b>Kent Beck</b></a>, "Refactoring", 1999
+      A software system can best be designed if the <mark>testing</mark> is interlaced with the designing instead of being used after the design.<br />
+      <a href="contributors/README.md#Alan-Perlis"><b>Alan Perlis</b></a>, <b><i>1968</i></b>
+    </td>
+     <td>
+      <mark>Testing</mark> shows the presence not the absence of bugs.<br /><a href="contributors/README.md#Edsger-W-Dijkstra"><b>Edsger W. Dijkstra</b></a>, <b><i>1969</i></b><br />(documented while the saying appeared before)
     </td>
     <td>
       Given enough eyeballs, all <mark>bugs</mark> are shallow.<br /><a href="https://en.wikipedia.org/wiki/Linus%27s_law">Linus's law</a>
@@ -90,7 +87,8 @@
   </tr>
   <tr valign="top">
     <td>
-      A man provided with paper, pencil, and rubber, and subject to strict <span title="no internet"><ins>discipline</ins></span>, is in effect a universal machine.<br /><a href="contributors/README.md#Alan-Turing"><b>Alan Turing</b></a>, 1948
+      A man provided with paper, pencil, and rubber, and subject to strict <span title="no internet"><ins>discipline</ins></span>, is in effect a universal machine.<br />
+      <a href="contributors/README.md#Alan-Turing"><b>Alan Turing</b></a>, <b><i>1948</i></b>
     </td>
     <td>
       <b>Humans are allergic to change</b>. They love to say, "We've always done it this way."<br />I try to fight that. That's why I have a clock on my wall that runs counterclockwise.<br />
