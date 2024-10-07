@@ -3,6 +3,12 @@
 
 # Quotes for IT - DRAFT
 
+ The key is to <b><mark>test</mark> the areas that you are most worried about going wrong</b>. 
+      <details><summary><ins>That way you...</ins></summary>
+      ...get the most benefit for your testing effort.<br />It is better to write and run incomplete tests than not to run complete tests.
+      </details>
+          <a href="contributors/README.md#Kent-Beck"><b>Kent Beck</b></a>, "Refactoring", 1999
+
 ## Cornerstones
 
 <details>
