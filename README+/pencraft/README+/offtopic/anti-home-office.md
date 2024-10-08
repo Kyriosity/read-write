@@ -20,9 +20,9 @@ All the photos here were staged when contributing to repositories.
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/mount/Ochsenkopf_July.jpg" width="300" title="&nbsp;Slopes of Mt. Ochsenopf, Fichtelgebirge, 1'024m" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Sea_balcony.jpg" width="300" title="&nbsp;Vlore, Albania" /></span>
 
-## Public spaces
+## Public spots
 
-<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Nue_Lib.jpg" width="300" title="&nbsp;Stadt Bibliothek, reading hall" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/StadtBiblio.jpg" width="300" title="&nbsp;Stadt Bibliothek, reading hall" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Karaburun.jpg" width="300" title="&nbsp;Ionic" /></span>
 
 \___________\
