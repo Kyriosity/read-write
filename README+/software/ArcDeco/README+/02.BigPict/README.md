@@ -4,45 +4,43 @@
 
 # The Big Picture
 
-Big thoughts &mdash; big pictures. Whatever &mdash; shallow, angled, or blurred.<sup>🙋</sup>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>It may come out commonplace, a plane section, angled or blurred, or even childish but it will beat explanation prose and ensure you with an eagle view.</sub>
+<table><tr valign="top"><td width="45%">
+    <p><b>Big thoughts</b> &mdash; <b>big pictures</b>. Shallow, childish, or blurred, plane section or angled, they are better than naked prose and give readers eagle view.</p>
+    <p>Let's begin with contours, intentionally left without annotations to defy your 3D imagination.</p>
+    <p>Before we go further, nice if you guess or imagine the forces and factors (they can not and won't match those, as explained below).</p>
+</td><td>
+    <picture><img alt="&nbsp;image not found: ArcDeco-BigPict-basic.jpg" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-basic.jpg" 
+    title="&nbsp;Unannotated forces in multiple dimensions"/></picture>
+</td></tr></table>
 
-Let's begin with contours, intentionally left without annotations to defy your 3D imagination. 
+<details><summary><h2><ins>&nbsp;Forces named&nbsp;</ins></h2></summary>
 
-<picture><img alt="Arc Deco - Big Picture - outline" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-outline.jpg" 
-    title="Unannotated forces in multiple dimensions"/></picture>
-
-It would be nice if you guess or imagine the forces and factors (they ought not to match those, as explained below).
-
-## Forces and factors
-
-The <mark>"tearing X and Y axes"</mark> in the intro were a two-dimension simplification for a figure of speech.
-
-<details>
-  <summary>🖼️<b><ins>&nbsp;Forces annotated&nbsp;</ins></b></summary
-<picture><br/><img alt="Arc Deco - Forces annotated" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-forces_annotated.jpg" /></picture>
-
-</details>
-
-### GLOSSARY
-
-🚧 ... coming soon ... 🚧
-
-## External factors (agents)
-
-<details>
-  <summary>🖼️<b><ins>&nbsp;Agents annotated&nbsp;</ins></b></summary
-<br /><picture><img alt="Arc Deco - External factors - annotated" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-agents_annotated.jpg" /></picture>
+<table><tr valign="top"><td width="55%">
+<picture><img alt="&nbsp;image not found: ArcDeco-BigPict-forces_annotated.jpg" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-forces_annotated.jpg" /></picture>
+</td><td>
+      <p>The «<b>tearing X and Y axes</b>» in the intro were a two-dimension simplification for a figure of speech.</p>
+    <p>What seems first monolyth will be stretched and squeezed.</p>
+</td></tr></table>
 
 </details>
 
-### LEGEND
+<details><summary><h2><ins>&nbsp;Factors exposed&nbsp;</ins></h2></summary>
+<table><tr valign="top"><td width="45%">
+    <p>Software isn't raised in vacuum and there're agents/external forces:</p>
+<p>👯&thinsp;<b>Users</b> - whose wishes you ask direct or get through requirements</p>
+<p>🧑‍💼&thinsp;<a href="../../../mngmnt"><b>Management</b></a> &mdash; who shall facilitate and orchestrate the workflow</p>
+<p>🧪&thinsp;<a href="../../../QA" title="&nbsp;read-write: QA"><b>Quality Assurance</b></a> &mdash; tests</p>
+<p>♾️&thinsp;<b>DevOps</b> &mdash; which must seamleassly deliver end products.</p> 
+<br /><br />
+    <p>Even if you're a single person on the project you may take all these roles.</p>
+</td><td width="55%">
+    <picture><img alt="&nbsp;image not found: ArcDeco-BigPict-agents_annotated.jpg" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-agents_annotated.jpg" /></picture>
+</td></tr></table>
+</details>
 
-🚧 ... coming soon ... 🚧
+## Image background
 
-## Background
-
-<div title="Just imagine them behind the objects.">To avoid image overloading, the background wasn't laid - the sheets of resulting code with data and documentation.</div>
+<p title="&nbsp;Just imagine them behind the objects.">To avoid image overloading, the background wasn't laid - <ins>the sheets of resulting code with data and documentation</ins>.</p>
 
 ## What's next
 
