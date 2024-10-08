@@ -1,35 +1,36 @@
 # Test Drive &mdash; Big Watershed
 
 <table><tr valign="top"><td>
-<picture><img width="200px" alt="&nbsp;Y-fork: yellow" src="../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="Courtesy of www.cleanpng.com" /></picture>    
+<picture><img width="150px" alt="&nbsp;Y-fork: yellow" src="../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="Courtesy of www.cleanpng.com" /></picture>    
   </td><td><p>I was bicycling to hear a casual lecture on <b>TD<mark>D</mark></b> and the doubt crept in &mdash; where am I going: </p>
-    &nbsp;&nbsp;&nbsp;Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓
-<br /><br />
-It wasn't about the lecture, but the principal divergence. (For the record: the lecture regarded <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven Development</a><sup>🔗</sup> as you might have pointed.)
+    <p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
+It wasn't about the lecture, but the principal divergence.<br />
+(For the record: the lecture regarded <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven Development</a><sup>🔗</sup> as you might pointed.)
 </td></tr></table>
 
-Pretty worried I searched by "<mark>TDD</mark>" and retrospected popular writings and lectures found. They focused on development with desing as by-product. Nobody bothered much, and some even used both terms interchangeably.
+Pretty worried I searched by "<mark>TDD</mark>" and retrospected fairly many tutorials and lectures found.<sup>🙋</sup> They focused on development with desing as a natural derivative, not much bothering about distinction and some even exploited both terms interchangeably.\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being eneretic at my search I couldn't go through the best part of treatises. There must be the same findings, put better, and could be better alternating visions.</sub>
 
-> A software system can best be designed if the testing is interlaced with the designing instead of being used after the design.\
-Alan Perlis, 1968
+What was fine and captivative for presentations, bootcamps and `classes` didn't work for me quite on features, imaginary or composed before. This shadow of doubt was from the ridge, dividing syntax and implementation behind it. 
 
-What did matters worse (I had to rewrite much of my stuff) - it was one on the landscape among others mountain chains with the peaks named "domain", "design", "drives", and "tests". I've exploited this theme in DRIVES but here I'd like to share the thought...
+What made matters worse, revealing that this ridge is among others on the design topology compelled me to rewrite painfully much stuff, starting from ⚙️[drives](../../../../software/design/drive). 
+**But** let's not get sidetracked for now and scheme this watershed.
 
-DRIVE LINKE
+HIT IDEA 
+WHAT INTERCEPT's DOES NOT OVERLAP. WHAT COOPERATES do not DEPENDs
 
-But let's not get sidetracked for now, and scheme this watershed.
-
+<table><tr valign="top"><td>
+Could I explain my shismatic take.
+</td><td width="*">
 <picture><img src="../../../../_rsc/_img/illus/TDD_watershed.jpg" alt="&nbsp;&nbsp;Test watershed illustration as nature" /></picture>
-
-MAY INTERCEPT BUT DIVERT !
-
+</td></tr></table>
 
 <samp>Design Driven Development</samp>
 
+## T⚙️D<sup>eV</sup> vs T⚙️D<sup>eS</sup>
+
 TDD-DZN Δ
-TDDx T⚙️D **T**⚙️**D**
-
-
+TDDx  **T**⚙️**D**
 
 <details><summary><b><ins>&nbsp;Redo/Undo as illustration&nbsp;</ins></b></summary>
 
