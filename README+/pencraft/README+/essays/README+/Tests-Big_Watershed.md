@@ -8,10 +8,10 @@ It wasn't about the lecture, but the principal divergence.<br />
 (For the record: the lecture regarded <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven Development</a><sup>🔗</sup> as you might pointed.)
 </td></tr></table>
 
-Pretty worried I searched by "<mark>TDD</mark>" and retrospected fairly many tutorials and lectures found.<sup>🙋</sup> They focused on development with desing as a natural derivative, not much bothering about distinction and some even exploited both terms interchangeably.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being eneretic at my search I couldn't go through the best part of treatises. There must be the same findings, put better, and could be better alternating visions.</sub>
+Pretty worried I looked up with "<mark>TDD</mark>" and retrospected fairly many tutorials and lectures found.<sup>🙋</sup> They focused on development with design as a natural derivative, not much bothering about distinction and some even exploited both terms interchangeably.\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in my search I couldn't go through the best part of treatises. There must be the same findings, but better, and could be better alternating visions.</sub>
 
-What was fine and captivative for presentations, bootcamps and `classes` didn't work for me quite on features, imaginary or composed before. This shadow of doubt was from the ridge, dividing syntax and implementation behind it. 
+What was fine and captivating for presentations, bootcamps, and `classes` didn't work for me quite on features, imaginary or composed before. This shadow of doubt<sup>⬆️</sup> was from the ridge, dividing syntax and implementation behind it. 
 
 What made matters worse, revealing that this ridge is among others on the design topology compelled me to rewrite painfully much stuff, starting from ⚙️[drives](../../../../software/design/drive). 
 **But** let's not get sidetracked for now and scheme this watershed.
