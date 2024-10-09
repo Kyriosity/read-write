@@ -1,6 +1,6 @@
 # C# - from praxis - Hints
 
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-Keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white&color=lightsalmon)](#)
 
 ## Syntactic reminder
 
@@ -246,8 +246,8 @@ enum FundamentalStatesOfMatter
 
 ### Further
 
-|- [**Techniques**](cs-techniques.md)\
-|- [Design decisions](https://github.com/Kyriosity/use-dev/tree/main/README+/decisions)➡️(_use-dev_)\
+|- [**Design decisions**](https://github.com/Kyriosity/use-dev/tree/main/README+/decisions)➡️(_use-dev_)\
+|--- [Rules and frames](https://github.com/Kyriosity/use-dev/tree/main/README+/frames_rules)\
 |- Sybsystems/frameworks\
 |--- **WPF**\
 |----- [WPF hints](wpf/README+/wpf-hints.md)
