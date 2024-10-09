@@ -10,7 +10,8 @@ However, staying fit with C# is reasonable and feasible. Releases of .NET are cu
 
 Devoted bloggers and speakers<sup>👨‍👩‍👧‍👦</sup> are greatly at separating the wheat from the chaff, and IDEs hint at new features.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I won't recommend any since this must be a personal experience, selection of the active and a matter of taste. Except for the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🔗</sup>.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I don't recommend any since this must be a personal experience, selection of the active and a matter of taste. Except for the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🔗</sup>.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>**Advice:** Limit review ardor to [officially released features](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/)<sup>🔗</sup>. Many nice others are delayed from release to release (let alone those experimental).</sub>
 
 ### C#13.NET9 (2024)
 
@@ -32,7 +33,7 @@ The following "old" practical syntax and features remain unused in enough progra
 
 ##### `switch` beyond `else if`
 
-With pattern matching, tuples and `=>` replacing `break` the good old statement got the second life.
+With pattern matching, tuples, and `=>` replacing `break` the good old statement got the second life.
 
 ## Structures
 
