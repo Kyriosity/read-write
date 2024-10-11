@@ -21,7 +21,9 @@ ___________<br />
 <sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the Pyramids suggest (but Stonehenge refutes).</sub>
  </td></tr></table>
 
-## Part&nbsp;I. Software vs. Building - much in common...
+## Part&nbsp;I. Software vs. Building 
+
+### much in common...
 
 The architecture of both demands creativity and grants leeway and vast playland for phantasy and missteps, but functional wholes must be defined quickly rather than ripen aesthetic values. Projects in both often begin from sketching on white paper or board.
 
@@ -53,7 +55,7 @@ Software development gives freedom of life-sized _trial and **error**_ unthinkab
 Software is the most automated production where copying, scaling, installation, and updates are clickable. 
 
 <table><tr valign="top"><td>
- <p>A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for carpentry ...<br />
+ <p>A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
 ... must be a fantastic creature &mdash; but a usual Jack-of-all-trades in software teams where construction places are open 🕙24x7 💻laptop.</p>
   <p>Building education and  activities are very narrow and regulated (also legally). IT indulges formalities of schooling.</p>
  </td><td width="30%">
@@ -78,12 +80,12 @@ Software is the most automated production where copying, scaling, installation, 
 
 Contrary to the building experience programming <ins>disperses the classical figure of the architect</ins> allowing and demanding from **everybody** to **efficiently** <mark>zoom **IN**</mark> implementation details and <mark>zoom **OUT**</mark> concepts (up to top architecture).<sup>🔎</sup>
 
-> This assumes neither parity nor full inside of each technology and methodology.&#8287;
-> The bigger the project, the bigger the horizontal and vertical offsets of team members according to skills, talents, and preferences with or without roles exchange.\
+> **This assumes neither parity nor full inside of each technology and methodology.**&#8287;
+> The bigger the project, the bigger the vertical↕️ and horizontal↔️ and offsets of team members according to skills, talents, experience, and preferences with or without roles exchange.\
 > &nbsp;
-> (Vertical: between coding and design. Horizontal: within the technologies stack.) 
+> ( ↕️ between coding and design; ↔️ within the technologies stack) 
 
-<details><summary><ins>&nbsp;"Architect" is often an alias for known roles and duties:&nbsp;</ins> <sup>➡️</sup></summary>
+<details><summary><ins>&nbsp;"Architect" is often an alias or umbrella term for good known roles and duties:&nbsp;</ins> ➡️</summary>
 
 * _domain expert_ or _business analyst_, who boils down requirements to systematic description,
 * _team lead_ or _project manager_,
@@ -95,16 +97,16 @@ Contrary to the building experience programming <ins>disperses the classical fig
  
 </details>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>⬅️</sup> <sub>Let alone DevOps, as a separate subject in software.</sub>
+⬅️ Let alone DevOps, as a separate area in software.
 
-This makes up the software architecture &mdash; a synergy of collective and best vision, design, and development from multiple points.
+This makes up the software architecture &mdash; a synergy of collective and best vision, design, and development from multiple points. Gaps in connecting design to code will create the insulation layer of misconstruing and block potentials.
 
-## But hold on...
+## but hold on...
 
-Reputable software providers hire/promote architects; they are central figures at many IT events. There's certification after all.
+**Reputable software providers hire/promote architects; they are central figures at IT events. There's certification after all.**
 
 Above all, *software architect* sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup><sup>👩‍👦‍👦</sup>, and impresses managers, customers, and stakeholders.&#8287;
-Neither "expert", "Chief Programming Officer" nor "dev lord" would match.
+Neither _expert_, _Chief Programming Officer_ nor _dev&nbsp;lord_ could match.
 
 > There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of avant practices with strong practical backup. 
 
