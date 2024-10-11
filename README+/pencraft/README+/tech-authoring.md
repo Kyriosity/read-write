@@ -14,7 +14,7 @@ For technically smart heads freestyle authoring may seem deceptively easygoing:
 * Illustration is what one learns in early childhood.
 * You shall not invent themes of the work.
   
-<span title="&nbsp;What You See Is What You Get"><ins>WYSIWYG</ins></span> of the work and rapidity of writing can create square miles of 'pulp'. However noble lines of words are much more sophisticated and painful than excellent code. And a smart reader will notice poor or mediocre style from the very first sight.
+<span title="&nbsp;What You See Is What You Write"><ins>WYSIWYG</ins></span> of the work and rapidity of writing can create square miles of 'pulp'. However noble lines of words are much more sophisticated and painful than excellent code. And a smart reader will notice poor or mediocre style from the very first sight.
 
 In the decade of LLM-generated content criteria for the good word and syllable are getting stricter.
 
@@ -26,33 +26,36 @@ In the decade of LLM-generated content criteria for the good word and syllable a
 
 ## Dev driven writing
 
-
-
 🚧TO BE WRITTEN
 
 Thesis + Struct + Phrases
 
 ## Tips
 
-Internet swarms with advice, hints, and guidelines for writing - useful, practical - but which you could formulate yourself. 
-
-May I add up a few? In case when you stagnate in writing.
+Internet swarms with advice, hints, and guidelines for writing - useful, practical - but which you could formulate yourself. May I add up a few?
 
 ### Lectures/Courses
 
-Wake up your imagination, and enrich your lexicon.
+Listening to any lecture (live or recorded), course, or discussion can rescue you from stagnation. It forces you to accept other points of view and urges you to contend and generate your arguments mentally.
+
+It's no way about plagiarism - just the opposite. You may find that your idea is already covered, so restrain it to a source reference.
 
 ### Library
 
-LINK to BLOG
+<table><tr valign="top"><td>
+  <picture><img width="250px" alt="&nbsp;Snapshot from the lib" src="../../_rsc/_img/photo/blog/spots/StadtBiblio.jpg" /></picture>
+</td><td>
+  For less or more creative work in both code and word going to a library, picking the right book, looking in them, and returning to your work can be a real booster.
+</td></tr></table>
 
 ## Pitfalls
 
 The worst enemies of authorship are:
 
+- repetitions (even of words),
 - flood wordiness/big volumes,
 - formalism/monotony,
 - no critique/indifference.
-- 🚧🚧🚧🚧🚧🚧🚧 
+- 🚧🚧🚧🖋️🚧🚧🚧 
 
 🔚 ✴️ <sub>The epigraph won't be caustic if you know about the "ghostwriting" marketing.</sub>
