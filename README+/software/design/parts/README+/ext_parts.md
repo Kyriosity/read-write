@@ -1,9 +1,9 @@
 # Software - External parts
 
 What are the cornerstones of a new big project - technologies, tools, requirements, planning, team, budget? Neither. \
-**The fundamentals are already existing and proven concepts/components to adopt.**
+**The fundamentals already exist and are proven concepts/components to adopt.**
 
-> This belongs to the universal paradigm: learn first from others.
+> This follows the universal paradigm: learn first from others.
 
 Full-fledged third-party frameworks, libraries, and services allow developers to focus on application business and UX rather than tame technologies, type and maintain tons of boilerplate code; test, find, and fix extra bugs.<sup>:raising_hand:</sup>
 
