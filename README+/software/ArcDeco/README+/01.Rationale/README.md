@@ -4,18 +4,25 @@
 
 # Rationale
 
+[![Powered by good quotes](https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue)](../../../../pencraft/README+/quotes/README+/cornerstones.md)
+
+Any sophisticated subject deserves its study: universe -> cosmology, mathematics -> philosophy, physics -> epistemology, art -> theory, excavations -> anthropology, ... **Software** is not an exception.
+
+<picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" /></picture> is neither a methodology nor teaching but a private coat on meta-thinking canvas. (Sounds dense, i know)
+
+The METATHOR w CHESS BREAKS DOWN here.
+
 ## Goal
 
 More practical. A **help**<sup>🙋</sup> to perceive software as a whole continuous "application" of IT pieces of knowledge, rather than tailored scattered occasional craft, or the building of sand castles on greenfields, or the "great art" of perfectionism.
 
 The outcome shall be a better vision and strategy (planning) with less inevitable hacking and voodoo programming.
 
+ELIMINATE THE FEAR
+
+COMPARE2CHESS
+
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Note the word 'help' - Notes of Arc Deco are neither teaching, nor methodology, nor ideology. At least now.</sub>
-
-
-[![Powered by good quotes](https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue)](../../../../pencraft/README+/quotes/README+/cornerstones.md)
-
-Any sophisticated subject deserves its study: universe -> cosmology, mathematics -> philosophy, physics -> epistemology, art -> theory, excavations -> anthropology, ... Software? 
 
 ## About
 
