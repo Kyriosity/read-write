@@ -1,12 +1,12 @@
 # WPF - Reminder
 
-Despite much scepsis, justifiable and not, and critics from the very dawn **WPF** became a fully mature successor of _WinForms_, unlike its Web companion _manqué_ - Silverlight, and cross-platform offshots (like Xamarin).
+Despite much scepsis, justifiable and not, and critics from the very dawn **WPF** became a fully mature successor of _WinForms_, unlike its Web companion _manqué_ - Silverlight, and cross-platform offshoots (like Xamarin).
 
  **WPF** is the number one platform for Windows desktops with millions of commercial and enterprise applications, released and being developed.<sup>🙋</sup>
  
  Thus, WPF to .NET/Win is like The Moon to Earth - the only natural and permanent satellite. Alternatives are either petit, marginal, exotic, still immature, or already deprecated<sup>🌘</sup>.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Enjoying a definite ebb in cross-platform demand</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Enjoying now (2020s) a definite ebb in cross-platform demand</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🌘</sup> <sub>You may have heard about [Avalonia XPF](https://avaloniaui.net/XPF)<sup>🔗</sup>, Xamarin, WinUI, or [Blazor](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🔗</sup> (the latter may change the dev landscape but it's too early too predict in 2024).</sub>
 
 For developers **WPF**:
@@ -41,8 +41,8 @@ For example, take a pro table component from a gallery, declare it in a view, ba
 
 ### Deployment
 
-Installation and update of the WPF application either as a prototype, test, or release could be as easy as unpacking an archived folder. 
-A kind of container that will work "not only on my machine" without DevOps.
+Even if there are no DevOps or dedicated admins, clients can install, or update the WPF applications (either as a prototype, test, or release) as easily as unpacking an archived folder. 
+A kind of container that will work "[not only on my machine](../../../pencraft/README+/memes#Deployment-tenses)".
 
 ---
 
