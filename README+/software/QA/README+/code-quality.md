@@ -58,7 +58,7 @@ _Errare humanum est_, and quality code allows one to focus tests on ...
 
 **1)** Coding isn't a self-contained activity but an ingredient of [![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../software/ArcDeco/README.md), where quality is a motive, derivative, and bonus.
 
-**2)** While design sets formworks of code **concrete**, coding [rules and frames](https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames_rules) reinforce it .
+**2)** While design sets formworks of code **concrete**, [coding frames](https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames) reinforce it .
 
 **3)** The traits listed above are NOT acceptance criteria, but utmost aims. Even if your team comes close to them the code won't be a book of design revelation — you still owe quality [documentation](../../docu).
 
