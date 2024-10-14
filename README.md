@@ -1,7 +1,7 @@
 <table> 
  <tr valign="top">
     <td width="50%">
-      <picture><img src="README+/_rsc/_img/memes/learn_is_swim.jpg" alt="If to learn is to swim against the current ..." /><picture>
+      <picture><img src="README+/_rsc/_img/_nav/learn_is_swim.jpg" alt="&nbsp;If to learn is to swim against the current ..." /><picture>
     </td><td width="50%">
      <a href="README+/software/ArcDeco"><b>SOFTWARE</b></a><br/>
      &nbsp;&nbsp;<a href="README+/software/design/"><b>Design</b></a>&thinsp;<sup>∑</sup>&nbsp;&nbsp;<i>feat.</i>
@@ -37,9 +37,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/parts/cs-lacks-parts.md">Nice to have</a>&nbsp;➖&nbsp;<a href="README+/.net/README+/parts/cs-feat_shadow.md">In shadow</a><br/>
   &nbsp;&nbsp;🪟&nbsp;<a href="README+/.net/README+/wpf"><b>WPF</b></a>
  <br/><br/><kbd>Closer to code</kbd><br/>
-  &nbsp;&nbsp;<a href="README+/.net/README+/cs-hints.md">Hints</a>&nbsp;↗️&nbsp;<a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames_rules">Code frames</a><br />
-     <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions"><b>Design&nbsp;decisions</b></a>&nbsp;Patterns real.
+  &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-hints.md">Hints</a>&nbsp;➡️&nbsp;
+ <a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/patterns">Patterns</a>
+ <br />
+ &nbsp;&nbsp;&nbsp;<a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames">Frames</a>&nbsp;↗️&nbsp;
+     <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Decisions</a>
 </td><td>
-      <picture><img src="README+/_rsc/_img/memes/IT_is_waterfall.jpg" alt="... then IT must be a waterfall" /><picture>
+      <picture><img src="README+/_rsc/_img/_nav/IT_is_waterfall.jpg" alt="&nbsp;... then IT must be a waterfall" /><picture>
      </td>
 </table>
