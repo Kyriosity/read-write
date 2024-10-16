@@ -8,9 +8,9 @@ It wasn't about the lecture, but the principal divergence.<br />
 (For the record: the lecture regarded <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven Development</a><sup>🔗</sup> as you might been assured)
 </td></tr></table>
 
-Pretty worried I searched with "<samp><b>T&nbsp;D&nbsp;D</b></samp>" and retrospected fairly many tutorials and lectures found.<sup>🙋</sup> They focused on _development_ with design as a **natural**<sup>🌵</sup> derivative, not much bothering about distinction and some even exploited both terms interchangeably. Big and short books techniques, patterns, and testing frameworks.\
+Pretty worried I searched by <kbd>T D D</kbd> and retrospected fairly many tutorials and lectures found.<sup>🙋</sup> They focused on _development_ with design as a **natural**<sup>🌵</sup> derivative, not much bothering about distinction and some even exploited both terms interchangeably. Books and presentations favor techniques, patterns, and testing frameworks more.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be the same findings, but better, and could be better alternating visions.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub>Natural since any running piece of code implies design will unless available)</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub>Natural since any complete snippet of code either makes design or fits the available.</sub>
 
 What was fine and **natural**<sup>🌵</sup> for presentations, bootcamps, and `classes` didn't work for me quite on features (imaginary or tried). This shadow of doubt was from the rising ridge, dividing syntax and implementation behind it.
 
@@ -29,7 +29,8 @@ Tests for DESIGN couple syntax possibilities and constraints
 
 Tests for DEVELOPMENT 
 
-<table><tr /><tr><td width=50%><b><samp>D E S I G N</samp></b><sup>eV</sup></td><td><b><samp>D E V E L O P M E N T</samp></b></td></tr><tr valign="top"><td>asdasdasd</td><td>
+<table><tr /><tr><td width=50%><b>T e s t ⚙️ <samp>D E S I G N</samp></b>&nbsp;&nbsp;&nbsp;(<b>T⚙️D<sup>e<mark>S</mark></sup></b>)</td>
+  <td><b>T e s t ⚙️ <samp>D E V E L O P M E N T</samp></b>&nbsp;&nbsp;&nbsp;(<b>T⚙️D<sup>e<mark>V</mark></sup></b>)</td></tr><tr valign="top"><td>asdasdasd</td><td>
   Tests are the first strokes of code. Maybe experimental or even alternatives in miscellaneous languages and frameworks/libraries.
 </td></tr></table>
 
