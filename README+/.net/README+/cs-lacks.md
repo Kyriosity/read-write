@@ -1,6 +1,6 @@
 # C# - Nice to have - Syntax, constructs and features
 
-C#.NET isn't a universal formula; its team with community assistance doesn't possess unbounded resources. However, this platform could offer extra features and foundations, which can only boost its charm.
+C#.NET isn't a universal formula, and its team (counting the community) doesn't possess unbounded resources. However, this platform could offer extra features and foundations, which would only boost its charm.
 
 ## More base interfaces
 
@@ -181,7 +181,8 @@ void Planning.Capacity.Register(<ILoadSpecs, IPassengerConfig> transport) { ... 
 
 Such a feature will be useful also for run-time object composition.
 
-<ins>&nbsp;**Further nice-to-have:**&nbsp;</ins>\
-|- [Parts and frameworks](parts/cs-lacks-parts.md)
+<ins>&nbsp;**More nice-to-have:**&nbsp;</ins>\
+|- [Parts and frameworks](parts/cs-lacks-parts.md)\
+|- [WPF lacks](wpf/README+/wpf-drawbacks.md)
 
 🔚
