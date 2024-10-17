@@ -35,12 +35,11 @@ I long for better [numbers](cs-drawbacks.md#Numbers) in C# but meanwhile constra
 
 ```csharp
 // rationally limited natural number
-Retail.Price<N>(N val) : where N : byte, ushort;
+Retail.Price<N>(N val) where N : byte, short;
 
-- Bonus.Calc(IEnumerable<T> months) where T : Enum
-+ Bonus.Calc(IEnumerable<T> months) where T : Month OR Months // Months is Month but [Flags]
-
-
+// other syntax variants
+Retail.Price<N>(N val) where N : byte OR short;
+Retail.Price<N>(N val) where N : byte || short;
 ```
 
 To a turn (for me) numbers and constraints shall be like this sketch:
@@ -185,3 +184,4 @@ Such a feature will be useful also for run-time object composition.
 <ins>&nbsp;**Further nice-to-have:**&nbsp;</ins>\
 |- [Parts and frameworks](parts/cs-lacks-parts.md)
 
+🔚
