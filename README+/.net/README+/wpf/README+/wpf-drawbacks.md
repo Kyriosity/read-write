@@ -1,4 +1,4 @@
-# WPF - Drawbacks
+# WPF - Drawbacks and lacks
 
 WPF is a stable, modern and so far popular platform, alive and well off despite numerous sad prognoses.
 
