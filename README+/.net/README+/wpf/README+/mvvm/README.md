@@ -7,12 +7,12 @@ WinForms application can be an exemplary MVVM<sup>:wrench:</sup> but it was WPF 
 
 ## Structure
 
-|- __Model__  - any common or tailored [application model](../../../../../software/~design/parts/README+/app-model.md)\
+|- __Model__  - any common or tailored [application model](../../../../../software/design/parts/README+/app-model.md)\
 &nbsp;&nbsp;// Model classes must be frontend agnostic but virtual (open) for adapting in presentation (e.g. `virtual` props and methods.\
 |- [__ViewModel__](README+/wpf_mvvm-viewmodel.md)\
 |- [XAML view](../wpf-xaml_view.md) *
 
-&nbsp;&nbsp;&nbsp;&nbsp;* It can also be any other kind of [application view](../../../../../software/~design/parts/README+/app-view.md) bound with the ViewModel
+&nbsp;&nbsp;&nbsp;&nbsp;* It can also be any other kind of [application view](../../../../../software/design/parts/README+/app-view.md) bound with the ViewModel
 
 ## Sample
 
