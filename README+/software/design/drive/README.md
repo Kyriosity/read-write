@@ -1,10 +1,24 @@
 > ## 🚧🐝🚧 ,,, **WORK in PROGRESS** ,,, 🚧🐝🚧 
 
-# Software &mdash; Design & Development &mdash; Drives
+# Software &mdash; Design & Development &mdash; Drives &mdash; Minority opinion
 
-A little [doubt](../../../pencraft/README+/essays/README+/Tests-Big_Watershed.md) started this chapter and made 
+A little [doubt on TDD de=abbreviation](../../../pencraft/README+/essays/README+/Tests-Big_Watershed.md) triggered my re-thinking of _Drives_. Could I put it simply (before writing volumes)?
 
 ## Drive and Let drive
+
+TADELLOS
+
+<details><summary>ILLU</summary>
+  
+</details>
+
+ToDo: // ILLUSTRATION W/ BOOKs
+
+## Software driven domain
+
+Explicit and implicit
+
+SAP as an example
 
 LIST of DRIVes
 
@@ -132,14 +146,14 @@ TDD/DDD isn't _lapis philosophorum_ and is barely a good approach for:
 + badly formalizable entities: artistic brush, or generated text (image, video, or sounds)
 + non-reproducible calculations.
 
-### Stereotypes
-
-TDDD back, TDDD for bugs
-
-
-## Wrapping up
 
 We haven't resolved a mere trifle. How to make the TDD job effective and appealing. How to make tests a natural starting point for developers.
+
+
+## Coming next
+
+<table><tr><td></td></tr></table>
+
 
 🚧:... TO BE CONTINUED .... ✏️
 
