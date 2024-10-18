@@ -4,15 +4,18 @@ Artworks can be perfect &mdash; not technologies. With all its goodies __C#__ ha
 
 The following language artifacts are awkward leastwise for me. 
 
+## Base
+
+- Rudimentary `0` as the start index in collections<sup>:o:</sup>, which doesn't correlate with the count and shall better start from `1`.
+- Size setters (as for arrays and collections) must have been unsigned integer: <code><b>u</b>int Length { get; }</code>. This could eliminate bugs and run-time errors.
+
 ## Syntax
 
 - Rudimentary `;` ending a line brings nothing but visual noise.
 - Constructor names imply extra refactoring on class/struct renaming (could be independent `ctor()`, `this()`). Take the "untitled" `base()` call in the same constructors.
-- Rudimentary `0` as the start index in collections<sup>:o:</sup>, which doesn't correlate with the count and shall better start from `1`.
 - Default (when missing)  access modifier<sup>:o:</sup> shall be better reserved for "ultimate" `private` or  `public` than for less EXPLICIT and  less used `internal`
 - The `const` modifier shall not be limited to pre-compiled values (as in intermediate languages) but prevent re-assignment, as `init` and `readonly` do.
-- No constant option for default values in signatures.\
-`Do(int val, string rem=string.empty)`
+- No constant option for default values in signatures:  `Do(int val, string remark=string.Empty)`
 - Nullable declaration (with `?` prefix) is evident for value types but ambiguous for references and objects, which can be nulled anyway:\
 `string a = null; string? b = null;`
 - a perplexing extension of nullable as `((int?)1).Value` and `((bool?)true).HasValue`<sup>❔</sup>.
