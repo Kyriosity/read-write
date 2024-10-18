@@ -2,23 +2,19 @@
 
 C#.NET isn't a universal formula, and its team (counting the community) doesn't possess unbounded resources. However, this platform could offer extra features and foundations, which would only boost its charm.
 
-## More base interfaces
+## More common interfaces
 
 The general interface defines members like `Count`, `Clone()`, `Equals()`, `CompareTo()`, which developers are eager to apply to their codes too.\
 However much more remains uncovered, e.g. Max/Min for limiting collections and object size.
 
 Other promising members (like `IsReadOnly`) are defined within specific interfaces.
 
-## Basic exceptions, messages, and guards
-
-To begin with, it could be proof of `>0` for collection sizing, though subclassing of general numeric type will be better.
-
 ## Constraints
 
-Constraints could allow much more freedom. Firstmost, `new()` shall not limit type to a parameterless constructor of objects without `required` fields.
+Constraints could allow much more freedom. **Firstmost**, `new()` shall not limit type to a parameterless constructor of objects without `required` fields.
 
 <details>
-    <summary><ins>&nbsp;Some syntax proposals&nbsp;</ins></summary>
+    <summary><ins>&nbsp;Other syntax proposals&nbsp;</ins></summary>
 &nbsp;
     
 ```diff csharp
@@ -52,13 +48,13 @@ method<N1, N2>(N1 left, N2 right) where N1, N2 : integer
    where N1 < 100  
    where N2 < 0
 
-// and much more similar 
+// and much more similar to your phantasy
 ```
 
----
 </details>
 
-Plus-rated queries on Q&A sites formulate demands for _constraints_ "grammar" further, better, and wider.
+\__________\
+☝️ Numerours high-rated queries on Q&A sites formulate demands for _constraints_ "grammar" further, better, and wider.
 
 ## Syntax
 
@@ -71,7 +67,7 @@ Named arguments are fine but optional. Some patterns and practices (sub-calls, s
 Using an object initializer technique would be a relief.
 
 ```csharp
-// longly known method
+// a method with a confusing signature
 Register(string firstName, string secondName, byte age, short numOrders, bool knownUser = false);
 
 // alternate call
@@ -166,11 +162,13 @@ Suppose, there're `ILimited`, `ITimestamped`, and `INotifyPropertyChanged` which
 ```csharp
 static class AircraftBuilder
 {
+// as return
         static <IAirSpecs, IPowerplant> BusinessJet(...) { ... }
         static <IAirSpecs, IPowerplant, ILoadSpecs> Cargo(...) { ... }
         static <IAirSpecs, IPowerplant, ILoadSpecs, IPassengerConfig> Liner(...) { ... }
 }
 
+// as arguments
 IList<IataAirportCode> Planning.Destinations.FindOptimal(IataAirportCode from, <IAirSpecs, IPowerplant> vehicle) { ... }
 void Planning.Capacity.Register(<ILoadSpecs, IPassengerConfig> transport) { ... }
 
