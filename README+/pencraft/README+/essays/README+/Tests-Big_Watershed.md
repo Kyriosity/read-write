@@ -1,29 +1,34 @@
 # Test Drive &mdash; Big Watershed
 
 <table><tr valign="top"><td>
-<picture><img width="150px" alt="&nbsp;Y-fork: yellow" src="../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="Courtesy of www.cleanpng.com" /></picture>    
+<picture><img width="125px" alt="&nbsp;Y-fork: yellow" src="../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="Courtesy of www.cleanpng.com" /></picture>    
   </td><td><p>I was bicycling to hear a casual lecture on <b>TD<mark>D</mark></b> and the doubt crept in &mdash; where am I going: </p>
     <p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
 It wasn't about the lecture, but the principal divergence.<br />
-(For the record: the lecture regarded <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven Development</a><sup>🔗</sup> as you might been assured)
+(For the record: the lecture regarded <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven Development</a><sup>🔗</sup> as you might been convinced.)
 </td></tr></table>
 
-Pretty worried I searched by <kbd>T D D</kbd> and fairly retrospected the found.<sup>🙋</sup> Presentations and lectures favored _development_ with design as a **natural**<sup>🌵</sup> derivative, not much bothering about distinction and some even exploited both terms interchangeably. Books and tutorials were more inclined to techniques, patterns, and testing frameworks.\
+Pretty worried I searched by <kbd>T D D</kbd> and fairly retrospected the found. Presentations and lectures favored _development_ with design as a **natural** derivative, not much bothering about distinction and some even exploited both terms interchangeably. Books and tutorials also inclined more toward techniques, patterns, and testing frameworks.
+
+What was fine and **natural** for presentations, bootcamps, and `classes` didn't work for me on just mediocre features (imaginary or tried): <ins>my test drive split up into **D**esign and **D**evelopment</ins>.
+
+\___________\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be the same findings, but better, and there could be better alternating visions.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub>Natural since any complete snippet of code either makes design (ugly to beautiful) or fits into the given.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub>**Natural** since any complete snippet can't escape design or must fit into the given.</sub>
 
-What was fine and **natural**<sup>🌵</sup> for presentations, bootcamps, and `classes` didn't work for me quite on features (imaginary or tried). This shadow of doubt was from the rising ridge, dividing syntax and implementation behind it.
+## Could I explain my shismatic take?
 
-What made matters worse &mdash; revealing that this ridge is among others on the design topology. This triggered the painful rewrite of much stuff, starting from ⚙️[drives](../../../../software/design/drive) **but** let's not get sidetracked for now.
+These could be the same project and team, test tools/framework, and skills/techniques to write tests, but...
 
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Could I explain my shismatic take?</h3>
+> **Design vs. Development are too dissimilar and exclusive to be driven together.** "Design tests" define **what** to implement: test-driven or not. 
+
+There's no compromise: Design through implementation tests will result in a narrowed "Code Driven Design", which quality will degrade with complexity.
+
 
 + grope concepts and get a hands-on feeling on subjects (be it bookkeeping routines or starship models),
 + vitalize skeleton functionality, evaluate trends and risks,
 + couple design fantasies with the tech-stack materiality.
 
-
-diff2usual
 
 HIT IDEA 
 WHAT INTERCEPT's DOES NOT OVERLAP. WHAT COOPERATES do not DEPENDs
@@ -47,8 +52,8 @@ LINK TO PRJ
   
 </details>
 
-<table><tr valign="top"><td>
-Could I explain my shismatic take?
+<table><tr valign="top"><td width="40%">
+This shadow of doubt was from the rising ridge, dividing syntax and implementation behind it.
 </td><td width="*">
 <picture><img src="../../../../_rsc/_img/illus/TDD_watershed.jpg" alt="&nbsp;&nbsp;Test watershed illustration as nature" /></picture>
 </td></tr></table>
@@ -73,6 +78,7 @@ ADD CLICK IMAGE
 
 ## Conclusion
 
-
+MOVE DOWN to CONCT
+What made matters worse &mdash; revealing that this ridge is among others on the design topology. This triggered the painful rewrite of much stuff, starting from ⚙️[drives](../../../../software/design/drive) **but** let's not get sidetracked for now.
 
  🔚 &nbsp;🌘 kyriosity 2024...
