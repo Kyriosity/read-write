@@ -3,14 +3,14 @@
 
 ---
 
-🚧🚧🚧 ... DRAFT in progress ... 🚧🚧🚧
+<p align="center"><b>Many hands make light job.</b><br /><i>If I were limited to a few words about Arc Deco <br />I would select this anonymous quote.</i></p>
 
 # Roles
 
-<p dir="rtl">.Many hands make light job</p>
+🚧📝🚧 ... DRAFT in progress ... 🚧🖌️🚧
 
 
-## Challenges which lead to role
+## Challenges which lead to roles
 
 ### Why no Jack-of-all-trades
 
