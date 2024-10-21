@@ -4,7 +4,7 @@
   <tr>
     <td>
       <a href="README+/AI-2020s.md"><img src="../../../_rsc/_img/_nav/tiles/AIchemy_200px.jpg" alt="AI-2020s.md" title="&nbsp;AI Twenties - Much ado about nothing?"/>
-      <br /><div align="center"><h4>AI TWENTIES</h4></div></a>
+      <br /><div align="center"><h4><mark>AI</mark> TWENTIES</h4></div></a>
     </td>
       <td>
       <a href="README+/LN-view.md"><img src="../../../_rsc/_img/_nav/tiles/LotusNotes_200px.jpg" alt="&nbsp;LN-view.md" title="&nbsp;Lotus Notes - This used to be my playground"/>
@@ -18,7 +18,7 @@
   <tr>
     <td>
       <a href="README+/Tests-Big_Watershed.md"><img src="../../../_rsc/_img/_nav/tiles/TddWatershed_200px.jpg" alt="&nbsp;TDD-Big_Watershed.md" title="&nbsp;Tests Driven What - Watershed"/>
-      <br /><div align="center"><h4>TD<mark>D</mark> WATERSHED</h4></div></a>
+      <br /><div align="center"><h4>TD<mark>?D</mark> WATERSHED</h4></div></a>
     </td>
     <td>
       <a href="README+/SW_architect-aTake.md"><img src="../../../_rsc/_img/_nav/tiles/Architect_200px.jpg" alt="&nbsp;U-Val" title="&nbsp;Finding Software Architect - a Take"/>
