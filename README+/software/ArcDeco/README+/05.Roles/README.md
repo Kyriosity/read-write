@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center"><b>Many hands make light job.</b><br /><i>If I were limited to a few words about Arc Deco <br />I would select this anonymous quote.</i></p>
+<p align="center"><b>«Many hands make light work.»</b><br /><i>If I were limited to a few words about Arc Deco <br />this idiom would be the choice.</i></p>
 
 # Roles
 
