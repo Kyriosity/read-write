@@ -52,7 +52,7 @@ Both can't rely solely on generations of experience and picked masterminds but o
 
 Software development gives freedom of life-sized _trial and **error**_ unthinkable in other productions. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (utilities). Contrariwise, drawing plans months ahead of some code is adverse to software.
 
-Software is the most automated production where copying, scaling, installation, and updates are clickable. 
+Software is the most automated production where copying, scaling, installation, and updates are one-click (or few, or scheduled) and unattended. 
 
 <table><tr valign="top"><td>
  <p>A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
@@ -78,7 +78,7 @@ Software is the most automated production where copying, scaling, installation, 
 
 *Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise.
 
-Contrary to the building experience programming <ins>disperses the classical figure of the architect</ins> allowing and demanding from **everybody** to **efficiently** <mark>zoom **IN**</mark> implementation details and <mark>zoom **OUT**</mark> concepts (up to top architecture).<sup>🔎</sup>
+Contrary to the building experience programming <ins>disperses the classical figure of the architect</ins> allowing and demanding from **everybody** to **efficiently** <mark>zoom IN</mark> implementation details and <mark>zoom OUT</mark> concepts (up to top architecture).<sup>🔎</sup>
 
 > **This assumes neither parity nor full inside of each technology and methodology.**&#8287;
 > The bigger the project, the bigger the vertical↕️ and horizontal↔️ and offsets of team members according to skills, talents, experience, and preferences with or without roles exchange.\
