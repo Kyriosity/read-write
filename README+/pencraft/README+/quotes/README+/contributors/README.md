@@ -152,7 +152,7 @@ He was brave enough to be [critical of AI](https://en.wikipedia.org/wiki/Hubert_
 
 #### Dennis Ritchie
 
-_Dennis MacAlistair Ritchie_ (**1941**-2011)<sup title="Turing Award, 1983, with Ken Thompson">🥇</sup> creator of `C` and co-author of UNIX (with Ken Thompson)
+_Dennis MacAlistair Ritchie_ (**1941**-2011)<sup title="Turing Award, 1983, with Ken Thompson">🥇</sup> creator of the **`C`** programming language and co-author of UNIX (with Ken Thompson)
 
 #### Bjarne Stroustrup
 
