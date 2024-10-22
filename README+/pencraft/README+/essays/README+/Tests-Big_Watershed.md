@@ -18,9 +18,6 @@ What was fine for presentations, bootcamps, and `classes` didn't work for me on 
 
 ## Could I draw <br />&nbsp;&nbsp;&nbsp;my shismatic take?
 
-> These could be the same project and team, test tools/framework, and skills/techniques to write tests, but...\
->  **Design vs. Development are too dissimilar and contradictory to be driven together.**
-
 <details><summary><ins><b>&nbsp;This shadow of doubt was from the rising ridge, dividing syntax and implementation behind it:&nbsp;</b></ins></summary>
 
 <picture><img src="../../../../_rsc/_img/illus/TDD_watershed.jpg" alt="&nbsp;&nbsp;Test watershed illustration as nature" /></picture>
@@ -29,18 +26,21 @@ What was fine for presentations, bootcamps, and `classes` didn't work for me on 
 
 ### Test Driven Design: T⚙️D<sup>eV</sup>
 
-Think of tests as a superb conductor of design drive: domain, behavior, data, hardware model - whatsoever. 
+Think of tests as a superb conductor (proxy) of design drive - domain, behavior, data, hardware model, whatsoever - to... 
 
-+ grope concepts and get a hands-on feeling on subjects (all the same: bookkeeping routines or particle collider models),
++ grope concepts and get a hands-on feeling on subjects (all the same: bookkeeping artifacts or particle collider models),
 + vitalize skeleton functionality, evaluate trends and risks,
 + couple design fantasies with the tech-stack materiality,
-+ evaluate and pick more suited libraries, frameworks, and even languages/platforms.
++ evaluate and pick more suited libraries, frameworks, and, in some cases, languages/platforms,
++ discuss ideas, naming, and logic with consultants and users.
 
-"Design tests" must define **what** to develop</ins>. They must heavily INSERT doubles and UGLY but FAST shortcuts (not to be buried in implementation) to submit them to development - e.g. in a test-driven-fashion.
+> "Design tests" must define **what** to develop</ins>. 
+
+These tests and code behind must heavily apply test doubles and ugly but fast implementation shortcuts (not to be buried in implementation). When these get contours and stabilize - they may come as tasks to development: test-driven or not.
 
 ### Test Driven Development: T⚙️D<sup>eS</sup>
 
-Use of test doubles is LIMITED
+Use of the test double must be limited to _sine qua non_ and diagnose helpers (as spies).
 
 ### OVERLAP ?
 
@@ -55,9 +55,12 @@ What made matters worse &mdash; revealing that this ridge is among others on the
 
 SUBRIDGE
 
+> These could be the same project and team, test tools/framework, and skills/techniques to write tests, but...\
+>  **Design vs. Development are too dissimilar and contradictory to be driven together.**
+
 ## Appendix. Undo-Redo as case
 
-<picture><img alt="&nbsp;Undo-Redo symbol" src="/.svg"/></picture>
+<picture><img width="50px" alt="&nbsp;Undo-Redo symbol" src="../../../../_rsc/_img/symbols/UnReDo_250px.png"/></picture>
 [Reversible](https://github.com/Kyriosity/use-dev/tree/main/README+/projects/Rvrs)
 
 
