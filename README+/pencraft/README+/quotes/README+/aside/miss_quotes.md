@@ -7,11 +7,11 @@
 ## Top quotes
 
 > **If you can't explain it simply, you don't understand it well enough.**\
-<s>Albert Einstein</s> 🤦‍♂️
+<s>Albert Einstein</s> 🤦‍♂️🤦🤦‍♀️
 
-The backside of scientific fame is that the figure of Albert Einstein (not he) became the King of wrong quoting. And this quote, beloved in sci-pop and crash courses, is the shining diamond in the crown of misquotation.
+The backside of scientific fame is that the figure of Albert Einstein (but not he) became the King of misattributed citation. And this quote, beloved in sci-pop and crash courses, is a shining diamond in the crown of dubious authorship.
 
-Dr. Einstein was the least thinker to say such a thing. **Nobody can explain a thesis simply** (or in detail) **if the learner doesn't know the subject fundamentally.**
+Dr.&nbsp;Einstein was the least thinker to say such a thing. **Nobody can explain a thesis simply** (or in detail) **if the learner doesn't know the subject fundamentally.**
 
 \___________
 
@@ -45,9 +45,9 @@ Of course, all "there are only two" quotes have to be taken with a grain of salt
 > ... the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.\
 [Maurice Wilkes](../contributors/README.md#Maurice-Wilkes)
 
-It's quoted sometimes as an appeal to quality but it's indeed a curious fact about the former hardware.
+It's sometimes quoted as an appeal to quality, but it's indeed a curious fact about the scale of former hardware.
 
-<details><summary>Full quote</summary>
+<details><summary>...................<i>Full quote</i></summary>
  
 > By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared. I well remember when this realization first came on me with full force.
 The EDSAC was on the top floor of the building and the tape-punching and editing equipment one floor below. [...] It was on one of my journeys between the EDSAC room and the punching equipment that "hesitating at the angles of stairs" the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
