@@ -26,7 +26,7 @@
       &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md">essays</a> 🪝<a href="README+/pencraft/README+/memes">memes</a> 🥨<a href="README+/pencraft/README+/quotes/README.md">quotes</a>
      </td>
 </tr><tr></tr><tr><td>
-<a href="README+/.net/"><b>C#.NET</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
+<a href="README+/.net/"><b>C#<sup>.NET</sup></b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
 &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;✖️&nbsp;
 <a href="README+/.net/README+/cs-lacks.md">Lacks</a>&nbsp;➗&nbsp;
  <br/>
