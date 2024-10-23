@@ -1,12 +1,8 @@
 # Quotes store &mdash; Inspiration department
 
-<p dir="rtl"><mark/><i>- I always have a quotation for everything<br/>
-.it saves original thinking</i></mark><br/>
-Dorothy L. Sayers (1893-1957), novelist</p>
+## Incite ...
 
-## Incite...
-
-<details><summary><ins>&nbsp;<b>...to write/document</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;<b>...to write and document</b>&nbsp;</ins></summary>&nbsp;
 
 > **Epistula non erubescit**\
 ― _Marcus Tullius Cicero (106-43 BC)_\
@@ -29,7 +25,7 @@ Dorothy L. Sayers (1893-1957), novelist</p>
 **And so I invented the Monospace.**\
 ― _George Williams_ (*assumed)
 
-<p dir="rtl"><b>!Gimme that torch, now</b><br /><i>Ray Bradbury (1920-2012)</i><br />after reading the <i>Twilight</i> novel series (*assumed)</p>
+<p dir="rtl"><b>!Gimme that torch, FAST</b><br /><i>Ray Bradbury (1920-2012)</i><br />after reading the <i>Twilight</i> novel series (*assumed)</p>
 
 ---
 
@@ -142,7 +138,8 @@ To name a few of the officially recognized:
 <details><summary><ins>&nbsp;<b>...to acquit not doing/learning</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="&nbsp;Luca Giordano: The dream of Solomon" src="../../../../_rsc/_img/art/OldMasters/LucaGiordano-TheDreamOfSolomon-w555px.jpg" /></picture><br />
+<br /><picture><img alt="&nbsp;Luca Giordano: Dream of Solomon, 1694-1695" src="../../../../_rsc/_img/art/OldMasters/LucaGiordano-TheDreamOfSolomon-w555px.jpg" 
+ title="&nbsp;Dream of Solomon, 1694-1695, by Luca Giordano"/></picture><br />
 <mark><b>...King Solomon</b></mark>, who said:
 
 > **For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.**\
@@ -196,8 +193,7 @@ _Earliest humans_ (ca. 300`000 ago)
 <details><summary><ins>&nbsp;<b>...to interpret errors right...</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="&nbsp;BSoD on Win98 presentation" src="../../../../_rsc/_img/photo/misc/1998.Win98-BSoD_w_BGates.jpg" 
-                title=" True frame from the presentation of Windows plug&play in 1998"/></picture><br />
+<br /><picture><img alt="&nbsp;BSoD on Win98 presentation" src="../../../../_rsc/_img/photo/misc/1998.Win98-BSoD_w_BGates.jpg" title="&nbsp;Real frame from the presentation of Windows plug&play in 1998"/></picture><br />
 (This **BSoD** must be an XX-century [history](https://en.wikipedia.org/wiki/Blue_screen_of_death) but it [struck](https://www.msn.com/en-us/news/technology/a-blue-screen-of-death-loop-how-a-crowdstrike-update-crashed-microsoft-systems-around-the-world/ar-BB1qgFNC) again in 2024.)
 
 #### Customer gets the King
@@ -222,6 +218,10 @@ The rule of medieval feasts and merciful testers
 "To err is human, to forgive divine"\
 _Alexander Pope_, poet (1688-1744)
 
+> **Is software craft or art?**\
+To interpret a bug as a feature is a craft.\
+To make a customer feel guilty for it - the **art**.
+
 ---
 </details>
 
@@ -229,8 +229,7 @@ _Alexander Pope_, poet (1688-1744)
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="&nbsp; Teleevanglist: If there's no more room in stack, the bugs will walk the Earth..." 
-                src="../../../../_rsc/_img/memes/misquote-no_more_stack.jpg" title=" Stack is overflowing..." /></picture><br />
+<br /><picture><img alt="&nbsp; Teleevanglist: If there's no more room in stack, the bugs will walk the Earth..." src="../../../../_rsc/_img/memes/misquote-no_more_stack.jpg" title="&nbsp;Stack is overflowing..." /></picture><br />
 <mark><b>...Ken Foree fandom</b></mark>
 
  #### Already classics
@@ -247,9 +246,10 @@ _Andres Freund_, a programmer who occasionally prevented the ["century" cyberatt
 
 </details>
 
-<details><summary><ins>&nbsp;<b>🚧...COMING NEXT...🚧</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;...and <b>... to quote&nbsp;</b></ins>❗</summary>&nbsp;
 
-+ To find the right flattering words
+> **I always have a quotation for everything. It saves original thinking.**\
+_Dorothy L. Sayers_ (1893-1957), novelist, translator and critic
 
 \_________________________________
 

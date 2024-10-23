@@ -4,10 +4,7 @@
 
 ### IT Pioneers
 
-There's a discernible inclination in quotes toward the mathematicians and engineers who stood behind the first computers. Whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and enough delusions count.
-
-\_________
-
+There's a discernible inclination in quotes toward the mathematicians and engineers who stood behind the first computers. Whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and enough delusions count.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project, Mercury or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
 
 #### John von Neumann
@@ -16,7 +13,7 @@ _John von Neumann_ (**1903**, Budapest - 1957, Washington, D.C. 🇺🇸)<span t
 
 One of the numerous honoring quotes about him: «Most mathematicians prove what they can, von Neumann proves what he wants.» (_Paul Halmos_)
 
-Fun fact: searching for _von Neumann_ without the first name will list first namesake artifacts (like theorems).
+Fun fact: searching for _von Neumann_ (without the first name) will recite first namesake artifacts, like theorems.
 
 #### Grace Hopper
 
