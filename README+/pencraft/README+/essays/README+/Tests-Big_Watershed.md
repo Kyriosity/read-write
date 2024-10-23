@@ -20,7 +20,7 @@ What was fine for presentations, bootcamps, and `classes` didn't work for me on 
 
 <details><summary><ins><b>&nbsp;This shadow of doubt was from the rising ridge, dividing syntax and implementation behind it:&nbsp;</b></ins></summary>
 
-<picture><img src="../../../../_rsc/_img/illus/TDD_watershed.jpg" alt="&nbsp;&nbsp;Test watershed illustration as nature" /></picture>
+<picture><img src="../../../../_rsc/_img/illus/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture>
 
 </details>
 
@@ -36,11 +36,11 @@ Think of tests as a superb conductor (proxy) of design drive - domain, behavior,
 
 > "Design tests" must define **what** to develop</ins>. 
 
-These tests and code behind must heavily apply test doubles and ugly but fast implementation shortcuts (not to be buried in implementation). When these get contours and stabilize - they may come as tasks to development: test-driven or not.
+These tests and the code behind them must heavily apply doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (not to be buried in implementation). When these get fixed contours and stabilize - they are ready tasks for development: test-driven or not.
 
 ### Test Driven Development: T⚙️D<sup>eS</sup>
 
-Use of the test double must be limited to _sine qua non_ and diagnose helpers (as spies).
+Use of the test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).
 
 ### OVERLAP ?
 
