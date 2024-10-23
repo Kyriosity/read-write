@@ -241,11 +241,10 @@ _Andres Freund_, a programmer who occasionally prevented the ["century" cyberatt
 
 </details>
 
-<details><summary><ins>&nbsp; to quote</b>&nbsp;... TO QUOTE</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;...and <b>... to quote&nbsp;</b></ins>❗</summary>&nbsp;
 
-<p dir="rtl"><mark/><i>- I always have a quotation for everything<br/>
-.it saves original thinking</i></mark><br/>
-Dorothy L. Sayers (1893-1957), novelist</p>
+> **I always have a quotation for everything. It saves original thinking.**\
+_Dorothy L. Sayers_ (1893-1957), novelist, translator and critic
 
 \_________________________________
 
