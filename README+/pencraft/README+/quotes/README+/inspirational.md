@@ -138,7 +138,8 @@ To name a few of the officially recognized:
 <details><summary><ins>&nbsp;<b>...to acquit not doing/learning</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="&nbsp;Luca Giordano: The dream of Solomon" src="../../../../_rsc/_img/art/OldMasters/LucaGiordano-TheDreamOfSolomon-w555px.jpg" /></picture><br />
+<br /><picture><img alt="&nbsp;Luca Giordano: Dream of Solomon, 1694-1695" src="../../../../_rsc/_img/art/OldMasters/LucaGiordano-TheDreamOfSolomon-w555px.jpg" 
+ title="&nbsp;Dream of Solomon, 1694-1695, by Luca Giordano"/></picture><br />
 <mark><b>...King Solomon</b></mark>, who said:
 
 > **For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.**\
@@ -217,6 +218,10 @@ The rule of medieval feasts and merciful testers
 "To err is human, to forgive divine"\
 _Alexander Pope_, poet (1688-1744)
 
+> **Is software craft or art?**\
+To interpret a bug as a feature is a craft.\
+To make a customer feel guilty for it - the **art**.
+
 ---
 </details>
 
@@ -224,7 +229,7 @@ _Alexander Pope_, poet (1688-1744)
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="&nbsp; Teleevanglist: If there's no more room in stack, the bugs will walk the Earth..." src="../../../../_rsc/_img/memes/misquote-no_more_stack.jpg" title=" Stack is overflowing..." /></picture><br />
+<br /><picture><img alt="&nbsp; Teleevanglist: If there's no more room in stack, the bugs will walk the Earth..." src="../../../../_rsc/_img/memes/misquote-no_more_stack.jpg" title="&nbsp;Stack is overflowing..." /></picture><br />
 <mark><b>...Ken Foree fandom</b></mark>
 
  #### Already classics
