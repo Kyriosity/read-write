@@ -2,7 +2,7 @@
 
 ## Incite ...
 
-<details><summary><ins>&nbsp;<b>...to write/document</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;<b>...to write and document</b>&nbsp;</ins></summary>&nbsp;
 
 > **Epistula non erubescit**\
 ― _Marcus Tullius Cicero (106-43 BC)_\
@@ -25,7 +25,7 @@
 **And so I invented the Monospace.**\
 ― _George Williams_ (*assumed)
 
-<p dir="rtl"><b>!Gimme that torch, now</b><br /><i>Ray Bradbury (1920-2012)</i><br />after reading the <i>Twilight</i> novel series (*assumed)</p>
+<p dir="rtl"><b>!Gimme that torch, FAST</b><br /><i>Ray Bradbury (1920-2012)</i><br />after reading the <i>Twilight</i> novel series (*assumed)</p>
 
 ---
 
