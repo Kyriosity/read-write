@@ -10,9 +10,9 @@
 > Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.\
 [Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra), 1975
 
-The respected masters couldn't foresee the exponential growth of "applied" development and the entry threshold's dramatic sinking.
+The respected masters couldn't foresee the exponential growth of "applied" development and the dramatic sinking of entry threshold.
 
-I venture to reformulate: "Most enough young and advanced in exact sciences can turn into good software developers but not vice versa".
+I venture to reformulate: "Most advanced in exact sciences can  be good  programmers (unless they already are) but not vice versa".
 
 ## Software
 
@@ -21,8 +21,7 @@ I venture to reformulate: "Most enough young and advanced in exact sciences can 
 > **In 30 years <mark>Lisp</mark> will likely be ahead of C++/Java (but behind something else).**\
 _Peter Norvig_, computer scientist at Google, **1999**
 
-After **25** years miscellaneous metrics place `Java` in the top five, and `C++` &mdash; in ten. `Lisp` is on the margins.
-
+With **25** of 30 elapsed popular metrics rate `Java` in the top five, and `C++` - in ten. `Lisp` remains on the margins.
 
 ## Hardware
 
@@ -31,11 +30,11 @@ After **25** years miscellaneous metrics place `Java` in the top five, and `C++`
 > The programmer's primary weapon in the **never-ending battle against slow system** is to change the intramodular structure.\
 [Fred Brooks](../contributors/README.md#Fred-Brooks)
 
-I dare say that resources and performance are no longer a headache for the majority of applications.
+I dare to say that the battle is over and resources  with performance are no longer a headache for the majority of applications.
 
 > **Software gets slower faster than hardware gets faster.**\
 [Niklaus Wirth](../contributors/README.md#Niklaus-Wirth), 1995, "A Plea for Lean Software" (aka Wirth's law)
 
-Much has changed since the 1990s when sparing half a byte was a big trick. The mercy of auto memory allocation with garbage collection and intermediate languages came only because the hardware could facilitate them.
+Much has changed since the 1990s when sparing half a byte in DOS program was a worthy trick. The grace of auto memory allocation with garbage collection and intermediate languages spread only because the hardware could facilitate them.
 
 🔚 ... to be continued ...
