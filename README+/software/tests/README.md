@@ -1,4 +1,6 @@
-# Test as Drive and QA
+# Software &mdash; Tests
+
+Tests are a unique optional but integral segment of software. It's not what customers get. Testing emerged with software and 
 
 Among SW ADHER, tests, their automatin and coverage take a separate place.
 
