@@ -2,11 +2,9 @@
 
 # Software &mdash; Design & Development &mdash; Drives &mdash; Minority opinion
 
-A little [doubt on TDD de=abbreviation](../../../pencraft/README+/essays/README+/Tests-Big_Watershed.md) triggered my re-thinking of _Drives_. Could I put it simply (before writing volumes)?
+A little [doubt on TDD de-abbreviation](../../../pencraft/README+/essays/README+/Tests-Big_Watershed.md) triggered my re-thinking of _Drives_. 
 
 ## Drive and Let drive
-
-TADELLOS
 
 <details><summary>ILLU</summary>
   
@@ -14,56 +12,17 @@ TADELLOS
 
 ToDo: // ILLUSTRATION W/ BOOKs
 
-## Software driven domain
+## Everything is domain driven ...
 
 Explicit and implicit
 
-SAP as an example
+### ... except
 
-LIST of DRIVes
+SAP, ERP. E-Mail as an example
 
-⚙️ <mark><b>dev driven biz</b></mark>
-
-BEHAVIOR 
-
-|- Domain - everything is domain\
-|- Data\
-|- Event\
-|- Function
 
 🚧🚧🚧🚧🚧 DRAFT: Work in Progress 🚧🚧🚧🚧🚧
 
-Test-Driven Domain/Syntax Design (TDDD, T3D)
-
-## Watershed of test applications
-
-Shortly after the first programs were written, THE same the demand to facilitate their proof with formalized actions and expectations. 
-
-After test automation red-test-first paradigm to prevent the biggest pitfall of CASUALY GREEN results.
-
-The latter
-
-* Discuss and 
-* 
-
-Test-First: option and must
-Coded: option and must
-
-<details>
-
-Tests are one of the most popular subjects of IT discussion.
-
-</details>
-
-## Intro
-
-Tests, as formalized definition of actions and expectations are optional but essential, if not to say native, PART of software. 
-
-THEY CAN SPARE PROTOTYPES, SYS and so on to get a feeling of
-
-As tests evolved into frameworks the next DAWNING was to use tests as a drive for DEV and DESIGN.
-
-This chapter isn't miscellanea but the conjunction of the duo topics, which come hand in hand in the driven development.
 
 ## TEST DRIVE
 
