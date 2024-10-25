@@ -8,19 +8,12 @@
           <br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/design/names">Names</a>
      ⚙️
-      <a href="README+/software/design/drive/">Drives</a>
-     ➰
-     <a href="README+/software/design/samples">Samples</a><br/>
-     &nbsp;&nbsp;<a href="README+/software/QA/"><b>Quality</b></a>&thinsp;<sup>∑</sup>&nbsp;&nbsp;<i>feat.</i>
-          <br />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">of Code</a> 
-    ➿
-     <a href="README+/software/QA/README+/tests-pitfalls.md">Tests pitfalls</a>    
-          <h4>
-     &nbsp;<a href="README+/software/docu"><b>Documentation</b></a>
-     ➿
-     <a href="README+/software/mngmnt"><b>Organization</b></a>
-            </h4>
+      <a href="README+/software/design/drive/">Drives</a>➰<a href="README+/software/design/samples">Samples</a><br/>
+     &nbsp;&nbsp;<a href="README+/software/QA/"><b>QA</b></a>&thinsp;&nbsp;➿&nbsp;<a href="README+/software/tests/README.md"><b>Tests</b></a>
+     <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> ➿
+     <a href="README+/software/tests/asQA/tests-pitfalls.md">Tests pitfalls</a>    
+          <h4>&nbsp;<a href="README+/software/docu"><b><ins>Documentation</ins></b></a>➿<a href="README+/software/mngmnt"><b>Organization</b></a></h4>
      <a href="README+/pencraft"><b>PENCRAFT</b></a>
               <br/>
       &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md">essays</a> 🪝<a href="README+/pencraft/README+/memes">memes</a> 🥨<a href="README+/pencraft/README+/quotes/README.md">quotes</a>
