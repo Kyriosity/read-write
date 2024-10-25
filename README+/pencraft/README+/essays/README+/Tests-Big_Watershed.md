@@ -36,7 +36,7 @@ Think of tests as a superb conductor (proxy) of design drive - domain, behavior,
 
 > "Design tests" must define **what** to develop</ins>. 
 
-These tests and the code behind them must heavily apply doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (not to be buried in implementation). When these get fixed contours and stabilize - they are ready tasks for development: test-driven or not.
+These tests and the code behind them must heavily apply doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (not to be buried in implementation). When procs get fixed contours and stabilize - these doubles are ready tasks for development: test-driven or not.
 
 ### Test Driven Development: T⚙️D<sup>eS</sup>
 
