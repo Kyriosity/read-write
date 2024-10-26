@@ -1,6 +1,6 @@
 ........... 🚧🐝🚧 ... WORK in PROGRESS... 🚧✏️🚧
 
-# Software testing &mdash; Pitfalls 
+# Software &mdash; QA tests &mdash; Pitfalls 
 
 <p dir=rtl>Testers hate it when<br />.developers know these catches<br/>(Clickbait🪝)</p>
 
