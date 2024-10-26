@@ -1,6 +1,10 @@
 # Software &mdash; Quality &mdash; Assurance
 
-Development's frivolous, fleeting, and improvising spirit makes software inherently error-prone. Breaking changes are as close as the fingers to the keyboard, you can always roll back and there's always a gap till delivery to production (for last-minute fixes or bug introduction).
+Development's frivolous, fleeting, and improvising spirit makes software inherently error-prone. 
+
+The product is pure abstraction ether (or simulation), breaking changes are as close as the fingers to the keyboard, you can always roll back and there's always a gap till delivery to production (for last-minute fixes or bug introduction).
+
+## What are errors 
 
 Errors are not only bugs but poor performance, frustrating user experience, and missing functionality.
 
