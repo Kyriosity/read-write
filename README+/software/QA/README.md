@@ -1,34 +1,50 @@
-> ................. 🚧🐝🚧 ... PEN in PROGRESS ... 🚧🖌️🚧 
-
 # Software &mdash; Quality &mdash; Assurance
 
-Development's frivolous, fleeting, and improvising spirit makes software inherently error-prone. Breaking changes are as close as the fingers to the keyboard, you can always roll back and there's always a gap till delivery to production (for last-minute fixes or bug introduction).
+Development's frivolous, fleeting, and improvising spirit makes software inherently error-prone. 
+
+The product is pure abstraction ether (or simulation), breaking changes are as close as the fingers to the keyboard, you can always roll back and there's always a gap till delivery to production (for last-minute fixes or bug introduction).
+
+## What are errors 
 
 Errors are not only bugs but poor performance, frustrating user experience, and missing functionality.
 
+NOTE: WHAT IS Worth ERR
+
+IT Wasn't in REQS
+
 ## Natural born quality
 
-Many must have witnessed big projects done from scratch without allotted QA measures and test automation (let alone code reviews) but robust from the first release. 
-This may occur in localized high-pro teams of responsible individuals but such exceptions make the rule - separated QA is inevitable.
+There were and will be remarkable projects done from scratch without allotted proof and validatin measures (let alone code reviews and test automation) but robust from the first release. 
+
+This may occur in localized high-pro teams of responsible individuals but only underlines the idea of separate software THEME &mdash; __QA__.
 
 Writing [quality code](README+/code-quality.md) must be an objective but teams will be uneven, distributed/fluctuating, and stressed. Add the human nature to sweep problems under the carpet - quite big and thick in the software.
 
 When security risks are a concern other approaches for hacking vulnerability come into play (and devs aren't writing code in a criminal-minded mode).
+yiu can project this statement to cases where IT isn't enough expertise for testing the domain.
 
-## Testing
+## Testing as QA
 
-> NOTE❗**Write-first test coverage shall not drive design while design tests shall not cover functionality to develop.**\
-<sub>This simple revelation struck me at a lecture on TDD when I realized that the last D is not for **D**esign but **D**evelopment.</sub>
+as QA because tests can have another use:  drives 
+))
 
-> Let's put aside tests as ⚙️[drives](../design/drive) though they may complement to proofing coverage.
+### Manual (spontaneous)
 
-### Manual
+Unlike to olden days with BLIND commits  PUNCHcards most development allow to evaluate its product (in whole or by feature) with every step: just build and run.
 
-The developer is the first tester.
+This makes the developer to the original, most PREPAred and, when responsible, most effective and critical tester.
 
-### Automated tests
+REMARK about KNOWN Qua Projects.
 
-Bug searching and quality proofing tests are optional but highly recommended and a natural share of software development. 
+### FORMALIZED TESTS and their automation 
+
+COPY PASTE
+
+Bug searching and quality proofing tests are optional but highly recommended and natural share of software creation. 
+
+TEst automation is oft misnamed as AUTO, since may come hand in hand.
+
+### Test automation
 
 **Further**↙️:\
 |--- [Pitfalls](README+/tests-pitfalls.md)\

@@ -1,6 +1,4 @@
-# Quotes - Store - Backshelve
-
-## Controversial
+# Quotes - Backshelve - Controversy
 
 > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.\
 [Linus Torvalds](../contributors/README.md#Linus-Torvalds)
@@ -22,7 +20,14 @@ Not only derogatory but illogical. Finding nine women in the vicinity who will d
 
 > It is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with **ten** blunt axes instead.
 
-(To add only that the sharpest axes in clumsy hands may have already destroyed all pencils beyond repair.)
+(To add only that the sharpest axes in clumsy hands may have already destroyed all found pencils beyond repair.)
+
+## Idealism
+
+> **Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.** Code for readability.\
+_John F. Woods_, 1991
+
+This accidental quote in a newsgroup (comp.lang.c++) became one of the most cited in IT (oft for fun). Idealistic "always", if taken seriously, stamps [quality code](../../../../../software/QA/README+/code-quality.md) as impossible (that is harmful and wrong).
 
 ## Bitter words
 
@@ -34,7 +39,7 @@ Attributed to [Gerald Weinberg](../contributors/README.md#Gerald-Weinberg)
 
 Knowing the high-responsibility software in which Mr.&nbsp;Weinberg participated one would strongly doubt his authorship. Unless it was a sheer joke.
 
-Despite all epic failures, software, on which our life depends, is extremely robust and, contrary, made the world safer (civil aviation for example). The aphorism shall better be: "If the software is built like houses, updates will be pending for decades."
+Despite all epic failures, software, on which our life depends, is extremely robust and, contrary, made the world safer (50K daily civil aviation flightsfor example). The aphorism shall better be: "If the software is built like houses, updates will be pending for decades."
 
 ### Languages
  
@@ -68,7 +73,7 @@ Sure, an environment may force bad practices but they don't make developers. Vic
 
 </details>
 
-Enough to say that OOP/OOD were mainstream at that time and remain there.
+Enough to say that OOP/OOD prevailed in software then and remains there.
 
 ## Bad advice
 
