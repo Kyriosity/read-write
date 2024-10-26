@@ -8,7 +8,9 @@ The product is pure abstraction ether (or simulation), breaking changes are as c
 
 Errors are not only bugs but poor performance, frustrating user experience, and missing functionality.
 
-NOTE: WHAT IS Worth ERROR
+NOTE: WHAT IS Worth ERR
+
+IT Wasn't in REQS
 
 ## Natural born quality
 
@@ -19,6 +21,7 @@ This may occur in localized high-pro teams of responsible individuals but only u
 Writing [quality code](README+/code-quality.md) must be an objective but teams will be uneven, distributed/fluctuating, and stressed. Add the human nature to sweep problems under the carpet - quite big and thick in the software.
 
 When security risks are a concern other approaches for hacking vulnerability come into play (and devs aren't writing code in a criminal-minded mode).
+yiu can project this statement to cases where IT isn't enough expertise for testing the domain.
 
 ## Testing as QA
 
