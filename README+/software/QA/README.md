@@ -22,6 +22,9 @@ When security risks are a concern other approaches for hacking vulnerability com
 
 ## Testing as QA
 
+as QA because tests can have another use:  drives 
+))
+
 ### Manual (spontaneous)
 
 Unlike to olden days with BLIND commits  PUNCHcards most development allow to evaluate its product (in whole or by feature) with every step: just build and run.
