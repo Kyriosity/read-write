@@ -1,6 +1,6 @@
 # Software creation &mdash; Drives
 
-What guides programming minds (and how) is a separate IT science.
+What guides programming minds (and how) is a separate IT discipline.
 
 _Test Driven Development_, _Domain Driven Design_, and _Event-Driven Architecture_ are only a few household names for approaches.
 
@@ -16,21 +16,27 @@ _Test Driven Development_, _Domain Driven Design_, and _Event-Driven Architectur
 
 The solution is not being dogmatic.
 
-Let's reserve 1:1 one-dir to BOOKs and look over fresher.
+Let's reserve 1:1 one-dir to BOOKs and look over agile.
 
 ### None and all
 
 1:1
 
-### Reverse mode
+### Reverse to switch
 
 ToDo: // ILLUSTRATION W/ BOOKs
 
-### Everything is domain driven ...
+###  Domain drive ... for all
 
-Explicit and implicit
+_Domain-driven_ as dinstinct approach must assume that there're alternatives without. I doubt there're.
 
-### ... except
+software as phenomenon, abstracts domains. explicitly or implicitly DD is permanent force.
+
+We may describe only what violates it: naming exanples.
+
+### ... reverse ?? driven domain
+
+yes. 
 
 SAP, ERP. E-Mail as an example
 
