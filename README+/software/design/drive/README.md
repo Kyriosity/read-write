@@ -1,10 +1,8 @@
 # Software creation &mdash; Drives
 
-What guides programming minds (and how) is a separate IT discipline.
+What guides programming minds (and how) is a separate IT discipline. _Test Driven Development_, _Domain Driven Design_, and _Event-Driven Architecture_ are only a few household names for approaches.
 
-_Test Driven Development_, _Domain Driven Design_, and _Event-Driven Architecture_ are only a few household names for approaches.
-
-<details><summary><ins>&nbsp;<b>Adding more popular items and trying to combine them will paint a messy picture:</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>Adding more subject titles and trying to combine them will paint a messy picture:</b>&nbsp;</ins></summary>
 &nbsp;
   
 <picture><img alt="&thinsp;&nbsp;&nbsp;Combinational mess of drives and driven" src="../../../_rsc/_img/illus/AllDrives.jpg"/></picture>
@@ -14,9 +12,9 @@ _Test Driven Development_, _Domain Driven Design_, and _Event-Driven Architectur
 
 ## Drive and let drive
 
-The solution is not being dogmatic.
+Let's reserve <mark>one-way <b>1&thinsp;:&thinsp;1</b></mark> to voluminous books and evangelists &mdash; they do a great job of defining methodology and popularizing exclusive approaches, which may prevail in particular initiatives but can't be single in real development.
 
-Let's reserve 1:1 one-dir to BOOKs and look over agile.
+Our path to enlightenment is not to be dogmatic and stick to isolated combinations.
 
 ### None and all
 
@@ -28,22 +26,25 @@ ToDo: // ILLUSTRATION W/ BOOKs
 
 ###  Domain drive ... for all
 
-_Domain-driven_ as dinstinct approach must assume that there're alternatives without. I doubt there're.
+_Domain-driven_ as a distinct approach must assume that there are alternatives without that. I doubt there are. Software as a phenomenon abstracts domains. explicitly or implicitly DD is a permanent force.
 
-software as phenomenon, abstracts domains. explicitly or implicitly DD is permanent force.
+One can't avoid DDD, but only break it with over-hierarchies and bad naming.
 
-We may describe only what violates it: naming exanples.
+> DDD-tempered code is adverse to naming like `utility`, `service`, `handler`, or `data` (unless conventions of platforms/frameworks).
 
-### ... reverse ?? driven domain
+#### ... reverse ?? driven domain
 
 yes. 
 
 SAP, ERP. E-Mail as an example
 
-### Tests as separate tools
+### Tests as providers
 
 Testing was a pioneer methodology in driven dev and design.
 
-🚧🚧🚧🚧🚧 DRAFT: Work in Progress 🚧🚧🚧🚧🚧
+#### Wrap up
+
+- Further:\
+--- [Tests as drive](../../tests/asDrive)
 
 🔚
