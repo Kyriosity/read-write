@@ -4,8 +4,7 @@
 
 ## Volume I - IT memes
 
-<details>
-<summary><ins>&nbsp;<b>Primus</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>Primus</b>&nbsp;</ins></summary>
 &nbsp;
   
 ![West meets East](https://img.shields.io/badge/West_meets-East-yellow) ![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)
@@ -29,8 +28,7 @@ Translated east-to-west this means: find a sinecure in a big company.
 ---------
 </details>
 
-<details>
-<summary><ins>&nbsp;<b>Fair random</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>Fair random</b>&nbsp;</ins></summary>
 &nbsp;
   
 ![Genius](https://img.shields.io/badge/💡-Genius-blue)
@@ -46,8 +44,7 @@ As the extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/READ
 ---------
 </details>
 
-<details>
-<summary><ins>&nbsp;<b>Marsupial covariance</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>Marsupial covariance</b>&nbsp;</ins></summary>
 &nbsp;
 
 ![DRY principle](https://img.shields.io/badge/clean_code-Oz-cyan)  ![clean code](https://img.shields.io/badge/DRY-🇦🇺-yellow) ![fact check](https://img.shields.io/badge/Fact❓-Check❗-green)  
@@ -78,8 +75,7 @@ As the extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/READ
 
 </details>
 
-<details>
-<summary><ins>&nbsp;<b>Programmer in a math class</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>Programmer in a math class</b>&nbsp;</ins></summary>
 &nbsp;
 
 ![IT meets math](https://img.shields.io/badge/CTRL+F-X-blue) ![IT meets math](https://img.shields.io/badge/IT_meets-math-yellow)
@@ -92,8 +88,7 @@ It's normal to neglect a triage algorithm implementation (that a platform provid
 ---------
 </details>
 
-<details>
-<summary><ins>&nbsp;<b>Historic snapshots</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>Historic snapshots</b>&nbsp;</ins></summary>
 
 ### :cd: When disks were indeed hard and strong skills in IT were in no way exaggerated requirements...
 
@@ -116,8 +111,7 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 </details>
 
-<details>
-<summary><ins>&nbsp;<b>AI</b>&nbsp;</ins><code>xor</code><ins>&nbsp;<b>IT</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>AI</b>&nbsp;</ins><code>xor</code><ins>&nbsp;<b>IT</b>&nbsp;</ins></summary>
 <a name="AIxorIT"></a>&nbsp;
 
 ![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
@@ -132,8 +126,7 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 </details>
 
-<details>
-<summary><ins>&nbsp;<b>Cooked up metaphors</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>Cooked up metaphors</b>&nbsp;</ins></summary>
 
 #### Deployment tenses
 
@@ -168,6 +161,14 @@ VOAYGER
 
 ---
 
+</details>
+
+<details><summary><ins>&nbsp;<b>Drive and let drive</b>&nbsp;</ins></summary>
+&nbsp;
+
+🚧 COMING...NEXT
+
+---
 </details>
 
 |- [**Volume&nbsp;II. Inspirational quotes**](../quotes/README+/inspirational.md) 
