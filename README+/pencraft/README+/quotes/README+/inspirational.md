@@ -66,7 +66,7 @@ Comming next&mdash;[National Procrastination Week](https://en.wikipedia.org/wiki
 <details><summary><ins>&nbsp;<b>...for perfectionism</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="&nbsp;Collage: best works of modern perfectionism" src="../../../../_rsc/_img/memes/collage-modern_perfectionism.jpg" /></picture><br />
+<br /><picture><img alt="&nbsp;Collage: best works of modern perfectionism" src="../../../../_rsc/_img/memes/collage-modern_perfectionism.jpg" title="&nbsp;... the best of design" /></picture><br />
 
 #### Classics
 
