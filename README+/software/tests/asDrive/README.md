@@ -60,6 +60,8 @@ TDD/DDD isn't _lapis philosophorum_ and is barely a good approach for:
 + badly formalizable entities: artistic brush, or generated text (image, video, or sounds)
 + non-reproducible calculations.
 
+We haven't resolved a mere trifle. How to make the TDD job effective and appealing. How to make tests a natural starting point for developers.
+
 
 🚧🐝🖋️ ...PLACEHOLDER...🚧🚧🚧
 
