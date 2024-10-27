@@ -12,7 +12,7 @@ What guides programming minds (and how) is a separate IT discipline. _Test Drive
 
 ## Drive and let drive
 
-Let's reserve <mark>one-way <b>1&thinsp;:&thinsp;1</b></mark> to voluminous books and evangelists &mdash; they do a great job of defining methodology and popularizing exclusive approaches, which may prevail in particular initiatives but can't be single in real development.
+Let's reserve <mark>one-way <b>1&thinsp;:&thinsp;1</b></mark> to voluminous books and evangelists &mdash; they do a great job of defining methodology and popularizing exclusive approaches, which may prevail in particular initiatives but can't be self-contained on praxis.
 
 Our path to enlightenment is not to be dogmatic and stick to isolated combinations.
 
@@ -44,7 +44,7 @@ Testing was a pioneer methodology in driven dev and design.
 
 #### Wrap up
 
-- Further:\
---- [Tests as drive](../../tests/asDrive)
+- **Further**:\
+|- [Tests as drive](../../tests/asDrive)
 
 🔚
