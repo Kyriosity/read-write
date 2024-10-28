@@ -1,6 +1,6 @@
-# Software &mdash; Test &mdash; as Drive
+# Software &mdash; Tests as/for Drive
 
-The idea to write tests not only postfactum to validate programs but prior to guide their creation can be rooted back to 1950s when high level languages emerged.<sup>👴</sup>
+The idea to write tests not only postfactum to validate programs but prior to guiding their creation can be rooted back to the 1950s when high-level languages emerged.<sup>👴</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👴</sup> <sub>One of the best summaries is in [You won't believe how old TDD is](https://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/)<sup>🔗</sup>.</sub>
 
@@ -8,7 +8,7 @@ Simplicity and versatility make **TDD** superb for insight into fuzzy topics (al
 
 + It's simple because it needs neither special skills nor prescribed processes.
 + It's versatile since it can be applied to any extent and direction, mock and stub anything, or rely on realistic data.
-+ It's natural to start with - write a test method to test first code snippets.
++ It's natural to start with writing a test method to test the first code snippets.
 + Popular and mostly free unit-test frameworks libraries equip one enough to start. (Any modern IDE is shipped with a selection of testing templates.)
 
 The purpose of TDD is in no way test automation but means to:
