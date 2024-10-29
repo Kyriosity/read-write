@@ -9,7 +9,7 @@ There's a discernible inclination in quotes toward the mathematicians and engine
 
 #### John von Neumann
 
-_John von Neumann_ (**1903**, Budapest - 1957, Washington, D.C. 🇺🇸)<span title="Martians as scientific group"><sup>👽</sup></span> one of IT founders, _inter alia_ mathematician with the widest coverage. 
+_John von Neumann_ (**1903** - 1957, Washington, D.C. 🇺🇸)<span title="Martians as scientific group"><sup>👽</sup></span> one of IT founders, _inter alia_ mathematician with the widest coverage. 
 
 One of the numerous honoring quotes about him: «Most mathematicians prove what they can, von Neumann proves what he wants.» (_Paul Halmos_)
 
@@ -57,9 +57,9 @@ _Seymour Roger Cray_ 🇺🇸 (1925-1996), UoM, father of supercomputers
 
 #### Edsger W. Dijkstra
 
-_Edsger Wybe Dijkstra_ 🇳🇱 (**1930**, Rotterdam  - 2002)🇳🇱<sup title="Turing Award, 1972">🥇</sup> known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+_Edsger Wybe Dijkstra_ 🇳🇱 (**1930**, Rotterdam  - 2002)🇳🇱<sup title="Turing Award, 1972">🥇</sup> known also for a [graph algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)<sup><b>w</b></sup>
 
- The inventor of _mutex_, ¿the abolisher of `goto`? (sorry, it was _Niklaus Wirth_).
+The inventor of _mutex_, ¿the abolisher of `goto`? (sorry, it was _Niklaus Wirth_).
 
 #### Fred Brooks
 
@@ -85,7 +85,7 @@ _Donald Ervin Knuth_ (born **1938** Milwaukee, Wisconsin 🇺🇸)<sup title="Tu
 
 #### Barbara Liskov
 
-Prof. _Barbara Jane Liskov_, née _Huberman_ (born **1939**) 🇺🇸 <sup title="Turing Award, 2008">🥇</sup> MIT, awardee of multiple prizes (incl. Turing), the only one honored with a personal letter in [SO**L**ID](https://en.wikipedia.org/wiki/SOLID)
+Prof. _Barbara Jane Liskov_, née _Huberman_ (born **1939**) 🇺🇸 <sup title="Turing Award, 2008">🥇</sup> MIT, awardee of multiple prizes (incl. Turing), the only one honored with a personal letter in [SO**L**ID](https://en.wikipedia.org/wiki/SOLID)<sup><b>w</b></sup>
 
 Data abstraction concepts, to which she mostly contributed, became natural as the mother tongue but then it was *terra incognita*.
 
@@ -109,7 +109,7 @@ _Paul Richard Halmos_ (**1916**-2006)<sup>👽</sup> UIUC, a mathematician with 
 
 ### Gang of Four and Design Patterns
 
-The founders of UML and the first famous [Design Pattern](https://en.wikipedia.org/wiki/Design_Patterns) "almanac".
+The founders of UML and the first famous [Design Pattern](https://en.wikipedia.org/wiki/Design_Patterns)<sup><b>w</b></sup> "almanac".
 
 GoF: Erich Gamma 🇨🇭, _Richard Helm_, _Ralph Johnson_ 🇺🇸, and _John Vlissides_ 🇺🇸
 
@@ -141,7 +141,7 @@ _Theodore von Kármán_ (**1881**-1963)<sup>👽</sup>, outstanding aerospace en
 
 _Hubert Lederer Dreyfus_ (1929-2017) 🇺🇸, Professor of philosophy at UC Berkeley
 
-He was brave enough to be [critical of AI](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence) in the years it wasn't commercial hype but the research. Known for the books:
+He was brave enough to be [critical of AI](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence)<sup><b>w</b></sup> in the years it wasn't commercial hype but the research. Known for the books:
 
 + _Alchemy and Artificial Intelligence_, 1965
 + _What Computers Can't Do_, 1972\
@@ -162,11 +162,11 @@ _Richard Matthew Stallman_, founder of GNU and Free Software Movement
 
 #### Kent Beck
 
-_Kent Beck_ (born 1961) 🇺🇸 the eXtreme Programming founder, a signer of _Agile Manifesto_, a prolific author on patterns and contributor to frameworks ([JUnit](https://github.com/junit-team)<sup>🔗</sup> as most famous).
+_Kent Beck_ (born 1961) 🇺🇸 the eXtreme Programming founder, a signer of _Agile Manifesto_, a productive author on patterns and contributor to frameworks ([JUnit](https://github.com/junit-team)&thinsp;<sup>:octocat:</sup> as the most famous).
 
 \______
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>👽</sup> <sub>Labelled selection of prominent scientists known as [Martians](https://en.wikipedia.org/wiki/The_Martians_(scientists))<sup>🔗</sup></sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🥇</sup> <sub>Association for Computing Machinery [Turing Award](https://en.wikipedia.org/wiki/Turing_Award)<sup>🔗</sup>, aka "Nobel Prize of Computing".</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>👽</sup> <sub>Labelled selection of prominent scientists known as [Martians](https://en.wikipedia.org/wiki/The_Martians_(scientists))<sup><b>w</b></sup></sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🥇</sup> <sub>Association for Computing Machinery [Turing Award](https://en.wikipedia.org/wiki/Turing_Award)<sup><b>w</b></sup>, aka "Nobel Prize of Computing".</sub>
 
 🔚 ... but to be continued ...
