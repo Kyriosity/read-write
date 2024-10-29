@@ -25,7 +25,7 @@ Exploring source codes of prominent providers on GitHub or elsewhere you'll find
 \____________________________________
 </details>
 
-One other distinct and legitimate niche is [comment-driven development](https://en.wikipedia.org/wiki/Comment_programming)<sup>🔗</sup>. Further options can be worth deliberation as:
+One other distinct and legitimate niche is [comment-driven development](https://en.wikipedia.org/wiki/Comment_programming)<sup><b>w</b></sup> (though it's more of fun). Further options can be worth deliberation as:
 
 * Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation).\
 <sub>The automation of this idea may stumble on implementation and maintenance expenses.</sub>
