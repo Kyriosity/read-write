@@ -71,6 +71,6 @@ Ensure that your spell- and grammarcheckers recognize replacements.
 
 **Last but not least** - stamp with an ending sign or note, even if there's a "conclusion" section (there might be appendices missing).
 
-Ensure yourself and your readers that it was the intentional ending. Use custom note (like below), typographical ["tombstone"](https://en.wikipedia.org/wiki/Tombstone_(typography)), or exquisite [Q.E.D.](https://en.wikipedia.org/wiki/Q.E.D.)
+Ensure yourself and your readers that it was the intentional ending. Use custom note (like below), typographical ["tombstone"](https://en.wikipedia.org/wiki/Tombstone_(typography))<sup><b>w</b></sup>, or exquisite [Q.E.D.](https://en.wikipedia.org/wiki/Q.E.D.)<sup><b>w</b></sup>
 
 🔚 🌘 2024 ...TO BE CONTINUED ✏️...
