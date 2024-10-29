@@ -1,8 +1,8 @@
-# Code, dev and docu - Management - Overview
+# Code, Dev, and Docu &mdash; Management &mdash; Overview
 
 The exponential (and chaotic) growth of software projects in the 2000s founded the "parallel" realm of their organization: requirements/issue tracking, code collecting/versioning, collaboration tools, deployment services, and project management.
 
-You must be reading now from a repository on _Git_<sup>:octocat:</sup> but names of other platforms, frameworks, and methodologies would take some screens to name only the popular ones.
+You must be reading now from a repository on _**Git**_&thinsp;<sup>:octocat:</sup> but names of other platforms, frameworks, and methodologies would take some screens to name only the popular ones.
 
 ## Good organization
 
@@ -31,9 +31,9 @@ Commendable organization endows every process/measure with an exact explanation 
 
 ## Wrap up
 
-DevOps grew from primitive file check-in/out to cloud solutions<sup>☁️</sup>, and now claims to use neural networks and LLM. However, as described in [my Lotus Notes](../../pencraft/README+/essays/README+/LN-view.md) simple and sound tools still can do the job.
+DevOps grew from primitive file check-in/out to cloud solutions<sup>☁️</sup>, and now claims to use neural networks and <samp>LLM</samp>. However, as described in [my "Lotus" notes](../../pencraft/README+/essays/README+/LN-view.md) simple and sound tools still can do the job.
 
-How? No automation can beat _the laissez-faire_ of responsible win-win-thinking craftsmen.
+How? No methodology, organisation, and automation can beat _the laissez-faire_ of responsible win-win-thinking craftsmen.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>☁️</sup> <sub>like TFS became Azure DevOps Server</sub>
 
