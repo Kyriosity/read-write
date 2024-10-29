@@ -10,7 +10,7 @@ Master _Torvalds_ could have meant renowned open-source contributors, but most s
 >  Everyone knows it takes a woman nine months to have a baby. But you Americans think if you get nine women pregnant, you can have a baby in a month.\
 _Theodore von Kármán_ (1957)
 
-It matched a private aviation engineering talk but [Fred Brooks](../contributors/README.md#Fred-Brooks) popularized the phrase in his [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)<sup>🔗</sup>:
+It matched a private aviation engineering talk but [Fred Brooks](../contributors/README.md#Fred-Brooks) popularized the phrase in his [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)<sup><b>w</b></sup>:
 
 > The bearing of a child takes nine months, no matter how many women are assigned.
 
