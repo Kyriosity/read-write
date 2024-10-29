@@ -1,14 +1,13 @@
 # Punched cards - Once upon a time
 
-> Not another paraphrase of [wiki files](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup>🔗</sup>
+> Not another paraphrase of [wiki articles](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup><b>w</b></sup>
 
 <table><tr><td>
 <picture><img alt="Ancient Egypt bas-relief" src="../../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg" /></picture>
 </td><td>
       <p><a href="../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg"><img src="../../../../_rsc/_img/af/punchcard.jpg" alt="Punch card in 1966" /></a><p>
 </td><td>
-<picture><img alt="Please do not bend" src="../../../../_rsc/_img/signs/do_not_bend-h200px.jpg" />
-</picture>
+<picture><img alt="Please do not bend" src="../../../../_rsc/_img/signs/do_not_bend-h200px.jpg" /></picture>
 </td></tr></table>
 
 ## Intramural experience - short and vintage
@@ -21,8 +20,8 @@ It was an exercise in PL/I&nbsp;<sup>🔢</sup> - output a curve of an assigned 
 
 Believe it or not, there was no electronic display in this story.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔢</sup>&nbsp;<sub>IBM's procedural [Programming Language One](https://en.wikipedia.org/wiki/PL/I)
-PL/1, DB2, OS/2, Type-III, BS12,... - the Blue Giant was also a names' lord.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔢</sup>&nbsp;<sub>IBM's procedural [Programming Language One](https://en.wikipedia.org/wiki/PL/I)<sup><b>w</b></sup> 
+(PL/1, DB2, OS/2, Type-III, BS12,... - the Blue Giant was also a names' lord).</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:cinema:</sup><sub>Fun fact: traces of PL/1 appear in the epic [2001: A Space Odyssey](https://www.wired.com/story/2001-a-space-odyssey-predicted-the-future50-years-ago/).</sub>
 
 ### Carton in, paper out
@@ -60,7 +59,7 @@ And that's why.
 + The cards will be intact for millennia in harsh environments.\
 Any mechanical action, dirt, temperature, or humidity, that can damage them, will irreparably sweep other media.  A cheap safe box will rescue them from direct fire and chemical agents.
 + Electromagnetic emission in the whole spectrum can't bring even a tiny data loss.\
-It's not about household magnets, short circuits, and solar flares. Punch cards will survive nuclear disasters and [gamma-ray bursts](https://en.wikipedia.org/wiki/Gamma-ray_burst)<sup>🔗</sup>.
+It's not about household magnets, short circuits, and solar flares. Punch cards will survive nuclear disasters and [gamma-ray bursts](https://en.wikipedia.org/wiki/Gamma-ray_burst)<sup><b>w</b></sup>.
 + They have a look&feel of data storage, easy to read<sup>🪢</sup> manually or with DIY device.
 + Eco-friendly and highly utilizable.\
 Even if the data remains unclaimed or safely copied, our heirs or other species may use the cards as our ancestors: bookmarks, pads, or fans.
@@ -68,7 +67,7 @@ Even if the data remains unclaimed or safely copied, our heirs or other species 
 <sup>💾</sup> <sub>Prederemined by data density: there could be no mini and micro, or double side next.</sub>\
 <sup>📚</sup> <sub>As it happened with the Writing in centuries before Homer.</sub>\
 <sup>🚀</sup> <sub>A deck of punchcards could make a better impression than naive [Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque) 
-and volatile mundane [phonograph records](https://en.wikipedia.org/wiki/Voyager_Golden_Record).</sub>\
+and volatile mundane [phonograph records](https://en.wikipedia.org/wiki/Voyager_Golden_Record)<sup><b>w</b></sup>.</sub>\
 <sup>🪢</sup> <sub>Though there was a joke that IBM's positioning of holes won the US government bid for encryption.</sub>
 
 \_______
