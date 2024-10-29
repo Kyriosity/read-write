@@ -1,4 +1,4 @@
-# Application model - Reminder
+# Application model &mdash; Reminder
 
 The _Model_, though a rather obscure term, is a cornerstone of software engineering, which shapes and formalizes entities and tasks of the application.
 
@@ -6,14 +6,14 @@ A model may rank from the dumbest `new Brick { w = 20, d = 12, h = 6,5 }` up to 
 
 ## Insight into model data
 
-First and foremost, _model_ is not identical to _data_, it's a vital but nevertheless optional part. A model may render pure functionality (e.g. input and output of hash calculation).
+First and foremost, _model_ is not identical to _data_, it's a vital but optional part. A model may render pure functionality (e.g. input and output of hash calculation).
 
 Model data can be a homogeneous monolith of primitive data types, as well as distributed and heterogeneous high-level abstraction.\
 Serving not only business or other primary data but may present collateral settings, statistics, roaming, or temporary storage.
 
 It can be:
 
-+ hardcoded, stubbed, mocked, randomized or even _null_-ed
++ hardcoded, stubbed, mocked, randomized, or even _null_-ed
 + transient vs. persistent
 + read from a file, db, cloud, pipe, service, queue; recognized speech
 + plain (naked) or decorated with logic
@@ -41,6 +41,6 @@ The model shall be thread- and async-friendly, even if it's not required.
 :construction: TO BE CONTINUED w/ EXAMPLES :construction:
 
 **Further reading:**\
-|- ➡️ [Tasks as models](https://github.com/Kyriosity/use-dev/edit/main/README%2B/decisions/README%2B/model_as_tasks.md) (use-dev)
+|- [Tasks as models](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/model_as_tasks.md) ➡️(use-dev)
 
 🔚
