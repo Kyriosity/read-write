@@ -6,16 +6,16 @@ Along with [nice-to-have syntax/features](../cs-lacks.md) **C#** could grow with
 
 Tests for drive or coverage are optional but natural share of development. The three most popular frameworks for .NET have their pros and contras but neither is in the state-of-the-art.
 
-🚧🚧🚧🚧 ... DRAFT .... 🚧🚧🚧🚧🚧
-Link to [3D&nbsp;re&#8209;view](https://github.com/Kyriosity/use-dev/tree/main/readme+/decisions/testing/test3D) with partial solution.
+**See also**:\
+|- [Testing on praxis](https://github.com/Kyriosity/use-dev/tree/main/README+/tests) ➡️(use-dev)
 
 ## Math
 
-Native [Math](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>🔗</sup> is pretty scarce, and 3d-party libraries aren't in the state of the art.
+Native [`Math`](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>🔗</sup> is pretty scarce, and 3d-party libraries aren't in the state of the art.
 
-C# would only profit from a lightweight assembly that could: 
+<b>C#</b> would only profit from a lightweight assembly that could: 
 
-+ inventory more [constants](https://en.wikipedia.org/wiki/Mathematical_constant)<sup>🔗</sup>,
++ inventory more [constants](https://en.wikipedia.org/wiki/Mathematical_constant)<sup><b>w</b></sup>,
 + provide more useful functions (there are myriads uncovered),
 + approximate popular irrational values like π (Pi) to the requested length,
 + generate and check numbers in [sequences](http://oeis.org/wiki/Welcome)<sup>🔗</sup> (`bool Prime.Has(ulong num)`), detect sequences,
@@ -87,3 +87,6 @@ And, not least, add syntax sugar like
 &nbsp;&nbsp;&nbsp;&nbsp;*forms* - grammar forms as in imaginary `INumbered` in the snippet above
 
 </details>
+
+\___________\
+🔚
