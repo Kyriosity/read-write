@@ -11,7 +11,7 @@
 
 The backside of scientific fame is that the figure of Albert Einstein (but not he) became the King of misattributed citation. And this quote, beloved in sci-pop and crash courses, is a shining diamond in the crown of dubious authorship.
 
-Dr.&nbsp;Einstein was the least thinker to say such a thing. **Nobody can explain a thesis simply** (or in detail) **if the learner doesn't know the subject fundamentally.**
+Dr.&nbsp;Einstein would the least thinker for such an idea. **Nobody can explain a thesis simply** (or in detail) **if the learner doesn't know the subject fundamentally.** Not every wizard will even remember the learning path left behind.
 
 \___________
 
