@@ -2,7 +2,7 @@
 
 ❗🏠 && ❗🏢 = 🏞️ 🚋🛸
 
-All the photos here were staged when contributing to repositories.
+<p align="center"><b><samp>NOT HOME, NOT OFFICE</samp></b></p>
 
 ## Planes, Trains & ... whatever
 
@@ -13,17 +13,20 @@ All the photos here were staged when contributing to repositories.
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/NUE-brougham.jpg" title="&nbsp;Shuttles at the NUE airport" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/2024.06.05_NUE.jpg" title="&nbsp;Sheep spotting (NUE SCHAFft sich ab)" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/secured_zone.jpg" title="&nbsp;One other airport security zone" width="300"/></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/rw/DB/ICE888.jpg" title="&nbsp;DB Intercity Express" width="300"/></span>
 
 ## Nature
 
 <span><img alt="&nbsp;&nbsp;&nbsp;image not foundt" src="../../../_rsc/_img/photo/blog/aqua/Brombachsee-eBucht-pier.jpg" width="300" title="&nbsp;Brombachsee, Mittelfranken, Germany" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/mount/Ochsenkopf_July.jpg" width="300" title="&nbsp;Slopes of Mt. Ochsenopf, Fichtelgebirge, 1'024m" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Sea_balcony.jpg" width="300" title="&nbsp;Vlore, Albania" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Karaburun.jpg" width="300" title="&nbsp;Ionic" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Tekirova.jpg" width="300" title="&nbsp;Tekirova" /></span>
 
 ## Public spots
 
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/StadtBiblio.jpg" width="300" title="&nbsp;Stadt Bibliothek, reading hall" /></span>
-<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Karaburun.jpg" width="300" title="&nbsp;Ionic" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Starbux.jpg" width="300" title="&nbsp;Starbucks" /></span>
 
 \___________\
-🔚 ... to be continued ...
+🔚 ... to be expanded ...
