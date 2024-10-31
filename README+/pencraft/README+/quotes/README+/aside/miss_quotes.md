@@ -4,14 +4,14 @@
 .the garbage they will quote as mine</mark><br/>
 .<i>M.Twain</i>, <i>M.K.Ghandi</i>, <i>A.Einstein</i>, and <i><b>Anonymous</b></i></p>
 
-## Top quotes
+## Intro
 
 > **If you can't explain it simply, you don't understand it well enough.**\
 <s>Albert Einstein</s> 🤦‍♂️🤦🤦‍♀️
 
 The backside of scientific fame is that the figure of Albert Einstein (but not he) became the King of misattributed citation. And this quote, beloved in sci-pop and crash courses, is a shining diamond in the crown of dubious authorship.
 
-Dr.&nbsp;Einstein would the least thinker for such an idea. **Nobody can explain a thesis simply** (or in detail) **if the learner doesn't know the subject fundamentally.** Not every wizard will even remember the learning path left behind.
+Dr.&nbsp;Einstein would be the least thinker for such an idea. **Nobody can explain a thesis simply** (or in detail) **if the learner doesn't know the subject fundamentally.** Not every wizard will even remember the learning path left behind.
 
 \___________
 
@@ -23,7 +23,7 @@ _Popular Mechanics, March 1949_
 
 Wrongly quoted as futuristic cringe, it wasn't.
 
-The same magazine over seven decades later: "Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons."
+The same magazine over seven decades later: «Fully transistorized computer, the IBM 608, hit the market in late 1957. It weighed 1.2 tons.»
 
 ---
 
