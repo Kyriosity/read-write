@@ -92,7 +92,7 @@ It's normal to neglect a triage algorithm implementation (that a platform provid
 
 ### :cd: When disks were indeed hard and strong skills in IT were in no way exaggerated requirements...
 
-<picture><img alt="The year 1956: loading an IBM disk to rent" src="../../../_rsc/_img/photo/hist/IBM350_1956.jpg" /></picture><br/><br/>
+<picture><img alt="&nbsp;&nbsp;The year 1956: loading an IBM disk to rent" src="../../../_rsc/_img/photo/hist/IBM350_1956.jpg" /></picture><br/><br/>
 
 ### 🗃️ Tell her about debugging 
 
@@ -102,10 +102,20 @@ A stack of punch cards for a casual program. I'm proud to have a [little experie
 
 ### Full self-drive "next year" since 2014? 1957!
 
-<picture><img alt="LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../_rsc/_img/snap/media/1957.02.25_LIFE_Page8_FSD.jpg" /></picture><br/>
+<picture><img alt="&nbsp;&nbsp;LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../_rsc/_img/snap/media/1957.02.25_LIFE_Page8_FSD.jpg" /></picture><br/>
 
 > ELECTRICITY MAY BE THE DRIVER. One day your car may speed along an electric highway, its speed and steering automatically controlled by electronic devices embedded in the road.\
 _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
+
+### 📱 Astonishing prediction of mobile phones in 1926!
+
+<picture><img alt="&nbsp;&nbsp;Berlin, drahtlose Telephonie" src="../../../_rsc/_img/snap/media/1926.jpg" /></picture>
+
+
+**drahtlose Telephonie** == wireless telephony,
+Friedrich-Behrenstraße <b>.</b>&thinsp;<b>.</b>&thinsp;<b>.</b> gut &mdash; bon &mdash; gemacht &mdash; comme sofort"
+
+Simpicissmus, Karl Arnold (found in the book 100 Discoveries)
 
 ---------
 
@@ -139,8 +149,8 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
   <tr>
      <td><picture><img src="../../../_rsc/_img/af/convent.jpg" alt="&nbsp;&nbsp;&nbsp;Monks, Medieval convent" 
         alt="&nbsp;&nbsp;&nbsp;Image of convent" title="It worked on my ..." width="200" /></picture></td>
-    <td><picture><img src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" alt="punchcard stack" title="Pucnhcards ..." width="200" /></picture></td>
-    <td><picture><img alt="&nbsp;&nbsp;&nbsp;Personal Computer" " width="200" /></picture></td>
+    <td><picture><img src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" alt="&nbsp;&nbsp;punchcard stack" title="Pucnhcards ..." width="200" /></picture></td>
+    <td><picture><img alt="&nbsp;&nbsp;&nbsp;Personal Computer" width="200" /></picture></td>
     <td><picture><img alt="&nbsp;&nbsp;&nbsp;Image of cloud" width="200" /></picture></td>
     <td><picture><img src="../../../_rsc/_img/symbols/phys/MIT-qubit_500px.jpg"
         alt="&nbsp;&nbsp;&nbsp;Imagine a qubit" width="200" title=" Image credit: MIT, Awschalom Group, D. Laorenza"  /></picture></td>
