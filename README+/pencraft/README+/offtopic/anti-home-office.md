@@ -6,7 +6,7 @@
 
 ## Planes, Trains & ... whatever
 
-<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/A320-dim_cabin.jpg" title="&nbsp;NUE Airport, secured zone" width="300"/></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/A320-dim_cabin.jpg" title="&nbsp;on a flight from NUE" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/NUE-Atlas_747.jpg" title="&nbsp;Boeing 747-422 (Atlas Air) landing in the NUE airport" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/NUE.2024-WtoE.jpg" title="&nbsp;West-East landing in the NUE airport" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/NUE-Hall_west.jpg" title="&nbsp;NUE Airport, secured zone" width="300"/></span>
@@ -22,11 +22,13 @@
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Sea_balcony.jpg" width="300" title="&nbsp;Vlore, Albania" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Karaburun.jpg" width="300" title="&nbsp;Ionic" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Tekirova.jpg" width="300" title="&nbsp;Tekirova" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/beach.jpg" width="300" title="&nbsp;River beach" /></span>
 
 ## Public spots
 
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/StadtBiblio.jpg" width="300" title="&nbsp;Stadt Bibliothek, reading hall" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Starbux.jpg" width="300" title="&nbsp;Starbucks" /></span>
 
-\___________\
-🔚 ... to be expanded ...
+\___________
+
+🔚 ... All snapshots are genuine and feature my programming and writing activity
