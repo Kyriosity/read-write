@@ -1,13 +1,13 @@
-# Idiomatic collection
+# Idiomatic collection - IT memes
 
 <div dir="rtl"><i>I like epigraphs for<br/>magnificent look and<br>.vertical indent</i></div>
 
-## Volume I - IT memes
+## Primus
 
-<details><summary><ins>&nbsp;<b>Primus</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>West meets east</b>&nbsp;</ins></summary>
 &nbsp;
   
-![West meets East](https://img.shields.io/badge/West_meets-East-yellow) ![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)
+![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)
 
 [![... then IT must be a waterfall.](../../../_rsc/_img/memes/ITLearnWaterfall_horiz.png)](../../../software/)
 
@@ -28,6 +28,23 @@ Translated east-to-west this means: find a sinecure in a big company.
 ---------
 </details>
 
+<details><summary><ins>&nbsp;<b>AI</b>&nbsp;</ins><code>xor</code><ins>&nbsp;<b>IT</b>&nbsp;</ins></summary>
+<a name="AIxorIT"></a>&nbsp;
+
+![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
+
+[![AI: 1500s vs 2020s](../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](../essays/README+/AI-2020s.md)
+
+<sub>Answer: Homunculus shows the middle finger on the left hand.</sub>
+
+<mark><b>P.S.</b></mark> Honestly, I concocted this collage before coming on "Alchemy and AI", 1965, by [Hubert Dreyfus](../quotes/README+/contributors/README.md#Hubert-Dreyfus). 
+
+---
+
+</details>
+
+## Programming techniques
+
 <details><summary><ins>&nbsp;<b>Fair random</b>&nbsp;</ins></summary>
 &nbsp;
   
@@ -43,6 +60,21 @@ As the extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/READ
 
 ---------
 </details>
+
+<details><summary><ins>&nbsp;<b>Programmer in a math class</b>&nbsp;</ins></summary>
+&nbsp;
+
+![IT meets math](https://img.shields.io/badge/CTRL+F-X-blue) ![IT meets math](https://img.shields.io/badge/IT_meets-math-yellow)
+
+<picture><img alt="Here is X. Calm down Pythagoras" src="../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg" /></picture><br/><br/>
+
+Justified: abilities in exact sciences are no longer a prerequisite for applied programming. 
+It's normal to neglect a triage algorithm implementation (that a platform provides) rather than to write one's own or even comprehend/differentiate one.
+
+---------
+</details>
+
+## Urban legends / Tales from the Crypt
 
 <details><summary><ins>&nbsp;<b>Marsupial covariance</b>&nbsp;</ins></summary>
 &nbsp;
@@ -75,70 +107,51 @@ As the extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/READ
 
 </details>
 
-<details><summary><ins>&nbsp;<b>Programmer in a math class</b>&nbsp;</ins></summary>
+## Historic snapshots
+
+<details><summary>📱 <b><ins>&nbsp;<mark>1926</mark>: Mobile phones rock Berlin&nbsp;</ins></b></summary>
 &nbsp;
 
-![IT meets math](https://img.shields.io/badge/CTRL+F-X-blue) ![IT meets math](https://img.shields.io/badge/IT_meets-math-yellow)
+<picture><img alt="&nbsp;&nbsp;Berlin, drahtlose Telephonie" src="../../../_rsc/_img/snap/media/1926.Simplicissimus-KarlArnold_drahtloseTelefonie.jpg" 
+ title="&nbsp;Colored to highlight the devices (original: black&white)" /></picture>
+<div dir="rtl">,<b><i>Berlin Drahtlose Telephonie</i></b> <kbd><b>DE</b>&thinsp;->&thinsp;<b>EN</b></kbd> Berlin wireless telephony<br />
+<b><i>Bier Ausable zur Zeit Cafe Friedrich-Behrenstraße .&thinsp;.&thinsp;. gut &mdash; bon &mdash; gemacht &mdash; comme sofort</i></b><br />
+<i>a fellow shares the location of cafe</i>] .&thinsp;.&thinsp;. good, <i>bon</i>, agreed, &mdash; be there in a moment] <kbd><b>DE</b>&thinsp;->&thinsp;<b>EN</b></kbd>
+</div><br />
 
-<picture><img alt="Here is X. Calm down Pythagoras" src="../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg" /></picture><br/><br/>
+The caricature may look sloppy, but the vision of its author Karl Arnold impresses: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
 
-Justified: abilities in exact sciences are no longer a prerequisite for applied programming. 
-It's normal to neglect a triage algorithm implementation (that a platform provides) rather than to write one's own or even comprehend/differentiate one.
-
----------
 </details>
 
-<details><summary><ins>&nbsp;<b>Historic snapshots</b>&nbsp;</ins></summary>
-
-### :cd: When disks were indeed hard and strong skills in IT were in no way exaggerated requirements...
+<details><summary>💿<ins>&nbsp;<b><mark>1956</mark>: When disks were indeed hard and strong skills in IT were in no way exaggerated requirements...</b>&nbsp;</ins></summary>
+&nbsp;
 
 <picture><img alt="&nbsp;&nbsp;The year 1956: loading an IBM disk to rent" src="../../../_rsc/_img/photo/hist/IBM350_1956.jpg" /></picture><br/><br/>
 
-### 🗃️ Tell her about debugging 
+</details>
 
-<picture><img alt="LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" /></picture><br/>
-
-A stack of punch cards for a casual program. I'm proud to have a [little experience](../essays/README+/punchcard.md) of dealing with them
-
-### Full self-drive "next year" since 2014? 1957!
+<details><summary>🚗 <b><ins>&nbsp;<mark>1957</mark>: Full self-drive "next year" since 2014. Sure?&nbsp;</ins></b></summary>
+&nbsp;
 
 <picture><img alt="&nbsp;&nbsp;LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../_rsc/_img/snap/media/1957.02.25_LIFE_Page8_FSD.jpg" /></picture><br/>
 
 > ELECTRICITY MAY BE THE DRIVER. One day your car may speed along an electric highway, its speed and steering automatically controlled by electronic devices embedded in the road.\
 _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
-### 📱 Astonishing prediction of mobile phones in 1926!
+</details>
 
-<picture><img alt="&nbsp;&nbsp;Berlin, drahtlose Telephonie" src="../../../_rsc/_img/snap/media/1926.jpg" /></picture>
+<details><summary>🗃️ <b><ins>&nbsp;<mark>1966</mark>: Tell her how tired are you with the debugging&nbsp;</ins></b></summary>
+&nbsp;
 
+<picture><img alt="&nbsp;Pile of punchards in 1966" src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" /></picture><br/>
 
-**drahtlose Telephonie** == wireless telephony,
-Friedrich-Behrenstraße <b>.</b>&thinsp;<b>.</b>&thinsp;<b>.</b> gut &mdash; bon &mdash; gemacht &mdash; comme sofort"
-
-Simpicissmus, Karl Arnold (found in the book 100 Discoveries)
-
----------
+A stack of punch cards for a casual program. I'm proud to have a [little experience](../essays/README+/punchcard.md) of dealing with them
 
 </details>
 
-<details><summary><ins>&nbsp;<b>AI</b>&nbsp;</ins><code>xor</code><ins>&nbsp;<b>IT</b>&nbsp;</ins></summary>
-<a name="AIxorIT"></a>&nbsp;
+## Cooked up metaphors
 
-![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
-
-[![AI: 1500s vs 2020s](../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](../essays/README+/AI-2020s.md)
-
-<sub>Answer: Homunculus shows the middle finger on the left hand.</sub>
-
-<mark><b>P.S.</b></mark> I swear that concocted this collage unaware of [Hubert Dreyfus](../quotes/README+/contributors/README.md#Hubert-Dreyfus) "Alchemy and AI", 1965. 
-
----
-
-</details>
-
-<details><summary><ins>&nbsp;<b>Cooked up metaphors</b>&nbsp;</ins></summary>
-
-#### Deployment tenses
+<details><summary><ins>&nbsp;<b>Deployment tenses</b>&nbsp;</ins></summary>
 
 🚧🐝🚧 ... WORK in PROGRESS ... 🚧:bee:🚧
 
@@ -173,6 +186,8 @@ VOAYGER
 
 </details>
 
+## Recommended reading 
+
 <details><summary><ins>&nbsp;<b>Drive and let drive</b>&nbsp;</ins></summary>
 &nbsp;
 
@@ -181,8 +196,6 @@ VOAYGER
 ---
 </details>
 
-|- [**Volume&nbsp;II. Inspirational quotes**](../quotes/README+/inspirational.md) 
+# [**Volume&nbsp;II. Inspirational quotes**](../quotes/README+/inspirational.md) 
 
----
-
-<sub>[Notes/disclaimer](../../../_rsc) about graphic resources here</sub> 🌘 2024
+🔚 <sub>[Notes/disclaimer](../../../_rsc) about graphic resources here</sub> 🌘 2024
