@@ -14,7 +14,7 @@ Deabbreviation alone didn't settle my doubts, I searched by <kbd>T D D</kbd> and
 Presentations and lectures favored _development_ with design as a natural<sup>🌵</sup> derivative, not much bothering about distinction and some even exploited both terms interchangeably. Books and tutorials also inclined more toward techniques, patterns, and testing frameworks.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub>**Natural** since any complete snippet can't escape design or must fit into the given.</sub>
 
-What was fine for presentations, bootcamps, and `classes` and encouraging for features real didn't work for me on just a mediocre project (imaginary or tried):\
+What was fine for presentations, bootcamps, and `classes` and encouraging for features didn't work for me on just a mediocre project (imaginary or tried):\
 &nbsp;&nbsp;<ins>my test drive now split up into **D**esign and **D**evelopment</ins>.
 
 ## Could I draw <br />&nbsp;&nbsp;&nbsp;my shismatic take?
