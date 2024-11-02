@@ -1,6 +1,6 @@
 # Software creation &mdash; Drives
 
-What guides programming minds (and how) is a separate IT discipline. _Test Driven Development_, _Domain Driven Design_, and _Event-Driven Architecture_ are only a few household names for approaches.
+What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names for approaches. Functional programming is also a kind of drive.
 
 <details><summary><ins>&nbsp;<b>Adding more subjects and trying to combine them will roughly scheme a grotesque gearbox:</b>&nbsp;</ins></summary>
 &nbsp;
@@ -14,41 +14,39 @@ What guides programming minds (and how) is a separate IT discipline. _Test Drive
 
 Let's reserve <mark>&thinsp;one-way <b>1&thinsp;:&thinsp;1&thinsp;</b></mark> to voluminous books and techno-evangelists &mdash; they do a great job of formalization (including methodologies) and popularizing exclusive approaches, which may prevail in particular initiatives but can't be self-contained on praxis.
 
-Our objective is to be neither dogmatic nor sticky to isolated combinations. The easiest path is to imagine the items (from the picture above) around your task and develop with approaches in mind.
+Our objective is to be neither dogmatic (don't take even this read as a doctrine) nor sticky to isolated combinations. The easiest path is to imagine the items (from the picture above) around your task and develop with approaches in mind.
 
-The arduous trail is to draw arrows in the picture, play with their direction, and prioritize. Then continue with design naming and structures.
+The arduous trail is to draw arrows in the picture, play with their direction, and prioritize. Then continue designing naming and structures.
 
 ### Consider <samp>REVERSE</samp>
 
-For any approach consider its reverse "rotation", regardless of how fantastically it looks. For example, _Development-Driven-Tests_ are nothing else than test coverage and automation.
+Consider any approach's reverse "rotation," regardless of how twisted it looks first. For example, Development-Driven tests are nothing other than test coverage and automation.
 
-<samp>REVERSE ENGINEERING</samp> is ... guess what - ... Code-Driven-Design, or REQS BUILD!
+<samp>REVERSE ENGINEERING</samp> is ... Code-Driven-Design! Design Driven Requirements == Documentation.
 
 🚧🚧🚧... MORE EXAMPLES ... 🚧🚧🚧
 
 ###  Domain drive ... for all
 
-_Domain-driven_ as a distinct approach must assume that there are alternatives without that. **I doubt there are** &mdash; software as a phenomenon abstracts domains, explicitly or implicitly, nothing else. Domain Drive is a permanent force (like gravitation of abstractions).
+If _domain-driven_ is a distinct approach there must be alternatives without that. **I doubt there are** &mdash; software as a phenomenon abstracts domains, explicitly or implicitly, nothing else. Domain Drive is a permanent force (like gravitation of abstractions).
 
-One of the motivations and benefits of object-oriented design is that it directly maps to domains, though one may break it with over-hierarchies and bad naming.
+One of the motives and benefits of object-oriented design is that it directly maps to domains, though one may break it with over-hierarchies and bad naming.
 
 > DDD-tempered code is adverse to the naming such as `utility`, `service`, `handler`, or `data` (unless these are conventions of platforms/frameworks).
 
 #### ... <samp>REVERSE</samp> there?
 
-**Yes**, and it's not software as a domain or dev tools (as IDEs aren't the case).
+**Yes**, remember the aphorism «_Computers solve problems that we didn't have without them_»? That's definitely about Operating Systems - Hardware/Software-Driven-Domain.
 
-Computers facilitated the BIZ UNTHINKABL before. Take resource management, WHAT ELSE, . E-Mail as an example. Or quite recent - BLOCKCHAIN
+Many software systems are projections of software possibilities that were rudimentary before mass computerization: ERP (as SAP), CRM, social networks, E-Mail, and blockchains.
 
-### Tests as providers
+### Tests
 
-Tests Driven Development is the OLDEST (LINKE TO THE ARTICLE) and most PROMINENT title ... BUT ... !
+**TDD** is the oldest and still most discussed (if not practiced) approach and earned its own corner in the [Tests area](../../tests).
 
-Testing was a pioneer methodology in driven dev and design.
-
-1) D not D;
-2) isn't drive but tool
- [Tests as drive](../../tests/asDrive)
+To summarize
+1) Test Driven **Development** and Test Driven **Design** are branching approaches.
+2) Tests are better seen not as drives but as tools for Implementation Driven Development and Domain Driven Design.
 
 #### Wrap up
 
