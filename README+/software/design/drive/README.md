@@ -1,6 +1,6 @@
 # Software creation &mdash; Drives
 
-What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names for approaches. Functional programming is also a kind of drive.
+What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names for approaches. Functional programming is also a driven approach.
 
 <details><summary><ins>&nbsp;<b>Adding more subjects and trying to combine them will roughly scheme a grotesque gearbox:</b>&nbsp;</ins></summary>
 &nbsp;
@@ -18,21 +18,29 @@ Our objective is to be neither dogmatic (don't take even this read as a doctrine
 
 The arduous trail is to draw arrows in the picture, play with their direction, and prioritize. Then continue designing naming and structures.
 
-### Consider <samp>REVERSE</samp>
+### Shift <samp>REVERSE</samp>
 
-Consider any approach's reverse "rotation," regardless of how twisted it looks first. For example, Development-Driven tests are nothing other than test coverage and automation.
+Consider any approach's counter "rotation," regardless of how twisted it looks first. For example, Development-Driven Tests are nothing more than test coverage (for automation).
 
-<samp>REVERSE ENGINEERING</samp> is ... Code-Driven-Design! Design Driven Requirements == Documentation.
+<samp>REVERSE ENGINEERING</samp> is ... Code-Driven-Design! Design Driven Requirements makes Documentation.
 
-🚧🚧🚧... MORE EXAMPLES ... 🚧🚧🚧
+🚧🚧🚧... more EXAMPLES coming ... 🚧🚧🚧
 
-###  Domain drive ... for all
+### Filter out...
+
+For any particular application, some drives will drop out (like UX for DB), but not all the remaining combinations shall be taken into play and some may be detrimental.
+
+For example, Development Driven/Crippled Design from the gross use of Test Driven Development.
+
+##  Domain drive
+
+### ... for all
 
 If _domain-driven_ is a distinct approach there must be alternatives without that. **I doubt there are** &mdash; software as a phenomenon abstracts domains, explicitly or implicitly, nothing else. Domain Drive is a permanent force (like gravitation of abstractions).
 
-One of the motives and benefits of object-oriented design is that it directly maps to domains, though one may break it with over-hierarchies and bad naming.
+One of the motives and benefits of object-oriented design is that it directly maps to domains, though one may break it with wrong and overladen hierarchies and bad naming.
 
-> DDD-tempered code is adverse to the naming such as `utility`, `service`, `handler`, or `data` (unless these are conventions of platforms/frameworks).
+> DDD-tempered code is adverse to names such as `utility`, `service`, `handler`, or `data` (unless these are conventions of platforms/frameworks).
 
 #### ... <samp>REVERSE</samp> there?
 
@@ -50,6 +58,6 @@ To summarize
 
 #### Wrap up
 
-This was a sketch, that shall be enhanced with references to on-practice projects. Neverheless, it might have spared you hours of rambling in courses and books.
+This was a sketch, that shall be enhanced with references to on-practice projects. Nevertheless, it might have spared you hours of rambling in courses and books.
 
 🔚 <sub>// image credit: [The Outer Limits.The&nbsp;Mutant, 1964](https://www.imdb.com/title/tt0667845/?ref_=ttep_ep25)</sub>
