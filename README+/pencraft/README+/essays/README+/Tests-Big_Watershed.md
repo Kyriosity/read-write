@@ -3,7 +3,7 @@
 <table><tr valign="top"><td>
 <picture><img width="125px" alt="&nbsp;Y-fork: yellow" src="../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="Courtesy of www.cleanpng.com" /></picture>    
   </td><td><p>I was bicycling to hear a casual lecture on <b>TD<mark>D</mark></b> and the doubt crept in &mdash; where am I going: </p>
-    <p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> <mark>or</mark>mark> <b><i>Development</i></b>❓</p>
+    <p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must this <mark><b>D</b></mark> be for <b><i>Design</i></b><code>or</code><b><i>Development</i></b>❓</p>
 It wasn't about the lecture, but the principal divergence.<br />
 (For the record: 
   the title of lecture 
