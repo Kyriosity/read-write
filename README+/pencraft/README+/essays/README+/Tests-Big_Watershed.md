@@ -5,16 +5,22 @@
   </td><td><p>I was bicycling to hear a casual lecture on <b>TD<mark>D</mark></b> and the doubt crept in &mdash; where am I going: </p>
     <p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
 It wasn't about the lecture, but the principal divergence.<br />
-(For the record: the lecture regarded <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup> as the abbreviation itself.)
+(For the record: 
+  the lecture 
+An Test-driven Development gescheitert? Hier erfährst du, warum
+     )
 </td></tr></table>
 
-The lection and deabbreviation alone didn't settle my doubts, I searched by <kbd>T D D</kbd> and fairly retrospected the found.\
+The lection and deabbreviation
+ <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>
+
+alone didn't settle my doubts, I searched by <kbd>T D D</kbd> and fairly retrospected the found.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be the same findings, but better, and there could be better alternating visions.</sub>
 
 Presentations and lectures favored _development_ with design as a natural<sup>🌵</sup> derivative, not much bothering about distinction and some even exploited both terms interchangeably. Books and tutorials inclined more toward techniques, patterns, and testing frameworks.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub>**Natural** since any complete snippet can't escape design or must fit into the given.</sub>
 
-However TDD(evelopment) that was fine for presentations, bootcamps, and `classes` and encouraging for features didn't PROJECT goid for me to DESIGN just a mediocre project, imaginary or tried.
+However TDD(evelopment) that was fine for presentations, bootcamps, and `classes` and encouraging for features didn't PROJECT good for me to DESIGN just a mediocre project, imaginary or tried.
 
 > The initial 'OR'-question was answered first AND and then XOR.
 
@@ -28,7 +34,7 @@ However TDD(evelopment) that was fine for presentations, bootcamps, and `classes
 
 ### Test Driven Design: T⚙️D<sup>eV</sup>
 
-Think of tests as a superb conductor (proxy) of design drive - domain, behavior, data, hardware model, whatsoever - to... 
+Let's think of tests as a super conductor (or superb proxy) of design drive - domain, behavior, data, hardware model, whatsoever - to... 
 
 + grope concepts and get a hands-on feeling on subjects (all the same: bookkeeping artifacts or particle collider models),
 + vitalize skeleton functionality, evaluate trends and risks,
@@ -53,7 +59,7 @@ WHAT INTERCEPT's DOES NOT OVERLAP. WHAT COOPERATES do not DEPENDs
 
 ## Conclusion
 
-What made matters worse &mdash; revealing that this ridge is among others on the design topology. This triggered the painful rewrite of much stuff, starting from ⚙️[drives](../../../../software/design/drive) **but** let's not get sidetracked for now.
+What made matters worse was revealing that this ridge is among others on the design topology. This triggered the painful rewrite of much stuff, starting from ⚙️[drives](../../../../software/design/drive) **but** let's not get sidetracked for now.
 
 SUBRIDGE
 
