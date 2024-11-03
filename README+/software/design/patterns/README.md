@@ -15,7 +15,7 @@ Coercing the code to an appealing pattern is like inventing a sentence for a buz
 
 #### Complicating
 
-This also refers to overuse when, for example,  _Builders_ cover trivial constructors or their  `Create()`/`New()`.
+This also refers to overuse when, for example,  _Builders_ cover trivial constructors or their  `Create()`/`New()`. Or wrapping personal cleverness in a [monad](https://en.wikipedia.org/wiki/Monad_(functional_programming))<sup><b>w</b></sup>
 
 ### Pattern as anti-pattern
 
@@ -30,10 +30,12 @@ Custom/personal (nick)names for established patterns aren't a good way unless it
 
 ## Conclusion
 
-Keen developers will intuitively follow design patterns even if they are unaware of them. However, learning is essential to know recent and use proper names and signatures.
+Keen developers will intuitively follow design patterns even if they are unaware of them. However, learning is essential to keep rational thinking, know recent, and use proper names and signatures.
 
 **Going further:**\
 |- [**Patterns** thru **techniques**](https://github.com/Kyriosity/use-dev/tree/main/README+/techniques) ➡️ (_use-dev_)
 
 |- Design principles and methodlogies\
 |--- [reviewed SOLID](../../../pencraft/README+/essays/README+/contraSOLID.md) 🚧
+
+🔚
