@@ -13,7 +13,7 @@ An TDD gescheitert?
 </td></tr></table>
 
 The LECTION and deabbreviation alone (<a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>) didn't settle the doubt, I searched by <kbd>T D D</kbd> and fairly retrospected the found.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be the same findings, but better, and there could be better alternating visions.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be the better findings, and there could be better alternating visions.</sub>
 
 Presentations and lectures favored _development_ with design as a natural<sup>🌵</sup> derivative, not much bothering about distinction and some even exploited both terms interchangeably. Books and tutorials inclined more toward techniques, patterns, and testing frameworks.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub>**Natural** since any complete snippet can't escape design or must fit into the given.</sub>
@@ -53,7 +53,6 @@ Use of the test double must be limited to indispensable (stubbing a remote servi
 There's no room for compromise: implementation before design will POOR the abstraction-poor !!!_Code Driven Design_!!!, which quality will degrade with complexity.
 
 WHAT INTERCEPT's DOES NOT OVERLAP. WHAT COOPERATES do not DEPENDs
-
 
 ## Conclusion
 
