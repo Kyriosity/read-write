@@ -34,9 +34,9 @@ However TDD(evelopment) that was fine for presentations, bootcamps, and `classes
 
 ### Test Driven Design: T⚙️D<sup>eV</sup>
 
-Let's think of tests as a super conductor (or superb proxy) of design drive - domain, behavior, data, hardware model, whatsoever - to... 
+Let's think of tests as a superb conductor (or proxy) of design drive - domain, behavior, data, hardware model, whatsoever - to... 
 
-+ grope concepts and get a hands-on feeling on subjects (all the same: bookkeeping artifacts or particle collider models),
++ grope concepts and get a hands-on feeling on subjects (all the same: bookkeeping artifacts or superhero viewmodel),
 + vitalize skeleton functionality, evaluate trends and risks,
 + couple design fantasies with the tech-stack materiality,
 + evaluate and pick more suited libraries, frameworks, and, in some cases, languages/platforms,
