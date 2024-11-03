@@ -3,18 +3,16 @@
 <table><tr valign="top"><td>
 <picture><img width="125px" alt="&nbsp;Y-fork: yellow" src="../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="Courtesy of www.cleanpng.com" /></picture>    
   </td><td><p>I was bicycling to hear a casual lecture on <b>TD<mark>D</mark></b> and the doubt crept in &mdash; where am I going: </p>
-    <p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
+    <p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> <mark>or</mark>mark> <b><i>Development</i></b>❓</p>
 It wasn't about the lecture, but the principal divergence.<br />
 (For the record: 
-  the lecture 
-An Test-driven Development gescheitert? Hier erfährst du, warum
-     )
+  the title of lecture 
+An TDD gescheitert? 
+  BUT NOT
+  Hier erfährst du, warum)
 </td></tr></table>
 
-The lection and deabbreviation
- <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>
-
-alone didn't settle my doubts, I searched by <kbd>T D D</kbd> and fairly retrospected the found.\
+The LECTION and deabbreviation alone (<a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>) didn't settle the doubt, I searched by <kbd>T D D</kbd> and fairly retrospected the found.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be the same findings, but better, and there could be better alternating visions.</sub>
 
 Presentations and lectures favored _development_ with design as a natural<sup>🌵</sup> derivative, not much bothering about distinction and some even exploited both terms interchangeably. Books and tutorials inclined more toward techniques, patterns, and testing frameworks.\
@@ -22,7 +20,7 @@ Presentations and lectures favored _development_ with design as a natural<sup>�
 
 However TDD(evelopment) that was fine for presentations, bootcamps, and `classes` and encouraging for features didn't PROJECT good for me to DESIGN just a mediocre project, imaginary or tried.
 
-> The initial 'OR'-question was answered first AND and then XOR.
+> The initial <mark>`OR`</mark>-question was answered first AND and then XOR.
 
 ## Could I explain my shismatic take?
 
@@ -32,9 +30,9 @@ However TDD(evelopment) that was fine for presentations, bootcamps, and `classes
 
 </details>
 
-### Test Driven Design: T⚙️D<sup>eV</sup>
+### Test Driven Design: T⚙️D<sup>eS</sup>
 
-Let's think of tests as a superb conductor (or proxy) of design drive - domain, behavior, data, hardware model, whatsoever - to... 
+Let's think of tests as a superb conductor (or proxy) of [design drives](../../) - domain, behavior, data, hardware model, whatsoever - to... 
 
 + grope concepts and get a hands-on feeling on subjects (all the same: bookkeeping artifacts or superhero viewmodel),
 + vitalize skeleton functionality, evaluate trends and risks,
@@ -44,15 +42,15 @@ Let's think of tests as a superb conductor (or proxy) of design drive - domain, 
 
 > "Design tests" must define **what** to develop</ins>. 
 
-These tests and the code behind them must heavily apply doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (not to be buried in implementation). When procs get fixed contours and stabilize - these doubles are ready tasks for development: test-driven or not.
+These tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.
 
-### Test Driven Development: T⚙️D<sup>eS</sup>
+### Test Driven Development: T⚙️D<sup>eV</sup>
 
 Use of the test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).
 
 ### OVERLAP ?
 
-There's no room for compromise: implementation-first will result in an abstraction-poor _Code Driven Design_, which quality will degrade with complexity.
+There's no room for compromise: implementation before design will POOR the abstraction-poor !!!_Code Driven Design_!!!, which quality will degrade with complexity.
 
 WHAT INTERCEPT's DOES NOT OVERLAP. WHAT COOPERATES do not DEPENDs
 
