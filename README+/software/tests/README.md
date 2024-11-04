@@ -1,14 +1,9 @@
-# Software &mdash; Tests
+# Software &mdash; Programmatic tests
 
-Tests are a unique optional but integral segment of software. It's not what customers get. Testing emerged with software and 
+Programmatic tests, as we know them, appeared together with high-level languages. They are a unique part of software: optional but integral. They don't contribute to releases but have the same value as production code. 
 
-Among SW ADHER, tests, their automatin and coverage take a separate place.
+Tests are a no-brainer to start - they can be written in the same programming language as their subject and even without a framework. Just a call to a function/method/proc with none or some arguments and log/throw an error if the result doesn't match expectations.
 
-much sssoc. to new practices
-LINK to begin.
+Now, without discourse of technique trivia let's hit the first reasoning branch: [tests **for QA**](asQA) and [tests as **programming drives**](asDrive).
 
-> Just for the record: TDD we mean test first, while the coverage means test.
-
-🚧🚧🚧 PLACEHOLDER 🚧🚧🚧
-
-Shortly after the first programs were written, THE same the demand to facilitate their proof with formalized actions and expectations.
+:end:

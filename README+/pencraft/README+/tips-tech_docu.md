@@ -61,10 +61,12 @@ Ensure that your spell- and grammarcheckers recognize replacements.
 ## Checklist
 
 - [ ] Make character replacements (see above)
+// including non-breakable spaces and hyphens for spots where wrapping will look bad
 - [ ]  Run spell/grammar check.
 - [ ] Prove internal links
 - [ ] Prove external links for existence
 // much resources degrade to _404_. 
+- [ ] check for "hidden" typos as double spaces
 - [ ] ...
 
 ## Wrap up

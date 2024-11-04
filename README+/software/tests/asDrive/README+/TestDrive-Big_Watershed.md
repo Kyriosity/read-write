@@ -12,13 +12,13 @@ Failed with TDD ? An TDD gescheitert? Hier erfährst du, warum) Here you know wh
   Hier erfährst du, warum)
 </td></tr></table>
 
-The LECTION and deabbreviation alone (<a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>) didn't settle the doubt, I searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found.\
+The expansion <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>) and MUNDANE lection alone didn't settle the doubt, I searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be better findings, and there could be better alternating conclusions.</sub>
 
 Presentations and lectures favored _development_ with design as a natural<sup>🌵</sup> derivative, not much bothering about distinction and some even exploited both terms interchangeably. Books and tutorials inclined more toward techniques, patterns, and testing frameworks.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub>**Natural** since any complete snippet can't escape design or must fit into the given.</sub>
 
-However, TDD(development), which was fine for discourse, bootcamps, and `classes`, and encouraged to start features, didn't set forth for me to design just a mediocre project, imaginary or tried.
+However, TDD(development), which was fine for discourses, bootcamps, and `classes`, and encouraged to start features, didn't set forth for me to design just a mediocre project, imaginary or tried.
 
 > The initial <mark>`OR`</mark>-question was answered first `AND` and then `XOR`.
 
@@ -55,14 +55,16 @@ There's no room for compromise: implementation before design will POOR the abstr
 
 WHAT INTERCEPT's DOES NOT OVERLAP. WHAT COOPERATES do not DEPENDs
 
-## Conclusion
+## Wrap up
 
 What made matters worse was revealing that this ridge is among others on the design topology. This triggered the painful rewrite of much stuff, starting from ⚙️[drives](../../../../software/design/drive) **but** let's not get sidetracked for now.
 
 SUBRIDGE
 
 > These could be the same project and team, test tools/framework, and skills/techniques to write tests, but...\
->  **Design vs. Development are too dissimilar and contradictory to be driven together.**
+>  **Design vs. Development are too dissimilar and contradictory to rotate on the same axis.**
+
+This meditation revealed for me something more -- all TDD now being more BUZ than PRAXIS. BUT THIS IS COMPLETELY ANOTHER STORY.
 
 ## Appendix. Undo-Redo as case
 

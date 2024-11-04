@@ -4,7 +4,7 @@
 guru deletes code<br/></p>
 <p dir="rtl"><i>Anonymous</i></p>
 
-# Code - Quality
+# Code &mdash; Quality
 
 <table><tr valign="top"><td width=30%>
   <picture><img src="../../../_rsc/_img/photo/misc/pour_concrete.jpg" alt="&nbsp;pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
@@ -25,7 +25,7 @@ That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`cl
 
 ### Re: Bugs 🪳
 
-Even bug-**free** code can be bug-**prone**. Code style must be bug-unfriendly to minimize risks of introducing an error by change (no matter whether unit tests will pick one).
+Even bug-**free** code can be bug-**prone**. Code style must be bug-unfriendly to minimize risks of introducing an error by change (regardless of whether unit tests will pick one).
 
 High-quality code has
 
@@ -42,7 +42,7 @@ Code optimization (deleting redundancies, merging common logic and data, shorten
 
 ### Re: Tests 🧪
 
-Test coverage may (and shall) share functionality with [Test-Domain Driven Design](../../design/drive) but is intended to mechanically examine software (no matter whether implemented before the subject or a posteriori).
+Test coverage may (and shall) share functionality with or even origin from [Test Driven Development](../../tests/) but is **primarily** intended to mechanically examine software (no matter whether implemented before the subject or postfactum).
 
 Efficient, ample test coverage allows only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, and performance testing.
 
@@ -52,13 +52,13 @@ _Errare humanum est_, and quality code allows one to focus tests on ...
 * subjects of frequent changes,
 * dependencies on imports and external parts.
 
-... and get more breath to avoid [tests pitfalls](tests-pitfalls.md).
+... and get more breath to avoid [tests pitfalls](../../tests/asQA/README+/QA_tests-pitfalls.md).
 
 ## Afterword
 
 **1)** Coding isn't a self-contained activity but an ingredient of [![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../software/ArcDeco/README.md), where quality is a motive, derivative, and bonus.
 
-**2)** While design sets formworks of code **concrete**, [coding frames](https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames) reinforce it .
+**2)** While design sets formworks of code **concrete**, [coding frames](https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames) reinforce it.
 
 **3)** The traits listed above are NOT acceptance criteria, but utmost aims. Even if your team comes close to them the code won't be a book of design revelation — you still owe quality [documentation](../../docu).
 
@@ -76,7 +76,7 @@ With all that said, why does deficient code prevail and _clean code_ migrate to 
 
 Top up with the fact that not every developer self-reflects on "submit and forget" work, and not every project management will draw a golden section between profanity and academism. 
 
-## Appendix (1 of 1). Still mediocre code - why?!
+## Appendix. Still mediocre code - why?!
 
 Apart from environments where seeds of good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup> even motivated smart teams may not reach high quality in good working and design conditions. 
 
