@@ -25,7 +25,7 @@
      <!-- -->
      <a href="README+/pencraft"><b>PENCRAFT</b></a>
               <br/>
-      &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md">essays</a> 🪝<a href="README+/pencraft/README+/memes/README.md">memes</a> 🥨<a href="README+/pencraft/README+/quotes/README.md">quotes</a>
+      &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md"><mark>&thinsp;<b>essays</b>&thinsp;</mark></a> 🪝<a href="README+/pencraft/README+/memes/README.md">memes</a> 🥨<a href="README+/pencraft/README+/quotes/README.md">quotes</a>
      </td>
 </tr><tr></tr><tr><td><!--                                                                                C#.NET         --!>
 <a href="README+/.net/"><b>C#<sup>.NET</sup></b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
