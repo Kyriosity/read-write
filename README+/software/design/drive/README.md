@@ -10,7 +10,7 @@ What guides programming minds (and how) is a separate IT discipline. _Test-Drive
 \___________
 </details>
 
-What for?
+<mark>**And?**</mark>
 
 ## Drive and let drive
 
@@ -43,7 +43,9 @@ For example, Development Driven/Crippled Design from the gross use of Test Drive
 
 <table><tr valign="top"><td width="30%"><picture>
   <img alt="&nbsp;Snapshot of illustrated kids alphabet" src="../../../_rsc/_img/illus/freepik.com-KidsAbc.jpg" title="&nbsp;courtesy of FREEP!K (freepik.com)" />
-</picture></td><td>
+</picture><br />
+<i>Bounded Contexts</i>
+</td><td>
 <p>If <i>domain-driven</i> is a distinct approach there must be alternatives without that.</p>
 <p>And I <b>doubt there are</b> &mdash; software as a phenomenon abstracts domains, explicitly or implicitly, nothing else. Domain Drive is a permanent force (like gravitation of abstractions).</p>
 <p>One of the motives and benefits of object-oriented design is that it directly maps to domains, though one may break it with wrong and overladen hierarchies and bad naming.</p>
