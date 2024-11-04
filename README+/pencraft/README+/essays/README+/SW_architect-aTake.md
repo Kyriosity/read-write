@@ -16,7 +16,7 @@ title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nb
 <p>The essence of architecture appeared as folks managed to erect somewhat more extravagant and durable than a hut of piled branches. Some ancient Greeks were so good at it that observers coined "<i>architect</i>"<sup>🏛️</sup> - the term romanized to <i>architecture</i> centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &mdash; 
 refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
-<p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. However, <span title="Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (giga- either) and architects of détente or <em>economic miracle</em> are compliments (or flattery).</p>
+<p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. However, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (giga- either) and architects of détente or <em>economic miracle</em> are compliments (or flattery).</p>
 ___________<br />
 <sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the Pyramids suggest (but Stonehenge refutes).</sub>
  </td></tr></table>
@@ -38,10 +38,10 @@ Both can't rely solely on generations of experience and picked masterminds but o
 <p dir=rtl><sup>🎼</sup>«.<b><code>IF</code></b>&nbsp;<span title=":Full original quote (DE-de)&#013;&#010;.Architektur ist gefrorene Musik»&#013;&#010;Möge es immer beschwingt und)&#013;&#010;«(!harmonisch zugehen in diesem Haus">
  «<ins>Architecture is a frozen music</ins></span><br />
 <b><code>THEN</code></b>&nbsp;software is a symphonic cacophony<br />
- <sup>🐦‍⬛</sup>.[unleashed under the wandering circus tent]</p>
+ <sup>🐦‍⬛</sup>&thinsp;.[unleashed under the wandering circus tent&thinsp;]</p>
 
 <table><tr valign="top">
-<td width="30%"><picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title=" AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture>
+<td width="30%"><picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title="&nbsp;AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture>
  <br /><ins>&nbsp;Buiding diagram&nbsp;</ins>
 </td><td>
  <p>Buildings are static, conservative, and traditional &mdash; software is fluid, experimental, reflecting little nostalgia, and with no place for neoclassicism.</p>
@@ -50,7 +50,9 @@ Both can't rely solely on generations of experience and picked masterminds but o
  </td>
 </tr></table>
 
-Software development gives freedom of life-sized _trial and **error**_ unthinkable in other productions. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (utilities). Contrariwise, drawing plans months ahead of some code is adverse to software.
+Software development gives freedom of life-sized _trial and **error**_ unthinkable in other productions. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (utilities). 
+
+Contrariwise, doing plans and prototypes months ahead of the first working solution is adverse to software.
 
 Software is the most automated production where copying, scaling, installation, and updates are one-click (or few, or scheduled) and unattended. 
 
@@ -60,7 +62,7 @@ Software is the most automated production where copying, scaling, installation, 
   <p>Building education and  activities are very narrow and regulated (also legally). IT indulges formalities of schooling.</p>
  </td><td width="30%">
   <picture><img src="../../../../_rsc/_img/snap/screen/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" 
-            title=" Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture>
+            title="&nbsp;Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture>
   <br /><ins>&nbsp;Software diagram&nbsp;</ins>
  </td></tr></table>
 
@@ -116,13 +118,10 @@ And let's salt all this with a bitter reminder that most projects aren't _Panthe
 
 \___________
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom IN/OUT</mark>" from [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) of thrivingtechnologist.com&#8287;
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom IN/OUT</mark>" from [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64)<sup>youtube</sup> of thrivingtechnologist.com&#8287;
 (who stands out as _architect_ - how ungrateful i am)</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of C#.NET in Microsoft are titled _architects_ or _leads_ but all of them show strong coding skills at presentations.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes guaranteed by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu)</sub>
-
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes guaranteed by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu).</sub>
 
 <div align="center"><b>.......</b> &nbsp;🔚 &nbsp;🌘 kyriosity 2023-2024&nbsp;&nbsp;&nbsp;<b>.......</b></div>
-
- 
