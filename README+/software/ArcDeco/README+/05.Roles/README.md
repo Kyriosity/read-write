@@ -9,6 +9,7 @@
 
 🚧📝🚧 ... DRAFT in progress ... 🚧🖌️🚧
 
+While it's under construction you may rad a [Take on the <samp><b>Architect</b></samp>](../../../../pencraft/README+/essays/README+/SW_architect-aTake.md).
 
 ## Challenges which lead to roles
 
