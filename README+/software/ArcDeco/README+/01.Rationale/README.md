@@ -6,9 +6,11 @@
 
 [![Powered by good quotes](https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue)](../../../../pencraft/README+/quotes/README+/cornerstones.md)
 
+<p dir="rtl">,Universe&thinsp;<b>&rarr;</b>&thinsp;cosmology<br />,mathematics&thinsp;&rarr;&thinsp;philosophy<br />,physics&thinsp;&#9658;&thinsp;epistemology<br />
+,art&thinsp;&#9655;&thinsp;theory<br />, excavation&thinsp;&#9657;&thinsp;anthropology</p>
+
 Any sophisticated subject deserves its study: universe -> cosmology, mathematics -> philosophy, physics -> epistemology, art -> theory, excavations -> anthropology, ... **Software** is not an exception.
 
-<picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" /></picture> is neither a methodology nor teaching but a private coat on meta-thinking canvas. (Sounds dense, i know)
 
 The METATHOR w CHESS BREAKS DOWN here.
 
