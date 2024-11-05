@@ -4,10 +4,13 @@ Along with [nice-to-have syntax/features](../cs-lacks.md) **C#** could grow with
 
 ## Testing
 
-Tests for drive or coverage are optional but natural share of development. The three most popular frameworks for .NET have their pros and contras but neither is in the state-of-the-art.
+Tests for drive or coverage are optional but a natural part of development. The three most popular frameworks for .NET (NUnit, xUnit, MSTest) have pros and cons, but neither is state-of-the-art.
 
-**See also**:\
-|- [Testing on praxis](https://github.com/Kyriosity/use-dev/tree/main/README+/tests) ➡️(use-dev)
+Besides weak points (like bulky names), there are missing:
+- no way to auto-test code that must not compile (e.g. to ensure the right building calls),
+- no support of dynamic test data,
+- no gradual asserts ➡️ [discussion of workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/unit_test-gradual_assert.md),
+- only a single data source ➡️ [multi-feed workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/unit_test-multi_feed.md).
 
 ## Math
 
