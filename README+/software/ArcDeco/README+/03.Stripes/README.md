@@ -7,7 +7,6 @@
 |- Arch vs Design\
 |- Dev vs. Coding\
 |- Worth of coding\
-|- :pen: Take on architect (to Roles?)\
 
 ---
 
