@@ -118,8 +118,8 @@ And let's salt all this with a bitter reminder that most projects aren't _Panthe
 
 \___________
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom IN/OUT</mark>" from [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64)<sup>youtube</sup> of thrivingtechnologist.com&#8287;
-(who stands out as _architect_ - how ungrateful i am)</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom IN/OUT</mark>" from [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64)
+<sup><picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture></sup> of thrivingtechnologist.com (who stands out as _architect_ - how ungrateful i am)</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of C#.NET in Microsoft are titled _architects_ or _leads_ but all of them show strong coding skills at presentations.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes guaranteed by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu).</sub>
