@@ -14,7 +14,9 @@ Writing first applications also resembles first plays: straightforward, enjoyabl
 
 However at a certain complexity level the qualitative progress by  number of plays/apps will abruptly slow down.
 
-and you realize the enorm complexity behind the curtain of first impression. 
+in chess you will be caught in oositional traps or make blunders. software _ KLUDGE
+
+and then you realize the enorm complexity behind the curtain of first impression. 
 
 you went to a base camp (if you need one more metaphor)
 where the view of Everest opens.
