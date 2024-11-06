@@ -73,7 +73,7 @@ _Gerald Marvin Weinberg_ (**1933** - 2018), UMich, IBM, a computer scientist, a 
 
 _C.A.R. Hoare_, _Charles Antony Richard Hoare_ (born **1934**)<sup title="Turing Award, 1980">🥇</sup> a fundamental contributor to programming languages and algorithms.
 
-It was he who coined the famous [Billion Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/) for _NullReference_.
+He coined the famous [Billion Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/) for _NullReference_.
 
 #### Niklaus Wirth
 
@@ -87,9 +87,13 @@ _Donald Ervin Knuth_ (born **1938**)<sup title="Turing Award, 1974">🥇</sup> o
 
 Prof. _Barbara Jane Liskov_, née _Huberman_ (born **1939**) <sup title="Turing Award, 2008">🥇</sup> MIT, awardee of multiple prizes (incl. Turing), the only one honored with a personal letter in [SO**L**ID](https://en.wikipedia.org/wiki/SOLID)<sup><b>w</b></sup>
 
-Data abstraction concepts, to which she mostly contributed, became natural as the mother tongue but then it was *terra incognita*.
+Data abstraction concepts, to which she mostly contributed, became natural to us as mother tongues, but at that time, it was _terra incognita_.
 
 Prof. Liskov: «One advantage to being in the field so early was that great problems were sitting there. All you had to do was jump on them.»
+
+#### Leslie Lamport
+
+PhD. _Leslie Lamport_ (born 1941)<sup title="Turing Award, 1984">🥇</sup>, Honorary Doctorate, mathematician, distributed computer systems expert, [LaTeX](https://en.wikipedia.org/wiki/LaTeX)<sup><b>w</b></sup> author
 
 ### Math / Phys
 
