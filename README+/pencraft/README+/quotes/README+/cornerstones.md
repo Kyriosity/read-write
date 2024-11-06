@@ -69,20 +69,12 @@
          <a href="contributors/README.md#Bjarne-Stroustrup"><b>Bjarne Stroustrup</b></a>
     </td>
     <td>
-      When you feel the need to write a <mark>comment</mark>, first try to refactor the code so that any comment becomes superfluous.<br />
-      <a href="contributors/README.md#Kent-Beck"><b>Kent Beck</b></a>, "Refactoring", <b><i>1999</i></b>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td>
-      A software system can best be designed if the <mark>testing</mark> is interlaced with the designing instead of being used after the design.<br />
-      <a href="contributors/README.md#Alan-Perlis"><b>Alan Perlis</b></a>, <b><i>1968</i></b>
-    </td>
-     <td>
-      <mark>Testing</mark> shows the presence not the absence of bugs.<br /><a href="contributors/README.md#Edsger-W-Dijkstra"><b>Edsger W. Dijkstra</b></a>, <b><i>1969</i></b><br />(documented while the saying appeared before)
-    </td>
-    <td>
-      Given enough eyeballs, all <mark>bugs</mark> are shallow.<br /><a href="https://en.wikipedia.org/wiki/Linus%27s_law">Linus's law</a>
+      I think in other things that I've done, I can look back and see: <b>«</b><mark>This idea developed from something else.</mark><b>»</b>
+      <details><summary><ins>Sometimes it would lead back to...</ins></summary>
+         ... a previous idea of mine, very often it would lead to something somebody else had done.<br />
+        But the <i>Bakery algorithm</i> just seemed to come out of thin air to me. There was nothing like it that preceded it, so perhaps that's why I'm proudest of it.
+      </details>
+      <a href="contributors/README.md#Leslie-Lamport"><b>Leslie Lamport</b></a>
     </td>
   </tr>
   <tr valign="top">
@@ -97,10 +89,24 @@
     <td>
       One of my guiding principles is <b>don’t do anything that other people are doing. Always do something a little different if you can.</b>
     <details><summary><ins>The concept is...</ins></summary>
-        ...that if you do it a little differently there is a greater potential for reward than if you the same thing that other people are doing. I think that this kind of goal for one’s work, having obviously the maximum risk, would have the maximum reward no matter what the field may be.
+        ...that if you do it a little differently there is a greater potential for reward than if you the same thing that other people are doing. 
+      I think that this kind of goal for one’s work, having obviously the maximum risk, would have the maximum reward no matter what the field may be.
       </details>
 <a href="contributors/README.md#Seymour-Cray"><b>Seymour Cray</b></a>
     </td>    
+  </tr>
+    <!--                                       T E S T I N G                -->
+  <tr valign="top">
+    <td>
+      A software system can best be designed if the <mark>testing</mark> is interlaced with the designing instead of being used after the design.<br />
+      <a href="contributors/README.md#Alan-Perlis"><b>Alan Perlis</b></a>, <b><i>1968</i></b>
+    </td>
+     <td>
+      <mark>Testing</mark> shows the presence not the absence of bugs.<br /><a href="contributors/README.md#Edsger-W-Dijkstra"><b>Edsger W. Dijkstra</b></a>, <b><i>1969</i></b><br />(documented while the saying appeared before)
+    </td>
+    <td>
+      Given enough eyeballs, all <mark>bugs</mark> are shallow.<br /><a href="https://en.wikipedia.org/wiki/Linus%27s_law">Linus's law</a>
+    </td>
   </tr>
 </table>
  
