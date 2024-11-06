@@ -1,4 +1,4 @@
-# Resources - Artistic and other non-code 
+# Resources &mdash; Artistic and other non-code 
 
 Non-code stuff in repositories here contains diverse pictures, snapshots, schemes, quotes, wiki references, and other materials: borrowed (from 3d parties) and own.
 
@@ -28,7 +28,7 @@ The tools mostly utilized to stuff the repositories are:
 + **Paint.net**, dotPDN LLC®️,
 + **LibreOffice**,
 + Microsoft®️ **Office**,
-+ Microsoft®️ **Visual Studio **(Community version),
++ Microsoft®️ **Visual Studio** (Community version),
 + and **GitHub**.
 
 \_______
