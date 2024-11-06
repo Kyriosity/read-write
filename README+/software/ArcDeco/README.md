@@ -30,8 +30,8 @@ Abstraction/math/logic and artistic skills, <br />domain expertise, and creativi
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** are tied, overlapping, and loosely-ordered role-driven processes.
 
-Many projects' modest size and lifetime, banality and, also principal, isolated work on them will shrink the pie to a bar, ... ⬇️\
-<picture><img alt="&nbsp;&nbsp;&nbsp;ArcDeco view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" /></picture>\
+Many projects' modest size and lifetime, banality, and, also principal, isolated work on them will shrink the pie to a bar, ... ⬇️
+<br /><picture><img  align="center" alt="&nbsp;&nbsp;&nbsp;ArcDeco view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" /></picture><br />
 ⬆️...  theorization around which will be fetched out of thin air.
 
 ### ... but ...
@@ -46,9 +46,7 @@ Axes of e**X**pansion and complexit**Y** may tear this patchwork:<sup>🙋</sup>
 
 Such menaces encourage us to verbalize the metaphysics of software. 
 
-To distinguish the survey following (at least for the file system) I couldn't find a better tag but a mocking acronym - 
-<picture><img alt="Arc Deco" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" /></picture>
-(<mark><b>Arc</b></mark>itecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding).<sup>🎨</sup>
+To distinguish the survey following (at least for the file system) I couldn't find a better tag but a mocking acronym - <picture><img alt="Arc Deco" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" /></picture>&nbsp;(<mark><b>Arc</b></mark>itecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding).<sup>🎨</sup>
 
 ### ... opening ...
  
