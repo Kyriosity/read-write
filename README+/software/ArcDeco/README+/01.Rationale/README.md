@@ -6,8 +6,30 @@
 
 [![Powered by good quotes](https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue)](../../../../pencraft/README+/quotes/README+/cornerstones.md)
 
+<p dir="rtl">An eloquent metaphor eases explanation, at least for the author.</p>
+
+Learning the basics of programming is the same easy as of chess rules. (chess analogy works for everything)
+
+Writing first applications also resembles first plays: straightforward, enjoyable and visibly advancing.
+
+However at a certain complexity level the qualitative progress by  number of plays/apps will abruptly slow down.
+
+and you realize the enorm complexity behind the curtain of first impression. 
+
+you went to a base camp (if you need one more metaphor)
+where the view of Everest opens.
+
+you want progress withiut theoreterizing yourself.
+
+Here the metaphor breaks down 
+
+1) rating vs happily unaware
+2) self-education (or math) vs. books
+
 <p dir="rtl">,Universe&thinsp;<b>&rarr;</b>&thinsp;cosmology<br />,mathematics&thinsp;&rarr;&thinsp;philosophy<br />,physics&thinsp;&#9658;&thinsp;epistemology<br />
 ,art&thinsp;&#9655;&thinsp;theory<br />, excavation&thinsp;&#9657;&thinsp;anthropology</p>
+
+## why questions 
 
 Any sophisticated subject deserves its study: universe -> cosmology, mathematics -> philosophy, physics -> epistemology, art -> theory, excavations -> anthropology, ... **Software** is not an exception.
 
