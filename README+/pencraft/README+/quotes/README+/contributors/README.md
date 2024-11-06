@@ -93,7 +93,8 @@ Prof. Liskov: «One advantage to being in the field so early was that great prob
 
 #### Leslie Lamport
 
-PhD. _Leslie Lamport_ (born 1941)<sup title="Turing Award, 1984">🥇</sup>, Honorary Doctorate, mathematician, distributed computer systems expert, [LaTeX](https://en.wikipedia.org/wiki/LaTeX)<sup><b>w</b></sup> author
+PhD. _Leslie B. Lamport_ (born 1941)<sup title="Turing Award, 1984">🥇</sup>, Honorary Doctorate, mathematician, distributed computer systems expert.\
+Author of the [LaTeX](https://en.wikipedia.org/wiki/LaTeX)<sup><b>w</b></sup> software and the inventor of [Bakery algorithm](https://en.wikipedia.org/wiki/Lamport%27s_bakery_algorithm)<sup><b>w</b></sup>.
 
 ### Math / Phys
 
