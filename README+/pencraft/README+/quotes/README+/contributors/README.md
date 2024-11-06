@@ -9,7 +9,7 @@ There's a discernible inclination in quotes toward the mathematicians and engine
 
 #### John von Neumann
 
-_John von Neumann_ (**1903** - 1957, Washington, D.C. 🇺🇸)<span title="Martians as scientific group"><sup>👽</sup></span> one of IT founders, _inter alia_ mathematician with the widest coverage. 
+_John von Neumann_ (**1903** - 1957)<span title="Martians as scientific group"><sup>👽</sup></span> one of IT founders, _inter alia_ mathematician with the widest coverage. 
 
 One of the numerous honoring quotes about him: «Most mathematicians prove what they can, von Neumann proves what he wants.» (_Paul Halmos_)
 
@@ -17,7 +17,7 @@ Fun fact: searching for _von Neumann_ (without the first name) will recite first
 
 #### Grace Hopper
 
-_Grace Brewster Hopper_, née Murray (**1906**-1992), 🇺🇸 grandma of Cobol, finder of the moth that opened the debugging world (that queer chords with her name).
+_Grace Brewster Hopper_, née Murray (**1906**-1992), grandma of Cobol, finder of the moth that opened the debugging world (that queer chords with her name).
 
 #### Alan Turing
 
@@ -33,12 +33,12 @@ Designer of the earliest stored program computers (EDSAC, 1949) and inventor of 
 
 #### Richard Hamming
 
-_Richard Wesley Hamming_ (**1915** 🇺🇸 - 1988), a mathematician known for prize-winning IT solutions
+_Richard Wesley Hamming_ (**1915** - 1988), a mathematician known for prize-winning IT solutions
 
 #### Alan Perlis
 
-_Alan Jay Perlis_ (**1922** Pittsburgh, Pennsylvania :us: - 1990)<sup title="Turing Award, 1966">🥇</sup> MIT,  research mathematician, one of the ALGOL founders and the early TDD advocate.\
-Some facts more: https://history.computer.org/pioneers/perlis.html
+_Alan Jay Perlis_ (**1922** - 1990)<sup title="Turing Award, 1966">🥇</sup> MIT,  research mathematician, one of the ALGOL founders, and the early TDD advocate.\
+Here are some facts more: https://history.computer.org/pioneers/perlis.html
 
 #### Ted Codd
 
@@ -46,14 +46,14 @@ _Edgar Frank "Ted" Codd_ 🇬🇧 (**1923**-2003)<sup title="Turing Award, 1981"
 
 #### Charles Bachman
 
-_Charles William Bachman III_ 🇺🇸 (**1924**-2017)<sup title="Turing Award, 1973">🥇</sup> who invented the DBMS and changed the business of GE.
+_Charles William Bachman III_ (**1924**-2017)<sup title="Turing Award, 1973">🥇</sup> who invented the DBMS and changed the business of GE.
 
 A rare pure engineer among IT founders, and one who visited the White House to receive the National Medal of Technology and Innovation personally from the President.\
 https://cacm.acm.org/opinion/how-charles-bachman-invented-the-dbms-a-foundation-of-our-digital-world/
 
 #### Seymour Cray
 
-_Seymour Roger Cray_ 🇺🇸 (1925-1996), UoM, father of supercomputers
+_Seymour Roger Cray_ (1925-1996), UoM, father of supercomputers
 
 #### Edsger W. Dijkstra
 
@@ -67,7 +67,7 @@ _Frederick Phillips Brooks Jr._ (**1931**-2022)<sup title="Turing Award, 1999">�
 
 #### Gerald Weinberg
 
-_Gerald Marvin Weinberg_ (**1933** - 2018) 🇺🇸, UMich, IBM, a computer scientist, a teacher of the psychology and anthropology of software.
+_Gerald Marvin Weinberg_ (**1933** - 2018), UMich, IBM, a computer scientist, a teacher of the psychology and anthropology of software.
 
 #### Tony Hoare
 
@@ -81,11 +81,11 @@ _Niklaus Emil Wirth_ (**1934** - 2024)🇨🇭 <sup title="Turing Award, 1984">�
 
 #### Donald Knuth
 
-_Donald Ervin Knuth_ (born **1938** Milwaukee, Wisconsin 🇺🇸)<sup title="Turing Award, 1974">🥇</sup> one of the first and most prominent computer scientists, best known for _The Art of Computer Programming_, 1962-1973
+_Donald Ervin Knuth_ (born **1938**)<sup title="Turing Award, 1974">🥇</sup> one of the first and most prominent computer scientists, best known for _The Art of Computer Programming_, 1962-1973
 
 #### Barbara Liskov
 
-Prof. _Barbara Jane Liskov_, née _Huberman_ (born **1939**) 🇺🇸 <sup title="Turing Award, 2008">🥇</sup> MIT, awardee of multiple prizes (incl. Turing), the only one honored with a personal letter in [SO**L**ID](https://en.wikipedia.org/wiki/SOLID)<sup><b>w</b></sup>
+Prof. _Barbara Jane Liskov_, née _Huberman_ (born **1939**) <sup title="Turing Award, 2008">🥇</sup> MIT, awardee of multiple prizes (incl. Turing), the only one honored with a personal letter in [SO**L**ID](https://en.wikipedia.org/wiki/SOLID)<sup><b>w</b></sup>
 
 Data abstraction concepts, to which she mostly contributed, became natural as the mother tongue but then it was *terra incognita*.
 
@@ -111,7 +111,7 @@ _Paul Richard Halmos_ (**1916**-2006)<sup>👽</sup> UIUC, a mathematician with 
 
 The founders of UML and the first famous [Design Pattern](https://en.wikipedia.org/wiki/Design_Patterns)<sup><b>w</b></sup> "almanac".
 
-GoF: Erich Gamma 🇨🇭, _Richard Helm_, _Ralph Johnson_ 🇺🇸, and _John Vlissides_ 🇺🇸
+GoF: Erich Gamma 🇨🇭, _Richard Helm_, _Ralph Johnson_, and _John Vlissides_
 
 #### Ivar Jacobson 
 
@@ -119,17 +119,17 @@ _Ivar Hjalmar Jacobson_ (1939 Ystad 🇸🇪)
 
 #### James Rumbaugh
 
-_James E. Rumbaugh_ (1947  Bethlehem, Pennsylvania us)
+_James E. Rumbaugh_ (born 1947)
 
 #### Grady Booch
 
-_Grady Booch_ (1955 Amarillo, Texas us)
+_Grady Booch_ (born 1955)
 
 ### Open Source / Freeware
 
 #### Linus Torvalds
 
-_Linus Benedict Torvalds_ (born 1969) 🇫🇮 🇺🇸 Univ. Helsinki
+_Linus Benedict Torvalds_ (born 1969) 🇫🇮 Univ. Helsinki
 
 ### _et alia_
 
@@ -139,7 +139,7 @@ _Theodore von Kármán_ (**1881**-1963)<sup>👽</sup>, outstanding aerospace en
 
 #### Hubert Dreyfus
 
-_Hubert Lederer Dreyfus_ (1929-2017) 🇺🇸, Professor of philosophy at UC Berkeley
+_Hubert Lederer Dreyfus_ (1929-2017), Professor of Philosophy at UC Berkeley
 
 He was brave enough to be [critical of AI](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence)<sup><b>w</b></sup> in the years it wasn't commercial hype but the research. Known for the books:
 
@@ -162,9 +162,9 @@ _Richard Matthew Stallman_, founder of GNU and Free Software Movement
 
 #### Kent Beck
 
-_Kent Beck_ (born 1961) 🇺🇸 the eXtreme Programming founder, a signer of _Agile Manifesto_, a productive author on patterns and contributor to frameworks ([JUnit](https://github.com/junit-team)&thinsp;<sup>:octocat:</sup> as the most famous).
+_Kent Beck_ (born 1961) reviver of TDD approach, the eXtreme Programming founder, a signer of _Agile Manifesto_, a productive author on patterns, and a contributor to frameworks ([JUnit](https://github.com/junit-team)&thinsp;<sup>:octocat:</sup> as the most famous).
 
-\______
+\___________
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👽</sup> <sub>Labelled selection of prominent scientists known as [Martians](https://en.wikipedia.org/wiki/The_Martians_(scientists))<sup><b>w</b></sup></sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🥇</sup> <sub>Association for Computing Machinery [Turing Award](https://en.wikipedia.org/wiki/Turing_Award)<sup><b>w</b></sup>, aka "Nobel Prize of Computing".</sub>
