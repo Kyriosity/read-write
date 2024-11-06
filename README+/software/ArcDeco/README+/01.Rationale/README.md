@@ -6,22 +6,18 @@
 
 [![Powered by good quotes](https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue)](../../../../pencraft/README+/quotes/README+/cornerstones.md)
 
-<p dir="rtl">An eloquent metaphor eases explanation, at least for the author.</p>
+<p dir="rtl">,An eloquent metaphor eases explanation<br />.at least for the author</p>
 
-Learning the basics of programming is the same easy as of chess rules. (chess analogy works for everything)
+Learning the basics of programming is the same easy as chess rules (look, chess analogy works for everything). Writing first applications also resembles first games: blitz, enjoyable, and visibly advancing.
 
-Writing first applications also resembles first plays: straightforward, enjoyable and visibly advancing.
+At a certain complexity level, the qualitative progress by numerous plays/apps will abruptly slow down in excellence. In chess either you blunder or a little better player will posinionally trap you. software will be _ KLUDGE
 
-However at a certain complexity level the qualitative progress by  number of plays/apps will abruptly slow down.
-
-in chess you will be caught in oositional traps or make blunders. software _ KLUDGE
-
-and then you realize the enorm complexity behind the curtain of first impression. 
+and then you realize the enormous complexity behind the curtain of the first impression. 
 
 you went to a base camp (if you need one more metaphor)
 where the view of Everest opens.
 
-you want progress withiut theoreterizing yourself.
+you won't progress without theorizing yourself.
 
 Here the metaphor breaks down 
 
