@@ -1,5 +1,8 @@
 # Code - Comments
 
+<p dir="rtl">,When you feel the need to write a comment<br />first try to refactor the code so that<br />.any comment becomes superfluous<br />
+ <a href="../../../pencraft/README+/quotes/README+/contributors/README.md#Kent-Beck">Kent Beck</a>, "Refactoring", <b><i>1999</i></b></p>
+
 Comments can be eye-catching and essential but signal design inconsistency and poor naming.  
 
 Carefully written code is self-descriptive by nature and needs no epistolary clarification<sup>🙋</sup>, 
@@ -7,8 +10,7 @@ and even abracadabra in _regex_ processors can be broken down into figurative fu
 
 Exploring source codes of prominent providers on GitHub or elsewhere you'll find many (if not the majority) of the files there bloated with comments, rehearsing the names of classes, functions, arguments, and properties with preceding copyright header<sup>©️</sup>. Sometimes on purpose to enhance the number of lines contributed.
 
-\_________
-
+\___________\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<sub>This statement is for high-level declarative languages.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>©️</sup>&nbsp;<sub>As if there were no license agreement or such a spell may prohibit impudent copy-paste.</sub>
 
@@ -25,7 +27,7 @@ Exploring source codes of prominent providers on GitHub or elsewhere you'll find
 \____________________________________
 </details>
 
-One other distinct and legitimate niche is [comment-driven development](https://en.wikipedia.org/wiki/Comment_programming)<sup><b>w</b></sup> (though it's more of fun). Further options can be worth deliberation as:
+One other distinct and legitimate niche is [comment-driven development](https://en.wikipedia.org/wiki/Comment_programming)<sup><b>w</b></sup> (though it's more fun). Further options can be worth deliberation as:
 
 * Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation).\
 <sub>The automation of this idea may stumble on implementation and maintenance expenses.</sub>
