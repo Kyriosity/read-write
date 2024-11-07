@@ -12,14 +12,14 @@
      <!-- -->
      <!--                               QA vs. TESTS          --!>
      <!-- -->
-     &nbsp;&nbsp;<a href="README+/software/QA/"><b>Q&thinsp;A</b></a>&thinsp;&nbsp;⊃&thinsp;⊂&nbsp;<a href="README+/software/tests/"><b>T&thinsp;e&thinsp;s&thinsp;t&thinsp;s</b></a>
+     &nbsp;&nbsp;<a href="README+/software/QA/"><b>Q&thinsp;A</b></a>&thinsp;&nbsp;⊃&thinsp;⊂&nbsp;<a href="README+/software/tests/"><b>T&thinsp;e&thinsp;s&thinsp;t&thinsp;s</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i>
      <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> ➿
      <a href="README+/software/tests/asQA/README+/QA_tests-pitfalls.md">Tests pitfalls</a>
      <!-- -->
      <!--                               DOCU and ORG          --!>
      <!-- -->
-     <h4>&nbsp;<a href="README+/software/docu"><b><ins>D&thinsp;o&thinsp;c&thinsp;u</ins></b></a> ➿ <a href="README+/software/mngmnt"><b>O&thinsp;r&thinsp;g&thinsp;a&thinsp;n&thinsp;i&thinsp;z&thinsp;a&thinsp;t&thinsp;i&thinsp;o&thinsp;n</b></a></h4>
+     <h4>&nbsp;<a href="README+/software/docu"><b><ins>D&thinsp;o&thinsp;c&thinsp;u</ins></b></a> ➿ <a href="README+/software/mngmnt"><b><ins>O&thinsp;r&thinsp;g&thinsp;a&thinsp;n&thinsp;i&thinsp;z&thinsp;a&thinsp;t&thinsp;i&thinsp;o&thinsp;n</ins></b></a></h4>
     <!-- -->
      <!--                              P E N C R A F T          --!>
      <!-- -->
