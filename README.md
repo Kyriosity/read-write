@@ -29,14 +29,14 @@
      </td>
 </tr><tr></tr><tr><td><!--                                                                                C#.NET         --!>
 <a href="README+/.net/"><b>C#<sup>.NET</sup></b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
-&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;✖️&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;✖️&nbsp;
 <a href="README+/.net/README+/cs-lacks.md">Lacks</a>&nbsp;➗&nbsp;
  <br/>
-&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-malpractice.md">Malpractices</a>&nbsp;➕&nbsp;<a href="README+/.net/README+/cs-feat_underused.md">Underused</a>
- <br />
- &nbsp;&nbsp;<b>♯</b>&nbsp;<b>Sides/Parts</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-malpractice.md">Malpractices</a>&nbsp;➕&nbsp;<a href="README+/.net/README+/cs-feat_underused.md">Underused</a>
+ <br /><!--                                                                                     C#  S I D E S and P A R T S         --!>
+ &nbsp;&nbsp;<b>♯</b>&nbsp;<b>S&thinsp;i&thinsp;d&thinsp;e&thinsp;s&thinsp;/&thinsp;P&thinsp;a&thinsp;r&thinsp;t&thinsp;s</b>
    <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/parts/cs-lacks-parts.md">Nice to have</a>&nbsp;➖&nbsp;<a href="README+/.net/README+/parts/cs-feat_shadow.md">In shadow</a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/parts/cs-lacks-parts.md">Nice to have</a>&nbsp;➖&nbsp;<a href="README+/.net/README+/parts/cs-feat_shadow.md">In shadow</a><br/>
       <!-- -->
      <!--                               WPF          --!>
      <!-- -->
