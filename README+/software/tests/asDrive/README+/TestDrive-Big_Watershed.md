@@ -12,11 +12,14 @@ Failed with TDD ? An TDD gescheitert? Hier erfährst du, warum) Here you know wh
   Hier erfährst du, warum)
 </td></tr></table>
 
-The expansion <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>) and MUNDANE lection alone didn't settle the doubt, I searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found.\
+The expansion to <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup> and the lecture alone didn't settle the doubt, I searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be better findings, and there could be better alternating conclusions.</sub>
 
 Presentations and lectures favored _development_ with design as a natural<sup>🌵</sup> derivative, not much bothering about distinction and some even exploited both terms interchangeably. Books and tutorials inclined more toward techniques, patterns, and testing frameworks.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub>**Natural** since any complete snippet can't escape design or must fit into the given.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub>**Natural** since any complete snippet can't escape design or must fit into the given.</sub> 
+
+EVOLUTIONARY AND THE KEY PROBLEM 
+PARALLEL to ARC w/ LINK to ESSAY
 
 However, TDD(development), which was fine for discourses, bootcamps, and `classes`, and encouraged to start features, didn't set forth for me to design just a mediocre project, imaginary or tried.
 
