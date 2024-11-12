@@ -18,7 +18,7 @@ The inevitable and noticeable expenses will pay off with the formation of ***lin
 + genuine design and self-descriptive code,
 + inspiration for behavior/domain-driven design,
 + escape from heaps of docs<sup>📒</sup>,
-+ minigated tension to get into a project for newcomers,
++ mitigated tension to get into a project for newcomers,
 + comfy navigation in the source code (incl. <kbd>CTRL+F</kbd>).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team means not only developers and managers but customers, testers with end users.</sub>\
@@ -38,10 +38,12 @@ TRAP: Duplicate names in the chain!
 ### Guidelines/Rules of thumb
 
 * The higher the level of naming, the more attention.\
-It's a routine to comb out    sdfsdf
+It's a routine to comb out
 * Name, apply, get feedback, refactor.
 * At least two people with different backgrounds must confirm the top names.
-* divide et empera
+* _divide et empera_
+
+* avoid names that may become language keywords (e.g. _field_ - hallo, C#13 preview)
 
 ### Impedance with inherited domain names
 
