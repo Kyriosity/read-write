@@ -2,9 +2,13 @@
 
 <p dir="rtl"><i>"...In the beginning was the Word"</div></i></p><br/>
 
-The denomination is a pivotal but underrated and neglected activity in every sphere. 
-
-In software, it looks like granted when names with categories smoothly guide through the design and make coding intuitive. On the contrary, wading through the thorns of poorly named and labyrinths of badly categorized code, abatis of docu developers will curse application complexity, learning curve, technologies used, and fate but at least the naming.
+<table><tr valign="top"><td><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
+</td><td>
+  <p><b>Denomination of categories and titles is a pivotal but underrated and neglected activity in every sphere.</b></p>
+  <p>In software, it looks like granted when names with categories smoothly guide through the design and make coding intuitive.</p>
+ <p>On the contrary, wading through the thorns of poorly named and labyrinths of badly categorized code, abatis of docu developers will curse application complexity, learning curve, technologies used, and fate but at least the naming.
+</p>
+</td></tr></table>
 
 ## How to...
 
