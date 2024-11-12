@@ -10,9 +10,9 @@
 > Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.\
 [Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra), 1975
 
-The respected masters couldn't foresee the exponential growth of "applied" development and the dramatic sinking of entry threshold.
+The respected masters couldn't foresee the exponential growth of "applied" development and the dramatic sinking of the entry threshold.
 
-I venture to reformulate: "Most advanced in exact sciences can  be good  programmers (unless they already are) but not vice versa".
+I venture to reformulate: "Most advanced in exact sciences can be good  programmers (unless they already are) but not vice versa." Nevertheless, it's not only capabilities that are to blame — the load of learning in IT doesn't leave much time for a deep dive into other studies.
 
 ## Software
 
