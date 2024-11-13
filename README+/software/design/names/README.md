@@ -46,60 +46,22 @@ Naming couldn't be flat - it's an axiom, but categorization in software abstract
 * floating
 *OOD.
 
-TRAP: Duplicate names in the chain!
-
-
-### Guidelines/Rules of thumb
-
-* The higher the level of naming, the more attention.\
-It's a routine to comb out
-* Name, apply, get feedback, refactor.
-* At least two people with different backgrounds must confirm the top names.
-* _divide et empera_
-
-* avoid names that may become language keywords (e.g. _field_ - hallo, C#13 preview)
-
 ### Impedance with inherited domain names
 
 // ToDescribe
 
-# Wrapping up
 
-Even top teams under time pressure and brakes on perfectionism would be barely proud of their implementation of naming. Furthermore, the naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be continuous and genuine.
-
-## Appendix 1 (of 3). Guidelines and Verbal Sins 
-
-## Verbal sins
-
-- **Grandiloquence** 
-
-General words sound vague (if not bombastic) unless established in the domain. Compare florid `[Fact]` to modest `[TestCase]`. 
-
-- **Unexpected match** 
-
-`public utility`
-
-- **Jargonism**
-
-### Guidelines for methods
-
-`Get` must be taboo within method names - either this must be property or a better description of the returned: `Read`, `Calculate` u.a.
-
-🚧 .. TO BE CONTINUED ... 🚧
-
-## Appendix 2 (of 2). Pabulum
+Pabulum
 
 ### Active or passive voice
 
 Document.print(), plotter.Print
 
-## Appendix 3 (of 3). Learning from others
 
-### Hall of fame
+# Wrapping up
 
-+ Core S[E]QL commands.
-+ _Bread crumbling_ for navigation - both the idea and name win
+Even top teams under time pressure and brakes on perfectionism would be barely proud of their implementation of naming. Furthermore, the naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be continuous and genuine.
 
-### Hall of shame
+\___________
 
-And 1st place goes to ... `dirty` used as the trait of a modified object.
+🔚 ... 📂[README+](README+)
