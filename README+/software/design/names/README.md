@@ -1,10 +1,10 @@
-# Software - Naming and categorization
+# Software &mdash; Naming and categorization
 
 <p dir="rtl"><i>"...In the beginning was the Word"</div></i></p><br/>
 
 <table><tr valign="top"><td><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
-  <p><b>Denomination of <mark>both</mark> categories and titles is a pivotal but underrated and neglected activity in every methodology.</b></p>
+  <p><b>Denomination of <ins>both</ins> categories and titles is a pivotal but underrated and neglected activity in every methodology.</b></p>
   <p>In software, it looks like granted when names with categories smoothly guide through the design and make coding intuitive.</p>
  <p>Otherwise, wading through the thorns of poorly named and labyrinths of badly categorized code, abatis of docu developers will curse application complexity, learning curve, technologies used, and fate but at least the naming.
 </p>
@@ -14,16 +14,21 @@
 
 ### As usual
 
-:x: Usual: Naming as a derivative of development, which spawns `Helper.Get(..)`, `Utils.Do(...)`, `Service.Find(...)`, and other no-brainers littering the space.
+The prevalent naming is a derivative of the development, which
 
+❌ leaves "construction waste"\
+as `Helper.Get(..)`, `Utils.Do(...)`, `Service.Find(...)`, and other no-brainers.\
+❌ spawns long names\
+`AddTableReservation()`\
+❌ jargon or working titles
 
 ### As must be
 
-✔️ The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. 
+The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. 
 
 The inevitable and noticeable expenses will pay off with the formation of ***lingua franca*** throughout the team and project, and ...
   
-+ common comprehension of a domain, collaboration, and indeed bound team,
+✔️ common comprehension of a domain, collaboration, and indeed bound team,
 + genuine design and self-descriptive code,
 + inspiration for behavior/domain-driven design,
 + escape from heaps of docs<sup>📒</sup>,
@@ -60,7 +65,7 @@ It's a routine to comb out
 
 # Wrapping up
 
-Even top teams under time pressure and brakes on perfectionism would be barely proud of their implementation of naming. Then the naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be continuous and genuine.
+Even top teams under time pressure and brakes on perfectionism would be barely proud of their implementation of naming. Furthermore, the naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be continuous and genuine.
 
 ## Appendix 1 (of 3). Guidelines and Verbal Sins 
 
@@ -93,7 +98,7 @@ Document.print(), plotter.Print
 ### Hall of fame
 
 + Core S[E]QL commands.
-+ _Bread crumbling _for navigation - both the idea and name win
++ _Bread crumbling_ for navigation - both the idea and name win
 
 ### Hall of shame
 
