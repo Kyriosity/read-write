@@ -2,7 +2,7 @@
 
 What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names for approaches. Also _functional programming_ is a driven approach.
 
-<details><summary><ins>&nbsp;<b>Imagining more items on both sides of DRIVEN will  scheme a grotesque gearbox:</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>Imagining more items on both sides of <samp>DRIVEN</samp> will scheme a grotesque gearbox&thinsp;:</b>&nbsp;</ins></summary>
 &nbsp;
   
 <picture><img alt="&thinsp;&nbsp;&nbsp;Combinational mess of drives and driven" src="../../../_rsc/_img/illus/AllDrives.jpg"/></picture>
@@ -10,11 +10,11 @@ What guides programming minds (and how) is a separate IT discipline. _Test-Drive
 \___________
 </details>
 
-<mark>**And?**</mark>
+<p align="center">⬆️&thinsp;<mark><b>Let's think what to do with this mess...</b>&thinsp;⬆️</mark></p>
 
 ## Drive and let drive
 
-Let's reserve individual surveys of <mark>&thinsp;one-way <b>1&thinsp;:&thinsp;1&thinsp;</b></mark> to voluminous books and techno-evangelists. They do a great job of formalization (including methodologies) and popularizing exclusive approaches, which may prevail in particular initiatives.
+Let's reserve individual surveys of <ins><b>&thinsp;<samp>ONE-WAY</samp> 1&thinsp;:&thinsp;1&thinsp;</b></ins> to voluminous books and techno-evangelists. They do a great job of formalization (including methodologies) and popularizing exclusive approaches, which may prevail in particular initiatives.
 
 Let's be free of dogmas and  isolated combinations. The easiest path is to imagine the items (from the picture above) around a task and develop it with approaches in mind.<sup>🙋</sup>
 
@@ -41,7 +41,7 @@ For example, Development Driven/Crippled Design from the gross use of Test Drive
 
 ### ... for all
 
-<table><tr valign="top"><td width="30%"><picture>
+<table><tr valign="top"><td width="25%"><picture>
   <img alt="&nbsp;Snapshot of illustrated kids alphabet" src="../../../_rsc/_img/illus/freepik.com-KidsAbc.jpg" title="&nbsp;courtesy of FREEP!K (freepik.com)" />
 </picture><br />
 <i>Bounded Contexts</i>
@@ -74,4 +74,5 @@ To summarize
 
 This was a sketch, that shall be enhanced with references to live projects.
 
-🔚 <sub>// borrowed images credit: [The Outer Limits.The&nbsp;Mutant, 1964](https://www.imdb.com/title/tt0667845/?ref_=ttep_ep25), [FREEP1K](FREEP!K (freepik.com))(</sub>
+\___________\
+🔚 <sub> ... borrowed images credit: [The Outer Limits.The&nbsp;Mutant, 1964](https://www.imdb.com/title/tt0667845/?ref_=ttep_ep25), [FREEP1K](FREEP!K (freepik.com))</sub>
