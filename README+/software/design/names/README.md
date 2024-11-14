@@ -12,19 +12,20 @@
 
 ## How to name...
 
-### As usual
+### as usual
 
 The prevalent naming is a derivative of the development, which
 
-❌ leaves "construction waste"\
+❌ leaves "construction waste" of temporary names, placeholders,\
+❌ rests on programmatic "false-domain",\
 as `Helper.Get(..)`, `Utils.Do(...)`, `Service.Find(...)`, and other no-brainers.\
-❌ spawns long names\
+❌ spawns long names and shallow categories,\
 `AddTableReservation()`\
-❌ jargon or working titles
+❌ contains argot and slang.
 
-### As must be
+### as a pro
 
-The naming of libraries, packages (assemblies), classes, methods, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. 
+The naming of libraries, packages (assemblies), folders, classes, methods/functions, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. 
 
 The inevitable and noticeable expenses will pay off with the formation of ***lingua franca*** throughout the team and project, and ...
   
@@ -38,13 +39,13 @@ The inevitable and noticeable expenses will pay off with the formation of ***lin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team means not only developers and managers but customers, testers with end users.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📒</sup><sub> reqs/specs, DoU, meetings protocols, and primers - hard to follow but easy to misunderstand or forget but mostly neglected</sub>
 
+You may see it as [domain-driven design](../drive/README.md#Domain-drive).
+
 ## Categorization
 
-Categoria
-Naming couldn't be flat - it's an axiom, but categorization in software abstraction has two major challenges
+Categorization (classification) is much more profound than breaking collocations and sentences and building the folder hierarchy. &mdash; It makes the structural frame of sound abstractions.
 
-* floating
-*OOD.
+// ToDescribe: Thinking in tags
 
 ## Wrapping up
 
@@ -52,12 +53,17 @@ Even top teams under time pressure and brakes on perfectionism would be barely p
 
 ## Appendix. Posers
 
+Some sitations with naming can be harder than difficult.
+
 ### Impedance with inherited domain names
+
+// ToDescribe:
 
 ### Active or passive voice
 
-Document.print(), plotter.Print
+`document.print(device)` vs. `device.print(document)`
 
+// ToDescribe:
 
 \___________
 
