@@ -6,16 +6,17 @@
      <a href="README+/software/ArcDeco"><b>SOFTWARE</b></a><br/>
      &nbsp;&nbsp;<a href="README+/software/design/"><b>D&thinsp;e&thinsp;s&thinsp;i&thinsp;g&thinsp;n</b></a>&thinsp;<sup>∑</sup>&nbsp;&nbsp;<i>feat.</i>
           <br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/design/names">Names</a>
-     ⚙️
-      <a href="README+/software/design/drive/">Drives</a>➰<a href="README+/software/design/samples">Samples</a><br/>
+     <!-- -->
+     <!--                               NAMES, DRIVES, SAMPLES          --!>
+     <!-- -->
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/design/names">Names</a>&thinsp;⚙️&thinsp;
+      <a href="README+/software/design/drive/">Drives</a>&thinsp;➰&thinsp;<a href="README+/software/design/samples">Samples</a><br/>
      <!-- -->
      <!--                               QA vs. TESTS          --!>
      <!-- -->
      &nbsp;&nbsp;<a href="README+/software/QA/"><b>Q&thinsp;A</b></a>&thinsp;&nbsp;⊃&thinsp;⊂&nbsp;<a href="README+/software/tests/"><b>T&thinsp;e&thinsp;s&thinsp;t&thinsp;s</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i>
      <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a> ➿
-     <a href="README+/software/tests/asQA/README+/QA_tests-pitfalls.md">Tests pitfalls</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a>&thinsp;➿&thinsp;<a href="README+/software/tests/asQA/README+/QA_tests-pitfalls.md">Tests pitfalls</a>
      <!-- -->
      <!--                               DOCU and ORG          --!>
      <!-- -->
@@ -25,7 +26,7 @@
      <!-- -->
      <a href="README+/pencraft"><b>PENCRAFT</b></a>
               <br/>
-      &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md"><mark>&thinsp;<b>essays</b>&thinsp;</mark></a> 🪝<a href="README+/pencraft/README+/memes/README.md">memes</a> 🥨<a href="README+/pencraft/README+/quotes/README.md">quotes</a>
+      &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md"><mark>&thinsp;<b>Essays</b>&thinsp;</mark></a>&nbsp;🪝<a href="README+/pencraft/README+/memes/README.md">Memes</a>&nbsp;🥨<a href="README+/pencraft/README+/quotes/README.md">Quotes</a>
      </td>
 </tr><tr></tr><tr><td><!--                                                                                C#.NET         --!>
 <a href="README+/.net/"><b>C#<sup>.NET</sup></b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
