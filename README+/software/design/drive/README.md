@@ -10,7 +10,7 @@ What guides programming minds (and how) is a separate IT discipline. _Test-Drive
 \___________
 </details>
 
-<p align="center">⬆️&thinsp;<mark><b>Let's think what to do with this mess...</b>&thinsp;⬆️</mark></p>
+<p align="center">⬆️&thinsp;<mark><b>Let's think what to do with this mess...</b>&thinsp;⬇️</mark></p>
 
 ## Drive and let drive
 
@@ -23,7 +23,7 @@ The arduous trail is to draw arrows in the picture,  play with their direction, 
 \_______\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>This read isn't a doctrine now. You are free to dump it now (unless you want to spare hours of rambling in courses and books.</sub>
 
-### Shift <samp>REVERSE</samp>
+### Your gearbox has REVERSE
 
 Consider any approach's counter "rotation," regardless of how twisted it looks first. For example, _Development-Driven Tests_ are nothing else than **test coverage** (e.g. for planning and automation).
 
@@ -51,7 +51,7 @@ For example, Development Driven/Crippled Design from the gross use of Test Drive
 <p>One of the motives and benefits of object-oriented design is that it directly maps to domains, though one may break it with wrong and overladen hierarchies and bad naming.</p>
 <blockquote><p>DDD-tempered code is adverse to names such as <code>utility</code>, <code>service</code>, <code>handler</code>, or <code>data</code> (unless these are conventions of platforms/frameworks).</p></blockquote>
 
-<p dir="rtl"><b>:I can't help bringing more heresy</b></p>
+<p align="center"><b>:I can't help bringing more heresy</b></p>
 <p><b>D&thinsp;D&thinsp;D&thinsp;</b> is so innate that studying it is like learning the alphabet of spoken tongues. Vertically flipped and with deep analysis of segments.</p>
 </td></tr></table>
 
