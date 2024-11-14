@@ -28,7 +28,7 @@ The naming of libraries, packages (assemblies), classes, methods, and even non-p
 
 The inevitable and noticeable expenses will pay off with the formation of ***lingua franca*** throughout the team and project, and ...
   
-✔️ common comprehension of a domain, collaboration, and indeed bound team,
++ shared comprehension of a domain, collaboration, and indeed bound team,
 + genuine design and self-descriptive code,
 + inspiration for behavior/domain-driven design,
 + escape from heaps of docs<sup>📒</sup>,
@@ -46,21 +46,18 @@ Naming couldn't be flat - it's an axiom, but categorization in software abstract
 * floating
 *OOD.
 
+## Wrapping up
+
+Even top teams under time pressure and brakes on perfectionism would be barely proud of their implementation of naming. Furthermore, the naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be continuous and genuine.
+
+## Appendix. Posers
+
 ### Impedance with inherited domain names
-
-// ToDescribe
-
-
-Pabulum
 
 ### Active or passive voice
 
 Document.print(), plotter.Print
 
-
-# Wrapping up
-
-Even top teams under time pressure and brakes on perfectionism would be barely proud of their implementation of naming. Furthermore, the naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be continuous and genuine.
 
 \___________
 
