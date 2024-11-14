@@ -40,7 +40,7 @@
     </td>
     <td>
       <a href="../offtopic/anti-home-office.md"><img src="../../../_rsc/_img/_nav/tiles/_BonusTrack_200px.jpg" alt="&nbsp;Bonus track: anti-home-office" title="&nbsp;Neither office nor home spots"/></a>
-        <br /><div align="center"><h4><a href="">ANTI-HOME-OFFICE</a></h4></div>
+        <br /><div align="center"><h4><a href="../offtopic/anti-home-office.md"">ANTI-HOME-OFFICE</a></h4></div>
     </td>
   </tr>
 </table>
