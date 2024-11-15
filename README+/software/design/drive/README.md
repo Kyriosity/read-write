@@ -51,19 +51,19 @@ For example, Development Driven/Crippled Design from the gross use of Test Drive
 <p>One of the motives and benefits of object-oriented design is that it directly maps to domains, though one may break it with wrong and overladen hierarchies and bad naming.</p>
 <blockquote><p>DDD-tempered code is adverse to names such as <code>utility</code>, <code>service</code>, <code>handler</code>, or <code>data</code> (unless these are conventions of platforms/frameworks).</p></blockquote>
 
-<p align="center"><b>:I can't help bringing more heresy</b></p>
+<p align="center"><b>I can't help bringing more heresy:</b></p>
 <p><b>D&thinsp;D&thinsp;D&thinsp;</b> is so innate that studying it is like learning the alphabet of spoken tongues. Vertically flipped and with deep analysis of segments.</p>
 </td></tr></table>
 
 #### ... <samp>REVERSE</samp> there?
 
-**<mark>&thinsp;Y&thinsp;e&thinsp;s&thinsp;</mark>**, remember the aphorism «_Computers solve problems that we didn't have without them_»? That's definitely about Operating Systems - the product of <i><b>Hardware</b></i>➕<i><b>Software</b>-Driven-Domain</i>.
+**<mark>&thinsp;Y&thinsp;e&thinsp;s&thinsp;</mark>**, remember the aphorism «_Computers solve problems that we didn't have without them_»? That's definitely about _Operating Systems_ - the product of <i><b>Hardware</b></i>➕<i><b>Software</b>-Driven-Domain</i>.
 
-Many other systems are projections of software possibilities that were rudimentary before large-scale computerization: ERP (as SAP), CRM, social networks, E-Mail, and blockchains.
+Many other systems are projections of rudimentary software possibilities before large-scale computerization: social networks, E-Mail, and blockchains. And less corresponding to the term ERP (as SAP), CRM, CMS.
 
 ### Test drive
 
-**TDD** is the oldest and still most discussed (if not practiced) approach and earned its own corner in the [Tests area](../../tests).
+**T&thinsp;D&thinsp;D** is the oldest, still most talked over and practiced approach and earned its own corner in the [Tests area](../../tests).
 
 To summarize
 
