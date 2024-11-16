@@ -16,15 +16,13 @@
 
 The prevalent naming is a derivative of the development, which
 
+❌ rests on programmatic "false-domain" (as `Helper.Get(..)`, `Utils.Do(...)`, `Service.Find(...)`, and other no-brainers),\
 ❌ leaves "construction waste" of temporary names, placeholders,\
-adds umbrella terms and folders (swelling)
-❌ rests on programmatic "false-domain",\
-as `Helper.Get(..)`, `Utils.Do(...)`, `Service.Find(...)`, and other no-brainers.\
-❌ spawns long names and shallow categories,\
-`AddTableReservation()`\
-❌ contains argot and slang.
+❌ spreads umbrella terms and horizontally swelling folders,\
+❌ spawns long names and shallow categories (`AddTableReservation()`),\
+❌ contains jargon and slang.
 
-### as a pro
+### as crucial
 
 The naming of libraries, packages (assemblies), folders, classes, methods/functions, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. 
 
@@ -35,7 +33,7 @@ The inevitable and noticeable expenses will pay off with the formation of ***lin
 + inspiration for behavior/domain-driven design,
 + escape from heaps of docs<sup>📒</sup>,
 + mitigated tension to get into a project for newcomers,
-+ comfy navigation in the source code (incl. <kbd>CTRL+F</kbd>).
++ comfy navigation in the source code (beginning from <kbd>CTRL+F</kbd>).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team means not only developers and managers but customers, testers with end users.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📒</sup><sub> reqs/specs, DoU, meetings protocols, and primers - hard to follow but easy to misunderstand or forget but mostly neglected</sub>
