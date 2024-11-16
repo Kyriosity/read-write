@@ -17,6 +17,7 @@
 The prevalent naming is a derivative of the development, which
 
 ❌ leaves "construction waste" of temporary names, placeholders,\
+adds umbrella terms and folders (swelling)
 ❌ rests on programmatic "false-domain",\
 as `Helper.Get(..)`, `Utils.Do(...)`, `Service.Find(...)`, and other no-brainers.\
 ❌ spawns long names and shallow categories,\
