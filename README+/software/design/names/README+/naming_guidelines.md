@@ -1,7 +1,6 @@
-# Naming &mdash; Guidelines &mdash;- Reminder
+# Naming &mdash; Guidelines &mdash; Reminder
 
 ## Rules of thumb
-
 
 * The higher the level of naming, the more attention.\
 It's a routine to comb out
@@ -49,5 +48,5 @@ General words sound vague (if not bombastic) unless established in the domain. C
 
 And 1st place goes to ... `dirty` used as the trait of a modified object.
 
-
-:end:
+\___________\
+🔚
