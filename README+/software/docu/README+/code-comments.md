@@ -3,7 +3,7 @@
 <p dir="rtl">,When you feel the need to write a comment<br />first try to refactor the code so that<br />.any comment becomes superfluous<br />
  <a href="../../../pencraft/README+/quotes/README+/contributors/README.md#Kent-Beck">Kent Beck</a>, "Refactoring", <b><i>1999</i></b></p>
 
-Comments can be eye-catching and essential but signal design inconsistency and poor naming.  
+> **Comments can be eye-catching and essential but signal design inconsistency and poor naming.**
 
 Carefully written code is self-descriptive by nature and needs no epistolary clarification<sup>🙋</sup>, 
 and even abracadabra in _regex_ processors can be broken down into figurative functions and vars. 
@@ -16,21 +16,23 @@ Exploring source codes of prominent providers on GitHub or elsewhere you'll find
 
 <details>
   <summary><ins><b>&nbsp;Nevertheless, enough cases are licit to comment - to expand a few:&nbsp;</b></ins></summary>
-
+&nbsp;
+ 
 + stamps on auto-generated stuff,
 + ridiculous workarounds (especially for third-party bugs),
 + courtesy of Q&A sites,
 + worthy tricks that harm readability,
 + code snippets in documentation,
 + informal notes on test data,
-+ domain-explaining quotes from sources like a wiki.\
++ domain-explaining quotes from sources like a wiki,
++ explanation of voids **provided** it's poignant (`this file is intentionally left blank, `this class must be void`)
+ 
 \____________________________________
 </details>
 
 One other distinct and legitimate niche is [comment-driven development](https://en.wikipedia.org/wiki/Comment_programming)<sup><b>w</b></sup> (though it's more fun). Further options can be worth deliberation as:
 
-* Comments may contain temporary text fragments, which will be compiled later into design documentation (and thus directly refer to the implementation).\
-<sub>The automation of this idea may stumble on implementation and maintenance expenses.</sub>
+Comments may be anchored theses for documentation if you can effectively support two-way updates.
 
 ### Commenting the code out
 
@@ -42,6 +44,8 @@ One other distinct and legitimate niche is [comment-driven development](https://
 &nbsp;&nbsp;&nbsp;&nbsp;`///EXC` — causes an exception\
 &nbsp;&nbsp;&nbsp;&nbsp;`///IDEA` — It was a fast sketch which one may simplify or elaborate\
 &nbsp;&nbsp;&nbsp;&nbsp;`///LOL` — i did it for lulz
+
+\___________\
 
  🔚
 
