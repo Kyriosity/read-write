@@ -6,6 +6,30 @@
 
 ## Conceptual
 
+### Overestimate of programming and automation
+
+Not every test automation will pay back. And even not every test shall be written in code. Furthermore, not every test must be formulated in steps.
+
+UI tests are a protruding example.
+
+### Wishful thinking Blaming the messenger
+
+The stories of remote testers who happily could with wishful thinking.
+
+### Hope on QA
+
+VETTED
+
+Will load the QA (happy enough) with 
+
+Nevertheless, development shall be done as there's no
+
+### Pro forma QA
+
+Security, tunnel vision
+
+## "Technical"
+
 ### Tests of tests
 
 Writing tests of test frameworks may put one into the infernal loop while running and analyzing application tests, which will find the errors there.
