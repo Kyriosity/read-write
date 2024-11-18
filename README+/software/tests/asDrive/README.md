@@ -1,8 +1,8 @@
 # Software &mdash; Tests as/for Drive
 
-<blockquote dir="rtl"><b>,TDD is easy<br />.I started it 100 times</b><br /><s>Mark Twain</s></blockquote>
+<p dir="rtl"><b>,TDD is easy<br />.I started it 100 times</b><br /><s>Mark Twain</s></p>
 
-The idea to write tests not only _a posteriori_ to validate written code but also prior - to guide their creation - can beyrooted back to the 1950s.<sup>👴</sup>
+The idea to write tests not only _a posteriori_ to validate written code but also prior - to guide development - can be rooted back to the 1950s.<sup>👴</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👴</sup> <sub>One of the best summaries is in [You won't believe how old TDD is](https://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/)<sup>🔗</sup>.</sub>
 
