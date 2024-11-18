@@ -1,6 +1,6 @@
 # Quotes store &mdash; Inspiration department
 
-## Incite ...
+## I&thinsp;n&thinsp;c&thinsp;i&thinsp;t&thinsp;e ...
 
 <details><summary><ins>&nbsp;<b>...to write and document</b>&nbsp;</ins></summary>&nbsp;
 
@@ -37,6 +37,13 @@
 <br /><picture><img alt="&nbsp;Leonardo da Vinci (1452-1519)" src="../../../../_rsc/_img/art/OldMasters/Leo(1452-1519)-portrait-found_2008_nearNaples.jpg" /></picture><br />
 <mark><b>...Leonardo the Great Procrastinator</b></mark> ([widely known](https://interactions.acm.org/blog/view/leonardo-da-vinci-the-great-procrastinator) and "certified" by court)
 
+
+#### F.A.Q.
+
+> **That question is too good to spoil with an answer.**\
+― _Harry Mulisch (1927-2010)_, The Discovery of Heaven\
+<sub>This quote is also known from earlier authors.</sub>
+
 #### Idioms and proverbs
 
 > **Nice guys finish last**.\
@@ -53,11 +60,11 @@ Letter to her brother (1894)
 
 <sup>PL</sup> <sub>Original: "Człowiek nigdy nie ogląda się na to, co zrobione, ale na to patrzy, co ma przed sobą do zrobienia."</sub>
 
-#### Add to calendar
+#### Add to the calendar
 
 _Procrastinators' Club of America_ (with international membership) established [Be Late for Something Day](https://nationaltoday.com/national-be-late-for-something-day/) on **5h&nbsp;September**. As an honest sympathizer, I appended this reminder a day later&mdash;**September&nbsp;6th**, 2024 which surprisingly is [Fight Procrastination Day](https://www.daysoftheyear.com/days/fight-procrastination-day).
 
-Comming next&mdash;[National Procrastination Week](https://en.wikipedia.org/wiki/National_Procrastination_Week).
+Coming next&mdash;[National Procrastination Week](https://en.wikipedia.org/wiki/National_Procrastination_Week).
 
 ---
 
@@ -135,7 +142,7 @@ To name a few of the officially recognized:
 
 </details>
 
-<details><summary><ins>&nbsp;<b>...to acquit not doing/learning</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;<b>...to vindicate <samp>NOT</samp> doing/learning</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;Luca Giordano: Dream of Solomon, 1694-1695" src="../../../../_rsc/_img/art/OldMasters/LucaGiordano-TheDreamOfSolomon-w555px.jpg" 
@@ -149,12 +156,6 @@ Ecclesiastes 1:18, Webster's Bible Translation.
 
 > **Nature uses as little as possible of anything.**\
 _Johannes Kepler_ (1571-1630), key prolific astronomer
-
-#### F.A.Q.
-
-> **That question is too good to spoil with an answer.**\
-― _Harry Mulisch (1927-2010)_, The Discovery of Heaven\
-<sub>This quote is also known from earlier authors.</sub>
 
 #### Forbes talent selection
 
@@ -185,6 +186,11 @@ _Sam Bankman-Fried_, FTX cofounder, [only Zuck has been this rich young](https:/
 > **There are four things to watch forever:\
 falling water, burning fire, starry sky,** and **tasks, you define and others commit**.\
 _Earliest humans_ (ca. 300`000 ago)
+
+#### Bottom line
+
+> **I know that I know nothing.**\
+_Plato_'s account of _Socrates_ 
 
 ---
 
