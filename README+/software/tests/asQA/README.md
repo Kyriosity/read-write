@@ -1,4 +1,4 @@
-# Software - Quality Assurance - Programmatic tests
+# Software &mdash; Quality Assurance &mdash; Programmatic tests
 
 Tests are a huge umbrella term: even opening this page was your test. The restraint here is to the programmatic tests - the term must be self-explanatory and means tests as executable computer programs.
 
