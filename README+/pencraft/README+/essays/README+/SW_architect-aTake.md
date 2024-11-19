@@ -16,7 +16,7 @@ title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nb
 <p>The essence of architecture appeared as folks managed to erect somewhat more extravagant and durable than a hut of piled branches. Some ancient Greeks were so good at it that observers coined "<i>architect</i>"<sup>🏛️</sup> - the term romanized to <i>architecture</i> centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &mdash; 
 refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
-<p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. However, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (giga- either) and architects of détente or <em>economic miracle</em> are compliments (or flattery).</p>
+<p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. However, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) and architects of détente or <em>economic miracle</em> are compliments (or flattery).</p>
 ___________<br />
 <sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the Pyramids suggest (but Stonehenge refutes).</sub>
  </td></tr></table>
@@ -52,7 +52,7 @@ Both can't rely solely on generations of experience and picked masterminds but o
 
 Software development gives freedom of life-sized _trial and **error**_ unthinkable in other productions. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (utilities). 
 
-Contrariwise, doing plans and prototypes months ahead of the first working solution is adverse to software.
+Contrariwise, months of upfront planning and prototyping are adverse to software, which paces in releases and favors [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)<sup><b>w</b></sup> ASAP.
 
 Software is the most automated production where copying, scaling, installation, and updates are one-click (or few, or scheduled) and unattended. 
 
