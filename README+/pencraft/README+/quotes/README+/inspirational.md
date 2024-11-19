@@ -192,6 +192,8 @@ _Earliest humans_ (ca. 300`000 ago)
 > **I know that I know nothing.**\
 _Plato_'s account of _Socrates_ 
 
+If the fundamental Western philosophers had come to this conclusion, what about us plebeians...
+
 ---
 
 </details>
