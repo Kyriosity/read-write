@@ -142,7 +142,7 @@ To name a few of the officially recognized:
 
 </details>
 
-<details><summary><ins>&nbsp;<b>...to vindicate <samp>NOT</samp> doing/learning</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;<b>...to vindicate NOT doing/learning</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;Luca Giordano: Dream of Solomon, 1694-1695" src="../../../../_rsc/_img/art/OldMasters/LucaGiordano-TheDreamOfSolomon-w555px.jpg" 
@@ -168,10 +168,12 @@ _Johannes Kepler_ (1571-1630), key prolific astronomer
 > **I was a really negligent student.**\
 _Sam Bankman-Fried_, FTX cofounder, [only Zuck has been this rich young](https://www.forbes.com/sites/stevenehrlich/2021/10/06/the-richest-under-30-in-the-world-all-thanks-to-crypto/)
 
-#### Amulets against refactoring
+#### Rites against refactoring
 
-> Somewhere it's better to curse in the darkness than to light a single candle.\
-(Attributed to _Ferdinand von Zepellin_ or _von Hindenburg_)
+<table><tr><td><a href="../../../../_rsc/_img/photo/blog/air/Zeppelin_Bodensee.jpg"><img alt="&nbsp;Zeppelin over Bodensee" width="100px" src="../../../../_rsc/_img/thumbs/Bodensee_Zeppelin-200px.jpg"></picture></td><td>
+  <blockquote><b>Somewhere it's better to curse in the darkness <br />than to light a single candle.</b><br />
+(Attributed to <i>Ferdinand von Zeppelin</i> or <i>von Hindenburg</i>)</blockquote>
+</td></tr></table>
 
 #### Hammer❗
 
