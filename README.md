@@ -1,7 +1,7 @@
-<table> 
- <tr valign="top">
+<table><tr valign="top"><td>
+ <table><tr valign="top">
     <td width="50%">
-      <picture><img src="README+/_rsc/_img/_nav/learn_is_swim.jpg" alt="&nbsp;If to learn is to swim against the current ..." /><picture>
+      <picture><img src="README+/_rsc/_img/_nav/learn_is_swim.jpg" alt="&nbsp;If to learn is to swim against the current ..." /></picture>
     </td><td width="50%">
      <a href="README+/software/ArcDeco"><b>SOFTWARE</b></a><br/>
      &nbsp;&nbsp;<a href="README+/software/design/"><b>D&thinsp;e&thinsp;s&thinsp;i&thinsp;g&thinsp;n</b></a>&thinsp;<sup>∑</sup>&nbsp;&nbsp;<i>feat.</i>
@@ -12,11 +12,11 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/design/names">Names</a>&thinsp;⚙️&thinsp;
       <a href="README+/software/design/drive/">Drives</a>&thinsp;➰&thinsp;<a href="README+/software/design/samples">Samples</a><br/>
      <!-- -->
-     <!--                               QA vs. TESTS          --!>
+     <!--                               QA and TESTS          --!>
      <!-- -->
      &nbsp;&nbsp;<a href="README+/software/QA/"><b>Q&thinsp;A</b></a>&thinsp;&nbsp;⊃&thinsp;⊂&nbsp;<a href="README+/software/tests/"><b>T&thinsp;e&thinsp;s&thinsp;t&thinsp;s</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i>
      <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a>&thinsp;➿&thinsp;<a href="README+/software/tests/asQA/README+/QA_tests-pitfalls.md">Tests pitfalls</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a>&thinsp;➿&thinsp;<a href="README+/software/tests/asQA/README+/QA_tests-pitfalls.md">Tests pitfalls</a> DAMP!DRY
      <!-- -->
      <!--                               DOCU and ORG          --!>
      <!-- -->
@@ -49,6 +49,9 @@
  &nbsp;&nbsp;&nbsp;<a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames">Frames</a>&nbsp;↗️&nbsp;
      <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Decisions</a>
 </td><td>
-      <picture><img src="README+/_rsc/_img/_nav/IT_is_waterfall.jpg" alt="&nbsp;... then IT must be a waterfall" /><picture>
+      <picture><img src="README+/_rsc/_img/_nav/IT_is_waterfall.jpg" alt="&nbsp;... then IT must be a waterfall" /></picture>
      </td>
-</table>
+</table></td><td>
+ Alternative view (reads)
+</td></tr></table>
+
