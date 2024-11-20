@@ -12,11 +12,11 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/design/names">Names</a>&thinsp;⚙️&thinsp;
       <a href="README+/software/design/drive/">Drives</a>&thinsp;➰&thinsp;<a href="README+/software/design/samples">Samples</a><br/>
      <!-- -->
-     <!--                               QA vs. TESTS          --!>
+     <!--                               QA and TESTS          --!>
      <!-- -->
      &nbsp;&nbsp;<a href="README+/software/QA/"><b>Q&thinsp;A</b></a>&thinsp;&nbsp;⊃&thinsp;⊂&nbsp;<a href="README+/software/tests/"><b>T&thinsp;e&thinsp;s&thinsp;t&thinsp;s</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i>
      <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a>&thinsp;➿&thinsp;<a href="README+/software/tests/asQA/README+/QA_tests-pitfalls.md">Tests pitfalls</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a>&thinsp;➿&thinsp;<a href="README+/software/tests/asQA/README+/QA_tests-pitfalls.md">Tests pitfalls</a> DAMP!DRY
      <!-- -->
      <!--                               DOCU and ORG          --!>
      <!-- -->
