@@ -1,7 +1,7 @@
-<table> 
- <tr valign="top">
+<table><tr valign="top"><td>
+ <table><tr valign="top">
     <td width="50%">
-      <picture><img src="README+/_rsc/_img/_nav/learn_is_swim.jpg" alt="&nbsp;If to learn is to swim against the current ..." /><picture>
+      <picture><img src="README+/_rsc/_img/_nav/learn_is_swim.jpg" alt="&nbsp;If to learn is to swim against the current ..." /></picture>
     </td><td width="50%">
      <a href="README+/software/ArcDeco"><b>SOFTWARE</b></a><br/>
      &nbsp;&nbsp;<a href="README+/software/design/"><b>D&thinsp;e&thinsp;s&thinsp;i&thinsp;g&thinsp;n</b></a>&thinsp;<sup>∑</sup>&nbsp;&nbsp;<i>feat.</i>
@@ -49,6 +49,9 @@
  &nbsp;&nbsp;&nbsp;<a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames">Frames</a>&nbsp;↗️&nbsp;
      <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Decisions</a>
 </td><td>
-      <picture><img src="README+/_rsc/_img/_nav/IT_is_waterfall.jpg" alt="&nbsp;... then IT must be a waterfall" /><picture>
+      <picture><img src="README+/_rsc/_img/_nav/IT_is_waterfall.jpg" alt="&nbsp;... then IT must be a waterfall" /></picture>
      </td>
-</table>
+</table></td><td>
+ Alternative view (reads)
+</td></tr></table>
+
