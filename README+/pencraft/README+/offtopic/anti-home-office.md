@@ -13,7 +13,8 @@
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/NUE-brougham.jpg" title="&nbsp;Shuttles at the NUE airport" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/2024.06.05_NUE.jpg" title="&nbsp;Sheep spotting (NUE SCHAFft sich ab)" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/secured_zone.jpg" title="&nbsp;One other airport security zone" width="300"/></span>
-<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/rw/DB/ICE888.jpg" title="&nbsp;DB Intercity Express" width="300"/></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/rw/DB/ICE888.jpg" title="&nbsp;DB Intercity Express, München->Hamburg" width="300"/></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/rw/DB/ICE1007.jpg" title="&nbsp;DB ICE Sprinter, Berlin->München" height="300"/></span>
 
 ## Nature
 
@@ -28,6 +29,7 @@
 
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/StadtBiblio.jpg" width="300" title="&nbsp;Stadt Bibliothek, reading hall" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Starbux.jpg" width="300" title="&nbsp;Starbucks" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Hbf-CoffeeFellows.jpg" width="300" title="&nbsp;Coffee Fellows, Hbf" /></span>
 
 \___________
 
