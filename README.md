@@ -16,7 +16,7 @@
      <!-- -->
      &nbsp;&nbsp;<a href="README+/software/QA/"><b>Q&thinsp;A</b></a>&thinsp;&nbsp;⊃&thinsp;⊂&nbsp;<a href="README+/software/tests/"><b>T&thinsp;e&thinsp;s&thinsp;t&thinsp;s</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i>
      <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a>&thinsp;➿&thinsp;<a href="README+/software/tests/asQA/README+/QA_tests-pitfalls.md">Tests pitfalls</a> DAMP!DRY
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a>&nbsp;&nbsp;🧪&thinsp;<a href="README+/software/tests/asQA/README+/tests-damp_vs_dry.md">D<samp>AMP</samp>⚔️D<samp>RY</samp></a>
      <!-- -->
      <!--                               DOCU and ORG          --!>
      <!-- -->
@@ -26,7 +26,7 @@
      <!-- -->
      <a href="README+/pencraft"><b>PENCRAFT</b></a>
               <br/>
-      &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md"><mark>&thinsp;<b>Essays</b>&thinsp;</mark></a>&nbsp;🪝<a href="README+/pencraft/README+/memes/README.md">Memes</a>&nbsp;🥨<a href="README+/pencraft/README+/quotes/README.md">Quotes</a>
+      &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md">&thinsp;<b>Essays</b>&thinsp;</a>&nbsp;🪝<a href="README+/pencraft/README+/memes/README.md">Memes</a>&nbsp;🥨<a href="README+/pencraft/README+/quotes/README.md">Quotes</a>
      </td>
 </tr><tr></tr><tr><td><!--                                                                                C#.NET         --!>
 <a href="README+/.net/"><b>C#<sup>.NET</sup></b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
@@ -52,6 +52,16 @@
       <picture><img src="README+/_rsc/_img/_nav/IT_is_waterfall.jpg" alt="&nbsp;... then IT must be a waterfall" /></picture>
      </td>
 </table></td><td>
- Alternative view (reads)
+     <!-- -->
+     <!--                             T H I R D   C O L U M N         --!>
+     <!-- -->
+ Alternative flat view
+<details><summary><b><ins>&nbsp;Tutti Frutti&nbsp;</ins></b></summary>
+ &nbsp;
+ 🏛️ <a href="README+/pencraft/README+/essays/README+/SW_architect-aTake.md">Architect(ure)</a><br />
+ 📀 Bonus track: <a href="README+/pencraft/README+/offtopic/anti-home-office.md">Anti-home-office</a>
+
+ \___________
+</details>
 </td></tr></table>
 
