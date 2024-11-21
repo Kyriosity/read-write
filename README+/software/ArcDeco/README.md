@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;(Since `4>3` tearful blue was inserted for Design.)</sub>
 
 <details>
-<summary><ins>&nbsp;<b>More spectrum for requirements, management, testing, and administration?</b>&nbsp;</ins></summary>
+<summary><h3><ins>&nbsp;<samp>More spectrum for</samp> requirements<samp>,</samp> management<samp>,</samp> testing, <samp>and</samp> administration<samp>&nbsp;?</samp></b>&nbsp;</ins></h3></summary>
 <br/>
 
 <table><tr valign="top"><td>
