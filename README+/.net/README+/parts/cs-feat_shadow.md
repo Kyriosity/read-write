@@ -1,4 +1,4 @@
-# C# - Features and parts in shade
+# C# &mdash; Features and parts in shade
 
 Different from [underused sides](../cs-feat_underused.md) these shaded parts (good or not) are specific and a developer may never need to use one. However one must be aware of them to use on demand or compare with a custom realization.
 

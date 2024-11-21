@@ -1,4 +1,4 @@
-# C# - Drawbacks - "Minority report"
+# C# &mdash; Drawbacks &mdash; "Minority report"
 
 Artworks can be perfect &mdash; not technologies. With all its goodies __C#__ has downsides as bulky declarations of hierarchies, rigid interfaces, and notably restrained generics.
 

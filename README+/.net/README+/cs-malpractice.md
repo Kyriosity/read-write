@@ -1,4 +1,4 @@
-# C# - Misconception and malpractice
+# C# &mdash; Misconception and malpractice
 
 ## Inappropriate usage
 

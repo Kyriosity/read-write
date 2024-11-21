@@ -1,4 +1,4 @@
-# WPF - XAML View
+# WPF &mdash; XAML View
 
 XAML is a native frontend language of WPF and a species of markup views (like HTML for Web, or XML for Android).
 

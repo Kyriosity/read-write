@@ -1,4 +1,4 @@
-# C# - Nice to have - Parts and frameworks
+# C# &mdash; Nice to have &mdash; Parts and frameworks
 
 Along with [nice-to-have syntax/features](../cs-lacks.md) **C#** could grow with some naturally expected parts/frameworks.
 

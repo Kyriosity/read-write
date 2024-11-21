@@ -1,4 +1,4 @@
-# C# - Nice to have - Syntax, constructs and features
+# C# &mdash; Nice to have &mdash; Syntax, constructs and features
 
 C#.NET isn't a universal formula, and its team (counting the community) doesn't possess unbounded resources. However, this platform could offer extra features and foundations, which would only boost its charm.
 

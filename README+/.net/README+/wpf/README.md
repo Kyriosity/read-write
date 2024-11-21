@@ -1,4 +1,4 @@
-# WPF - Reminder
+# WPF &mdash; Reminder
 
 Despite much scepsis, justifiable and not, and critics from the very dawn **WPF** became a fully mature successor of _WinForms_, unlike its Web companion _manqué_ - Silverlight, and cross-platform offshoots (like Xamarin).
 
