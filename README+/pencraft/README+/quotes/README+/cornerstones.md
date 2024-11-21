@@ -1,7 +1,6 @@
-# IT - Quotes - Cornerstones
+# IT &mdash; Quotes &mdash; Cornerstones
 
-* Quotes and epigraphs can be annoying, their hackneyed selections migrate between resources &mdash; but only worthy ones are cherry-picked here to provoke deeper IT thinking. 
-* Looking for quotes gets arduous - not every expert spoke/wrote/thought in them and maintained their list, and not every best is in _wikiquote_.
+>☝️ Quotes and epigraphs can be annoying, while their hackneyed selections migrate between resources &mdash; but **only worthy** ones are cherry-picked here to provoke deeper IT thinking. 
 
 [![#SimpleVsComplex](https://img.shields.io/badge/%23-Simple⚔️Complex-2962FF)](#) [![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software/ArcDeco/README.md)
 <table>
@@ -109,6 +108,8 @@
     </td>
   </tr>
 </table>
+
+**P.S.** Finding quotes is arduous - not every pundit spoke or wrote in them. Not every citation is in _wikiquote_ or on another popular list.
  
 \____________
 
