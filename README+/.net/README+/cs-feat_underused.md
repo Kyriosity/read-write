@@ -35,13 +35,10 @@ The following "old" practical syntax and features remain unused in enough progra
 
 With pattern matching, tuples, and `=>` replacing `break` the good old statement got the second life.
 
-## Structures
+## Pattern matching `switch` instead of `else if`s
 
-### Tuples
-
-"Conditional rows" with patterns and `_`-matchng instead of `if`s are great if you find a case to implement.
-
-Together with `switch` they do tricks worth to see - [Advanced Pattern Matching in C#](https://www.youtube.com/watch?v=W-f9MHB-5TQ)<sup><picture><img src="../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture></sup>, Nov/2024.
+"Conditional rows" with patterns and `_`-matchng, "on-the-fly" tuples, and `=>` returns allow amazing tables of shortcuts.\
+It's better to see once a recent video tutorial, for example [Advanced Pattern Matching in C#](https://www.youtube.com/watch?v=W-f9MHB-5TQ)<sup><picture><img src="../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="&nbsp;Link to YouTube video" /></picture></sup>, Nov/2024.
 
 ## Predicates and delegates as arguments
 
