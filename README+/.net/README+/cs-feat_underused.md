@@ -41,7 +41,7 @@ With pattern matching, tuples, and `=>` replacing `break` the good old statement
 
 "Conditional rows" with patterns and `_`-matchng instead of `if`s are great if you find a case to implement.
 
-// ToDo: add a link to use-dev if tried
+It's better once to see [Advanced Pattern Matching in C#](https://www.youtube.com/watch?v=W-f9MHB-5TQ)<sup><picture><img src="../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture></sup>, Nov/2024.
 
 ## Predicates and delegates as arguments
 
