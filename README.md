@@ -1,5 +1,4 @@
-<table><tr valign="top"><td>
- <table><tr valign="top">
+<table><tr valign="top">
     <td width="50%">
       <picture><img src="README+/_rsc/_img/_nav/learn_is_swim.jpg" alt="&nbsp;If to learn is to swim against the current ..." /></picture>
     </td><td width="50%">
@@ -51,16 +50,15 @@
 </td><td>
       <picture><img src="README+/_rsc/_img/_nav/IT_is_waterfall.jpg" alt="&nbsp;... then IT must be a waterfall" /></picture>
      </td>
-</table></td><td>
-     <!-- -->
-     <!--                             T H I R D   C O L U M N         --!>
-     <!-- -->
+</table>
+ 
+<!--                             FLAT   A B S T R A C T         --!>
 <details><summary><b><ins>&nbsp;Flat abstract&nbsp;</ins></b></summary>
  &nbsp;
  🏛️ <a href="README+/pencraft/README+/essays/README+/SW_architect-aTake.md">Architect(ure)</a><br />
- 📀 Bonus track: <a href="README+/pencraft/README+/offtopic/anti-home-office.md">Anti-home-office</a>
+ 📀 Bonus track: <a href="README+/pencraft/README+/offtopic/anti-home-office.md">Anti-home-office</a><br />
 
- \___________
-</details>
-</td></tr></table>
+<br />___________</details>
+
+🔚
 
