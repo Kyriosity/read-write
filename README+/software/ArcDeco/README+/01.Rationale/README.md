@@ -8,7 +8,10 @@
 
 <p dir="rtl">A cherry-picked <b>metaphor</b><br />.simplifies explanation<br />(.At times even for readers)</p>
 
-**Chess is a universal metaphor.** Learning the basics of programming is as easy as the rules of this strategy, and beginning programming resembles the first games: _blitz_, enjoyable, and considerably advancing.
+**Chess is a universal metaphor.** (Or we are boring and unimaginative to apply better and smarter analogies.)\
+Learning the basics of programming is as easy as the rules of this strategy, and beginning programming resembles games of neophytes: _blitz_, enjoyable, and considerably advancing.
+
+THINKING in MANY MOVES NEXT!
 
 Trying to play on the next level one either blunders too oft or a slightly better opponent lures into positional traps. 
 In software, writing cool features won't make up a great design. 
