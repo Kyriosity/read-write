@@ -37,8 +37,11 @@ _Richard Wesley Hamming_ (**1915** - 1988), a mathematician known for prize-winn
 
 #### Richard Bellman
 
-Prof. _Richard Ernest Bellman_ (1920-1983), a mathematician  who introduced **dynamic programming** in 1953 (IEEE Medal of Honor, 1979),\
-an ultra-prolific writer (with over 600 papers and 39 books published), winner of the John von Neumann Theory Prize🏆 (1976)
+Prof. _Richard Ernest Bellman_ (**1920**-1983), a mathematician  who introduced **dynamic programming** in 1953 (IEEE Medal of Honor, 1979),\
+a mega-prolific writer (with over 600 papers and 39 books published), winner of the John von Neumann Theory Prize🏆 (1976)
+
+> **In any case, computers can never eliminate the need for problem-solving through human ingenuity and intelligence.**\
+Richard E Bellman & Paul Brock, "On the Concepts of a Problem and Problem-Solving", American Mathematical Monthly 67, 1960)
 
 #### Alan Perlis
 
