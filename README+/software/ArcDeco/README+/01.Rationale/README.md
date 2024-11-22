@@ -10,7 +10,7 @@
 
 **Chess is a universal metaphor.** Learning the basics of programming is as easy as the rules of this strategy, and beginning programming resembles the first games: _blitz_, enjoyable, and considerably advancing.
 
-The qualitative progress will abruptly slow down in excellence at a certain complexity level. In chess, there are blunders or positional traps of even a slightly better opponent. 
+Trying to play on the next level one either blunders too oft or a slightly better opponent lures into positional traps. 
 In software, writing cool features won't make up a great design. 
 
 Then you realize the enormous complexity behind the curtain of naive impressions, and that you won't progress without theorizing yourself.
