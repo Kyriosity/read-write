@@ -12,7 +12,7 @@
 
 After polishing the logic and wording, consider and write other test cases. 
 
-Developing tests this way shall (<ins>not guaranteed</ins>) wrap features in pleasant _<mark>D</mark>escriptive <mark>A</mark>nd <mark>M</mark>eaninigful <mark>P</mark>hrases_ (aka <mark><b>DAMP</b></mark>). Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario) that wrap tests into phrases, apprehensible not only by programmers but normal folks.
+Developing tests this way shall (<ins>not guaranteed</ins>) wrap features in pleasant _<b>D</b>escriptive <b>A</b>nd <b>M</b>eaninigful <b>P</b>hrases_ (_abbr._ <b>DAMP</b>). Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario) that wrap tests into phrases, apprehensible not only by programmers but normal folks.
 
 No need to describe the virtues of this approach but one significant flaw: <ins>&nbsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins>. The number of cases, rows of data and their combination, shared functionality, and alternatives.
 
@@ -32,9 +32,7 @@ DON'T REPEAT YOURSELF
 
 ERODE BUT KEEP
 
-### Combinatorial explosion
-
-This is the greatest hit, not one-dimensional combination growth but 
+### Input cumulation
 
 ```mermaid
 graph TD
@@ -46,6 +44,12 @@ graph TD
 ```
 
 use-dev [decisions](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-multi_feed.md)
+
+### Dimensional growth
+
+### Combinatorial explosion
+
+This is the greatest hit, 
 
 ### MULTITYPE
 
