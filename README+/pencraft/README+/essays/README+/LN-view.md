@@ -7,23 +7,24 @@
 <picture><img alt="Lotus Notes R5 splash screen" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/af/LotusNotesR5_SplashWin.jpg" title="splash screen of Lotus Notes R5"></picture>
 </td><td width="30%">
 <p>As a developer of line-of-business and corporate applications on Lotus Notes for over a decade<sup><mark>#</mark></sup>, I must have deserved the privilege of personal (Lotus) notes.</p>
-&nbsp;&nbsp;&nbsp;&nbsp;<sup><mark>#</mark></sup> <sub>Before switching to <a href="../../../../.net">C#.NET</a>.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup><mark>#</mark></sup> <sub>Before I cast my lot with <a href="../../../../.net">C#.NET</a>.</sub>
 </td></tr></table>
 
-IBM PC users remember (or not) that it was a time and a <b>word</b> &mdash; not Microsoft's one or WordPerfect, but «<b>LOTUS</b>», a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
-
+IBM PC users remember (or not) that it was a time and a <b>word</b> &mdash; not Microsoft's one or WordPerfect, but «<b>LOTUS</b>», a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.\
 Developers and sysadmins will remember genuine Rapid Application Development with fluent installation/evaluation<sup>🙋</sup>.
 
 LN paved the public road to diverse innovations: client-server, multirole/group authorization, doc-oriented DB<sup>📜</sup>, __**replication**__<sup>⭐</sup>, to name a few of the unique goodies.
 
 There were similar suites - legacy, alternative, or tailor-made - but this aquatic flower dominated the market garden ... until Microsoft began to win its large chunks of office software.
 
-In 1995, IBM gained Lotus in full<sup>💰</sup>. It was a big chance not only to gain from internal use and sales but also to reform at least _LN_ with the influence, know-how, and technologies of the Big Blue. 
+* In 1995, IBM gained Lotus in full<sup>💰</sup>.\
+It was a big chance not only to gain from sales and internal installations but also to reform at least _LN_ with the influence, know-how, and technologies of the Big Blue. 
 However mediocre and inaccurately focused efforts caused Lotus to wilt.<sup>🍦</sup>
 
-In 2001 Microsoft delivered a competitor - **SharePoint**. Much more complex and bulkier but it delivered the next software generation (as a product and API), was deprived of many inherent vices of the Lotus pioneer, and began to gradually supersede _LN_ in one-way traffic. 
+* In 2001 Microsoft released its "bird of a feather" - **SharePoint** - much more sophisticated and bulkier but promoting the next generation (as a product and API).\
+SharePoint was deprived of many inherent vices of the Lotus pioneer and began to gradually supersede _LN_ in the one-way migration. 
 
-The bargain sale of Domino/Notes and donating the office's source code to freeware paved the way for _LN_ to a legacy on the IT margins.
+* The bargain sale of Domino/Notes and donating the office's source code to freeware paved the way for _LN_ to legacy on IT margins.
 
 \___________\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>📜</sup> <sub>Long before NoSQL became mainstream.</sub>\
