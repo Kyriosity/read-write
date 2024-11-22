@@ -55,8 +55,7 @@
      <!-- -->
      <!--                             T H I R D   C O L U M N         --!>
      <!-- -->
- Alternative flat view
-<details><summary><b><ins>&nbsp;Tutti Frutti&nbsp;</ins></b></summary>
+<details><summary><b><ins>&nbsp;Flat abstract&nbsp;</ins></b></summary>
  &nbsp;
  🏛️ <a href="README+/pencraft/README+/essays/README+/SW_architect-aTake.md">Architect(ure)</a><br />
  📀 Bonus track: <a href="README+/pencraft/README+/offtopic/anti-home-office.md">Anti-home-office</a>
