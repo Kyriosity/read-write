@@ -35,6 +35,11 @@ Designer of the earliest stored program computers (EDSAC, 1949) and inventor of 
 
 _Richard Wesley Hamming_ (**1915** - 1988), a mathematician known for prize-winning IT solutions
 
+#### Richard Bellman
+
+Prof. _Richard Ernest Bellman_ (1920-1983), a mathematician  who introduced **dynamic programming** in 1953 (IEEE Medal of Honor, 1979),\
+an ultra-prolific writer (with over 600 papers and 39 books published), winner of the John von Neumann Theory Prize🏆 (1976)
+
 #### Alan Perlis
 
 _Alan Jay Perlis_ (**1922** - 1990)<sup title="Turing Award, 1966">🥇</sup> MIT,  research mathematician, one of the ALGOL founders, and the early TDD advocate.\
