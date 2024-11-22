@@ -26,11 +26,11 @@ Some memes are too folk (public), or old to be proprietary or copyright-protecte
 The tools mostly utilized to stuff the repositories are:
 
 + **Paint.net**, dotPDN LLC®️,
-+ **LibreOffice**,
++ **LibreOffice** (with its galleries),
 + Microsoft®️ **Office**,
 + Microsoft®️ **Visual Studio** (Community version),
 + and **GitHub**.
 
 \_______
 
-:end: <sub>If you have questions or demands, feel free to contact me through the Git (e.g. pull request)....</sub>
+:end: <sub>If you have questions or demands, feel free to contact me through Git (e.g. pull request)....</sub>
