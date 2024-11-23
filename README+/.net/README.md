@@ -6,7 +6,7 @@ It evolves nonstop, providing us with up-to-date, concise, comprehensible syntax
 
 Its dedicated team<sup>:people_holding_hands:</sup> learns from the drawbacks and advantages of other languages, community [proposals](https://github.com/dotnet/csharplang/tree/main/proposals)<sup>🔗</sup>, and finds trade-offs between readability and brevity.
 
-C# allows developers to focus on clean code while .NET will care to compile that into effective and safe executables.<sup>💾</sup>  The cleaner the code - the better performance ("lower-level" syntax is also provided For optimization and specific boosts).
+C# allows developers to focus on clean code while .NET will care to compile that into effective and safe executables.<sup>💾</sup>  The cleaner the code - the better performance ("lower-level" syntax is also available For specific boosts). For intensive tasks, developers may choose between optimized collections (concurrent, pool, spans).
 
 Each annual release, beyond new features, significantly improves the performance of major parts.
 
@@ -19,7 +19,7 @@ Surprisingly `C#` is widely utilized in APIs and drivers to industry-standard **
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>💾</sup> <sub>Now you can avoid selecting a processor, [memory models](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)<sup>🔗</sup> and turning off 1MB of RAM to get performance bonus on release.</sub>
 
 This intro and next essays must be subjective and tendential but are based on live experience in various projects and teams ↙️\
-|--- [Boosting hints](README+/cs-hints.md)\
+|--- [Hints from praxis](README+/cs-hints.md)\
 |--- [Good sides underused](README+/cs-feat_underused.md)\
 |--- [Features/parts in shade](README+/parts/cs-feat_shadow.md)
 
