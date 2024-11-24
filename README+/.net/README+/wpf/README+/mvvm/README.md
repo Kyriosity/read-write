@@ -39,6 +39,13 @@ Alas, there are not too many popular and exchangeable pluggable "bricks" to buil
 
 ## Wrapping up
 
-MVVM has been widely established but is neither a golden nor universal section. On call of peculiarity or creativity any other, even monolithic, form is legal.&nbsp;<sup>:triangular_ruler:</sup>
-
+MVVM has been widely established but is neither a golden nor universal section. On call of peculiarity or creativity any other, even monolithic, form is legal.&nbsp;<sup>:triangular_ruler:</sup>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:triangular_ruler:</sup><sub>&nbsp;Google team coined *Model-View-Whatever* for its Angular</sub>
+
+### Practical decisions for MVVM
+
+|- ➡️ use-dev\
+|--- [Notification orchstration](https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-notification_orchestration.md)\
+|--- [Model & ViewModel cohesion](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/mvvm/mvvm-vmodel_cohesion.md)
+
+🔚
