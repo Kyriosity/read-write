@@ -8,8 +8,10 @@
 
 <p dir="rtl">A cherry-picked <b>metaphor</b><br />.simplifies explanation<br />(.At times even for readers)</p>
 
-**Chess is a universal metaphor.** (Or we are boring and unimaginative to apply better and smarter analogies.)\
-Learning the basics of programming is as easy as the rules of this strategy, and beginning programming resembles games of neophytes: _blitz_, enjoyable, and considerably advancing.
+**Chess is a universal metaphor.**<sup>♟️</sup> Learning the basics of programming is as easy as the rules of this strategy, and beginning programming resembles games of neophytes: _blitz_ (wins follow fails), enjoyable, and considerably advancing.\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>♟️</sup> <sub>Or we are boring and unimaginative to apply better and smarter analogies. Math theories would set tighter but will scare away the majority and I'll be the first to drop (it).</sub>
+
+Then understanding and learning principles and check patterns make you a better player, you maker fewer blunders but - you still lose 100 of 100 games with a rated opponent.\ SW ANALOGY
 
 THINKING in MANY MOVES NEXT!
 
