@@ -1,18 +1,15 @@
 # Test Drive &mdash; Big Watershed
 
 <table><tr valign="top"><td>
-<picture><img width="125px" alt="&nbsp;Y-fork: yellow" src="../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>    
-  </td><td><p>On a rainy July day I was bicycling to  a random lecture on <b>TD<mark>D</mark></b> and a doubt crept in &mdash; where am I going: </p>
-<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
-It wasn't about the destination of this ride, but the principal divergence.<br />
-(For the record: 
-  the title of the lecture resonated with my DOUBT:
-"Failed with TDD? Here you know why."
-  And yes, it was 
-<a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>
+<picture><img width="250px" alt="&nbsp;Y-fork: yellow" src="../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>    
+</td><td><p>On a rainy July day I was bicycling to  a random lecture on <b>TD<mark>D</mark></b> and a doubt crept in &mdash; where am I going:</p>
+   <p align="center">Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
+<p>It wasn't about the destination of this ride, but the principal divergence. 
+For the record, the title of the lecture resonated with my anxiety:  "Failed with TDD? Here you know why."</p>
+<p align="center"> And yes, it was <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>.</p>
 </td></tr></table>
 
-The deabbrevistion  raised another doubt: where's Design - I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found...
+The de-abbreviation raised another doubt: where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...
 
 Presentations and lectures favored _development_ with design as a natural<sup>🌵</sup> derivative, not much bothering about distinction and some even exploited both terms interchangeably. Books and tutorials inclined more toward techniques, patterns, and testing frameworks.
 
@@ -24,7 +21,7 @@ PARALLEL to ARC w/ LINK to ESSAY
 
 However, TDD(development), which was fine for discourses, bootcamps, and `classes`, and encouraged to start features, didn't set forth for me to design just a mediocre project, imaginary or tried.
 
-Tge evolutionary design wasn't the answer too 
+The evolutionary design wasn't the answer too 
 
 > The initial <mark>`OR`</mark>-question was answered first `AND` and then `XOR`.
 
