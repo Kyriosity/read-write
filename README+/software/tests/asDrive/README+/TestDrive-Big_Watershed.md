@@ -2,17 +2,17 @@
 
 <table><tr valign="top"><td>
 <picture><img width="125px" alt="&nbsp;Y-fork: yellow" src="../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>    
-  </td><td><p>I was bicycling to hear a casual lecture on <b>TD<mark>D</mark></b> and the doubt crept in &mdash; where am I going: </p>
+  </td><td><p>I was bicycling to hear a PODVERNUVSIISYA casual lecture on <b>TD<mark>D</mark></b> and the doubt crept in &mdash; where am I going: </p>
     <p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
 It wasn't about the lecture, but the principal divergence.<br />
 (For the record: 
-  the title of the lecture 
-Failed with TDD ? An TDD gescheitert? Hier erfährst du, warum) Here you know why.
-  BUT NOT
-  Hier erfährst du, warum)
+  the title of the lecture resonated with my doubt:
+"Failed with TDD? Here you know why."
+  Yep, it was 
+<a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>
 </td></tr></table>
 
-The expansion to <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup> and the lecture alone didn't settle the doubt, I searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found.\
+UNSATISFIED with the deabbrevistion  alone, I searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be better findings, and there could be better alternating conclusions.</sub>
 
 Presentations and lectures favored _development_ with design as a natural<sup>🌵</sup> derivative, not much bothering about distinction and some even exploited both terms interchangeably. Books and tutorials inclined more toward techniques, patterns, and testing frameworks.\
