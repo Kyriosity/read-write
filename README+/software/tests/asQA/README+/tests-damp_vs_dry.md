@@ -8,7 +8,7 @@
     </ul>
 </td><td><p align="center">
 ↗️&nbsp;<b>A<samp>RRANGE</samp></b>&nbsp;➡️ <br />➡️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>A<samp>CT</samp></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ <br />➡️&nbsp;&nbsp;<b>A<samp>SSERT&nbsp;&nbsp;↩️</samp></b></p></td><td>
-    After polishing the logic and wording,<br />consider and write other test cases. 
+    <p>After polishing the logic and wording,<br />consider and write other test cases.</p>
 </td></tr></table>
 
 Developing tests this way shall (<ins>not guaranteed</ins>) wrap features in pleasant _<b>D</b>escriptive <b>A</b>nd <b>M</b>eaninigful <b>P</b>hrases_ (_abbr._ <b>DAMP</b>).\
@@ -18,12 +18,13 @@ No need to point out the virtues of this approach but one great flaw: <ins>&nbsp
 
 <table><tr><td><picture><img alt="&nbsp;Black box of test (not of application)" src="../../../../_rsc/_img/memes/ItTestsSmth.jpg" /></picture>
 </td><td>
-<p>Dveloping tests this way will create a sound core, which with little documentation will describe the application and prove code essentials.</p>
-<p>Adding more and more tests will piece by piece dissolve this core into a badly exorbitant maintainable bulk. With scrappy coverage, accumulated negligence, and impeded navigation.</p>
-<p>Another option is continuous refactoring with &thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp; first off (<i><b>D</b>on't <b>R</b>repeat <b>Y</b>ourself</i>).</p>
+<p>Developing tests this way will create a sound core, which with little documentation will describe the application and prove code essentials.</p>
+<p>Adding more and more tests will slightly dissolve this core into a badly exorbitant maintainable bulk. With scrappy coverage, accumulated negligence, and impeded navigation.</p>    
 </td></tr></table>
 
-# <samp>DRY</samp> it - <samp>A</samp>rrange
+Another option is continuous refactoring with **DRY** (<i><b>D</b>on't <b>R</b>repeat <b>Y</b>ourself</i>) first of all.
+
+## DRY it - A<samp>RRANGE</samp>
 
 ## Feed expansion
 
@@ -36,26 +37,52 @@ graph TD
 
 ```
 
-use-dev [decisions](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-cut_feeds..md)
-
 ### Dimensional growth
 
-### Combinatorial explosion
+#### Combinatorial explosion
 
 This is the greatest hit.
 
-## Arrange &mdash; Multitype
+#### Arrange &mdash; Multitype
 
 Add here that argument combinations can matter and their MULTITYPE POLY (e.g. integer and floating point for the same calculation and even values).
 
-# <samp>DRY</samp> it - <samp>A</samp>ssert
+## DRY it - A<samp>SSERT</samp>
 
-Then asserts are **Y** axis
+If we think *Arrange* to be the **X** axis of FERMENT then *Assert* must be **Y**.
 
-### Single or multiple
+### Keep It Single or Multiple?
 
+The widely adopted practice &mdash; one *Assert* per test method/test case &mdash; became the teaching and often a rule.
 
-Napo Leon
+Albeit the subject isn't always atomic. An Act may assume many actions and the test result can be split to ATOMs.\
+For example, consider native methods as `string.IsNullOrWhitespace()` as either *Act* or *Assert*.
+
+Miscellaneous Asserts on the same premises (Assert) are PURE growth steroids.
+
+There's another even worse TRAP - SALVO of errors.
+
+In the non-ideal world, units will still have dependencies and integration not structured to the IDEAL pyramid.
+
+<details><summary><ins>&nbsp;History teaches us that one FAIL REASON might be enough&nbsp;</ins></summary>
+
+An anecdote tells that a DISTRESSED Napoleon why cannon were silent. The general was prompt to LIST seven reasons...
+
+Napoleon interrupted him with: one is enough.
+
+(Maybe it was about Alex Makedonsky and ELEPHANTS).
+
+\___________</details>
+
+### Solution
+
+Gather and LIST in the order of dependence.
+
+```csharp
+// EXAMPLE PENDING
+```
+
+Advanced solutions shall deal with _Arrange_ and Act COMBO and branching but this requires a STUDY beyond a SKETCH.
 
 ## Wrap up. DRY but not drain 
 
@@ -64,7 +91,10 @@ ERODE BUT KEEP
 
 Was it all about unit tests? Yes, but it can work for others in the pyramid. ELUSIVE and NO DISTINCT DIVISION
 
-Does it concern Test Driven Design? Yes but with the bias that DAMP must prevail there.
+Does DRY applies to Test Driven Design? Yes, but limited with the BIAS that DAMP it's main motive.
+
+<table><tr><td><picture><img alt="&nbsp;READ-WRITE meets USE-DEV" width="100px" src="../../../../_rsc/_img/_nav/read-write_use-dev.jpg" /></picture></td><td>
+    <a href="https://github.com/Kyriosity/use-dev/blob/main/README%2B/tests/README%2B/prog_tests-cut_feeds.md">Cutting the feeds</a>
+</td></td></tr></table>
 
 🔚
-
