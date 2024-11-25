@@ -11,17 +11,15 @@
 **Chess is a universal metaphor.**<sup>♟️</sup> Learning the basics of programming is as easy as the rules of this strategy, and beginning programming resembles games of neophytes: _blitz_ (wins follow fails), enjoyable, and considerably advancing.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>♟️</sup> <sub>Or we are boring and unimaginative to apply better and smarter analogies. Math theories would set tighter but will scare away the majority and I'll be the first to drop (it).</sub>
 
-Then understanding and learning principles and check patterns make you a better player, you maker fewer blunders but - you still lose 100 of 100 games with a rated opponent.\ SW ANALOGY
+Understanding and learning principles and check patterns will prevent blunders but not positional traps of a better opponent.\ SW ANALOGY
 
-THINKING in MANY MOVES NEXT!
+The next perception of combinatory vastness lifts the curtain of naive impressions, seeing beyond which needs a "binocular" of INTEREST and TORCH of theory.
 
-Trying to play on the next level one either blunders too oft or a slightly better opponent lures into positional traps. 
 In software, writing cool features won't make up a great design. 
-
-Then you realize the enormous complexity behind the curtain of naive impressions, and that you won't progress without theorizing yourself.
 
 Here the metaphor breaks down. They'ы a clear roadmap in chess and the rating will ruthlessly show one's place. In the software, one can be an architect of kludges. 
 
+THINKING in MANY MOVES NEXT!
 
 🚧🚧🚧🚧🚧🚧🚧🚧    CONSTRUCTION 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
