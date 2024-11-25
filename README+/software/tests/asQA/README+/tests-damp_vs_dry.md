@@ -19,7 +19,7 @@ No need to point out the virtues of this approach but one great flaw: <ins>&nbsp
 <table><tr><td><picture><img alt="&nbsp;Black box of test (not of application)" src="../../../../_rsc/_img/memes/ItTestsSmth.jpg" /></picture>
 </td><td>
 <p>Dveloping tests this way will create a sound core, which with little documentation will describe the application and prove code essentials.</p>
-<p>Adding more and more tests will slightly dissolve this core into a badly exorbitant maintainable bulk Accumulated effect: negligence, scrappy coverage, impeded navigation.</p>    
+<p>Adding more and more tests will slightly dissolve this core into a badly exorbitant maintainable bulk. With scrappy coverage, accumulated negligence, and impeded navigation.</p>    
 </td></tr></table>
 
 Another option is continuous refactoring with **DRY** (<i><b>D</b>on't <b>R</b>repeat <b>Y</b>ourself</i>) first of all.
@@ -37,7 +37,7 @@ graph TD
 
 ```
 
-use-dev [decisions](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-multi_feed.md)
+use-dev [decisions](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-cut_feeds..md)
 
 ### Dimensional growth
 
