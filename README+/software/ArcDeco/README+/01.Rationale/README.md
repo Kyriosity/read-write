@@ -66,7 +66,7 @@ Even if the activity's subject (such as software) is mundane, the restricted ref
 
 Software is descriptive and agile formalization and coding of variegated extrinsic concepts. It's not manufacturing and is far more abstractive than similar electronics, mechanical engineering, or building.
 
-Being a multilevel imagination, fastly implemented over digits and their calculations, the software renders enormous space for utilitarian phantasies and alternativeness of solutions.
+Being a multilevel projection, fastly implemented over digits and their calculations, the software renders enormous space for utilitarian phantasies and alternativeness of solutions.
 
 ## Postulates
 
