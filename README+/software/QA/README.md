@@ -2,13 +2,25 @@
 
 Frivolous, fleeting, and exponential spirit makes the programming inherently and largely error-prone. 
 
-Software is pure abstraction ether (or simulation), where breaking changes are as close as the fingers to the keyboard. Any swell of coomits can  roll back and there's always a gap till delivery to production (for last-minute fixes or bug introduction).
+Software is pure abstraction ether (or simulation), where breaking changes are as close as the fingers to the keyboard. Without fear: any number of commits can roll back, and there's always a gap until delivery to production (for last-minute fixes or bug introduction).
+
+```mermaid
+graph TB
+    c1-->QA1
+    subgraph "<b>Programmatic Tests</b>"
+    c1-->c2
+    end
+    subgraph "<b>Quality Assurance</b>"
+    a1-->a2
+    QA1
+    end
+```
 
 ## What are errors &mdash; Reminder
 
 Errors are not only bugs but poor performance, frustrating user experience, and missing functionality.
 
-// ToWrite: NOTE about the worst of erros
+// ToWrite: NOTE about the worst of errors
 
 IT Wasn't in REQS
 
