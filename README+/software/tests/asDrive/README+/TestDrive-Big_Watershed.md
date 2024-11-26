@@ -19,7 +19,7 @@ Presentations and lectures favored _development_ with design as a natural<sup>ðŸ
 EVOLUTIONARY AND THE KEY PROBLEM 
 PARALLEL to ARC w/ LINK to ESSAY
 
-However, TDD(development), which was fine for discourses, bootcamps, and `classes`, and encouraged to start features, didn't set forth for me to design just a mediocre project, imaginary or tried.
+However, TDD(development), which was fine for discourses, bootcamps, and `classes`, and encouraged to start features, didn't set forth for me to design just a mediocre project: hypothetical or tried.
 
 The evolutionary design wasn't the answer too 
 

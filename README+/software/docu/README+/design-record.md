@@ -51,7 +51,7 @@ The compromise is to maintain top diagrams with modest detailing. make presentat
 
 ## Whiteboard
 
-Fast simple sketches resting on multiple imaginary axes (horizontal grouping, aggregation/inheritance hierarchies, timeline) could be enough and broader in all senses. 
+Fast simple sketches resting on multiple fictitious axes (horizontal grouping, aggregation/inheritance hierarchies, timeline) could be enough and broader in all senses. 
 
 They may start on a whiteboard<sup>🔲</sup> during a casual discussion and as taking shapes recorded in (vector) graphics tools of choice and skills. 
 

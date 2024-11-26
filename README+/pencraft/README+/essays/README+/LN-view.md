@@ -30,7 +30,7 @@ SharePoint was deprived of many inherent vices of the Lotus pioneer and began to
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>📜</sup> <sub>Long before NoSQL became mainstream.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>⭐</sup> <sub>Emphasized for rare ease, versatility, productivity, and robustness. 
 Besides synchronizing DBs it allowed to seamlessly use/develop LN offline, guarantee messaging, and merge design much simpler than in Git or TFS.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>I can't imagine a newbie installing SharePoint on a notebook and writing the first useful application within a week.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>I can't feature a newbie installing SharePoint on a notebook and writing the first useful application within a week.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>💰</sup> <sub>For a $3.5 billion - not a big deal nowadays, while made well before the 2000s when IT procurements had skyrocketed.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🍦</sup> <sub>It's not a top secret that IBM's cold shoulder urged many top Lotus engineers to leave.</sub>
 
