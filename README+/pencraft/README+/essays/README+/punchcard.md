@@ -28,7 +28,7 @@ Believe it or not, there was no electronic display in this story.
 
 It looks bizarre in this day and age what barely agile steps it took:
 
-&nbsp;&nbsp;**1️⃣** Think over the _programme_ and sketch it in the dedicated notebook (the paper one).\
+&nbsp;&nbsp;**1️⃣** Come up with a _programme_ and sketch it in the dedicated notebook (the paper one).\
 &nbsp;&nbsp;**2️⃣** Fill in a lined paper form with procedural statements.<sup>🥪</sup>\
 &nbsp;&nbsp;**3️⃣** Submit this papyrus to the punching shop - where good ladies were used to decypher student scribble.<sup>🛠️</sup>\
 &nbsp;&nbsp;... 🌙 one day after ⛅ ...\

@@ -35,7 +35,7 @@ The structure shall not imply programming language or be inspired by your langua
 
 ## Writing a model
 
-First and foremost, think about providers and interfaces. That is, any part of the model contacts other parts or sources from abstract providers, which easily may swap adjacent parts.
+First and foremost, keep in mind providers and interfaces. That is, any part of the model contacts other parts or sources from abstract providers, which easily may swap adjacent parts.
 The model shall be thread- and async-friendly, even if it's not required. 
 
 :construction: TO BE CONTINUED w/ EXAMPLES :construction:

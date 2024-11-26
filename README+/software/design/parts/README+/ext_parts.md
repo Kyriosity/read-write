@@ -46,7 +46,7 @@ Components for testing are so organic for applications that are associated/integ
 
 Some non-commercial projects launched by individuals or groups have grown to industry standards and been adopted in mainstream languages. Recall [Newton.json](https://www.newtonsoft.com/json)<sup>🔗</sup> that has filled the JSON blank in C# for years.
  
-Besides the licensing, when applying such 3d-party think if there's a community (maybe, only you) able to maintain the stuff within the lifecycles of dependent projects. 
+Besides the licensing, when applying such 3d-party assess if there's a community (maybe, only you) able to maintain the stuff within the lifecycles of dependent projects. 
 Then I'd prefer readable code with transparent design ideas above all (releases, active community, extra features, popularity).
 
 Freeware means pretty often open-source and here not all are ready to give out the best ideas and realizations.

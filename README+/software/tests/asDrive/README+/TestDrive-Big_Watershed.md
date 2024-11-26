@@ -36,7 +36,7 @@ The evolutionary design wasn't the answer too
 ### Test Driven Design
 <div dir="rtl">T⚙️D<sup>eS</sup></div>
 
-Let's think of tests as a superb conductor (or proxy) of [design drives](../../) - domain, behavior, data, hardware model, whatsoever - to... 
+Let's see tests as a superb conductor (or proxy) of [design drives](../../) - domain, behavior, data, hardware model, whatsoever - to... 
 
 + grope concepts and get a hands-on feeling on subjects (all the same: bookkeeping artifacts or superhero _viewmodel_),
 + vitalize skeleton functionality, evaluate trends and risks,

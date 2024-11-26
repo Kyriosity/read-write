@@ -33,7 +33,7 @@ Commendable organization endows every process/measure with an exact explanation 
 
 DevOps grew from primitive file check-in/out to cloud solutions<sup>☁️</sup>, and now claims to use neural networks and <samp>LLM</samp>. However, as described in [my "Lotus" notes](../../pencraft/README+/essays/README+/LN-view.md) simple and sound tools still can do the job.
 
-How? No methodology, organisation, and automation can beat _the laissez-faire_ of responsible win-win-thinking craftsmen.
+How? No methodology, organisation, and automation can beat _the laissez-faire_ of responsible craftsmen inclined to win-win.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>☁️</sup> <sub>like TFS became Azure DevOps Server</sub>
 
