@@ -11,10 +11,10 @@
     <p>After polishing the logic and wording,<br />consider and write other test cases.</p>
 </td></tr></table>
 
-Developing tests this way shall (<ins>not guaranteed</ins>) wrap features in pleasant _<b>D</b>escriptive <b>A</b>nd <b>M</b>eaninigful <b>P</b>hrases_ (_abbr._ <b>DAMP</b>).\
+Developing tests this way shall (<ins>not guaranteed</ins>) wrap features in pleasing _<b>D</b>escriptive <b>A</b>nd <b>M</b>eaninigful <b>P</b>hrases_ (_abbr._ <b>DAMP</b>).\
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario) that wrap tests into phrases, apprehensible not only by programmers but normal folks.</sub>
 
-No need to point out the virtues of this approach but one great flaw: <ins>&nbsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins> &mdash; fermented by number of cases, rows of data, and their combinations, shared functionality, and repeating steps for alternative actions or different asserts.
+Needless to point out the virtues of this approach but one great flaw: <ins>&nbsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins> &mdash; fermented by a number of cases, rows of data, and their combinations, shared functionality, and repeating steps for alternative actions or different asserts.
 
 <table><tr><td><picture><img alt="&nbsp;Black box of test (not of application)" src="../../../../_rsc/_img/memes/ItTestsSmth.jpg" /></picture>
 </td><td>
@@ -51,16 +51,14 @@ Add here that argument combinations can matter and their MULTITYPE POLY (e.g. in
 
 If we think *Arrange* to be the **X** axis of FERMENT then *Assert* must be **Y**.
 
-### Keep It Single or Multiple?
+### Keep It Single. Or Multiple?
 
 The widely adopted practice &mdash; one *Assert* per test method/test case &mdash; became the teaching and often a rule.
 
-Albeit the subject isn't always atomic. An Act may assume many actions and the test result can be split to ATOMs.\
-For example, consider native methods as `string.IsNullOrWhitespace()` as either *Act* or *Assert*.
+Albeit the subject isn't always atomic. An _Act_ may assume many actions and the test result can be split.\
+For example, consider native methods as `string.IsNullOrWhitespace(..)` for either *Act* or *Assert*.
 
-Miscellaneous Asserts on the same premises (Assert) are PURE growth steroids.
-
-There's another even worse TRAP - SALVO of errors.
+Miscellaneous Asserts on the same premises (Assert) are PURE growth steroids. And there can be an even worse side effect - SALVO of a test fails.
 
 In the non-ideal world, units will still have dependencies and integration not structured to the IDEAL pyramid.
 
@@ -69,8 +67,6 @@ In the non-ideal world, units will still have dependencies and integration not s
 An anecdote tells that a DISTRESSED Napoleon why cannon were silent. The general was prompt to LIST seven reasons...
 
 Napoleon interrupted him with: one is enough.
-
-(Maybe it was about Alex Makedonsky and ELEPHANTS).
 
 \___________</details>
 
