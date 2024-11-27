@@ -2,17 +2,22 @@
 
 Frivolous, fleeting, and exponential spirit makes the programming inherently and largely error-prone. 
 
-Software is pure abstraction ether (or simulation), where breaking changes are as close as the fingers to the keyboard. Without fear: any number of commits can roll back, and there's always a gap until delivery to production (for last-minute fixes or bug introduction).
+Software is pure abstraction ether (or simulation), where breaking changes are as close as the fingers to the keyboard. No&nbsp;fear: any number of commits can roll back, and there's always a gap until delivery to production (for last-minute fixes or bug introduction).
 
 ```mermaid
 graph TB
-    c1-->QA1
-    subgraph "<b>Programmatic Tests</b>"
-    c1-->c2
+ c1-->QA2
+    subgraph "<h3><a href="https://github.com/Kyriosity/read-write/tree/main/README%2B/software/tests">Programmatic Tests</a></h3>"
+    c1("<b>Coverage</b>")
+      TDD("<b>Test driven</b>")-->TDDev("Development")
+      TDD-->TDDes("Design")
+     
     end
-    subgraph "<b>Quality Assurance</b>"
-    a1-->a2
-    QA1
+    subgraph "<h3>Quality Assurance</h3>"
+    a1("Code")-->a2(<a href="https://github.com/Kyriosity/read-write/blob/main/README%2B/software/QA/README+/code-quality.md">Quality</a>)
+  a1-->a3("Review")
+    T1("<b>Testing</b>")-->QA1("Manual")
+    T1("<b>Testing</b>")-->QA2(Automated)
     end
 ```
 
