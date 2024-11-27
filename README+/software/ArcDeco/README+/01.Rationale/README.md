@@ -44,7 +44,6 @@ The outcome shall be a better vision and strategy (planning) with less inevitabl
 
 ELIMINATE THE FEAR
 
-COMPARE2CHESS
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Note the word 'help' - Notes of Arc Deco are neither teaching, nor methodology, nor ideology. At least now.</sub>
 
