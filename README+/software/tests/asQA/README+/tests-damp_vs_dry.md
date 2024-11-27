@@ -11,7 +11,7 @@
     <p>After polishing the logic and wording,<br />consider and write other test cases.</p>
 </td></tr></table>
 
-Developing tests this way shall (<ins>not guaranteed</ins>) wrap features in pleasing _<b>D</b>escriptive <b>A</b>nd <b>M</b>eaninigful <b>P</b>hrases_ (_abbr._ <b>DAMP</b>).\
+Developing tests this way shall (<ins>not guaranteed</ins>) wrap features in pleasing _<b>D</b>escriptive <b>A</b>nd <b>M</b>eaninigful <b>P</b>hrases_ (_abbr._ <mark>&thinsp;<b>D&thinsp;A&thinsp;M&thinsp;P</b>&thinsp;</mark>).\
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario) that wrap tests into phrases, apprehensible not only by programmers but normal folks.</sub>
 
 Needless to point out the virtues of this approach but one great flaw: <ins>&nbsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins> &mdash; fermented by a number of cases, rows of data, and their combinations, shared functionality, and repeating steps for alternative actions or different asserts.
@@ -22,7 +22,7 @@ Needless to point out the virtues of this approach but one great flaw: <ins>&nbs
 <p>Adding more and more tests will slightly dissolve this core into a badly exorbitant maintainable bulk. With scrappy coverage, accumulated negligence, and impeded navigation.</p>    
 </td></tr></table>
 
-Another option is continuous refactoring with **DRY** (<i><b>D</b>on't <b>R</b>repeat <b>Y</b>ourself</i>) first of all.
+Another option is continuous refactoring with <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> (<i><b>D</b>on't <b>R</b>repeat <b>Y</b>ourself</i>) first of all.
 
 ## DRY it - A<samp>RRANGE</samp>
 
@@ -30,14 +30,23 @@ Another option is continuous refactoring with **DRY** (<i><b>D</b>on't <b>R</b>r
 
 ```mermaid
 graph TD
-    idCx[(Context<br />&lpar;Arrange&rpar;)] -->|<br />&nbsp;&nbsp;Arguments,&nbsp;&nbsp;<br />&nbsp;&nbsp;Test Data,&nbsp;&nbsp;<br />&nbsp;&nbsp;Settings&nbsp;&nbsp;<br />...| UT(TEST<br />Arange/Act/Assert)
-    idFnc((Functionality<br />&lpar;Act&rpar;)) -->|<br />&nbsp;&nbsp;Implementation A, B, C, ...&nbsp;<br >&nbsp;Sample func, ...&nbsp;</br>&nbsp;Stubs, Dummies&nbsp;&nbsp;<br />...| UT
-    idSrv>Providers<br />&lpar;Arrange&rpar;] -->|<br />&nbsp;&nbsp;Imports, Services&nbsp;&nbsp;<br />&nbsp;&nbsp;vs. Mocks, Doubles&nbsp;&nbsp;<br />...| UT
-    idAbs{Input abuse<br />&lpar;Arrange, Act&rpar;} -->|&nbsp;&nbsp;<i>null</i>s, out-of-range&nbsp;<br />&nbsp;&nbsp;<i>exception</i> makers,&nbsp;<br />&nbsp;invalid/illegal calls/funcs&nbsp;<br />...| UT
+    idCx@{ shape: docs, label: "Context &lpar;Arrange&rpar;" } -->|<br />&nbsp;&nbsp;Arguments,&nbsp;&nbsp;<br />&nbsp;&nbsp;Test Data,&nbsp;&nbsp;<br />&nbsp;&nbsp;Settings&nbsp;&nbsp;<br />...| UT(TEST<br />Arange/Act/Assert)
+    idSrv[(Providers<br />&lpar;Arrange&rpar;)] -->|<br />&nbsp;&nbsp;Imports, Services&nbsp;&nbsp;<br />&nbsp;&nbsp;vs. Mocks, Doubles&nbsp;&nbsp;<br />...| UT
+    idFnc@{ shape: procs, label: "Functionality &lpar;Act&rpar;" } -->|&nbsp;&nbsp;Implementation A, B, C, ...&nbsp;<br >&nbsp;Sample func, ...&nbsp;</br>&nbsp;Stubs, Dummies, ...&nbsp;| UT
+    idErr@{ shape: bolt, label: "Abuse" } -->|&nbsp;&nbsp;<i>NULL</i>s, out-of-range,&nbsp;<br />&nbsp;timeouts, exceptions,&nbsp;<br />&nbsp;invalid/illegal calls/funcs&nbsp;<br />...| UT
 
 ```
 
 ### Dimensional growth
+
+* Miscellaneous sets of arguments (or test data) or even their order/combinations can make a difference.
+* External settings may be an alternative.
+* Different features and functions will not repeat themselves but have the same effects to test\
+(especially error-proof)
+* Possible vital <ins>test doubles</ins> of _Asserts_ and _Acts_ must show up in tests.
+* Abuse of _Asserts_ and _Acts_ must be tested for handling misc. errors and exceptions.
+
+Each of these items alone proportionally enhances 
 
 #### Combinatorial explosion
 
@@ -47,22 +56,22 @@ This is the greatest hit.
 
 Add here that argument combinations can matter and their MULTITYPE POLY (e.g. integer and floating point for the same calculation and even values).
 
-## DRY it - A<samp>SSERT</samp>
+## D<samp>RY</samp> it - A<samp>SSERT</samp>
 
-If we think *Arrange* to be the **X** axis of FERMENT then *Assert* must be **Y**.
+If *Arrange* could be the **X** axis of extension then *Assert* must be **Y**. (It looks so on the screen.)
 
 ### Keep It Single. Or Multiple?
 
-The widely adopted practice &mdash; one *Assert* per test method/test case &mdash; became the teaching and often a rule.
+The widely adopted practice &mdash; one *Assert* per test method/test case &mdash; became the teaching and often a written rule.
 
-Albeit the subject isn't always atomic. An _Act_ may assume many actions and the test result can be split.\
+Albeit the subject isn't always atomic as it may seem. An _Act_ may assume many actions and the test result can be split.\
 For example, consider native methods as `string.IsNullOrWhitespace(..)` for either *Act* or *Assert*.
 
-Miscellaneous Asserts on the same premises (Assert) are PURE growth steroids. And there can be an even worse side effect - SALVO of a test fails.
+Repeating arrangements for miscellaneous _Asserts_ is a growth steroid. 
+And there can be even a deeper negative side effect &mdash; a small error can trigger a salvo of failing tests. 
+Such a salute will hardly provide a clue but rather hide it in dependencies - inevitable even with granulated and isolated units and best-structured folders.
 
-In the non-ideal world, units will still have dependencies and integration not structured to the IDEAL pyramid.
-
-<details><summary><ins>&nbsp;History teaches us that one FAIL REASON might be enough&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;History teaches us that one fail might be enough to know...s&nbsp;</ins></summary>
 
 An anecdote tells that a DISTRESSED Napoleon why cannon were silent. The general was prompt to LIST seven reasons...
 
@@ -70,7 +79,11 @@ Napoleon interrupted him with: one is enough.
 
 \___________</details>
 
-### Solution
+GRADUAL ASSERT
+
+
+
+### Solutions
 
 Gather and LIST in the order of dependence.
 
@@ -78,9 +91,11 @@ Gather and LIST in the order of dependence.
 // EXAMPLE PENDING
 ```
 
+#### Master cautions
+
 Advanced solutions shall deal with _Arrange_ and Act COMBO and branching but this requires a STUDY beyond a SKETCH.
 
-## Wrap up. DRY but not drain 
+## Wrap up. D<samp>RY</samp> but not drain 
 
 DAMP or DRY? Neither but a compromise. 
 ERODE BUT KEEP
