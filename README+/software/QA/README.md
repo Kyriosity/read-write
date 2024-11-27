@@ -1,8 +1,8 @@
 # Software &mdash; Quality Assurance
 
-Frivolous, fleeting, and exponential spirit makes the programming inherently and largely error-prone. 
+> **Frivolous, fleeting, and exponential spirit makes the programming inherently and largely error-prone.** 
 
-Software is pure abstraction ether (or simulation), where breaking changes are as close as the fingers to the keyboard. No&nbsp;fear: any number of commits can roll back, and there's always a gap until delivery to production (for last-minute fixes or bug introduction).
+Software is pure abstraction ether, and its creators know no fear of breaking changes (as close as their fingers to the keyboard). Commits can be rolled back, and there's always a gap until delivery to production (for last-minute fixes or bug introduction).
 
 ```mermaid
 graph TB
@@ -14,7 +14,6 @@ graph TB
      c1 o--o TDDev
     end
     subgraph "<h3>Quality Assurance</h3>"
-A@{ shape: lean-r }
     a1(<b>Code</b>)-->a2(<a href="https://github.com/Kyriosity/read-write/blob/main/README%2B/software/QA/README+/code-quality.md">Quality</a>)
   a1-->a3("Review")
     T1("<b>Testing</b>")-->QA1("Manual")
@@ -53,12 +52,11 @@ Writing [quality code](README+/code-quality.md) must be an objective but teams w
 When security risks are a concern other approaches for hacking vulnerability come into play (and devs aren't writing code in a criminal-minded mode).
 Project this statement to all other cases where IT pundits don't have all the expertise to test the domain.
 
-## Testing as QA
+## Testing
 
-as QA because tests can have another use:  drives 
-))
+_Tests_ and _Testing_ are great umbrella terms.
 
-### Manual (spontaneous)
+### Manual (spontaneous and planned)
 
 Unlike the olden days with BLIND commits  PUNCHcards most development allow to evaluate its product (in whole or by feature) with every step: just build and run.
 
