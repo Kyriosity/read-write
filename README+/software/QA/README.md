@@ -8,13 +8,14 @@ Software is pure abstraction ether (or simulation), where breaking changes are a
 graph TB
  c1-->QA2
     subgraph "<h3><a href="https://github.com/Kyriosity/read-write/tree/main/README%2B/software/tests">Programmatic Tests</a></h3>"
-    c1("<b>Coverage</b>")
+    c1("<b>Proof</br>coverage</b>")
       TDD("<b>Test driven</b>")-->TDDev("Development")
       TDD-->TDDes("Design")
-     
+     c1 o--o TDDev
     end
     subgraph "<h3>Quality Assurance</h3>"
-    a1("Code")-->a2(<a href="https://github.com/Kyriosity/read-write/blob/main/README%2B/software/QA/README+/code-quality.md">Quality</a>)
+A@{ shape: lean-r }
+    a1(<b>Code</b>)-->a2(<a href="https://github.com/Kyriosity/read-write/blob/main/README%2B/software/QA/README+/code-quality.md">Quality</a>)
   a1-->a3("Review")
     T1("<b>Testing</b>")-->QA1("Manual")
     T1("<b>Testing</b>")-->QA2(Automated)
