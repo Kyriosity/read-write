@@ -2,7 +2,7 @@
 
 > **Frivolous, fleeting, and exponential spirit makes the programming inherently and largely error-prone.** 
 
-Software is pure abstraction ether, and its creators know no fear of breaking changes (as close as their fingers to the keyboard). Commits can be rolled back, and there's always a gap until delivery to production (for last-minute fixes or bug introduction).
+Software is pure abstraction ether, and its creators have no fear of breaking changes (as close as their fingers to the keyboard). Commits can be rolled back, and there's always a gap until delivery to production (for last-minute fixes or bug introduction).
 
 ```mermaid
 graph TB
