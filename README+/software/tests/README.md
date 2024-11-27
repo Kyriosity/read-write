@@ -1,6 +1,6 @@
 # Software &mdash; Programmatic tests
 
-<table><tr valign="top"><td><picture><img alt="&nbsp;UNIVAC 1 console, ~1960" src="../../_rsc/_img/photo/hist/1960.Univac1.Grace_Hopper.jpg"></picture><br />
+<table><tr valign="top"><td><picture><img alt="&nbsp;UNIVAC 1 console, ~1960" src="../../_rsc/_img/photo/hist/1960.Univac1.GraceHopper_wMoth.jpg"></picture><br />
 <a href="../../pencraft/README+/quotes/README+/contributors/README.md#Grace-Hopper">Mrs.&nbsp;Grace Hopper</a>, grandma of COBOL and <b>debugging</b>, at UNIVAC&nbsp;<b>I</b>, ~1960
 </td><td>
 <p><b>Programmatic tests, as an idea<sup>💡</sup>, appeared together with high-level languages.<br />
@@ -28,4 +28,4 @@ Templates, tests doubles for missing functionality, data mocks (like pseudo-prod
 </td></tr></table>
 
 \___________\
-:end: ... (photo credit: Unknown author - Flickr: Grace Hopper and UNIVAC)
+:end: ... (image credits: Unknown author - Flickr: Grace Hopper and UNIVAC, Freepik.com - the bug)
