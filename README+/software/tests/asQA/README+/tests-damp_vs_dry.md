@@ -12,9 +12,9 @@
 </td></tr></table>
 
 Developing tests this way shall (<ins>not guaranteed</ins>) wrap features in pleasing _<b>D</b>escriptive <b>A</b>nd <b>M</b>eaninigful <b>P</b>hrases_ (_abbr._ <mark>&thinsp;<b>D&thinsp;A&thinsp;M&thinsp;P</b>&thinsp;</mark>).\
-&nbsp;&nbsp;&nbsp;&nbsp;<sub>Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario) that wrap tests into phrases, apprehensible not only by programmers but normal folks.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario) that wrap tests into phrases, which not only by programmers but sane people can comprehend.</sub>
 
-Needless to point out the virtues of this approach but one great flaw: <ins>&nbsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins> &mdash; fermented by a number of cases, rows of data, and their combinations, shared functionality, and repeating steps for alternative actions or different asserts.
+Needless to point out the virtues of this approach but one great flaw: <ins>&nbsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins> &mdash; fermented by several cases, rows of data, and their combinations, shared functionality, and repeating steps for alternative actions or different asserts.
 
 <table><tr><td><picture><img alt="&nbsp;Black box of test (not of application)" src="../../../../_rsc/_img/memes/ItTestsSmth.jpg" /></picture>
 </td><td>
@@ -24,7 +24,7 @@ Needless to point out the virtues of this approach but one great flaw: <ins>&nbs
 
 Another option is continuous refactoring with <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> (<i><b>D</b>on't <b>R</b>repeat <b>Y</b>ourself</i>) first of all.
 
-## DRY it - A<samp>RRANGE</samp>
+# DRY it - A<samp>RRANGE</samp>
 
 ## Feed expansion
 
@@ -43,24 +43,41 @@ graph TD
 * External settings may be an alternative.
 * Different features and functions will not repeat themselves but have the same effects to test\
 (especially error-proof)
-* Possible vital <ins>test doubles</ins> of _Asserts_ and _Acts_ must show up in tests.
-* Abuse of _Asserts_ and _Acts_ must be tested for handling misc. errors and exceptions.
+* Possible vital <ins>test doubles</ins> for _Asserts_ and _Acts_ are subjects of tests (sometimes the first to show up).
+* Abuse of _Asserts_ and _Acts_ (as nulls or invalid values/calls) must be tested for error handling.
 
-Each of these items alone proportionally enhances 
+Each of these items alone proportionally enhances the number of test cases (with repeating substeps).
 
-#### Combinatorial explosion
+### Combinatorial explosion
 
-This is the greatest hit.
+**This is the greatest hit.** Any combination of two factors from the list (or picture) above _powers_ the progression. For honest test coverage there, no copy-paste will help (but [T4 templates](https://en.wikipedia.org/wiki/Text_Template_Transformation_Toolkit)<sup><b>w</b></sup>).
 
-#### Arrange &mdash; Multitype
+### Multitype parameters
 
-Add here that argument combinations can matter and their MULTITYPE POLY (e.g. integer and floating point for the same calculation and even values).
+Whether for strictly or weakly typed languages the same argument value may appear in different types (e.g. integer and floating point for the same calculations).
 
-## D<samp>RY</samp> it - A<samp>SSERT</samp>
+#### Solution
+
+Many languages support generic types, which a test method may discern.
+
+[Phys/Math tests](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/FuncStore.Convers.Tests/PhysMath) in custom <code></b>C#</b> funcware</code> utilize such a technique for numeric values.
+
+## Solutions/Workarounds
+
+The easiest and alluring response is to write fewer tests concentrating on guiding ones and stowing routine checks in folders where nobody will look (till an error occurs). 
+Auto-generation tools may help but their setting and tuning may be overkill.
+
+What known frameworks and less known workarounds can do is the subject of the repo with more close-up to practical code:
+
+<table><tr><td><picture><img alt="&nbsp;READ-WRITE meets USE-DEV" width="100px" src="../../../../_rsc/_img/_nav/read-write_use-dev.jpg" /></picture></td><td>
+    <a href="https://github.com/Kyriosity/use-dev/blob/main/README%2B/tests/README%2B/prog_tests-cut_feeds.md">Cutting the feeds</a>
+</td></td></tr></table>
+
+# D<samp>RY</samp> it - A<samp>SSERT</samp>
 
 If *Arrange* could be the **X** axis of extension then *Assert* must be **Y**. (It looks so on the screen.)
 
-### Keep It Single. Or Multiple?
+## Keep It Single. Or Multiple?
 
 The widely adopted practice &mdash; one *Assert* per test method/test case &mdash; became the teaching and often a written rule.
 
@@ -71,41 +88,42 @@ Repeating arrangements for miscellaneous _Asserts_ is a growth steroid.
 And there can be even a deeper negative side effect &mdash; a small error can trigger a salvo of failing tests. 
 Such a salute will hardly provide a clue but rather hide it in dependencies - inevitable even with granulated and isolated units and best-structured folders.
 
-<details><summary><ins>&nbsp;History teaches us that one fail might be enough to know...s&nbsp;</ins></summary>
+## Solutions
 
-An anecdote tells that a DISTRESSED Napoleon why cannon were silent. The general was prompt to LIST seven reasons...
-
-Napoleon interrupted him with: one is enough.
+<details><summary><ins>&nbsp;History teaches us that one failure might be enough to know...&nbsp;</ins></summary>
+    
+> An anecdote tells us about **Napoleon** enraged by the silence of cannons on a flank.\
+A summoned general was eager to recount seven reasons, he knew, but was shortly interrupted with 
+«Already one is more than enough for me».
 
 \___________</details>
 
-GRADUAL ASSERT
+### Normalization
 
-
-
-### Solutions
-
-Gather and LIST in the order of dependence.
+Grouping _Asserts_ for the same _Arrange_ is a call of reason. 
 
 ```csharp
 // EXAMPLE PENDING
 ```
 
-#### Master cautions
+As intuition must suggest they can be best ordered from the most autonomous to the most dependent (not only by reference/hierarchy but, principally, logic).
 
-Advanced solutions shall deal with _Arrange_ and Act COMBO and branching but this requires a STUDY beyond a SKETCH.
+Advanced versions shall deal with _Arrange_ and _Act_ blending and branching but this asks for <s>funding</s> a good big pragmatic case to study and implement.
+
+#### Posers
+
+Normalization doesn't work well with advanced evaluation as [gradual asserts](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/unit_test-gradual_assert.md).
+
+### Master cautions
+
+When a mass of tests exceeds the eye's capabilities it's clever to make a selection of tests - which fails must be investigated first (an order and classification can apply too).
 
 ## Wrap up. D<samp>RY</samp> but not drain 
 
-DAMP or DRY? Neither but a compromise. 
-ERODE BUT KEEP
+<mark>&thinsp;<b>D&thinsp;U&thinsp;M&thinsp;P</b>&thinsp;</mark>  or <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> ? Neither but a compromise. (Could I omit set phrases?) 
 
-Was it all about unit tests? Yes, but it can work for others in the pyramid. ELUSIVE and NO DISTINCT DIVISION
+Was it all about unit tests? Yes, but it can work for others in the pyramid. Remember that units of tests are elusive and there's no distinct division.
 
-Does DRY applies to Test Driven Design? Yes, but limited with the BIAS that DAMP it's main motive.
-
-<table><tr><td><picture><img alt="&nbsp;READ-WRITE meets USE-DEV" width="100px" src="../../../../_rsc/_img/_nav/read-write_use-dev.jpg" /></picture></td><td>
-    <a href="https://github.com/Kyriosity/use-dev/blob/main/README%2B/tests/README%2B/prog_tests-cut_feeds.md">Cutting the feeds</a>
-</td></td></tr></table>
+Does DRY apply to Test Driven Design? Yes, but constraint by DAMP as its main motive.
 
 🔚
