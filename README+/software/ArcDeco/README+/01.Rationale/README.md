@@ -9,19 +9,26 @@
 <p dir="rtl">A cherry-picked <b>metaphor</b><br />.simplifies explanation<br />(.At times even for readers)</p>
 
 **Chess is a universal metaphor.**<sup>♟️</sup> Learning the basics of programming is as easy as the rules of this strategy, and beginning programming resembles games of neophytes: _blitz_ (wins follow fails), enjoyable, and considerably advancing.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>♟️</sup> <sub>Or we are boring and unimaginative to apply better and smarter analogies. Math theories would set tighter but will scare away the majority and I'll be the first to drop (it).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>♟️</sup> <sub>Or we are boring and unimaginative to apply better and smarter analogies. Math theories would set tighter but would scare away the majority and I'll be the first to drop (it).</sub>
 
-Understanding and learning principles and check patterns will prevent blunders but not positional traps of a better opponent.\ SW ANALOGY
+Understanding and learning principles and check patterns will prevent blunders but not positional traps of a better opponent. 
+In the same way, a keen junior will soon write good pieces of code but failing solutions.
 
-The next perception of combinatory vastness lifts the curtain of naive impressions, seeing beyond which needs a "binocular" of INTEREST and TORCH of theory.
+Then the perception of combinatory vastness and thinking in more than one move lifts the curtain of naive impressions, seeing beyond which needs a "binocular" of passion and a torch of theory.
 
-In software, writing cool features won't make up a great design. 
-
-Here the metaphor breaks down. They'ы a clear roadmap in chess and the rating will ruthlessly show one's place. In the software, one can be an architect of kludges. 
-
-THINKING in MANY MOVES NEXT!
+Here the metaphor breaks down. There's a clear theoretical roadmap and school in chess and the rating will ruthlessly show one's place. In the software, one can be an architect of kludges. 
 
 🚧🚧🚧🚧🚧🚧🚧🚧    CONSTRUCTION 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
+
+FRUSTRATION is THE BITTER DRIVING FORCE
+
+Many good developers can name the following <samp><b>WHY</b></samp>s as familiar:
+
+Why writing cool features doesn't make up a great design. 
+
+Why good design decisions don't survive and those bad ones repeat in the next projects?
+
+Why so many inventions of the WHEEL
 
 
 ENORM COMBINATORIAL OF ABSTRACTIONS
@@ -33,8 +40,6 @@ ENORM COMBINATORIAL OF ABSTRACTIONS
 
 Any sophisticated subject deserves its study: universe -> cosmology, mathematics -> philosophy, physics -> epistemology, art -> theory, excavations -> anthropology, ... **Software** is not an exception.
 
-
-The METATHOR w CHESS BREAKS DOWN here.
 
 ## Goal
 
