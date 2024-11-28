@@ -5,21 +5,20 @@
 ### Essence 
 
 * Albeit C# has pointers, destructors, finalizers, calls to the garbage collector, memory allocation, "front door" to unmanaged code, and interop with other languages — 
-programming them for business applications doesn't look natural, unless for a very specific workaround, fix of bizarre bugs, or non-conforming 3d-party API.
+programming them for business applications isn't intrinsic, unless for a particular workaround, fix of bizarre bugs, or non-conforming 3d-party API.
 
-* the Microsoft corner thoroughly documents which C# constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive.<sup>#</sup> As well C# doesn't guarantee the same CLR output for future releases or every platform.
+* The Microsoft learn corner thoroughly documents which .NET constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive.<sup>📍</sup> As well C# doesn't guarantee the same CLR output for future releases or every platform.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📍</sup> <sub>As an example, Q&A sites may cite contradictory opinions about string interpolation, await/async, and other constructs.</sub>
 
-<sup>#</sup> <sub>As an example, Q&A sites may cite contradictory opinions about string interpolation, await/async and other constructs</sub>
+The best intentions of individuals on a "low level" may occur in parallel with the .NET team on optimization of interpretation/compilation, and the latter will probably win.
 
-Best improving intentions of individuals on a "low level" may occur in parallel with those similar to the .NET team on interpretation/compilation and the latter will probably win.
-
-Albeit nothing wrong with knowing the details of CLR and IL (it makes one a better developer) except the time resources, and focus one must invest.
+There is nothing wrong with knowing the details of CLR and IL (it makes one a better developer) except the time resources, and focus one must lavishly invest.
 
 ### "Bare" .NET for high-performance calculations
 
-The backside of comfy C# programming is that .NET isn't suited for direct top-efficient code (like C++ on WinCom). The energy of .NET will exceed the needs of business solutions but will slow down calculations over arrays of millions of items or high-speed transformation of images or videos (even with all the parallelism in the play).
+The backside of comfy C# programming is that .NET isn't suited for direct top-efficient code (like `C++` on `WinCom`). The energy of .NET will exceed the needs of business solutions but will slow down calculations over arrays of millions of items or high-speed transformation of images or videos (even with all the parallelism in the play).
 
-To stay with C# in such a case, hardware acceleration or external libraries are required.
+To stay with C# in such a case, hardware acceleration patches or external libraries are a must.
 
 ### Phantom gains
 
@@ -46,20 +45,20 @@ Nevertheless, let them remain granulated and lightweight with:
 
 ### Dynamic and ExpandoObject
 
-Any use for casting, call of props, and methods on them breaches the C# sttong typed. However, it could be a valid workaround or hack when nothing else helps. (For return values of methods, which throw only, to be used in ternary expressions.)
-LINK!!
+Any use for casting, call of props, and methods on them breaches the strongly typed C#. However, it could be a valid workaround or hack when nothing else helps.\
+(Example: for return values of methods, which throw only, to be used in ternary expressions as in custom 
+[exception shortcuts](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcCommu/Errors/_basal/%F0%9F%94%BAException.cs).)
 
 ### Dubious `sealed`
 
-There's no reason to seal a class but to show a degree of mistrust in colleagues. It's also an arguable practice when exposing/exporting a library. Resulting in crooked aggregation WORKAROUND.
+There's no reason to seal a class but to show a degree of mistrust in colleagues. It's also an arguable practice when exposing/exporting a library - to circumvent it with crooked aggregations.
 
 ## Syntax
 
 ### Abuse of extension methods
 
-Maybe the worst example is their usage for multi-inheritance. Extending tuples or general types for shortcuts burdens and undermines the whole project.
-
-Tyese methods shall be used for big, universal features across projects (like LINQ).
+Extending tuples or general types for shortcuts burdens and undermines the whole project. Maybe a worse practice is their principal usage for multi-inheritance. 
+These methods shall be used for big, universal features across projects (like LINQ). // ToDo: Link to StrExt
 
 ## Errors and messaging
 
@@ -87,11 +86,11 @@ try {
 
 ```
 
-Now consider that we submit a popular legal name (say, "John") and land  again in the catch clause. Why?
+Now consider that we submit a popular legal name (say, "John") and land again in the catch clause. Why?
 Filtering to the expected doesn't exclude the same type thrown from other code parts (e.g. internal bug of our register). 
 
 Solutions for this and other traps with exception are proposed in ➡️[design decisions](https://github.com/Kyriosity/use-dev/tree/main/README+/decisions/README+/intercom/README+/errors) 
 
----
+\___________
 
 ## 🚧 ... TO BE CONTINUED ... 🚧
