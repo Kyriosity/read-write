@@ -7,13 +7,15 @@
 * Albeit C# has pointers, destructors, finalizers, calls to the garbage collector, memory allocation, "front door" to unmanaged code, and interop with other languages — 
 programming them for business applications doesn't look natural, unless for a very specific workaround, fix of bizarre bugs, or non-conforming 3d-party API.
 
-* Microsoft thoroughly documents which C# constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive (Q&A sites cite contradictory opinions about string interpolation, await/async). As well C# doesn't guarantee the same CLR output for future releases or every platform.
+* the Microsoft corner thoroughly documents which C# constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive.<sup>#</sup> As well C# doesn't guarantee the same CLR output for future releases or every platform.
+
+<sup>#</sup> <sub>As an example, Q&A sites may cite contradictory opinions about string interpolation, await/async and other constructs</sub>
 
 Best improving intentions of individuals on a "low level" may occur in parallel with those similar to the .NET team on interpretation/compilation and the latter will probably win.
 
-Ok, nothing wrong with knowing the details of CLR and IL (it makes one a better developer) except the time resources, and focus one must invest.
+Albeit nothing wrong with knowing the details of CLR and IL (it makes one a better developer) except the time resources, and focus one must invest.
 
-### "Bare" code for high-performance calculations
+### "Bare" .NET for high-performance calculations
 
 The backside of comfy C# programming is that .NET isn't suited for direct top-efficient code (like C++ on WinCom). The energy of .NET will exceed the needs of business solutions but will slow down calculations over arrays of millions of items or high-speed transformation of images or videos (even with all the parallelism in the play).
 
@@ -44,11 +46,12 @@ Nevertheless, let them remain granulated and lightweight with:
 
 ### Dynamic and ExpandoObject
 
-Any use for casting, call of props, and methods on them breaches the C# type approach. However, it could be a valid workaround for return values of methods, which throw only, to be used in ternary expressions.
+Any use for casting, call of props, and methods on them breaches the C# sttong typed. However, it could be a valid workaround or hack when nothing else helps. (For return values of methods, which throw only, to be used in ternary expressions.)
+LINK!!
 
 ### Dubious `sealed`
 
-There's no reason to seal a class but to show some mistrust in colleagues. It's an arguable practice when exposing/exporting a library/module.
+There's no reason to seal a class but to show a degree of mistrust in colleagues. It's also an arguable practice when exposing/exporting a library. Resulting in crooked aggregation WORKAROUND.
 
 ## Syntax
 
@@ -56,7 +59,7 @@ There's no reason to seal a class but to show some mistrust in colleagues. It's 
 
 Maybe the worst example is their usage for multi-inheritance. Extending tuples or general types for shortcuts burdens and undermines the whole project.
 
-Extended methods shall be used for big, common features across projects (like LINQ).
+Tyese methods shall be used for big, universal features across projects (like LINQ).
 
 ## Errors and messaging
 
