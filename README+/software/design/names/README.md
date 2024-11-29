@@ -4,9 +4,10 @@
 
 <table><tr valign="top"><td><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
-  <p><b>Denomination of <ins>both</ins> categories and titles is a pivotal but underrated and neglected activity in any methodology.</b></p>
-  <p>In software, it looks like granted when names with categories smoothly guide through the design and make coding intuitive.</p>
- <p>Otherwise, wading through the thorns of poorly named and labyrinths of badly categorized code, abatis of docu developers will curse application complexity, learning curve, technologies used, and fate but at least the naming.
+  <p><b>Denomination of <ins>both</ins> categories and titles is a pivotal but underrated and neglected activity in any blueprint.</b></p>
+  <div>In software, names with categories, which smoothly guide through the design and make coding intuitive, are taken for granted,</div>
+  <p align="center">o&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</p>
+ <p>one wading through the thorns of poorly named and labyrinths of badly categorized code, abatis of docu will curse application complexity, learning curve, technologies used, and fate but at least the naming.
 </p>
 </td></tr></table>
 
@@ -16,10 +17,10 @@
 
 The prevalent naming is a derivative of the development, which
 
-❌ rests on programmatic "false-domain" (as `Helper.Get(..)`, `Utils.Do(...)`, `Service.Find(...)`, and other no-brainers),\
+❌ rests on programmable "false-domain" with `Helper.Get(..)`, `Utils.Do(...)`, `Service.Find(...)`, and other supports,\
 ❌ leaves "construction waste" of temporary names, placeholders,\
 ❌ spreads umbrella terms and horizontally swelling folders,\
-❌ spawns long names and shallow categories (`AddTableReservation()`),\
+❌ spawns long names and shallow categories (`AddTableReservationInRestaurant(..)`),\
 ❌ interferes with existing domain and functional naming,\
 ❌ contains jargon and slang.
 
@@ -49,11 +50,12 @@ Categorization (classification) is much more profound than breaking collocations
 
 ## Wrapping up
 
-Even top teams under time pressure and brakes on perfectionism would be barely proud of their implementation of naming. Furthermore, the naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be continuous and genuine.
++ Even top teams under time pressure and brakes on perfectionism would be barely proud of their implementation of naming. 
++ The naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be continuous and genuine.
 
 ## Appendix. Posers
 
-Some sitations with naming can be harder than difficult.
+Some naming occasions can be harder than difficult.
 
 ### Impedance with inherited domain names
 
