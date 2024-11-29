@@ -14,7 +14,7 @@
 Developing tests this way shall (<ins>not guaranteed</ins>) wrap features in pleasing _<b>D</b>escriptive <b>A</b>nd <b>M</b>eaninigful <b>P</b>hrases_ (_abbr._ <mark>&thinsp;<b>D&thinsp;A&thinsp;M&thinsp;P</b>&thinsp;</mark>).\
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario) that wrap tests into phrases, which not only by programmers but sane people can comprehend.</sub>
 
-Needless to point out the virtues of this approach but one great flaw: <ins>&nbsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins> &mdash; fermented by several cases, rows of data, and their combinations, shared functionality, and repeating steps for alternative actions or different asserts.
+Needless to point out the virtues of this approach but one great flaw: <ins>&nbsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins> &mdash; fermented by the number of test cases, rows of test data (and their combinations), re-testing of common functionality, and repeating steps for alternative actions or different asserts.
 
 <table><tr><td><picture><img alt="&nbsp;Black box of test (not of application)" src="../../../../_rsc/_img/memes/ItTestsSmth.jpg" /></picture>
 </td><td>
@@ -116,14 +116,19 @@ Normalization doesn't work well with advanced evaluation as [gradual asserts](ht
 
 ### Master cautions
 
-When a mass of tests exceeds the eye's capabilities it's clever to make a selection of tests - which fails must be investigated first (an order and classification can apply too).
+When a mass of tests exceeds the eye's capabilities, it's clever to select the ones that fail. The ones that fail must be investigated first (an order and classification can apply, too).
 
 ## Wrap up. D<samp>RY</samp> but not drain 
 
-<mark>&thinsp;<b>D&thinsp;U&thinsp;M&thinsp;P</b>&thinsp;</mark>  or <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> ? Neither but a compromise. (Could I omit set phrases?) 
+<mark>&thinsp;<b>D&thinsp;U&thinsp;M&thinsp;P</b>&thinsp;</mark> or <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark>❔ Neither but a compromise. (Could I omit set phrases?) 
 
 Was it all about unit tests? Yes, but it can work for others in the pyramid. Remember that units of tests are elusive and there's no distinct division.
 
 Does DRY apply to Test Driven Design? Yes, but constraint by DAMP as its main motive.
 
-🔚
+### Bottom line
+
+When covering existing code you shall find out the repetitions to group. The opposite is for **Test Driven Development**: think in test unions prior.<sup>🙋</sup>
+
+\___________\
+🔚 <sup>🙋</sup> <sub>I do a better explanation one day.</sub>
