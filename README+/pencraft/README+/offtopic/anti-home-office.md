@@ -27,7 +27,12 @@
 
 ## Public spots
 
+### Biblio
+
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/StadtBiblio.jpg" width="300" title="&nbsp;Stadt Bibliothek, reading hall" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/StadtBiblio_MusChair.jpg" width="300" title="&nbsp;Stadt Bibliothek, reading hall" /></span>
+
+### Coffee
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Starbux.jpg" width="300" title="&nbsp;Starbucks" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Hbf-CoffeeFellows.jpg" width="300" title="&nbsp;Coffee Fellows, Hbf" /></span>
 
