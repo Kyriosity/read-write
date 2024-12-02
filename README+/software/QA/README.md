@@ -1,8 +1,8 @@
-# Software &mdash; Quality Assurance
+# Software &mdash; Quality Assurance (QA)
 
-> **Frivolous, fleeting, and exponential spirit makes the programming inherently and largely error-prone.** 
+> **Frivolous, fleeting, and exponential spirit makes the programming inherently and largely error-prone** (and QA-fated). 
 
-Software is pure abstraction ether, and its creators have no fear of breaking changes (as close as their fingers to the keyboard). Commits can be rolled back, and there's always a gap until delivery to production (for last-minute fixes or bug introduction).
+Software is pure abstraction ether, and its creators have no fear of breaking changes (as close as their fingers to the keyboard). Commits can be rolled back, and there's always a gap until delivery to production (for last-minute fixes or bugs introduction).
 
 ```mermaid
 graph TB
@@ -21,61 +21,47 @@ graph TB
     end
 ```
 
-## What are errors &mdash; Reminder
+## Errors
 
-Errors are not only bugs but poor performance, frustrating user experience, and missing functionality.
+**QA** couldn't exist without errors, which are not only bugs but poor performance, frustrating user experience, missing functionality, and ... concealed features.
 
-// ToWrite: NOTE about the worst of errors
-
-IT Wasn't in REQS
-
-## What makes QA &mdash; Reminder
-
-Natural
-
-Pre
-
-Validation
-   In 
-   Out
-
-Postfactum
+A dedicated discussion deserves to be packed in its own [Errors](README+/errors/) subfolder.
 
 ## Natural born quality
 
 There were and will be remarkable projects done from scratch without allotted proof and validation measures (let alone code reviews and test automation) but robust from the first release. 
-
-This may occur in localized high-pro teams of responsible individuals but only underlines the idea of separate software THEME &mdash; __QA__.
+This may (and _may not_) happen in localized high-pro teams of responsible individuals but is an exclusion to underline the must-have of __QA__.
 
 Writing [quality code](README+/code-quality.md) must be an objective but teams will be uneven, distributed/fluctuating, and stressed. Add the human nature to sweep problems under the carpet - quite big and thick in the software.
+
+## Preliminary
+
+Experience... 
 
 When security risks are a concern other approaches for hacking vulnerability come into play (and devs aren't writing code in a criminal-minded mode).
 Project this statement to all other cases where IT pundits don't have all the expertise to test the domain.
 
-## Testing
+## Production
 
-_Tests_ and _Testing_ are great umbrella terms.
+Guidelines, Code review, 
+
+## Released
+
+_Tests_ and _Testing_ are great umbrella terms for the check of code and its products (including documentation). Bug searching and quality proofing tests are optional but highly recommended and a natural share of software creation. 
 
 ### Manual (spontaneous and planned)
 
-Unlike the olden days with BLIND commits  PUNCHcards most development allow to evaluate its product (in whole or by feature) with every step: just build and run.
+Unlike the olden days with blind commits of punchcards and tapes most development allows to evaluate its product (in whole or by feature) with every step: just build and run.
 
 This makes the developer the original, most prepared, and, when responsible, most effective and critical tester.
 
-REMARK about KNOWN Qua Projects.
+### Programmatic tests
 
-### FORMALIZED TESTS and their automation 
+[Programmatic tests](../tests) - executable code routines - are the biggest cornerstone of modern QA.
 
-COPY PASTE
+#### Test automation
 
-Bug searching and quality proofing tests are optional but highly recommended and a natural share of software creation. 
+// ToDescribe:
 
-TEst automation is oft misnamed as AUTO, since may come hand in hand.
-
-### Test automation
-
-**Further**↙️:\
-|--- [Tests as QA](../tests/asQA)\
-|--- [Programming tests](https://github.com/Kyriosity/use-dev/blob/main/README+/tests)
-
+\___________\
 :end: ... but [README+](README+)
