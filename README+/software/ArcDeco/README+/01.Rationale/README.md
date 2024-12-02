@@ -41,7 +41,7 @@ A few of other <ins>rhetorical</ins> vs. <ins>open</ins> &thinsp;<mark><samp><b>
 * Why do frankly bad parts nevertheless fuse to enterprise architecture which works and persists for years?
 * Why evolutionary design makes kludges, while "conceptualism" ends in utopia.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Developing excellent features, feeling the patterns and principles, but the trend of designing solutions on it succumbs to achieving the passable.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Developing excellent features, feeling the patterns and principles, but designing euphoria over it succumbs to achieving a passable project state.</sub>
  
 ## Objectives
 
