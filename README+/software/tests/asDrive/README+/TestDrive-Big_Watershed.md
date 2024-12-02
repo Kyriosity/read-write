@@ -1,8 +1,8 @@
 # Test Drive &mdash; Big Watershed
 
 <table><tr valign="top"><td>
-<picture><img width="250px" alt="&nbsp;Y-fork: yellow" src="../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>    
-</td><td><p>On a rainy July day I was bicycling to  a random lecture on <b>TD<mark>D</mark></b> and a doubt crept in &mdash; where am I going:</p>
+<picture><img width="250px" alt="&nbsp;Y-fork: black on yellow" src="../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>    
+</td><td><p>On a rainy midsummer day I was bicycling to hear a casual lecture on <b>TD<mark>D</mark></b> as doubt crept in &mdash; where am I going:</p>
    <p align="center">Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
 <p>It wasn't about the destination of this ride, but the principal divergence. 
 For the record, the title of the lecture resonated with my anxiety:  "Failed with TDD? Here you know why."</p>
@@ -11,19 +11,16 @@ For the record, the title of the lecture resonated with my anxiety:  "Failed wit
 
 The de-abbreviation raised another doubt: where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...
 
-Presentations and lectures favored _development_ with design as a natural<sup>🌵</sup> derivative, not much bothering about distinction and some even exploited both terms interchangeably. Books and tutorials inclined more toward techniques, patterns, and testing frameworks.
+Presentations and lectures favored _development_ with _design_ as a natural<sup>🌵</sup> spin-off, not much bothering about distinction and some exploited both terms interchangeably. 
+Books and tutorials inclined more toward techniques, patterns, and testing frameworks.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be better findings, and there could be better alternating conclusions.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub>**Natural** since any complete snippet can't escape design or must fit into the given.</sub> 
 
-EVOLUTIONARY AND THE KEY PROBLEM 
-PARALLEL to ARC w/ LINK to ESSAY
+Test-driven Development, fine for discourses, bootcamps, and `classes`, and encouraging to start features, didn't set forth for me to design just a mediocre project: hypothetical or tried. 
+The evolutionary design wasn't the answer too.
 
-However, TDD(development), which was fine for discourses, bootcamps, and `classes`, and encouraged to start features, didn't set forth for me to design just a mediocre project: hypothetical or tried.
-
-The evolutionary design wasn't the answer too 
-
-> The initial <mark>`OR`</mark>-question was answered first `AND` and then `XOR`.
+> The initial <mark><b><code>&thinsp;O&thinsp;R&thinsp;</code></b></mark>-question was answered first <code><b>A&thinsp;N&thinsp;D</b></code> and then refined to <code><b>X&thinsp;O&thinsp;R</b></code>.
 
 ## Could I explain my shismatic take?
 
@@ -36,7 +33,7 @@ The evolutionary design wasn't the answer too
 ### Test Driven Design
 <div dir="rtl">T⚙️D<sup>eS</sup></div>
 
-Let's see tests as a superb conductor (or proxy) of [design drives](../../) - domain, behavior, data, hardware model, whatsoever - to... 
+Let's see tests as a superb conductor (or proxy) of [design drives](../../../design/drive) - domain, behavior, data, hardware model, whatsoever - to... 
 
 + grope concepts and get a hands-on feeling on subjects (all the same: bookkeeping artifacts or superhero _viewmodel_),
 + vitalize skeleton functionality, evaluate trends and risks,
@@ -60,16 +57,12 @@ WHAT INTERCEPT's DOES NOT OVERLAP. WHAT COOPERATES do not DEPENDs
 
 ## Wrap up
 
-What made matters worse was revealing that this ridge is among others on the design topology. This triggered the painful rewrite of much stuff, starting from ⚙️[drives](../../../../software/design/drive) **but** let's not get sidetracked for now.
-
 SUBRIDGE
 
 > These could be the same project and team, test tools/framework, and skills/techniques to write tests, but...\
 >  **Design vs. Development are too dissimilar and contradictory to rotate on the same axis.**
 
-This meditation revealed for me something more -- all TDD now being more BUZ than PRAXIS. BUT THIS IS COMPLETELY ANOTHER STORY.
-
-## Appendix. Undo-Redo as case
+## Appendix. Undo-Redo as a case study
 
 <picture><img width="50px" alt="&nbsp;Undo-Redo symbol" src="../../../../_rsc/_img/symbols/UnReDo_250px.png"/></picture>
 [Reversible](https://github.com/Kyriosity/use-dev/tree/main/README+/projects/Rvrs)

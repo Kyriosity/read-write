@@ -3,11 +3,8 @@
 What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names for approaches. Also _functional programming_ is a driven approach.
 
 <details><summary><ins>&nbsp;<b>Fancying more items on both sides of <samp>DRIVEN</samp> will scheme a grotesque gearbox&thinsp;:</b>&nbsp;</ins></summary>
-&nbsp;
-  
-<picture><img alt="&thinsp;&nbsp;&nbsp;Combinational mess of drives and driven" src="../../../_rsc/_img/illus/AllDrives.jpg"/></picture>
-
-\___________
+<br />
+<p align="center"><picture><img alt="&thinsp;&nbsp;&nbsp;Combinational mess of drives and driven" src="../../../_rsc/_img/illus/AllDrives.jpg"/></picture></p>
 </details>
 
 <p align="center">⬆️&thinsp;<mark><b>Let's figure out what to do with this mess...</b>&thinsp;⬇️</mark></p>
