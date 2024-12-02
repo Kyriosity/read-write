@@ -9,8 +9,7 @@
 <sup>:de:</sup> <sub>Inspired by informal interpretation of the German flag: from the **dark** past through the bloody present to the <mark>golden</mark> future.\
 &nbsp;&nbsp;&nbsp;&nbsp;(Since `4>3` tearful blue was inserted for Design.)</sub>
 
-<details>
-<summary><h3><ins>&nbsp;<samp>More spectrum for</samp> requirements<samp>,</samp> management<samp>,</samp> testing, <samp>and</samp> administration<samp>&nbsp;?</samp></b>&nbsp;</ins></h3></summary>
+<details><summary><h3><ins>&nbsp;<samp>More spectrum for</samp> requirements<samp>,</samp> management<samp>,</samp> testing, <samp>and</samp> administration<samp>&nbsp;?</samp></b>&nbsp;</ins></h3></summary>
 <br/>
 
 <table><tr valign="top"><td>
@@ -20,7 +19,7 @@ These are <b>external</b> - optional and not, minor to <br />strong, <constructi
 <br />
 Which, culturally speaking, mix, tint, blur, or <br />shade (if not wash off) the four paints.<br />
 <br />
-Initiative and funding render the canvas. <br />
+Initiative and funding prime the canvas. <br />
 Abstraction/math/logic and artistic skills, <br />domain expertise, and creativity prop the picture.
 </td></tr></table>
 
@@ -30,7 +29,7 @@ Abstraction/math/logic and artistic skills, <br />domain expertise, and creativi
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** are tied, overlapping, and loosely-ordered role-driven processes.
 
-Many projects' modest size and lifetime, banality, and, also principal, isolated work on them will shrink the pie to a bar, ... ⬇️
+Many projects' modest size and lifetime, banality, and, isolated work on them will shrink the pie to a bar, ... ⬇️
 <br /><picture><img  align="center" alt="&nbsp;&nbsp;&nbsp;ArcDeco view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" /></picture><br />
 ⬆️...  theorization around which will be fetched out of thin air.
 
