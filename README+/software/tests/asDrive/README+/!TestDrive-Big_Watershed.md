@@ -17,10 +17,10 @@ Books and tutorials inclined more toward techniques, patterns, and testing frame
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be better findings, and there could be better alternating conclusions.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub>**Natural** since any complete snippet can't escape design or must fit into the given.</sub> 
 
-Test-driven Development, fine for discourses, bootcamps, and `classes`, and encouraging to start features, didn't set forth for me to design just a mediocre project: hypothetical or tried. 
-The evolutionary design wasn't the answer too.
+Test-driven Development, fine for discourses, bootcamps, and `classes`, and encouraging to start features, didn't set forth for me to design just a mediocre project: hypothetical or tried.\
+(The evolutionary design [wasn't the answer](../../../ArcDeco/README+/01.Rationale/README.md) either.)
 
-> The initial <mark><b><code>&thinsp;O&thinsp;R&thinsp;</code></b></mark>-question was answered first <code><b>A&thinsp;N&thinsp;D</b></code> and then refined to <code><b>X&thinsp;O&thinsp;R</b></code>.
+<div align="center"><ins>The initial </ins><mark><b><code>O&thinsp;R</code></b></mark><ins>-question was answered first </ins><code><b>A&thinsp;N&thinsp;D</b></code><ins> and then refined to </ins><code><b>X&thinsp;O&thinsp;R</b></code><ins>&thinsp;.</ins></div>.
 
 ## Could I explain my shismatic take?
 
@@ -30,10 +30,8 @@ The evolutionary design wasn't the answer too.
 
 </details>
 
-### Test Driven Design
-<div dir="rtl">T⚙️D<sup>eS</sup></div>
 
-Let's see tests as a superb conductor (or proxy) of [design drives](../../../design/drive) - domain, behavior, data, hardware model, whatsoever - to... 
+### Test Driven Design
 
 + grope concepts and get a hands-on feeling on subjects (all the same: bookkeeping artifacts or superhero _viewmodel_),
 + vitalize skeleton functionality, evaluate trends and risks,
@@ -45,35 +43,8 @@ Let's see tests as a superb conductor (or proxy) of [design drives](../../../des
 
 These tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.
 
-### Test Driven Development: T⚙️D<sup>eV</sup>
+### Test Driven Development
 
 Use of the test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).
-
-### OVERLAP ?
-
-There's no room for compromise: implementation before design will POOR the abstraction-poor !!!_Code Driven Design_!!!, which quality will degrade with complexity.
-
-WHAT INTERCEPT's DOES NOT OVERLAP. WHAT COOPERATES do not DEPENDs
-
-## Wrap up
-
-SUBRIDGE
-
-> These could be the same project and team, test tools/framework, and skills/techniques to write tests, but...\
->  **Design vs. Development are too dissimilar and contradictory to rotate on the same axis.**
-
-## Appendix. Undo-Redo as a case study
-
-<picture><img width="50px" alt="&nbsp;Undo-Redo symbol" src="../../../../_rsc/_img/symbols/UnReDo_250px.png"/></picture>
-[Reversible](https://github.com/Kyriosity/use-dev/tree/main/README+/projects/Rvrs)
-
-
-FRAGMENTATION of ACTION (LONG PAINT)
-
-<table><tr /><tr><td width=50%><b>T e s t ⚙️ <samp>D E S I G N</samp></b>&nbsp;&nbsp;&nbsp;(<b>T⚙️D<sup>e<mark>S</mark></sup></b>)</td>
-  <td><b>T e s t ⚙️ <samp>D E V E L O P M E N T</samp></b>&nbsp;&nbsp;&nbsp;(<b>T⚙️D<sup>e<mark>V</mark></sup></b>)</td></tr><tr valign="top"><td>asdasdasd</td><td>
-  Tests are the first strokes of code. Maybe experimental or even alternatives in miscellaneous languages and frameworks/libraries.
-</td></tr></table>
-
 
  🔚 &nbsp;🌘 kyriosity 2024...
