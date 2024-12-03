@@ -43,11 +43,13 @@ A few of other <ins>rhetorical</ins> vs. <ins>open</ins> &thinsp;<mark><samp><b>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Developing excellent features, feeling the patterns and principles, but designing euphoria over it succumbs to achieving a passable project state.</sub>
  
-## Objectives
+## Goal
 
-Above all: **abstraction of** software **abstractionism** but with utilitarian intentions: detecting what helps and harms in mundane code.
+Bridge development to design. Means: **abstraction of** software **abstractionism** but with utilitarian intentions: detecting what helps and harms in mundane code.
 
-* Software as a whole continuous "application" of pieces of IT theory and practical decisions, rather than tailored scattered occasional craft, or the building of sand castles on greenfields, or the "Grand Art" of perfectionism.
+### Objectives
+
+* Keep software as a whole continuous "application" of pieces of IT theory and practical decisions, rather than tailored scattered occasional craft, or the building of sand castles on greenfields, or the _Grand Art_ of perfectionism.
 * Classify parts, activities, and roles.
 * Think over "rails" and the burden of previous experience.
 * Eliminate the fear of "high" design decisions.
