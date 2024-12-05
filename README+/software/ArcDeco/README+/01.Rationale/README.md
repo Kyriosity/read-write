@@ -39,6 +39,7 @@ A few of other <ins>rhetorical</ins> vs. <ins>open</ins> &thinsp;<mark><samp><b>
 * Why don't many good design decisions survive and those bad ones do rematerialize in the next projects?
 * Why are developers doomed to repeat decisions and solutions done by others?
 * Why do frankly bad parts nevertheless fuse to enterprise architecture which works and persists for years?
+* BREAKING CHANGE 
 * Why evolutionary design makes kludges, while "conceptualism" ends in utopia.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Developing excellent features, feeling the patterns and principles, but designing euphoria over it succumbs to achieving a passable project state.</sub>
