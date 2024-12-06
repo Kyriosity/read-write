@@ -1,32 +1,18 @@
 ........... 🚧🐝🚧 ... WORK in PROGRESS... 🚧✏️🚧
 
-# Software &mdash; QA tests &mdash; Pitfalls 
+# QA Tests &mdash; Pitfalls 
 
 <p dir=rtl>Testers hate it when<br />.developers know these catches<br/>(Clickbait🪝)</p>
 
+This is the continuation of [QA Pitfalls](../../../QA/README+/QA-pitfalls.md)
+
 ## Conceptual
 
-### Overestimate of programming and automation
+### OVERESTIMATE SYN0 of programming and automation
 
-Not every test automation will pay back. And even not every test shall be written in code. Furthermore, not every test must be formulated in steps.
+Not every test automation will pay off. Not every test should/could be written in code. Furthermore, not every test must be formulated in steps.
 
-UI tests are a protruding example.
-
-### Wishful thinking Blaming the messenger
-
-The stories of remote testers who happily could with wishful thinking.
-
-### Hope on QA
-
-VETTED
-
-Will load the QA (happy enough) with 
-
-Nevertheless, development shall be done as there's no
-
-### Pro forma QA
-
-Security, tunnel vision
+UI tests are a protruding example but atop of other specific, badly formulated, and irregular tests.
 
 ## "Technical"
 
@@ -63,7 +49,6 @@ LINK to use-dev
 ## Practical
 
 ### Formalism
-
 
 ### Direct reference to implementation
 
