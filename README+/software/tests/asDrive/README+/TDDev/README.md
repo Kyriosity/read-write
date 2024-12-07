@@ -1,4 +1,4 @@
-# Test Driven Development - not Design - Reminder
+# Test Driven DEVELOPMENT &mdash; Reminder
 
 🚧🚧🚧 PLACEHOLDER 🚧🚧🚧
 
@@ -13,6 +13,12 @@ SUBRIDGE
 MULTIFEED DRIVE
 
 
++ promptly find tests and appreciate their naming and categorization,
++ learn the application by viewing and running tests.
+
+Project "**masters**" shall
+
++ begin any addition, change, and **removal** change with tests,
 
 The purpose of TDD is in no way test automation but means to:
 
@@ -30,5 +36,9 @@ Others are:
 - lack (if not absence) of ripe active frameworks. // 🚧 ToDo: use-dev links to "3D tests"
 
 
+## Wrap up
 
+It's not enough to write legible and effective tests, which nobody will be eager to explore unless they get unfathomably scarlet.
+
+\___________\
 🔚
