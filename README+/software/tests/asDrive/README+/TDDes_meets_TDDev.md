@@ -1,6 +1,10 @@
-# Test Driven Development and Deisng &mdash; together
+# Test Driven DESIGN and DEVELOPMENT &mdash; Cooperation
 
-### OVERLAP ?
+[WATERSHED](!TestDrive-Big_Watershed.md)
+
+> These could be the same project and team, test tools/framework, and skills/techniques to write tests, but...\
+>  **Design vs. Development are too dissimilar and contradictory to rotate on the same axis.**
+
 
 There's no room for compromise: implementation before design will POOR the abstraction-poor !!!_Code Driven Design_!!!, which quality will degrade with complexity.
 
