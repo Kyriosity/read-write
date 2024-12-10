@@ -19,7 +19,7 @@ That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`cl
 
 + [x] **reads** in both directions<sup>↔️</sup>,
 + [x] **teaches** techniques and gimmicks,
-+ [x] **inspires** to contribute (rather than to rewrite)
++ [x] **inspires** to contribute (<ins>rather than to rewrite</ins>)
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>↔️</sup> <sub>On-boarding developers can learn the domain from code (sure, not alone) while the domain expert (with some assistance) will grasp the implemented application logic.</sub>
 
@@ -29,16 +29,18 @@ Even bug-**free** code can be bug-**prone**. Code style must be bug-unfriendly t
 
 High-quality code has
 
-+ syntax that prevents typos<sup>🎼</sup> and mistakes (like plenty of magic strings and numbers, deceptive names, accidental casts, or "ghost" arguments),
++ syntax that prevents typos<sup>🎼</sup> and mistakes<sup>🥎</sup>,
 + visible logical flow (e.g. early returns, shallow enclosures).
 
 The highest merit is that even a breaking change won't surprise devs and users with unexpected side effects.
 
-Code optimization (deleting redundancies, merging common logic and data, shortening syntax), which retains readability, is prizewinning: less code - less soil for bugs.
+Code optimization (deleting redundancies, merging common logic and data, shortening syntax) that retains readability is prizewinning:\
+less code gives less soil for bugs.
 
 \___________
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup>&nbsp;<sub>e.g. `String.Empty` instead of `""` and some [C# tricks](../../../../README+/.net/README+/cs-hints.md)</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>e.g. `String.Empty` instead of `""` and some [C# tricks](../../../../README+/.net/README+/cs-hints.md)</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🥎</sup> <sub>Plenty of magic strings and numbers, deceptive names, accidental casts, or "ghost" arguments (to name a few).</sub>
 
 ### Re: Tests 🧪
 
@@ -64,7 +66,7 @@ _Errare humanum est_, and quality code allows one to focus tests on ...
 
 ## Moralité
 
-With all that said, why does deficient code prevail and _clean code_ migrate to buzzwords? 
+With all that said, why does flawed code prevail and _clean code_ migrate to buzzwords? 
 
 1. Poor-quality code is written much faster, cheaper, and without heated debates<sup>🥴</sup>. And as it does the job counter-arguments fade.
 2. Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup> as well as exponentially growing issues from bad software parts. The point when controllable chaos goes out of control, or a security breach opens may be crucial but lay far in the next releases.<sup>:parachute:</sup>
@@ -90,6 +92,8 @@ Besides _classical_ over-creativity and procrastination the reasons could be:
 + canceled/postponed iterations/refactoring/cleaning,
 + hesitation in using and contributing to shared code (from team/enterprise foundations up to open source)
 
-Some smart individuals develop great apps alone and are so good at keeping all details and the whole picture in mind that don't need and like to lose time with code organization. However, it's exceptional and not about enterprise development.
+Some smart individuals develop great apps alone and are so good at keeping all details and the whole picture in mind that they don't need and like to lose time with code organization. 
+However, this is exceptional and not about enterprise development.
 
+\___________\
 🔚 ...🌜2024
