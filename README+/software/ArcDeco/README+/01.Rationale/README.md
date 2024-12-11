@@ -28,7 +28,7 @@ The software doesn't know chess restraints with teaching, and assessment by eye.
 
 \_________________________________________________________________________________________________________</details>
 
-Technical &thinsp;<samp><b>E&thinsp;N&thinsp;L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&thinsp;E&thinsp;N&thinsp;M&thinsp;E&thinsp;N&thinsp;T</b></samp>&thinsp; has many facets with two secured: <b>enthusiasm</b> and <b>frustration</b>. These are paved with miscellaneous dilemmas but one pivotal, which in software interpretation is:
+PROJECT &thinsp;<samp><b>E&thinsp;N&thinsp;L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&thinsp;E&thinsp;N&thinsp;M&thinsp;E&thinsp;N&thinsp;T</b></samp>&thinsp; has many facets with two secured: <b>enthusiasm</b> and <b>frustration</b>. These are paved with miscellaneous dilemmas but one pivotal:
 
 <p align="center"><b>Why doesn't advanced development make great design by itself?<sup>🙋</sup></b></p>
 
@@ -42,7 +42,7 @@ A few of other <ins>rhetorical</ins> vs. <ins>open</ins> &thinsp;<mark><samp><b>
 * Why could a harmless syntax sugar be delayed for releases as a _breaking change_? 
 * How smart leads go between evolutionary kludges and "conceptualism" utopia.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Developing excellent features, feeling the patterns and principles, but designing euphoria over it succumbs to achieving a passable project state.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Developing excellent features, feeling the patterns and principles, and writing [quality code](../../../QA/README+/code-quality.md) but designing euphoria over it succumbs to achieving a passable project state.</sub>
  
 ## Goal
 
@@ -59,7 +59,7 @@ This requires **abstraction of** software **abstractionism** but with utilitaria
 ## Wrap up
 
 We can't paint <picture><img alt="&thinsp;Arc&nbsp;Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" /></picture> from the first cast but let's roll up our sleeves, take a brush<sup>🔦</sup>, and with shy strokes put layer after layer on the canvas of software abstractionism...\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔦</sup> <sub>Hmmm, I talked about the torch and binoculars in the chess metaphor.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔦</sup> <sub>Hmm, I talked about the torch and binoculars in the chess metaphor.</sub>
 
 > **Now it's only the <samp>PRIMING</samp>.**
 
