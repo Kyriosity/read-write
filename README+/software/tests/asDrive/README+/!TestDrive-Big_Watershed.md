@@ -24,27 +24,35 @@ Test-driven Development, fine for discourses, bootcamps, and `classes`, and enco
 
 ## Could I explain my shismatic take?
 
-<details><summary><ins><b>&nbsp;This shadow of doubt was from the rising ridge, dividing syntax and implementation behind it:&nbsp;</b></ins></summary>
+<details><summary><ins><b>&nbsp;This shadow of doubt was from the <samp>RISING</samp> RIDGE, dividing syntax and implementation behind it:&nbsp;</b></ins></summary>
 
 <picture><img src="../../../../_rsc/_img/illus/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture>
 
 </details>
 
+<table><tr><td>DES</td><td>DEV</td></tr><tr>
+   <td>what to develop</td><td>how to implement</td>
+</tr><tr><td>
+   <ul>
+      <li>grope concepts and get a hands-on feeling on subjects (all the same: bookkeeping artifacts or superhero <i>ViewModel</i>),</li>
+      <li>vitalize skeleton functionality, evaluate trends and risks,</li>
+      <li>couple design fantasies with the tech-stack materiality,</li>
+      <li>evaluate and pick more suited libraries, frameworks, and, in some cases, languages/platforms,</li>
+      <li>discuss ideas, naming, and logic with consultants and users.</li>
+   </ul>
+   </td>
+   <td>The purpose of TDD is in no way test automation but means to:</td>
+</tr></table>
 
 ### Test Driven Design
-
-+ grope concepts and get a hands-on feeling on subjects (all the same: bookkeeping artifacts or superhero _viewmodel_),
-+ vitalize skeleton functionality, evaluate trends and risks,
-+ couple design fantasies with the tech-stack materiality,
-+ evaluate and pick more suited libraries, frameworks, and, in some cases, languages/platforms,
-+ discuss ideas, naming, and logic with consultants and users.
-
-> "Design tests" must define **what** to develop</ins>. 
 
 These tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.
 
 ### Test Driven Development
 
 Use of the test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).
+
+
+CAN BE INDEPENDENT - YES, CAN BE COMMITING - NO, OVERLAP - NOT MUCH?
 
  🔚 &nbsp;🌘 kyriosity 2024...
