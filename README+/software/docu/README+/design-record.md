@@ -45,9 +45,16 @@ Continuous ratification of design decisions (incl. rejection) in the form of Que
 **Any text document (except F.A.Q.) over a few pages will be boring without drawings, diagrams, and presentations.**
 
 There are elaborated methodologies and tools (to remember classical IBM Rational Rose and RUP) to evolve a project in UML and other diagrams. 
-However, they cost time, restrain presentation, stick the vision to 2D (literally and metaphorically), and prompt to input redundant details. Mutual synchronization with code will make matters even worse.
+However, they cost time, restrain presentation, stick the vision to 2D (literally and metaphorically), and prompt to input of redundant details. Mutual synchronization with code will make matters even worse.
 
-The compromise is to maintain top diagrams with modest detailing. make presentations with and root documentation from them. 
+The compromise is to maintain top diagrams with modest detailing. Make presentations with and root documentation from them. 
+
+<details><summary><ins>&nbsp;Don't be shy with sketches. Look like NASA made it in 1960s:&nbsp</ins></summary>
+&nbsp;
+  
+<picture><img alt="&nbsp;freehand fast graphic sketch of space station" src="../../../_rsc/_img/snap/NASA.Sketch.SaturnV_to_station-1960s.jpg"></picture>
+  
+</details>
 
 ## Whiteboard
 
@@ -71,7 +78,6 @@ This isn't a routine activity but an intellectual task of design and modeling.
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>✂️</sup> <sub>Remove (join) redundant elements and visual noize.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🍒</sup> <sub>Systematically classify and name artifacts.</sub>
 
-
 ## Summary
 
 1. Docu shortage will obfuscate substantial concepts and require essential efforts to (re)gain focus on a software part later<sup>🔖</sup>.  
@@ -82,9 +88,9 @@ This isn't a routine activity but an intellectual task of design and modeling.
 
 ## Wrap up. Sync with code!
 
-> ❗ The most important note was reserved to the end.
+> ❗ The most important note was reserved for the end.
 
-**No excuse for the docu missing references to the implementation** - that is code. Not every feature but entry points.
+**No excuse for the docu missing references to the implementation**, _viz._ code. Not every feature or class but entry points.
 
 As an example in progress see ➡️[use-dev](https://github.com/Kyriosity/use-dev/).
 
@@ -116,4 +122,5 @@ Disadvantage: it's a one-time exercise that takes hours from most competent team
 
 Taking advantage of the disadvantage: everybody learns how to present the design and see its strong and weak sides.
 
-🔚
+\___________\
+🔚 ... Image credit: NASA archives
