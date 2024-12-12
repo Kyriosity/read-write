@@ -17,7 +17,7 @@ Fun fact: searching for _von Neumann_ (without the first name) will recite first
 
 #### Grace Hopper
 
-_Grace Brewster Hopper_, née Murray (**1906**-1992), grandma of Cobol, finder of the moth that opened the debugging world (that queer chords with her name).
+_Grace Brewster Hopper_, née Murray (**1906**-1992), grandma of Cobol, finder of the moth thus starting the debugging era (that chords with her name).
 
 #### Alan Turing
 
