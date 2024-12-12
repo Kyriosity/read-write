@@ -28,17 +28,19 @@ The software doesn't know chess restraints with teaching, and assessment by eye.
 
 \_________________________________________________________________________________________________________</details>
 
-PROJECT &thinsp;<samp><b>E&thinsp;N&thinsp;L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&thinsp;E&thinsp;N&thinsp;M&thinsp;E&thinsp;N&thinsp;T</b></samp>&thinsp; has many facets with two secured: <b>enthusiasm</b> and <b>frustration</b>. These are paved with miscellaneous dilemmas but one pivotal:
+System &thinsp;<samp><b>E&thinsp;N&thinsp;L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&thinsp;E&thinsp;N&thinsp;M&thinsp;E&thinsp;N&thinsp;T</b></samp>&thinsp; has many facets with two secured: <b>enthusiasm</b> and <b>frustration</b>. These are paved with miscellaneous dilemmas but one pivotal:
 
 <p align="center"><b>Why doesn't advanced development make great design by itself?<sup>🙋</sup></b></p>
 
 A few of other <ins>rhetorical</ins> vs. <ins>open</ins> &thinsp;<mark><samp><b>W&thinsp;H&thinsp;Y</b></samp></mark>&thinsp; and &thinsp;<mark><samp><b>H&thinsp;O&thinsp;W</b></samp></mark>&thinsp; **tiles** are:
 
-* Why would the code of the well-known domain obfuscate the reviewer?
-* Why is getting into most solutions a headache and dread?
+* Why is experience rather an inhibitor of rapid development?
+* Why would the code obfuscate lucid domain logic for reviewers?
+* Why don't bright architecture ideas propagate to development?
+* Why is getting into big projects a headache and dread?
 * Why don't many good design decisions survive and how bad ones rematerialize in the next projects?
 * Why are developers doomed to repeat decisions and solutions done by others?
-* Why do frankly bad parts nevertheless fuse to enterprise architecture that works and persists for years?
+* Why do frankly bad parts of dark code nonetheless fuse to enterprise architecture that works and persists for years?
 * Why could a harmless syntax sugar be delayed for releases as a _breaking change_? 
 * How smart leads go between evolutionary kludges and "conceptualism" utopia.
 
