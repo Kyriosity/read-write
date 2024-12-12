@@ -23,9 +23,7 @@ graph TB
 
 ## Errors
 
-**QA** couldn't exist without errors, which are not only bugs but poor performance, frustrating user experience, missing functionality, and ... concealed features.
-
-A dedicated discussion deserves to be packed in its own [Errors](README+/errors/) subfolder.
+**QA** couldn't exist without errors - the catch-all term which inmates deserved their own [Errors](README+/errors/) corner.
 
 ## Natural born quality
 
