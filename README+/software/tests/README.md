@@ -2,7 +2,7 @@
 
 <table><tr valign="top"><td><picture><img alt="&nbsp;Plenty of test frameworks" src="../../_rsc/_img/illus/test_fw-emblems.jpg" /></picture>
 </td><td>
-<p><b>Programmatic tests, as an idea<sup>💡</sup>, appeared together with high-level languages.</b></p>
+<p><b>Programmatic tests, as an idea,<sup>💡</sup> appeared together with high-level languages.</b></p>
 <ul>
   <li>They are a unique part of the software: optional but integral.</li>
   <li>They don't contribute to product value but are the same essential as the core code.</li>
@@ -20,8 +20,7 @@ Getting started with testing is a no-brainer:
 
 Tests can be written in the same or other programming language as their subject, even without a framework. (A bare call to a function/method/proc with none or some arguments and log/throw an error if the result doesn't match expectations.)
 
-
-<p align="center"><b>Tests are a huge umbrella term and here we are at the first principal branching:</b></p>
+<p align="center"><b>Programming tests is a vast area and here we are at the first principal branching:</b></p>
 <table><tr><td>
   <div align="center"><b>TESTS for</b><br /><h3><a href="asQA/"><samp><ins>&nbsp;Q&thinsp;U&thinsp;A&thinsp;L&thinsp;I&thinsp;T&thinsp;Y&nbsp;&nbsp;I&thinsp;N&thinsp;S&thinsp;U&thinsp;R&thinsp;A&thinsp;N&thinsp;C&thinsp;E&nbsp;</ins></samp></a></h3></div>
 </td><td><picture><img alt="&nbsp;arrows down left and right" src="../../_rsc/_img/signs/arrows/arrows-overlay_bifurc-down-deco.jpg"/></picture></td><td>
