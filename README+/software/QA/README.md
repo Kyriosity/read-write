@@ -2,7 +2,7 @@
 
 > **Frivolous, fleeting, and exponential spirit makes the programming inherently and largely error-prone** (and QA-fated). 
 
-Software is pure abstraction ether, and its creators have no fear of breaking changes (as close as their fingers to the keyboard). Commits can be rolled back, and there's always a gap until delivery to production (for last-minute fixes or bugs introduction).
+Software is pure abstraction ether, where breaking changes are as close as their fingers to the keyboard. Commits can be rolled back, and there's always a gap until delivery to production (for last-minute fixes or bug introduction).
 
 ```mermaid
 graph TB
@@ -23,7 +23,7 @@ graph TB
 
 ## Errors
 
-**QA** couldn't exist without errors - the catch-all term which inmates deserved their own [Errors](README+/errors/) corner.
+**QA** couldn't exist without errors - the catch-all term which inmates deserved their own [corner](README+/errors/).
 
 ## Natural born quality
 
@@ -34,18 +34,30 @@ Writing [quality code](README+/code-quality.md) must be an objective but teams w
 
 ## Preliminary
 
-Experience... 
+Experience of 
+
++ domain/subjects,
++ tools (as a platform and programming language),
++ errors and retreat.
 
 When security risks are a concern other approaches for hacking vulnerability come into play (and devs aren't writing code in a criminal-minded mode).
-Project this statement to all other cases where IT pundits don't have all the expertise to test the domain.
+Protrude this statement to all other cases where IT pundits don't have all the expertise to test the domain.
 
 ## Production
 
-Guidelines, Code review, 
+These are continuous measures within the team:
+
++ Guidelines,
++ Code review,
++ [Test Driven Development](../tests/asDrive/)
 
 ## Released
 
-_Tests_ and _Testing_ are great umbrella terms for the check of code and its products (including documentation). Bug searching and quality proofing tests are optional but highly recommended and a natural share of software creation. 
+## Feedback
+
+### Tests
+
+_Tests_ and _Testing_ are a CENTERPIECE of QA and <ins>&thinsp;w&thinsp;i&thinsp;d&thinsp;e&thinsp;</ins> umbrella terms for the check of code and its products (including documentation). Bug searching and quality proofing tests are optional but highly recommended and a natural share of software creation. 
 
 ### Manual (spontaneous and planned)
 
@@ -62,4 +74,4 @@ This makes the developer the original, most prepared, and, when responsible, mos
 // ToDescribe:
 
 \___________\
-:end: ... but [README+](README+)
+:end: ... continued in ... [Errors](README+/errors/) ... Code quality ... QA Tests ... Pitfalls ... TDD
