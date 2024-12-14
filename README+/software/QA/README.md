@@ -45,15 +45,20 @@ Protrude this statement to all other cases where IT pundits don't have all the e
 
 ## Production
 
-These are continuous measures within the team:
+<table><tr><td><picture><img width="250px" alt="&nbsp;Drake helps Lil Yachty with laptop (&quot;Life Is Good&quot;)" title="&nbsp;Drake helps Lil Yachty with laptop (&quot;Life Is Good&quot;)" src="../../_rsc/_img/memes/Drake_LilYachty-LifeIsGood_laptop.jpg" /></picture></td><td>
+ <p>These are continuous measures within the team:</p>
+ <ul>
+  <li>Guidelines</li>
+  <li>Code review</li>
+  <li><a href="../tests/asDrive/">Test Driven Development</a></li>
+ </ul>
+</td></tr></table>
 
-+ Guidelines,
-+ Code review,
-+ [Test Driven Development](../tests/asDrive/)
+## Produced
 
-## Released
+### Feedback
 
-## Feedback
+User feedback is everything and not every user is eager to share it.
 
 ### Tests
 
@@ -74,4 +79,4 @@ This makes the developer the original, most prepared, and, when responsible, mos
 // ToDescribe:
 
 \___________\
-:end: ... continued in ... [Errors](README+/errors/) ... Code quality ... QA Tests ... Pitfalls ... TDD
+:end: ... continued in ... [Errors](README+/errors/) ... [Code quality](README+/code-quality.md) ... [QA Tests](../tests/asQA/) ... [Pitfalls](README+/QA-pitfalls.md) ... TDD
