@@ -6,7 +6,9 @@ QA can be a dedicated and responsibly taken organization, but the next traps END
 
 ### Underestimate
 
-The story of the Mars Observer is a mega-example. LINK!
+QA doesn't deliver and thus is the first item to spare on individually, teamly or corporate.
+
+this may pass or not as with the poor Mars Climate Observer. LINK!
 
 ###  Formality vs. Informality
 
@@ -18,11 +20,13 @@ This means careless development with QA in the loop as TDD LINK! and the hope th
 
 ### "Wishful thinking"
 
-The credit for a software product or team may be so high that errors are vanishingly small in USUAL BLOCKS.
+The credit for a software product or team may be high and errors vanishing.
+
+Automated and formal tests will give green light to  the classical parts and UBYukivat.
 
 ### "Blaming the messenger"
 
-The SATELLITE of the wishful thinking is the 
+The mirrored twin of the wishful thinking is the negative reaction of developers. which will discourage testers to report the error or softpedal one.
 
 ## Practical
 
@@ -33,7 +37,7 @@ The SATELLITE of the wishful thinking is the
 ### Underestimate of "criminal energy" and vandalism
 
 ### Too good environment
-
+ starbuxx
 
 ## REMEDIES ?
 
