@@ -35,7 +35,7 @@ System &thinsp;<samp><b>E&thinsp;N&thinsp;L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&
 A few of other <ins>rhetorical</ins> vs. <ins>open</ins> &thinsp;<mark><samp><b>W&thinsp;H&thinsp;Y</b></samp></mark>&thinsp; and &thinsp;<mark><samp><b>H&thinsp;O&thinsp;W</b></samp></mark>&thinsp; **tiles** are:
 
 * Why is experience rather an inhibitor of rapid development?
-* Why would the code obfuscate lucid domain logic for reviewers?
+* Why can the code obfuscate lucid domain logic for reviewers?
 * Why don't bright architecture ideas propagate to development?
 * Why is getting into big projects a headache and dread?
 * Why don't many good design decisions survive and how bad ones rematerialize in the next projects?
@@ -45,7 +45,9 @@ A few of other <ins>rhetorical</ins> vs. <ins>open</ins> &thinsp;<mark><samp><b>
 * How smart leads go between evolutionary kludges and "conceptualism" utopia.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Developing excellent features, feeling the patterns and principles, and writing [quality code](../../../QA/README+/code-quality.md) but designing euphoria over it succumbs to achieving a passable project state.</sub>
- 
+
+The external heartening or intimidating factor is the construction of more material, safer and less patchable and shapeable megastructures: liquefied gas tankers, skyscrapers, airplane auto-navigation).
+
 ## Goal
 
 Bridge development to design.
@@ -58,7 +60,8 @@ This requires **abstraction of** software **abstractionism** but with utilitaria
 * Think over "rails" and the burden of previous experience.
 * Eliminate the fear of "high" design decisions.
 
-## Wrap up
+## What's next
+
 
 We can't paint <picture><img alt="&thinsp;Arc&nbsp;Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" /></picture> from the first cast but let's roll up our sleeves, take a brush<sup>🔦</sup>, and with shy strokes put layer after layer on the canvas of software abstractionism...\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🔦</sup> <sub>Hmm, I talked about the torch and binoculars in the chess metaphor.</sub>
