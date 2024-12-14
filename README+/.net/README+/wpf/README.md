@@ -7,14 +7,14 @@ Despite much scepsis, justifiable and not, and critics from the very dawn **WPF*
  Thus, WPF to .NET/Win is like The Moon to Earth - the only natural and permanent satellite. Alternatives are either petit, marginal, exotic, still immature, or already deprecated<sup>🌘</sup>.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Enjoying now (2020s) a definite ebb in cross-platform demand</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🌘</sup> <sub>You may have heard about [Avalonia XPF](https://avaloniaui.net/XPF)<sup>🔗</sup>, Xamarin, WinUI, or [Blazor](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🔗</sup> (the latter may change the dev landscape but it's too early too predict in 2024).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🌘</sup> <sub>You may have heard about [Avalonia XPF](https://avaloniaui.net/XPF)<sup>🔗</sup>, Xamarin, WinUI, or [Blazor](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🪟</sup> (the latter may change the dev landscape but it's too early too predict in 2024).</sub>
 
 For developers **WPF**:
 
 + is "native" to Windows (64-bit memory addressing, multitasking, and direct hardware acceleration since Windows&nbsp;7),
 + is backed by Microsoft and .NET devoted experts, dependent on its stability and progress,
 + provides full stack dev on .NET (+MS&nbsp;SQL) without the mix of platforms (and involvement of their providers), languages, and tools with differing paradigms<sup>☕</sup>,
-+ implies [MVVM](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm)<sup>:link:</sup> and has promoted it to other platforms,
++ implies [MVVM](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm)<sup>🪟</sup> and has promoted it to other platforms,
 + and grants true **RADD** (Rapid Application Development and Deployment).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>☕</sup> <sub>Compare to Java/Javascript/Typescript stacks with disputes on frontend framework and backend DB.</sub>
