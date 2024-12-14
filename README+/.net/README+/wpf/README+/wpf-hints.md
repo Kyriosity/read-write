@@ -22,7 +22,7 @@ Developers often neglect backup values<sup>🙋</sup> while must remind them whe
 
 Similar `TargetNullValue` may confuse when delay of the async set. Then it's reasonable to place any overlay when loading.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> Microsoft [doesn't learn](https://learn.microsoft.com/dotnet/desktop/wpf/data/binding-declarations-overview) it from the very beginning as should.
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> Microsoft [doesn't teach](https://learn.microsoft.com/dotnet/desktop/wpf/data/binding-declarations-overview)<sup>🪟</sup> it from the very beginning as should.
 
-
-📝... TO BE CONTINUED ... 🚧
+\__________\
+🔚 📝... TO BE CONTINUED ... 🚧
