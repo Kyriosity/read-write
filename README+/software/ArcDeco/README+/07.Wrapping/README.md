@@ -5,18 +5,20 @@
 
 🚧🚧🚧 ... DRAFT in progress ... 🚧🚧🚧
 
-CONTRA FORCES
+Signs of good work:
 
-COMMUNICATION IS EVERYTHING - TRUST is GOOD, UNDERSTANDING is BETTER
+You want to improve it as soon as something is committed.
 
+It began with the metaphor and may wrap up with one:
 
-# Wrap up
+<details><summary><ins>&nbsp;A symphonic metaphor you may skip too...&nbsp;</ins></summary>
 
-SW Architecture is METAWARE ?
+ 
+</details>
+
 
 + Big vision - with small steps up
 
-WHAT IS THE SIGN OF GOOD 
 
 🔚 **...** <picture><img alt="&nbsp;&nbsp;&nbsp;&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg"
 title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde"/></picture>
