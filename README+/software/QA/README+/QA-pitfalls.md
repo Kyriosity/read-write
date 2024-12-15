@@ -1,22 +1,16 @@
 # Quality Assurance &mdash; Pitfalls
 
-QA can be a dedicated and responsibly taken organization, but the next traps ENDANGER.
+Just a tutti frutti.
+ 
+## Conceptual
 
-## Conceptual 
+### NEGLIANCE
 
-### Underestimate
-
-QA doesn't deliver and thus is the first item to spare on individually, teamly or corporate.
+QA doesn't deliver and thus is the first item to spare on individually, by customer, teamly or corporate.
 
 this may pass or not as with the poor Mars Climate Observer. LINK!
 
 ###  Formality vs. Informality
-
-### QA for TDD
-
-This means careless development  [Test Driven Development](../../tests/asDrive)
-
-This means careless development with QA in the loop as TDD LINK! and the hope they give fast feedback. This overloads the QA
 
 ### "Wishful thinking"
 
@@ -26,18 +20,31 @@ Automated and formal tests will give green light to  the classical parts and UBY
 
 ### "Blaming the messenger"
 
-The mirrored twin of the wishful thinking is the negative reaction of developers. which will discourage testers to report the error or softpedal one.
+The mirrored twin of the wishful thinking is the negative reaction of developers on reports.
 
-## Practical
+The same as errors and bugs seen as bad dev work.
+
+which will discourage testers to report the error or softpedal one.
 
 ### Bad domain knowledge
 
 "Blind" programming of the domain (compare to tech XLAT by linguist)
 
-### Underestimate of "criminal energy" and vandalism
+### Underestimate of foolproof, "criminal energy" and vandalism
+
+marked by "Who would ever..."
+
+### Practical
 
 ### Too good environment
+
  starbuxx
+
+ ### QA for TDD
+
+This means careless development  [Test Driven Development](../../tests/asDrive)
+
+This means careless development with QA in the loop as TDD LINK! and the hope they give fast feedback. This overloads the QA
 
 ## REMEDIES ?
 
