@@ -8,7 +8,8 @@ It's not a strict study but observation and bookmarks.
 
 QA doesn't deliver and thus is the first item to be spared individually, by the customer, by a team, or by a department.
 
-Perhaps this passes or is nominated to the ten most disastrous bugs (at least of the department).
+Perhaps this passes or with less luck may be nominated to the ten most disastrous bugs (at least of the department). 
+Opportunistic quality issues co-exist unnoticeably for decades (as unfunctional 125% or 150% scaling in many mobile apps).
 
 ###  Formality vs. Informality
 
