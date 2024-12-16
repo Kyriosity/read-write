@@ -13,7 +13,7 @@ title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nb
   <i>Walhalla</i> on the river Danube, Bavaria (built 1820-1842) is an exemplary neoclassicism.
  </td><td width="65%">
 <p>The essence of architecture appeared as folks managed to erect somewhat more extravagant and durable than a hut of piled branches (beginning from megaliths).</p>
-<p>In ancient history some Hellenes were so good at it that observers coined "<i>architect</i>"<sup>🏛️</sup> - the term romanized to <i>architecture</i> centuries later.</p>
+<p>In ancient history some Hellenes were so good at it that their impressed colleagues coined "<i>architect</i>"<sup>🏛️</sup> - the term romanized to <i>architecture</i> centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &mdash; 
 refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
 <p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. However, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) and architects of détente or <em>economic miracle</em> are compliments (or flattery).</p>
