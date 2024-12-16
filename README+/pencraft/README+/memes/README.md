@@ -25,8 +25,7 @@ The grains of truth in this wisdom:
 
 Translated east-to-west this means: find a sinecure in a big company.
 
----------
-</details>
+\___________</details>
 
 <details><summary><ins>&nbsp;<b>AI</b>&nbsp;</ins><code>xor</code><ins>&nbsp;<b>IT</b>&nbsp;</ins></summary>
 <a name="AIxorIT"></a>&nbsp;
@@ -39,9 +38,7 @@ Translated east-to-west this means: find a sinecure in a big company.
 
 <mark><b>P.S.</b></mark> Honestly, I concocted this collage before coming on "Alchemy and AI", 1965, by [Hubert Dreyfus](../quotes/README+/contributors/README.md#Hubert-Dreyfus). 
 
----
-
-</details>
+\___________</details>
 
 ## Programming techniques
 
@@ -58,8 +55,7 @@ As the extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/READ
 
 > Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin.
 
----------
-</details>
+\___________</details>
 
 <details><summary><ins>&nbsp;<b>Programmer in a math class</b>&nbsp;</ins></summary>
 &nbsp;
@@ -71,8 +67,7 @@ As the extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/READ
 Justified: abilities in exact sciences are no longer a prerequisite for applied programming. 
 It's normal to neglect a triage algorithm implementation (that a platform provides) rather than to write one's own or even comprehend/differentiate one.
 
----------
-</details>
+\___________</details>
 
 ## Urban legends / Tales from the Crypt
 
@@ -86,26 +81,20 @@ It's normal to neglect a triage algorithm implementation (that a platform provid
     <td width="50%">
       <a href="https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/"><b>&nbsp;🦘Object-oriented kangaroos 🇦🇺&nbsp;</b></a>
     </td>
-    <td>
-    Just for illustration
-    </td>
-  </tr>
-  <tr valign="top">
+    <td><samp>Just for illustration</samp></td>
+  </tr><tr valign="top">
     <td>
       <a href="../../../_rsc/_backup/ref/Marsupial/">downloaded safe-copy</a> <br />if the URL above doesn't work
     </td>
     <td>
       <a href="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy).jpg">
         <img src="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy)_thumb250px.jpg" 
-          alt="&nbsp;a flying kangaroo"   
-          title="A kangaroo clears a fence in Beveridge, 37 km north of Melbourne's CBD (snapshot by Nathan Xuebsy, 2024)"></a>
+          alt="&nbsp;a flying kangaroo" title="&nbsp;A kangaroo clears a fence in Beveridge, 37 km north of Melbourne's CBD&#013;&#010;&nbsp;(snapshot by Nathan Xuebsy, 2024)"></a>
     </td>
   </tr>
 </table>
 
----------
-
-</details>
+\___________</details>
 
 ## Historic snapshots
 
@@ -140,7 +129,7 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 </details>
 
-<details><summary>🗃️ <b><ins>&nbsp;<mark>1966</mark>: Tell her how tired are you with the debugging&nbsp;</ins></b></summary>
+<details><summary>🗃️ <b><ins>&nbsp;<mark>1966</mark>: Tell her how much space your source files take&nbsp;</ins></b></summary>
 &nbsp;
 
 <picture><img alt="&nbsp;Pile of punchards in 1966" src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" /></picture><br/>
@@ -153,7 +142,7 @@ A stack of punch cards for a casual program. I'm proud to have a [little experie
 
 <details><summary><ins>&nbsp;<b>Deployment tenses</b>&nbsp;</ins></summary>
 
-🚧🐝🚧 ... WORK in PROGRESS ... 🚧:bee:🚧
+🚧🐝🚧 ... WORK in PROGRESS ... 🚧🐝🚧
 
 <table>
   <tr>
@@ -182,9 +171,7 @@ VOAYGER
 
 </table>
 
----
-
-</details>
+\___________</details>
 
 ## Recommended reading 
 
@@ -193,8 +180,7 @@ VOAYGER
 
 🚧 COMING...NEXT
 
----
-</details>
+\___________</details>
 
 # [**Volume&nbsp;II. Inspirational quotes**](../quotes/README+/inspirational.md) 
 
