@@ -1,8 +1,19 @@
 # Software &mdash; Quality Assurance (QA)
 
-> **Frivolous, fleeting, and exponential spirit makes the programming inherently and largely error-prone** (and QA-fated). 
+<table><tr><td>
+ <p>Software is pure abstraction ether.</p>
+ <div>Frivolous, fleeting, and exponential spirit makes the programming inherently and largely</div>
+ <div align="center"><b><samp>E&thinsp;R&thinsp;R&thinsp;O&thinsp;R&thinsp;-&thinsp;p&thinsp;r&thinsp;o&thinsp;n&thinsp;e</samp></b></div>.
+</td><td><picture><img alt="&nbsp;Bug &amp; Compass" src="../../_rsc/_img/signs/bugs/bug_in_flask-pencil-250px.jpg" /></picture></td><td>
+When breaking changes are as close as fingers to the keyboard, commits can be rolled back, and there's always a gap until delivery to production (for last-minute fixes or bug introduction) software is 
+<div align="center"><b><samp>Q&thinsp;A&thinsp;-&thinsp;f&thinsp;a&thinsp;t&thinsp;e&thinsp;d&thinsp;.</samp></b></div>
+</td></tr></table>
 
-Software is pure abstraction ether, where breaking changes are as close as their fingers to the keyboard. Commits can be rolled back, and there's always a gap until delivery to production (for last-minute fixes or bug introduction).
+## Errors
+
+**QA** couldn't exist without errors - the catch-all term which inmates deserved their own [corner](README+/errors/).
+
+## Quality
 
 ```mermaid
 graph TB
@@ -21,11 +32,7 @@ graph TB
     end
 ```
 
-## Errors
-
-**QA** couldn't exist without errors - the catch-all term which inmates deserved their own [corner](README+/errors/).
-
-## Natural born quality
+## Natural born
 
 There were and will be remarkable projects done from scratch without allotted proof and validation measures (let alone code reviews and test automation) but robust from the first release. 
 This may (and _may not_) happen in localized high-pro teams of responsible individuals but is an exclusion to underline the must-have of __QA__.
