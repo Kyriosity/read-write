@@ -4,36 +4,40 @@
 
 # Rationale
 
-<details><summary><ins>&nbsp;A chess metaphor you may skip&nbsp;</ins>&nbsp;...</summary>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... but you clicked.
+<details><summary><ins>&nbsp;&nbsp;&nbsp;A metaphor you may skip&nbsp;</ins>&nbsp;...</summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... but, thanks, you've clicked.
 
 <p dir="rtl">A cherry-picked <b>metaphor</b><br />.simplifies explanation<br />(.At times even for readers)</p>
-<b>Chess is a universal metaphor...</b><sup>♟️</sup>
-<table><tr><td><img alt="&nbsp;IT chess phantasy" src="../../../../_rsc/_img/illus/ChessIT.jpg" /></td><td>
-<p>♕♛ Learning the basics of programming is as easy as the rules of the checkered strategy. 
-Getting into programming resembles games of neophytes: <i>blitz</i> (wins follow fails), fun, and considerably advancing.</p>
+
+<table><tr valign="top"><td><p><b>Figure of chess is a universal figure of speech...</b><sup>♟️</sup></p>
+  <p><img alt="&nbsp;IT chess phantasy" src="../../../../_rsc/_img/illus/ChessIT.jpg" /></p>
+<div dir="rtl"><sub>or I'm boring and unimaginative to&nbsp;&#8230;&nbsp;</sub><sup>♟️</sup><br><sub>.propose better and smarter analogies</sub></div></td><td>
+<p>♕♛ Learning the basics of programming and the rules of the checkered strategy are both fast and attainable for the masses. 
+Starting programming resembles games of neophytes: <i>blitz</i> (wins follow fails), fun, and visibly improving.</p>
 
 <p>♖♜ Understanding and learning principles and check patterns will prevent blunders but not positional traps of better opponents.<br />
 In like manner, a keen junior will soon write good pieces of code but shaky solutions.</p>
 
 <p>♘♞ Then the perception of combinatory vastness and the need to think in several moves lifts the curtain of first naive impressions.<br />
-"Moves" in software are multilevel projections over digits and their calculations with enormous space <code>>8x8`</code> for phantasies and alternative solutions.</p>
+"Moves" in software are multilevel projections over digits and their calculations with enormous space <code><b>&gt;</b>&thinsp;8x8</code> for phantasies and alternative solutions.</p>
 
-To rise to a higher rank requires a "binocular" of passion and a "torch" of theory. Here the metaphor breaks down. There are clear theoretical roadmaps and schools in chess and the rating will ruthlessly show one's place. 
-The software doesn't know chess restraints with teaching, and assessment by eye.
+<p>To rise to a higher rank requires a "binocular" of passion and a "torch" of theory. The number of games or written applications won't break the ceiling.<sup>👑</sup></p>
+  
+<p>In chess theoretical roadmaps and schools lead to higher ratings, which ruthlessly show one's place. <ins>Here the metaphor breaks down.</ins> 
+Software ways to craftsmanship are inscrutable and assessed by eye.</p>
+<div dir="rtl"><sub>&mdash;&nbsp;Major chess servers can brag about legends&nbsp;&nbsp;&mdash; not bots, pausing for sleep only</sub><sup>👑</sup><br /><sub>.with an enormous number of games but amateur slightly growing ELO ratings</sub></div>
 
 </td></tr></table>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>♟️</sup> <sub>Or we are boring and unimaginative to apply better and smarter analogies. Math theories would set tighter but scare away the majority and I'll be the first to drop (it).</sub>
 
 \_________________________________________________________________________________________________________</details>
 
 System &thinsp;<samp><b>E&thinsp;N&thinsp;L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&thinsp;E&thinsp;N&thinsp;M&thinsp;E&thinsp;N&thinsp;T</b></samp>&thinsp; has many facets with two secured: <b>enthusiasm</b> and <b>frustration</b>. These are paved with miscellaneous dilemmas but one pivotal:
 
-<p align="center"><b>Why doesn't advanced development make great design by itself?<sup>🙋</sup></b></p>
+<p align="center"><b><samp>Why doesn't advanced development make the great design by itself?</samp>&thinsp;<sup>🙋</sup></b></p>
 
-A few of other <ins>rhetorical</ins> vs. <ins>open</ins> &thinsp;<mark><samp><b>W&thinsp;H&thinsp;Y</b></samp></mark>&thinsp; and &thinsp;<mark><samp><b>H&thinsp;O&thinsp;W</b></samp></mark>&thinsp; **tiles** are:
+Veneer with <ins>rhetorical</ins> vs. <ins>open</ins> <kbd>&thinsp;<samp><b>I&thinsp;S</b></samp>&thinsp;</kbd>, <kbd>&thinsp;<samp><b>W&thinsp;H&thinsp;Y</b></samp>&thinsp;</kbd>, and <kbd>&thinsp;<samp><b>H&thinsp;O&thinsp;W</b></samp>&thinsp;</kbd> **tiles**:
 
+* Is there something supernatural in system design compared to project development?
 * Why is experience rather an inhibitor of rapid development?
 * Why can the code obfuscate lucid domain logic for reviewers?
 * Why don't bright architecture ideas propagate to development?
