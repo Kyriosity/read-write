@@ -16,7 +16,7 @@ Remember that our patchwork demonstratively overlaps motley **stripes**<sup>📚
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>📚</sup> <sub>Synonymic ***tiers*** and **layers**** are already strongly associated with practical architecture/design.</sub>
 
-In general Let's divide first into two tiers: coding vs. development (closer to the keyboard) and Design Architecture (from the keyboard to thoughts)
+In general Let's divide first into two tiers: coding vs. development (closer to the keyboard) and Design Architecture (closer to the whiteboard)
 
 Development vs. Coding
 
