@@ -25,8 +25,8 @@
       <br /><div align="center"><h4><a href="README+/SW_architect-aTake.md">ARCHITECT(URE)</a></h4></div>
     </td>
    <td>
-      <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/projects/U-Val/README.md"><img src="../../../_rsc/_img/_nav/tiles/U-Val_200px.jpg" alt="&nbsp;Multifacet value" title="&nbsp;Multifacet values"/></a>
-      <br /><div align="center"><h4><a href="https://github.com/Kyriosity/use-dev/tree/main/README+/projects/U-Val/README.md">MULTIFACET VALUE</a></h4></div>
+      <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/parts/Π-Val/README.md"><img src="../../../_rsc/_img/_nav/tiles/U-Val_200px.jpg" alt="&nbsp;Multifacet value" title="&nbsp;Multifacet values"/></a>
+      <br /><div align="center"><h4><a href="https://github.com/Kyriosity/use-dev/tree/main/README+/parts/Π-Val/README.md">MULTIFACET VALUE</a></h4></div>
     </td>
   </tr>
   <tr>
