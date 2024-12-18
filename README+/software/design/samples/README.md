@@ -2,7 +2,7 @@
 
 The planning and presentation of software features require a pictorial and encouraging background. We'll rely often on the next samples:\
 |- ♟️ [Chess](#chess)\
-|- 🧮 [Mathematics](#mathematics)\
+|- 🧮 [Math](#math)\
 |- 🎨 [Raster images](#raster-images)\
 |- 🧱 [Still plain models](#still-plain-models)
 
@@ -30,24 +30,22 @@ Thus any action (start, move, resign, undo) requires the approval or notificatio
 
 Various actors set async props of a move/action:
 
-+ player, arbiter -> move/action notation
-+ clock -> timestamp
-+ player -> comment* (optional)
-+ engine/expert -> assessment* (optional)
++ player, arbiter &rarr; move/action notation
++ clock &rarr; timestamp
++ player &rarr; comment* (optional)
++ engine/expert &rarr; assessment* (optional)
 
 ### Duration, size, space
 
-Playing chess is predictably finite<sup>:1234:</sup>, while any initiative may unleash the figures, _8x8_ layout, or time control and result in perpetual movement.
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:1234:</sup>&nbsp;<sub>Theory and rules limit moves to 5949 with prevailing numbers on practice far below fivescore</sub>
+Playing chess is predictably finite<sup>:1234:</sup>, while any initiative may unleash the figures, _8x8_ layout, or time control and result in perpetual movement.\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:1234:</sup>&nbsp;<sub>Theory and rules limit moves to 5`949 with prevailing numbers on practice far below fivescore.</sub>
 
 Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to maintain and output an archive of all known tournaments.
 
 ---
 
-## Mathematics
+## Math
 
-, 
 <p dir=rtl>,If numbers aren't beautiful<br />.I don't know what is<br ><i><b>Paul Erdos</b> (1913-1996)<br />ultra-mathematician</i></p>
 
 The study of logic and **math** with its formalism has predetermined programming. As hardware could run decent algebra instructions low and high-level languages on it could render fundamental mathematical functions for programmers.
@@ -93,11 +91,12 @@ Actions vary from simple (flip, rotate) to highly processed retouching or effect
 ;In physical terms, I move through them<br />
 ,yet in metaphysical ones<br />
 .they seem to move through me<br />
-<i><b>John Fowles</b> (1926-2005), [post]modernist</i></p>
+___________<br />
+<b>John Fowles</b> (1926-2005), <i>[post]modernist</i></p>
 
-Software design asks for "static" bare figures, which makes core models. The preceding samples are more functional ("dynamic") - they have properties and hierarchies but are more demonstrative of processes that change them.
+<ins>First and foremost</ins>, software design asks for "static" bare figures, which make core models. The preceding samples are more functional ("dynamic") &mdash; they have properties and hierarchies but are more demonstrative of processes that change them.
 
-"Static" models can be altered too but first of all they must represent hierarchies, parametrization, and initialization in a demonstrative fashion. 
+"Static" models can be altered and async too, but they must demonstratively represent hierarchies, parametrization, and initialization. 
 One of their custom implementations is available as use-dev➡️ [AbcModels](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels).
 
 ---
