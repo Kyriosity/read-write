@@ -62,7 +62,7 @@ Woodoo fix\
 ### Excess and overlap
 
 Rules of a project may dictate 100% unit test coverage (at least one for an accessible member), and as a rule, this will formalize proofs. The formal test is a kind of `ASSERT 2+2 IS 2*2`<sup>:large_orange_diamond:</sup>.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:large_orange_diamond:</sup>&nbsp;<sub>Please do not take verbatim. Such tests may be justified for floating-point checks.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>:large_orange_diamond:</sup>&nbsp;<sub>Please do not take verbatim. Such tests may be legit for floating-point checks.</sub>
 
 The overlap means that a text _x_ will never pass if there's a test _y_ that fails. 
 

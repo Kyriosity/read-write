@@ -14,7 +14,7 @@ WHAT INTERCEPT's DOES NOT OVERLAP. WHAT COOPERATES do not DEPENDs
 ## Appendix. Undo-Redo as a case study
 
 <picture><img width="50px" alt="&nbsp;Undo-Redo symbol" src="../../../../_rsc/_img/symbols/UnReDo_250px.png"/></picture>
-[Reversible](https://github.com/Kyriosity/use-dev/tree/main/README+/projects/Rvrs)
+[Reversible](https://github.com/Kyriosity/use-dev/tree/main/README+/parts/Rvrs)
 
 
 FRAGMENTATION of ACTION (LONG PAINT)

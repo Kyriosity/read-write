@@ -34,7 +34,7 @@ graph TB
 
 ## Natural born
 
-There were and will be remarkable projects done from scratch without allotted proof and validation measures (let alone code reviews and test automation) but robust from the first release. 
+There were and will be remarkable works done from scratch without allotted proof and validation measures (let alone code reviews and test automation) but robust from the first release. 
 This may (and _may not_) happen in localized high-pro teams of responsible individuals but is an exclusion to underline the must-have of __QA__.
 
 > Writing [quality code](README+/code-quality.md) must be an objective but teams will be uneven, distributed/fluctuating, and stressed. Add the human nature to sweep problems under the carpet - quite big and thick in the software.

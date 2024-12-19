@@ -3,7 +3,7 @@
 <p dir="rtl">?<i>Need to write fast, catching, and pro<br>.Hire a ghostwriter</i><br />
 [Best author advice]</p>
 
-Some projects, products, and technologies deserve the work of a pen or brush. The rank of such work may be a decision factor Nr&nbsp;1 for the usage of/funding for its subject: either attract or divert for good.
+Certain software products, and technologies deserve the work of a pen or brush. The rank of such work may be a decision factor Nr&nbsp;1 for the usage of/funding for its subject: either attract or divert for good.
 
 Technical authoring lies between documentation and literature and must have an artistic feel, rich vocabulary, and allure of the latter in frames of technical topics.
 
