@@ -6,10 +6,9 @@ It's not a strict study but observation and bookmarks.
 
 ### Apathy
 
-QA doesn't deliver and thus is the first item to be spared individually, by the customer, by a team, or by a department.
+QA doesn't deliver and thus is the first item to be spared individually, by the customer, by a team, or by a department. Perhaps this passes or with less luck may be nominated to the ten most disastrous bugs (at least of the department). 
 
-Perhaps this passes or with less luck may be nominated to the ten most disastrous bugs (at least of the department). 
-Opportunistic quality issues co-exist unnoticeably for decades (as unfunctional 125% or 150% scaling in many mobile apps).
+Non-critical features may be neglected for years - don't expect all popular mobile apps to support 125%, 150%, and 200% scaling. Localization of enough applications may be for 
 
 ###  Formality vs. Informality
 
@@ -35,7 +34,13 @@ which will discourage testers from reporting the error or soft-pedal them.
 
 System breaches can be shielded by "Who would ever...". Let's put a curtain on tales.
 
-### Practical
+## Practical
+
+ ### QA for TDD
+
+This means careless development  [Test Driven Development](../../tests/asDrive)
+
+This means careless development with QA in the loop as TDD LINK! and the hope they give fast feedback. This overloads the QA
 
 ### Sandbox
 
@@ -43,11 +48,7 @@ Usual conditions can be too good and stable  Select a bad loc. A must for networ
 
 The easiest recipe is to develop/test applications in [unusual locations](../../../pencraft/README%2B/offtopic/anti-home-office.md).
 
- ### QA for TDD
 
-This means careless development  [Test Driven Development](../../tests/asDrive)
-
-This means careless development with QA in the loop as TDD LINK! and the hope they give fast feedback. This overloads the QA
 
 ## REMEDIES ?
 
