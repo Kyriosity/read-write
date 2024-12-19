@@ -2,7 +2,7 @@
  <td widh="39%">☝️</td><td>This essay treats architecture and design together (as everything over particular and imaginary applications/systems/constructions) while
 <picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
 title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
-, from which this essay derives, discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin adjacent activities</a>.
+ (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin adjacent activities</a>.
  </td></tr></table>
 
 # Architecture and Architects
@@ -25,7 +25,7 @@ ___________<br />
 
 ### much in common...
 
-The architecture of both demands creativity and grants leeway and vast playland for phantasy and missteps, but functional wholes must be defined quickly rather than ripen aesthetic values. Projects in both often begin from sketching on white paper or board.
+The architecture of both demands creativity and grants leeway and vast playland for phantasy and missteps, but functional wholes must be defined quickly rather than ripen aesthetic values. Endeavors in both often begin from sketching on white paper or board.
 
 Both take advantage of the flexible plethora of tools, techniques, and skills. Both must accumulate mainstream and alternate practices and reveal patterns.
 
@@ -94,7 +94,7 @@ Contrary to the building experience programming <ins>disperses the classical fig
 * _lead_/_senior developer_,
 * _consultant_, propagating portfolio of verified solutions to new applications,
 * _tutor_, or _technology evangelist_, proposing blueprints for the solution,
-* "*librarian-navigator*", somebody with the utmost knowledge of the project,
+* "*librarian-navigator*", somebody with the utmost knowledge of the design and code,
 * geeks from _computer science_.
  
 </details>
@@ -112,7 +112,7 @@ Neither _expert_, _Chief Programming Officer_ nor _dev&nbsp;lord_ could match.
 
 > There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of avant practices with strong practical backup. 
 
-And let's salt all this with a bitter reminder that most projects aren't _Pantheon_ but the routine adaptation of requirements to known and tried solutions with quite a decent input of cutting-edge ideas.
+And let's salt all this with a bitter reminder that major software isn't _Pantheon_ but the routine adaptation of requirements to known and tried solutions with quite a decent input of cutting-edge ideas.
 
 <div dir=rtl><samp>"<b>.Smith will suffice</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
 
