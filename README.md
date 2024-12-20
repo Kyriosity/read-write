@@ -2,7 +2,7 @@
     <td width="50%">
       <picture><img src="README+/_rsc/_img/_nav/learn_is_swim.jpg" alt="&nbsp;If to learn is to swim against the current ..." /></picture>
     </td><td width="50%">
-     <a href="README+/software/ArcDeco"><b>SOFTWARE</b></a><br/>
+     <a href="README+/software/ArcDeco"><b>S&thinsp;O&thinsp;F&thinsp;T&thinsp;W&thinsp;A&thinsp;R&thinsp;E</b></a><br/>
      &nbsp;&nbsp;<a href="README+/software/design/"><b>D&thinsp;e&thinsp;s&thinsp;i&thinsp;g&thinsp;n</b></a>&thinsp;<sup>∑</sup>&nbsp;&nbsp;<i>feat.</i>
           <br />
      <!-- -->
@@ -23,7 +23,7 @@
     <!-- -->
      <!--                              P E N C R A F T          --!>
      <!-- -->
-     <a href="README+/pencraft"><b>PENCRAFT</b> PLUS</a>
+     <a href="README+/pencraft"><b>P&thinsp;E&thinsp;N&thinsp;C&thinsp;R&thinsp;A&thinsp;F&thinsp;T</b></a>&nbsp;<sup>∏</sup>
               <br/>
       &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md">&thinsp;<b>Essays</b>&thinsp;</a>&nbsp;🪝<a href="README+/pencraft/README+/memes/README.md">Memes</a>&nbsp;🥨<a href="README+/pencraft/README+/quotes/README.md">Quotes</a>
      </td>
@@ -51,14 +51,4 @@
       <picture><img src="README+/_rsc/_img/_nav/IT_is_waterfall.jpg" alt="&nbsp;... then IT must be a waterfall" /></picture>
      </td>
 </table>
- 
-<!--                             FLAT   A B S T R A C T         --!>
-<details><summary><b><ins>&nbsp;Flat abstract&nbsp;</ins></b></summary>
- &nbsp;
- 🏛️ <a href="README+/pencraft/README+/essays/README+/SW_architect-aTake.md">Architect(ure)</a><br />
- 📀 Bonus track: <a href="README+/pencraft/README+/offtopic/anti-home-office.md">Anti-home-office</a><br />
-
-<br />___________</details>
-
 🔚
-
