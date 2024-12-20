@@ -15,7 +15,7 @@ In documenting sticking to the narrowed vocabulary and cliches is a benefactor, 
 Regardless of missions, any tech writing is an expensive and exhausting exercise and, if not a hobby or bondage, must:
 
 + [x] have a live eager auditorium,
-+ [x] excel other ways of teaching (consider quickly sketched presentation, captured video tutorial, watercooler talks),
++ [x] supercede other ways of teaching (consider quickly sketched presentation, captured video tutorial, watercooler talks),
 + [x] be long-term (updated and evolved).
 
 ## My disclaimer
@@ -23,7 +23,7 @@ Regardless of missions, any tech writing is an expensive and exhausting exercise
 The writings and collections here are ...
 
 * The subject of personal taste, inclination, vision, and fallacies. It's up to you whether to like them or recoil in distaste.
-* The subject of endless editing and rework.
+* The subject of continuous delivery (i.e. endless edit and rework).
 * Some opuses may be in the badly readable state of 🚧draft🐝 (now skip them).
 
 \___________
