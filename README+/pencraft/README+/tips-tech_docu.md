@@ -65,8 +65,9 @@ Ensure that your spell- and grammarcheckers recognize replacements.
 - [ ]  Run spell/grammar check.
 - [ ] Prove internal links
 - [ ] Prove external links for existence
-// much resources degrade to _404_. 
+// much resources degrade with time to _404_. 
 - [ ] check for "hidden" typos as double spaces
+- [ ] SynonymIZE: repeated terms and buzzwords.
 - [ ] ...
 
 ## Wrap up
