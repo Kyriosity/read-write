@@ -23,7 +23,7 @@
     <!-- -->
      <!--                              P E N C R A F T          --!>
      <!-- -->
-     <a href="README+/pencraft"><b>PENCRAFT</b></a>
+     <a href="README+/pencraft"><b>PENCRAFT</b> PLUS</a>
               <br/>
       &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md">&thinsp;<b>Essays</b>&thinsp;</a>&nbsp;🪝<a href="README+/pencraft/README+/memes/README.md">Memes</a>&nbsp;🥨<a href="README+/pencraft/README+/quotes/README.md">Quotes</a>
      </td>
