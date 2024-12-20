@@ -27,23 +27,21 @@
               <br/>
       &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md">&thinsp;<b>Essays</b>&thinsp;</a>&nbsp;🪝<a href="README+/pencraft/README+/memes/README.md">Memes</a>&nbsp;🥨<a href="README+/pencraft/README+/quotes/README.md">Quotes</a>
      </td>
-</tr><tr></tr><tr><td><!--                                                                                C#.NET         --!>
+</tr><tr></tr><tr><td><!--                  C#.NET              --!>
 <a href="README+/.net/"><b>C#<sup>.NET</sup></b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;✖️&nbsp;
 <a href="README+/.net/README+/cs-lacks.md">Lacks</a>&nbsp;➗&nbsp;
  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-malpractice.md">Malpractices</a>&nbsp;➕&nbsp;<a href="README+/.net/README+/cs-feat_underused.md">Underused</a>
- <br /><!--                                                                                     C#  S I D E S and P A R T S         --!>
+ <br /><!--                                                C#  S I D E S and P A R T S         --!>
  &nbsp;&nbsp;<b>♯</b>&nbsp;<b>S&thinsp;i&thinsp;d&thinsp;e&thinsp;s&thinsp;/&thinsp;P&thinsp;a&thinsp;r&thinsp;t&thinsp;s</b>
    <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/parts/cs-lacks-parts.md">Nice to have</a>&nbsp;➖&nbsp;<a href="README+/.net/README+/parts/cs-feat_shadow.md">In shadow</a><br/>
-      <!-- -->
      <!--                               WPF          --!>
-     <!-- -->
   &nbsp;&nbsp;🪟&nbsp;<a href="README+/.net/README+/wpf"><b>W&thinsp;P&thinsp;F</b></a>
  <br/><br/><kbd>Closer to code</kbd><br/>
   &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-hints.md">Hints</a>&nbsp;➡️&nbsp;
- <a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/patterns">Patterns</a>
+ <a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/techniques">Patterns</a>
  <br />
  &nbsp;&nbsp;&nbsp;<a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames">Frames</a>&nbsp;↗️&nbsp;
      <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Decisions</a>
