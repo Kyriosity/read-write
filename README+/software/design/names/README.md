@@ -4,7 +4,7 @@
 
 <table><tr valign="top"><td><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
-  <p><b>Denomination of <ins>both</ins> categories and titles is a pivotal but underrated and neglected activity in any blueprint.</b></p>
+  <p><b>Denomination of <ins>both</ins> categories and titles is a pivotal but underrated and neglected activity in any exploration.</b></p>
   <div>In software, names with categories, which smoothly guide through the design and make coding intuitive, are taken for granted,</div>
   <p align="center">o&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</p>
  <p>one wading through the thorns of poorly named and labyrinths of badly categorized code, abatis of docu will curse application complexity, learning curve, technologies used, and fate but at least the naming.
