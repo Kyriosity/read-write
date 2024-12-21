@@ -21,11 +21,11 @@ ___________<br />
 <sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the Ziggurat of Ur and Egyptian Pyramids suggest (but Stonehenge refutes).</sub>
  </td></tr></table>
 
-## Part&nbsp;I. Software vs. Building 
+## Part&nbsp;I. Software _vs._ Building 
 
 ### much in common...
 
-The architecture of both demands creativity and grants leeway and vast playland for phantasy and missteps, but functional wholes must be defined quickly rather than ripen aesthetic values. Endeavors in both often begin from sketching on white paper or board.
+The architecture of both demands creativity and grants leeway and vast playland for phantasy and missteps, but functional wholes must be defined quickly rather than ripen aesthetic values. Endeavors in both often begin from sketching on white paper or chalkboards.
 
 Both take advantage of the flexible plethora of tools, techniques, and skills. Both must accumulate mainstream and alternate practices and reveal patterns.
 
@@ -83,9 +83,8 @@ Software is the most automated production where copying, scaling, installation, 
 Contrary to the building experience programming <ins>disperses the classical figure of the architect</ins> allowing and demanding from **everybody** to **efficiently** <mark>zoom IN</mark> implementation details and <mark>zoom OUT</mark> concepts (up to top architecture).<sup>🔎</sup>
 
 > **This assumes neither parity nor full inside of each technology and methodology.**&#8287;
-> The bigger the project, the bigger the vertical↕️ and horizontal↔️ and offsets of team members according to skills, talents, experience, and preferences with or without roles exchange.\
-> &nbsp;
-> ( ↕️ between coding and design; ↔️ within the technologies stack) 
+> The bigger the project, the bigger the vertical&varr; and horizontal&harr; offsets of team members according to skills, talents, experience, and preferences with or without roles exchange.
+> <div align="center">( &varr; between coding and design; &harr; within the technologies stack)</div>
 
 <details><summary><ins>&nbsp;"Architect" is often an alias or umbrella term for good known roles and duties:&nbsp;</ins> ➡️</summary>
 
@@ -107,10 +106,10 @@ This makes up the software architecture &mdash; a synergy of collective and best
 
 **Reputable software providers hire/promote architects; they are central figures at IT events. There's certification after all.**
 
-Above all, *software architect* sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup><sup>👩‍👦‍👦</sup>, and impresses managers, customers, and stakeholders.&#8287;
-Neither _expert_, _Chief Programming Officer_ nor _dev&nbsp;lord_ could match.
+Above all, **_software architect_** sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup>, and impresses managers, customers, and stakeholders.&#8287;
+Neither <ins>_expert_</ins>, <ins>_Chief Programming Officer_</ins> nor <ins>_dev&nbsp;lord_</ins> can match.
 
-> There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of avant practices with strong practical backup. 
+> There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of avant practices with strong practical backup.<sup>👩‍👦‍👦</sup>
 
 And let's salt all this with a bitter reminder that major software isn't _Pantheon_ but the routine adaptation of requirements to known and tried solutions with quite a decent input of cutting-edge ideas.
 
@@ -119,7 +118,7 @@ And let's salt all this with a bitter reminder that major software isn't _Panthe
 \___________
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom IN/OUT</mark>" from [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64)
-<sup><picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture></sup> of thrivingtechnologist.com (who stands out as _architect_ - how ungrateful i am)</sub>\
+<sup><picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture></sup> of thrivingtechnologist.com (who stands out as _architect_ - am i ungrateful?)</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of C#.NET in Microsoft are titled _architects_ or _leads_ but all of them show strong coding skills at presentations.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes guaranteed by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu).</sub>
