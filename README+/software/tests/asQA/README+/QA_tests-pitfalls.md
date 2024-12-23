@@ -8,9 +8,9 @@ This is the continuation of [QA Pitfalls](../../../QA/README+/QA-pitfalls.md)
 
 ## Conceptual
 
-### OVERESTIMATE SYN0 of programming and automation
+### Redundant coding and automation
 
-Not every test automation will pay off. Not every test should/could be written in code. Furthermore, not every test must be formulated in steps.
+Not every test should/could be written in code. Not every test automation will pay off. Furthermore, not every test must be formulated in steps.
 
 UI tests are a protruding example but atop of other specific, badly formulated, and irregular tests.
 
@@ -78,4 +78,5 @@ Would you admit such a name in the code? Why should it be in the test classes?
 
 The tests, which somehow concern performance, connections, communication, proof of smoke, 
 
+\___________\
 ⏲️... TO BE CONTINUED ... 🚧

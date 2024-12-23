@@ -26,23 +26,32 @@ Test-driven Development, fine for discourses, bootcamps, and `classes`, and enco
 
 <details><summary><ins><b>&nbsp;This shadow of doubt was from the <samp>RISING</samp> RIDGE, dividing syntax and implementation behind it:&nbsp;</b></ins></summary>
 
-<picture><img src="../../../../_rsc/_img/illus/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture>
+<div align="center"><picture><img src="../../../../_rsc/_img/illus/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture></div>
 
 </details>
 
-<table><tr><td>DES</td><td>DEV</td></tr><tr>
+<table><tr><td width="50%" align="center"><b>🧪 Test ⚙️ DESIGN</b> Δ </td><td align="center">🧪 <b>Test</b> ⚙️ <b>DEVELOPMENT</b> δ</td></tr><tr>
    <td>what to develop</td><td>how to implement</td>
-</tr><tr><td>
+</tr><tr valign="top"><td>
    <ul>
       <li>grope concepts and get a hands-on feeling on subjects (all the same: bookkeeping artifacts or superhero <i>ViewModel</i>),</li>
       <li>vitalize skeleton functionality, evaluate trends and risks,</li>
       <li>couple design fantasies with the tech-stack materiality,</li>
       <li>evaluate and pick more suited libraries, frameworks, and, in some cases, languages/platforms,</li>
       <li>discuss ideas, naming, and logic with consultants and users.</li>
+      <li>combilable syntax is already a test pass</li>
+      <li>tests can remain as demo and serve as a frame of documentation</li>
    </ul>
    </td>
-   <td>The purpose of TDD is in no way test automation but means to:</td>
-</tr></table>
+   <td>The purpose of TDD is in no way test automation but means to:
+   <ul>
+      <li>provide design of classes</li>
+     <li>granulate dev items and functions</li>
+      <li>define failing implementation</li>
+      <li>fill design with working functionality and its alternatives</li>
+      <li>layout the print of test coverage</li>
+   </ul>
+</td></tr></table>
 
 ### Test Driven Design
 
@@ -52,7 +61,6 @@ These tests and the code behind them must intensively utilize doubles (mocks, du
 
 Use of the test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).
 
-
 CAN BE INDEPENDENT - YES, CAN BE COMMITING - NO, OVERLAP - NOT MUCH?
 
- 🔚 &nbsp;🌘 kyriosity 2024...
+ <div align="center">🔚 &nbsp;🌘 ... kyriosity 2024...</div>

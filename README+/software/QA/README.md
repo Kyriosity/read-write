@@ -1,11 +1,11 @@
 # Software &mdash; Quality Assurance (QA)
 
-<table><tr><td>
+<table><tr valign="top"><td width="42%">
  <p>Software is pure abstraction ether.</p>
- <div>Frivolous, fleeting, and exponential spirit makes the programming inherently and largely</div>
+ <p>Frivolous, fleeting, and exponential spirit makes the programming inherently and largely</p>
  <div align="center"><b><samp>E&thinsp;R&thinsp;R&thinsp;O&thinsp;R&thinsp;-&thinsp;p&thinsp;r&thinsp;o&thinsp;n&thinsp;e</samp></b></div>.
-</td><td><picture><img alt="&nbsp;Bug &amp; Compass" src="../../_rsc/_img/signs/bugs/bug_in_flask-pencil-250px.jpg" /></picture></td><td>
-When breaking changes are as close as fingers to the keyboard, commits can be rolled back, and there's always a gap until delivery to production (for last-minute fixes or bug introduction) software is 
+</td><td><picture><img alt="&nbsp;Bug &amp; Compass" src="../../_rsc/_img/signs/bugs/bug_in_flask-pencil-250px.jpg" /></picture></td><td width="42%">
+<p>When breaking changes are as close as fingers to the keyboard, commits can be rolled back, and there's always a gap until delivery to production (for last-minute fixes or bug introduction) software is </p>
 <div align="center"><b><samp>Q&thinsp;A&thinsp;-&thinsp;f&thinsp;a&thinsp;t&thinsp;e&thinsp;d&thinsp;.</samp></b></div>
 </td></tr></table>
 
