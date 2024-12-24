@@ -49,4 +49,4 @@
       <picture><img src="README+/_rsc/_img/_nav/IT_is_waterfall.jpg" alt="&nbsp;... then IT must be a waterfall" /></picture>
      </td>
 </table>
-🔚
+🔚 ... if bored with the navigation begin with <a href="README+/pencraft/README+/essays/README.md">Essays</a> ...
