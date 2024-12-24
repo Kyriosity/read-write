@@ -5,20 +5,25 @@
 # Rationale
 
 <details><summary><ins>&nbsp;&nbsp;&nbsp;A metaphor you may skip&nbsp;</ins>&nbsp;...</summary>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... but, thanks, you've clicked.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... but (thanks) you've clicked.
 
 <p dir="rtl">A cherry-picked <b>metaphor</b><br />.simplifies explanation<br />(.At times even for readers)</p>
 
 <table><tr valign="top"><td><p><b>Figure of chess is a universal figure of speech...</b><sup>♟️</sup></p>
   <p><img alt="&nbsp;IT chess phantasy" src="../../../../_rsc/_img/illus/ChessIT.jpg" /></p>
-<div dir="rtl"><sub>or I'm boring and unimaginative to&nbsp;&#8230;&nbsp;</sub><sup>♟️</sup><br><sub>.propose better and smarter analogies</sub></div></td><td>
-<p>♕♛ Learning the basics of programming and the rules of the checkered strategy are both fast and attainable for the masses. 
+<div dir="rtl"><sub>or I'm boring and unimaginative to&nbsp;&#8230;&nbsp;</sub><sup>♟️</sup><br><sub>.propose better and smarter analogies</sub></div>
+  <br /><br /></bre><blockquote><b>Who is the opponent in software?</b><br />
+  Not a customer, a manager, or a user.<br />The development!</blockquote>
+</td><td>
+<p>♕♛&nbsp;Learning the basics of programming and the rules of the checkered strategy are both fast and attainable for the masses. 
 Starting programming resembles games of neophytes: <i>blitz</i> (wins follow fails), fun, and visibly improving.</p>
 
-<p>♖♜ Understanding and learning principles and check patterns will prevent blunders but not positional traps of better opponents.<br />
+<p>♖♜&nbsp;Understanding and learning principles and check patterns will prevent blunders but not positional traps of better opponents.<br />
 In like manner, a keen junior will soon write good pieces of code but shaky solutions.</p>
 
-<p>♘♞ Then the perception of combinatory vastness and the need to think in several moves lifts the curtain of first naive impressions.<br />
+<p>♗♝&nbsp;Chess openings rest on studied memorized decisions and strong theory. In software, it means IT education, selection of platforms, frameworks, and external parts, when experimentation and creativity are abnormal</p>
+
+<p>♘♞&nbsp;Then the perception of combinatory vastness and the need to think in several moves lifts the curtain of first naive impressions.<br />
 "Moves" in software are multilevel projections over digits and their calculations with enormous space <code><b>&gt;</b>&thinsp;8x8</code> for phantasies and alternative solutions.</p>
 
 <p>To rise to a higher rank requires a "binocular" of passion and a "torch" of theory. The number of games or written applications won't break the ceiling.<sup>👑</sup></p>
