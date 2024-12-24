@@ -6,7 +6,7 @@ You must be reading now from a repository on _**Git**_&thinsp;<sup>:octocat:</su
 
 ## Good organization
 
-The customers/users perspective - "not _how_ but _what_ matters" - draws a crucial dividing ridge: **either** organization serves development, **or** _vice versa_.
+The customers/users perspective &mdash; <ins>&thinsp;not **_how_** but **_what_** matters&thinsp;</ins> &mdash; draws a crucial dividing ridge: **either** organization serves development, **or** _vice versa_.
 
 Commendable organization endows every process/measure with an exact explanation of how it facilitates development, spares resources, ensures quality, and automates routines. (Not because it's on trends or in chosen methodology.)
 
@@ -31,7 +31,7 @@ Commendable organization endows every process/measure with an exact explanation 
 
 ## Wrap up
 
-DevOps grew from primitive file check-in/out to cloud solutions<sup>☁️</sup>, and now claims to use neural networks and <samp>LLM</samp>. However, as described in [my "Lotus" notes](../../pencraft/README+/essays/README+/LN-view.md) simple and sound tools still can do the job.
+DevOps grew from primitive file check-in/out to cloud solutions<sup>☁️</sup>, and now claims to use neural networks and <samp>LLM</samp>. However, as mentioned in my ["Lotus notes"](../../pencraft/README+/essays/README+/LN-view.md) simple and sound tools still can do the job.
 
 How? No methodology, organisation, and automation can beat _the laissez-faire_ of responsible craftsmen inclined to win-win.
 
