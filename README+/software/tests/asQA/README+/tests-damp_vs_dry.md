@@ -1,6 +1,6 @@
 # Programmatic Tests &mdash; DAMP not DRY
 
-<table><tr><td><p>Either <a href="../../asDrive">TDD</a> or <a href="../../asQA">proof</a> of the provided code, <b>a conventional approach</b> is to</p>
+<table><tr><td><p>Either <a href="../../asDrive">TDD<sup>e<b>V</b></sup></a> or <a href="../../asQA">proof</a> of the provided code, <b>a conventional approach</b> is to</p>
     <ul>
         <li>pick a software <b>entity</b> (class, function, or something else),</li>
         <li>consider a significant <b>use case</b> of it,</li>
@@ -14,13 +14,17 @@
 Developing tests this way shall (☝🏼 no warranty) wrap features in pleasing _<b>D</b>escriptive <b>A</b>nd <b>M</b>eaninigful <b>P</b>hrases_ (_abbr._ <mark>&thinsp;<b>D&thinsp;A&thinsp;M&thinsp;P</b>&thinsp;</mark>).\
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario) that wrap tests into phrases, which not only programmers but sane people can comprehend.</sub>
 
-Needless to point out the virtues of this approach but one great flaw: <ins>&nbsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins> &mdash; fermented by the number of test cases, rows of test data (and their combinations), re-testing of common functionality, and repeating steps for alternative actions or different asserts.
+Needless to point out the virtues of this approach but one great flaw: <ins>&thinsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins>&thinsp;, fermented by
+
+* the number of test cases, rows of test data (and their combinations),
+* re-testing of common functionality,
+* repeating steps for alternative actions or different asserts.</p>
 
 <table><tr><td><picture><img alt="&nbsp;Black box of test (not of application)" src="../../../../_rsc/_img/memes/ItTestsSmth.jpg" /></picture>
 </td><td>
-<p>Developing tests this way will create a sound core, describing the application (some documentation still required) and proving code essentials.</p>
+<p>The basic layout will create a sound core, proving code essentials and describing the application (some documentation still required).</p>
 <p>However adding more tests will slightly but steadily dissolve this core into a badly exorbitant maintainable bulk. With scrappy coverage, accumulated negligence, and impeded navigation.</p>
-    <p>The refactoring counterblast is <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> (<i><b>D</b>on't <b>R</b>repeat <b>Y</b>ourself</i>).</p>
+    <p>The refactoring counterblast is to <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> (<i><b>D</b>on't <b>R</b>repeat <b>Y</b>ourself</i>).</p>
 </td></tr></table>
 
 # DRY it - A<samp>RRANGE</samp>
@@ -59,7 +63,7 @@ Whether for strictly or weakly typed languages the same argument value may appea
 
 Many languages support generic types, which a test method may discern.
 
-[Phys/Math tests](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/FuncStore.Convers.Tests/PhysMath) in custom <code></b>C#</b> funcware</code> utilize such a technique for numeric values.
+🧪[Phys/Math tests](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/FuncStore.Convers.Tests/PhysMath) in custom <code></b>C#</b> funcware</code> utilize such a technique for numeric values.
 
 ## Solutions/Workarounds
 
@@ -76,7 +80,7 @@ What known frameworks and less known workarounds can do is the subject of the re
 
 If *Arrange* could be the **X** axis of extension then *Assert* must be **Y**. (It looks so on the screen.)
 
-## Keep It Single. Or Multiple?
+## Keep It Single... Or Multiple?
 
 The widely adopted practice &mdash; one *Assert* per test method/test case &mdash; became the teaching and often a written rule.
 
@@ -92,10 +96,13 @@ Such a salute will hardly provide a clue but rather hide it in dependencies - in
 <details><summary><ins>&nbsp;History teaches us that one failure might be enough to know...&nbsp;</ins></summary>
     
 > An anecdote tells us about **Napoleon** enraged by the silence of cannons on a flank.\
-A summoned general was eager to recount seven reasons, he knew, but was shortly interrupted with 
-«Already one is more than enough for me».
+A summoned general was eager to recount seven reasons, he knew, but was shortly interrupted with\
+<samp>«Already one is more than enough for me».</samp>
+>
+> The same Albert Einstein replied to "One Hundred Authors Against Einstein", 1931:\
+> <samp>"If I were wrong, it would only take one."</samp>
 
-\___________</details>
+</details>
 
 ### Normalization
 
@@ -123,11 +130,11 @@ When a mass of tests exceeds the eye's capabilities, it's clever to select the o
 
 Was it all about unit tests? Yes, but it can work for others in the pyramid. Remember that units of tests are elusive and there's no distinct division.
 
-Does DRY apply to Test Driven Design? Yes, but constraint by DAMP as its main motive.
+Does DRY apply to Test Driven Design? Yes, but very constrained by DAMP as its main motive.
 
 ### Bottom line
 
-When covering existing code you shall find out the repetitions to group. The opposite is for **Test Driven Development**: think in test unions prior.<sup>🙋</sup>
+When covering existing code you shall find out the repetitions to group. The opposite is for **Test Driven Development**: think in test unions prior.
 
 \___________\
-🔚 <sup>🙋</sup> <sub>I do a better explanation one day.</sub>
+🔚 
