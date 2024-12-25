@@ -1,5 +1,5 @@
 <table><tr></tr><tr>
- <td widh="39%">☝️</td><td>This essay treats architecture and design together (as everything over particular and imaginary applications/systems/constructions) while
+ <td widh="39%">☝️</td><td>This essay doesn't separate architecture and design (as everything over particular and imaginary applications/systems/constructions) while
 <picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
 title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
  (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin adjacent activities</a>.
@@ -13,7 +13,7 @@ title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nb
   <i>Walhalla</i> on the river Danube, Bavaria (built 1820-1842) is an exemplary neoclassicism.
  </td><td width="65%">
 <p>The essence of architecture appeared as folks managed to erect somewhat more extravagant and durable than a hut of piled branches (beginning from megaliths).</p>
-<p>In ancient history some Hellenes were so good at it that their impressed colleagues coined "<i>architect</i>"<sup>🏛️</sup> - the term romanized to <i>architecture</i> centuries later.</p>
+<p>In ancient times some Hellenes were so good at it that their impressed colleagues coined "<i>architect</i>"<sup>🏛️</sup> - the term romanized to <i>architecture</i> centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &mdash; 
 refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
 <p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. However, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) and architects of détente or <em>economic miracle</em> are compliments (or flattery).</p>
@@ -44,9 +44,9 @@ Both can't rely solely on generations of experience and picked masterminds but o
 <td width="30%"><picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title="&nbsp;AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture>
  <br /><ins>&nbsp;Buiding diagram&nbsp;</ins>
 </td><td>
- <p>Buildings are static, conservative, and traditional &mdash; software is fluid, experimental, reflecting little nostalgia, and with no place for neoclassicism.</p>
+ <p>Buildings are static, conservative, and traditional &mdash; software is fluid, experimental, without a spot for nostalgia as neoclassicism innings.</p>
  <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).</p>
-  <p>Software doesn't rust or erode but gets obsolete in a few years. Decades (pure minimum for wood cabins) set records in residual mainframe software, which won't recur (till interstellar flights).</p>
+  <p>Software doesn't rust or erode but gets obsolete in a few years. Decades (bare minimum for wood cabins) set records in residual mainframe software, which won't recur (till interstellar flights).</p>
  </td>
 </tr></table>
 
