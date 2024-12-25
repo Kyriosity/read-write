@@ -44,7 +44,7 @@ Both can't rely solely on generations of experience and picked masterminds but o
 <td width="30%"><picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title="&nbsp;AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture>
  <br /><ins>&nbsp;Buiding diagram&nbsp;</ins>
 </td><td>
- <p>Buildings are static, conservative, and traditional &mdash; software is fluid, experimental, without a spot for nostalgia as neoclassicism innings.</p>
+ <p>Buildings are static, conservative, and traditional &mdash; software is fluid, experimental, and free of nostalgia (as neoclassicism takes).</p>
  <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).</p>
   <p>Software doesn't rust or erode but gets obsolete in a few years. Decades (bare minimum for wood cabins) set records in residual mainframe software, which won't recur (till interstellar flights).</p>
  </td>
