@@ -5,11 +5,11 @@
 # The Big Picture
 
 <table><tr valign="top"><td width="45%">
-    <p><b>Big thoughts</b> &mdash; <b>big pictures</b>. Shallow, childish, or blurred, plane section or angled, they are better than naked prose and give readers eagle view.</p>
+    <p><b>Big thoughts</b> &mdash; <b>big pictures</b>. Shallow, childish, or blurred, plane section or angled, they are better than naked prose and give readers an eagle view.</p>
     <p>Let's begin with contours, intentionally left without annotations to defy your 3D phantasy.</p>
-    <p>Before we go further, nice if you guess or conjure up the forces and factors (they can not and won't match those, as explained below).</p>
+    <p>Before we go further, it's nice if you guess or conjure up the forces and factors (they can not and won't match those, as explained below).</p>
 </td><td>
-    <picture><img alt="&nbsp;image not found: ArcDeco-BigPict-bare.jpg" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-basic.jpg" 
+    <picture><img alt="&nbsp;image not found: ArcDeco-BigPict-bare.jpg" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-bare.jpg" 
     title="&nbsp;Unannotated forces in multiple dimensions"/></picture>
 </td></tr></table>
 
@@ -19,14 +19,14 @@
 <picture><img alt="&nbsp;image not found: ArcDeco-BigPict-forces_annotated.jpg" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-forces_annotated.jpg" /></picture>
 </td><td>
       <p>The «<b>tearing X and Y axes</b>» in the intro were a two-dimension simplification for a figure of speech.</p>
-    <p>What seems first monolyth will be stretched and squeezed.</p>
+    <p>What seems the first united will be stretched and squeezed.</p>
 </td></tr></table>
 
 </details>
 
 <details><summary><h2><ins>&nbsp;Factors exposed&nbsp;</ins></h2></summary>
 <table><tr valign="top"><td width="45%">
-    <p>Software isn't raised in vacuum and there're agents/external forces:</p>
+    <p>Software isn't raised in a vacuum and there are agents/external forces:</p>
 <p>👯&thinsp;<b>Users</b> - whose wishes you ask direct or get through requirements</p>
 <p>🧑‍💼&thinsp;<a href="../../../mngmnt"><b>Management</b></a> &mdash; who shall facilitate and orchestrate the workflow</p>
 <p>🧪&thinsp;<a href="../../../QA" title="&nbsp;read-write: QA"><b>Quality Assurance</b></a> &mdash; tests</p>
