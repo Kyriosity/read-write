@@ -44,7 +44,7 @@ The motivation was so strong (as you might feel) that many succeeded in the firs
 Between **4️⃣** and **5️⃣** a fellow disciple intruded: shuffling my deck unnoticed. Instead of the graph, I got bad (machine) language printed and a lesson learned about data integrity and security.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🥪</sup> <sub>I wonder how it may look object-oriented. A card glued over the base one to inherit or override?</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🛠️</sup> <sub>Precisionists can definitely treat their occupation as true pure coders.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🛠️</sup> <sub>Precisionists can definitely treat their occupation as true absolute coders.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🏛️</sup> <sub>One who saw mainframes would advocate the name for this huge open space hall with metal cabinets.</sub>
 
 ## Extramural afterword

@@ -56,7 +56,7 @@ _Edgar Frank "Ted" Codd_ 🇬🇧 (**1923**-2003)<sup title="Turing Award, 1981"
 
 _Charles William Bachman III_ (**1924**-2017)<sup title="Turing Award, 1973">🥇</sup> who invented the DBMS and changed the business of GE.
 
-A rare pure engineer among IT founders, and one who visited the White House to receive the National Medal of Technology and Innovation personally from the President.\
+A rare practicing engineer among IT founders, and one who visited the White House to receive the National Medal of Technology and Innovation personally from the President.\
 https://cacm.acm.org/opinion/how-charles-bachman-invented-the-dbms-a-foundation-of-our-digital-world/
 
 #### Seymour Cray

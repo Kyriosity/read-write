@@ -6,7 +6,7 @@ A model may rank from the dumbest `new Brick { w = 20, d = 12, h = 6,5 }` up to 
 
 ## Insight into model data
 
-First and foremost, _model_ is not identical to _data_, it's a vital but optional part. A model may render pure functionality (e.g. input and output of hash calculation).
+First and foremost, _model_ is not identical to _data_, it's a vital but optional part. A model may render clean functionality (e.g. input and output of hash calculation).
 
 Model data can be a homogeneous monolith of primitive data types, as well as distributed and heterogeneous high-level abstraction.\
 Serving not only business or other primary data but may present collateral settings, statistics, roaming, or temporary storage.

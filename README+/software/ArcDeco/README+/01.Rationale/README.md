@@ -15,7 +15,7 @@
   <br /><br /></bre><blockquote><b>Who is the opponent in software?</b><br />
   Not a customer, a manager, or a user.<br />The development!</blockquote>
 </td><td>
-<p>♕♛&nbsp;Learning the basics of programming and the rules of the checkered strategy are both fast and attainable for the masses. 
+<p>♕♛&nbsp;Learning elementary programming and the rules of the checkered strategy are both fast and attainable for the masses. 
 Starting programming resembles games of neophytes: <i>blitz</i> (wins follow fails), fun, and visibly improving.</p>
 
 <p>♖♜&nbsp;Understanding and learning principles and check patterns will prevent blunders but not positional traps of better opponents.<br />

@@ -9,7 +9,7 @@
     <p>Let's begin with contours, intentionally left without annotations to defy your 3D phantasy.</p>
     <p>Before we go further, nice if you guess or conjure up the forces and factors (they can not and won't match those, as explained below).</p>
 </td><td>
-    <picture><img alt="&nbsp;image not found: ArcDeco-BigPict-basic.jpg" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-basic.jpg" 
+    <picture><img alt="&nbsp;image not found: ArcDeco-BigPict-bare.jpg" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-basic.jpg" 
     title="&nbsp;Unannotated forces in multiple dimensions"/></picture>
 </td></tr></table>
 
