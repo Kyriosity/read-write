@@ -40,14 +40,15 @@ System &thinsp;<samp><b>E&thinsp;N&thinsp;L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&
 
 <p align="center"><b><samp>Why doesn't advanced development make the great design by itself?</samp>&thinsp;<sup>🙋</sup></b></p>
 
-Veneer with <ins>rhetorical</ins> vs. <ins>open</ins> <kbd>&thinsp;<samp><b>I&thinsp;S</b></samp>&thinsp;</kbd>, <kbd>&thinsp;<samp><b>W&thinsp;H&thinsp;Y</b></samp>&thinsp;</kbd>, and <kbd>&thinsp;<samp><b>H&thinsp;O&thinsp;W</b></samp>&thinsp;</kbd> **tiles**:
+Veneer with <ins>rhetorical</ins> vs. <ins>open</ins> <kbd>&thinsp;<samp><b>I&thinsp;S</b></samp>&thinsp;</kbd>, <kbd>&thinsp;<samp><b>W&thinsp;H&thinsp;Y</b></samp>&thinsp;</kbd>, and <kbd>&thinsp;<samp><b>H&thinsp;O&thinsp;W</b></samp>&thinsp;</kbd> tiles:
 
 * Is there something supernatural in system design compared to project development?
 * Why is experience rather an inhibitor of rapid development?
-* Why can the code obfuscate lucid domain logic for reviewers?
+* How can the code obfuscate lucid domain logic for reviewers?
 * Why don't bright architecture ideas propagate to development?
 * Why is getting into big projects a headache and dread?
-* Why don't many good design decisions survive and how bad ones rematerialize in next endeavors?
+* Why adapting external solutions may require excessive work?
+* Why don't many good design decisions survive and how do bad ones rematerialize in the next endeavors?
 * Why are developers doomed to repeat decisions and solutions done by others?
 * Why do frankly bad parts of dark code nonetheless fuse to enterprise architecture that works and persists for years?
 * Why could a harmless syntax sugar be delayed for releases as a _breaking change_? 
