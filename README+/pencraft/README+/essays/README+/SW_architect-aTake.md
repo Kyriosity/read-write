@@ -1,5 +1,5 @@
 <table><tr></tr><tr>
- <td widh="39%">☝️</td><td>This essay doesn't separate architecture and design (as everything over particular and imaginary applications/systems/constructions) while
+ <td widh="39%">☝️</td><td>This essay doesn't split architecture and design (as everything over particular and imaginary applications/systems/constructions) while
 <picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
 title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
  (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin adjacent activities</a>.
@@ -121,6 +121,6 @@ And let's salt all this with a bitter reminder that major software isn't _Panthe
 <sup><picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture></sup> of thrivingtechnologist.com (who stands out as _architect_ - am i ungrateful?)</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of C#.NET in Microsoft are titled _architects_ or _leads_ but all of them show strong coding skills at presentations.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes guaranteed by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu).</sub>
 
 <div align="center"><b>.......</b> &nbsp;🔚 &nbsp;🌘 kyriosity 2023-2024&nbsp;&nbsp;&nbsp;<b>.......</b></div>
