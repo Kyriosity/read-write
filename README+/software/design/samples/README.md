@@ -19,7 +19,7 @@ The conventional record of moves allows one to track a finished or in-progress g
 ### Value-action substitution
 
 A game "macro" can be either moves (*actions* that change the board) or alternating board layout (*value*, which moves result). 
-The layout can be reproduced from moves and vice versa, thus mixed notation is also functional (though extraordinary).
+The layout can be reproduced from moves and vice versa, thus mixed notation can also serve (though extraordinary).
 
 ### Multiuser
 
@@ -79,7 +79,7 @@ Maps of pixels range from grayscale thumbnails to giant high-density multi-layer
 
 ### Changes
 
-Changes on canvas differ from unique artistic strokes to strict functions and may apply to the whole image, its masked parts, selected colors, or layers. 
+Changes on canvas differ from unique artistic strokes to strict procedures and may apply to the whole image, its masked parts, selected colors, or layers. 
 Actions vary from simple (flip, rotate) to highly processed retouching or effects.
 
 ---
@@ -94,7 +94,7 @@ Actions vary from simple (flip, rotate) to highly processed retouching or effect
 ___________<br />
 <b>John Fowles</b> (1926-2005), <i>[post]modernist</i></p>
 
-<ins>First and foremost</ins>, software design asks for "static" bare figures, which make core models. The preceding samples are more functional ("dynamic") &mdash; they have properties and hierarchies but are more demonstrative of processes that change them.
+<ins>First and foremost</ins>, software design asks for "static" bare figures, which make core models. The preceding samples are more in motion ("dynamic") &mdash; they have properties and hierarchies but are more demonstrative of processes that change them.
 
 "Static" models can be altered and async too, but they must demonstratively represent hierarchies, parametrization, and initialization. 
 One of their custom implementations is available as use-dev➡️ [AbcModels](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels).

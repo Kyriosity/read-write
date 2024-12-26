@@ -48,7 +48,7 @@ Test-driven Development, fine for discourses, bootcamps, and `classes`, and enco
       <li>provide design of classes</li>
      <li>granulate dev items and functions</li>
       <li>define failing implementation</li>
-      <li>fill design with working functionality and its alternatives</li>
+      <li>fill design with working code and its alternatives</li>
       <li>layout the print of test coverage</li>
    </ul>
 </td></tr></table>

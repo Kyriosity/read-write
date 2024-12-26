@@ -18,7 +18,7 @@ Getting started with testing is a no-brainer:
 + The start requires a **minimum** - knowing a programming language.
 + Popular and mostly free **frameworks** and auxiliaries unleash the writing and provide templates, test doubles, and device simulation.
 
-Tests can be written in the same or other programming language as their subject, even without a framework. (A bare call to a function/method/proc with none or some arguments and log/throw an error if the result doesn't match expectations.)
+Tests can be written in the same or other programming language as their subject, even without a framework. (A bare call of a method or property with none or some arguments and log/throw an error if the result doesn't match expectations.)
 
 <p align="center"><b>Programmatic range is still too wide and here is the principal branching:</b></p>
 <table><tr><td>

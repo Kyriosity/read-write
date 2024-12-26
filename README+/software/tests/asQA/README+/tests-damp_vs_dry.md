@@ -2,7 +2,7 @@
 
 <table><tr><td><p>Either <a href="../../asDrive">TDD<sup>e<b>V</b></sup></a> or <a href="../../asQA">proof</a> of the provided code, <b>a conventional approach</b> is to</p>
     <ul>
-        <li>pick a software <b>entity</b> (class, function, or something else),</li>
+        <li>pick a software <b>entity</b> (class, method, or something else),</li>
         <li>consider a significant <b>use case</b> of it,</li>
         <li>and write a <b>test method</b> over this.</li>
     </ul>
@@ -43,9 +43,9 @@ graph TD
 ### Dimensional growth
 
 * Miscellaneous sets of arguments (or test data) or even their order/combinations can make a difference.
-* External settings may be an alternative.
-* Different features and functions will not repeat themselves but have the same effects to test\
-(especially error-proof)
+* External settings may have alternatives.
+* Different features and methods will not repeat themselves but have the same side-effects to test\
+(especially for error-proof)
 * Possible vital <ins>test doubles</ins> for _Asserts_ and _Acts_ are subjects of tests (sometimes the first to show up).
 * Abuse of _Asserts_ and _Acts_ (as nulls or invalid values/calls) must be tested for error handling.
 

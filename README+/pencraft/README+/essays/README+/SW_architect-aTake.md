@@ -25,7 +25,7 @@ ___________<br />
 
 ### much in common...
 
-The architecture of both demands creativity and grants leeway and vast playland for phantasy and missteps, but functional wholes must be defined quickly rather than ripen aesthetic values. Endeavors in both often begin from sketching on white paper or chalkboards.
+The architecture of both demands creativity and grants leeway and vast playland for phantasy and missteps, but operating wholes must be defined quickly rather than ripen aesthetic values. Endeavors in both often begin from sketching on white paper or chalkboards.
 
 Both take advantage of the flexible plethora of tools, techniques, and skills. Both must accumulate mainstream and alternate practices and reveal patterns.
 

@@ -21,7 +21,7 @@ The prevalent naming is a derivative of the development, which
 ❌ leaves "construction waste" of temporary names, placeholders,\
 ❌ spreads umbrella terms and horizontally swelling folders,\
 ❌ spawns long names and shallow categories (`AddTableReservationInRestaurant(..)`),\
-❌ interferes with existing domain and functional naming,\
+❌ interferes with existing domain and programming naming,\
 ❌ contains jargon and slang.
 
 ### as crucial

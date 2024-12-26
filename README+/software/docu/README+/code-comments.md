@@ -6,7 +6,7 @@
 > **Comments can be eye-catching and essential but signal design inconsistency and poor naming.**
 
 Carefully written code is self-descriptive by nature and needs no epistolary clarification<sup>🙋</sup>, 
-and even abracadabra in _regex_ processors can be broken down into figurative functions and vars. 
+and even abracadabra in _regex_ processors can be broken down into figurative methods and vars. 
 
 Exploring source codes of prominent providers on GitHub or elsewhere you'll find many (if not the majority) of the files there bloated with comments, rehearsing the names of classes, functions, arguments, and properties with preceding copyright header<sup>©️</sup>. Sometimes on purpose to enhance the number of lines contributed.
 

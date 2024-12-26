@@ -42,7 +42,7 @@ Using/defining shortcuts for them in your editors will be fastly rewarded. (Like
 
 ### Helpers
 
-Replacements can be functional and ensure the text layout: <tt>\&nbsp</tt> for non-breakable space, <tt>\&#8209</tt>; for non-breaking hyphen, and so on.
+Replacements can be coded and ensure the text layout: <tt>\&nbsp</tt> for non-breakable space, <tt>\&#8209</tt>; for non-breaking hyphen, and so on.
 
 ### Pictograms / emojis
 

@@ -8,7 +8,7 @@
 - bugs,
 - poor performance,
 - frustrating user experience,
-- missing functionality,
+- missing implementation,
 - concealed elements and features.
 
 ## Specimen
