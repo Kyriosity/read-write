@@ -10,9 +10,8 @@
 |--- [Code Comments](README+/code-comments.md)\
 |--- [Design record](README+/design-record.md)
 
-|- **_Relevant topics_**:\
-|--- [Pencraft](../../pencraft/)
+|- **_Further_**:\
+|--- [**Pencraft**](../../pencraft/)
 
-
-🔚
+🔚 ✒️
 
