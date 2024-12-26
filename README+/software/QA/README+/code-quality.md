@@ -19,7 +19,7 @@ That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`cl
 
 + [x] **reads** in both directions<sup>↔️</sup>,
 + [x] **teaches** techniques and gimmicks,
-+ [x] **inspires** to contribute (<ins>rather than to rewrite</ins>)
++ [x] **inspires** to contribute (<ins>rather than to re-implement</ins>).
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>↔️</sup> <sub>On-boarding developers can learn the domain from code (sure, not alone) while the domain expert (with some assistance) will grasp the implemented application logic.</sub>
 
@@ -44,7 +44,7 @@ less code gives less soil for bugs.
 
 ### Re: Tests 🧪
 
-Test coverage may (and shall) share functionality with or even origin from [Test Driven Development](../../tests/) but is **primarily** intended to mechanically examine software (no matter whether implemented before the subject or postfactum).
+Test coverage may (and shall) share realization with or even origin from [Test Driven Development](../../tests/) but is **primarily** intended to mechanically examine software (no matter whether implemented before the subject or postfactum).
 
 Efficient, ample test coverage allows only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, and performance testing.
 
