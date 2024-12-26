@@ -8,7 +8,7 @@ Before writing from the ground up, I would search and try to adapt the following
 
 Any previous version, description of a similar product, or freeware templates. 
 
-Reading other works may inspire but not for plagiarism.
+Reading other materials may inspire (and not for plagiarism).
 
 ### Requirements
 
@@ -22,7 +22,7 @@ A tracking system may collect and generate documentation with a pleasant degree 
 
 * First and foremost, the less docu covers essentials the better for all (unless the subject deserves its own wiki). 
 * Begin with mindmaps but then apply methodologies to writing (structure, plan, and timeline).
-* **Last but not least**, if you write regularly, contribute to content management tools and templates to facilitate further work for you and others.
+* **Last but not least**, if you author regularly, contribute to content management tools and templates to facilitate further etudes for you and others.
 
 **Further**:\
 |- [Documentation tips](tips-tech_docu.md)

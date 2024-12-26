@@ -50,7 +50,7 @@ Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to m
 
 The study of logic and **math** with its formalism has predetermined programming. As hardware could run decent algebra instructions low and high-level languages on it could render fundamental mathematical functions for programmers.
 
-More specific functions can be found in external libraries and if not are the subject of tailored development: from a casual task for non-mathematicians to scientific work (as some _computer-assisted-proofs_). 
+More specific functions can be found in external libraries and if not are the subject of tailored development: from a casual task for non-mathematicians to scientific thesises (as some _computer-assisted-proofs_). 
 
 * Arguments and results of functions are not only numbers but also compound and highly abstract structures. 
 * A simple or not formula may spare loads of modification storage and still be swift. 

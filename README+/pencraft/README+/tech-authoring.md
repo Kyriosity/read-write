@@ -10,11 +10,11 @@ Technical authoring lies between documentation and literature and must have an a
 For technically smart heads freestyle authoring may seem deceptively easygoing: 
 
 * Tongue is the only tool sharpened in use.
-* Creative work won't produce compilation errors.
+* Creative opus won't produce compilation errors.
 * Illustration is what one learns in early childhood.
-* You shall not invent themes of the work.
+* You shall not invent themes of the writing.
   
-<span title="&nbsp;What You See Is What You Write"><ins>WYSIWYG</ins></span> of the work and rapidity of writing can create square miles of 'pulp'. However noble lines of words are much more sophisticated and painful than excellent code. And a smart reader will notice poor or mediocre style from the very first sight.
+<span title="&nbsp;What You See Is What You Write"><ins>WYSIWYG</ins></span> of the opus and rapidity of writing can create square miles of 'pulp'. However noble lines of words are much more sophisticated and painful than excellent code. And a smart reader will notice poor or mediocre style from the very first sight.
 
 In the decade of LLM-generated content criteria for the good word and syllable are getting stricter.
 
@@ -45,7 +45,7 @@ It's no way about plagiarism - just the opposite. You may find that your idea is
 <table><tr valign="top"><td>
   <picture><img width="250px" alt="&nbsp;Snapshot from the lib" src="../../_rsc/_img/photo/blog/spots/StadtBiblio.jpg" /></picture>
 </td><td>
-  For less or more creative work in both code and word going to a library, picking the right book, looking in them, and returning to your work can be a real booster.
+  For less or more creative activity in both code and word going to a library, picking engaging offtopic books, looking in them, and returning to the own production can be a real booster.
 </td></tr></table>
 
 ## Pitfalls
