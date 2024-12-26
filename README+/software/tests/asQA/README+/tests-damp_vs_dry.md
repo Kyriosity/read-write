@@ -118,7 +118,7 @@ Advanced versions shall deal with _Arrange_ and _Act_ blending and branching but
 
 #### Posers
 
-Normalization doesn't work well with advanced evaluation as [gradual asserts](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/unit_test-gradual_assert.md).
+Normalization doesn't apply well to advanced evaluation as [gradual asserts](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/unit_test-gradual_assert.md).
 
 ### Master cautions
 
