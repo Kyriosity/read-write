@@ -29,7 +29,7 @@ The architecture of both demands creativity and grants leeway and vast playland 
 
 Both take advantage of the flexible plethora of tools, techniques, and skills. Both must accumulate mainstream and alternate practices and reveal patterns.
 
-Imperfect abstraction work and planning can make both a mess which products loudly crash. Abuse of both for hollow promises and sandcastles is more frequent than in other industries.
+Imperfect abstraction and planning can make both a mess which products loudly crash. Abuse of both for hollow promises and sandcastles is more frequent than in other industries.
 
 Both can't rely solely on generations of experience and picked masterminds but on a team of professionals and pundits (with a hierarchy or not).
 
@@ -57,7 +57,7 @@ Contrariwise, months of upfront planning and prototyping are adverse to software
 Software is the most automated production where copying, scaling, installation, and updates are one-click (or few, or scheduled) and unattended. 
 
 <table><tr valign="top"><td>
- <p>A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the work and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
+ <p>A construction engineer, whose modeling tasks are interlaced with stirring concrete, who is up and there on the spot to supervise the progress and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
 ... must be a fantastic creature &mdash; but a usual Jack-of-all-trades in software teams where construction places are open 🕙24x7 💻laptop.</p>
   <p>Building education and  activities are very narrow and regulated (also legally). IT indulges formalities of schooling.</p>
  </td><td width="30%">
