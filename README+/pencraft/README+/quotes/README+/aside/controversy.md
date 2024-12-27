@@ -3,18 +3,18 @@
 > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.\
 [Linus Torvalds](../contributors/README.md#Linus-Torvalds)
 
-Master _Torvalds_ could have meant renowned open-source contributors, but most smart guys in IT are for and because of wages and it never was fun in commercial development.
+Master _Torvalds_ could have meant renowned open-source contributors, but most smart guys in IT are for and because of wages and it never was a fun in commercial development.
 
 ### Maternity ward
 
 >  Everyone knows it takes a woman nine months to have a baby. But you Americans think if you get nine women pregnant, you can have a baby in a month.\
 _Theodore von Kármán_ (1957)
 
-It matched a private aviation engineering talk but [Fred Brooks](../contributors/README.md#Fred-Brooks) popularized the phrase in his [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)<sup><b>w</b></sup>:
+It suited a private aviation engineering talk but [Fred Brooks](../contributors/README.md#Fred-Brooks) popularized the phrase in his [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)<sup><b>w</b></sup>:
 
 > The bearing of a child takes nine months, no matter how many women are assigned.
 
-Not only derogatory but illogical. Finding nine women in the vicinity who will deliver even **ten** babies in half a month is an ordinary search. (Finding expert developers who can save a failing project is a question of payment.) 
+Derogatory and illogical. Finding nine women in the vicinity who will deliver even **ten** babies in less than a month is a fast linear search. (Finding expert developers who can save a failing project is a question of payment.) 
 
 [Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra) conveyed the idea much more plausible (albeit about programming languages, 1975):
 
@@ -39,7 +39,9 @@ Attributed to [Gerald Weinberg](../contributors/README.md#Gerald-Weinberg)
 
 Knowing the high-responsibility software in which Mr.&nbsp;Weinberg participated one would strongly doubt his authorship. Unless it was a sheer joke.
 
-Despite all epic failures, software, on which our life depends, is extremely robust and, contrary, made the world safer (50K daily civil aviation flightsfor example). The aphorism shall better be: "If the software is built like houses, updates will be pending for decades."
+Despite all epic failures, software, on which our life depends, is extremely robust and, contrary, made the world safer (consider IT behind 50'000 daily civil aviation flights). 
+
+The aphorism shall better be: "If the software is built like houses, updates will be pending for decades."
 
 ### Languages
  
