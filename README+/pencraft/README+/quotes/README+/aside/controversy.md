@@ -1,4 +1,4 @@
-# Quotes - Backshelve - Controversy
+# Quotes &mdash; Backshelve &mdash; Controversy
 
 > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.\
 [Linus Torvalds](../contributors/README.md#Linus-Torvalds)
@@ -14,7 +14,7 @@ It suited a private aviation engineering talk but [Fred Brooks](../contributors/
 
 > The bearing of a child takes nine months, no matter how many women are assigned.
 
-Derogatory and illogical. Finding nine women in the vicinity who will deliver even **ten** babies in less than a month is a fast linear search. (Finding expert developers who can save a failing project is a question of payment.) 
+Derogatory and illogical. Finding expert developers who can save a failing project ASAP is a question of payment. (Like Finding nine women in a city who will deliver even **ten** babies in less than a month is a fast linear search.) 
 
 [Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra) conveyed the idea much more plausible (albeit about programming languages, 1975):
 
@@ -25,9 +25,15 @@ Derogatory and illogical. Finding nine women in the vicinity who will deliver ev
 ## Idealism
 
 > **Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.** Code for readability.\
-_John F. Woods_, 1991
+_John F. Woods_, /comp.lang.c++/, 1991
 
-This accidental quote in a newsgroup (comp.lang.c++) became one of the most cited in IT (oft for fun). Idealistic "always", if taken seriously, stamps [quality code](../../../../../software/QA/README+/code-quality.md) as impossible (that is harmful and wrong).
+This accidental quote in a newsgroup became one of the most cited in IT (oft for fun). Unrealistic "always" demotivates aspiration to [quality code](../../../../../software/QA/README+/code-quality.md) (harmful and wrong).
+
+
+> **Software is Art.**\
+(Eavesdropped from a Product Owner)
+
+It is pleasing but barely real - there are no galleries of Old Masters with Algol listings.
 
 ## Bitter words
 
@@ -41,7 +47,7 @@ Knowing the high-responsibility software in which Mr.&nbsp;Weinberg participated
 
 Despite all epic failures, software, on which our life depends, is extremely robust and, contrary, made the world safer (consider IT behind 50'000 daily civil aviation flights). 
 
-The aphorism shall better be: "If the software is built like houses, updates will be pending for decades."
+The aphorism shall better be: "If the software was built like houses, custom projects would be a luxury."
 
 ### Languages
  

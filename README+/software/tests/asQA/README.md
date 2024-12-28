@@ -14,7 +14,7 @@ Writing tests in the language of their subjects is natural, practical, and facil
 - Some languages (SQL) or markup (HTML) aren't suited to describe tests or are too obsolete (mostly to be maintained).
 - A domain may be written in a set of languages, or similar requirements implemented with different tools (e.g. JavaScript for front- and Java for backend).
 
-Solution? Any popular language has some mainstream frameworks. As well many frameworks allow tests of UI and modules written in any language.<sup>🏛️</sup>\
+Solution? Any popular language has some mainstream frameworks. Many frameworks also allow UI tests and modules written in any language.<sup>🏛️</sup>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🏛️</sup> <sub>E.g. even old and rare languages got test support as fastly found for reference [cobol-check](https://github.com/openmainframeproject/cobol-check).</sub>
 
 ## Automation
@@ -24,6 +24,10 @@ Solution? Any popular language has some mainstream frameworks. As well many fram
 ## Down to the practice
 
 The more pragmatic use-dev repo discusses and renders [tests stuff](https://github.com/Kyriosity/use-dev/tree/main/README+/tests).
+
+## Poststriptum. Big problem and challenge
+
+With all the benefits of the proof coverage and TDD<sup>eV</sup>, tests make a second project requiring development and maintenance. 
 
 \___________\
 🔚 ... but [README+](README+) ...

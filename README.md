@@ -9,13 +9,13 @@
      <!--                               NAMES, DRIVES, SAMPLES          --!>
      <!-- -->
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/design/names">Names</a>&thinsp;⚙️&thinsp;
-      <a href="README+/software/design/drive/">Drives</a>&thinsp;➰&thinsp;<a href="README+/software/design/samples">Samples</a><br/>
+    <a href="README+/software/design/drive/">Drives</a>&thinsp;➰&thinsp;<a href="README+/software/design/samples">Samples</a><br/>
      <!-- -->
      <!--                               QA and TESTS          --!>
      <!-- -->
      &nbsp;&nbsp;<a href="README+/software/QA/"><b>Q&thinsp;A</b></a>&thinsp;&nbsp;⊃&thinsp;⊂&nbsp;<a href="README+/software/tests/"><b>T&thinsp;e&thinsp;s&thinsp;t&thinsp;s</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i>
      <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a>&nbsp;&nbsp;🧪&thinsp;<a href="README+/software/tests/asQA/README+/tests-damp_vs_dry.md">D<samp>AMP</samp>⚔️D<samp>RY</samp></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/QA/README+/code-quality.md">Code quality</a>&nbsp;&nbsp;&nbsp;🧪&thinsp;<a href="README+/software/tests/asQA/README+/tests-damp_vs_dry.md">D<samp>AMP</samp>⚔️D<samp>RY</samp></a>
      <!-- -->
      <!--                               DOCU and ORG          --!>
      <!-- -->
@@ -49,4 +49,4 @@
       <picture><img src="README+/_rsc/_img/_nav/IT_is_waterfall.jpg" alt="&nbsp;... then IT must be a waterfall" /></picture>
      </td>
 </table>
-🔚 ... if bored with the navigation begin with <a href="README+/pencraft/README+/essays/README.md">Essays</a> ...
+🔚 ... if the navigation is too motley start with <a href="README+/pencraft/README+/essays/README.md">Essays</a> ...

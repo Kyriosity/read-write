@@ -1,4 +1,4 @@
-# IT Quotes &mdash; Misinterpreted and misattributed (disputed)
+# IT Quotes &mdash; Misinterpreted, misattributed and disputed
 
 <p dir="rtl"><mark>I never posted even one-tenth of<br/>
 .the garbage they will quote as mine</mark><br/>
