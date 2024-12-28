@@ -29,6 +29,12 @@ _John F. Woods_, /comp.lang.c++/, 1991
 
 This accidental quote in a newsgroup became one of the most cited in IT (oft for fun). Unrealistic "always" demotivates aspiration to [quality code](../../../../../software/QA/README+/code-quality.md) (harmful and wrong).
 
+
+> **Software is Art.**\
+(Eavesdropped from a Product Owner)
+
+It is pleasing but barely real - there are no galleries of Old Masters with Algol listings.
+
 ## Bitter words
 
 ### QA
