@@ -7,7 +7,7 @@
 
 * <ins>Authoring</ins> is **initiative**, must take a bird's view of the subject, inspire and explain sophisticated and regulated ideas in an abstractive, friendly, and sometimes informal/playful manner.
 
-<ins>Documentation</ins> assumes defined, if not available, subjects (as software applications), while <ins>autoring</ins> may begin with a bare idea. (Many of the renowned oeuvres, such as concepts of relational DBs or REST, were based on "paper" concepts with little or no implementation.)
+<ins>**Documentation**</ins> assumes defined, if not available, subjects (as software applications), while <ins>**authoring**</ins> may begin with a bare idea. (Enough technical oeuvres, such as concepts of relational DBs or REST, were based on "paper" concepts with little or no implementation.)
 
 When it's often a reader's headache to find and study the right <ins>documentation</ins> in any state and grade, with <ins>authoring</ins>, it's a burden of "pensters" to attract the public. 
 
@@ -19,7 +19,13 @@ Regardless of missions, any tech writing is an expensive and exhausting exercise
 + [x] exceed other ways of teaching (consider quickly sketched presentation, captured video tutorial, or watercooler talks),
 + [x] be long-term (updated and evolved).
 
-## My disclaimer
+
+## Side effects of pencraft/brush
+
+Documenting/sketching ideas for even small features mitigates the impedance between the stretch of imagination and implementation reality. 
+Namely, formalization and structuring compel us to reexplore and examine concepts, enhance good sides, and reject unrealistic or meaningless stuff. 
+
+## Appendix. My disclaimer
 
 The writings and collections here are ...
 
