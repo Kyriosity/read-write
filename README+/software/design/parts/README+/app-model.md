@@ -2,7 +2,7 @@
 
 The _Model_, though a rather obscure term, is a cornerstone of software engineering, which shapes and formalizes entities and tasks of the application.
 
-A model may rank from the dumbest `new Brick { w = 20, d = 12, h = 6,5 }` up to a universe of media franchises, from private proof of concept to enterprise solution, bubble sort to 3D engine.
+A model may rank from the dumbest `new Brick { w = 20, d = 12, h = 6,5 }` up to a universe of media franchises, from private proof of concept to enterprise solution, and from bubble sort to 3D engine.
 
 ## Insight into model data
 
