@@ -58,4 +58,4 @@ I couldn't find a better tag but a mocking acronym<sup>🎨</sup> to distinguish
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;new LOB foundation, unfamiliar domains (such as CAD or interpreters), or remakes (original graph base, making async from legacy and dividing modules).</sub>\
 &nbsp;&nbsp;&nbsp;<sup>🎨</sup> <sub>Homonym to __Arc&nbsp;Deco__ - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco) (`är-dā-ˈkō`) with its comeback, ~century after its introduction at the _International Exhibition of Modern Decorative and Industrial Arts_ in Paris.</sub>
 
- 🔚
+ 🔚 <sub>Collage credit: _Alessandro di Mariano di Vanni Filipepi_, _Raffaello Sanzio da Urbino_, _Edvard Munch_, and _Salvador Domingo Felipe Jacinto Dalí i Domènech_</sub>
