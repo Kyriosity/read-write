@@ -47,6 +47,7 @@ It's no way about plagiarism - just the opposite. You may find that your idea is
 </td><td>
   <p>For less or more creative activity in both code and word going to a library, picking engaging offtopic books (better nicely illustrated), looking through them, and returning to the writing can be a real booster.</p>
   <p>Thus occasional rummaging and leafing through <i>Electronic Engineering</i> inspired me with <a href="https://github.com/Kyriosity/use-dev/blob/main/README%2B/techniques/README%2B/circuitry/README.md#why-circuitry">circuitry</a> technique.</p>
+  <p>Some open mathematical books helped me to polish the <a href="essays/README+/SW_architect-aTake.md">Architect(ure)</a>. (Yes, this take could be worse.)</p>
 </td></tr></table>
 
 ## Pitfalls
