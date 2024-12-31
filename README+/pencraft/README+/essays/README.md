@@ -43,4 +43,5 @@
   </tr>
 </table>
 
-🔚 🌔 -2024+ <i>These are freestyle essays - the product of imagination AS it IS.</i>
+🔚 🌔 2024 ... some more papers ➡️ [use-dev <mark><samp><b>HIGHLIGHTS</b></samp></mark>](https://github.com/Kyriosity/use-dev/blob/main/README.md)\
+<sub><i>These are freestyle essays - the product of imagination AS it IS.</i></sub>
