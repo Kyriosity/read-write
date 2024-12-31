@@ -123,4 +123,4 @@ And let's salt all this with a bitter reminder that major software isn't _Panthe
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of C#.NET in Microsoft are titled _architects_ or _leads_ but all of them show strong coding skills at presentations.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu).</sub>
 
-<div align="center"><b>.......</b> &nbsp;🔚 &nbsp;🌘 kyriosity 2023-2024&nbsp;&nbsp;&nbsp;<b>.......</b></div>
+<div align="center"><b>.......</b> &nbsp;🔚 &nbsp;🌘 kyriosity 2023-2025&nbsp;&nbsp;&nbsp;<b>.......</b></div>

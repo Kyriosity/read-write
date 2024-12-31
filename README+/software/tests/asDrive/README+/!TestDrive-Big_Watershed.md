@@ -63,4 +63,4 @@ Use of the test double must be limited to indispensable (stubbing a remote servi
 
 CAN BE INDEPENDENT - YES, CAN BE COMMITING - NO, OVERLAP - NOT MUCH?
 
- <div align="center">🔚 &nbsp;🌘 ... kyriosity 2024...</div>
+ <div align="center">🔚 &nbsp;🌒 ...kyriosity, 2024-2025...</div>

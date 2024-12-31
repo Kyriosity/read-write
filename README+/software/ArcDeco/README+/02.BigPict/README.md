@@ -48,4 +48,4 @@ Let's dive deeper behind pictures of _art naif_ in the following chapters.
 
 🔚 **...** <picture><img alt="&nbsp;&nbsp;&nbsp;&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg"
 title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde"/></picture>
-&nbsp;🌔 (2024...)
+&nbsp;🌒 ...2024-2025...
