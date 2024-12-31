@@ -41,6 +41,6 @@ The model shall be thread- and async-friendly, even if it's not required.
 :construction: TO BE CONTINUED w/ EXAMPLES :construction:
 
 **Further reading:**\
-|- [Tasks as models](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/model_as_tasks.md) ➡️(use-dev)
+|- [Tasks as models](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/think_in_tasks/README.md) ➡️(use-dev)
 
 🔚
