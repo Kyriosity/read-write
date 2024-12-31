@@ -45,7 +45,8 @@ It's no way about plagiarism - just the opposite. You may find that your idea is
 <table><tr valign="top"><td>
   <picture><img width="250px" alt="&nbsp;Snapshot from the lib" src="../../_rsc/_img/photo/blog/spots/StadtBiblio.jpg" /></picture>
 </td><td>
-  For less or more creative activity in both code and word going to a library, picking engaging offtopic books, looking in them, and returning to the own production can be a real booster.
+  <p>For less or more creative activity in both code and word going to a library, picking engaging offtopic books (better nicely illustrated), looking through them, and returning to the writing can be a real booster.</p>
+  <p>Thus occasional rummaging and leafing through <i>Electronic Engineering</i> inspired me with <a href="https://github.com/Kyriosity/use-dev/blob/main/README%2B/techniques/README%2B/circuitry/README.md#why-circuitry">circuitry</a> technique.</p>
 </td></tr></table>
 
 ## Pitfalls
