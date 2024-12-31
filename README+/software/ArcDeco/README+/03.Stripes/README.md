@@ -32,7 +32,9 @@ Wrap up.
 What is good design-development? Balancing on edge between TYPE-MACHINE to stuck in thoughts
 When you find finished good but IMMEDIATELY have an idea how to redo.
 
-## Worth of coding - 
+## Worth of coding
+
+coding is oft regarded as menial practice...
 
 Everything done on the keyboard to code is the coding. The pure coding is inefficient -< Roles
 
