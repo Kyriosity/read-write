@@ -38,7 +38,7 @@ Software ways to craftsmanship are inscrutable and assessed by eye.</p>
 
 System &thinsp;<samp><b>E&thinsp;N&thinsp;L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&thinsp;E&thinsp;N&thinsp;M&thinsp;E&thinsp;N&thinsp;T</b></samp>&thinsp; has many facets with two secured: <b>enthusiasm</b> and <b>frustration</b>. These are paved with miscellaneous dilemmas but one pivotal:
 
-<p align="center"><b><samp>Why doesn't advanced development make the great design by itself?</samp>&thinsp;<sup>🙋</sup></b></p>
+<p align="center"><b><samp>Why don't best development practices make the great design by itself?</samp>&thinsp;<sup>🙋</sup></b></p>
 
 Veneer with <ins>rhetorical</ins> vs. <ins>open</ins> <kbd>&thinsp;<samp><b>I&thinsp;S</b></samp>&thinsp;</kbd>, <kbd>&thinsp;<samp><b>W&thinsp;H&thinsp;Y</b></samp>&thinsp;</kbd>, and <kbd>&thinsp;<samp><b>H&thinsp;O&thinsp;W</b></samp>&thinsp;</kbd> tiles:
 
@@ -56,7 +56,10 @@ Veneer with <ins>rhetorical</ins> vs. <ins>open</ins> <kbd>&thinsp;<samp><b>I&th
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Developing excellent features, feeling the patterns and principles, and writing [quality code](../../../QA/README+/code-quality.md) but designing euphoria over it succumbs to achieving a passable project state.</sub>
 
-The external heartening or intimidating factor is the construction of more material, safer and less patchable and shapeable megastructures: liquefied gas tankers, skyscrapers, airplane auto-navigation).
+<table><tr><td><picture><img alt="&nbsp;sitting on ice" src="../../../../_rsc/_img/symbols/extinct_species.png"/></picture></td><td>
+  The external heartening or intimidating factor is the construction of more material, safer and less patchable and shapeable megastructures: liquefied gas tankers, skyscrapers, airplane auto-navigation).
+  The answer to many <kbd>why</kbd> isn't always or principally a bad state of design.
+</td></tr></table>
 
 ## Goal
 
@@ -72,10 +75,9 @@ This requires **abstraction of** software **abstractionism** but with utilitaria
 
 ## What's next
 
-
-We can't paint <picture><img alt="&thinsp;Arc&nbsp;Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" /></picture> from the first cast but let's roll up our sleeves, take a brush<sup>🔦</sup>, and with shy strokes put layer after layer on the canvas of software abstractionism...\
+We can't paint <sub><picture><img alt="&thinsp;Arc&nbsp;Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px.jpg" /></picture></sub> from the first cast but let's roll up our sleeves, take a brush<sup>🔦</sup>, and with shy strokes put layer after layer on the canvas of software abstractionism...\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🔦</sup> <sub>Hmm, I talked about the torch and binoculars in the chess metaphor.</sub>
 
 > **Now it's only the <samp>PRIMING</samp>.**
 
-🔚 **...** [![Powered by good quotes](https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue)](../../../../pencraft/README+/quotes/README+/cornerstones.md)
+🔚&nbsp;🌒 ...2024-2025... &nbsp;&nbsp; [![Powered by good quotes](https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue)](../../../../pencraft/README+/quotes/README+/cornerstones.md)
