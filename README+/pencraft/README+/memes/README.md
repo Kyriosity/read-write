@@ -69,7 +69,7 @@ It's normal to neglect a triage algorithm implementation (that a platform provid
 
 \___________</details>
 
-## Urban legends / Tales from the Crypt
+## Tales from the Crypt
 
 <details><summary><ins>&nbsp;<b>Marsupial covariance</b>&nbsp;</ins></summary>
 &nbsp;
@@ -93,6 +93,18 @@ It's normal to neglect a triage algorithm implementation (that a platform provid
     </td>
   </tr>
 </table>
+
+\___________</details>
+
+<details><summary><ins>&nbsp;<b>L<samp>EGEND</samp> of memory masters</b>&nbsp;</ins></summary>
+&nbsp;
+
+<table><tr valign="top"><td width="50%"><picture><img src="../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture></td><td>
+  <p>I heard it from a <code>C++</code>-gifted colleague when we discussed <samp>DOOM</samp> battles. He told me a story of old gaming masters of times when there were no video consoles or they were primitive.</p>
+  <p>So the story goes that computer scientists used the available nighttime to combat computer resources with all possible and impossible hacks. The winner occupied the whole memory of the opponent's machine.</p>
+</td></tr></table>
+
+<div align="right"><sub>Image credit: screengrab from imdb.com. Fei Lung and Carter Wong in <i>Born Invincible</i>, 1978</sub></div>
 
 \___________</details>
 
@@ -184,4 +196,4 @@ VOAYGER
 
 # [**Volume&nbsp;II. Inspirational quotes**](../quotes/README+/inspirational.md) 
 
-🔚 <sub>[Notes/disclaimer](../../../_rsc) about graphic resources here</sub> 🌘 2024
+🔚 <sub>[Notes/disclaimer](../../../_rsc) about graphic resources here</sub> 🌒 2024-2025
