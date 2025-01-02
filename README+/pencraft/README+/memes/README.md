@@ -32,9 +32,8 @@ Translated east-to-west this means: find a sinecure in a big company.
 
 ![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
 
-[![AI: 1500s vs 2020s](../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](../essays/README+/AI-2020s.md)
-
-<sub>Answer: Homunculus shows the middle finger on the left hand.</sub>
+[![AI: 1500s vs 2020s](../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](../essays/README+/AI-2020s.md)\
+<sub>(Answer: Homunculus shows the middle finger on the left hand.)</sub>
 
 <mark><b>P.S.</b></mark> Honestly, I concocted this collage before coming on "Alchemy and AI", 1965, by [Hubert Dreyfus](../quotes/README+/contributors/README.md#Hubert-Dreyfus). 
 
@@ -64,8 +63,7 @@ As the extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/READ
 
 <picture><img alt="Here is X. Calm down Pythagoras" src="../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg" /></picture><br/><br/>
 
-Justified: abilities in exact sciences are no longer a prerequisite for applied programming. 
-It's normal to neglect a triage algorithm implementation (that a platform provides) rather than to write one's own or even comprehend/differentiate one.
+Justified because of the changed requirements as discussed a bit in [quotes](../quotes/README+/aside/sour_quotes.md#math).
 
 \___________</details>
 
@@ -78,19 +76,17 @@ It's normal to neglect a triage algorithm implementation (that a platform provid
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/"><b>&nbsp;🦘Object-oriented kangaroos 🇦🇺&nbsp;</b></a>
-    </td>
-    <td><samp>Just for illustration</samp></td>
-  </tr><tr valign="top">
     <td>
-      <a href="../../../_rsc/_backup/ref/Marsupial/">downloaded safe-copy</a> <br />if the URL above doesn't work
+      <h3>🦘&thinsp;<a href="https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/">&nbsp;Object-oriented kangaroos 🇦🇺&nbsp;</b></a></h3>
     </td>
+    <td><a href="../../../_rsc/_backup/ref/Marsupial/">downloaded safe-copy</a> <br />if the URL above doesn't work</samp></td>
+  </tr><tr valign="top">
     <td>
       <a href="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy).jpg">
         <img src="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy)_thumb250px.jpg" 
           alt="&nbsp;a flying kangaroo" title="&nbsp;A kangaroo clears a fence in Beveridge, 37 km north of Melbourne's CBD&#013;&#010;&nbsp;(snapshot by Nathan Xuebsy, 2024)"></a>
     </td>
+        <td></td>
   </tr>
 </table>
 
@@ -100,8 +96,9 @@ It's normal to neglect a triage algorithm implementation (that a platform provid
 &nbsp;
 
 <table><tr valign="top"><td width="50%"><picture><img src="../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture></td><td>
-  <p>I heard it from a <code>C++</code>-gifted colleague when we boasted with <samp>DOOM</samp> experience. He told me that real battles and warriors are in past times when there were no video consoles or they were primitive.</p>
-  <p>So the story goes that computer scientists used the relatively idle nighttime to gather in their computer centers and combat resources with all possible and impossible hacks. The winner occupied the whole memory of the opponent's machine.</p>
+  <p>I heard it from a <code>C++</code>-gifted colleague when we exchanged <samp>DOOM</samp> experience. He noted that real battles and warriors were in the past when if there were video consoles they were very primitive.</p>
+  <p>The story goes that computer scientists used the relatively idle nighttime to gather in their computer centers and combat resources with all possible and impossible hacks in <i>machine languages</i>.</p>
+  <p>The winner occupied the whole memory of the opponent's machine (or of the timeslot?).</p>
 </td></tr></table>
 
 <div align="right"><sub>Image credit: screengrab from imdb.com. Fei Lung and Carter Wong in <i>Born Invincible</i>, 1978</sub></div>
@@ -187,13 +184,13 @@ VOAYGER
 
 ## Recommended reading 
 
-<details><summary><ins>&nbsp;<b>Grandpa of all design</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>Great grandpa of all driven design</b>&nbsp;</ins></summary>
 &nbsp;
 
 🚧 COMING...NEXT
 
 \___________</details>
 
-# [**Volume&nbsp;II. Inspirational quotes**](../quotes/README+/inspirational.md) 
+## [**Volume&nbsp;II. Inspirational quotes**](../quotes/README+/inspirational.md) 
 
 🔚 <sub>[Notes/disclaimer](../../../_rsc) about graphic resources here</sub> 🌒 2024-2025
