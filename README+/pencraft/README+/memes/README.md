@@ -100,8 +100,8 @@ It's normal to neglect a triage algorithm implementation (that a platform provid
 &nbsp;
 
 <table><tr valign="top"><td width="50%"><picture><img src="../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture></td><td>
-  <p>I heard it from a <code>C++</code>-gifted colleague when we discussed <samp>DOOM</samp> battles. He told me a story of old gaming masters of times when there were no video consoles or they were primitive.</p>
-  <p>So the story goes that computer scientists used the available nighttime to combat computer resources with all possible and impossible hacks. The winner occupied the whole memory of the opponent's machine.</p>
+  <p>I heard it from a <code>C++</code>-gifted colleague when we boasted with <samp>DOOM</samp> experience. He told me that real battles and warriors are in past times when there were no video consoles or they were primitive.</p>
+  <p>So the story goes that computer scientists used the relatively idle nighttime to gather in their computer centers and combat resources with all possible and impossible hacks. The winner occupied the whole memory of the opponent's machine.</p>
 </td></tr></table>
 
 <div align="right"><sub>Image credit: screengrab from imdb.com. Fei Lung and Carter Wong in <i>Born Invincible</i>, 1978</sub></div>
@@ -120,18 +120,18 @@ It's normal to neglect a triage algorithm implementation (that a platform provid
 <i>a fellow shares the location of cafe</i>] .&thinsp;.&thinsp;. good, <i>bon</i>, agreed, &mdash; be there in a moment] <kbd><b>DE</b>&thinsp;->&thinsp;<b>EN</b></kbd>
 </div><br />
 
-The caricature may look sloppy, but the vision of its author Karl Arnold impresses: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
+The caricature may look sloppy, but it's a rare match of futurtic vision of its author Karl Arnold: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
 
 </details>
 
-<details><summary>💿<ins>&nbsp;<b><mark>1956</mark>: When disks were indeed hard and strong skills in IT were in no way exaggerated requirements...</b>&nbsp;</ins></summary>
+<details><summary>💿<ins>&nbsp;<b><mark>1956</mark>: When disks were indeed hard and strong skills in IT for real...</b>&nbsp;</ins></summary>
 &nbsp;
 
 <picture><img alt="&nbsp;&nbsp;The year 1956: loading an IBM disk to rent" src="../../../_rsc/_img/photo/hist/IBM350_1956.jpg" /></picture><br/><br/>
 
 </details>
 
-<details><summary>🚗 <b><ins>&nbsp;<mark>1957</mark>: Full self-drive "next year" since 2014. Sure?&nbsp;</ins></b></summary>
+<details><summary>🚗 <b><ins>&nbsp;<mark>19<i>nn</i></mark>: Full self-drive "next year" since 2014. Sure?&nbsp;</ins></b></summary>
 &nbsp;
 
 <picture><img alt="&nbsp;&nbsp;LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../_rsc/_img/snap/media/1957.02.25_LIFE_Page8_FSD.jpg" /></picture><br/>
@@ -187,7 +187,7 @@ VOAYGER
 
 ## Recommended reading 
 
-<details><summary><ins>&nbsp;<b>Drive and let drive</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>Grandpa of all design</b>&nbsp;</ins></summary>
 &nbsp;
 
 🚧 COMING...NEXT
