@@ -25,13 +25,16 @@ Test-driven Development, fine for discourses, bootcamps, and `classes`, and enco
 ## Could I explain my shismatic take?
 
 <details><summary><ins><b>&nbsp;This shadow of doubt was from the <samp>RISING</samp> RIDGE, dividing syntax and implementation behind it:&nbsp;</b></ins></summary>
-
+&nbsp;
+   
 <div align="center"><picture><img src="../../../../_rsc/_img/illus/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture></div>
 
 </details>
+<p align="center">⬆️<ins>&nbsp;press to reveal&nbsp;</ins>⬆️</p>
 
 <table><tr><td width="50%" align="center"><b>🧪 Test ⚙️ DESIGN</b> Δ </td><td align="center">🧪 <b>Test</b> ⚙️ <b>DEVELOPMENT</b> δ</td></tr><tr>
-   <td>what to develop</td><td>how to implement</td>
+   <td><p align="center"><samp><b>W&thinsp;H&thinsp;A&thinsp;T&nbsp;&nbsp;t&thinsp;o&nbsp;&nbsp;d&thinsp;e&thinsp;v&thinsp;e&thinsp;l&thinsp;o&thinsp;p</b></samp></p>
+   </td><td><p align="center"><samp><b>H&thinsp;O&thinsp;W&nbsp;&nbsp;t&thinsp;o&nbsp;&nbsp;i&thinsp;m&thinsp;p&thinsp;l&thinsp;e&thinsp;m&thinsp;e&thinsp;n&thinsp;t</b></samp></td></td>
 </tr><tr valign="top"><td>
    <ul>
       <li>grope concepts and get a hands-on feeling on subjects (all the same: bookkeeping artifacts or superhero <i>ViewModel</i>),</li>
@@ -51,16 +54,24 @@ Test-driven Development, fine for discourses, bootcamps, and `classes`, and enco
       <li>fill design with working code and its alternatives</li>
       <li>layout the print of test coverage</li>
    </ul>
+</td></tr><tr></tr><tr><td>
+<p>Tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.</p>   
+</td><td>
+   <p>Use of the test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).</p>
 </td></tr></table>
 
-### Test Driven Design
+<p align="center"><a href="TDDes_meets_TDDev.md"><b>Overlap and combination</b></a></p>
 
-These tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.
-
-### Test Driven Development
-
-Use of the test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).
-
-CAN BE INDEPENDENT - YES, CAN BE COMMITING - NO, OVERLAP - NOT MUCH?
+```mermaid
+---
+config:
+  look: handDrawn
+  theme: neutral
+---
+flowchart LR
+  A[Start] --> B{Decision}
+  B -->|Yes| C[Continue]
+  B -->|No| D[Stop]
+```
 
  <div align="center">🔚 &nbsp;🌒 ...kyriosity, 2024-2025...</div>
