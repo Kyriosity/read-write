@@ -4,7 +4,7 @@
 guru deletes code<br/></p>
 <p dir="rtl"><i>Anonymous</i></p>
 
-# Code &mdash; Quality
+# `Code` Quality 
 
 <table><tr valign="top"><td width=30%>
   <picture><img src="../../../_rsc/_img/photo/misc/pour_concrete.jpg" alt="&nbsp;pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
@@ -58,7 +58,7 @@ _Errare humanum est_, and quality code allows one to focus tests on ...
 
 ## Afterword
 
-**1)** Coding isn't a self-contained activity but an ingredient of [![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg)](../../../software/ArcDeco/README.md), where quality is a motive, derivative, and bonus.
+**1)** Coding isn't a self-contained activity but an ingredient of <sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px.jpg)](../../../software/ArcDeco/README.md)</sub>&thinsp;, where quality is a motive, derivative, and bonus.
 
 **2)** While design sets formworks of code **concrete**, [coding frames](https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames) reinforce it.
 
@@ -96,4 +96,4 @@ Some smart individuals develop great apps alone and are so good at keeping all d
 However, this is exceptional and not about enterprise development.
 
 \___________\
-🔚 ...🌜2024
+🔚 ...🌜2024-2025
