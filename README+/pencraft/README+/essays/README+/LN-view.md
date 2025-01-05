@@ -13,7 +13,7 @@
 IBM PC users remember (or not) that it was a time and a <b>word</b> &mdash; not Microsoft's one or WordPerfect, but «<b>LOTUS</b>», a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.\
 Developers and sysadmins will remember genuine Rapid Application Development with fluent installation/evaluation<sup>🙋</sup>.
 
-LN paved the public road to diverse innovations: client-server, multirole/group authorization, doc-oriented DB<sup>📜</sup>, __**replication**__<sup>⭐</sup>, to name a few of the unique goodies.
+LN paved the public road to diverse innovations: client-server, multirole/group authorization, doc-oriented DB<sup>📜</sup>, __**replication**__<sup>⭐</sup>, pictograms in view columns - to name a few of the unique goodies.
 
 There were similar suites - legacy, alternative, or tailor-made - but this aquatic flower dominated the market garden ... until Microsoft began to win its large chunks of office software.
 
@@ -55,7 +55,7 @@ As a substitute for rudimentary LotusSciprt; supporting the development of UX li
 
 \___________
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>💿</sup> <sub>E.g. NSF didn't support _foreign keys_, thus requiring "amateurish" boilerplate for any docs relations (as hierarchy). There was a plan to put DB2 under LN (like MS SQL behind Sharepoint), but that was never realized.</sub> \
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>💿</sup> <sub>E.g. NSF didn't support _foreign keys_, thus requiring "amateurish" boilerplate for any docs relations (as hierarchy). There was a never-realized plan to put DB2 under LN (like MS SQL behind Sharepoint).</sub> \
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🌩️</sup> <sub>Though Notes Server could render applications on HTTP since 1996, designing forms required pretty much fine-tuning with HTML/JS. XPages since R8.5 came too late and were half-response.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🥀</sup> <sub>1-2-3 and Word Pro were already outmoded in 2000.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>☕</sup> <sub>LN supported development in Java but its version always lagged and required knowledge of specific workarounds (like calling garbage collector in a cycle of LN docs). There was peculiar C++ API as well, however, most developers _nolens volens_ used dated LotusScript - a branch of Visual Basic with built-in LN API.</sub>\
@@ -66,6 +66,6 @@ As a substitute for rudimentary LotusSciprt; supporting the development of UX li
 
 \______
 
- 🔚 &nbsp;🌘 kyriosity 2024
+ 🔚 &nbsp;🌘 kyriosity 2024-2025
 
 
