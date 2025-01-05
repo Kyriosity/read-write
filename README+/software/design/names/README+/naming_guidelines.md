@@ -59,6 +59,6 @@ compare to contract
 🔚 ..  🌙 2024-2025 .. to be continued...
 
 🍓 
-
+🪱 longiness 
 \___________\
 🔚
