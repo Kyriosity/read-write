@@ -1,9 +1,8 @@
-# Naming &mdash; Guidelines &mdash; Reminder
+# Naming &mdash; Practice
 
 ## Rules of thumb
 
 * The higher the level of naming, the more attention.\
-It's a routine to comb out
 * Name, apply, get feedback, refactor.
 * At least two people with different backgrounds must confirm the top names.
 * _divide et empera_
@@ -19,7 +18,6 @@ TRAP: Duplicate names in the chain!     PRINTER.PRINT
 ll -> EXAMPLES REQUIRED
 
 INTERNATIONAL CHECK
-
 
 ## Verbal sins
 
@@ -37,28 +35,21 @@ General words sound vague (if not bombastic) unless established in the domain. C
 
 `Get` must be taboo within method names - either this must be property or a better description of the returned: `Read`, `Calculate` u.a.
 
-## Appendix. Learning from others
+## Appendix. Posers
 
-## Hall of fame
+Some naming occasions can be harder than difficult.
 
-🥇 Core S[E]QL commands.\
-🏆 _Bread crumbling_ for navigation - both the idea and name selection win
+### Impedance with inherited domain names
 
-Grace Hopper for English
+// ToDescribe:
 
-## Hall of shame
+### Active or passive voice
 
-🤦 And 1st place goes to ... `dirty`  as the trait of a modified object.
-LINKS
+`document.print(device)` vs. `device.print(document)`
 
-🍏 prize for generalization goes to ... `interface` keyword.
-compare to contract
+// ToDescribe:
 
-🍅 🍓 
 
-🔚 ..  🌙 2024-2025 .. to be continued...
 
-🍓 
-🪱 longiness 
 \___________\
 🔚
