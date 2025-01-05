@@ -17,7 +17,7 @@ Fun fact: searching for _von Neumann_ (without the first name) will recite first
 
 #### Grace Hopper
 
-_Grace Brewster Hopper_, née Murray (**1906**-1992), grandma of Cobol, finder of the moth thus starting the debugging era (that chords with her name).
+_Grace Brewster Hopper_, née Murray (**1906**-1992), grandma of Cobol, finder of the moth thus starting the debugging era (that chords with her name). She also suggested the use of English for high-level programming.
 
 #### Alan Turing
 
@@ -182,4 +182,4 @@ _Kent Beck_ (born 1961) reviver of TDD approach, the eXtreme Programming founder
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👽</sup> <sub>Labelled selection of prominent scientists known as [Martians](https://en.wikipedia.org/wiki/The_Martians_(scientists))<sup><b>w</b></sup></sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🥇</sup> <sub>Association for Computing Machinery [Turing Award](https://en.wikipedia.org/wiki/Turing_Award)<sup><b>w</b></sup>, aka "Nobel Prize of Computing".</sub>
 
-🔚 ... but to be continued ...
+🔚 🌙 2023-2025 ... to be enhanced ...
