@@ -11,6 +11,12 @@
 </p>
 </td></tr></table>
 
+## Categorization
+
+Categorization (classification) is much more profound than breaking collocations and sentences and building the folder hierarchy. &mdash; It makes the structural frame of sound abstractions.
+
+// ToDescribe: Thinking in tags
+
 ## How to name...
 
 ### as usual
@@ -33,39 +39,55 @@ The inevitable and heavy expenses will pay off with the formation of ***lingua f
 + shared comprehension of a domain, collaboration, and indeed bound team,
 + genuine design and self-descriptive code,
 + inspiration for behavior/domain-driven design,
-+ escape from heaps of docs<sup>📒</sup>,
++ help for creating and reading the documentation<sup>📒</sup>,
 + mitigated tension to get into a project for newcomers,
 + comfy navigation in the source code (beginning from <kbd>CTRL+F</kbd>).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team means not only developers and managers but customers, testers with end users.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📒</sup><sub> reqs/specs, DoU, meetings protocols, and primers - hard to follow but easy to misunderstand or forget but mostly neglected</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📒</sup><sub> reqs/specs, DoU, meetings protocols, and primers - hard to follow but easy to misunderstand or forget</sub>
 
-You may see it as [domain-driven design](../drive/README.md#Domain-drive).
+And it as an ingredient of successful [domain-driven design](../drive/README.md#Domain-drive).
 
-## Categorization
+## What's next
 
-Categorization (classification) is much more profound than breaking collocations and sentences and building the folder hierarchy. &mdash; It makes the structural frame of sound abstractions.
-
-// ToDescribe: Thinking in tags
+[Practice](README+/naming_practice.md)
 
 ## Wrapping up
 
 + Even top teams under time pressure and brakes on perfectionism would be barely proud of their implementation of naming. 
 + The naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be continuous and genuine.
 
-## Appendix. Posers
+## Appendix. Learning from others
 
-Some naming occasions can be harder than difficult.
+## Hall of fame
 
-### Impedance with inherited domain names
+🥇 Core S[E]QL commands.\
+🏆 _Bread crumbling_ for navigation - both the idea and name selection win
 
-// ToDescribe:
+Audience choice Price goes to Mrs. [Grace Hopper](../../../../pencraft/README+/quotes/README+/contributors/README.md#Grace-Hopper) who suggested tongue (English) semantics for programming (something so natural now that one can't evaluate).
 
-### Active or passive voice
+🚧 ... TO BE CONTINED .. 🚧
 
-`document.print(device)` vs. `device.print(document)`
+## 🚧 Curtain of grace 🚧
 
-// ToDescribe:
+🤦 And 1st place goes to ... `dirty` in miscellaneous languages and APIs as the trait of a modified object.
+
+🍏 The prize for generalization goes to ... `interface` keyword.
+compare to contract
+
+🍅 🍓 
+
+🔚 ..  🌙 2024-2025 .. to be continued...
+
+🍓 
+🪱 longness
+
+dubiosity -> icon
+
+EMOJI is only subset of pictograms.
+
+🗼"Tower of Babel" award for naming in different alphabets. (Unless it's a highly localized domain or business.)
+
 
 \___________
 
