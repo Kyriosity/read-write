@@ -60,23 +60,24 @@ The richer the content the more HTML you will use.
 
 Advice Nr&thinsp;1 is **don't try to hack git markdown**. Even if you manage to style some stuff one day Git may sweep it out.
 
-Tip Nr&nbsp;1 is to use `<details />` expandables to moderate the reading hit.
+Tip Nr&nbsp;1 is to use `<details />` expandables to moderate the volume hit and for optional parts.
 
 ### Fancy footnotes
 
-Numbered footnotes are academic and convenient but the number itself doesn't tell much about its subject (when separated by enough content). Mnemonic superscript references<sup>🙋</sup> are eye-catching.
+Numbered footnotes are academic and convenient but a number itself won't tell much about its subject (when separated by enough content). Mnemonic superscript references<sup>🙋</sup> are eye-catching.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>You can invent your footnotes vocabulary, as I use _raising hand_ to express the own opinion.
     
 ### Links suffixes
 
-Named links are good, and concise but distracting. You may hint that a URL goes outside: [fast mermaid examples](https://mermaid.js.org/syntax/examples.html) <sup>🔗</sup>. Next, narrow suggestions for frequently referred resources, like 
+Named links are overall practice but they distract. You may hint that a URL goes outside: [fast mermaid examples](https://mermaid.js.org/syntax/examples.html) <sup>🔗</sup>. 
+Next, narrow mnemonics for frequently referred resources, like 
 [wiki](https://wikipedia.org)<sup><b>w</b></sup>, [git](https://github.com)<sup>:octocat:</sup>, [YouTube](https://youtube.com)<sup><picture><img src="../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture></sup>,
 [Microsof Learn](https://learn.microsoft.com/)<sup>🪟</sup>.
 
 ### <a id="link-achors" />Link anchors
 
-Prefer `<a id="anchor_name" />` for sustained (internal) links to `#-heading`.
+Prefer `<a id="anchor_name" />` for sustained (internal) links to avoid changeable and motley `#-heading`.
 
 ### Images
 
