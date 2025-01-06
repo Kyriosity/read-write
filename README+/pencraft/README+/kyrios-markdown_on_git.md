@@ -2,32 +2,36 @@
 
 <p align="right"><b>&ndash;</b>&nbsp;What is the difference between<br /><i>markdown</i> newbie and expert?<br /><b>&ndash;</b>&nbsp;Half an hour.</p>
 
-Markdown is lightweight to learn and use with plenty of guides and cheat sheets for advanced techniques. However, you shouldn't use it for rich content. (Even GitHub content isn't built-in markdown despite its role as the primary markup of documentation.)
+Markdown is lightweight to learn and use, with plenty of guides and cheat sheets for advanced techniques. However, it and its dialects were never intended to provide rich content.
 
-<p align="center"><b>But if you still want to try it beyond a slightly formatted text, here is my ounce of teaching backed by this repository.</b></p>
+GitHub itself doesn't render its site in markdown or its flavor despite the role of the built-in and primary markup of documentation.
 
-<p align="right">«<i>Markdown forgives. The GitHub doesn't.</i>»</p>
+<p align="center"><b>But if you still want to try it beyond a slightly formatted text, here is my ounce of teaching illustrated by this repository.</b></p>
+
+<p dir="rtl">«<i>.Markdown forgives. The GitHub doesn't</i>»</p>
 
 ## Editors and Viewers, Tools
 
-Simple markdown is readable without WYSIWYG and there are no tools for it to guarantee a "native" browser experience. So, the editor of choice is www.gihub.com where you switch between _Edit_ and _Preview_.
+A simple markdown is readable without WYSIWYG, and no editors are supporting it. No IDE (as Visual Studio) guarantees a "native" browser experience. So, the editor of choice is www.gihub.com where you switch between _Edit_ and _Preview_.
 
 * There's no excuse to avoid grammar check browser plugins.
+* View releases on browsers with different engines.
 * Always prove the mobile presentation to be legible.
 
 ## Limitations
 
 ### Markdown
 
-- Natural markdown tables are intended for little portions of text.
+- Markdown doesn't have special characters as HTML of rich-text editors.
+- Native markdown tables are intended for little portions of data.
+- There are no variables in markup (Remember it's plain text.)
 
 ### Git
 
 - The saddest experience with raw markdown is that you can't include shared content and snippets but <samp>copy-paste</samp>.
-
 - GitHub removes styles and some other formatting. Thus there are always borders in both markdown and HTML tables.
-  
 - There's no overlay for image loading but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
+- Many (if not most) Q&A tricks for markdown won't work on Git. 
 
 ## Non-text
 
@@ -35,7 +39,7 @@ Simple markdown is readable without WYSIWYG and there are no tools for it to gua
 
 + Enough to say that you can and shall insert [mermaid](https://mermaid.js.org)<sup>🔗</sup> diagrams. Text (names) there can be made into HTML links (but not in every type!).
 
-+ That's nothing bad with including images in documents but their size.
++ That's nothing bad with including images in documents but their size. Markdown on Git won't support extra features like linkable image areas or images in pop-up.
 
 ### Pictograms
 
@@ -48,23 +52,27 @@ WARNING: Different browsers may show some pictograms differently, a snapshot for
 
 ### Misc
 
-Don't forget about naturally supported `code snippets`.
+Don't forget about naturally supported `code snippets`, [badges](https://shields.io/)<sup>🔗</sup>
 
 ## HTML
 
-HTML elements are required even for simple text: markdown has neither space nor hyphen for non-breaking.
+HTML elements are required even for simple text: markdown has neither space nor hyphen being non-breaking.
 
-The richer the content the more HTML you will use.
-  
+The richer the content the more HTML you will use. The use of HTML is inevitable inside of `<table>`<i>s</i>.
+
 ## Tips, tricks and advice
 
 Advice Nr&thinsp;1 is **don't try to hack git markdown**. Even if you manage to style some stuff one day Git may sweep it out.
 
-Tip Nr&nbsp;1 is to use `<details />` expandables to moderate the volume hit and for optional parts.
+Best HTML pals are
 
-### Fancy footnotes
++ `<details />` expandables to moderate the volume hit and for optional parts.
++ `<table>` - need to explain?
++ `..[v]align=..`
 
-Numbered footnotes are academic and convenient but a number itself won't tell much about its subject (when separated by enough content). Mnemonic superscript references<sup>🙋</sup> are eye-catching.
+  ### Fancy footnotes
+
+Numbered footnotes are academic and convenient but a number itself won't tell much about its subject (when separated by enough content). Mnemonic superscript references are eye-catching<sup>🙋</sup> .
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>You can invent your footnotes vocabulary, as I use _raising hand_ to express the own opinion.
     
@@ -72,12 +80,20 @@ Numbered footnotes are academic and convenient but a number itself won't tell mu
 
 Named links are overall practice but they distract. You may hint that a URL goes outside: [fast mermaid examples](https://mermaid.js.org/syntax/examples.html) <sup>🔗</sup>. 
 Next, narrow mnemonics for frequently referred resources, like 
-[wiki](https://wikipedia.org)<sup><b>w</b></sup>, [git](https://github.com)<sup>:octocat:</sup>, [YouTube](https://youtube.com)<sup><picture><img src="../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture></sup>,
+[wiki](https://wikipedia.org)<sup><b>w</b></sup>, [git](https://github.com)<sup>:octocat:</sup>, [YouTube](https://youtube.com)<sup><picture><img src="../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="&nbsp;link to YouTube video" /></picture></sup>,
 [Microsof Learn](https://learn.microsoft.com/)<sup>🪟</sup>.
 
 ### <a id="link-achors" />Link anchors
 
 Prefer `<a id="anchor_name" />` for sustained (internal) links to avoid changeable and motley `#-heading`.
+
+```diff
+-   ## Unlinkable fancy header,,🐈‍⬛!!..
++   ## <a id="feline_anchor">unlinkable fancy header,,🐈‍⬛!!..
+
+// somewhere outside ...
+... <a href="../animal_stories.md#feline_anchor">fancy cats</a> ...
+```
 
 ### Images
 
