@@ -128,7 +128,7 @@ The caricature may look sloppy, but it's a rare match of futurtic vision of its 
 
 </details>
 
-<details><summary>🚗 <b><ins>&nbsp;<mark>19<i>nn</i></mark>: Full self-drive "next year" since 2014. Sure?&nbsp;</ins></b></summary>
+<details><summary>🚗 <b><ins>&nbsp;<mark>19<i>nn</i></mark>: Full self-drive "next year" since 2014? Buckle up...&nbsp;</ins></b></summary>
 &nbsp;
 
 <picture><img alt="&nbsp;&nbsp;LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../_rsc/_img/snap/media/1957.02.25_LIFE_Page8_FSD.jpg" /></picture><br/>
