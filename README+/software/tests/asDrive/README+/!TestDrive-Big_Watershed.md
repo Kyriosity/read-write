@@ -24,13 +24,12 @@ Test-driven Development, fine for discourses, bootcamps, and `classes`, and enco
 
 ## Could I explain my shismatic take?
 
-<details><summary><ins><b>&nbsp;This shadow of doubt was from the <samp>RISING</samp> RIDGE, dividing syntax and implementation behind it:&nbsp;</b></ins></summary>
+<details align="center"><summary><ins><b>&nbsp;This shadow of doubt was from the <samp>RISING</samp>&nbsp;&nbsp;R&thinsp;I&thinsp;D&thinsp;G&thinsp;E, dividing syntax and implementation behind it:&nbsp;</b></ins></summary>
 &nbsp;
    
 <div align="center"><picture><img src="../../../../_rsc/_img/illus/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture></div>
 
-</details>
-<p align="center">⬆️<ins>&nbsp;press to reveal&nbsp;</ins>⬆️</p>
+</details><p align="center">⬆️<ins>&nbsp;press to reveal&nbsp;</ins>⬆️</p>
 
 <table><tr><td width="50%" align="center"><b>🧪 Test ⚙️ DESIGN</b> Δ </td><td align="center">🧪 <b>Test</b> ⚙️ <b>DEVELOPMENT</b> δ</td></tr><tr>
    <td><p align="center"><samp><b>W&thinsp;H&thinsp;A&thinsp;T&nbsp;&nbsp;t&thinsp;o&nbsp;&nbsp;d&thinsp;e&thinsp;v&thinsp;e&thinsp;l&thinsp;o&thinsp;p</b></samp></p>
@@ -42,25 +41,36 @@ Test-driven Development, fine for discourses, bootcamps, and `classes`, and enco
       <li>couple design fantasies with the tech-stack materiality,</li>
       <li>evaluate and pick more suited libraries, frameworks, and, in some cases, languages/platforms,</li>
       <li>discuss ideas, naming, and logic with consultants and users.</li>
-      <li>combilable syntax is already a test pass</li>
-      <li>tests can remain as demo and serve as a frame of documentation</li>
    </ul>
    </td>
    <td>The purpose of TDD is in no way test automation but means to:
    <ul>
       <li>provide design of classes</li>
      <li>granulate dev items and functions</li>
-      <li>define failing implementation</li>
+      <li>define failing scenarios</li>
       <li>fill design with working code and its alternatives</li>
       <li>layout the print of test coverage</li>
-   </ul>
+   </ul></td></tr>
+      <!--              VOLATILE vs. STABLE      --!>
+<tr></tr><tr><td>Design tests and code behind are highly volatile. They will change many times.</td><td>Stable</td></tr>
+</td></tr><tr></tr><tr><td>Define general interfaces and back them with test doubles</td><td>Implement this interfaces</td></tr>
 </td></tr><tr></tr><tr><td>
 <p>Tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.</p>   
 </td><td>
    <p>Use of the test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).</p>
-</td></tr></table>
+</td></tr>
+<tr>
+<td>Syntax that compiles is already a pass. NOTE ABOUT NON COMPILABLE.
+<p>Tests can remain for a demo and serve as a frame of documentation.</p>
+</td><td>Exact success and fail scenarios.</td>
+</tr></table>
 
-<p align="center"><a href="TDDes_meets_TDDev.md"><b>Overlap and combination</b></a></p>
+<h2 align="center">Overlap and combination</h2>
+
+> These could be the same project and team, test tools/framework, and skills/techniques to write tests, but...\
+>  **Design vs. Development are too dissimilar and contradictory to rotate on the same axis.**
+>
+> On a small stand-alone task this separation will be artificial but with a bigger amount trying to combine will burry up concepts with the volume of implementation. On the other hand, changing concepts will result in permanent rework of the realization.
 
 ```mermaid
 ---

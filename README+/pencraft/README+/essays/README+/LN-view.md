@@ -13,11 +13,12 @@
 IBM PC users remember (or not) that it was a time and a <b>word</b> &mdash; not Microsoft's one or WordPerfect, but «<b>LOTUS</b>», a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.\
 Developers and sysadmins will remember genuine Rapid Application Development with fluent installation/evaluation<sup>🙋</sup>.
 
-LN paved the public road to diverse innovations: client-server, multirole/group authorization, doc-oriented DB<sup>📜</sup>, __**replication**__<sup>⭐</sup>, pictograms in view columns - to name a few of the unique goodies.
+LN paved the public road to diverse innovations: client-server, multirole/group authorization, doc-oriented DB<sup>📜</sup>, __**replication**__<sup>⭐</sup>, pictograms in view columns &mdash; 
+to name a few of the extraordinary goodies.
 
 There were similar suites - legacy, alternative, or tailor-made - but this aquatic flower dominated the market garden ... until Microsoft began to win its large chunks of office software.
 
-* In 1995, IBM gained Lotus in full<sup>💰</sup>.\
+* In 1995, <sub>[![IBM Badge](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=fff&style=for-the-badge)](#)</sub> gained Lotus in full<sup>💰</sup>.\
 It was a big chance not only to gain from sales and internal installations but also to reform at least _LN_ with the influence, know-how, and technologies of the Big Blue. 
 However mediocre and inaccurately focused efforts caused Lotus to wilt.<sup>🍦</sup>
 

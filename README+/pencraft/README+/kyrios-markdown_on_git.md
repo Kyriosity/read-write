@@ -4,7 +4,7 @@
 
 Markdown is lightweight to learn and use, with plenty of guides and cheat sheets for advanced techniques. However, it and its dialects were never intended to provide rich content.
 
-GitHub itself doesn't render its site in markdown or its flavor despite the role of the built-in and primary markup of documentation.
+GitHub itself doesn't render its site in markdown or flavor despite providing it as built-in and primary documentation markup.
 
 <p align="center"><b>But if you still want to try it beyond a slightly formatted text, here is my ounce of teaching illustrated by this repository.</b></p>
 
@@ -22,7 +22,7 @@ A simple markdown is readable without WYSIWYG, and no editors are supporting it.
 
 ### Markdown
 
-- Markdown doesn't have special characters as HTML of rich-text editors.
+- Markdown doesn't have special characters like HTML or rich-text editors.
 - Native markdown tables are intended for little portions of data.
 - There are no variables in markup (Remember it's plain text.)
 
@@ -35,15 +35,20 @@ A simple markdown is readable without WYSIWYG, and no editors are supporting it.
 
 ## Non-text
 
-### Diagrams and Pictures
+### Diagrams
 
-+ Enough to say that you can and shall insert [mermaid](https://mermaid.js.org)<sup>🔗</sup> diagrams. Text (names) there can be made into HTML links (but not in every type!).
++ Enough to say that you can and shall insert [mermaid](https://mermaid.js.org)<sup>🔗</sup> diagrams. They are evolving pretty fast.
++ Entity names can be made into HTML links (but not in every type!).
++ "Mermaids" aren't for illustration. For a specific layout or artistic look, you must snap/save a drawing in other tools.
 
-+ That's nothing bad with including images in documents but their size. Markdown on Git won't support extra features like linkable image areas or images in pop-up.
+### Pictures
+
++ That's nothing bad with including images in documents but their size. Markdown on Git won't support extra features like linkable picture areas or images in pop-ups.
 
 ### Pictograms
 
-GitHub markdown has <code>:<i>emoji</i>:</code> codes but it's the same collection as in _emoji keyboard_ (<kbd>Win+.</kbd> for Windows users). The only exception, to my knowledge, is Git's <code>:octocat:</code>.
+GitHub markdown has <code>:<i>emoji</i>:</code> codes but it's the same collection as in _emoji keyboard_ (<kbd>Win+.</kbd> for Windows users). 
+The only exception, to my knowledge, is Git's <code>:octocat:</code>.
 Emojis are better than their codes unless a document must be saved as <samp>ASCII</samp>.
 
 WARNING: Different browsers may show some pictograms differently, a snapshot for example:
@@ -70,9 +75,9 @@ Best HTML pals are
 + `<table>` - need to explain?
 + `..[v]align=..`
 
-  ### Fancy footnotes
+### Fancy footnotes
 
-Numbered footnotes are academic and convenient but a number itself won't tell much about its subject (when separated by enough content). Mnemonic superscript references are eye-catching<sup>🙋</sup> .
+Numbered footnotes are academic and convenient but a number itself won't tell much about its subject (when separated by enough content). Mnemonic superscript references are eye-catching<sup>🙋</sup>.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>You can invent your footnotes vocabulary, as I use _raising hand_ to express the own opinion.
     
