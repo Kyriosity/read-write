@@ -1,6 +1,6 @@
 # Software &mdash; Programmatic tests
 
-<table><tr valign="top"><td><picture><img alt="&nbsp;Plenty of test frameworks" src="../../_rsc/_img/illus/test_fw-emblems(blur).jpg" /></picture>
+<table><tr valign="top"><td><picture><img alt="&nbsp;Plenty of test frameworks" src="../../_rsc/_img/illus/tests/test_fw-emblems(blur).jpg" /></picture>
 </td><td>
 <p><b>Programmatic tests, as an idea,<sup>💡</sup> appeared together with high-level languages.</b></p>
 <ul>
