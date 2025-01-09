@@ -27,7 +27,7 @@ Test-driven Development, fine for discourses, bootcamps, and `classes`, and enco
 <details align="center"><summary><ins><b>&nbsp;This shadow of doubt was from the <samp>RISING</samp>&nbsp;&nbsp;R&thinsp;I&thinsp;D&thinsp;G&thinsp;E, dividing syntax and implementation behind it:&nbsp;</b></ins></summary>
 &nbsp;
    
-<div align="center"><picture><img src="../../../../_rsc/_img/illus/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture></div>
+<div align="center"><picture><img src="../../../../_rsc/_img/illus/tests/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture></div>
 
 </details><p align="center">⬆️<ins>&nbsp;press to reveal&nbsp;</ins>⬆️</p>
 
@@ -55,17 +55,22 @@ Test-driven Development, fine for discourses, bootcamps, and `classes`, and enco
 <tr></tr><tr><td>Design tests and code behind are highly volatile. They will change many times.</td><td>Stable</td></tr>
 </td></tr><tr></tr><tr><td>Define general interfaces and back them with test doubles</td><td>Implement this interfaces</td></tr>
 </td></tr><tr></tr><tr><td>
-<p>Tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.</p>   
+<p>Tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.</p>
 </td><td>
    <p>Use of the test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).</p>
 </td></tr>
 <tr>
 <td>Syntax that compiles is already a pass. NOTE ABOUT NON COMPILABLE.
-<p>Tests can remain for a demo and serve as a frame of documentation.</p>
+<p>Tests can remain for a demo and serve as a documentation frame.</p>
 </td><td>Exact success and fail scenarios.</td>
 </tr></table>
 
-<h2 align="center">Overlap and combination</h2>
+<details><summary><ins>&nbsp;<b>That easy? Unfortunately not</b>&nbsp;</ins></summary>
+&nbsp;
+   
+<p align="center"><picture><img alt="&nbsp;Long ridge of high peaks (image credit: kyriosity)" src="../../../../_rsc/_img/photo/blog/mount/Wall5K.jpg"></picture></p>
+
+\___________</details><h2 align="center">How this shall work together</h2>
 
 > These could be the same project and team, test tools/framework, and skills/techniques to write tests, but...\
 >  **Design vs. Development are too dissimilar and contradictory to rotate on the same axis.**
