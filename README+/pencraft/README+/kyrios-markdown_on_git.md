@@ -31,7 +31,8 @@ A simple markdown is readable without WYSIWYG, and no editors are supporting it.
 - The saddest experience with raw markdown is that you can't include shared content and snippets but <samp>copy-paste</samp>.
 - GitHub removes styles and some other formatting. Thus there are always borders in both markdown and HTML tables.
 - There's no overlay for image loading but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
-- Many (if not most) Q&A tricks for markdown won't work on Git. 
+- Many (if not most) Q&A tricks for markdown won't work on Git.
+- GitHub isn't the fastest and smartest markdown engine.
 
 ## Non-text
 
