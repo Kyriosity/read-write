@@ -6,10 +6,10 @@
    <p align="center">Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
 <p>It wasn't about the destination of this ride, but the principal divergence. 
 For the record, the title of the lecture resonated with my anxiety:  "Failed with TDD? Here you know why."</p>
-<p align="center"> And yes, it was <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>.</p>
+<p align="center">Mystery solved: it was <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>.</p>
 </td></tr></table>
 
-The de-abbreviation raised another doubt: where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...
+But the de-abbreviation raised another doubt: where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...
 
 Presentations and lectures favored _development_ with _design_ as a natural<sup>🌵</sup> spin-off, not much bothering about distinction and some exploited both terms interchangeably. 
 Books and tutorials inclined more toward techniques, patterns, and testing frameworks.
@@ -17,8 +17,7 @@ Books and tutorials inclined more toward techniques, patterns, and testing frame
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be better findings, and there could be better alternating conclusions.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub>**Natural** since any complete snippet can't escape design or must fit into the given.</sub> 
 
-Test-driven Development, fine for discourses, bootcamps, and `classes`, and encouraging to start features, didn't set forth for me to design just a mediocre project: hypothetical or tried.\
-(The evolutionary design [wasn't the answer](../../../ArcDeco/README+/01.Rationale/README.md) either.)
+Test-driven Development, fine for discourses, bootcamps, and `classes`, and encouraging to start features, didn't set forth for me to design just a mediocre project: hypothetical or tried. The evolutionary design [wasn't the easy answer](../../../ArcDeco/README+/01.Rationale/README.md) either.
 
 <div align="center"><ins>The initial </ins><mark><b><code>O&thinsp;R</code></b></mark><ins>-question was answered first </ins><code><b>A&thinsp;N&thinsp;D</b></code><ins> and then refined to </ins><code><b>X&thinsp;O&thinsp;R</b></code><ins>&thinsp;.</ins></div>.
 
@@ -52,20 +51,21 @@ Test-driven Development, fine for discourses, bootcamps, and `classes`, and enco
       <li>layout the print of test coverage</li>
    </ul></td></tr>
       <!--              VOLATILE vs. STABLE      --!>
-<tr></tr><tr><td>Design tests and code behind are highly volatile. They will change many times.</td><td>Stable</td></tr>
+<tr></tr><tr valign="top"><td><b>Volatile</b><br />Design tests and code behind will inevitably come through approximations, and changes.</td><td><b>Stable</b><br />Implementation must be done on defined tasks.</td></tr>
 </td></tr><tr></tr><tr><td>Define general interfaces and back them with test doubles</td><td>Implement this interfaces</td></tr>
 </td></tr><tr></tr><tr><td>
 <p>Tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.</p>
 </td><td>
    <p>Use of the test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).</p>
-</td></tr>
-<tr>
-<td>Syntax that compiles is already a pass. NOTE ABOUT NON COMPILABLE.
-<p>Tests can remain for a demo and serve as a documentation frame.</p>
-</td><td>Exact success and fail scenarios.</td>
-</tr></table>
+</td></tr><tr></tr>
+<tr valign="top"><td><p><b>Pass</b></p><p>Compilable syntax demos are enough.</p>
+Non-compilable too to exclude wrong calls.
+  <p>Tests can remain for a demo and serve as a documentation frame.</p></td>
+<td><p><b>Checklist</b></p><p>Exact success and fail scenarios.</p></td></tr>
+<tr><td align="center" colspan="2"><ins>&nbsp;<b>Is that so easy?</b>&nbsp;</ins></tr>
+</table>
 
-<details align="center"><summary><ins>&nbsp;<b>That easy? Unfortunately not</b>&nbsp;</ins></summary>
+<details align="center"><summary><ins>&nbsp;<b>Unfortunately <samp>NOT</samp></b>&nbsp;</ins></summary>
 &nbsp;
    
 <p align="center"><picture><img alt="&nbsp;Long ridge of high peaks (image credit: kyriosity)" src="../../../../_rsc/_img/illus/tests/TddWatershed-altView.jpg"></picture></p>
@@ -78,17 +78,5 @@ We took the two extremes: API definition vs. coding.
 >  **Design vs. Development are too dissimilar and contradictory to rotate on the same axis.**
 >
 > On a small stand-alone task this separation will be artificial but with a bigger amount trying to combine will burry up concepts with the volume of implementation. On the other hand, changing concepts will result in permanent rework of the realization.
-
-```mermaid
----
-config:
-  look: handDrawn
-  theme: neutral
----
-flowchart LR
-  A[Start] --> B{Decision}
-  B -->|Yes| C[Continue]
-  B -->|No| D[Stop]
-```
 
  <div align="center">🔚 &nbsp;🌒 ...kyriosity, images 2024-2025...</div>
