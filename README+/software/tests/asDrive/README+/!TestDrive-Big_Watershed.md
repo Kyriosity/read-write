@@ -65,10 +65,12 @@ Test-driven Development, fine for discourses, bootcamps, and `classes`, and enco
 </td><td>Exact success and fail scenarios.</td>
 </tr></table>
 
-<details><summary><p align="center"><ins>&nbsp;<b>That easy? Unfortunately not</b>&nbsp;</ins></p></summary>
+<details align="center"><summary><ins>&nbsp;<b>That easy? Unfortunately not</b>&nbsp;</ins></summary>
 &nbsp;
    
-<p align="center"><picture><img alt="&nbsp;Long ridge of high peaks (image credit: kyriosity)" src="../../../../_rsc/_img/illus/tests/TddWatershed_altView.jpg"></picture></p>
+<p align="center"><picture><img alt="&nbsp;Long ridge of high peaks (image credit: kyriosity)" src="../../../../_rsc/_img/illus/tests/TddWatershed-altView.jpg"></picture></p>
+
+We took the two extremes: API definition vs. coding.
 
 \___________</details><h2 align="center">How this shall work together</h2>
 
@@ -89,4 +91,4 @@ flowchart LR
   B -->|No| D[Stop]
 ```
 
- <div align="center">🔚 &nbsp;🌒 ...kyriosity, 2024-2025...</div>
+ <div align="center">🔚 &nbsp;🌒 ...kyriosity, images 2024-2025...</div>
