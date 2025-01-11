@@ -9,7 +9,7 @@
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/A320-dim_cabin.jpg" title="&nbsp;on a flight from NUE" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/NUE-Atlas_747.jpg" title="&nbsp;Boeing 747-422 (Atlas Air) landing in the NUE airport" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/NUE.2024-WtoE.jpg" title="&nbsp;West-East landing in the NUE airport" width="300"/></span>
-<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/NUE-Hall_west.jpg" title="&nbsp;NUE Airport, secured zone on busy in rush hours" width="300"/></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/NUE-Hall_west.jpg" title="&nbsp;NUE Airport, crowded secured zone in rush hours" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/NUE-brougham.jpg" title="&nbsp;Shuttles at the NUE airport" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/2024.06.05_NUE.jpg" title="&nbsp;Sheep spotting (NUE SCHAFft sich ab)" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/secured_zone.jpg" title="&nbsp;TIA security zone" width="300"/></span>
@@ -39,7 +39,7 @@
 
 ### Bottom line - how without cats?
 
-<span><img alt="&nbsp;&nbsp;&nbsp;Stubentiger front of notebook" src="../../../_rsc/_img/photo/blog/ThinkCat.jpg" width="300" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;Stubentiger front of notebook" src="../../../_rsc/_img/photo/blog/ThinkCat.jpg" title="&nbsp;der Stubentiger" width="300" /></span>
 
 \___________
 
