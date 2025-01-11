@@ -8,7 +8,7 @@ GitHub itself doesn't render its site in markdown or flavor despite providing it
 
 <p align="center"><b>But if you still want to try it beyond a slightly formatted text, here is my ounce of teaching illustrated by this repository.</b></p>
 
-<p dir="rtl">«<i>.Markdown forgives. The GitHub doesn't</i>»</p>
+<p dir="rtl"><i>.Markdown forgives</i>»<br /><i>«.The GitHub doesn't</i></p>
 
 ## Editors and Viewers, Tools
 
@@ -60,9 +60,9 @@ WARNING: Different browsers may show some pictograms differently, a snapshot for
 
 <a href="essays/README+/AI-2020s.md#evidence"><img alt="&nbsp;string of emojis presented different" src="../../_rsc/_img/snap/screen/emojis_diff-browsers.jpg" title="&nbsp;Click to see how it looks in yours" /></a>
 
-### Misc
+### Miscellany
 
-Don't forget about naturally supported `code snippets`, and [badges](https://shields.io/)<sup>🔗</sup>
+Don't forget about naturally supported `code snippets`, [math expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)<sup>:octocat:</sup>, and [badges](https://shields.io/)<sup>🔗</sup>.
 
 ## HTML
 
