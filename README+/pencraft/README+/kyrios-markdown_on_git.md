@@ -12,45 +12,49 @@ GitHub itself doesn't render its site in markdown or flavor despite providing it
 
 ## Editors and Viewers, Tools
 
-A simple markdown is readable without WYSIWYG, and no editors are supporting it. No IDE (as Visual Studio) guarantees a "native" browser experience. So, the editor of choice is www.gihub.com where you switch between _Edit_ and _Preview_.
+A simple markdown is readable without WYSIWYG, and no editors are supporting it. No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the editor of choice is www.gihub.com where you switch between _Edit_ and _Preview_.
 
 * There's no excuse to avoid grammar check browser plugins.
 * View releases on browsers with different engines.
-* Always prove the mobile presentation to be legible.
+* Always prove the mobile presentation to be passable (it won't be perfect for rich layout).
 
 ## Limitations
 
 ### Markdown
 
-- Markdown doesn't have special characters like HTML or rich-text editors.
+- Markdown doesn't have codes akin to HTML or rich-text formats (e.g. for non-breaking space).
 - Native markdown tables are intended for little portions of data.
 - There are no variables in markup (Remember it's plain text.)
 
 ### Git
 
 - The saddest experience with raw markdown is that you can't include shared content and snippets but <samp>copy-paste</samp>.
-- GitHub removes styles and some other formatting. Thus there are always borders in both markdown and HTML tables.
+- GitHub removes styles and some other formatting.\
+(Thus there are always borders in both markdown and HTML tables).
 - There's no overlay for image loading but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
 - Many (if not most) Q&A tricks for markdown won't work on Git.
-- GitHub isn't the fastest and smartest markdown engine.
+- GitHub site editir could provide much more actions than Preview and Commit.
+- GitHub isn't the fastest and the smartest markdown engine.
 
 ## Non-text
 
 ### Diagrams
 
-+ Enough to say that you can and shall insert [mermaid](https://mermaid.js.org)<sup>🔗</sup> diagrams. They are evolving pretty fast.
++ Enough to say that you can and shall insert [mermaid](https://mermaid.js.org)<sup>🔗</sup> diagrams. And that they are evolving pretty fast.
 + Entity names can be made into HTML links (but not in every type!).
-+ "Mermaids" aren't for illustration. For a specific layout or artistic look, you must snap/save a drawing in other tools.
++ "Mermaids" aren't for illustration. For a specific layout or artistic look, you have to snap/save a drawing in other apps.
 
 ### Pictures
 
 + That's nothing bad with including images in documents but their size. Markdown on Git won't support extra features like linkable picture areas or images in pop-ups.
 
-### Pictograms
+### Pictograms / Symbols
 
 GitHub markdown has <code>:<i>emoji</i>:</code> codes but it's the same collection as in _emoji keyboard_ (<kbd>Win+.</kbd> for Windows users). 
 The only exception, to my knowledge, is Git's <code>:octocat:</code>.
 Emojis are better than their codes unless a document must be saved as <samp>ASCII</samp>.
+
+HTML symbols enhance the choice.
 
 WARNING: Different browsers may show some pictograms differently, a snapshot for example:
 
@@ -58,11 +62,11 @@ WARNING: Different browsers may show some pictograms differently, a snapshot for
 
 ### Misc
 
-Don't forget about naturally supported `code snippets`, [badges](https://shields.io/)<sup>🔗</sup>
+Don't forget about naturally supported `code snippets`, and [badges](https://shields.io/)<sup>🔗</sup>
 
 ## HTML
 
-HTML elements are required even for simple text: markdown has neither space nor hyphen being non-breaking.
+HTML elements are required even for simple text: markdown has neither non-breaking space nor hyphen.
 
 The richer the content the more HTML you will use. The use of HTML is inevitable inside of `<table>`<i>s</i>.
 
