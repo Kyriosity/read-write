@@ -64,11 +64,11 @@ And it as an ingredient of successful [domain-driven design](../drive/README.md#
 🥇 Core S[E]QL commands.\
 🏆 _Bread crumbling_ for navigation - both the idea and name selection win
 
-Audience choice Price goes to Mrs. [Grace Hopper](../../../../pencraft/README+/quotes/README+/contributors/README.md#Grace-Hopper) who suggested tongue (English) semantics for programming (something so natural now that one can't evaluate).
+Audience choice Price goes to Mrs. [Grace Hopper](../../../../pencraft/README+/quotes/README+/contributors/README.md#Grace-Hopper) who suggested tongue (English) semantics for programming (something so natural now that one can't estimate).
 
-🚧 ... TO BE CONTINED .. 🚧
+ ... TO BE CONTINED .. 
 
-## 🚧 Curtain of grace 🚧
+## Curtain of grace (opened)
 
 🤦 And 1st place goes to ... `dirty` in miscellaneous languages and APIs as the trait of a modified object.
 
@@ -82,9 +82,8 @@ compare to contract
 🍓 
 🪱 longness
 
-dubiosity -> icon
-
-EMOJI is only subset of pictograms.
+'Emoji' defines pictograms overall being only their subset. 
+"Icons" is blasphemous.
 
 🗼"Tower of Babel" award for naming in different alphabets. (Unless it's a highly localized domain or business.)
 
