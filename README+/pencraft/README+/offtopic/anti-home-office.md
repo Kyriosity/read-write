@@ -33,8 +33,13 @@
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/StadtBiblio_MusChair.jpg" width="300" title="&nbsp;Stadtbibliothek, music chair" /></span>
 
 ### Coffee
+
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Starbux.jpg" width="300" title="&nbsp;Starbucks" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Hbf-CoffeeFellows.jpg" width="300" title="&nbsp;Coffee Fellows, Hbf" /></span>
+
+### Bottom line - how without cats?
+
+<span><img alt="&nbsp;&nbsp;&nbsp;Stubentiger front of notebook" src="../../../_rsc/_img/photo/blog/ThinkCat.jpg" width="300" /></span>
 
 \___________
 
