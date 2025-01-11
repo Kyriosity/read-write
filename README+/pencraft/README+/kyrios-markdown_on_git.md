@@ -16,7 +16,7 @@ A simple markdown is readable without WYSIWYG, and no editors are supporting it.
 
 * There's no excuse to avoid grammar check browser plugins.
 * View releases on browsers with different engines.
-* Always prove the mobile presentation to be passable (it won't be perfect for rich layout).
+* Always prove the mobile presentation to be passable (but don't expect a nice layout on small screens).
 
 ## Limitations
 
