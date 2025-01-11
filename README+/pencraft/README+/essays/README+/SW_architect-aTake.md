@@ -21,7 +21,7 @@ ___________<br />
 <sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the Ziggurat of Ur and Egyptian Pyramids suggest (but Stonehenge refutes).</sub>
  </td></tr></table>
 
-## Part&nbsp;I. Software _vs._ Building 
+<h2 align="center">Part&nbsp;I. Software <i>vs.</i> Building</h2>
 
 ### much in common...
 
@@ -72,9 +72,13 @@ Software is the most automated production where copying, scaling, installation, 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>_Arthur Schopenhauer_ (1788-1860), missattributed to _Johann Wolfgang von Goethe_ (1749-1832)</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🐦‍⬛</sup> <sub>or _Babylon Tower_ populated with [💬woodpeckers](../../quotes/README+/aside/controversy.md#woodpecker)</sub> 
 
----
+<details><summary>_________ <b><samp>bottom line</samp></b> _________</summary>
+<table><tr valign="center"><td>picture alt="&nbsp;Museum of tomorrow, Rio de Janeiro" src="../../../../_rsc/_img/" title="&nbsp;??"></picture></td><td>
+<p>Extroordinarity only in titles: Nero burning Rome</p>
+</td><td><picture alt="&nbsp;SAP R/3" src="../../../../_rsc/_img/" title="&nbsp;Gloomy German genius"></picture></td></tr></table>
+_____________________________________________________________________________________</details>
 
-## Part&nbsp;II. Finding _ᾰ̓ρχῐ_-coder
+<h2 align="center">Part&nbsp;II. Finding _ᾰ̓ρχῐ_-coder</h2>
 
 <p dir=rtl><samp>"<b>.I am the Architect</b>"</samp><br /><sup>🎦</sup><i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i>, 2003</p>
 
