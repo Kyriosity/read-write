@@ -86,7 +86,7 @@ Contrary to the building experience programming <ins>disperses the classical fig
 > The bigger the project, the bigger the vertical&varr; and horizontal&harr; offsets of team members according to skills, talents, experience, and preferences with or without roles exchange.
 > <div align="center">( &varr; between coding and design; &harr; within the technologies stack)</div>
 
-<details><summary><ins>&nbsp;"Architect" is often an alias or umbrella term for good known roles and duties:&nbsp;</ins> ➡️</summary>
+<details><summary><ins>&nbsp;"Architect" is often an alias or catch-all term for good known roles and duties:&nbsp;</ins> ➡️</summary>
 
 * _domain expert_ or _business analyst_, who boils down requirements to systematic description,
 * _team lead_ or _project manager_,
