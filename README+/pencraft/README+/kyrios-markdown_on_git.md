@@ -54,7 +54,7 @@ GitHub markdown has <code>:<i>emoji</i>:</code> codes but it's the same collecti
 The only exception, to my knowledge, is Git's <code>:octocat:</code>.
 Emojis are better than their codes unless a document must be saved as <samp>ASCII</samp>.
 
-HTML symbols enhance the choice.
+Review [HTML symbols](https://www.w3schools.com/charsets/ref_html_symbols.asp)<sup>🔗</sup> as a great enhancement of selections.
 
 WARNING: Different browsers may show some pictograms differently, a snapshot for example:
 
