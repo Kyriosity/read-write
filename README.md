@@ -39,14 +39,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/parts/cs-lacks-parts.md">Nice to have</a>&nbsp;➖&nbsp;<a href="README+/.net/README+/parts/cs-feat_shadow.md">In shadow</a><br/>
      <!--                               WPF          --!>
   &nbsp;&nbsp;🪟&nbsp;<a href="README+/.net/README+/wpf"><b>W&thinsp;P&thinsp;F</b></a>
+    <!--                   C L O S E R  to  C O D E      --!>
  <br/><br/><kbd>Closer to code</kbd><br/>
   &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-hints.md">Hints</a>&nbsp;➡️&nbsp;
- <a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/techniques">Patterns</a>
+ <a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames">Frames</a>&nbsp;&nbsp;<b>.&thinsp;.&thinsp;.</b>
  <br />
- &nbsp;&nbsp;&nbsp;<a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames">Frames</a>&nbsp;↗️&nbsp;
-     <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/decisions">Decisions</a>
+ &nbsp;&nbsp;&nbsp;<b>.&thinsp;.&thinsp;.</b>&nbsp;&nbsp;and more on <a href="https://github.com/Kyriosity/use-dev/"><b>&thinsp;use-dev&thinsp;</b></a>&nbsp;
 </td><td>
       <picture><img src="README+/_rsc/_img/_nav/IT_is_waterfall.jpg" alt="&nbsp;... then IT must be a waterfall" /></picture>
      </td>
 </table>
-🔚 ... if the navigation is too motley start with <a href="README+/pencraft/README+/essays/README.md">Essays</a> ...
+🔚 ... if this navigation is baffling => start with <a href="README+/pencraft/README+/essays/README.md">Essays</a> ...
