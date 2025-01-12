@@ -10,11 +10,11 @@ Besides weak points (like bulky names), there are missing:
 - no way to auto-test code that must not compile (e.g. to ensure the right building calls),
 - no support of dynamic test data,
 - no gradual asserts ➡️ [discussion of workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/unit_test-gradual_assert.md),
-- only a single data source ➡️ [multi-feed workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/unit_test-multi_feed.md).
+- only a single data source ➡️ [multi-feed workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/prog_tests-cut_feeds.md).
 
 ## Math
 
-Native [`Math`](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>🔗</sup> is pretty scarce, and 3d-party libraries aren't in the state of the art.
+Native [`Math`](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>🪟</sup> is pretty scarce, and 3d-party libraries aren't in the state of the art.
 
 <b>C#</b> would only profit from a lightweight assembly that could: 
 
@@ -30,7 +30,7 @@ Native [`Math`](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>�
 Rudimentary `DateTime` and `DateOnly` are not intuitive (e.g. `new DateTime(1999, 9, 1, 9, 5, 6, 7)`), rather constrained (e.g. no BCE years), and inflexible. 
 Built-in calendars render limited expansion.
 
-[AbcChrono](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcChrono) in the _use-dev_ repo extends data handling to Bing Bang.
+➡️ [AbcChrono](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcChrono) in the _use-dev_ repo extends data handling to Bing Bang.
 
 ## Measurement systems
 
@@ -82,14 +82,15 @@ And what if .NET foundation classes could:
 And, not least, add syntax sugar like
 
 <details>
-<summary><b>Proposal for grammar interpolation</b></summary>
+<summary><ins>&nbsp;<b>Proposal for grammar interpolation</b>&nbsp;</ins></summary>
+&nbsp;
+
 &nbsp;&nbsp;`${number [: [format] : [forms] : []] }`, where
 
 &nbsp;&nbsp;&nbsp;&nbsp;*number* is whole or fractional subject\
 &nbsp;&nbsp;&nbsp;&nbsp;*format* specifies usual format or to put in words\
 &nbsp;&nbsp;&nbsp;&nbsp;*forms* - grammar forms as in imaginary `INumbered` in the snippet above
 
-</details>
+\___________</details>
 
-\___________\
-🔚
+🔚 🌔 .. 2025
