@@ -81,7 +81,7 @@ This also would make much prettier initialization of objects from factory/builde
 There's no excuse why shortcuts like `ArgumentNullException.ThrowIfNull(...)` aren't added to most exceptions. 
 There could also be static classes without evident _Exception_ suffix (e.g. `NotImplemented.Throw()`). 
 
-Meanwhile, such substitutes are available in use-dev➡️ [exception wrappers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/ExtensionsTests/Exceptions).
+Meanwhile, such substitutes are available in use-dev➡️ [exception shortcuts](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/ExtensionsTests/Exceptions) 🧪.
 
 ### Extra inheritance
 
@@ -183,4 +183,4 @@ Such a feature will be useful also for run-time object composition.
 |- [Parts and frameworks](parts/cs-lacks-parts.md)\
 |- [WPF lacks](wpf/README+/wpf-drawbacks.md)
 
-🔚
+🔚 🌓 2022-2025
