@@ -1,4 +1,4 @@
-# C# &mdash; from praxis &mdash; Hints
+# C# &mdash; <samp>from praxis</samp> &mdash; Hints
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white&color=tomato)](#)
 
@@ -246,12 +246,10 @@ enum FundamentalStatesOfMatter
 
 ### Further
 
-|- [**Design decisions**](https://github.com/Kyriosity/use-dev/tree/main/README+/decisions)➡️(_use-dev_)\
-|--- [Rules and frames](https://github.com/Kyriosity/use-dev/tree/main/README+/frames_rules)\
-|- Sybsystems/frameworks\
-|--- **WPF**\
-|----- [WPF hints](wpf/README+/wpf-hints.md)
+|- **WPF**\
+|--- [WPF hints](wpf/README+/wpf-hints.md)\
+|- **Rules**, **frames**, design **decisions**\
+|--- ➡️ [**use-dev**](https://github.com/Kyriosity/use-dev/blob/main/README.md)
 
-\_______
-
+\___________\
 🔚 <sub>🎼 ©️# XXI</sub>
