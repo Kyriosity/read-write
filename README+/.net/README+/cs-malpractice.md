@@ -22,7 +22,7 @@ To stay with C# in such a case, hardware acceleration patches or external librar
 
 ### Phantom gains
 
-[`ArrayPool`](https://learn.microsoft.com/en-us/dotnet/api/system.buffers.arraypool-1), spans, non-generic collections, record structs, and "jettison" of LINQ are suitable when 1) performance is a huge issue, 2) better syntax and match with entities (e.g. `struct` for _x-y-point_ objects).
+[`ArrayPool`](https://learn.microsoft.com/en-us/dotnet/api/system.buffers.arraypool-1)<sup>🪟</sup>, spans, non-generic collections, record structs, and "jettison" of LINQ are suitable when 1) performance is a huge issue, 2) better syntax and match with entities (e.g. `struct` for _x-y-point_ objects).
 
 ### Obsolete constructs
 
@@ -47,7 +47,7 @@ Nevertheless, let them remain granulated and lightweight with:
 
 Any use for casting, call of props, and methods on them breaches the strongly typed C#. However, it could be a valid workaround or hack when nothing else helps.\
 (Example: for return values of methods, which throw only, to be used in ternary expressions as in custom 
-[exception shortcuts](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcCommu/Errors/_basal/%F0%9F%94%BAException.cs).)
+[`exception shortcuts`](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcCommu/Errors/_basal/%F0%9F%94%BAException.cs).)
 
 ### Dubious `sealed`
 
@@ -72,25 +72,23 @@ try {
 } catch (Exception) { success = false; } // out of memory, disk error ? sweep it under the carpet!
 ```
 
-It's explicit and mostly corrected but not its minor siblings as here:
+It's obvious and most of us won't code such a trap. But what about its minor siblings as here:
 
 ```csharp
 var firstName = "X Æ A-12";
 try {
      names.Human.Register(firstName);
 } catch(ArgumentException) {
-/// expected 
+/// expected
      log.error("Couldn't register invalid: {firstName});
      success = false;
 }
 
 ```
 
-Now consider that we submit a popular legal name (say, "John") and land again in the catch clause. Why?
-Filtering to the expected doesn't exclude the same type thrown from other code parts (e.g. internal bug of our register). 
-
-Solutions for this and other traps with exception are proposed in ➡️[design decisions](https://github.com/Kyriosity/use-dev/tree/main/README+/decisions/README+/intercom/README+/errors) 
+Now consider that we submit a popular legal name "John" and land again in the catch clause. Why?
+Filtering to the expected type doesn't exclude its throw from other code parts (e.g. internal bug of our register). 
 
 \___________
 
-## 🚧 ... TO BE CONTINUED ... 🚧
+🔚 ... 🌔 2023-2025 ... but 🚧 ... TO BE CONTINUED ... 🚧
