@@ -1,32 +1,37 @@
 # C# &mdash; Drawbacks &mdash; "Minority report"
 
-Artworks can be perfect &mdash; not technologies. With all its goodies __C#__ has downsides as bulky declarations of hierarchies, rigid interfaces, and notably restrained generics.
+**`C#`** isn't an artwork to be perfect. Despite nice contributions and best parts, there are downsides, to begin with
 
-The following language artifacts are awkward leastwise for me. 
+- bulky declarations of hierarchies,
+- rigid interfaces,
+- restrained _generics_ and their _constraints_.
+
+The following language artifacts are awkward leastwise for some. 
 
 ## Base
 
-- Rudimentary `0` as the start index in collections<sup>:o:</sup>, which doesn't correlate with the count and shall better start from `1`.
-- Size setters (as for arrays and collections) must have been unsigned integer: <code><b>u</b>int Length { get; }</code>. This could eliminate bugs and run-time errors.
+- Rudimentary `0` as the start index in collections<sup>⭕</sup>, which doesn't correlate with the count and shall better start from `1`.
+- Size setters (as for arrays and collections) must have been unsigned integers: <code><b>u</b>int Length { get; }</code>. This could eliminate a big share of bugs and run-time errors.
 
 ## Syntax
 
 - Rudimentary `;` ending a line brings nothing but visual noise.
-- Constructor names imply extra refactoring on class/struct renaming (could be independent `ctor()`, `this()`). Take the "untitled" `base()` call in the same constructors.
-- Default (when missing)  access modifier<sup>:o:</sup> shall be better reserved for "ultimate" `private` or  `public` than for less EXPLICIT and  less used `internal`
+- Constructor names imply extra refactoring on class/struct renaming &mdash; better be "anonymous" `ctor()` or `this()`.\
+Compare to the `base()` call in the same constructors.
+- Default when missing access modifier<sup>⭕</sup> shall be better reserved for "ultimate" `private` or  `public` than for a less explicit and used `internal`
 - The `const` modifier shall not be limited to pre-compiled values (as in intermediate languages) but prevent re-assignment, as `init` and `readonly` do.
-- No constant option for default values in signatures:  `Do(int val, string remark=string.Empty)`
+- No constant option for default values in signatures. `Do(int val, string remark=string.Empty)` won't compile.
 - Nullable declaration (with `?` prefix) is evident for value types but ambiguous for references and objects, which can be nulled anyway:\
 `string a = null; string? b = null;`
-- a perplexing extension of nullable as `((int?)1).Value` and `((bool?)true).HasValue`<sup>❔</sup>.
+- a perplexing extension of nullable as `((int?)1).Value` and `((bool?)true).HasValue`<sup>❓</sup>.
 
-Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# readability.<sup>🙋</sup> While shortcuts as `[]` for empty colls are rational and eye-pleasing.
+Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# readability.<sup>🙋</sup> While shortcuts as `[]` for empty collections are rational and eye-pleasing.
 
 \_______________
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:o:</sup> <sub>These native features can't be changed.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>Though this paces and hopefully .NET team doesn't plan to make a Perl out of their language</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>❔</sup> <sub>Isn't `null` a value too?</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>⭕</sup> <sub>These native features can't be changed.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<sub>Though you can avoid them and hopefully .NET team doesn't plan to make a Perl out of their language.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>❓</sup> <sub>Isn't `null` a value too (compare to the _undefined_ notion)?</sub>
 
 ### Generics - limitations
 
@@ -34,13 +39,13 @@ The next definition is terse and clear `class CollWrapper<C, T> where C : IColle
 
 Advanced C# design reveals more generic restraints and results in *Vodoo programming* to workaround them.<sup>🙋</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)<sup>:link:</sup> that their generics are "_does nots_" of C++ templates.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)<sup>🪟</sup> that their generics are "_does nots_" of C++ templates.</sub>
 
 ### Fishy shortcuts
 
 Some shortcuts obfuscate original goodies with insignificant gains in size.
 
-For example, [`EnsureSuccessStatusCode`](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpresponsemessage.ensuresuccessstatuscode) is better in its natural form:
+For example, [`EnsureSuccessStatusCode`](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpresponsemessage.ensuresuccessstatuscode) looks better in its expansion:
 
 ```csharp
 if (response.IsSuccessStatusCode) /// or differentiate for more specific conditions
@@ -57,7 +62,7 @@ if (response.IsSuccessStatusCode) /// or differentiate for more specific conditi
 (The workaround may be to [declare the return as an exception to be thrown](cs-hints.md#Gimmicks)).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🐡</sup> <sub>Besides, the override of dummy `Equals()` and `ToString()` may bring nontrivial logic and violate _single responsibility_.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>👣</sup> <sub>Especially annoying in inter-methods within builders, when you expect to select among next steps.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>👣</sup> <sub>Strongly annoying in inter-methods within builders, when you expect to select only among next steps.</sub>
 
 ## Single-class inheritance
 
@@ -65,7 +70,7 @@ A class may refer to only one base class but multiple interfaces with default me
 
 However, arranging the code from some interfaces is rather cumbersome and restrictive, and shall be reserved for limited technical purposes (not multiinheritance design).
 
-Other peculiar and arbitrary alternatives are [extension methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>:link:</sup> and dynamic composition (notably facilitated with [Roslyn](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)<sup>:link:</sup>).
+Other peculiar and arbitrary alternatives are [extension methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>🪟</sup> and dynamic composition (notably facilitated with [Roslyn](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)<sup>🔗</sup>).
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>I do object multi-inheritance for logic as destructive for single-responsibility but would like it for operational adornment: `ToString()`, `NotifyPropertyChanged`, `Compare` and similar.</sub>
 
@@ -75,27 +80,27 @@ Other peculiar and arbitrary alternatives are [extension methods](https://docs.m
 First of all, numerous errors should be moved from `System` to their own `namespace Exception`.__*__
 * Classes like [`Math`](https://docs.microsoft.com/en-us/dotnet/api/system.math), [`MathF`](https://docs.microsoft.com/en-us/dotnet/api/system.mathf) shall be namespaces for granulated domain classes.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*__<sub> System.SystemException => Exception.System</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*__<sub> System.SystemException &rArr; Exception.System</sub>
 
 ## Casting limitations
 
-- [Named tuples](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/august/essential-net-csharp-7-0-tuples-explained)<sup>:link:</sup> and anonymous objects are very handy to submit sporadic composed results, but can't cast to an interface or class.
+- [Named tuples](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/august/essential-net-csharp-7-0-tuples-explained)<sup>🪟</sup> and anonymous objects are very handy to submit sporadic composed results, but can't cast to an interface or class.
 - Some obvious inheritance is missing (e.g. can't cast `DateTime` to `DateOnly`).
 - Neither implicit nor explicit downcasting works while JSON (de)serialization legally does this operation.\
 Allowing this cast doesn't contradict type safety.\
-ToDo: an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)<sup>:link:</sup>
+`// ToDo:` an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)<sup>🪟</sup>
 
 ## Built-in and shipped types 
 
 ### Numbers
   
 - Does either developer ponder ten(!) primitive whole types when writing ordinary `for (var i = 0; i < count; i++)`?
-- Summing up 0.1 and 0.2 will reveal a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)<sup>:link:</sup> unless explicitly declared decimal.<sup>🪲</sup>\
+- Summing up 0.1 and 0.2 will reveal a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)<sup>🔗</sup> unless explicitly declared decimal.<sup>🪲</sup>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🪲</sup> Debug `var roundErr = 0.1 + 0.2;` to prove.
 
 Developers should better declare just a *numeric* and distinguish only the way it's processed: fixed (default) or floating. It would be a great option to derive subclasses from this _numeric_ could (with range and precision constraints).
 
-C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.numerics.inumber-1)<sup>:link:</sup> which genericizes numbers but in a bulky and restricted fashion.<sup>🙋</sup>
+C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.numerics.inumber-1)<sup>🪟</sup> which genericizes numbers but in a bulky and restricted fashion.<sup>🙋</sup>
 
 ### String
 
@@ -118,11 +123,11 @@ Continued in [C# lacks - Dates](parts/cs-lacks-parts.md#Dates).
 ## Inborn naming
 
 -  *Interface* is a term that is too common for contracts (not only in C#).
-- LINQ [`Revers()`](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse), is actually *flip*.
+- LINQ [`Reverse()`](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse), is actually *flip*.
 - Type modifiers _in_/_out_ for contra-/covariance collide with the same name parameter modifiers (_more_/_less_ can be better)
 
-## 🚧 To be continued ...
+## Wrap up
 
-The list is far from being complete and I wait for one day (better to say a decade) when .NET hits a higher note - D-flat or even D#.
+The list is far from being complete but I wait for a day (more correct to say a year) when Danish Masters or their disciples will strike a higher note - D-flat or even `D#`.
 
-🔚
+<div align="center">🔚 ... 🌘 2023-2025, to be continued ...</div>
