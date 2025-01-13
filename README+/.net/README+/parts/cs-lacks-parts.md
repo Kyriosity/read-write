@@ -1,15 +1,15 @@
 # C# &mdash; Nice to have &mdash; Parts and frameworks
 
-Along with [nice-to-have syntax/features](../cs-lacks.md) there are some bigger blocks of ideal C#.
+Along with [nice-to-have syntax/features](../cs-lacks.md) there are some bigger blocks of ideational `C#`.
 
 ## Testing
 
 Tests for drive or coverage are optional but a natural part of development. The three most popular frameworks for .NET (NUnit, xUnit, MSTest) have pros and cons, but neither is state-of-the-art.
 
 Besides weak points (like bulky names), there are lacks:
-- no way to auto-test code that must not compile (e.g. to exclude the wrong branches of building calls),
-// EXAMPLE in USE-DEV
+
 - no support of dynamic test data,
+- no way to auto-test code that must not compile (e.g. to exclude the wrong branches of building calls) ➡️ [semantic posers](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-semantics.md),
 - no gradual asserts ➡️ [discussion of workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/unit_test-gradual_assert.md),
 - only a single data source ➡️ [multi-feed workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/prog_tests-cut_feeds.md).
 
@@ -94,4 +94,9 @@ And, not least, add syntax sugar like
 
 \___________</details>
 
+### Classification and attributes
+
+The custom use-dev➡️ [⭐ISie⭐](https://github.com/Kyriosity/use-dev/blob/main/README%2B/parts/_ext/README%2B/ISie.md) demanded me to make fast [AbcLingua](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/Abc/Lingua) folders. But I'd rather find such a structure in C# language or frameworks.
+
+\___________\
 🔚 🌔 .. 2025
