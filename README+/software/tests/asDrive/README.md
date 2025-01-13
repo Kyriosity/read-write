@@ -7,11 +7,10 @@ The hypothesis to write tests not only _a posteriori_ to validate available and 
 
 **Tests make abstract matters tactile and feasible.** Simplicity and versatility make **TDD** superb for insight into fuzzy topics (almost any new application, novel development, or features). 
 
-Tests are superconductors of design drives - domain, behavior, data, hardware model, - whatsoever.
+Tests are superconductors of design drives - domain, behavior, data, hardware model, - whatsoever. 
+They can work in both directions: to code the tasks, and to decode the existing functionality (also to find out bugs).
 
-They can work in both directions: to create the code, and to debunk the existing.
-
-Sorry to interrupt this idyll narrative but can't help speaking about the next branching:
+<p align="center">Sorry to interrupt this idyll narrative but I can't help speaking about the next branching:</p>
 
 <table align="center"><tr><td>
   <p align="center"><ins>&thinsp;TEST DRIVEN <b>DESIGN</b>&thinsp;</ins></p>
