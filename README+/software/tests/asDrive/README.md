@@ -9,6 +9,8 @@ The hypothesis to write tests not only _a posteriori_ to validate available and 
 
 Tests are superconductors of design drives - domain, behavior, data, hardware model, - whatsoever.
 
+They can work in both directions: to create the code, and to debunk the existing.
+
 Sorry to interrupt this idyll narrative but can't help speaking about the next branching:
 
 <table align="center"><tr><td>
