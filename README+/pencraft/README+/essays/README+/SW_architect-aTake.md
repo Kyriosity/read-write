@@ -5,7 +5,7 @@ title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nb
  (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin adjacent activities</a>.
  </td></tr></table>
 
-# Architecture and Architects
+# <samp>Stone-Code diptych.</samp> Architecture and Architects
 
 <table><tr valign="top">
  <td widh="35%">
@@ -21,7 +21,7 @@ ___________<br />
 <sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the Ziggurat of Ur and Egyptian Pyramids suggest (but Stonehenge refutes).</sub>
  </td></tr></table>
 
-<h2 align="center">Part&nbsp;I. Software <i>vs.</i> Building</h2>
+<h1 align="right">Part&nbsp;I. Software <i>vs.</i> Building</h1>
 
 ### much in common...
 
@@ -35,16 +35,17 @@ Both can't rely solely on generations of experience and picked masterminds but o
 
 ### ...but diffs are bigger
 
-<p dir=rtl><sup>🎼</sup>«.<b><code>IF</code></b>&nbsp;<span title=":Full original quote (DE-de)&#013;&#010;.Architektur ist gefrorene Musik»&#013;&#010;Möge es immer beschwingt und)&#013;&#010;«(!harmonisch zugehen in diesem Haus">
- «<ins>Architecture is a frozen music</ins></span><br />
+<p align="right"><b><code>IF</code></b>&nbsp;«Architecture is a frozen music.»<br />
+<sub><i>Arthur Schopenhauer</i> (1788-1860)</sub><br />
 <b><code>THEN</code></b>&nbsp;software is a symphonic cacophony<br />
- <sup>🐦‍⬛</sup>&thinsp;.[unleashed under the wandering circus tent&thinsp;]</p>
+[unleashed under the wandering circus tent&thinsp;].<br />
+Or <i>Tower of Babel</i> populated with <a href="../../quotes/README+/aside/controversy.md#woodpecker">woodpeckers</a><sup>💬</sup>.</p>
 
 <table><tr valign="top">
 <td width="30%"><picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title="&nbsp;AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture>
  <br /><ins>&nbsp;Buiding diagram&nbsp;</ins>
 </td><td>
- <p>Buildings are static, conservative, and traditional &mdash; software is fluid, experimental, and free of nostalgia (as neoclassicism takes).</p>
+ <p>Buildings are static, conservative, and traditional &mdash; software is fluid, experimental, and free of nostalgia (as neoclassicism on Danube).</p>
  <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).</p>
   <p>Software doesn't rust or erode but gets obsolete in a few years. Decades (bare minimum for wood cabins) set records in residual mainframe software, which won't recur (till interstellar flights).</p>
  </td>
@@ -59,26 +60,30 @@ Software is the most automated production where copying, scaling, installation, 
 <table><tr valign="top"><td>
  <p>A construction engineer, whose modeling tasks mingle with stirring concrete, who is up and there on the spot to supervise the progress and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
 ... must be a fantastic creature &mdash; but a usual Jack-of-all-trades in software teams where construction places are open 🕙24x7 💻laptop.</p>
-  <p>Building education and  activities are very narrow and regulated (also legally). IT indulges formalities of schooling.</p>
- </td><td width="30%">
+  <p>Building education and  activities are very narrow and regulated (also legally). <b>IT</b> indulges formalities of schooling.</p>
+ <p><b>Ultima ratio</b>: slang differs.</p>
+</td><td width="30%">
   <picture><img src="../../../../_rsc/_img/snap/screen/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" 
             title="&nbsp;Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture>
-  <br /><ins>&nbsp;Software diagram&nbsp;</ins>
+  <br /><div align="right"><ins>&nbsp;Software diagram&nbsp;</ins></div>
  </td></tr></table>
 
-**Ultima ratio**: slang differs.
+<details><summary>_________&thinsp;<b><samp>bottom line</samp></b>&thinsp;_________</summary>
+<table><tr valign="top"><td width="50%"><picture><img alt="&nbsp;Museu_do_amanha(tripadvisor.com).jpg" src="../../../../_rsc/_img/photo/build/Museu_do_amanha(tripadvisor.com).jpg" title="&nbsp;Designed by Santiago Calatrava" /></picture><br />
+      Museum of Tomorrow, Rio de Janeiro</td><td>
 
-\_______\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎼</sup> <sub>_Arthur Schopenhauer_ (1788-1860), missattributed to _Johann Wolfgang von Goethe_ (1749-1832)</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🐦‍⬛</sup> <sub>or _Babylon Tower_ populated with [💬woodpeckers](../../quotes/README+/aside/controversy.md#woodpecker)</sub> 
 
-<details><summary>_________ <b><samp>bottom line</samp></b> _________</summary>
-<table><tr valign="center"><td>picture alt="&nbsp;Museum of tomorrow, Rio de Janeiro" src="../../../../_rsc/_img/" title="&nbsp;??"></picture></td><td>
-<p>Extroordinarity only in titles: Nero burning Rome</p>
-</td><td><picture alt="&nbsp;SAP R/3" src="../../../../_rsc/_img/" title="&nbsp;Gloomy German genius"></picture></td></tr></table>
-_____________________________________________________________________________________</details>
+Building rests on easy functional designs that facilitate easy, cheap, mass construction. The most advanced and creative specimen may receive to BREAKING the STANDARDS and norms to create unique AESTETICS, which can become art or cultural heritage.
 
-<h2 align="center">Part&nbsp;II. Finding _ᾰ̓ρχῐ_-coder</h2>
+Software ...
+       
+<p>While the goal of software architecture is formalism and uniformity.</p>
+<br /><picture><img alt="&nbsp;.jpg" src="../../../../_rsc/_img/snap/screen/SAP_R3_ScreenArea(StyleGuide).jpg" title="&nbsp;«And gloomy Teutonic genius...»" /></picture><br />
+       Screen areas of <b>SAP</b> R/3 <a href="https://help.sap.com/saphelp_tm90/helpdata/en/3b/5deaed2b82ef488ddac3d43535f708/MiniSG.pdf">Style Guide</a>
+</td></tr></table>
+</details>
+
+<h1 align="right">Part&nbsp;II. Finding <i>ᾰ̓ρχῐ</i>-coder</h1>
 
 <p dir=rtl><samp>"<b>.I am the Architect</b>"</samp><br /><sup>🎦</sup><i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i>, 2003</p>
 
@@ -121,10 +126,9 @@ And let's salt all this with a bitter reminder that major software isn't _Panthe
 
 \___________
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom IN/OUT</mark>" from [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64)
-<sup><picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture></sup> of thrivingtechnologist.com (who stands out as _architect_ - am i ungrateful?)</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom IN/OUT</mark>" from <picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture> [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) (thrivingtechnologist.com)</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of C#.NET in Microsoft are titled _architects_ or _leads_ but all of them show strong coding skills at presentations.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu).</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of C#.NET in Microsoft are titled _architects_ or _leads_ but all of them show fluent coding skills at presentations.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Images credit: AutoCAD, Microsoft, SAP, Tripadvisor, and kyriosity</sub>
 
 <div align="center"><b>.......</b> &nbsp;🔚 &nbsp;🌘 kyriosity 2023-2025&nbsp;&nbsp;&nbsp;<b>.......</b></div>
