@@ -96,9 +96,9 @@ Justified because of the changed requirements as discussed a bit in [quotes](../
 &nbsp;
 
 <table><tr valign="top"><td width="50%"><picture><img src="../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture></td><td>
-  <p>I heard it from a <code>C++</code>-gifted colleague when we exchanged <samp>DOOM</samp> experience. He noted that real battles and warriors were in the past when if there were video consoles they were very primitive.</p>
-  <p>The story goes that computer scientists used the relatively idle nighttime to gather in their computer centers and combat resources with all possible and impossible hacks in <i>machine languages</i>.</p>
-  <p>The winner occupied the whole memory of the opponent's machine (or of the timeslot?).</p>
+  <p>I heard it from a <code>C++</code>-gifted colleague when we exchanged <samp>DOOM</samp> experience. He noted that true multi-warrior computer games belong to the past - times of very primitive monochrome text monitors (if not arrays of light bulbs).</p>
+  <p>The lore goes that computer scientists (every programmer was one) used relatively idle nighttime to gather in their computer centers and combat resources with all impossible (there were no possible) and unthinkable hacks in <i>machine languages</i>.</p>
+  <p>The winner (usually senior in age and title) occupied the whole memory of the opponent's machine (or of the timeslot?).</p>
 </td></tr></table>
 
 <div align="right"><sub>Image credit: screengrab from imdb.com. Fei Lung and Carter Wong in <i>Born Invincible</i>, 1978</sub></div>
