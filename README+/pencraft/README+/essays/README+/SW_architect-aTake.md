@@ -13,12 +13,12 @@ title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nb
   <i>Walhalla</i> on the river Danube, Bavaria (built 1820-1842) is an exemplary neoclassicism.
  </td><td width="65%">
 <p>The essence of architecture appeared as folks managed to erect somewhat more extravagant and durable than a hut of piled branches (beginning from megaliths).</p>
-<p>Some ancient Hellenes were so good at construction sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> - the term romanized to <i>architecture</i> centuries later.</p>
-<p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &mdash; 
+<p>Some ancient Hellenes were so good at construction sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &mdash; the term romanized to <i>architecture</i> centuries later.</p>
+<p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &rarr; 
 refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
 <p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. However, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) and architects of détente or <em>economic miracle</em> are compliments (or flattery).</p>
 ___________<br />
-<sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the Ziggurat of Ur and Egyptian Pyramids suggest (but Stonehenge refutes).</sub>
+<sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the _Ziggurat of Ur_ and Egyptian Pyramids suggest (but Stonehenge refutes).</sub>
  </td></tr></table>
 
 <h1 align="right">Part&nbsp;I. Software <i>vs.</i> Building</h1>
@@ -71,14 +71,10 @@ Software is the most automated production where copying, scaling, installation, 
 <details><summary>_________&thinsp;<b><samp>bottom line</samp></b>&thinsp;_________</summary>
 <table><tr valign="top"><td width="50%"><picture><img alt="&nbsp;Museu_do_amanha(tripadvisor.com).jpg" src="../../../../_rsc/_img/photo/build/Museu_do_amanha(tripadvisor.com).jpg" title="&nbsp;Designed by Santiago Calatrava" /></picture><br />
       Museum of Tomorrow, Rio de Janeiro</td><td>
-
-
-Building rests on easy functional designs that facilitate easy, cheap, mass construction. The most advanced and creative specimen may receive to BREAKING the STANDARDS and norms to create unique AESTETICS, which can become art or cultural heritage.
-
-Software ...
-       
-<p>While the goal of software architecture is formalism and uniformity.</p>
-<br /><picture><img alt="&nbsp;.jpg" src="../../../../_rsc/_img/snap/screen/SAP_R3_ScreenArea(StyleGuide).jpg" title="&nbsp;«And gloomy Teutonic genius...»" /></picture><br />
+<p>Building rests on easy functional designs that facilitate easy, cheap, mass construction. 
+ The most advanced and creative specimen may receive big funding to break the standards and create unique extraordinary pieces of aesthetics, art, and cultural heritage.</p>
+<p>Best IT design canalizes great creativity into something that will become uniform mainstream: standards, patterns, and templates.</p>
+<br /><picture><img alt="&nbsp;.jpg" src="../../../../_rsc/_img/snap/screen/SAP_R3_ScreenArea(StyleGuide).jpg" title="&nbsp;«And gloomy Germanic genius...»&#013;&#010;___________&#013;&#010;(It's a poetical quote.)" /></picture><br />
        Screen areas of <b>SAP</b> R/3 <a href="https://help.sap.com/saphelp_tm90/helpdata/en/3b/5deaed2b82ef488ddac3d43535f708/MiniSG.pdf">Style Guide</a>
 </td></tr></table>
 </details>
