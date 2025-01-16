@@ -95,10 +95,14 @@ Justified because of the changed requirements as discussed a bit in [quotes](../
 <details><summary><ins>&nbsp;<b>L<samp>EGEND</samp> of memory masters</b>&nbsp;</ins></summary>
 &nbsp;
 
-<table><tr valign="top"><td width="50%"><picture><img src="../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture></td><td>
-  <p>I heard it from a <code>C++</code>-gifted colleague when we exchanged <samp>DOOM</samp> experience. He noted that true multi-warrior computer games belong to the past - times of very primitive monochrome text monitors (if not arrays of light bulbs).</p>
-  <p>The lore goes that computer scientists (every programmer was one) used relatively idle nighttime to gather in their computer centers and combat resources with all impossible (there were no possible) and unthinkable hacks in <i>machine languages</i>.</p>
+<table><tr valign="top"><td width="50%"><picture><img src="../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture><br />
+PICTURE OF MEMORY CHIP</td><td>
+  <p>I heard it from a <code>C++</code>-gifted colleague when we exchanged <samp>DOOM</samp> experience (already lores too). He noted that true multi-warrior computer games belong to the past - times of very primitive monochrome text monitors (if not arrays of light bulbs).</p>
+  <p>I remastered and enhanced the tale.</p>
+  <p>The lore goes that computer scientists (every programmer was one) used relatively idle nighttime<sup>🌛</sup> 
+    to gather in their computer centers and combat resources with all impossible (there were no possible) and unthinkable hacks in <i>machine languages</i> (no dirty cheats or vulgar social engineering).</p>
   <p>The winner (usually senior in age and title) occupied the whole memory of the opponent's machine (or of the timeslot?).</p>
+  <sup>🌛</sup> <sub>Relatively, since computer time was so deficient, a couple of hours in night shifts on BIG machines was a big luck for junior fellows (daytime was out of reach for them at all).</sub>
 </td></tr></table>
 
 <div align="right"><sub>Image credit: screengrab from imdb.com. Fei Lung and Carter Wong in <i>Born Invincible</i>, 1978</sub></div>
