@@ -13,9 +13,10 @@ Explorers on the other side will overestimate weak decisions, and search for dee
 
 \_________
 
-**General to the theme:**\
+**More to the topic:**\
 |- [Tech docu](../../../pencraft/README+/tech_docu.md)\
-|--- [Tips](../../../pencraft/README+/tips-tech_docu.md)
+|-- [Tips](../../../pencraft/README+/tips-tech_docu.md)\
+|--- [Markdown tips](../../../pencraft/README+/kyrios-markdown_on_git.md)
 
 ## Recording ⏺️ design ⏹️
 
@@ -121,4 +122,4 @@ Disadvantage: it's a one-time exercise that takes hours from most competent team
 Taking advantage of the disadvantage: everybody learns how to present the design and see its strong and weak sides.
 
 \___________\
-🔚 ... Image credit: NASA archives
+🔚 ... 🌘 2023-2025 ... image credit: NASA archives
