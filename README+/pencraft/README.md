@@ -33,6 +33,5 @@ The writings and collections here are ...
 * The subject of continuous delivery (i.e. endless edit and modification).
 * Some opuses may be in the badly readable state of 🚧draft🐝 (skip them while I do my best to finish).
 
-\___________
-
-:end: <sub>You are welcome to contribute and correct errata.</sub>
+\___________\
+🔚 🌘 2023-2025 &rArr; 📂[README+](README+)
