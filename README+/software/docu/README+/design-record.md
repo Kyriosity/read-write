@@ -1,13 +1,15 @@
 # Software - Design - Documentation
 
-[Quality code](../../QA/README+/code-quality.md) with profound and thoroughly categorized [names](../../design/names) must explain design brainchilds in intuitive fashion. Sincerely written [design-defining-tests](../../design/drive/) must smoothly introduce them. And nothing is more suitable for reverse engineering (manual or automatic) than source codes. 
+[Quality code](../../QA/README+/code-quality.md) with profound and thoroughly categorized [names](../../design/names) must explain design brainchilds in intuitive manner. 
+Liably written [design-defining-tests](../../design/drive/) must smoothly introduce them. And nothing is more suitable for reverse engineering (manual or automatic) than source codes. 
 
-Albeit this approach solus becomes gradually tougher (until it hits the wall of the perfectionism exponent) and will not reveal remarkable design/architecture intentions. It's warped to unfold the big canvas of abstractions.
+This combination alone will gradually become tougher and steeper (until it hits the wall of the perfectionism exponent) and won't reveal remarkable design/architecture intentions. 
+It's warped to unfold the big canvas of abstractions.
 
 In reality, the code will be partly or greatly obscure and tests will lack clarity and both &mdash; seamless categorization. 
-Code prose and time will bury grand (no sarcasm) design decisions unless highlighted with a pen. 
+Code prose and time will bury grand (no sarcasm intended) design decisions <mark>unless highlighted with a pen</mark>.
 
-Explorers on the other side will overestimate weak decisions, and search for deep meaning in shallow parts.
+Explorers may also overestimate weak decisions, and search for deep meaning in shallow parts.
 
 **That's why software design needs documentation, which must be a creative stratum between code readability and dev team lore.**
 
