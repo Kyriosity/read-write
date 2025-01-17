@@ -33,7 +33,7 @@ A simple markdown is readable without WYSIWYG, and no editors are supporting it.
 (Thus there are always borders in both markdown and HTML tables).
 - There's no overlay for image loading but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
 - Many (if not most) Q&A tricks for markdown won't work on Git.
-- GitHub site editir could provide much more actions than Preview and Commit.
+- It's easier to list what the GitHub site editor has (few shortcut keys) rather than what's expected (toolbars, context menus, safe saving and so on).
 - GitHub isn't the fastest and the smartest markdown engine.
 
 ## Non-text

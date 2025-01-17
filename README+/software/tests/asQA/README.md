@@ -3,6 +3,8 @@
 <table><tr valign="top"><td><picture><img width="400px" alt="&nbsp;Software tests pyramid" src="../../../_rsc/_img/illus/tests/test_pyramid-deco-750px.jpg"></picture></td><td>
   <h3><i>Programmatic test</i> is a fundamental QA stone.</h3>
   <p>Though unit tests are at the bottom of the pyramid any high-level test subject is a unit of its own.</p>
+  <p>This works in the opposite direction: there's no atomic test unit that couldn't be dissolved into lesser (to cover rationally without the explosion of code size). 
+  Our unit tests always drag lower lever units.</p>
 </td></tr></table>
 
 ## Test frameworks and languages

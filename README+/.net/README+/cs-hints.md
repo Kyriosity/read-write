@@ -95,14 +95,10 @@ Making a "magic value" to constants or predefined values doesn't clean the code 
 
 </details>
 
-<details><summary><ins>&nbsp;Extension methods and props work on </ins><code>null</code>&nbsp;<ins>...</ins></summary>
+<details><summary><ins>&nbsp;Extension methods (props in future) on </ins><code>null</code>&nbsp;<ins>...</ins></summary>
 &nbsp;
 
-... and facilitate queer calls causing no `NullReferenceException` &mdash; such as `((string)null).AnyStringExtensionMethod(...)`
-
-And it's good and practical, as a loved and often added shortcut `stringInstance.IsNullOrWhitespace`.
-
-Further, this hack can shrink guards. Suppose, `stringArg.MustBeWordOfMinLength(numChars)`.
+Such calls can [run on null](https://github.com/Kyriosity/use-dev/blob/main/README+/frames/README+/calls_on_null.md). You can extend [⭐&thinsp;<b>I&thinsp;S&thinsp;I&thinsp;e</b>&thinsp;⭐](https://github.com/Kyriosity/use-dev/blob/main/README+/parts/_ext/README+/ISie.md) `string` and `INumber` extensions or smartly apply such similar to other objects.
 
 </details>
 
@@ -111,11 +107,11 @@ Further, this hack can shrink guards. Suppose, `stringArg.MustBeWordOfMinLength(
 <details><summary><ins>&nbsp;Not only instance&nbsp;</ins><code>required</code></summary>
 &nbsp;
 
-A `required` marker is essential but requires immediate instantiation, impossible in many scenarios (e.g. _builder_, lazy, on demand).
+The `required` marker might be essential, but it imposes immediate instantiation, which is impossible under some circumstances: _builder_, lazy, on-demand, and so on.
 
 Leaving the default value for non-nullable values is bug-friendly, and nullable isn't much better.
 
-[Clay in use-dev](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcChrono/Models/Hap.cs) shows a custom workaround.
+[Use-dev stuff](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcChrono/Timescales/Models/Hap.cs) shows a custom workaround, not perfect but...
 ```csharp
  UnixYear => _unixYear ?? NotSet.Throw(UnixYear);
 ```

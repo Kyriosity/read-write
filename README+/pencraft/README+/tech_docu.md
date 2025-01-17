@@ -25,7 +25,8 @@ A tracking system may collect and generate documentation with a pleasant degree 
 * **Last but not least**, if you author regularly, contribute to content management tools and templates to facilitate further etudes for you and others.
 
 **Further**:\
-|- [Documentation tips](tips-tech_docu.md)
+|- [Documentation tips](tips-tech_docu.md)\
+|-- [Markdown tips](kyrios-markdown_on_git.md)
 
 ## Wrapping up: Resources
 
@@ -42,4 +43,4 @@ Don't anticipate much from IT leaders but must-know hints and rules:
 + [LibreOffice](https://www.libreoffice.org/) &mdash; may be the best freeware to write and draw (open source with fresh [git contributions](https://github.com/LibreOffice)<sup>:octocat:</sup>).
 + [Mermaid](https://mermaid.js.org/intro/) &mdash; sketching diagrams of misc. types **native supported** in :octocat: markdown
 
-🔚 :crescent_moon:2024
+🔚 🌙 2024-2025

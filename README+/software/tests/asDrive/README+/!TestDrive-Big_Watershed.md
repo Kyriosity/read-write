@@ -51,7 +51,8 @@ Test-driven Development, fine for discourses, bootcamps, and `classes`, and enco
       <li>layout the print of test coverage</li>
    </ul></td></tr>
       <!--              VOLATILE vs. STABLE      --!>
-<tr></tr><tr valign="top"><td><b>Volatile</b><br />Design tests and code behind will inevitably come through approximations, and changes.</td><td><b>Stable</b><br />Implementation must be done on defined tasks.</td></tr>
+<tr></tr><tr valign="top"><td><b>Volatile</b><br />Design tests and code behind will inevitably come through approximations, and changes.<p>🤷🏼‍♀️ YAGNI</p></td>
+<td><b>Stable</b><br />Implementation must be done on defined tasks.<p>✅ YAGNI</p></td></tr>
 </td></tr><tr></tr><tr><td>Define general interfaces and back them with test doubles</td><td>Implement this interfaces</td></tr>
 </td></tr><tr></tr><tr><td>
 <p>Tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.</p>
@@ -62,7 +63,7 @@ Test-driven Development, fine for discourses, bootcamps, and `classes`, and enco
 Non-compilable too to exclude wrong calls.
   <p>Tests can remain for a demo and serve as a documentation frame.</p></td>
 <td><p><b>Checklist</b></p><p>Exact success and fail scenarios.</p></td></tr>
-<tr><td align="center" colspan="2"><ins>&nbsp;<b>Is that so easy?</b>&nbsp;</ins></tr>
+<tr><td align="center" colspan="2"><ins>&nbsp;<b>Is that so easy&thinsp;?</b>&nbsp;</ins></tr>
 </table>
 
 <details align="center"><summary><ins>&nbsp;<b>Unfortunately <samp>NOT</samp></b>&nbsp;</ins></summary>

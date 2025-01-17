@@ -79,6 +79,8 @@ However, even its addicts may be unfamiliar with many tenable features. I knew a
 `SkipWhile`, `Append`, and `Prepend`, 
 obscenely later than I must have used them.
 
+Attach here [`Lookup`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.lookup-2) &mdash; the counterpart of the well-known `Dictionary`.
+
 It's also better to be aware of disputable methods like 
 [`OfType`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.oftype), 
 [`DefaultIfEmpty`](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.defaultifempty), 
