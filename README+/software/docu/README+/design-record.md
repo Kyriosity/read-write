@@ -1,4 +1,4 @@
-# Software - Design - Documentation
+# Software &mdash; Design &mdash; Documentation
 
 [Quality code](../../QA/README+/code-quality.md) with profound and thoroughly categorized [names](../../design/names) must explain design brainchilds in intuitive manner. 
 Liably written [design-defining-tests](../../design/drive/) must smoothly introduce them. And nothing is more suitable for reverse engineering (manual or automatic) than source codes. 
@@ -15,10 +15,7 @@ Explorers may also overestimate weak decisions, and search for deep meaning in s
 
 \_________
 
-**More to the topic:**\
-|- [Tech docu](../../../pencraft/README+/tech_docu.md)\
-|-- [Tips](../../../pencraft/README+/tips-tech_docu.md)\
-|--- [Markdown tips](../../../pencraft/README+/kyrios-markdown_on_git.md)
+> 🙋🏼 **This topic is a part of ✒️[P<samp>ENCRAFT</samp>](../../../pencraft/README.md)**.
 
 ## Recording ⏺️ design ⏹️
 
@@ -33,7 +30,7 @@ The higher the level and more concise (yet complete) the documentation &mdash; t
 
 ### Log/Blog
 
-Commit comments can make a skeleton of the design log. Theoretically automated but practically there will be too many mixed entries with white noise.
+Accurate and meaningful commit comments can make a skeleton of the design log. Theoretically automated but practically there will be too many mixed entries with white noise.
 
 Just a daily (semi-weekly) log (or blog) on notable decisions could be a great help in documenting the pace of design. 
 
@@ -50,7 +47,7 @@ However, they cost time, restrain presentation, stick the vision to 2D (literall
 
 The compromise is to maintain top diagrams with modest detailing. Make presentations with and root documentation from them. 
 
-<details><summary><ins>&nbsp;Don't be shy with sketches. Look like NASA made it in 1960s:&nbsp</ins></summary>
+<details><summary><ins>&nbsp;Don't be shy with sketches. Look like NASA charted it in 1960s:&nbsp</ins></summary>
 &nbsp;
   
 <picture><img alt="&nbsp;freehand fast graphic sketch of space station" src="../../../_rsc/_img/snap/NASA.Sketch.SaturnV_to_station-1960s.jpg"></picture>
@@ -99,7 +96,7 @@ As an example in progress see ➡️[use-dev](https://github.com/Kyriosity/use-d
 
 Applying aesthetic traits to attribute images or enliven the text highly motivates readers when done with taste and bounds. Highly recommended as memory "anchors" on difficult subjects.
 
-## Appendix 2/2. Alternatives?
+## Appendix 2/2. Alternatives to documentation
 
 ### Video tutorial - Screen capture
 
@@ -124,4 +121,4 @@ Disadvantage: it's a one-time exercise that takes hours from most competent team
 Taking advantage of the disadvantage: everybody learns how to present the design and see its strong and weak sides.
 
 \___________\
-🔚 ... 🌘 2023-2025 ... image credit: NASA archives
+🔚 ... 🌘 2023-2025
