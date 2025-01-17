@@ -33,16 +33,18 @@ A simple markdown is readable without WYSIWYG, and no editors are supporting it.
 (Thus there are always borders in both markdown and HTML tables).
 - There's no overlay for image loading but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
 - Many (if not most) Q&A tricks for markdown won't work on Git.
-- It's easier to list what the GitHub site editor has (few shortcut keys) rather than what's expected (toolbars, context menus, safe saving and so on).
+- It's easier to list what the GitHub site editor has (few shortcut keys) rather than what's expected (toolbars, context menus, safe saving, and so on).
 - GitHub isn't the fastest and the smartest markdown engine.
 
 ## Non-text
 
 ### Diagrams
 
-+ Enough to say that you can and shall insert [mermaid](https://mermaid.js.org)<sup>🔗</sup> diagrams. And that they are evolving pretty fast.
++ GitHub renders `mermaid` diagrams in markdown. If you don't know them a [quick tour](https://mermaid.js.org)<sup>🔗</sup> is enough to chart your ideas.
 + Entity names can be made into HTML links (but not in every type!).
-+ "Mermaids" aren't for illustration. For a specific layout or artistic look, you have to snap/save a drawing in other apps.
++ "Mermaids" mushrooming gives hope to see a WYSIWYG tool soon.
+
+"Mermaids" are beautiful but not for drawings. For a specific layout or artistic look, you have to snap/save a drawing in other apps.
 
 ### Pictures
 
@@ -66,7 +68,7 @@ Don't forget about naturally supported `code snippets`, [math expressions](https
 
 ## HTML
 
-HTML elements are required even for simple text: markdown has neither non-breaking space nor hyphen.
+HTML elements are required even for simple text: markdown has neither non-breaking space nor a hyphen.
 
 The richer the content the more HTML you will use. The use of HTML is inevitable inside of `<table>`<i>s</i>.
 
@@ -74,7 +76,7 @@ The richer the content the more HTML you will use. The use of HTML is inevitable
 
 Advice Nr&thinsp;1 is **don't try to hack git markdown**. Even if you manage to style some stuff one day Git may sweep it out.
 
-Best HTML pals are
+Best HTML pals of markdown writers are
 
 + `<details />` expandables to moderate the volume hit and for optional parts.
 + `<table>` - need to explain?
