@@ -96,7 +96,7 @@ Justified because of the changed requirements as discussed a bit in [quotes](../
 &nbsp;
 
 <table><tr valign="top"><td width="50%"><picture><img src="../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture><br />
-PICTURE OF MEMORY CHIP</td><td>
+<picture><img alt="&nbsp;Early memory chips" src="../../../_rsc/_img/af/Intel-C1103_ink.jpg" /></pictire></td><td>
   <p>I heard it from a <code>C++</code>-gifted colleague when we exchanged <samp>DOOM</samp> experience (already lores too). He noted that true multi-warrior computer games belong to the past - times of very primitive monochrome text monitors (if not arrays of light bulbs).</p>
   <p>I remastered and enhanced the tale.</p>
   <p>The lore goes that computer scientists (every programmer was one) used relatively idle nighttime<sup>🌛</sup> 
@@ -105,7 +105,7 @@ PICTURE OF MEMORY CHIP</td><td>
   <sup>🌛</sup> <sub>Relatively, since computer time was so deficient, a couple of hours in night shifts on BIG machines was a big luck for junior fellows (daytime was out of reach for them at all).</sub>
 </td></tr></table>
 
-<div align="right"><sub>Image credit: screengrab from imdb.com. Fei Lung and Carter Wong in <i>Born Invincible</i>, 1978</sub></div>
+<div align="right"><sub>Image credits: screengrab from imdb.com. Fei Lung and Carter Wong in <i>Born Invincible</i>, 1978; Wiki image of Intel 1103 memory</sub></div>
 
 \___________</details>
 
@@ -121,7 +121,7 @@ PICTURE OF MEMORY CHIP</td><td>
 <i>a fellow shares the location of cafe</i>] .&thinsp;.&thinsp;. good, <i>bon</i>, agreed, &mdash; be there in a moment] <kbd><b>DE</b>&thinsp;->&thinsp;<b>EN</b></kbd>
 </div><br />
 
-The caricature may look sloppy, but it's a rare match of futurtic vision of its author Karl Arnold: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
+The caricature may look sloppy, but it's a rare match of the futurtic vision of its author Karl Arnold: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
 
 </details>
 
@@ -195,6 +195,6 @@ VOAYGER
 
 \___________</details>
 
-## [**Volume&nbsp;II. Inspirational quotes**](../quotes/README+/inspirational.md) 
+## **Volume&nbsp;II.** [**Inspirational quotes**](../quotes/README+/inspirational.md) 
 
 🔚 <sub>[Notes/disclaimer](../../../_rsc) about graphic resources here</sub> 🌒 2024-2025
