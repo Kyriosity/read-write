@@ -61,9 +61,8 @@ Emojis are better than their codes unless a document must be saved as <samp>ASCI
 
 Review [HTML symbols](https://www.w3schools.com/charsets/ref_html_symbols.asp)<sup>🔗</sup> as a great enhancement of selections.
 
-WARNING: Different browsers may show some pictograms differently, a snapshot for example:
-
-<a href="essays/README+/AI-2020s.md#evidence"><img alt="&nbsp;string of emojis presented different" src="../../_rsc/_img/snap/screen/emojis_diff-browsers.jpg" title="&nbsp;Click to see how it looks in yours" /></a>
+<p align="center">⚠️ Browsers may show some pictograms differently. Find out diffs on this snaptshot:</p>
+<p align="center"><a href="essays/README+/AI-2020s.md#evidence"><img alt="&nbsp;string of emojis presented different" src="../../_rsc/_img/snap/screen/emojis_diff-browsers.jpg" title="&nbsp;Click to see how it looks in yours" /></a></p>
 
 ### Miscellany
 
@@ -79,11 +78,11 @@ The richer the content the more HTML you will use. The use of HTML is inevitable
 
 Advice Nr&thinsp;1 is **don't try to hack git markdown**. Even if you manage to style some stuff one day Git may sweep it out.
 
-Best HTML pals of markdown writers are
+Besides symbols, best HTML pals of markdown writers are
 
-+ `<details />` expandables to moderate the volume hit and for optional parts.
-+ `<table>` - need to explain?
-+ `..[v]align=..`
++ `<details>` expandables to moderate the volume hit and for optional parts.
++ `<table>` - needs explation?
++ `<sub>`, `<sup>`, and `..[v]align=..`.
 
 ### Fancy footnotes
 
@@ -93,10 +92,14 @@ Numbered footnotes are academic and convenient but a number itself won't tell mu
     
 ### Links suffixes
 
-Named links are overall practice but they distract. You may hint that a URL goes outside: [fast mermaid examples](https://mermaid.js.org/syntax/examples.html) <sup>🔗</sup>. 
-Next, narrow mnemonics for frequently referred resources, like 
-[wiki](https://wikipedia.org)<sup><b>w</b></sup>, [git](https://github.com)<sup>:octocat:</sup>, [YouTube](https://youtube.com)<sup><picture><img src="../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="&nbsp;link to YouTube video" /></picture></sup>,
-[Microsof Learn](https://learn.microsoft.com/)<sup>🪟</sup>.
+Named links are overall practice but they distract. You may hint that a URL goes **outside**: [Docs as code](https://www.writethedocs.org/guide/docs-as-code/)<sup>🔗</sup>. 
+Next, narrow mnemonics to hint on frequently referred resources, like:\
+[Reactive programs](https://en.wikipedia.org/wiki/Reactive_programming)<sup><b>w</b></sup>,&nbsp;&nbsp;
+[Trending C#](https://github.com/trending/c%23)<sup>:octocat:</sup>,&nbsp;&nbsp;
+[charts samples](https://mermaid.js.org/syntax/examples.html)<sup>🧜‍♀️</sup>,&nbsp;&nbsp;
+[co- vs. contravariance](https://learn.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)<sup>🪟</sup>,&nbsp;&nbsp;
+[`C# Lookup`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.lookup-2)<sup>🪟</sup>,&nbsp;&nbsp;
+[.NET conf 2024](https://www.youtube.com/watch?v=ikSNL-lxolc)<sup><picture><img src="../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="&nbsp;link to YouTube video" /></picture></sup>.
 
 ### <a id="link-achors" />Link anchors
 
@@ -106,7 +109,7 @@ Prefer `<a id="anchor_name" />` for sustained (internal) links to avoid changeab
 -   ## Unlinkable fancy header,,🐈‍⬛!!..
 +   ## <a id="feline_anchor">unlinkable fancy header,,🐈‍⬛!!..
 
-// somewhere outside ...
+// somewhere ...
 ... <a href="../animal_stories.md#feline_anchor">fancy cats</a> ...
 ```
 
