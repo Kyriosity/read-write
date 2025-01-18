@@ -4,7 +4,7 @@
 
 Markdown is lightweight to learn and use, with plenty of guides and cheat sheets for advanced techniques. However, it and its dialects were never intended to provide rich content.
 
-GitHub itself doesn't render its site in markdown or flavor despite providing it as built-in and primary documentation markup.
+GitHub alone doesn't render its site in markdown or flavor despite providing it as built-in and primary documentation markup.
 
 <p align="center"><b>But if you still want to try it beyond a slightly formatted text, here is my ounce of teaching illustrated by this repository.</b></p>
 
@@ -12,7 +12,8 @@ GitHub itself doesn't render its site in markdown or flavor despite providing it
 
 ## Editors and Viewers, Tools
 
-A simple markdown is readable without WYSIWYG, and no editors are supporting it. No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the editor of choice is www.gihub.com where you switch between _Edit_ and _Preview_.
+A simple markdown is readable without WYSIWYG, and no editors are supporting it. 
+No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the editor of choice is www.gihub.com where you switch between _Edit_ and _Preview_.
 
 * There's no excuse to avoid grammar check browser plugins.
 * View releases on browsers with different engines.
@@ -28,7 +29,8 @@ A simple markdown is readable without WYSIWYG, and no editors are supporting it.
 
 ### Git
 
-- The saddest experience with raw markdown is that you can't include shared content and snippets but <samp>copy-paste</samp>.
+- The saddest experience is that no shared content and snippets can be included but <samp>copy-paste</samp>.\
+(While elementary READMEs have common headers and footers.)
 - GitHub removes styles and some other formatting.\
 (Thus there are always borders in both markdown and HTML tables).
 - There's no overlay for image loading but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
@@ -36,15 +38,16 @@ A simple markdown is readable without WYSIWYG, and no editors are supporting it.
 - It's easier to list what the GitHub site editor has (few shortcut keys) rather than what's expected (toolbars, context menus, safe saving, and so on).
 - GitHub isn't the fastest and the smartest markdown engine.
 
-## Non-text
+## More than text
 
 ### Diagrams
 
-+ GitHub renders `mermaid` diagrams in markdown. If you don't know them a [quick tour](https://mermaid.js.org)<sup>🔗</sup> is enough to chart your ideas.
++ GitHub renders `mermaid` diagrams in markdown.\
+If you don't know them a [quick tour](https://mermaid.js.org/intro/)<sup>🧜🏼‍♀️</sup> is enough to chart your ideas without delay.
 + Entity names can be made into HTML links (but not in every type!).
-+ "Mermaids" mushrooming gives hope to see a WYSIWYG tool soon.
++ "Mermaids" mushrooming gives hope to see WYSIWYG tooling soon.
 
-"Mermaids" are beautiful but not for drawings. For a specific layout or artistic look, you have to snap/save a drawing in other apps.
+"Mermaids" are beautiful but not for drawings. For a specific layout or artistic look, you have to snap/save a drawing in other programs.
 
 ### Pictures
 
@@ -53,7 +56,7 @@ A simple markdown is readable without WYSIWYG, and no editors are supporting it.
 ### Pictograms / Symbols
 
 GitHub markdown has <code>:<i>emoji</i>:</code> codes but it's the same collection as in _emoji keyboard_ (<kbd>Win+.</kbd> for Windows users). 
-The only exception, to my knowledge, is Git's <code>:octocat:</code>.
+To my knowledge, the only exception is Git's <code>:octocat:</code>.
 Emojis are better than their codes unless a document must be saved as <samp>ASCII</samp>.
 
 Review [HTML symbols](https://www.w3schools.com/charsets/ref_html_symbols.asp)<sup>🔗</sup> as a great enhancement of selections.
@@ -68,7 +71,7 @@ Don't forget about naturally supported `code snippets`, [math expressions](https
 
 ## HTML
 
-HTML elements are required even for simple text: markdown has neither non-breaking space nor a hyphen.
+HTML elements are required even for the purest text: markdown has neither non-breaking space nor a hyphen.
 
 The richer the content the more HTML you will use. The use of HTML is inevitable inside of `<table>`<i>s</i>.
 
