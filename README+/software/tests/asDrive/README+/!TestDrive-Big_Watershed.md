@@ -12,12 +12,12 @@ For the record, the title of the lecture resonated with my anxiety:  "Failed wit
 But the de-abbreviation raised another doubt: where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...<sup>🙋</sup> 
 
 Presentations and lectures favored _development_ with _design_ as a natural<sup>🌵</sup> spin-off, not much bothering about distinction and some exploited both terms interchangeably. 
-Books and tutorials inclined more toward techniques, patterns, and testing frameworks.
+Books and tutorials showed up inclined to techniques, patterns, and testing frameworks.
 
-<div align="right"><sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises.<br />There must be better findings, and there could be better alternating conclusions.</sub></div>
-<p align="right"><sup>🌵</sup> <sub><b>Natural</b> since any complete snippet can't escape design or must fit into the given.</sub></p>
+Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</samp>, and encouraging to start features, didn't set forth for me to design just a mediocre project: hypothetical or tried.
 
-Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</samp>, and encouraging to start features, didn't set forth for me to design just a mediocre project: hypothetical or tried. The evolutionary design [wasn't the easy answer](../../../ArcDeco/README+/01.Rationale/README.md) either.
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be better findings, and there could be better alternating conclusions.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub><b>Natural</b> since any complete snippet can't escape design or must fit into the given.</sub>
 
 <div align="center"><ins>The initial </ins><mark><b><code>O&thinsp;R</code></b></mark><ins>-question was answered first </ins><code><b>A&thinsp;N&thinsp;D</b></code><ins> and then refined to </ins><code><b>X&thinsp;O&thinsp;R</b></code><ins>&thinsp;.</ins></div>.
 
@@ -25,12 +25,17 @@ Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</sa
 
 <details align="center"><summary><ins><b>&nbsp;This shadow of doubt was from the <samp>RISING</samp>&nbsp;&nbsp;R&thinsp;I&thinsp;D&thinsp;G&thinsp;E, dividing syntax and implementation behind it:&nbsp;</b></ins></summary>
 &nbsp;
-   
-<div align="center"><picture><img src="../../../../_rsc/_img/illus/tests/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture></div>
 
+<div align="center"><picture><img src="../../../../_rsc/_img/illus/tests/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture></div>
+<!-- pic --!>
+<!--                                               WATERSHED CANVAS        --!>
+<!-- pic --!>
 </details><p align="center">⬆️<ins>&nbsp;press to reveal&nbsp;</ins>⬆️</p>
 
-<table><tr><td width="50%" align="center"><b>🧪 Test ⚙️ DESIGN</b> Δ </td><td align="center">🧪 <b>Test</b> ⚙️ <b>DEVELOPMENT</b> δ</td></tr><tr>
+Design vs. Development are too dissimilar and contradictory to rotate on the same axis even admitting [evolutionary phenomenon](https://en.wikipedia.org/wiki/Continuous_design)<sup><b>w</b></sup>. 
+Even if it's the same project and team, test tools/framework, and skills/techniques to write tests and implement code behind.
+
+<table><tr><td width="50%" align="center"><b>🧪 Test ⚙️ DESIGN</b> <mark><b>Δ</b></mark> </td><td align="center">🧪 <b>Test</b> ⚙️ <b>DEVELOPMENT</b> <mark><b>δ</b></mark></td></tr><tr>
    <td><p align="center"><samp><b>W&thinsp;H&thinsp;A&thinsp;T&nbsp;&nbsp;t&thinsp;o&nbsp;&nbsp;d&thinsp;e&thinsp;v&thinsp;e&thinsp;l&thinsp;o&thinsp;p</b></samp></p>
    </td><td><p align="center"><samp><b>H&thinsp;O&thinsp;W&nbsp;&nbsp;t&thinsp;o&nbsp;&nbsp;i&thinsp;m&thinsp;p&thinsp;l&thinsp;e&thinsp;m&thinsp;e&thinsp;n&thinsp;t</b></samp></td></td>
 </tr><tr valign="top"><td>
@@ -41,8 +46,7 @@ Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</sa
       <li>evaluate and pick more suited libraries, frameworks, and, in some cases, languages/platforms,</li>
       <li>discuss ideas, naming, and logic with consultants and users.</li>
    </ul>
-   </td>
-   <td>The purpose of TDD is in no way test automation but means to:
+   </td><td>
    <ul>
       <li>provide design of classes</li>
      <li>granulate dev items and functions</li>
@@ -51,8 +55,8 @@ Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</sa
       <li>layout the print of test coverage</li>
    </ul></td></tr>
       <!--              VOLATILE vs. STABLE      --!>
-<tr></tr><tr valign="top"><td><b>Volatile</b><br />Design tests and code behind will inevitably come through approximations, and changes.<p>🤷🏼‍♀️ YAGNI</p></td>
-<td><b>Stable</b><br />Implementation must be done on defined tasks.<p>✅ YAGNI</p></td></tr>
+<tr></tr><tr valign="top"><td><b>Volatile</b><br />Design tests and code behind will inevitably come through approximations, and changes.</td>
+<td><b>Stable</b><br />Implementation must be done on defined tasks./td></tr>
 </td></tr><tr></tr><tr><td>Define general interfaces and back them with test doubles</td><td>Implement this interfaces</td></tr>
 </td></tr><tr></tr><tr><td>
 <p>Tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.</p>
@@ -71,7 +75,7 @@ Non-compilable too to exclude wrong calls.
    
 <p align="center"><picture><img alt="&nbsp; Long ridge of high peaks (image credit: kyriosity)" src="../../../../_rsc/_img/illus/tests/TddWatershed-altView.jpg"></picture></p>
 
-<sub>An aeronautical snap of divergent ridges and contreforts would be a more precise picture but then I'd be the first to leave this narrative because of overcomplexity.</sub>
+<div align="center">An aerial photo of divergent ridges and contreforts would be a more precise picture but then I'd be the first to leave this narrative because of overcomplexity.</div>
 
 We took the two extremes: API definition vs. coding.  nitty-gritty
 
@@ -81,17 +85,14 @@ We took the two extremes: API definition vs. coding.  nitty-gritty
 
 <h2 align="center">Reconcile by example</h2>
 
-> These could be the same project and team, test tools/framework, and skills/techniques to write tests, but...\
->  **Design vs. Development are too dissimilar and contradictory to rotate on the same axis.**
->
-> On a small stand-alone task this separation will be artificial but with a bigger amount trying to combine will burry up concepts with the volume of implementation. On the other hand, changing concepts will result in permanent rework of the realization.
+       🚧🐝🚧 .. WORK IN PROGRESS .. 🚧🐝🚧
 
 ```mermaid
 gantt
-    apple :a, 2017-07-20, 1w
-    banana :crit, b, 2017-07-23, 1d
-    cherry :active, c, after b a, 1d
-    kiwi   :d, 2017-07-20, until b c
+    API for Is():a, 2017-07-20, 1w
+    class struct :crit, b, 2017-07-23, 1d
+    ABC Check :active, c, after b a, 1d
+    Circuitry   :d, 2017-07-20, until b c
 ```
 
  <div align="center">🔚 &nbsp;🌒 ...kyriosity, images 2024-2025...</div>
