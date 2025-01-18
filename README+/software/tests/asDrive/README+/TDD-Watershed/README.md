@@ -1,7 +1,7 @@
 # Test Drive &nbsp;&mdash;&nbsp; Big Watershed
 
 <table><tr valign="center"><td>
-<picture><img width="250px" alt="&nbsp;Y-fork: black on yellow" src="../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>    
+<picture><img width="250px" alt="&nbsp;Y-fork: black on yellow" src="../../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>    
 </td><td><p>In rainy midsummer 2024 I was bicycling to hear a casual <b>TD<mark>D</mark></b>  lecture as doubts crept in &mdash; where am I going:</p>
    <p align="center">Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
 <p>It wasn't about the destination of this ride, but the principal divergence. 
@@ -26,7 +26,7 @@ Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</sa
 <details align="center"><summary><ins><b>&nbsp;This shadow of doubt was from the <samp>RISING</samp>&nbsp;&nbsp;R&thinsp;I&thinsp;D&thinsp;G&thinsp;E, dividing syntax and implementation behind it:&nbsp;</b></ins></summary>
 &nbsp;
 
-<div align="center"><picture><img src="../../../../_rsc/_img/illus/tests/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture></div>
+<div align="center"><picture><img src="../../../../../_rsc/_img/illus/tests/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture></div>
 <!-- pic --!>
 <!--                                               WATERSHED CANVAS        --!>
 <!-- pic --!>
@@ -75,7 +75,7 @@ Non-compilable too to exclude wrong calls.
 <details align="center"><summary><ins>&nbsp;<b>Unfortunately <samp>NOT</samp></b>&nbsp;</ins></summary>
 &nbsp;
    
-<p align="center"><picture><img alt="&nbsp; Long ridge of high peaks (image credit: kyriosity)" src="../../../../_rsc/_img/illus/tests/TddWatershed-altView.jpg"></picture></p>
+<p align="center"><picture><img alt="&nbsp; Long ridge of high peaks (image credit: kyriosity)" src="../../../../../_rsc/_img/illus/tests/TddWatershed-altView.jpg"></picture></p>
 
 <div align="center">An aerial photo of divergent ridges and contreforts would be a more precise picture but then I'd be the first to leave this narrative because of overcomplexity.</div>
 
@@ -86,6 +86,8 @@ We took the two extremes: API definition vs. coding.  nitty-gritty
 <h3 align="center">Is it so bad and idealistic? Neither!</h3>
 
 <h2 id="TDD-ISie" align="center">Reconcile by example: TDD ⭐ISie⭐I</h2>
+
+Let's take an [ISIe]() example
 
        🚧🐝🚧 .. WORK IN PROGRESS .. 🚧🐝🚧
 
