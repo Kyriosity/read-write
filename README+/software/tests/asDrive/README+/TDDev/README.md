@@ -1,6 +1,6 @@
-# Test Driven DEVELOPMENT &mdash; Reminder
+# 🧪Test ⚙️Driven δ&thinsp;DEVELOPMENT &mdash; Reminder
 
-🚧🚧🚧 PLACEHOLDER 🚧🚧🚧
+🚧🚧🚧 DRAFT in PROGRESS 🚧🚧🚧
 
 The purpose of TDD is in no way test automation but means to:
 
