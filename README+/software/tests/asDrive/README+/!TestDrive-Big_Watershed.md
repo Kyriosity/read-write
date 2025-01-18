@@ -54,9 +54,11 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
       <li>fill design with working code and its alternatives</li>
       <li>layout the print of test coverage</li>
    </ul></td></tr>
+   // QUALIFIER INTERFACES (which may have not effect) vs WORK IFACES !
       <!--              VOLATILE vs. STABLE      --!>
-<tr></tr><tr valign="top"><td><b>Volatile</b><br />Design tests and code behind will inevitably come through approximations, and changes.</td>
-<td><b>Stable</b><br />Implementation must be done on defined tasks./td></tr>
+<tr></tr><tr valign="top"><td><p><b>Volatile</b></p>Design tests and code behind will inevitably come through approximations and changes.</td>
+<td><p><b>Stabilizing</b></p>
+   Implementation must be done on defined tasks./td></tr>
 </td></tr><tr></tr><tr><td>Define general interfaces and back them with test doubles</td><td>Implement this interfaces</td></tr>
 </td></tr><tr></tr><tr><td>
 <p>Tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.</p>
@@ -83,7 +85,7 @@ We took the two extremes: API definition vs. coding.  nitty-gritty
 
 <h3 align="center">Is it so bad and idealistic? Neither!</h3>
 
-<h2 align="center">Reconcile by example</h2>
+<h2 id="TDD-ISie" align="center">Reconcile by example: TDD ⭐ISie⭐I</h2>
 
        🚧🐝🚧 .. WORK IN PROGRESS .. 🚧🐝🚧
 
@@ -94,5 +96,11 @@ gantt
     ABC Check :active, c, after b a, 1d
     Circuitry   :d, 2017-07-20, until b c
 ```
+
+## Wrap up. Advantages
+
+Separation of duties
+
+Fast effective tasks and feedback.
 
  <div align="center">🔚 &nbsp;🌒 ...kyriosity, images 2024-2025...</div>
