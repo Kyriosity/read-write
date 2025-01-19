@@ -13,7 +13,17 @@
 
 ## Categorization
 
-Categorization (classification) is much more profound than breaking collocations and sentences and building the folder hierarchy. &mdash; It makes the structural frame of sound abstractions.
+Categorization (classification) is much more profound than breaking collocations and sentences and building the folder hierarchy. &mdash; 
+It makes the structural frame of sound abstractions.
+
+People manage to catalogize boulders in the Oort cloud and categorize paltry insects, and it's not a question in the unique by-nature software entities. 
+Nevertheless, you will meet shallow folders and huge lists in many GitHub projects. 
+
+The golden section is the palm - when four fingers (or less) will cover the folder content on the screen.
+
+### Tags
+
+The only limitation of categorization is the strict tree hierarchy.
 
 // ToDescribe: Thinking in tags
 
