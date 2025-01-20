@@ -14,7 +14,9 @@
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/2024.06.05_NUE.jpg" title="&nbsp;Sheep spotting (NUE SCHAFft sich ab)" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/secured_zone.jpg" title="&nbsp;TIA security zone" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/rw/DB/ICE888.jpg" title="&nbsp;DB Intercity Express, München->Hamburg" width="300"/></span>
-<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/rw/DB/ICE1007.jpg" title="&nbsp;DB ICE Sprinter, Berlin->München" height="300"/></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/rw/DB/ICE1007.jpg" title="&nbsp;DB ICE Sprinter, Berlin&rarr;München" height="300"/></span>
+<p>... not that convenient always ...</p>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/rw/DB/ICE228.jpg" title="&nbsp;DB ICE228, Wien&rarr;Dortmund" height="300"/></span>
 
 ## Nature
 
@@ -37,10 +39,10 @@
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Starbux.jpg" width="300" title="&nbsp;Starbucks" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Hbf-CoffeeFellows.jpg" width="300" title="&nbsp;Coffee Fellows, Hbf" /></span>
 
-### Bottom line - how without cats?
+### <ins>&thinsp;Bottom line&thinsp;</ins> - how without cats?
 
 <span><img alt="&nbsp;&nbsp;&nbsp;Stubentiger front of notebook" src="../../../_rsc/_img/photo/blog/ThinkCat.jpg" title="&nbsp;der Stubentiger" width="300" /></span>
 
 \___________
 
-🔚 ... All snapshots are genuine and feature my programming and writing activity
+🔚 ... All snapshots are genuine and feature my programming and writing activity 🌘2000-2025
