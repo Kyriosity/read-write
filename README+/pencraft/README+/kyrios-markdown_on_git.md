@@ -30,7 +30,7 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 ### Git
 
 - The saddest experience is that no shared content and snippets can be included but <samp>copy-paste</samp>.\
-(While elementary READMEs have common headers and footers.)
+(While elementary repositories share common headers and footers for READMEs.)
 - GitHub removes styles and some other formatting.\
 (Thus there are always borders in both markdown and HTML tables).
 - There's no overlay for image loading but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
@@ -61,7 +61,7 @@ Emojis are better than their codes unless a document must be saved as <samp>ASCI
 
 Review [HTML symbols](https://www.w3schools.com/charsets/ref_html_symbols.asp)<sup>🔗</sup> as a great enhancement of selections.
 
-<p align="center">⚠️ Browsers may show some pictograms differently. Find out diffs on this snaptshot:</p>
+<p align="center">⚠️ Browsers may show some pictograms differently. Find out diffs on this snapshot:</p>
 <p align="center"><a href="essays/README+/AI-2020s.md#evidence"><img alt="&nbsp;string of emojis presented different" src="../../_rsc/_img/snap/screen/emojis_diff-browsers.jpg" title="&nbsp;Click to see how it looks in yours" /></a></p>
 
 ### Miscellany
@@ -78,11 +78,13 @@ The richer the content the more HTML you will use. The use of HTML is inevitable
 
 Advice Nr&thinsp;1 is **don't try to hack git markdown**. Even if you manage to style some stuff one day Git may sweep it out.
 
-Besides symbols, best HTML pals of markdown writers are
+Besides symbols, the best HTML pals of markdown writers are
 
 + `<details>` expandables to moderate the volume hit and for optional parts.
-+ `<table>` - needs explation?
++ `<table>` - needs explanation?
 + `<sub>`, `<sup>`, and `..[v]align=..`.
+
+Markdown automatically highlights alternative rows, but by inserting `</tr><tr>` you can master it.
 
 ### Fancy footnotes
 

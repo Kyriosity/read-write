@@ -93,7 +93,7 @@ This is justified because of the changed requirements as discussed a bit in [quo
 
 <table><tr valign="top"><td width="50%"><picture><img src="../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture><br />
 <picture><img alt="&nbsp;Early memory chips" src="../../../_rsc/_img/af/Intel-C1103_ink.jpg" /></pictire></td><td>
-  <p>I heard it from a <code>C++</code>-gifted colleague when we exchanged <samp>DOOM</samp> experience (already lores too). He noted that true multi-warrior computer games belong to the past - times of very primitive monochrome text monitors (if not arrays of light bulbs).</p>
+  <p>I heard it from a <code>C++</code>-gifted colleague when we exchanged <samp>DOOM</samp> experience (already lores too). He noted that true multi-warrior computer games are a thing of the past - times of very primitive monochrome text monitors (if not arrays of light bulbs).</p>
   <p>I remastered and enhanced the tale.</p>
   <p>The lore goes that computer scientists (every programmer was one) used relatively idle nighttime<sup>🌛</sup> 
     to gather in their computer centers and combat resources with all impossible (there were no possible) and unthinkable hacks in <i>machine languages</i> (no dirty cheats or vulgar social engineering).</p>
@@ -193,4 +193,5 @@ VOAYGER
 
 ## **Volume&nbsp;II.** [**Inspirational quotes**](../quotes/README+/inspirational.md) 
 
-🔚 <sub>[Notes/disclaimer](../../../_rsc) about graphic resources here</sub> 🌒 2024-2025
+\___________\
+🔚 🌒 2024-2025 .. <sub>([Notes/disclaimer](../../../_rsc) about graphic resources)</sub>

@@ -33,14 +33,6 @@ Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# read
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<sub>Though you can avoid them and hopefully .NET team doesn't plan to make a Perl out of their language.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>❓</sup> <sub>Isn't `null` a value too (compare to the _undefined_ notion)?</sub>
 
-### Generics - limitations
-
-The next definition is terse and clear `class CollWrapper<C, T> where C : ICollection<T> { ... }` but not the redundancy in its declaration `new CollWrapper<List<int>, int>()`.
-
-Advanced C# design reveals more generic restraints and results in *Vodoo programming* to workaround them.<sup>🙋</sup>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)<sup>🪟</sup> that their generics are "_does nots_" of C++ templates.</sub>
-
 ### Fishy shortcuts
 
 Some shortcuts obfuscate original goodies with insignificant gains in size.
@@ -51,6 +43,17 @@ For example, [`EnsureSuccessStatusCode`](https://learn.microsoft.com/en-us/dotne
 if (response.IsSuccessStatusCode) /// or differentiate for more specific conditions
      throw new HttpRequestException(); /// or specify explicitly any custom exception
 ```
+
+## Generics
+
+Advanced C# design reveals massive generic restraints and results in *Vodoo programming* to workaround them.<sup>🙋</sup>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)<sup>🪟</sup> that their generics are "_does nots_" of C++ templates.</sub>
+
+Only some technical will be listed here:
+
+### Syntatic redundancies
+
+The next definition is terse and clear `class CollWrapper<C, T> where C : ICollection<T> { ... }` but not the redundancy in its declaration `new CollWrapper<List<int>, int>()`.
 
 ## Type system
   
