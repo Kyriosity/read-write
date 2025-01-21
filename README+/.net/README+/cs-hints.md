@@ -2,8 +2,6 @@
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white&color=tomato)](#)
 
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white&color=tomato)](#)
-
 ## Syntactic reminder
 
 <details><summary><ins>&nbsp;Negate with <i>exclusive or</i>&nbsp;</ins></summary>
