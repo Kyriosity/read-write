@@ -1,6 +1,4 @@
-# C# &mdash; <samp>from praxis</samp> &mdash; Hints
-
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white&color=tomato)](#)
+# C# &mdash; <samp>from everyday praxis</samp> &mdash; Hints
 
 ## Syntactic reminder
 
@@ -248,4 +246,5 @@ enum FundamentalStatesOfMatter
 |--- ➡️ [**use-dev**](https://github.com/Kyriosity/use-dev/blob/main/README.md)
 
 \___________\
-🔚 <sub>🎼 ©️# XXI</sub>
+🔚 ... 🎼 ©️# XXI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white&color=tomato)](#)
+
