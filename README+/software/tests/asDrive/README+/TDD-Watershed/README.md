@@ -19,11 +19,13 @@ Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</sa
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be better findings, and there could be better alternating conclusions.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub><b>Natural</b> since any complete snippet can't escape design or must fit into the given.</sub>
 
-<div align="center"><ins>The initial </ins><mark><b><code>O&thinsp;R</code></b></mark><ins>-question was answered first </ins><code><b>A&thinsp;N&thinsp;D</b></code><ins> and then refined to </ins><code><b>X&thinsp;O&thinsp;R</b></code><ins>&thinsp;.</ins></div>.
-
-<table align="center" valign="center"><tr><td><b>I&thinsp;N&thinsp;T&thinsp;E&thinsp;N&thinsp;T&thinsp;I&thinsp;O&thinsp;N&thinsp;A&thinsp;L&thinsp;L&thinsp;Y</b></td>
+<table align="center" valign="center"><tr><td>⬇️&nbsp;&nbsp;<b>I&thinsp;N&thinsp;T&thinsp;E&thinsp;N&thinsp;T&thinsp;I&thinsp;O&thinsp;N&thinsp;A&thinsp;L&thinsp;L&thinsp;Y</b></td>
    <td align="center"><picture><img alt="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L O N G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R E A D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" src="../../../../../_rsc/_img/signs/LongRead/blur_300px.jpg" /></picture></td>
-   <td><b>P&thinsp;L&thinsp;E&thinsp;A&thinsp;S&thinsp;E&nbsp;&nbsp;S&thinsp;T&thinsp;A&thinsp;Y&thinsp;&nbsp;&nbsp;O&thinsp;N</b></td></tr></table>
+   <td><b>P&thinsp;L&thinsp;E&thinsp;A&thinsp;S&thinsp;E&nbsp;&nbsp;S&thinsp;T&thinsp;A&thinsp;Y&thinsp;&nbsp;&nbsp;O&thinsp;N</b>&nbsp;&nbsp;⬇️</td></tr></table>
+
+<table align="center"><tr></tr><tr><td><ins>&thinsp;
+   The initial </ins><mark><b><code>O&thinsp;R</code></b></mark><ins>-question was answered first </ins><code><b>A&thinsp;N&thinsp;D</b></code><ins> and then refined to </ins><code><b>X&thinsp;O&thinsp;R</b></code><ins>
+&thinsp;</ins></td></tr></table>
 
 ## Could I explain my shismatic take?
 
@@ -34,7 +36,7 @@ Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</sa
 <!-- pic --!>
 <!--                                               WATERSHED CANVAS        --!>
 <!-- pic --!>
-</details><p align="center">⬆️<ins>&nbsp;press to reveal&nbsp;</ins>⬆️</p>
+</details>
 
 Design vs. Development are too dissimilar and contradictory to rotate on the same axis even admitting [evolutionary phenomenon](https://en.wikipedia.org/wiki/Continuous_design)<sup><b>w</b></sup>. 
 Even if it's the same project and team, test tools/framework, and skills/techniques to write tests and implement code behind.
@@ -105,10 +107,14 @@ title TDD ISie
     Circuitry   :d, 0-07-20, until b c
 ```
 
+
+SPIN-OFFS: TESTS MULTIFEED
+
 ## Wrap up. Advantages
 
-Separation of duties
+### Separation of duties
 
-Fast effective tasks and feedback.
+### Fast effective tasks and feedback.
 
+\___________
  <div align="center">🔚 &nbsp;🌒 ...kyriosity, images 2024-2025...</div>
