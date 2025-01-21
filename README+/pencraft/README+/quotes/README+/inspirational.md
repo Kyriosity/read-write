@@ -1,6 +1,6 @@
 # Quotes store &mdash; Inspiration department
 
-## I&thinsp;n&thinsp;c&thinsp;i&thinsp;t&thinsp;e ...
+## I&thinsp;n&thinsp;c&thinsp;i&thinsp;t&thinsp;e&nbsp;&nbsp;m&thinsp;e ...
 
 <details><summary><ins>&nbsp;<b>...to write and document</b>&nbsp;</ins></summary>&nbsp;
 
@@ -16,8 +16,8 @@
 ― _Mark Twain (1835-1910)_
 
 > **_If you could know in what a dirty drain_**\
-> **_The verse does grow without having shame,_** ...\
-― _Anna Akhmatova (1889-1866)_, 1964 Nobel Prize in Literature nominee\
+> **_The verse does grow without knowing shame,_** ...\
+― _Anna Akhmatova (1889-1966)_, 1964 Nobel Prize in Literature nominee\
 "I have no use for odes in battles...", 1964
 
 > **If they give you lined paper, write the other way.**\
