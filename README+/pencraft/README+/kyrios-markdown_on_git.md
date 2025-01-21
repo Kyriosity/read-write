@@ -1,12 +1,12 @@
-# Markdown on Git :octocat: &mdash;&thinsp; Personal experience <sup>😹</sup>
+# Markdown on Git :octocat: &mdash;&thinsp; Hands-on experience <sup>😹</sup>
 
 <p align="right"><b>&ndash;</b>&nbsp;What is the difference between<br /><i>markdown</i> newbie and expert?<br /><b>&ndash;</b>&nbsp;Half an hour.</p>
 
-Markdown is lightweight to learn and use, with plenty of guides and cheat sheets for advanced techniques. However, it and its dialects were never intended to provide rich content.
+Markdown is lightweight to learn and use, with plenty of guides and cheat sheets for advanced techniques. This markup and its dialects were never designed to provide rich content.
 
-GitHub alone doesn't render its site in markdown or flavor despite providing it as built-in and primary documentation markup.
+GitHub alone doesn't render its own site in markdown or a flavor despite positioning it as built-in and primary documentation means.
 
-<p align="center"><b>But if you still want to try it beyond a slightly formatted text, here is my ounce of teaching illustrated by this repository.</b></p>
+<p align="center"><b>However if you still consider trying it beyond a slightly formatted text, here is my ounce of teaching illustrated by this repository.</b></p>
 
 <p dir="rtl"><i>.Markdown forgives</i>»<br /><i>«.The GitHub doesn't</i></p>
 
