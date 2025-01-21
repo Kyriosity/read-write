@@ -1,4 +1,4 @@
-# Markdown on Git :octocat: &mdash;&thinsp; Hands-on experience <sup>😹</sup>
+# Markdown on Git :octocat: &rarr;&thinsp; Hands-on experience <sup>😹</sup>
 
 <p align="right"><b>&ndash;</b>&nbsp;What is the difference between<br /><i>markdown</i> newbie and expert?<br /><b>&ndash;</b>&nbsp;Half an hour.</p>
 
@@ -12,8 +12,8 @@ GitHub alone doesn't render its own site in markdown or a flavor despite positio
 
 ## Editors and Viewers, Tools
 
-A simple markdown is readable without WYSIWYG, and no editors are supporting it. 
-No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the editor of choice is www.gihub.com where you switch between _Edit_ and _Preview_.
+A simple markdown is readable without WYSIWYG, and no editors will support it. 
+No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the editor of choice is www.gihub.com, switching between _Edit_ and _Preview_.
 
 * There's no excuse to avoid grammar check browser plugins.
 * View releases on browsers with different engines.
@@ -35,7 +35,7 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 (Thus there are always borders in both markdown and HTML tables).
 - There's no overlay for image loading but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
 - Many (if not most) Q&A tricks for markdown won't work on Git.
-- It's easier to list what the GitHub site editor has (few shortcut keys) rather than what's expected (toolbars, context menus, safe saving, and so on).
+- It's easier to list what the GitHub site editor has (few shortcut keys) rather than what's wanted: toolbars, context menus, auto-saving, and so on.
 - GitHub isn't the fastest and the smartest markdown engine.
 
 ## More than text
@@ -99,7 +99,7 @@ Next, narrow mnemonics to hint on frequently referred resources, like:\
 [Reactive programs](https://en.wikipedia.org/wiki/Reactive_programming)<sup><b>w</b></sup>,&nbsp;&nbsp;
 [Trending C#](https://github.com/trending/c%23)<sup>:octocat:</sup>,&nbsp;&nbsp;
 [charts samples](https://mermaid.js.org/syntax/examples.html)<sup>🧜‍♀️</sup>,&nbsp;&nbsp;
-[co- vs. contravariance](https://learn.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)<sup>🪟</sup>,&nbsp;&nbsp;
+[co- _vs._ contravariance](https://learn.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)<sup>🪟</sup>,&nbsp;&nbsp;
 [`C# Lookup`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.lookup-2)<sup>🪟</sup>,&nbsp;&nbsp;
 [.NET conf 2024](https://www.youtube.com/watch?v=ikSNL-lxolc)<sup><picture><img src="../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="&nbsp;link to YouTube video" /></picture></sup>.
 
