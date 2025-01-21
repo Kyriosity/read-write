@@ -21,6 +21,10 @@ Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</sa
 
 <div align="center"><ins>The initial </ins><mark><b><code>O&thinsp;R</code></b></mark><ins>-question was answered first </ins><code><b>A&thinsp;N&thinsp;D</b></code><ins> and then refined to </ins><code><b>X&thinsp;O&thinsp;R</b></code><ins>&thinsp;.</ins></div>.
 
+<table align="center" valign="center"><tr><td><b>I&thinsp;N&thinsp;T&thinsp;E&thinsp;N&thinsp;T&thinsp;I&thinsp;O&thinsp;N&thinsp;A&thinsp;L&thinsp;L&thinsp;Y</b></td>
+   <td align="center"><picture><img alt="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L O N G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R E A D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" src="../../../../../_rsc/_img/signs/LongRead/blur_300px.jpg" /></picture></td>
+   <td><b>P&thinsp;L&thinsp;E&thinsp;A&thinsp;S&thinsp;E&nbsp;&nbsp;S&thinsp;T&thinsp;A&thinsp;Y&thinsp;&nbsp;&nbsp;O&thinsp;N</b></td></tr></table>
+
 ## Could I explain my shismatic take?
 
 <details align="center"><summary><ins><b>&nbsp;This shadow of doubt was from the <samp>RISING</samp>&nbsp;&nbsp;R&thinsp;I&thinsp;D&thinsp;G&thinsp;E, dividing syntax and implementation behind it:&nbsp;</b></ins></summary>
@@ -85,18 +89,20 @@ We took the two extremes: API definition vs. coding.  nitty-gritty
 
 <h3 align="center">Is it so bad and idealistic? Neither!</h3>
 
-<h2 id="TDD-ISie" align="center">Reconcile by example: TDD ⭐ISie⭐I</h2>
+<h2 id="TDD-ISie" align="center">Reconcile by example: TDD ⭐I&thinsp;S&thinsp;<samp>I&thinsp;E</samp>⭐</h2>
 
-Let's take an [ISIe]() example
+Let's take an [ISIe](https://github.com/Kyriosity/use-dev/tree/main/README%2B/parts/_ext/ISie) example
 
        🚧🐝🚧 .. WORK IN PROGRESS .. 🚧🐝🚧
 
 ```mermaid
 gantt
-    API for Is():a, 2017-07-20, 1w
-    class struct :crit, b, 2017-07-23, 1d
+title TDD ISie
+    API:a, 0-07-20, 1w
+        Not():a2, 0-07-20, 1w
+    class struct :crit, b, 0-07-23, 1d
     ABC Check :active, c, after b a, 1d
-    Circuitry   :d, 2017-07-20, until b c
+    Circuitry   :d, 0-07-20, until b c
 ```
 
 ## Wrap up. Advantages
