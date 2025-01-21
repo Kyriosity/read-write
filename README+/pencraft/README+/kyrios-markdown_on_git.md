@@ -42,8 +42,8 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 ### Diagrams
 
-+ GitHub renders `mermaid` diagrams in markdown.\
-If you don't know them a [quick tour](https://mermaid.js.org/intro/)<sup>🧜🏼‍♀️</sup> is enough to chart your ideas without delay.
++ Good news: GitHub renders `mermaid` diagrams in markdown.\
+(If you don't know them a [quick tour](https://mermaid.js.org/intro/)<sup>🧜🏼‍♀️</sup> is really worth a look).
 + Entity names can be made into HTML links (but not in every type!).
 + "Mermaids" mushrooming gives hope to see WYSIWYG tooling soon.
 
@@ -51,7 +51,7 @@ If you don't know them a [quick tour](https://mermaid.js.org/intro/)<sup>🧜�
 
 ### Pictures
 
-+ That's nothing bad with including images in documents but their size. Markdown on Git won't support extra features like linkable picture areas or images in pop-ups.
++ That's nothing bad with including images in documents but their size. Markdown on Git won't support goodies like linkable picture areas or images in pop-ups.
 
 ### Pictograms / Symbols
 
@@ -72,7 +72,7 @@ Don't forget about naturally supported `code snippets`, [math expressions](https
 
 HTML elements are required even for the purest text: markdown has neither non-breaking space nor a hyphen.
 
-The richer the content the more HTML you will use. The use of HTML is inevitable inside of `<table>`<i>s</i>.
+The richer the content the more HTML you will use. The use of HTML is inevitable in cells of `<table>`<i>s</i>.
 
 ## Tips, tricks and advice
 
@@ -80,7 +80,7 @@ Advice Nr&thinsp;1 is **don't try to hack git markdown**. Even if you manage to 
 
 Besides symbols, the best HTML pals of markdown writers are
 
-+ `<details>` expandables to moderate the volume hit and for optional parts.
++ `<details>` expandables to mitigate the volume hit and for optional parts.
 + `<table>` - needs explanation?
 + `<sub>`, `<sup>`, and `..[v]align=..`.
 
