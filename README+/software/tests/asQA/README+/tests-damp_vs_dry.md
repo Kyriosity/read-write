@@ -23,7 +23,7 @@ Needless to point out the virtues of this approach but one great flaw: <ins>&thi
 <table><tr><td><picture><img alt="&nbsp;Black box of test (not of application)" src="../../../../_rsc/_img/memes/ItTestsSmth.jpg" /></picture>
 </td><td>
 <p>The early layout will create a sound core, proving code essentials and describing the application (some documentation still required).</p>
-<p>However adding more tests will slightly but steadily dissolve this core into a badly exorbitant maintainable bulk. With scrappy coverage, accumulated negligence, and impeded navigation.</p>
+<p>More and more tests will slightly but steadily dissolve this core into a badly maintainable bulk. With scrappy coverage, accumulated negligence, and impeded navigation.</p>
     <p>The refactoring counterblast is to <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> (<i><b>D</b>on't <b>R</b>repeat <b>Y</b>ourself</i>).</p>
 </td></tr></table>
 
