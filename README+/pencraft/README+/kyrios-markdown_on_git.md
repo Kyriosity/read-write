@@ -123,5 +123,7 @@ Avoid clickable images unless they are links or a detailed (bigger) version: HTM
 
 You may consider Git-supported dialects as [flavored markdown](https://github.github.com/gfm/)<sup>:octocat:</sup> and converters as [PanDoc](https://pandoc.org)<sup>🔗</sup>.
 
+There are legions of content management, publishing, and site creation tools for organizations (big projects) better than markdown-on-Git.
+
 \___________\
 🔚 🌙 2025
