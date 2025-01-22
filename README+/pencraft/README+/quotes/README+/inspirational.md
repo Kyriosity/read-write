@@ -27,8 +27,7 @@
 
 <p dir="rtl"><b>!Gimme that torch, FAST</b><br /><i>Ray Bradbury (1920-2012)</i><br />after reading the <i>Twilight</i> novel series (*assumed)</p>
 
----
-
+\_________________________________
 </details>
 
 <details><summary><ins>&nbsp;<b>...to procrastinate</b>&nbsp;</ins></summary>&nbsp;
@@ -105,7 +104,7 @@ Not only the East grant us profound and eloquent teaching! Whatever Mr. Kipling*
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>©️</sup> <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
 
----
+\_________________________________
 </details>
 
 <details><summary><ins>&nbsp;<b>...to take a break</b>&nbsp;</ins></summary>&nbsp;
@@ -187,17 +186,16 @@ _Sam Bankman-Fried_, FTX cofounder, [only Zuck has been this rich young](https:/
 
 > **There are four things to watch forever:\
 falling water, burning fire, starry sky,** and **tasks, you define and others commit**.\
-_Earliest humans_ (ca. 300`000 ago)
+_Earliest humans_
 
 #### Bottom line
 
 > **I know that I know nothing.**\
 _Plato_'s account of _Socrates_ 
 
-If the fundamental Western philosophers had come to this conclusion, what about us plebeians...
+Should one defy fundamental Western philosophers ...
 
----
-
+\_________________________________
 </details>
 
 <details><summary><ins>&nbsp;<b>...to interpret errors right...</b>&nbsp;</ins></summary>&nbsp;
@@ -232,7 +230,7 @@ _Alexander Pope_, poet (1688-1744)
 To interpret a bug as a feature is a craft.\
 To make a customer feel guilty for it - the **art**.
 
----
+\_________________________________
 </details>
 
 <details><summary><ins>&nbsp;<b>...but to debug</b>&nbsp;</ins></summary>
@@ -253,7 +251,6 @@ _Steve Maguire_, programmer and author
 _Andres Freund_, a programmer who occasionally prevented the ["century" cyberattack](https://en.wikipedia.org/wiki/XZ_Utils_backdoor), in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html">NYT inteview</a>, 2024.
 
 \_________________________________
-
 </details>
 
 <details><summary><ins>&nbsp;...and <b>... to quote&nbsp;</b></ins>❗</summary>&nbsp;
@@ -266,4 +263,4 @@ _Dorothy L. Sayers_ (1893-1957), novelist, translator and critic
 </details>
 
 \___________\
-🔚 ... subject of continuous delivery ...
+🔚 ... subject of continuous delivery since 300'000 BCE ...
