@@ -95,7 +95,7 @@ Such a salute will hardly provide a clue but rather hide it in dependencies - in
 
 <details><summary><ins>&nbsp;History teaches us that one failure might be enough to know...&nbsp;</ins></summary>
     
-> An anecdote tells us about **Napoleon** enraged by the silence of cannons on a flank.\
+> As in anecdote  about **Napoleon** enraged by the silence of cannons on a flank.\
 A summoned general was eager to recount seven reasons, he knew, but was shortly interrupted with\
 <samp>«Already one is more than enough for me».</samp>
 >
@@ -122,7 +122,9 @@ Normalization doesn't apply well to advanced evaluation as [gradual asserts](htt
 
 ### Master cautions
 
-When a mass of tests exceeds the eye's capabilities, it's clever to select the ones that fail. The ones that fail must be investigated first (an order and classification can apply, too).
+When a mass of tests exceeds the eyes capabilities, it's clever to select the "key" test &mdas; that fails must be investigated first (an order and classification can be set here too).
+
+EXAMPLE: math engine
 
 ## Wrap up. D<samp>RY</samp> but not drain 
 
@@ -137,4 +139,4 @@ Does DRY apply to Test Driven Design? Yes, but very constrained by DAMP as its m
 When covering existing code you shall find out the repetitions to group. The opposite is for **Test Driven Development**: think in test unions prior.
 
 \___________\
-🔚 
+🔚 🌙 2024-2025
