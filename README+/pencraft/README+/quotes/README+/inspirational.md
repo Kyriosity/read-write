@@ -25,17 +25,15 @@
 **And so I invented the Monospace.**\
 ― _George Williams_ (*assumed)
 
-<p dir="rtl"><b>!Gimme that torch, FAST</b><br /><i>Ray Bradbury (1920-2012)</i><br />after reading the <i>Twilight</i> novel series (*assumed)</p>
+<p dir="rtl"><b>!Gimme that torch, and FAST</b><br /><i>Ray Bradbury (1920-2012)</i><br />about the <i>Twilight</i> novels (*assumed)</p>
 
-\_________________________________
-</details>
+\_________________________________</details>
 
 <details><summary><ins>&nbsp;<b>...to procrastinate</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;Leonardo da Vinci (1452-1519)" src="../../../../_rsc/_img/art/OldMasters/Leo(1452-1519)-portrait-found_2008_nearNaples.jpg" /></picture><br />
 <mark><b>...Leonardo the Great Procrastinator</b></mark> ([widely known](https://interactions.acm.org/blog/view/leonardo-da-vinci-the-great-procrastinator) and "certified" by court)
-
 
 #### F.A.Q.
 
@@ -65,9 +63,7 @@ _Procrastinators' Club of America_ (with international membership) established [
 
 Coming next&mdash;[National Procrastination Week](https://en.wikipedia.org/wiki/National_Procrastination_Week).
 
----
-
-</details>
+\_________________________________</details>
 
 <details><summary><ins>&nbsp;<b>...for perfectionism</b>&nbsp;</ins></summary>&nbsp;
  
@@ -104,8 +100,7 @@ Not only the East grant us profound and eloquent teaching! Whatever Mr. Kipling*
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>©️</sup> <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
 
-\_________________________________
-</details>
+\_________________________________</details>
 
 <details><summary><ins>&nbsp;<b>...to take a break</b>&nbsp;</ins></summary>&nbsp;
  
@@ -137,9 +132,7 @@ To name a few of the officially recognized:
 + _Structure of the benzene molecule_, August Kekulé (1829-1896)
 + _Sewing machine_, Elias Howe (1819-1867)
 
----
-
-</details>
+\_________________________________</details>
 
 <details><summary><ins>&nbsp;<b>...to vindicate NOT doing/learning</b>&nbsp;</ins></summary>&nbsp;
  
@@ -195,8 +188,7 @@ _Plato_'s account of _Socrates_
 
 Should one defy fundamental Western philosophers ...
 
-\_________________________________
-</details>
+\_________________________________</details>
 
 <details><summary><ins>&nbsp;<b>...to interpret errors right...</b>&nbsp;</ins></summary>&nbsp;
  
@@ -230,8 +222,7 @@ _Alexander Pope_, poet (1688-1744)
 To interpret a bug as a feature is a craft.\
 To make a customer feel guilty for it - the **art**.
 
-\_________________________________
-</details>
+\_________________________________</details>
 
 <details><summary><ins>&nbsp;<b>...but to debug</b>&nbsp;</ins></summary>
 &nbsp;
@@ -250,17 +241,14 @@ _Steve Maguire_, programmer and author
 > **I find it very odd. I’m a fairly private person who just sits in front of the computer and hacks on code.**\
 _Andres Freund_, a programmer who occasionally prevented the ["century" cyberattack](https://en.wikipedia.org/wiki/XZ_Utils_backdoor), in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html">NYT inteview</a>, 2024.
 
-\_________________________________
-</details>
+\_________________________________</details>
 
 <details><summary><ins>&nbsp;...and <b>... to quote&nbsp;</b></ins>❗</summary>&nbsp;
 
 > **I always have a quotation for everything. It saves original thinking.**\
 _Dorothy L. Sayers_ (1893-1957), novelist, translator and critic
 
-\_________________________________
-
-</details>
+\_________________________________</details>
 
 \___________\
-🔚 ... subject of continuous delivery since 300'000 BCE ...
+♾️ ... subject of continuous delivery since 300'000 BCE ...
