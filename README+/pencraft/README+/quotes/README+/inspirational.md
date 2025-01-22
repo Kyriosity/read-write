@@ -247,8 +247,7 @@ _Andres Freund_, a programmer who occasionally prevented the ["century" cyberatt
 
 > **I always have a quotation for everything. It saves original thinking.**\
 _Dorothy L. Sayers_ (1893-1957), novelist, translator and critic
-
-\_________________________________</details>
+</details>
 
 \___________\
 ♾️ ... subject of continuous delivery since 300'000 BCE ...
