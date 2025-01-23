@@ -1,4 +1,4 @@
-# Test Drive &nbsp;&mdash;&nbsp; Big Watershed
+# Test Drive&nbsp;&nbsp;&rarr;&nbsp;&nbsp;Big Watershed&nbsp;&nbsp;&rArr;&nbsp;&nbsp;<sub><picture><img alt="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L O N G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R E A D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" src="../../../../../_rsc/_img/signs/LongRead/300px.jpg" /></picture></sub>
 
 <table><tr valign="center"><td>
 <picture><img width="250px" alt="&nbsp;Y-fork: black on yellow" src="../../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>    
@@ -19,22 +19,20 @@ Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</sa
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be better findings, and there could be better alternating conclusions.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub><b>Natural</b> since any complete snippet can't escape design or must fit into the given.</sub>
 
-<div align="center"><ins>The initial </ins><mark><b><code>O&thinsp;R</code></b></mark><ins>-question was answered first </ins><code><b>A&thinsp;N&thinsp;D</b></code><ins> and then refined to </ins><code><b>X&thinsp;O&thinsp;R</b></code><ins>&thinsp;.</ins></div>.
+<table align="center"><tr></tr><tr><td><ins>&thinsp;
+   The initial </ins><mark><b><code>O&thinsp;R</code></b></mark><ins>-question was answered first </ins><code><b>A&thinsp;N&thinsp;D</b></code><ins> and then refined to </ins><code><b>X&thinsp;O&thinsp;R</b></code><ins>
+&thinsp;</ins></td></tr></table>
 
-<table align="center" valign="center"><tr><td><b>I&thinsp;N&thinsp;T&thinsp;E&thinsp;N&thinsp;T&thinsp;I&thinsp;O&thinsp;N&thinsp;A&thinsp;L&thinsp;L&thinsp;Y</b></td>
-   <td align="center"><picture><img alt="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L O N G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R E A D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" src="../../../../../_rsc/_img/signs/LongRead/blur_300px.jpg" /></picture></td>
-   <td><b>P&thinsp;L&thinsp;E&thinsp;A&thinsp;S&thinsp;E&nbsp;&nbsp;S&thinsp;T&thinsp;A&thinsp;Y&thinsp;&nbsp;&nbsp;O&thinsp;N</b></td></tr></table>
+<h2 align="center">Could I explain my shismatic take?</h2>
 
-## Could I explain my shismatic take?
-
-<details align="center"><summary><ins><b>&nbsp;This shadow of doubt was from the <samp>RISING</samp>&nbsp;&nbsp;R&thinsp;I&thinsp;D&thinsp;G&thinsp;E, dividing syntax and implementation behind it:&nbsp;</b></ins></summary>
+<details align="center"><summary><ins><b>&nbsp;This shadow of doubt was from the <samp>RISING</samp>&nbsp;&nbsp;R&thinsp;I&thinsp;D&thinsp;G&thinsp;E, dividing syntax and implementation behind it&thinsp;:&nbsp;</b></ins>🖼️</summary>
 &nbsp;
 
 <div align="center"><picture><img src="../../../../../_rsc/_img/illus/tests/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture></div>
 <!-- pic --!>
 <!--                                               WATERSHED CANVAS        --!>
 <!-- pic --!>
-</details><p align="center">⬆️<ins>&nbsp;press to reveal&nbsp;</ins>⬆️</p>
+</details>
 
 Design vs. Development are too dissimilar and contradictory to rotate on the same axis even admitting [evolutionary phenomenon](https://en.wikipedia.org/wiki/Continuous_design)<sup><b>w</b></sup>. 
 Even if it's the same project and team, test tools/framework, and skills/techniques to write tests and implement code behind.
@@ -52,23 +50,30 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
    </ul>
    </td><td>
    <ul>
-      <li>provide design of classes</li>
+      <li>inner design of classes</li>
      <li>granulate dev items and functions</li>
       <li>define failing scenarios</li>
       <li>fill design with working code and its alternatives</li>
       <li>layout the print of test coverage</li>
    </ul></td></tr>
-   // QUALIFIER INTERFACES (which may have not effect) vs WORK IFACES !
-      <!--              VOLATILE vs. STABLE      --!>
-<tr></tr><tr valign="top"><td><p><b>Volatile</b></p>Design tests and code behind will inevitably come through approximations and changes.</td>
+         <!--              VOLATILE vs. STABLE      --!>
+<tr><td align="center" colspan="2">APPROACH</td></tr><tr valign="top"><td><p><b>Volatile</b></p>Design tests and code behind will inevitably come through approximations and changes.</td>
 <td><p><b>Stabilizing</b></p>
-   Implementation must be done on defined tasks./td></tr>
-</td></tr><tr></tr><tr><td>Define general interfaces and back them with test doubles</td><td>Implement this interfaces</td></tr>
-</td></tr><tr></tr><tr><td>
+   Implementation must be done on defined tasks.</td></tr>
+</td></tr>
+     <!--              INTERFACES and CLASSES     --!>
+<tr><td colspan="2" align="center"><b>"Code behind"</b></td></tr>
+<tr valign="top"><td><p><b>Interfaces</b></p>Markup and qualifiers.</p>
+<p>Define general interfaces and back them with test doubles</p></td>
+<td><p><b>Interfaces</b></p>Working interfaces</td>
+</tr><tr></tr>
+          <!--          TEST DOUBLES    --!><tr></tr>
+<tr><td align="center" colspan="2"><b>Test doubles</b></td></tr>
+<tr><td>
 <p>Tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.</p>
 </td><td>
    <p>Use of the test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).</p>
-</td></tr><tr></tr>
+</td></tr><tr><td align="center" colspan="2"><b>Checklist</b></td></tr>
 <tr valign="top"><td><p><b>Pass</b></p><p>Compilable syntax demos are enough.</p>
 Non-compilable too to exclude wrong calls.
   <p>Tests can remain for a demo and serve as a documentation frame.</p></td>
@@ -76,7 +81,7 @@ Non-compilable too to exclude wrong calls.
 <tr><td align="center" colspan="2"><ins>&nbsp;<b>Is that so handy&thinsp;?</b>&nbsp;</ins></tr>
 </table>
 <!--                                             NOT SO EASY     --!>
-<details align="center"><summary><ins>&nbsp;<b>Unfortunately <samp>NOT</samp></b>&nbsp;</ins></summary>
+<details align="center"><summary><ins>&nbsp;<b>Unfortunately <samp>NOT</samp>&thinsp;:</b>&nbsp;</ins>🖼️</summary>
 &nbsp;
    
 <p align="center"><picture><img alt="&nbsp; Long ridge of high peaks (image credit: kyriosity)" src="../../../../../_rsc/_img/illus/tests/TddWatershed-altView.jpg"></picture></p>
@@ -87,7 +92,7 @@ We took the two extremes: API definition vs. coding.  nitty-gritty
 
 \___________</details>
 
-<h3 align="center">Is it so bad and idealistic? Neither!</h3>
+<h3 align="center">Is it ugly or idealistic? Neither!</h3>
 
 <h2 id="TDD-ISie" align="center">Reconcile by example: TDD ⭐I&thinsp;S&thinsp;<samp>I&thinsp;E</samp>⭐</h2>
 
@@ -105,10 +110,14 @@ title TDD ISie
     Circuitry   :d, 0-07-20, until b c
 ```
 
+
+SPIN-OFFS: TESTS MULTIFEED
+
 ## Wrap up. Advantages
 
-Separation of duties
+### Separation of duties
 
-Fast effective tasks and feedback.
+### Fast effective tasks and feedback.
 
- <div align="center">🔚 &nbsp;🌒 ...kyriosity, images 2024-2025...</div>
+\___________
+ <div align="center">🔚 &nbsp;🌒 2024-2025  ... images: kyriosity ...</div>

@@ -1,4 +1,4 @@
-# Programmatic Tests &mdash; DAMP not DRY
+# Programmatic Tests&nbsp;&nbsp;&mdash;&nbsp;&nbsp;DAMP not DRY
 
 <table><tr><td><p>Either <a href="../../asDrive">TDD<sup>e<b>V</b></sup></a> or <a href="../../asQA">proof</a> of the provided code, <b>a conventional approach</b> is to</p>
     <ul>
@@ -23,7 +23,7 @@ Needless to point out the virtues of this approach but one great flaw: <ins>&thi
 <table><tr><td><picture><img alt="&nbsp;Black box of test (not of application)" src="../../../../_rsc/_img/memes/ItTestsSmth.jpg" /></picture>
 </td><td>
 <p>The early layout will create a sound core, proving code essentials and describing the application (some documentation still required).</p>
-<p>However adding more tests will slightly but steadily dissolve this core into a badly exorbitant maintainable bulk. With scrappy coverage, accumulated negligence, and impeded navigation.</p>
+<p>More and more tests will slightly but steadily dissolve this core into a badly maintainable bulk. With scrappy coverage, accumulated negligence, and impeded navigation.</p>
     <p>The refactoring counterblast is to <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> (<i><b>D</b>on't <b>R</b>repeat <b>Y</b>ourself</i>).</p>
 </td></tr></table>
 
@@ -93,9 +93,9 @@ Such a salute will hardly provide a clue but rather hide it in dependencies - in
 
 ## Solutions
 
-<details><summary><ins>&nbsp;History teaches us that one failure might be enough to know...&nbsp;</ins></summary>
+<details><summary><ins>&nbsp; History teaches us that one failure might be enough to know...&nbsp;</ins></summary>
     
-> An anecdote tells us about **Napoleon** enraged by the silence of cannons on a flank.\
+> As in the anecdote  about **Napoleon** enraged by the silence of cannons on a flank.\
 A summoned general was eager to recount seven reasons, he knew, but was shortly interrupted with\
 <samp>«Already one is more than enough for me».</samp>
 >
@@ -122,7 +122,9 @@ Normalization doesn't apply well to advanced evaluation as [gradual asserts](htt
 
 ### Master cautions
 
-When a mass of tests exceeds the eye's capabilities, it's clever to select the ones that fail. The ones that fail must be investigated first (an order and classification can apply, too).
+When a mass of tests exceeds the eyes' capabilities, it's clever to select the "key" ones &mdash; that fails must be investigated first (an order and classification can be set there too).
+
+Example: math engine of a project. If a floating error emerges neither API errors shall matter.
 
 ## Wrap up. D<samp>RY</samp> but not drain 
 
@@ -137,4 +139,4 @@ Does DRY apply to Test Driven Design? Yes, but very constrained by DAMP as its m
 When covering existing code you shall find out the repetitions to group. The opposite is for **Test Driven Development**: think in test unions prior.
 
 \___________\
-🔚 
+🔚 🌙 2024-2025
