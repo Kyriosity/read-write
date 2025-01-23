@@ -16,16 +16,18 @@ title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nb
 <p>Some ancient Hellenes were so good at construction sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &mdash; the term romanized to <i>architecture</i> centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &rarr; 
 refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
-<p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. However, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) and architects of détente or <em>economic miracle</em> are compliments (or flattery).</p>
+<p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. 
+ However, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) and architects of détente or <em>economic miracle</em> are compliments (or flattery).</p>
 ___________<br />
-<sup>🏛️</sup> <sub>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation must have existed much prior as the _Ziggurat of Ur_ and Egyptian Pyramids suggest (but Stonehenge refutes).</sub>
+<sup>🏛️</sup> <sub>Greek:</sub> <samp>ἀρχιτέκτων</samp><sub>, “master/chief builder/maker" but this occupation must have existed much prior as the _Ziggurat of Ur_ and Egyptian Pyramids suggest (but Stonehenge refutes).</sub>
  </td></tr></table>
 
 <h1 align="right">Part&nbsp;I. Software <i>vs.</i> Building</h1>
 
 ### much in common...
 
-The architecture of both demands creativity and grants leeway and vast playland for phantasy and missteps, but operating wholes must be defined quickly rather than ripen aesthetic values. Endeavors in both often begin from sketching on white paper or chalkboards.
+The architecture of both demands creativity and grants leeway and vast playland for phantasy and missteps, but operating wholes must be defined quickly rather than ripen aesthetic values. 
+Endeavors in both often begin from sketching on white paper or chalkboards.
 
 Both take advantage of the flexible plethora of tools, techniques, and skills. Both must accumulate mainstream and alternate practices and reveal patterns.
 
@@ -45,7 +47,7 @@ Or <i>Tower of Babel</i> populated with <a href="../../quotes/README+/aside/cont
 <td width="30%"><picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title="&nbsp;AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture>
  <br /><ins>&nbsp;Buiding diagram&nbsp;</ins>
 </td><td>
- <p>Buildings are static, conservative, and traditional &mdash; software is fluid, experimental, and free of nostalgia (as neoclassicism on Danube).</p>
+ <p>Buildings are immobile, conservative, and traditional &mdash; software is fluid, experimental, and free of nostalgia (as neoclassicism on the Danube).</p>
  <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).</p>
   <p>Software doesn't rust or erode but gets obsolete in a few years. Decades (bare minimum for wood cabins) set records in residual mainframe software, which won't recur (till interstellar flights).</p>
  </td>
