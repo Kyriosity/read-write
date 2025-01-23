@@ -31,7 +31,7 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 - The saddest experience is that no shared content and snippets can be included but <samp>copy-paste</samp>.\
 (While elementary repositories share common headers and footers for READMEs.)
-- GitHub removes styles and some other formatting.\
+- GitHub removes styles, classes and some other formatting.\
 (Thus there are always borders in both markdown and HTML tables).
 - There's no overlay for image loading but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
 - Many (if not most) Q&A tricks for markdown won't work on Git.
@@ -56,8 +56,9 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 ### Pictograms / Symbols
 
 GitHub markdown has <code>:<i>emoji</i>:</code> codes but it's the same collection as in _emoji keyboard_ (<kbd>Win+.</kbd> for Windows users). 
-To my knowledge, the only exception is Git's <code>:octocat:</code>.
-Emojis are better than their codes unless a document must be saved as <samp>ASCII</samp>.
+To my knowledge, the only exception is a dozen of Git's custom emojis as <code>:octocat:</code>.
+
+Graphic symbols inserted are better than their codes unless a document must be saved as <samp>ASCII</samp>.
 
 Review [HTML symbols](https://www.w3schools.com/charsets/ref_html_symbols.asp)<sup>🔗</sup> as a great enhancement of selections.
 
