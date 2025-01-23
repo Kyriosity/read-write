@@ -9,7 +9,7 @@
 For the record, the title of the lecture resonated with my anxiety:  "Failed with TDD? Here you know why."</p>
 <p align="center">Mystery solved: it was <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>.</p>
    <p align="center"><b>b&thinsp;u&thinsp;t ...</p>
-</td><td><picture><img width="70px" alt="&nbsp;LONG READ" src="../../../../../_rsc/_img/signs/LongRead/higher/500px_rotate90.jpg" /></picture></td></tr></table>
+</td><td><picture><img width="55px" alt="&nbsp;LONG READ" src="../../../../../_rsc/_img/signs/LongRead/higher/500px_rotate90.jpg" /></picture></td></tr></table>
 
 The de-abbreviation raised another doubt: where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...<sup>🙋</sup> 
 
@@ -60,43 +60,50 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
       <li> Fill design with working code and its alternatives</li>
       <li>Give continuous <b>feedback</b> on passes and bottlenecks</li>
    </ul></td></tr>
-         <!--             MODE: VOLATILE vs. STABLE      --!>
+         <!--             MODE: VOLATILE vs. FREEZE      --!>
 <tr><td align="center" colspan="2"><b>M&thinsp;o&thinsp;d&thinsp;e</b></td></tr><tr valign="top"><td><p><b>Volatile</b></p><p>Design tests and code behind will inevitably come through approximations and changes.</p>
    <p>Hasty decision - NO</p?
-         </td><td><p><b>Stabilizing</b></p>
-   Implementation must be done on defined tasks.</td></tr>
-</td></tr>
-     <!--              INTERFACES and CLASSES     --!>
+         </td><td><p><b>Freezing</b></p>
+   <p>Implementation must be done on defined tasks.</p></td></tr>
+         <!--              INTERFACES and CLASSES     --!>
 <tr><td colspan="2" align="center"><b>"C&thinsp;o&thinsp;d&thinsp;e&nbsp;&nbsp;b&thinsp;e&thinsp;h&thinsp;i&thinsp;n&thinsp;d"</b></td></tr>
 <tr valign="top"><td><p><b>Interfaces</b></p>Markup and qualifiers.</p>
 <p>Define general interfaces and back them with test doubles</p></td>
 <td><p><b>Interfaces</b></p>Working interfaces</td>
-</tr><tr></tr>
-          <!--          TEST DOUBLES    --!><tr></tr>
+</tr>
+          <!--          TEST DOUBLES    --!>
 <tr><td align="center" colspan="2"><b>T&thinsp;e&thinsp;s&thinsp;t&nbsp;&nbsp;d&thinsp;o&thinsp;u&thinsp;b&thinsp;l&thinsp;e&thinsp;s</b></td></tr>
-<tr><td>
-<p>Tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.</p>
+<tr valign="top"><td>
+<p>Tests and the code behind them must intensively utilize all possible doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (available in the language).</p>
+<p>When design stabilizes these doubles will be development tasks: test-driven or not.</p>
 </td><td>
-   <p>Use of the test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).</p>
+   <p>Shall implement test doubles sketched by design.</p>
+   <p>Use of new test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).</p></td></tr>
         <!--            CHECKLIST    -->
-</td></tr><tr><td align="center" colspan="2"><b>C&thinsp;h&thinsp;e&thinsp;c&thinsp;k&thinsp;l&thinsp;i&thinsp;s&thinsp;t</b></td></tr>
-<tr valign="top"><td><p><b>Pass</b></p><p>Compilable syntax demos are enough.</p>
-Non-compilable too to exclude wrong calls.
-  <p>Tests can remain for a demo and serve as a documentation frame.</p></td>
-<td><p><b>Checklist</b></p><p>Exact success and fail scenarios.</p>
-<li>define failing scenarios</li></td></tr>
-           <!--            SO EASY ?    --!>
+<tr><td align="center" colspan="2"><b>C&thinsp;h&thinsp;e&thinsp;c&thinsp;k&thinsp;l&thinsp;i&thinsp;s&thinsp;t</b></td></tr>
+<tr valign="top"><td>
+   <p>✅Compilable syntax demos are enough.</p>
+      <p>✔️Tests may be backed by very general functionality (as returning stubs).</p>
+   <p>Logical categorization of tests</p>
+   <p>✅Non-compilable too &mdash; <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-semantics.md#non-comp-calls">on purpose</a>.</p>
+  <p>☑️Tests (demos) can remain for guidance and serve as a documentation frame.</p></td>
+<td><p>Exact success and fail scenarios.</p>
+<li>define failing scenarios</li>
+   <p>Categorization of implementation</p>
+<p>Blueprint of test coverage</p>
+</td></tr>
+           <!--            SO EASY?    --!>
 <tr><td align="center" colspan="2"><h3>Is that so handy&thinsp;?</h3></td>
 </tr></table>
 <!--                                             NOT SO EASY     --!>
-<details align="center"><summary><ins>&nbsp;<b>Unfortunately <samp>NOT</samp>&thinsp;:</b>&nbsp;</ins>🖼️</summary>
+<details align="center"><summary>___________ <b>Hold on ...</b> ___________</summary>
 &nbsp;
    
 <p align="center"><picture><img alt="&nbsp; Long ridge of high peaks (image credit: kyriosity)" src="../../../../../_rsc/_img/illus/tests/TddWatershed-altView.jpg"></picture></p>
 
 <div align="center">An aerial photo of divergent ridges and contreforts would be a more precise picture but then I'd be the first to leave this narrative because of overcomplexity.</div>
 
-We took the two extremes: API definition vs. coding.  nitty-gritty
+We took the two extremes: API definition vs. coding. 
 
 \___________</details>
 
