@@ -1,15 +1,17 @@
-# Test Drive&nbsp;&nbsp;&rarr;&nbsp;&nbsp;Big Watershed&nbsp;&nbsp;&rArr;&nbsp;&nbsp;<sub><picture><img alt="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L O N G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R E A D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" src="../../../../../_rsc/_img/signs/LongRead/300px.jpg" /></picture></sub>
+# Test Drive&nbsp;&nbsp;&rarr;&nbsp;&nbsp;Big Watershed
 
-<table><tr valign="center"><td>
-<picture><img width="250px" alt="&nbsp;Y-fork: black on yellow" src="../../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>    
-</td><td><p>In rainy midsummer 2024 I was bicycling to hear a casual <b>TD<mark>D</mark></b>  lecture as doubts crept in &mdash; where am I going:</p>
+<table><tr valign="center"><td align="center">🌧️🌦️⛈️🌨️🌧️🌫️
+<picture><img width="150px" alt="&nbsp;Y-fork: black on yellow" src="../../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>
+   <p>rainy midsummer 2024</p>
+</td><td><p>I was bicycling to hear a casual <b>TD<mark>D</mark></b> lecture as doubts crept in &mdash; where am I going:</p>
    <p align="center">Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
 <p>It wasn't about the destination of this ride, but the principal divergence. 
 For the record, the title of the lecture resonated with my anxiety:  "Failed with TDD? Here you know why."</p>
 <p align="center">Mystery solved: it was <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>.</p>
-</td></tr></table>
+   <p align="center"><b>b&thinsp;u&thinsp;t ...</p>
+</td><td><picture><img width="70px" alt="&nbsp;LONG READ" src="../../../../../_rsc/_img/signs/LongRead/higher/500px_rotate90.jpg" /></picture></td></tr></table>
 
-But the de-abbreviation raised another doubt: where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...<sup>🙋</sup> 
+The de-abbreviation raised another doubt: where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...<sup>🙋</sup> 
 
 Presentations and lectures favored _development_ with _design_ as a natural<sup>🌵</sup> spin-off, not much bothering about distinction and some exploited both terms interchangeably. 
 Books and tutorials showed up inclined to techniques, patterns, and testing frameworks.
@@ -42,44 +44,50 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
    </td><td><p align="center"><samp><b>H&thinsp;O&thinsp;W&nbsp;&nbsp;t&thinsp;o&nbsp;&nbsp;i&thinsp;m&thinsp;p&thinsp;l&thinsp;e&thinsp;m&thinsp;e&thinsp;n&thinsp;t</b></samp></td></td>
 </tr><tr valign="top"><td>
    <ul>
-      <li>grope concepts and get a hands-on feeling on subjects (all the same: bookkeeping artifacts or superhero <i>ViewModel</i>),</li>
-      <li>vitalize skeleton functionality, evaluate trends and risks,</li>
-      <li>couple design fantasies with the tech-stack materiality,</li>
-      <li>evaluate and pick more suited libraries, frameworks, and, in some cases, languages/platforms,</li>
-      <li>discuss ideas, naming, and logic with consultants and users.</li>
+      <li><b>Grope</b> concepts and get a hands-on feeling on subjects<sup>🖋️</sup></li>
+      <li><b>Couple</b> design fantasies with the tech-stack materiality</li>
+      <li><b>Define</b> skeleton functionality to vitalize</li>
+      <li><b>Evaluate</b> and pick patterns/templates and, in some cases, languages/platforms</li>
+      <li><b>Discuss</b> ideas, naming, and logic with consultants and users</li>
    </ul>
+  <div align="right"><sup>🖋️</sup> <sub>all the same: API sketch, bookkeeping artifacts or superhero <i>ViewModel</i></sub></div>
    </td><td>
    <ul>
-      <li>inner design of classes</li>
-     <li>granulate dev items and functions</li>
-      <li>define failing scenarios</li>
-      <li>fill design with working code and its alternatives</li>
-      <li>layout the print of test coverage</li>
+      <li><b>Reality check</b> of design</li>
+      <li><b>Prototype</b> the vital funcaionality</li>
+      <li>Estimate and if reasonable provide <b>alternatives</b> of functionality and libraries/framework</li>
+      <li><b>Granulate</b> dev items and functions</li>
+      <li> Fill design with working code and its alternatives</li>
+      <li>Give continuous <b>feedback</b> on passes and bottlenecks</li>
    </ul></td></tr>
-         <!--              VOLATILE vs. STABLE      --!>
-<tr><td align="center" colspan="2">APPROACH</td></tr><tr valign="top"><td><p><b>Volatile</b></p>Design tests and code behind will inevitably come through approximations and changes.</td>
-<td><p><b>Stabilizing</b></p>
+         <!--             MODE: VOLATILE vs. STABLE      --!>
+<tr><td align="center" colspan="2"><b>M&thinsp;o&thinsp;d&thinsp;e</b></td></tr><tr valign="top"><td><p><b>Volatile</b></p><p>Design tests and code behind will inevitably come through approximations and changes.</p>
+   <p>Hasty decision - NO</p?
+         </td><td><p><b>Stabilizing</b></p>
    Implementation must be done on defined tasks.</td></tr>
 </td></tr>
      <!--              INTERFACES and CLASSES     --!>
-<tr><td colspan="2" align="center"><b>"Code behind"</b></td></tr>
+<tr><td colspan="2" align="center"><b>"C&thinsp;o&thinsp;d&thinsp;e&nbsp;&nbsp;b&thinsp;e&thinsp;h&thinsp;i&thinsp;n&thinsp;d"</b></td></tr>
 <tr valign="top"><td><p><b>Interfaces</b></p>Markup and qualifiers.</p>
 <p>Define general interfaces and back them with test doubles</p></td>
 <td><p><b>Interfaces</b></p>Working interfaces</td>
 </tr><tr></tr>
           <!--          TEST DOUBLES    --!><tr></tr>
-<tr><td align="center" colspan="2"><b>Test doubles</b></td></tr>
+<tr><td align="center" colspan="2"><b>T&thinsp;e&thinsp;s&thinsp;t&nbsp;&nbsp;d&thinsp;o&thinsp;u&thinsp;b&thinsp;l&thinsp;e&thinsp;s</b></td></tr>
 <tr><td>
 <p>Tests and the code behind them must intensively utilize doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (possible in most languages). When procs get fixed contours and stabilize - these doubles may GRANULATE tasks for development: test-driven or not.</p>
 </td><td>
    <p>Use of the test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).</p>
-</td></tr><tr><td align="center" colspan="2"><b>Checklist</b></td></tr>
+        <!--            CHECKLIST    -->
+</td></tr><tr><td align="center" colspan="2"><b>C&thinsp;h&thinsp;e&thinsp;c&thinsp;k&thinsp;l&thinsp;i&thinsp;s&thinsp;t</b></td></tr>
 <tr valign="top"><td><p><b>Pass</b></p><p>Compilable syntax demos are enough.</p>
 Non-compilable too to exclude wrong calls.
   <p>Tests can remain for a demo and serve as a documentation frame.</p></td>
-<td><p><b>Checklist</b></p><p>Exact success and fail scenarios.</p></td></tr>
-<tr><td align="center" colspan="2"><ins>&nbsp;<b>Is that so handy&thinsp;?</b>&nbsp;</ins></tr>
-</table>
+<td><p><b>Checklist</b></p><p>Exact success and fail scenarios.</p>
+<li>define failing scenarios</li></td></tr>
+           <!--            SO EASY ?    --!>
+<tr><td align="center" colspan="2"><h3>Is that so handy&thinsp;?</h3></td>
+</tr></table>
 <!--                                             NOT SO EASY     --!>
 <details align="center"><summary><ins>&nbsp;<b>Unfortunately <samp>NOT</samp>&thinsp;:</b>&nbsp;</ins>🖼️</summary>
 &nbsp;
@@ -103,11 +111,11 @@ Let's take an [ISIe](https://github.com/Kyriosity/use-dev/tree/main/README%2B/pa
 ```mermaid
 gantt
 title TDD ISie
-    API:a, 0-07-20, 1w
-        Not():a2, 0-07-20, 1w
-    class struct :crit, b, 0-07-23, 1d
+    API:a, 1968-01-20, 1w
+        Not() version:a2, 1968-01-20, 1w
+    class struct :crit, b, 1968-01-23, 1d
     ABC Check :active, c, after b a, 1d
-    Circuitry   :d, 0-07-20, until b c
+    Circuitry   :d, 1968-01-20, until b c
 ```
 
 
@@ -116,6 +124,11 @@ SPIN-OFFS: TESTS MULTIFEED
 ## Wrap up. Advantages
 
 ### Separation of duties
+
+Needs no introduction but to stress a couple of points:
+
++ It can match personal inclinations (even of a single person depending on mood)
++ Adjust/swap layers of logic
 
 ### Fast effective tasks and feedback.
 
