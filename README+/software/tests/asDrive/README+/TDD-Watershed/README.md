@@ -96,18 +96,21 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
 <tr><td align="center" colspan="2"><h3>Is that so handy&thinsp;?</h3></td>
 </tr></table>
 <!--                                             NOT SO EASY     --!>
-<details align="center"><summary>___________ <b>Hold on ...</b> ___________</summary>
+<details align="center"><summary>___________ <b>HOLD ON ...</b> ___________</summary>
 &nbsp;
    
 <p align="center"><picture><img alt="&nbsp; Long ridge of high peaks (image credit: kyriosity)" src="../../../../../_rsc/_img/illus/tests/TddWatershed-altView.jpg"></picture></p>
 
-<div align="center">An aerial photo of divergent ridges and contreforts would be a more precise picture but then I'd be the first to leave this narrative because of overcomplexity.</div>
+Above we lined up two extremes: API definition vs. coding.
 
-We took the two extremes: API definition vs. coding. 
+In fact an aerial photo of divergent ridges and contrеforts would even better represent drains of tasks.\
+<sub>(But then I'd be the first to leave this narrative because of overcomplexity.)</sub>
+
+ Besides dev tasks design will also REVEAL sub shifts and cascades.
 
 \___________</details>
 
-<h3 align="center">Is it ugly or idealistic? Neither!</h3>
+<h3 align="center">Is it so complex and idealistic? Neither!</h3>
 
 <h2 id="TDD-ISie" align="center">Reconcile by example: TDD ⭐I&thinsp;S&thinsp;<samp>I&thinsp;E</samp>⭐</h2>
 
