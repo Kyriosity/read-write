@@ -21,9 +21,9 @@ Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</sa
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche I couldn't go through the best part of treatises. There must be better findings, and there could be better alternating conclusions.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub><b>Natural</b> since any complete snippet can't escape design or must fit into the given.</sub>
 
-<table align="center"><tr></tr><tr><td><ins>&thinsp;
+<table align="center"><tr></tr><tr><td><br />&nbsp;&nbsp;&nbsp;<ins>&thinsp;
    The initial </ins><mark><b><code>O&thinsp;R</code></b></mark><ins>-question was answered first </ins><code><b>A&thinsp;N&thinsp;D</b></code><ins> and then refined to </ins><code><b>X&thinsp;O&thinsp;R</b></code><ins>
-&thinsp;</ins></td></tr></table>
+&thinsp;</ins>&nbsp;&nbsp;&nbsp;<br />&nbsp;</td></tr></table>
 
 <h2 align="center">Could I explain my shismatic take?</h2>
 
@@ -45,72 +45,92 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
 </tr><tr valign="top"><td>
    <ul>
       <li><b>Grope</b> concepts and get a hands-on feeling on subjects<sup>🖋️</sup></li>
+      <li><b>Prototype</b> the vital funcaionality</li>
       <li><b>Couple</b> design fantasies with the tech-stack materiality</li>
       <li><b>Define</b> skeleton functionality to vitalize</li>
       <li><b>Evaluate</b> and pick patterns/templates and, in some cases, languages/platforms</li>
-      <li><b>Discuss</b> ideas, naming, and logic with consultants and users</li>
+      <li><b>Discuss</b> ideas, naming, and logic with consultants, users and other devs</li>
    </ul>
   <div align="right"><sup>🖋️</sup> <sub>all the same: API sketch, bookkeeping artifacts or superhero <i>ViewModel</i></sub></div>
    </td><td>
    <ul>
       <li><b>Reality check</b> of design</li>
-      <li><b>Prototype</b> the vital funcaionality</li>
       <li>Estimate and if reasonable provide <b>alternatives</b> of functionality and libraries/framework</li>
       <li><b>Granulate</b> dev items and functions</li>
-      <li> Fill design with working code and its alternatives</li>
+      <li> Fill design with <b>working</b> code and its alternatives</li>
       <li>Give continuous <b>feedback</b> on passes and bottlenecks</li>
-   </ul></td></tr>
-         <!--             MODE: VOLATILE vs. FREEZE      --!>
-<tr><td align="center" colspan="2"><b>M&thinsp;o&thinsp;d&thinsp;e</b></td></tr><tr valign="top"><td><p><b>Volatile</b></p><p>Design tests and code behind will inevitably come through approximations and changes.</p>
-   <p>Hasty decision - NO</p?
-         </td><td><p><b>Freezing</b></p>
-   <p>Implementation must be done on defined tasks.</p></td></tr>
-         <!--              INTERFACES and CLASSES     --!>
-<tr><td colspan="2" align="center"><b>"C&thinsp;o&thinsp;d&thinsp;e&nbsp;&nbsp;b&thinsp;e&thinsp;h&thinsp;i&thinsp;n&thinsp;d"</b></td></tr>
-<tr valign="top"><td><p><b>Interfaces</b></p>Markup and qualifiers.</p>
-<p>Define general interfaces and back them with test doubles</p></td>
-<td><p><b>Interfaces</b></p>Working interfaces</td>
+   </ul></td>
 </tr>
+         <!--             MODE: VOLATILE vs. FREEZE      --!>
+<tr>
+   <td align="center" colspan="2"><b>M&thinsp;o&thinsp;d&thinsp;e</b></td></tr><tr valign="top"><td><p align="center"><b>Volatile</b></p><p>Design tests and code behind will inevitably come through iterations and breaking changes.</p>
+   <p>There's a chamber for creativity and experimentation but not hasty decisions (which will massively backlash).</p?
+         </td><td><p align="center"><b>Freezing</b></p>
+   <p>Efforts shall be oriented towards the working code.</p><p> Imperfections, flaws, and locks can be prioritized and addressed later.</p>
+</td></tr>
+         <!--              INTERFACES and CLASSES     --!>
+<tr>
+   <td colspan="2" align="center"><b>"C&thinsp;o&thinsp;d&thinsp;e&nbsp;&nbsp;b&thinsp;e&thinsp;h&thinsp;i&thinsp;n&thinsp;d"</b></td></tr>
+<tr valign="top"><td>
+<p>Define general <b>interfaces</b> and abstract classes and back them with test doubles</p>
+   <p>Define non-functional markup/qualifier interfaces.</p>
+   <p>Write general entry routines as <i>builders</i>.</p>
+     </td><td>
+<p>Granulate <b>interfaces</b> and create "technical" interfaces and classes.</p>
+   <p>Implement interfaces and abstract classes.</p>
+   <p>Code classes and methods under strict guidelines (as public SOLID or <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/frames">custom rules</a>).</p>
+</td></tr>
           <!--          TEST DOUBLES    --!>
-<tr><td align="center" colspan="2"><b>T&thinsp;e&thinsp;s&thinsp;t&nbsp;&nbsp;d&thinsp;o&thinsp;u&thinsp;b&thinsp;l&thinsp;e&thinsp;s</b></td></tr>
+<tr>
+<td align="center" colspan="2"><b>T&thinsp;e&thinsp;s&thinsp;t&nbsp;&nbsp;d&thinsp;o&thinsp;u&thinsp;b&thinsp;l&thinsp;e&thinsp;s</b></td></tr>
 <tr valign="top"><td>
 <p>Tests and the code behind them must intensively utilize all possible doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (available in the language).</p>
 <p>When design stabilizes these doubles will be development tasks: test-driven or not.</p>
 </td><td>
    <p>Shall implement test doubles sketched by design.</p>
-   <p>Use of new test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).</p></td></tr>
+   <p>Use of new test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).</p></td>
+</tr>
         <!--            CHECKLIST    -->
-<tr><td align="center" colspan="2"><b>C&thinsp;h&thinsp;e&thinsp;c&thinsp;k&thinsp;l&thinsp;i&thinsp;s&thinsp;t</b></td></tr>
+<tr>
+<td align="center" colspan="2"><b>C&thinsp;h&thinsp;e&thinsp;c&thinsp;k&thinsp;l&thinsp;i&thinsp;s&thinsp;t</b></td></tr>
 <tr valign="top"><td>
-   <p>✅Compilable syntax demos are enough.</p>
-      <p>✔️Tests may be backed by very general functionality (as returning stubs).</p>
-   <p>Logical categorization of tests</p>
-   <p>✅Non-compilable too &mdash; <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-semantics.md#non-comp-calls">on purpose</a>.</p>
-  <p>☑️Tests (demos) can remain for guidance and serve as a documentation frame.</p></td>
-<td><p>Exact success and fail scenarios.</p>
-<li>define failing scenarios</li>
-   <p>Categorization of implementation</p>
-<p>Blueprint of test coverage</p>
+   <div>✔️&thinsp;Compilable syntax demos are enough.</div>
+<div>✔️&thinsp;Non-compilable too &mdash; <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-semantics.md#non-comp-calls">on purpose</a>.</div>
+      <div>✔️&thinsp;<b>Optional</b>: light backup functionality (like stubs covering <i>nulls</i>).</div>
+   <div>✔️&thinsp;Top logical categorization of tests</div>
+   <div>✔️&thinsp;Define contours of test data</div>
+   <div>_________</div>
+  <div>Tests (demos) can remain for guidance and serve as a documentation frame.</div></td>
+<td>
+   <div>✔️&thinsp;Lay out test data</div>
+   <div>✔️&thinsp;Exact success and fail scenarios.</div>
+   <div>✔️&thinsp;Write tests for these scenarios with proper <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/tests">techniques</a></div>
+      <div>✔️&thinsp;Code implementation of tests.</div>
+<div>✔️&thinsp;Categorization of implementation</div>
+<div>✔️&thinsp;Blueprint of test coverage</div>
+   <div>_________</div>
+   <div><ins><b>&nbsp;Functioning parts of applications.&nbsp;</b></ins></div>
 </td></tr>
            <!--            SO EASY?    --!>
 <tr><td align="center" colspan="2"><h3>Is that so handy&thinsp;?</h3></td>
-</tr></table>
-<!--                                             NOT SO EASY     --!>
+</tr>
+       </table>
+<!--          NOT SO EASY     --!>
 <details align="center"><summary>___________ <b>HOLD ON ...</b> ___________</summary>
 &nbsp;
    
 <p align="center"><picture><img alt="&nbsp; Long ridge of high peaks (image credit: kyriosity)" src="../../../../../_rsc/_img/illus/tests/TddWatershed-altView.jpg"></picture></p>
 
-Above we lined up two extremes: API definition vs. coding.
+We lined up two extremes above: API definition _vs._ coding.
 
-In fact an aerial photo of divergent ridges and contrеforts would even better represent drains of tasks.\
-<sub>(But then I'd be the first to leave this narrative because of overcomplexity.)</sub>
+In reality: besides development jobs, modeling attempts will reveal parallel or sub-level cascades of design tasks.
 
- Besides dev tasks design will also REVEAL sub shifts and cascades.
+To make matters worse, an aerial photo of divergent ridges and contrеforts would even better represent drains of tasks.\
+<sub>(But then I'd be the first to leave scarred this narrative because of overcomplexity.)</sub>
 
-\___________</details>
+\___________</b></details>
 
-<h3 align="center">Is it so complex and idealistic? Neither!</h3>
+<h3 align="center">So sophisticated and idealistic? Neither!</h3>
 
 <h2 id="TDD-ISie" align="center">Reconcile by example: TDD ⭐I&thinsp;S&thinsp;<samp>I&thinsp;E</samp>⭐</h2>
 
@@ -128,19 +148,21 @@ title TDD ISie
     Circuitry   :d, 1968-01-20, until b c
 ```
 
-
 SPIN-OFFS: TESTS MULTIFEED
 
 ## Wrap up. Advantages
 
 ### Separation of duties
 
-Needs no introduction but to stress a couple of points:
+It needs no introduction but to stress a couple of points:
 
-+ It can match personal inclinations (even of a single person depending on mood)
-+ Adjust/swap layers of logic
++ Match personal inclinations (even of a single person depending on mood).
++ Present the concept ASAP.
++ Adjust/swap layers of logic.
 
-### Fast effective tasks and feedback.
+### Effective definitions of tasks and feedback
+
+### Team practice
 
 \___________
  <div align="center">🔚 &nbsp;🌒 2024-2025  ... images: kyriosity ...</div>
