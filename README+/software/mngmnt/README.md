@@ -15,7 +15,7 @@ A commendable organization endows every process/measure with an exact explanatio
 + increases code quality and decreases errors,
 + automates routines.
 
-And not because it's based on trends or chosen methodology.
+And not because chosen methodologies and tools are on trend.
 
 ### Technical advantages expected
 
