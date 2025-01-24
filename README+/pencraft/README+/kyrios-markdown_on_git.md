@@ -6,7 +6,7 @@ Markdown is lightweight to learn and use, with plenty of guides and cheat sheets
 
 GitHub alone doesn't render its own site in markdown or a flavor despite positioning it as built-in and primary documentation means.
 
-<p align="center"><b>However if you still consider trying it beyond a slightly formatted text, here is my ounce of teaching illustrated by this repository.</b></p>
+<table align="center"><tr><td><b>If there's a reason to try <samp>markdown</samp>samp> beyond a slightly formatted text, here is my ounce of teaching illustrated by this repository.</b></td></tr></table>
 
 <p dir="rtl"><i>.Markdown forgives</i>»<br /><i>«.The GitHub doesn't</i></p>
 
@@ -23,7 +23,7 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 ### Markdown
 
-- Markdown doesn't have codes akin to HTML or rich-text formats (e.g. for non-breaking space).
+- Markdown doesn't have codes akin to HTML or rich-text formats (e.g. for non-breaking elements).
 - Native markdown tables are intended for little portions of data.
 - There are no variables in markup (Remember it's plain text.)
 
@@ -31,7 +31,7 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 - The saddest experience is that no shared content and snippets can be included but <samp>copy-paste</samp>.\
 (While elementary repositories share common headers and footers for READMEs.)
-- GitHub removes styles, classes and some other formatting.\
+- GitHub removes styles, classes, and most other formatting.\
 (Thus there are always borders in both markdown and HTML tables).
 - There's no overlay for image loading but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
 - Many (if not most) Q&A tricks for markdown won't work on Git.
@@ -55,19 +55,20 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 ### Pictograms / Symbols
 
-GitHub markdown has <code>:<i>emoji</i>:</code> codes but it's the same collection as in _emoji keyboard_ (<kbd>Win+.</kbd> for Windows users). 
-To my knowledge, the only exception is a dozen of Git's custom emojis as <code>:octocat:</code>.
+GitHub markdown has <code>:<i>emoji</i>:</code> codes but it's the same collection as in _emoji keyboard_ (<kbd>Win+.</kbd> for Windows users). Raw graphic symbols are better than their code names unless a document must be saved as <samp>ASCII</samp>.
 
-Graphic symbols inserted are better than their codes unless a document must be saved as <samp>ASCII</samp>.
+To my knowledge, the only exception (inserted by code only) is a dozen of Git's custom emojis, of which I'd only consider <code>:octocat:</code>, <code>:atom:</code> and <code>:electron:</code>.
 
 Review [HTML symbols](https://www.w3schools.com/charsets/ref_html_symbols.asp)<sup>🔗</sup> as a great enhancement of selections.
 
-<p align="center">⚠️ Browsers may show some pictograms differently. Find out diffs on this snapshot:</p>
-<p align="center"><a href="essays/README+/AI-2020s.md#evidence"><img alt="&nbsp;string of emojis presented different" src="../../_rsc/_img/snap/screen/emojis_diff-browsers.jpg" title="&nbsp;Click to see how it looks in yours" /></a></p>
+#### Remarks
+
+<p>⚠️ Browsers may show some pictograms differently. Find out diffs on this snapshot:</p>
+<p><a href="essays/README+/AI-2020s.md#evidence"><img alt="&nbsp;string of emojis presented different" src="../../_rsc/_img/snap/screen/emojis_diff-browsers.jpg" title="&nbsp;Click to see how it looks in yours" /></a></p>
 
 ### Miscellany
 
-Don't forget about naturally supported `code snippets`, [math expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)<sup>:octocat:</sup>, and [badges](https://shields.io/)<sup>🔗</sup>.
+Keep in mind inherently supported `code snippets` with `diffs`, [math expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)<sup>:octocat:</sup>, and [badges](https://shields.io/)<sup>🔗</sup>.
 
 ## HTML
 
