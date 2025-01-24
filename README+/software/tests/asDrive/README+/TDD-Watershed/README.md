@@ -49,7 +49,7 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
       <li><b>Couple</b> design fantasies with the tech-stack materiality</li>
       <li><b>Define</b> skeleton functionality to vitalize</li>
       <li><b>Evaluate</b> and pick patterns/templates and, in some cases, languages/platforms</li>
-      <li><b>Discuss</b> ideas, naming, and logic with consultants, users and other devs</li>
+      <li><b>Discuss</b> ideas, naming, and logic with consultants, users, and other devs</li>
    </ul>
   <div align="right"><sup>🖋️</sup> <sub>all the same: API sketch, bookkeeping artifacts or superhero <i>ViewModel</i></sub></div>
    </td><td>
@@ -59,6 +59,8 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
       <li><b>Granulate</b> dev items and functions</li>
       <li> Fill design with <b>working</b> code and its alternatives</li>
       <li>Give continuous <b>feedback</b> on passes and bottlenecks</li>
+      <div>___________</div>
+      <p>Feedback stitches are incredibly valuable to prevent Design and Dev come apart.</p>
    </ul></td>
 </tr>
          <!--             MODE: VOLATILE vs. FREEZE      --!>
@@ -109,7 +111,7 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
 <div>✔️&thinsp;Categorization of implementation</div>
 <div>✔️&thinsp;Blueprint of test coverage</div>
    <div>_________</div>
-   <div><ins><b>&nbsp;Functioning parts of applications.&nbsp;</b></ins></div>
+   <div>☑️<ins><b>&nbsp;Functioning parts of applications.&nbsp;</b></ins></div>
 </td></tr>
            <!--            SO EASY?    --!>
 <tr><td align="center" colspan="2"><h3>Is that so handy&thinsp;?</h3></td>
@@ -163,6 +165,8 @@ It needs no introduction but to stress a couple of points:
 ### Effective definitions of tasks and feedback
 
 ### Team practice
+
+### Motivation to TDD
 
 \___________
  <div align="center">🔚 &nbsp;🌒 2024-2025  ... images: kyriosity ...</div>
