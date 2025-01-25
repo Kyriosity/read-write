@@ -127,5 +127,11 @@ You may consider Git-supported dialects as [flavored markdown](https://github.gi
 
 There are legions of content management, publishing, and site creation tools for organizations (big projects) better than markdown-on-Git.
 
+## Appendix. "Dirty tricks"
+
+<table  align="center"><tr></tr><tr><td>Centered or right-aligned block quote</td></table>
+
+
+
 \___________\
 🔚 🌙 2025
