@@ -15,7 +15,7 @@ title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nb
 <p>The essence of architecture appeared as folks managed to erect somewhat more extravagant and durable than a hut of piled branches (beginning from megaliths).</p>
 <p>Some ancient Hellenes were so good at construction sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &mdash; the term romanized to <i>architecture</i> centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &rarr; 
-refined craftsmen exempt from routines and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
+refined craftsmen exempt from chores and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
 <p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. 
  However, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) and architects of détente or <em>economic miracle</em> are compliments (or flattery).</p>
 ___________<br />
@@ -26,7 +26,7 @@ ___________<br />
 
 ### much in common...
 
-The architecture of both demands creativity and grants leeway and vast playland for phantasy and missteps, but operating wholes must be defined quickly rather than ripen aesthetic values. 
+The architecture of both demands creativity and grants **leeway** and vast **playland** for phantasy and missteps, but operating wholes must be defined quickly rather than ripen aesthetic values. 
 Endeavors in both often begin from sketching on white paper or chalkboards.
 
 Both take advantage of the flexible plethora of tools, techniques, and skills. Both must accumulate mainstream and alternate practices and reveal patterns.
