@@ -2,11 +2,11 @@
 
 <p align="right"><b>&ndash;</b>&nbsp;What is the difference between<br /><i>markdown</i> newbie and expert?<br /><b>&ndash;</b>&nbsp;Half an hour.</p>
 
-Markdown is lightweight to learn and use, with plenty of guides and cheat sheets for advanced techniques. This markup and its dialects were never designed to provide rich content.
+<sub>[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)</sub> is lightweight to learn and use, with plenty of guides and cheat sheets for advanced techniques. This markup and its dialects were never designed to provide rich content.
 
 GitHub alone doesn't render its own site in markdown or a flavor despite positioning it as built-in and primary documentation means.
 
-<table align="center"><tr><td><b>If there's a reason to try <samp>markdown</samp> beyond a slightly formatted text, here is my ounce of teaching illustrated by this repository.</b></td></tr></table>
+<table align="center"><tr><td><b>If there's a reason to try</b> <samp>markdown</samp> <b>beyond a moderately formatted text, here is my ounce of teaching illustrated by this repository.</b></td></tr></table>
 
 <p dir="rtl"><i>.Markdown forgives</i>»<br /><i>«.The GitHub doesn't</i></p>
 
@@ -79,7 +79,7 @@ HTML elements are in play even for the purest text: markdown has neither non-bre
 
 The richer the content the more HTML you will use. The use of HTML is inevitable in cells of `<table>`<i>s</i>.
 
-## Tips, tricks and advice
+## Tips, and advice
 
 Advice Nr&thinsp;1 is **don't even try to hack git markdown**. Even if you manage to style some stuff one day Git may sweep it out.
 
@@ -88,8 +88,6 @@ Besides symbols, the best HTML pals of markdown writers are
 + `<details>` expandables to mitigate the volume hit and for optional parts.
 + `<table>` - needs explanation?
 + `<sub>`, `<sup>`, and `..[v]align=..`.
-
-Markdown automatically highlights alternative rows, but by inserting `</tr><tr>` you can master it.
 
 ### Fancy footnotes
 
@@ -132,12 +130,22 @@ There are legions of content management, publishing, and site creation tools for
 
 ## Appendix. "Dirty tricks"
 
+Besides obvious gimmicks, there are some requiring declaration.
+
+<details><summary><ins>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>F<samp>&thinsp;O&thinsp;R&thinsp;M&thinsp;A&thinsp;T&thinsp;T&thinsp;I&thinsp;N&thinsp;G</samp></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ins></summary>
+
 <table  align="center"><tr></tr><tr><td>Centered or right-aligned block quote</td></table>
 
+\___________</details>
 
-### Rows highlighting
+<details><summary><ins>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>T<samp>&thinsp;A&thinsp;B&thinsp;L&thinsp;E&thinsp;S&thinsp;</samp></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ins></summary>
+&nbsp;
+    
++ Markdown automatically highlights alternative rows, but by inserting `</tr><tr>` you can master it.
 
-🐝 to be continued 🐝 
+\___________</details>
 
-\___________\
-🔚 🌙 2025
+🐝 ... _to be continued_ ... 🐝 
+
+\___________
+<div align="center"> 🔚 ... 🎉 you now advanced to a markdown lord❕ ... 🌙 2025</div> 
