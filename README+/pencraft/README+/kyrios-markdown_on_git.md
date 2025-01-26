@@ -2,7 +2,8 @@
 
 <p align="right"><b>&ndash;</b>&nbsp;What is the difference between<br /><i>markdown</i> newbie and expert?<br /><b>&ndash;</b>&nbsp;Half an hour.</p>
 
-<sub>[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)</sub> is lightweight to learn and use, with plenty of guides and cheat sheets for advanced techniques. This markup and its dialects were never designed to provide rich content.
+<sub>[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)</sub> is lightweight to learn and use, 
+with plenty of guides and cheat sheets for advanced techniques. This markup and its dialects were never designed to provide rich content.
 
 GitHub alone doesn't render its own site in markdown or a flavor despite the role of built-in and primary documentation means.
 
@@ -127,7 +128,7 @@ Avoid clickable images unless they are links or a detailed (bigger) version: HTM
 You may consider Git-supported dialects as [flavored markdown](https://github.github.com/gfm/)<sup>:octocat:</sup> and converters as [PanDoc](https://pandoc.org)<sup>🔗</sup>. And
 there are legions of content management and site creation tools for big projects better than markdown-on-Git.
 
-</td><td><picture><img width="125px" alt="&nbsp;LONG READ" src="../../_rsc/_img/signs/LongRead/4000px_rotate90.jpg" /></picture></td></tr></table>
+</td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../_rsc/_img/signs/LongRead/2845px_rotate90.jpg" /></picture></td></tr></table>
 
 ## Appendix. "Dirty tricks"
 
@@ -150,6 +151,6 @@ Besides obvious gimmicks, some others require disclosure.
 
 \___________
 
-**P.S.** Is the juice worth the squeeze?
+**P.S.** Was this juice worth the squeeze? Yes for authentic content but coming close to exhaustion.
 
 <div align="center"> 🔚 ... 🎉 you now advanced to a markdown lord❕ ... 🌙 2025</div> 
