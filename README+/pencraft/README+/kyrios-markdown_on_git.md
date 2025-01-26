@@ -153,6 +153,4 @@ Besides obvious gimmicks, some others require disclosure.
 
 \___________
 
-**P.S.** Was this juice worth the squeeze? Yes for authentic content but coming close to exhaustion.
-
 <div align="center"> 🔚 ... 🎉 you now advanced to a markdown lord❕ ... 🌙 2025</div> 
