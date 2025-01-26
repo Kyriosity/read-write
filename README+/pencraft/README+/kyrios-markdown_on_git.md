@@ -127,7 +127,7 @@ Avoid clickable images unless they are links or a detailed (bigger) version: HTM
 You may consider Git-supported dialects as [flavored markdown](https://github.github.com/gfm/)<sup>:octocat:</sup> and converters as [PanDoc](https://pandoc.org)<sup>🔗</sup>. And
 there are legions of content management and site creation tools for big projects better than markdown-on-Git.
 
-</td><td><picture><img width="100px" alt="&nbsp;LONG READ" src="../../_rsc/_img/signs/LongRead/4000px_rotate90.jpg" /></picture></td></tr></table>
+</td><td><picture><img width="125px" alt="&nbsp;LONG READ" src="../../_rsc/_img/signs/LongRead/4000px_rotate90.jpg" /></picture></td></tr></table>
 
 ## Appendix. "Dirty tricks"
 
@@ -149,4 +149,7 @@ Besides obvious gimmicks, some others require disclosure.
 🐝 ... _to be continued_ ... 🐝 
 
 \___________
+
+**P.S.** Is the juice worth the squeeze?
+
 <div align="center"> 🔚 ... 🎉 you now advanced to a markdown lord❕ ... 🌙 2025</div> 
