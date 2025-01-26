@@ -4,12 +4,14 @@
 
 <sub>[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)</sub> is lightweight to learn and use, with plenty of guides and cheat sheets for advanced techniques. This markup and its dialects were never designed to provide rich content.
 
-GitHub alone doesn't render its own site in markdown or a flavor despite positioning it as built-in and primary documentation means.
+GitHub alone doesn't render its own site in markdown or a flavor despite the role of built-in and primary documentation means.
 
-<table align="center"><tr><td><b>If there's a reason to try</b> <samp>markdown</samp> <b>beyond a moderately formatted text, here is my ounce of teaching illustrated by this repository.</b></td></tr></table>
+<table align="center"><tr></tr><tr><td><b>For a reason to try</b> <samp>markdown</samp> <b>beyond a moderately formatted text, here is my ounce of teaching</b> illustrated by this repository.</td></tr></table>
 
-<p dir="rtl"><i>.Markdown forgives</i>»<br /><i>«.The GitHub doesn't</i></p>
+<p dir="rtl"><i>.Markdown forgives</i>»<br /><i>«.The GitHub doesn't</i><br />(for <a href="https://www.merriam-webster.com/dictionary/TL%3BDR">TL;DR</a>)</p>
 
+<table><tr valign="top"><td>
+    
 ## Editors and Tools
 
 A simple markdown is readable without WYSIWYG, and no editors will support it. 
@@ -29,10 +31,9 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 ### Git
 
-<b>The saddest experience:</b> you can't include shared content and snippets but <samp>copy-paste</samp>.\
-(While even elementary repositories have common headers and footers of READMEs.)
+<b>The saddest experience:</b> you can't include shared content and snippets but <samp>copy-paste</samp>. (While even elementary repositories have common headers and footers of READMEs.)
 
-Next
+Next:
 
 - GitHub removes styles, classes, and most other formatting.\
 (Thus there are always borders in both "marked down" and HTML-made tables).
@@ -46,15 +47,15 @@ Next
 ### Diagrams
 
 + Good news: GitHub renders `mermaid` diagrams in markdown.\
-(If you don't know them a [quick tour](https://mermaid.js.org/intro/)<sup>🧜🏼‍♀️</sup> is really worth a look).
-+ Entity names can be made into HTML links (but not in every type!).
+(If you don't know them a <a href="https://mermaid.js.org/intro/">quick tour</a><sup>🧜🏼‍♀️</sup> is worth a look).
++ Entity names can be made into HTML links (but not in every type&thinsp;**!**).
 + "Mermaids" mushrooming gives hope to see WYSIWYG tooling soon.
 
 "Mermaids" are beautiful but not for drawings. For a specific layout or artistic look, you have to snap/save a drawing in other programs.
 
 ### Pictures
 
-+ That's nothing bad with including images in documents but their size. Markdown on Git won't support goodies like linkable picture areas or images in pop-ups.
++ That's nothing bad with including images in documents but their size. Also, markdown on Git won't support goodies like linkable picture areas or images in pop-ups.
 
 ### Pictograms / Symbols
 
@@ -91,10 +92,9 @@ Besides symbols, the best HTML pals of markdown writers are
 
 ### Fancy footnotes
 
-Numbered footnotes are academic and convenient but a number itself won't tell much about its subject (when separated by enough content). Mnemonic superscript references are eye-catching<sup>🙋</sup>.
-
+Numbered footnotes are academic and convenient but a number itself won't tell much about its subject (when separated by enough content). Mnemonic superscript references are eye-catching<sup>🙋</sup>.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>You can invent your footnotes vocabulary, as I use _raising hand_ to express the own opinion.
-    
+
 ### Links suffixes
 
 Named links are overall practice but they distract. You may hint that a URL goes **outside**: [Docs as code](https://www.writethedocs.org/guide/docs-as-code/)<sup>🔗</sup>. 
@@ -124,17 +124,18 @@ Avoid clickable images unless they are links or a detailed (bigger) version: HTM
 
 ## Wrap up
 
-You may consider Git-supported dialects as [flavored markdown](https://github.github.com/gfm/)<sup>:octocat:</sup> and converters as [PanDoc](https://pandoc.org)<sup>🔗</sup>.
+You may consider Git-supported dialects as [flavored markdown](https://github.github.com/gfm/)<sup>:octocat:</sup> and converters as [PanDoc](https://pandoc.org)<sup>🔗</sup>. And
+there are legions of content management and site creation tools for big projects better than markdown-on-Git.
 
-There are legions of content management, publishing, and site creation tools for organizations (big projects) better than markdown-on-Git.
+</td><td><picture><img width="125px" alt="&nbsp;LONG READ" src="../../_rsc/_img/signs/LongRead/4000px_rotate90.jpg" /></picture></td></tr></table>
 
 ## Appendix. "Dirty tricks"
 
-Besides obvious gimmicks, there are some requiring declaration.
+Besides obvious gimmicks, some others require disclosure.
 
 <details><summary><ins>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>F<samp>&thinsp;O&thinsp;R&thinsp;M&thinsp;A&thinsp;T&thinsp;T&thinsp;I&thinsp;N&thinsp;G</samp></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ins></summary>
 
-<table  align="center"><tr></tr><tr><td>Centered or right-aligned block quote</td></table>
+<table align="center"><tr></tr><tr><td>Centered or right-aligned block quote</td></table>
 
 \___________</details>
 
@@ -148,4 +149,7 @@ Besides obvious gimmicks, there are some requiring declaration.
 🐝 ... _to be continued_ ... 🐝 
 
 \___________
+
+**P.S.** Is the juice worth the squeeze?
+
 <div align="center"> 🔚 ... 🎉 you now advanced to a markdown lord❕ ... 🌙 2025</div> 
