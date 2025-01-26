@@ -6,11 +6,11 @@ Markdown is lightweight to learn and use, with plenty of guides and cheat sheets
 
 GitHub alone doesn't render its own site in markdown or a flavor despite positioning it as built-in and primary documentation means.
 
-<table align="center"><tr><td><b>If there's a reason to try <samp>markdown</samp>samp> beyond a slightly formatted text, here is my ounce of teaching illustrated by this repository.</b></td></tr></table>
+<table align="center"><tr><td><b>If there's a reason to try <samp>markdown</samp> beyond a slightly formatted text, here is my ounce of teaching illustrated by this repository.</b></td></tr></table>
 
 <p dir="rtl"><i>.Markdown forgives</i>»<br /><i>«.The GitHub doesn't</i></p>
 
-## Editors and Viewers, Tools
+## Editors and Tools
 
 A simple markdown is readable without WYSIWYG, and no editors will support it. 
 No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the editor of choice is www.gihub.com, switching between _Edit_ and _Preview_.
@@ -23,16 +23,19 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 ### Markdown
 
-- Markdown doesn't have codes akin to HTML or rich-text formats (e.g. for non-breaking elements).
-- Native markdown tables are intended for little portions of data.
+- Markdown doesn't have codes akin to HTML or rich-text formats (to begin with essential non-breaking elements).
+- Native markdown tables are intended for little portions.
 - There are no variables in markup (Remember it's plain text.)
 
 ### Git
 
-- The saddest experience is that no shared content and snippets can be included but <samp>copy-paste</samp>.\
-(While elementary repositories share common headers and footers for READMEs.)
+<b>The saddest experience:</b> you can't include shared content and snippets but <samp>copy-paste</samp>.\
+(While even elementary repositories have common headers and footers of READMEs.)
+
+Next
+
 - GitHub removes styles, classes, and most other formatting.\
-(Thus there are always borders in both markdown and HTML tables).
+(Thus there are always borders in both "marked down" and HTML-made tables).
 - There's no overlay for image loading but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
 - Many (if not most) Q&A tricks for markdown won't work on Git.
 - It's easier to list what the GitHub site editor has (few shortcut keys) rather than what's wanted: toolbars, context menus, auto-saving, and so on.
@@ -55,7 +58,7 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 ### Pictograms / Symbols
 
-GitHub markdown has <code>:<i>emoji</i>:</code> codes but it's the same collection as in _emoji keyboard_ (<kbd>Win+.</kbd> for Windows users). Raw graphic symbols are better than their code names unless a document must be saved as <samp>ASCII</samp>.
+GitHub markdown renders pictograms from <code>:<i>emoji</i>:</code> codes but it's the same collection as in _emoji keyboard_ (<kbd>Win+.</kbd> for Windows users). Raw graphic symbols are better than their code names unless a document must be saved as <samp>ASCII</samp>.
 
 To my knowledge, the only exception (inserted by code only) is a dozen of Git's custom emojis, of which I'd only consider <code>:octocat:</code>, <code>:atom:</code> and <code>:electron:</code>.
 
@@ -72,13 +75,13 @@ Keep in mind inherently supported `code snippets` with `diffs`, [math expression
 
 ## HTML
 
-HTML elements are required even for the purest text: markdown has neither non-breaking space nor a hyphen.
+HTML elements are in play even for the purest text: markdown has neither non-breaking space nor a hyphen.
 
 The richer the content the more HTML you will use. The use of HTML is inevitable in cells of `<table>`<i>s</i>.
 
 ## Tips, tricks and advice
 
-Advice Nr&thinsp;1 is **don't try to hack git markdown**. Even if you manage to style some stuff one day Git may sweep it out.
+Advice Nr&thinsp;1 is **don't even try to hack git markdown**. Even if you manage to style some stuff one day Git may sweep it out.
 
 Besides symbols, the best HTML pals of markdown writers are
 
@@ -132,6 +135,9 @@ There are legions of content management, publishing, and site creation tools for
 <table  align="center"><tr></tr><tr><td>Centered or right-aligned block quote</td></table>
 
 
+### Rows highlighting
+
+🐝 to be continued 🐝 
 
 \___________\
 🔚 🌙 2025
