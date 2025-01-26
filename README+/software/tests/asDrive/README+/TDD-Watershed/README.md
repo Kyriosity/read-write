@@ -70,13 +70,14 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
          </td><td><p align="center"><b>Freezing</b></p>
    <p>Efforts shall be oriented towards the working code.</p><p> Imperfections, flaws, and locks can be prioritized and addressed later.</p>
 </td></tr>
-         <!--              INTERFACES and CLASSES     --!>
+         <!--              C O D E   B E H I N D     --!>
 <tr>
-   <td colspan="2" align="center"><b>"C&thinsp;o&thinsp;d&thinsp;e&nbsp;&nbsp;b&thinsp;e&thinsp;h&thinsp;i&thinsp;n&thinsp;d"</b></td></tr>
+   <td colspan="2" align="center"><b>"&thinsp;C&thinsp;o&thinsp;d&thinsp;e&nbsp;&nbsp;&nbsp;b&thinsp;e&thinsp;h&thinsp;i&thinsp;n&thinsp;d&thinsp;"</b></td></tr>
 <tr valign="top"><td>
-<p>Define general <b>interfaces</b> and abstract classes and back them with test doubles</p>
+<p>Define general <b>interfaces</b> and abstract classes and back them with test doubles.</p>
    <p>Define non-functional markup/qualifier interfaces.</p>
    <p>Write general entry routines as <i>builders</i>.</p>
+   <p>Any functional code "below the surface" can appear dead end and be erased later.</p>
      </td><td>
 <p>Granulate <b>interfaces</b> and create "technical" interfaces and classes.</p>
    <p>Implement interfaces and abstract classes.</p>
@@ -84,7 +85,7 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
 </td></tr>
           <!--          TEST DOUBLES    --!>
 <tr>
-<td align="center" colspan="2"><b>T&thinsp;e&thinsp;s&thinsp;t&nbsp;&nbsp;d&thinsp;o&thinsp;u&thinsp;b&thinsp;l&thinsp;e&thinsp;s</b></td></tr>
+<td align="center" colspan="2"><b>T&thinsp;e&thinsp;s&thinsp;t&nbsp;&nbsp;&nbsp;&nbsp;d&thinsp;o&thinsp;u&thinsp;b&thinsp;l&thinsp;e&thinsp;s</b></td></tr>
 <tr valign="top"><td>
 <p>Tests and the code behind them must intensively utilize all possible doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (available in the language).</p>
 <p>When design stabilizes these doubles will be development tasks: test-driven or not.</p>
@@ -130,13 +131,15 @@ In reality: besides development jobs, modeling attempts will reveal parallel or 
 To make matters worse, an aerial photo of divergent ridges and contrеforts would even better represent drains of tasks.\
 <sub>(But then I'd be the first to leave scarred this narrative because of overcomplexity.)</sub>
 
+The course will also unveil tasks of higher or parallel level but they will be either enjoyable hassle or separate headaches.
+
 \___________</b></details>
 
 <h3 align="center">So sophisticated and idealistic? Neither!</h3>
 
 <h2 id="TDD-ISie" align="center">Reconcile by example: TDD ⭐I&thinsp;S&thinsp;<samp>I&thinsp;E</samp>⭐</h2>
 
-Let's take an [ISIe](https://github.com/Kyriosity/use-dev/tree/main/README%2B/parts/_ext/ISie) example
+Let's take an [ISIe](https://github.com/Kyriosity/use-dev/tree/main/README%2B/parts/_ext/ISie) example, which started with designing and redesigning API builders.
 
        🚧🐝🚧 .. WORK IN PROGRESS .. 🚧🐝🚧
 
