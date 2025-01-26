@@ -123,12 +123,14 @@ Prefer `<a id="anchor_name" />` for sustained (internal) links to avoid changeab
 
 Avoid clickable images unless they are links or a detailed (bigger) version: HTML `<picture>` to rescue.
 
+</td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../_rsc/_img/signs/LongRead/2845px_rotate90.jpg" /></picture></td></tr></table>
+
 ## Wrap up
 
-You may consider Git-supported dialects as [flavored markdown](https://github.github.com/gfm/)<sup>:octocat:</sup> and converters as [PanDoc](https://pandoc.org)<sup>🔗</sup>. And
-there are legions of content management and site creation tools for big projects better than markdown-on-Git.
+You may consider Git-supported dialects as [flavored markdown](https://github.github.com/gfm/)<sup>:octocat:</sup> and converters as [PanDoc](https://pandoc.org)<sup>🔗</sup>. 
 
-</td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../_rsc/_img/signs/LongRead/2845px_rotate90.jpg" /></picture></td></tr></table>
+There are legions of content management and site creation tools for big projects more suitable and pro than markdown-on-Git.
+
 
 ## Appendix. "Dirty tricks"
 
