@@ -30,10 +30,10 @@ It amazes me, in this day and age, what barely agile steps it took:
 &nbsp;&nbsp;<b>2️)</b> Fill in a lined paper form with procedural statements.<sup>🥪</sup><br />
 &nbsp;&nbsp;<b>3️)</b> Submit this papyrus to the punching shop,<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where good ladies were used to decypher student scribble.<sup>🛠️</sup><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... 🌙 one day after ⛅ ...<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... 🌙 _one day after_ ⛅ ...<br />
 &nbsp;&nbsp;<b>4️)</b>&nbsp;&thinsp;Fetch a deck of punched paperboard (~inch thick).<br />
 &nbsp;&nbsp;<b>5)</b> Bring it to the _computing center_<sup>🏛️</sup> where the mystery will occur.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... 🌙 one/two days after ⛅ ...<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... 🌙 <i>one/two days after</i> ⛅ ...<br />
 &nbsp;&nbsp;<b>6)</b> Pick the medieval scroll in the "print" department.<br />
 &nbsp;&nbsp;<b>7)</b>  Search for a graph among collateral outputs.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If fail, read errors, debug (mentally), and go to <b>(2)</b>.
