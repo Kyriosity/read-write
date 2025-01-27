@@ -1,11 +1,17 @@
 # Pen & Brush craft &mdash; Technical writing
 
-[__Documentation__](README+/tech_docu.md)<sup>📄</sup> and [__authoring__](README+/tech-authoring.md)<sup>🖊️</sup> are two very unsimilar employments of writing and painting skills with opposed values of formalism, creativity, envisaging, and styles.
+<table width="80%" align="center"><tr></tr><tr><td>
 
-> The principled distinction is __*driven*__ vs __*drives*__:
+[__Documentation__](README+/tech_docu.md)<sup>📄</sup> and [__authoring__](README+/tech-authoring.md)<sup>🖊️</sup> are two very dissimilar employments of writing and painting skills<br />
+with opposed values of formalism, creativity, envisaging, and styles.
 
-* <ins>Documentation</ins> is **on-demand/request** derivative of a product or service, must follow templates and shall be (auto-)generated and reused as much as possible.<sup>📖</sup>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📖</sup> <sub>A strict _User manual_ of hazardous tools is an exemplary story.</sub>
+</td></tr></table>
+
+The principled distinction is __*driven*__ vs __*drives*__:
+
+* <ins>Documentation</ins> is **on-demand/request** derivative of a product or service, must follow templates, and shall be (auto-)generated and reused as much as possible.<sup>📖</sup>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📖</sup> <sub>A strict _User manual_ of hazardous tools is an exemplary story.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Microsoft [documentation](https://learn.microsoft.com/) follows this line but, honestly, this doesn't help to "🪟<b>Learn</b>".</docu>
 
 * <ins>Authoring</ins> is **initiative**, must take a bird's view of the subject, inspire and explain sophisticated and regulated ideas in an abstractive, friendly, and sometimes informal/playful manner.
 
@@ -15,20 +21,20 @@ When it's often a reader's headache to find and study the right <ins>documentati
 
 Sticking to the narrowed vocabulary, repetitions, and cliches are benefactors in documentation, but authoring sins.
 
-Regardless of missions, significant writing is an expensive and exhausting exercise. If not a hobby or bondage, it must:
+Regardless of mission, significant writing is an expensive and exhausting exercise. If not a hobby or bondage, it must:
 
 + [x] have a live eager auditorium,
-+ [x] exceed other ways of teaching (consider quickly sketched presentation, captured video tutorial, or even watercooler talks),
++ [x] exceed other ways of teaching\
+(consider quickly sketched presentation, captured video tutorial, or even watercooler talks),
 + [x] be long-term (updated and evolved).
-
 
 ## Vital side effects
 
 Documenting/sketching ideas for even small features mitigates the impedance between the stretch of imagination and implementation reality. 
 
-Namely, formalization and structuring compel to reexplore and examine concepts, enhance good sides, remake the bad and reject unrealistic or meaningless stuff. 
+Namely, formalization and structuring compel us to reexplore and examine concepts, enhance good sides, remake the bad, and reject unrealistic or meaningless stuff. 
 
-## Appendix. As place for personal disclaimer
+## Appendix. As a place for personal disclaimer
 
 The writings and collections here are ...
 

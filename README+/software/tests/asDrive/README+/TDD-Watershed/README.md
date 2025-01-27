@@ -2,14 +2,14 @@
 
 <table><tr valign="center"><td align="center">🌧️🌦️⛈️🌨️🌧️🌫️
 <picture><img width="150px" alt="&nbsp;Y-fork: black on yellow" src="../../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>
-   <p>rainy midsummer 2024</p>
-</td><td><p>I was bicycling to hear a casual <b>TD<mark>D</mark></b> lecture as doubts crept in &mdash; where am I going:</p>
+   <p>In rainy July 2024 ...</p>
+</td><td><p>... I was bicycling to hear a casual <b>TD<mark>D</mark></b> lecture as doubts crept in &mdash; where am I going:</p>
    <p align="center">Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
 <p>It wasn't about the destination of this ride, but the principal divergence. 
 For the record, the title of the lecture resonated with my anxiety: "Failed with TDD? Here you know why."</p>
 <p align="center">Mystery solved: it was <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>.</p>
    <p align="center"><b>b&thinsp;u&thinsp;t ...</p>
-</td><td><picture><img alt="&nbsp;LONG READ" src="../../../../../_rsc/_img/signs/LongRead/plates/plsStayOn_noise.jpg" /></picture></td></tr></table>
+</td><td><picture><img alt="&nbsp;LONG READ" src="../../../../../_rsc/_img/signs/LongRead/plates/plsStayOn.jpg" /></picture></td></tr></table>
 
 The de-abbreviation raised another doubt: where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...<sup>🙋</sup> 
 
@@ -81,7 +81,7 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
      </td><td>
 <p>Granulate <b>interfaces</b> and create "technical" interfaces and classes.</p>
    <p>Implement interfaces and abstract classes.</p>
-   <p>Code classes and methods under strict guidelines (as public SOLID or <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/frames">custom rules</a>).</p>
+   <p>Code classes and methods under strict guidelines (as wodely accepted SOLID or <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/frames">custom rules</a>).</p>
 </td></tr>
           <!--          TEST DOUBLES    --!>
 <tr>
@@ -140,7 +140,8 @@ The course will also unveil tasks of higher or parallel level but they will be e
 
 <h2 id="TDD-ISie" align="center">Reconcile by example: TDD ⭐I&thinsp;S&thinsp;<samp>I&thinsp;E</samp>⭐</h2>
 
-Let's take an [ISIe](https://github.com/Kyriosity/use-dev/tree/main/README%2B/parts/_ext/ISie) example, which started with designing and redesigning API builders.
+Let's take an [ISIe](https://github.com/Kyriosity/use-dev/tree/main/README%2B/parts/_ext/ISie) example, 
+which started with designing and redesigning API builders.
 
        🚧🐝🚧 .. WORK IN PROGRESS .. 🚧🐝🚧
 
