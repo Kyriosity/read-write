@@ -6,10 +6,10 @@
 </td><td><p>I was bicycling to hear a casual <b>TD<mark>D</mark></b> lecture as doubts crept in &mdash; where am I going:</p>
    <p align="center">Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
 <p>It wasn't about the destination of this ride, but the principal divergence. 
-For the record, the title of the lecture resonated with my anxiety:  "Failed with TDD? Here you know why."</p>
+For the record, the title of the lecture resonated with my anxiety: "Failed with TDD? Here you know why."</p>
 <p align="center">Mystery solved: it was <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>.</p>
    <p align="center"><b>b&thinsp;u&thinsp;t ...</p>
-</td><td><picture><img width="55px" alt="&nbsp;LONG READ" src="../../../../../_rsc/_img/signs/LongRead/higher/500px_rotate90.jpg" /></picture></td></tr></table>
+</td><td><picture><img alt="&nbsp;LONG READ" src="../../../../../_rsc/_img/signs/LongRead/plates/plsStayOn_noise.jpg" /></picture></td></tr></table>
 
 The de-abbreviation raised another doubt: where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...<sup>🙋</sup> 
 
@@ -32,7 +32,7 @@ Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</sa
 
 <div align="center"><picture><img src="../../../../../_rsc/_img/illus/tests/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture></div>
 <!-- pic --!>
-<!--                                               WATERSHED CANVAS        --!>
+<!--                                              WATERSHED CANVAS        --!>
 <!-- pic --!>
 </details>
 
@@ -103,11 +103,12 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
    <div>✔️&thinsp;Top logical categorization of tests</div>
    <div>✔️&thinsp;Define contours of test data</div>
    <div>_________</div>
-  <div>Tests (demos) can remain for guidance and serve as a documentation frame.</div></td>
+  <div>Demo-tests can remain for guidance and serve as a documentation frame.</div></td>
 <td>
    <div>✔️&thinsp;Lay out test data</div>
    <div>✔️&thinsp;Exact success and fail scenarios.</div>
-   <div>✔️&thinsp;Write tests for these scenarios with proper <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/tests">techniques</a></div>
+   <div>✔️&thinsp;Write tests for these scenarios with proper <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/tests">techniques</a><br />
+   (using the calls in demos (<i>Act</i> of <span title="&nbsp;Arrange&#013;&#010;&nbsp;Act&#013;&#010;&nbsp;Assert" ><ins>AAA</ins></span>) that TD<b><mark>Δ</mark></b> already defined)</div>
       <div>✔️&thinsp;Code implementation of tests.</div>
 <div>✔️&thinsp;Categorization of implementation</div>
 <div>✔️&thinsp;Blueprint of test coverage</div>
@@ -155,9 +156,11 @@ title TDD ISie
 
 SPIN-OFFS: TESTS MULTIFEED
 
-## Wrap up. Advantages
+## Wrap up <samp>`// really awaited title here`</samp>
 
-### Separation of duties
+### Advantages
+
+#### Separation of duties
 
 It needs no introduction but to stress a couple of points:
 
@@ -165,11 +168,11 @@ It needs no introduction but to stress a couple of points:
 + Present the concept ASAP.
 + Adjust/swap layers of logic.
 
-### Effective definitions of tasks and feedback
+#### Effective definitions of tasks and feedback
 
-### Team practice
+#### Team practice
 
-### Motivation to TDD
+#### Motivation to TDD
 
 \___________
  <div align="center">🔚 &nbsp;🌒 2024-2025  ... images: kyriosity ...</div>
