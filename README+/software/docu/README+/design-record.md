@@ -1,4 +1,4 @@
-# Software &mdash; Design &mdash; Documentation
+# Software&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Design&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Documentation
 
 [Quality code](../../QA/README+/code-quality.md) with profound and thoroughly categorized [names](../../design/names) must explain design brainchilds in intuitive manner. 
 Liably written [design-defining-tests](../../design/drive/) must smoothly introduce them. And nothing is more suitable for reverse engineering (manual or automatic) than source codes. 
@@ -13,10 +13,6 @@ Explorers may also overestimate weak decisions, and search for deep meaning in s
 
 **That's why software design needs documentation, which must be a creative stratum between code readability and dev team lore.**
 
-\_________
-
-> 🙋🏼 **This topic is a part of ✒️[P<samp>ENCRAFT</samp>](../../../pencraft/README.md)**.
-
 ## Recording ⏺️ design ⏹️
 
 Even if there's extensive user guidance, even the best quality application code needs a fluent explanation: 
@@ -28,13 +24,13 @@ Even if there's extensive user guidance, even the best quality application code 
 
 The higher the level and more concise (yet complete) the documentation &mdash; the better. Nobody will maintain volumes of papers up-to-date and the rare will read them thoroughly.
 
-### Log/Blog
+### Log&thinsp;/&thinsp;Blog
 
 Accurate and meaningful commit comments can make a skeleton of the design log. Theoretically automated but practically there will be too many mixed entries with white noise.
 
 Just a daily (semi-weekly) log (or blog) on notable decisions could be a great help in documenting the pace of design. 
 
-### F.A.Q.
+### F.&thinsp;A.&thinsp;Q.
 
 Continuous ratification of design decisions (incl. rejection) in the form of Question-Answer will compose a useful and concise user/developer document. 
 
@@ -47,12 +43,14 @@ However, they cost time, restrain presentation, stick the vision to 2D (literall
 
 The compromise is to maintain top diagrams with modest detailing. Make presentations with and root documentation from them. 
 
-<details><summary><ins>&nbsp;Don't be shy with sketches. Look like NASA charted it in 1960s:&nbsp</ins></summary>
+<details><summary><ins>&nbsp;Don't be shy with sketches. Look like NASA engineers charted it in 1960s:&nbsp</ins></summary>
 &nbsp;
   
 <picture><img alt="&nbsp;freehand fast graphic sketch of space station" src="../../../_rsc/_img/snap/NASA.Sketch.SaturnV_to_station-1960s.jpg"></picture>
-  
-</details>
+
+Sketch of a space station. Image source: NASA archives.
+
+\_________</details>
 
 ## Whiteboard
 
@@ -102,13 +100,10 @@ Applying aesthetic traits to attribute images or enliven the text highly motivat
 
 "A picture is worth a thousand words", and the shortest video is made up of thousands of them. That's the absolute winner in the snap of design. 
 
-When a release is ripe, it will take half an hour per module (app) to switch the screen snap on, explore the code, and commentate impromptu.<sup>📹</sup> Then an hour or some to review and record a much better version.
+When a release is ripe, it will take half an hour per module (app) to switch the screen snap on, explore the code, and commentate impromptu.<sup>📹</sup> Then an hour or some to review and record a much better version.\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>📹</sup> <sub>Tools for screen capture are available as freeware.</sub>
 
 Yes, it's a kind of documentation (or source for) but it is rather peculiar.
-
-\_______
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>📹</sup> <sub>Tools for screen capture begin from freeware (with 5` to learn) and go up to top pro.</sub>
 
 ### Coding under guidance
 
@@ -121,4 +116,4 @@ Disadvantage: it's a one-time exercise that takes hours from most competent team
 Taking advantage of the disadvantage: everybody learns how to present the design and see its strong and weak sides.
 
 \___________\
-🔚 ... 🌘 2023-2025
+🔚 ... **Continued in ✒️[P<samp>ENCRAFT</samp>](../../../pencraft/README.md)**. ... 🌘 2023-2025
