@@ -8,6 +8,6 @@
 |--- [Code Comments](README+/code-comments.md)\
 |--- [Design record](README+/design-record.md)
 
-|- ✒️ [**Pencraft**](../../pencraft/)
+|- ✒️ [**P<samp>ENCRAFT</samp>**](../../pencraft/) (documentation and authoring)
 
 🔚
