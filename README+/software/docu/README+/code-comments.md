@@ -3,20 +3,22 @@
 <p dir="rtl">,<i>When you feel the need to write a comment<br />first try to refactor the code so that<br />.any comment becomes superfluous</i><br />
  <a href="../../../pencraft/README+/quotes/README+/contributors/README.md#Kent-Beck">Kent Beck</a>, "Refactoring", <b><i>1999</i></b></p>
 
-> **Comments can be eye-catching and essential but signal design inconsistency and poor naming.**
+> **Comments can be eye-catching and essential but signal design inconsistency and poor naming.**<sup>🙋</sup>
 
 Carefully written code is self-descriptive by nature and needs no epistolary clarification<sup>🙋</sup>, 
 and even abracadabra in _regex_ processors can be broken down into figurative methods and variables. 
 
+UNFORTUNATELY echoing and yada yada
+
 Many (if not the majority) source code files of prominent (and not) providers on GitHub (or elsewhere) are bloated with comments, 
 rehearsing the names of classes, functions, arguments, and properties with preceding copyright header<sup>©️</sup>. 
-&mdash; Sometimes on purpose to enhance the number of lines contributed.
 
 \___________\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<sub>This statement is for high-level declarative languages.</sub>\
+Sometimes on purpose to enhance the number of lines contributed.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>©️</sup>&nbsp;<sub>As if there were no license agreement or such a spell may prohibit impudent copy-paste.</sub>
 
-## Licit comments
+## Legit STUFF
 
 **Demo tests**, which serve as guides for devs and presentations for users, shall contain descriptive comments and their blocks. &mdash; To avoid extra documentation.
 
