@@ -57,7 +57,7 @@ Software development gives freedom of life-sized _trial and **error**_ unthinkab
 
 Contrariwise, months of upfront planning and prototyping are adverse to software, which paces in releases and favors [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)<sup><b>w</b></sup> ASAP.
 
-Software is the most automated production that ever existed when copying, scaling, installation, and updates are one-click (or few, or scheduled) and unattended. 
+Software is the most automated production ever existed when copying, scaling, installation, and updates are one-click (or few, or scheduled) and unattended. 
 
 <table><tr valign="top"><td>
  <p>A construction engineer, whose modeling tasks mingle with stirring concrete, who is up and there on the spot to supervise the progress and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
@@ -75,9 +75,9 @@ Software is the most automated production that ever existed when copying, scalin
       Museum of Tomorrow, Rio de Janeiro
 <div align="right"><picture><img src="../../../../_rsc/_img/signs/arrows/back-forth_skewed_200px.jpg" alt="&nbsp;C O M P A R E"/></picture></div>
 </td><td>
-<p>Building rests on easy functional designs that facilitate easy, cheap, mass construction. 
+<p>Building rests on functional design that facilitates easy, cheap, mass construction. 
  The most advanced and creative specimen may receive big funding to break the standards and create unique extraordinary pieces of aesthetics, art, and cultural heritage.</p>
-<p>Best IT design canalizes great creativity into something that will become uniform mainstream: standards, patterns, and templates.</p>
+<p>Extravagant (and still working) IT ideas don't require solid fundament however mature design there canalizes creativity into uniform mainstream: standards, patterns, and templates.</p>
 <br /><picture><img alt="&nbsp;.jpg" src="../../../../_rsc/_img/snap/screen/SAP_R3_ScreenArea(StyleGuide).jpg" title="&nbsp;Screen areas of SAP R/3&#013;&#010;(Source: Style guide)" /></picture><br />
        SAP R/3 is an <b>extreme</b> example of rigid UI lacking creative traits.</a>
 </td></tr></table>
