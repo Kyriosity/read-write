@@ -1,13 +1,13 @@
-# Software &mdash; Naming and categorization
+# Software&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Naming and Categorization
 
 <p dir="rtl"><i>"...In the beginning was the Word"</div></i></p><br/>
 
 <table><tr valign="top"><td><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
-  <p><b>Denomination of <ins>both</ins> categories and titles is a pivotal but underrated and neglected activity in any exploration.</b></p>
+  <p><b>Denomination of categories <ins>and</ins>ins> titles is a pivotal but underrated and neglected activity in any exploration.</b></p>
   <div>In software, names with categories, which smoothly guide through the design and make coding intuitive, are taken for granted,</div>
   <p align="center">o&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</p>
- <p>one wading through the thorns of poorly named and labyrinths of badly categorized code, abatis of docu will curse application complexity, learning curve, technologies used, and fate but at least the naming.
+ <p>one wading through the thorns of poorly named and labyrinths of badly categorized code, abatis of docu will curse application complexity, learning curve, technologies selected, and fate but at least the naming.
 </p>
 </td></tr></table>
 
@@ -16,10 +16,10 @@
 Categorization (classification) is much more profound than breaking collocations and sentences and building the folder hierarchy. &mdash; 
 It makes the structural frame of sound abstractions.
 
-People manage to catalogize boulders in the Oort cloud and categorize paltry insects, and it's not a question in the unique by-nature software entities. 
+People manage to categorize boulders in the Oort cloud and catalogize paltry insects, and it must not be a slight challenge for unique by-nature software entities. 
 Nevertheless, you will meet shallow folders and huge lists in many GitHub projects. 
 
-The golden section is the palm - when four fingers (or less) will cover the folder content on the screen.
+> **Rule of palm &mdash; four fingers (or less) will hide the folder content on the screen.**
 
 ### Tags
 
@@ -56,11 +56,13 @@ The inevitable and heavy expenses will pay off with the formation of ***lingua f
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team means not only developers and managers but customers, testers with end users.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📒</sup><sub> reqs/specs, DoU, meetings protocols, and primers - hard to follow but easy to misunderstand or forget</sub>
 
-And it as an ingredient of successful [domain-driven design](../drive/README.md#Domain-drive).
+And it is an ingredient of successful [domain-driven design](../drive/README.md#Domain-drive).
 
 ## What's next
 
 [Practice](README+/naming_practice.md)
+
+/// _to be continued..._
 
 ## Wrapping up
 
@@ -74,30 +76,37 @@ And it as an ingredient of successful [domain-driven design](../drive/README.md#
 🥇 Core S[E]QL commands.\
 🏆 _Bread crumbling_ for navigation - both the idea and name selection win
 
-Audience choice Price goes to Mrs. [Grace Hopper](../../../../pencraft/README+/quotes/README+/contributors/README.md#Grace-Hopper) who suggested tongue (English) semantics for programming (something so natural now that one can't estimate).
+\___________\
+Audience choice Price goes to Mrs. [Grace Hopper](../../../../pencraft/README+/quotes/README+/contributors/README.md#Grace-Hopper) 
+who suggested tongue (English) semantics for programming (so natural now that one can't estimate).
 
- ... TO BE CONTINED .. 
+ ...  _TO BE CONTINUED_ ...
+
+## World of ambiguity
+
+### <samp>Interface</samp>
+
+Its generality shall not raise objections but in code, it means `contract`.
+
+### <samp>Exception</samp>
+
+Many languages (including C#) use this term for errors to throw so its meaning can sound even opposite - allowance.
+
 
 ## Curtain of grace (opened)
 
-🤦 And 1st place goes to ... `dirty` in miscellaneous languages and APIs as the trait of a modified object.
-
-🍏 The prize for generalization goes to ... `interface` keyword.
-compare to contract
+👑 And the winner is ... `dirty` in miscellaneous languages and APIs as the trait of a modified object.
 
 🍅 🍓 
-
-🔚 ..  🌙 2024-2025 .. to be continued...
 
 🍓 
 🪱 longness
 
-'Emoji' defines pictograms overall being only their subset. 
-"Icons" is blasphemous.
+'Emoji' defines pictograms overall while being only their subset. 
+"Icons" is .. eh .. a bit blasphemous.
 
 🗼"Tower of Babel" award for naming in different alphabets. (Unless it's a highly localized domain or business.)
 
-
 \___________
 
-🔚 ... 📂[README+](README+)
+🔚 ..  🌙 ... 2024-2025 ... to be continued ...  📂[README+](README+)
