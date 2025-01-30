@@ -1,17 +1,16 @@
 <table><tr></tr><tr>
- <td widh="39%">☝️</td><td>This essay doesn't split architecture and design (as everything over particular and imaginary applications/systems/constructions) while
+ <td widh="39%">☝️</td><td>This essay doesn't split <i>architecture</i> and <i>design</i> (as everything over particular and imaginary applications/systems/constructions) while
 <picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
 title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
  (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin adjacent activities</a>.
  </td></tr></table>
 
-# <samp>Stone-Code diptych.</samp> Architecture and Architects
+# Architecture and Architects
 
-<table><tr valign="top">
- <td widh="35%">
-  <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" title="&nbsp;Image credit: kyriosity, 2024"/></picture><br />
-  <i>Walhalla</i> on the river Danube, Bavaria (built 1820-1842) is an exemplary neoclassicism.
- </td><td width="65%">
+<table><tr valign="top"><td >
+ 
+ ### Stone-Code diptych
+ </td><td>
 <p>The essence of architecture appeared as folks managed to erect somewhat more extravagant and durable than a hut of piled branches (beginning from megaliths).</p>
 <p>Some ancient Hellenes were so good at construction sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &mdash; the term romanized to <i>architecture</i> centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &rarr; 
@@ -26,14 +25,21 @@ ___________<br />
 
 ### much in common...
 
+<table><tr valign="top"><td width="30%">
+ <picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title="&nbsp;AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture>
+ <br /><ins>&nbsp;Buiding diagram&nbsp;</ins>
+</td><td>
+
 The architecture of both demands creativity and grants **leeway** and vast **playland** for phantasy and missteps, but operating wholes must be defined quickly rather than ripen aesthetic values. 
 Endeavors in both often begin from sketching on white paper or chalkboards.
 
-Both take advantage of the flexible plethora of tools, techniques, and skills. Both must accumulate mainstream and alternate practices and reveal patterns.
+Both take pragmatic advantage of the flexible plethora of tools, techniques, and skills. Both must accumulate mainstream and alternate practices and reveal patterns.
 
 Imperfect abstraction and planning can make both a mess which products loudly crash. Abuse of both for hollow promises and sandcastles is more frequent than in other industries.
 
 Both can't rely solely on generations of experience and picked masterminds but on a team of professionals and pundits (with a hierarchy or not).
+
+</td></tr></table>
 
 ### ...but diffs are bigger
 
@@ -43,13 +49,31 @@ Both can't rely solely on generations of experience and picked masterminds but o
 [unleashed under the wandering circus tent&thinsp;].<br />
 Or <i>Tower of Babel</i> populated with <a href="../../quotes/README+/aside/controversy.md#woodpecker">woodpeckers</a><sup>💬</sup>.</p>
 
-<table><tr valign="top">
-<td width="30%"><picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title="&nbsp;AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture>
- <br /><ins>&nbsp;Buiding diagram&nbsp;</ins>
+<table><tr valign="top"><td width="35%">
+ <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" title="&nbsp;Image credit: kyriosity, 2024"/></picture><br />
+  <i>Walhalla</i> on the river Danube, Bavaria (built 1820-1842) is an exemplary neoclassicism.
 </td><td>
  <p>Buildings are immobile, conservative, and traditional &mdash; software is fluid, experimental, and free of nostalgia (as neoclassicism on the Danube).</p>
  <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).</p>
   <p>Software doesn't rust or erode but gets obsolete in a few years. Decades (bare minimum for wood cabins) set records in residual mainframe software, which won't recur (till interstellar flights).</p>
+
+```mermaid
+---
+title: Example Git diagram
+---
+gitGraph
+   commit
+   commit
+   branch develop
+   checkout develop
+   commit
+   commit
+   checkout main
+   merge develop
+   commit
+   commit
+```
+ 
  </td>
 </tr></table>
 
