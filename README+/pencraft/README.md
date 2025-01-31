@@ -34,11 +34,11 @@ Documenting/sketching ideas for even small features mitigates the impedance betw
 
 Namely, formalization and structuring compel us to reexplore and examine concepts, enhance good sides, remake the bad, and reject unrealistic or meaningless stuff. 
 
-## Appendix. As a place for personal disclaimer
+## Appendix. Personal disclaimer
 
 The writings and collections here are ...
 
-* The subject of personal taste, inclination, vision, and fallacies. (It's up to you whether to like them or recoil in distaste.)
+* The subject of personal taste, inclination, vision, and fallacies. (It's up to you whether to look them through or recoil in distaste.)
 * The subject of continuous delivery (i.e. endless edit and modification).
 * Some opuses may be in the badly readable state of 🚧draft🐝 (skip them while I do my best to finish).
 

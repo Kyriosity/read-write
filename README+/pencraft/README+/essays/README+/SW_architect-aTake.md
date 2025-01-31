@@ -7,11 +7,8 @@ title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nb
 
 # Architecture and Architects
 
-<table><tr valign="top"><td >
- 
- ### Stone-Code diptych
- </td><td>
-<p>The essence of architecture appeared as folks managed to erect somewhat more extravagant and durable than a hut of piled branches (beginning from megaliths).</p>
+<table><tr valign="top"><td><picture><img width="550px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.jpg" /></picture></td><td>
+<p>The essence of architecture appeared as folks managed to erect somewhat more extravagant and durable than a hut of piled branches (sprinning from megaliths).</p>
 <p>Some ancient Hellenes were so good at construction sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &mdash; the term romanized to <i>architecture</i> centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &rarr; 
 refined craftsmen exempt from chores and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
@@ -27,20 +24,26 @@ ___________<br />
 
 <table><tr valign="top"><td width="30%">
  <picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title="&nbsp;AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture>
- <br /><ins>&nbsp;Buiding diagram&nbsp;</ins>
+ <br /><ins>&nbsp;Buiding CADS are ...&nbsp;</ins>
 </td><td>
 
-The architecture of both demands creativity and grants **leeway** and vast **playland** for phantasy and missteps, but operating wholes must be defined quickly rather than ripen aesthetic values. 
-Endeavors in both often begin from sketching on white paper or chalkboards.
+🏑 The architecture of both demands creativity and grants **leeway** and vast **playland** for phantasy and missteps, but to quickly define operating wholes rather than ripen aesthetic values. 
 
-Both take pragmatic advantage of the flexible plethora of tools, techniques, and skills. Both must accumulate mainstream and alternate practices and reveal patterns.
+ ✏️ Endeavors in both often begin from sketching on white paper or chalkboards.
 
-Imperfect abstraction and planning can make both a mess which products loudly crash. Abuse of both for hollow promises and sandcastles is more frequent than in other industries.
+🎨 Both enjoy flexibility and plethora of tools, techniques, and skills.
 
-Both can't rely solely on generations of experience and picked masterminds but on a team of professionals and pundits (with a hierarchy or not).
+🔋 Both must accumulate mainstream and alternate practices and reveal patterns.
 
-</td></tr></table>
+💥 Imperfect abstraction and planning can make both a mess which products loudly crash. Abuse of both for hollow promises and sandcastles is more frequent than in other industries.
 
+👯‍♂️ Both can't rely solely on generations of experience and picked masterminds but on a team of professionals and pundits (with a hierarchy or not).
+
+</td><td valign="bottom">
+ <div>... indistictable from IDEs</div>
+ <picture><img src="../../../../_rsc/_img/snap/screen/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" 
+            title="&nbsp;Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture></td></tr></table>
+  
 ### ...but diffs are bigger
 
 <p align="right"><b><code>IF</code></b>&nbsp;«Architecture is a frozen music.»<br />
