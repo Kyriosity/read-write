@@ -134,7 +134,8 @@ Contrary to the building experience programming <ins>disperses the classical fig
 * _consultant_, propagating portfolio of verified solutions to new applications,
 * _tutor_, or _technology evangelist_, proposing blueprints for the solution,
 * "*librarian-navigator*", somebody with the utmost knowledge of the design and code,
-* _authority_, who reconcile technological encounters (e.g. OOP vs. functional, Java vs. Javascript, C# vs. Typescript),
+* _authority_, in touch with expertise proxies, who reconcile technological encounters\
+(e.g. OOP vs. functional, Java vs. Javascript, C# vs. Typescript),
 * geeks from _computer science_.
  
 </details>
