@@ -22,25 +22,26 @@ ___________<br />
 
 ### much in common...
 
-<table><tr valign="top"><td width="30%">
+<table><tr valign="top"><td width="25%">
  <picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title="&nbsp;AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture>
- <br /><ins>&nbsp;Buiding CADS are ...&nbsp;</ins>
+ <br /><ins>&nbsp;Buiding CADS are</ins> ...&nbsp;
 </td><td>
 
-🏑 The architecture of both demands creativity and grants **leeway** and vast **playland** for phantasy and missteps, but to quickly define operating wholes rather than ripen aesthetic values. 
+🏝️ The architecture of both demands creativity and grants **leeway** and vast **playland** for phantasy and missteps, 
+but to quickly define operating wholes rather than ripen aesthetic values. 
 
- ✏️ Endeavors in both often begin from sketching on white paper or chalkboards.
+✏️ Endeavors in both often begin from sketching on white paper or chalkboards.
 
-🎨 Both enjoy flexibility and plethora of tools, techniques, and skills.
+🎨 Both enjoy the flexibility of many tools, methodologies, and skills.
 
 🔋 Both must accumulate mainstream and alternate practices and reveal patterns.
 
 💥 Imperfect abstraction and planning can make both a mess which products loudly crash. Abuse of both for hollow promises and sandcastles is more frequent than in other industries.
 
-👯‍♂️ Both can't rely solely on generations of experience and picked masterminds but on a team of professionals and pundits (with a hierarchy or not).
+👯 Both can't rely solely on generations of experience and picked masterminds but on a team of professionals and pundits (with a hierarchy or not).
 
 </td><td valign="bottom">
- <div>... indistictable from IDEs</div>
+ <div>... <ins>much similar to IDEs</ins>.</div>
  <picture><img src="../../../../_rsc/_img/snap/screen/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" 
             title="&nbsp;Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture></td></tr></table>
   
@@ -56,7 +57,7 @@ Or <i>Tower of Babel</i> populated with <a href="../../quotes/README+/aside/cont
  <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" title="&nbsp;Image credit: kyriosity, 2024"/></picture><br />
   <i>Walhalla</i> on the river Danube, Bavaria (built 1820-1842) is an exemplary neoclassicism.
 </td><td>
- <p>Buildings are immobile, conservative, and traditional &mdash; software is fluid, experimental, and free of nostalgia (as neoclassicism on the Danube).</p>
+ <p>Buildings are immobile, conservative, and traditional &mdash; software is fluid, experimental, and free of nostalgia (as neoclassicism).</p>
  <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).</p>
   <p>Software doesn't rust or erode but gets obsolete in a few years. Decades (bare minimum for wood cabins) set records in residual mainframe software, which won't recur (till interstellar flights).</p>
 
