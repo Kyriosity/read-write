@@ -1,4 +1,4 @@
-# Lotus Notes - "This used to be my playground"
+# Lotus Notes&nbsp;&nbsp;&mdash;&nbsp;&nbsp;"This used to be my playground"
 
 <table><tr><td width="35%">
 <p>The multiplatform groupware <code>Lotus Notes</code><sup><mark>LN</mark></sup>, released at the turn of 1991, joined the best of computer sciences from the 1980s with <i>laissez-faire</i> IT in the 1990s and rapidly became the system of core value for companies and teams.</p>
@@ -10,7 +10,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<sup><mark>#</mark></sup> <sub>Before I cast my lot with <a href="../../../../.net">C#.NET</a>.</sub>
 </td></tr></table>
 
-IBM PC users remember (or not) that it was a time and a <b>word</b> &mdash; not Microsoft's one or WordPerfect, but «<b>LOTUS</b>», a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.\
+IBM PC users remember (or not) that it was a time and a <b>word</b> &mdash; not Microsoft's one or WordPerfect, but\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;«<b>LOTUS</b>»,\
+a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
+
 Developers and sysadmins will remember genuine Rapid Application Development with fluent installation/evaluation<sup>🙋</sup>.
 
 LN paved the public road to diverse innovations: client-server, multirole/group authorization, doc-oriented DB<sup>📜</sup>, __**replication**__<sup>⭐</sup>, pictograms in view columns &mdash; 
@@ -25,7 +28,7 @@ However mediocre and inaccurately focused efforts caused Lotus to wilt.<sup>🍦
 * In 2001 Microsoft released its "bird of a feather" - **SharePoint** - much more sophisticated and bulkier but promoting the next generation (as a product and API).\
 SharePoint was deprived of many inherent vices of the Lotus pioneer and began to gradually supersede _LN_ in the one-way migration. 
 
-* The bargain sale of Domino/Notes and donating the office's source code to freeware paved the way for _LN_ to legacy on IT margins.
+* The bargain sale of Domino/Notes and donating the office's source code to freeware pushed out _LN_ to IT margins.
 
 \___________\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>📜</sup> <sub>Long before NoSQL became mainstream.</sub>\
@@ -46,9 +49,11 @@ Akin to Angular or React, eliminating desktop premises and porting _@formula_ la
 + **Seamless UI integration of office features**\
 Either from Microsoft or those updated from Lotus<sup>🥀</sup>, in popular open formats
 + **Java as main language**<sup>☕</sup>\
-As a substitute for rudimentary LotusSciprt; supporting the development of UX libs, shared utils, and dev env extensions.
+Actual version as a substitute for rudimentary LotusScript
 + **Better learning resources**\
-  The difference between IBM's "search for" and Microsoft's "select from" was too obvious. 
+  The difference between IBM's "search for" and Microsoft's "select from" was too obvious.
++ **Libraries of UX elements and utils, dev environment extensions**\
+ Lotus Notes could be on the wave of Open Source
 
 **Last but not least**, top pro and liable  _Notes_ team/community to fulfill this wishlist and prevent quality degradation<sup>🙋</sup>.
 
@@ -63,10 +68,11 @@ As a substitute for rudimentary LotusSciprt; supporting the development of UX li
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>"Migrating" myself from LN to .NET, I experienced, for certain: beta versions of Visual Studio 2010 crashed less often than the release of Notes Designer.</sub>\
 \___________
 
-> Let me finish with the quote from another hit - _Now I know what made Lotus blue_. In earnest, I was pretty sure that _Lotus_ until [proof](https://en.wikipedia.org/wiki/Now_I_Know_What_Made_Otis_Blue). This tells enough about my involvement.
+> Let me finish with the quote from another hit &mdash; _**Now I know what made Lotus blue**_.\
+> Yes, I know &mdash; **_Otis_** but, in earnest, I was pretty sure that _Lotus_ until [proof](https://en.wikipedia.org/wiki/Now_I_Know_What_Made_Otis_Blue)<sup>&thinsp;<b>W</b></sup>.
+This must tell enough about my involvement.
 
-\______
-
+\______\
  🔚 &nbsp;🌘 kyriosity 2024-2025
 
 
