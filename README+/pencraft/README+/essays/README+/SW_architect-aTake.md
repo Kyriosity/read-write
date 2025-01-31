@@ -57,46 +57,49 @@ Or <i>Tower of Babel</i> populated with <a href="../../quotes/README+/aside/cont
  <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" title="&nbsp;Image credit: kyriosity, 2024"/></picture><br />
   <i>Walhalla</i> on the river Danube, Bavaria (built 1820-1842) is an exemplary neoclassicism.
 </td><td>
- <p>Buildings are immobile, conservative, and traditional &mdash; software is fluid, experimental, and free of nostalgia (as neoclassicism).</p>
- <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).</p>
-  <p>Software doesn't rust or erode but gets obsolete in a few years. Decades (bare minimum for wood cabins) set records in residual mainframe software, which won't recur (till interstellar flights).</p>
+ Buildings are immobile, conservative, and traditional &mdash; software is fluid, experimental, and free of nostalgia (as neoclassicism).</p>
+ <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).
+ 
+ Software doesn't rust or erode but gets obsolete in a few years. Decades (bare minimum for wood cabins) set records in residual mainframe software, which won't recur (till interstellar flights).
 
+Software development gives freedom of life-sized _trial and **error**_ unthinkable in other productions. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (libraries/services). 
+
+Contrariwise, months of upfront planning and prototyping are adverse to software, which paces in releases and favors [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)<sup><b>w</b></sup> ASAP.
+ 
+</td></tr></table>
+
+Software is the most automated production ever existed when copying, scaling, installation, and updates are one-click (or few, or scheduled) and unattended. 
+
+<table><tr valign="top"><td width="*">
+ <p>A construction engineer, whose modeling tasks mingle with stirring concrete, who is up and there on the spot to supervise the progress and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
+... must be a fantastic creature &mdash; but a usual Jack-of-all-trades in software teams where construction places are open 🕙24x7 💻laptop.</p>
+  <p>Building education and  activities are very narrow and regulated (also legally). <b>IT</b> indulges formalities of schooling.</p>
+</td><td width="40%">
+  
 ```mermaid
 ---
-title: Example Git diagram
+title: 
 ---
 gitGraph
    commit
-   commit
+   commit tag: "v1.0.0"
    branch develop
    checkout develop
    commit
    commit
    checkout main
    merge develop
+   branch bug-fix
+   commit
+checkout main
+checkout bug-fix
    commit
    commit
+ branch release
 ```
- 
- </td>
-</tr></table>
-
-Software development gives freedom of life-sized _trial and **error**_ unthinkable in other productions. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (utilities). 
-
-Contrariwise, months of upfront planning and prototyping are adverse to software, which paces in releases and favors [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)<sup><b>w</b></sup> ASAP.
-
-Software is the most automated production ever existed when copying, scaling, installation, and updates are one-click (or few, or scheduled) and unattended. 
-
-<table><tr valign="top"><td>
- <p>A construction engineer, whose modeling tasks mingle with stirring concrete, who is up and there on the spot to supervise the progress and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
-... must be a fantastic creature &mdash; but a usual Jack-of-all-trades in software teams where construction places are open 🕙24x7 💻laptop.</p>
-  <p>Building education and  activities are very narrow and regulated (also legally). <b>IT</b> indulges formalities of schooling.</p>
- <p><b>Ultima ratio</b>: slang differs.</p>
-</td><td width="30%">
-  <picture><img src="../../../../_rsc/_img/snap/screen/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" 
-            title="&nbsp;Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture>
-  <br /><div align="right"><ins>&nbsp;Software diagram&nbsp;</ins></div>
  </td></tr></table>
+
+**Ultima ratio**: slang differs.
 
 <details><summary>_________&thinsp;<b><samp>bottom line</samp></b>&thinsp;_________</summary>
 <table><tr valign="top"><td width="50%"><picture><img alt="&nbsp;Museu_do_amanha(tripadvisor.com).jpg" src="../../../../_rsc/_img/photo/build/Museu_do_amanha(tripadvisor.com).jpg" title="&nbsp;Designed by Santiago Calatrava" /></picture><br />
@@ -131,6 +134,7 @@ Contrary to the building experience programming <ins>disperses the classical fig
 * _consultant_, propagating portfolio of verified solutions to new applications,
 * _tutor_, or _technology evangelist_, proposing blueprints for the solution,
 * "*librarian-navigator*", somebody with the utmost knowledge of the design and code,
+* _authority_, who reconcile technological encounters (e.g. OOP vs. functional, Java vs. Javascript, C# vs. Typescript),
 * geeks from _computer science_.
  
 </details>
