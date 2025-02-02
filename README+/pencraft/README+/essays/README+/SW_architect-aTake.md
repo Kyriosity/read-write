@@ -103,14 +103,14 @@ checkout bug-fix
 
 <details><summary>_________&thinsp;<b><samp>bottom line</samp></b>&thinsp;_________</summary>
 <table><tr valign="top"><td width="50%"><picture><img alt="&nbsp;Museu_do_amanha(tripadvisor.com).jpg" src="../../../../_rsc/_img/photo/build/Museu_do_amanha(tripadvisor.com).jpg" title="&nbsp;Designed by Santiago Calatrava" /></picture><br />
-      Museum of Tomorrow, Rio de Janeiro
+      <i>Museum of Tomorrow, Rio de Janeiro</i>
 <div align="right"><picture><img src="../../../../_rsc/_img/signs/arrows/back-forth_skewed_200px.jpg" alt="&nbsp;C O M P A R E"/></picture></div>
 </td><td>
 <p>Building rests on functional design that facilitates easy, cheap, mass construction. 
- The most advanced and creative specimen may receive big funding to break the standards and create unique extraordinary pieces of aesthetics, art, and cultural heritage.</p>
-<p>Extravagant (and still working) IT ideas don't require solid fundament however mature design there canalizes creativity into uniform mainstream: standards, patterns, and templates.</p>
-<br /><picture><img alt="&nbsp;.jpg" src="../../../../_rsc/_img/snap/screen/SAP_R3_ScreenArea(StyleGuide).jpg" title="&nbsp;Screen areas of SAP R/3&#013;&#010;(Source: Style guide)" /></picture><br />
-       SAP R/3 is an <b>extreme</b> example of rigid UI lacking creative traits.</a>
+ The most advanced and creative specimen may be endowed to break the standards and create unique extraordinary pieces of aesthetics, art, and cultural heritage.</p>
+<p>Extravagant (and still working) IT ideas don't require solid fundament however mature software design canalizes creativity into uniform mainstream: standards, patterns, and templates.</p>
+<br /><picture><img alt="&nbsp;Lotus 1-2-3 on OS/2" src="../../../../_rsc/_img/snap/screen/Lotus123-OSdiv2.jpg" title="&nbsp;Editor of Lotus 1-2-3&#013;&#010;(snapshot from ecsoft2.org)" /></picture><br />
+       <i>Lotus 1-2-3 from the previous century still defines the UX and functionality of spreadsheets.</i></a>
 </td></tr></table>
 </details>
 
@@ -141,7 +141,8 @@ Contrary to the building experience programming <ins>disperses the classical fig
 
 <details><summary><ins>&nbsp;.. or for personal aptitudes:&nbsp;</ins> <samp></samp>(easy to declare but hard to correspond to)</samp></summary>
  
-+ frustration tolerance, <code><samp>// intentionally first and distinct</samp></code>,
++ euphoria and frustration tolerance, <code><samp>// intentionally prime and distinct</samp></code>,
++ ability to stay over (but not ignore) known decisions and practices,
 + ability to admit poor decisions (let alone dead-ends) on time and energy to find better and redo the work,
 + selecting the right proxies for communication on technologies,
 + definition of subtasks and delegating them without <s>micro</s><i>deci</i>-management,
@@ -168,6 +169,6 @@ And let's salt all this with a bitter reminder that major software isn't _Panthe
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom IN/OUT</mark>" from <picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture> [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) (thrivingtechnologist.com)</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of C#.NET in Microsoft are titled _architects_ or _leads_ but all of them show fluent coding skills at presentations.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Images credit: AutoCAD, Microsoft, SAP, Tripadvisor, and kyriosity</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Images credit: AutoCAD, Microsoft, Lotus Corp., Tripadvisor, and kyriosity</sub>
 
 <div align="center"><b>.......</b> &nbsp;🔚 &nbsp;🌘 kyriosity 2023-2025&nbsp;&nbsp;&nbsp;<b>.......</b></div>
