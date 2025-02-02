@@ -94,7 +94,7 @@ This is justified because of the changed requirements as discussed a bit in [quo
 <table><tr valign="top"><td width="50%"><picture><img src="../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture><br />
 <picture><img alt="&nbsp;Early memory chips" src="../../../_rsc/_img/af/Intel-C1103_ink.jpg" /></pictire></td><td>
   <p>I heard it from a <code>C++</code>-gifted colleague when we exchanged <samp>DOOM</samp> experience (already lores too). He noticed that true multi-warrior computer games are a thing of the past - times of very primitive monochrome text monitors (if not arrays of light bulbs).</p>
-  <p>I remastered and enhanced the that.</p>
+  <p>I remastered and enhanced that.</p>
   <p>The lore goes that computer scientists (every programmer was one), senior in age and title, used relatively idle nighttime<sup>🌛</sup> 
     to gather in their computer centers and combat resources with all possible (for warming up) and impossible, and unthinkable hacks in <i>machine languages</i> (no dirty cheats, no vulgar social engineering).</p>
   <p>The winner occupied the whole memory of the opponent's machine (or the timeslot?).</p>
@@ -149,38 +149,7 @@ A stack of punch cards for a casual program. I'm proud to have a [little experie
 
 ## Cooked up metaphors
 
-<details><summary><ins>&nbsp;<b>Deployment tenses</b>&nbsp;</ins></summary>
-
-🚧🐝🚧 ... WORK in PROGRESS ... 🚧🐝🚧
-
-<table>
-  <tr>
-    <td>PAST was PERFECT</td>
-  </tr>
-  <tr>
-     <td><picture><img src="../../../_rsc/_img/af/convent.jpg" alt="&nbsp;&nbsp;&nbsp;Monks, Medieval convent" 
-        alt="&nbsp;&nbsp;&nbsp;Image of convent" title="It worked on my ..." width="200" /></picture></td>
-    <td><picture><img src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" alt="&nbsp;&nbsp;punchcard stack" title="Pucnhcards ..." width="200" /></picture></td>
-    <td><picture><img alt="&nbsp;&nbsp;&nbsp;Personal Computer" width="200" /></picture></td>
-    <td><picture><img alt="&nbsp;&nbsp;&nbsp;Image of cloud" width="200" /></picture></td>
-    <td><picture><img src="../../../_rsc/_img/symbols/phys/MIT-qubit_500px.jpg"
-        alt="&nbsp;&nbsp;&nbsp;Imagine a qubit" width="200" title=" Image credit: MIT, Awschalom Group, D. Laorenza"  /></picture></td>
-  </tr>
-  <tr>
-    <td>It worked in my convent</td>
-    <td>It worked on my floor</td>
-    <td><b>It worked on my PC</b></td>
-    <td>It's working in my cloud</td>
-    <td>It will work on my qubits</td>
-  </tr>
-
-VOAYGER
-
- 1 / 0 COMMAND !
-
-</table>
-
-\___________</details>
+<table><tr><td><h3><a href="README+/polyptych_works.md">POLYPTHYCH</a></h3></td></tr></table>
 
 ## Recommended reading 
 
