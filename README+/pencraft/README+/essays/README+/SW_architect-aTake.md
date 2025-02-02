@@ -126,7 +126,7 @@ Contrary to the building experience programming <ins>disperses the classical fig
 > The bigger the project, the bigger the vertical&varr; and horizontal&harr; offsets of team members according to skills, talents, experience, and preferences with or without roles exchange.
 > <div align="center">( &varr; between coding and design; &harr; within the technologies stack)</div>
 
-<details><summary><ins>&nbsp;"Architect" is often an alias or catch-all term for good known roles and duties:&nbsp;</ins> ➡️</summary>
+<details><summary><ins>&nbsp;<b>"Architect" is often an alias or catch-all term for good known roles and duties:</b>&nbsp;</ins> ➡️</summary>
 
 * _domain expert_ or _business analyst_, who boils down requirements to systematic description,
 * _team lead_ or _project manager_,
@@ -139,15 +139,18 @@ Contrary to the building experience programming <ins>disperses the classical fig
 
 ⬅️ Let alone DevOps, as a separate area in software.
 
-<details><summary><ins>&nbsp;.. or for personal aptitudes:&nbsp;</ins> <samp></samp>(easy to declare but hard to correspond to)</samp></summary>
+<details><summary><ins>&nbsp;.. <b>or for personal aptitudes:</b>&nbsp;</ins>  ➡️</summary>
  
-+ euphoria and frustration tolerance, <code><samp>// intentionally prime and distinct</samp></code>,
++ memorizing big pictures in detail (not general diagrams),
 + ability to stay over (but not ignore) known decisions and practices,
 + ability to admit poor decisions (let alone dead-ends) on time and energy to find better and redo the work,
 + selecting the right proxies for communication on technologies,
 + definition of subtasks and delegating them without <s>micro</s><i>deci</i>-management,
-+ authority to reconcile design and technological encounters/counter-opinions.
++ authority to reconcile design and technological encounters/counter-opinions,
++ <ins>euphoria and frustration tolerance</ins>.
 </details>
+
+⬅️ ... easy to declare but hard to correspond to alone.
 
 This makes up the software architecture &mdash; a synergy of collective and best vision, design, and development from multiple points. Gaps in connecting design to code will create the insulation layer of misconstruing and block potentials.
 
