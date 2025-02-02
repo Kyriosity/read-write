@@ -82,13 +82,21 @@ who suggested tongue (English) semantics for programming (so natural now that on
 
  ...  _TO BE CONTINUED_ ...
 
+## Legacy
+
+🚧 ... to list ... 🚧
+
 ## World of ambiguity
 
-### <samp>Interface</samp>
+### "Generals"
 
-Its generality shall not raise objections but in code, it means `contract`.
+Interface which means `contract`.
 
-### <samp>Exception</samp>
+### Bug or Fix?
+
+What's project management software names _bug_ is its _fix_.
+
+### <samp>Exception</samp> or Error ?
 
 Many languages (including C#) use this term for errors to throw so its meaning can sound even opposite - allowance.
 
