@@ -60,7 +60,7 @@ Or <i>Tower of Babel</i> populated with <a href="../../quotes/README+/aside/cont
  Buildings are immobile, conservative, and traditional &mdash; software is fluid, experimental, and free of nostalgia (as neoclassicism).</p>
  <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).
  
- Software doesn't rust or erode but gets obsolete in a few years. Decades (bare minimum for wood cabins) set records in residual mainframe software, which won't recur (till interstellar flights).
+ The software doesn't rust or erode but gets obsolete in a few years. Decades (bare minimum for wood cabins) set records in residual mainframe software, which won't recur (till interstellar flights).
 
 Software development gives freedom of life-sized _trial and **error**_ unthinkable in other productions. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (libraries/services). 
 
@@ -68,7 +68,7 @@ Contrariwise, months of upfront planning and prototyping are adverse to software
  
 </td></tr></table>
 
-Software is the most automated production ever existed when copying, scaling, installation, and updates are one-click (or few, or scheduled) and unattended. 
+Software is the most automated production that ever existed when copying, scaling, installation, and updates are one-click (or few, or scheduled) and unattended. 
 
 <table><tr valign="top"><td width="*">
  <p>A construction engineer, whose modeling tasks mingle with stirring concrete, who is up and there on the spot to supervise the progress and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
@@ -144,7 +144,7 @@ Contrary to the building experience programming <ins>disperses the classical fig
 + frustration tolerance, <code><samp>// intentionally first and distinct</samp></code>,
 + ability to admit poor decisions (let alone dead-ends) on time and energy to find better and redo the work,
 + selecting the right proxies for communication on technologies,
-+ definition of subtasks and delegating them without <s>micro</s>deci-management,
++ definition of subtasks and delegating them without <s>micro</s><i>deci</i>-management,
 + authority to reconcile design and technological encounters/counter-opinions.
 </details>
 
