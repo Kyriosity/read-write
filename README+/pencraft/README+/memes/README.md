@@ -138,18 +138,19 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 </details>
 
-<details><summary>🗃️ <b><ins>&nbsp;<mark>1966</mark>: Tell her how much space your source files take&nbsp;</ins></b></summary>
+<details><summary>🗃️ <b><ins>&nbsp;<mark>1966</mark>: Pile or stack?&nbsp;</ins></b></summary>
 &nbsp;
 
-<picture><img alt="&nbsp;Pile of punchards in 1966" src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" /></picture><br/>
+<picture><img alt="&nbsp;Pile/stack of punchcards in 1966" src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" /></picture><br/>
+_(Tell grandma how much space your source files take ...)_
 
-A stack of punch cards for a casual program. I'm proud to have a [little experience](../essays/README+/punchcard.md) of dealing with them
+A store of punched cards for a casual program. I'm proud to have a [little experience](../essays/README+/punchcard.md) of dealing with them.
 
 </details>
 
 ## Cooked up metaphors
 
-<table><tr><td><h3><a href="README+/polyptych_works.md">POLYPTHYCH</a></h3></td></tr></table>
+<table><tr><td><h3><a href="README+/polyptych_works.md">POLYPTYCH</a></h3></td></tr></table>
 
 ## Recommended reading 
 
