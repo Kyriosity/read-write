@@ -134,13 +134,19 @@ Contrary to the building experience programming <ins>disperses the classical fig
 * _consultant_, propagating portfolio of verified solutions to new applications,
 * _tutor_, or _technology evangelist_, proposing blueprints for the solution,
 * "*librarian-navigator*", somebody with the utmost knowledge of the design and code,
-* _authority_, in touch with expertise proxies, who reconcile technological encounters\
-(e.g. OOP vs. functional, Java vs. Javascript, C# vs. Typescript),
 * geeks from _computer science_.
- 
 </details>
 
 ⬅️ Let alone DevOps, as a separate area in software.
+
+<details><summary><ins>&nbsp;.. or for personal aptitudes:&nbsp;</ins> <samp></samp>(easy to declare but hard to correspond to)</samp></summary>
+ 
++ frustration tolerance, <code><samp>// intentionally first and distinct</samp></code>,
++ ability to admit poor decisions (let alone dead-ends) on time and energy to find better and redo the work,
++ selecting the right proxies for communication on technologies,
++ definition of subtasks and delegating them without <s>micro</s>deci-management,
++ authority to reconcile design and technological encounters/counter-opinions.
+</details>
 
 This makes up the software architecture &mdash; a synergy of collective and best vision, design, and development from multiple points. Gaps in connecting design to code will create the insulation layer of misconstruing and block potentials.
 
