@@ -73,7 +73,7 @@ Software is the most automated production that ever existed when copying, scalin
 <table><tr valign="top"><td width="*">
  <p>A construction engineer, whose modeling tasks mingle with stirring concrete, who is up and there on the spot to supervise the progress and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
 ... must be a fantastic creature &mdash; but a usual Jack-of-all-trades in software teams where construction places are open 🕙24x7 💻laptop.</p>
-  <p>Building education and  activities are very narrow and regulated (also legally). <b>IT</b> indulges formalities of schooling.</p>
+  <p>Building education and activities are very narrow and regulated (also legally). <b>IT</b>&nbsp;indulges formalities of schooling.</p>
 </td><td width="40%">
   
 ```mermaid
@@ -96,6 +96,9 @@ checkout bug-fix
    commit
    commit
  branch release
+   commit
+    commit
+    commit
 ```
  </td></tr></table>
 
@@ -141,7 +144,7 @@ Contrary to the building experience programming <ins>disperses the classical fig
 
 <details><summary><ins>&nbsp;.. <b>or for personal aptitudes:</b>&nbsp;</ins>  ➡️</summary>
  
-+ memorizing big pictures in detail (not general diagrams),
++ memorizing big pictures in enough detail (not general diagrams),
 + ability to stay over (but not ignore) known decisions and practices,
 + ability to admit poor decisions (let alone dead-ends) on time and energy to find better and redo the work,
 + selecting the right proxies for communication on technologies,
