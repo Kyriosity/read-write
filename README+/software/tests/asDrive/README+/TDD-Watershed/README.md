@@ -134,6 +134,8 @@ To make matters worse, an aerial photo of divergent ridges and contrеforts woul
 
 The course will also unveil tasks of higher or parallel level but they will be either enjoyable hassle or separate headaches.
 
+**P.S.** Add _Data Drive_ to the left (required to formulate UX and APIs). 
+
 \___________</b></details>
 
 <h3 align="center">So sophisticated and idealistic? Neither!</h3>
