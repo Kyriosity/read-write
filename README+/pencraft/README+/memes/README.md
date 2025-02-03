@@ -148,7 +148,7 @@ A store of punched cards for a casual program. I'm proud to have a [little exper
 
 </details>
 
-## Cooked up metaphors
+## Fine Arts
 
 <table><tr><td><h3><a href="README+/polyptych_works.md">POLYPTYCH</a></h3></td></tr></table>
 

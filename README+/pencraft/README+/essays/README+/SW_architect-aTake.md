@@ -73,7 +73,7 @@ Software is the most automated production that ever existed when copying, scalin
 <table><tr valign="top"><td width="*">
  <p>A construction engineer, whose modeling tasks mingle with stirring concrete, who is up and there on the spot to supervise the progress and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
 ... must be a fantastic creature &mdash; but a usual Jack-of-all-trades in software teams where construction places are open 🕙24x7 💻laptop.</p>
-  <p>Building education and  activities are very narrow and regulated (also legally). <b>IT</b> indulges formalities of schooling.</p>
+  <p>Building education and activities are very narrow and regulated (also legally). <b>IT</b>&nbsp;indulges formalities of schooling.</p>
 </td><td width="40%">
   
 ```mermaid
@@ -96,6 +96,9 @@ checkout bug-fix
    commit
    commit
  branch release
+   commit
+    commit
+    commit
 ```
  </td></tr></table>
 
@@ -126,7 +129,7 @@ Contrary to the building experience programming <ins>disperses the classical fig
 > The bigger the project, the bigger the vertical&varr; and horizontal&harr; offsets of team members according to skills, talents, experience, and preferences with or without roles exchange.
 > <div align="center">( &varr; between coding and design; &harr; within the technologies stack)</div>
 
-<details><summary><ins>&nbsp;"Architect" is often an alias or catch-all term for good known roles and duties:&nbsp;</ins> ➡️</summary>
+<details><summary><ins>&nbsp;<b>"Architect" is often an alias or catch-all term for good known roles and duties:</b>&nbsp;</ins> ➡️</summary>
 
 * _domain expert_ or _business analyst_, who boils down requirements to systematic description,
 * _team lead_ or _project manager_,
@@ -139,15 +142,18 @@ Contrary to the building experience programming <ins>disperses the classical fig
 
 ⬅️ Let alone DevOps, as a separate area in software.
 
-<details><summary><ins>&nbsp;.. or for personal aptitudes:&nbsp;</ins> <samp></samp>(easy to declare but hard to correspond to)</samp></summary>
+<details><summary><ins>&nbsp;.. <b>or for personal aptitudes:</b>&nbsp;</ins>  ➡️</summary>
  
-+ euphoria and frustration tolerance, <code><samp>// intentionally prime and distinct</samp></code>,
++ memorizing big pictures in enough detail (not general diagrams),
 + ability to stay over (but not ignore) known decisions and practices,
 + ability to admit poor decisions (let alone dead-ends) on time and energy to find better and redo the work,
 + selecting the right proxies for communication on technologies,
 + definition of subtasks and delegating them without <s>micro</s><i>deci</i>-management,
-+ authority to reconcile design and technological encounters/counter-opinions.
++ authority to reconcile design and technological encounters/counter-opinions,
++ <ins>euphoria and frustration tolerance</ins>.
 </details>
+
+⬅️ ... easy to declare but hard to correspond to alone.
 
 This makes up the software architecture &mdash; a synergy of collective and best vision, design, and development from multiple points. Gaps in connecting design to code will create the insulation layer of misconstruing and block potentials.
 

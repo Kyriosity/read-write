@@ -1,6 +1,8 @@
 # <samp>MEMES</samp>&nbsp;&nbsp;&mdash;&nbsp;&nbsp;It works in polyptych
 
-## Diptych
+[![Cooked up metaphors](https://img.shields.io/badge/Cooked%20up-metaphors-8CA1AF?logo=readthedocs&logoColor=fff)](#)
+
+## Intro &mdash; Diptych
 
 <table align="center"><tr valign="center" align="center"><td><b>¯\_(ツ)_/¯</b></td><td><b>☁️ ¯\_(ツ)_/¯ ☁️</b></td>
 </tr><tr align="center">
@@ -25,6 +27,5 @@
 
 🚧🐝🚧 ... COMING SOONer or later ... 🚧🐝🚧
 
-convent, floor, VOAYGER
-
+\___________\
 🔚 🌒 2025 .. images credits: Docker Inc., MIT, ZDNet magazine
