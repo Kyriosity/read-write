@@ -2,25 +2,40 @@
 
 <p dir="rtl">,<i>When you feel the need to write a comment<br />first try to refactor the code so that<br />.any comment becomes superfluous</i><br />
  <a href="../../../pencraft/README+/quotes/README+/contributors/README.md#Kent-Beck">Kent Beck</a>, "Refactoring", <b><i>1999</i></b></p>
+<p align="right">___________</p>
+<p align="right">When code looks like a manuscript<br /> consider writing the documentation.</p>
 
 > **Comments can be eye-catching and essential but signal design inconsistency and poor naming.**<sup>🙋</sup>
 
 Carefully written code is self-descriptive by nature and needs no epistolary clarification<sup>🙋</sup>, 
 and even abracadabra in _regex_ processors can be broken down into figurative methods and variables. 
 
-However, comments, rehearsing the names of classes, functions, arguments, and properties, bloat many (if not the majority) source code files of prominent (and not) providers on GitHub (or elsewhere)<sup>📄</sup>.
+However, comments, rehearsing the names of classes, functions, arguments, and properties, bloat many (if not the majority) source code files of prominent (and not) providers on Git (or elsewhere)<sup>📄</sup>.
 
-Accompanied by info and copyright<sup>©️</sup> header and footers. 
+Accompanied by info and copyright<sup>©️</sup> headers and footers. 
 
 \___________\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<sub>This statement is for high-level declarative languages.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📄</sup>&nbsp;<sub>Sometimes on a single purpose to report the number of lines contributed.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>©️</sup>&nbsp;<sub>As if there were no license agreement or such a spell may prohibit impudent copy-paste.</sub>
 
-## Exceptions
+## ❗Breaking exclusion &mdash; Nota bene
+
+Some members require clarification, e.g. _natural number_ **may** include zero. A name may specify it (`IsNaturalNonzero` / `IsNaturalOrZero`). 
+This can't be a solution for cases such as `RemovePunctiation()`: what symbols exactly, shall include `«»»` (guillemets), is `_` punctuation, ...?
+
+Tests shall fragment distinctions but are not comfy for hints and unavailable through API, services, or, generally speaking, interfaces.
+
+> **The comment docu can be necessary to appear as a hint.**
+
+Such comments shall be reserved for interfaces.
+
+<picture><img alt="&nbsp;Tip for MiscSymbols listing these symbols" src="../../../_rsc/_img/snap/screen/VisualStudio/Tip-MiscSymbols.jpg" /></picture>
+
+## Indulgences
 
 First and foremost, descriptive comments and blocks of them in **demo tests** to serve as guides for devs and presentations for users. 
-To replace extra documentation in a way better.
+To replace extra documentation better.
 
 Other valid points are:
  
@@ -31,7 +46,7 @@ Other valid points are:
 + code snippets in documentation,
 + informal notes on test data,
 + domain-explaining quotes from sources like a wiki,
-+ explanation of voids **when** significant (`this file is intentionally left blank`, `this class must be void`)
++ explanation of voids **when** significant (`intentionally left blank`, `this class must be void`)
  
 One other distinct and legitimate niche is [comment-driven development](https://en.wikipedia.org/wiki/Comment_programming)<sup><b>w</b></sup> (though it's more fun).
 
