@@ -24,7 +24,9 @@ ___________<br />
 
 <table><tr valign="top"><td width="25%">
  <picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title="&nbsp;AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture>
- <br /><ins>&nbsp;Buiding CADS are</ins> ...&nbsp;
+ <br /><ins>Buiding CADS are similar to IDEs</ins><br />
+  <picture><img src="../../../../_rsc/_img/snap/screen/VisualStudio/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" 
+            title="&nbsp;Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture>
 </td><td>
 
 🏝️ The architecture of both demands creativity and grants **leeway** and vast **playland** for phantasy and missteps, 
@@ -41,9 +43,11 @@ but to quickly define operating wholes rather than ripen aesthetic values.
 👯 Both can't rely solely on generations of experience and picked masterminds but on a team of professionals and pundits (with a hierarchy or not).
 
 </td><td valign="bottom">
- <div>... <ins>much similar to IDEs</ins>.</div>
- <picture><img src="../../../../_rsc/_img/snap/screen/VisualStudio/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" 
-            title="&nbsp;Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture></td></tr></table>
+  <picture><img src="../../../../_rsc/_img/snap/media/books/A_Pattern_Language-ChrAlexander_et_al-1977.jpg" alt="&nbsp;A Pattern Language" 
+            title="&nbsp;A Pattern Language&#013;&#010;Alexander Christopher et al&#013;&#010;Oxford University Press, 1977" /></picture>
+ <div>... <ins>bestsellers too</ins> ...</div>
+ <picture><img src="../../../../_rsc/_img/snap/media/books/DesignPattern_GangOfFour_1994.jpg" alt="&nbsp;Design Patterns" 
+            title="&nbsp;Design Patterns&#013;&#010;Gang of Four&#013;&#010;Addison-Wesley Professional, 1994" /></picture></td></tr></table>
   
 ### ...but diffs are bigger
 
@@ -175,6 +179,6 @@ And let's salt all this with a bitter reminder that major software isn't _Panthe
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom IN/OUT</mark>" from <picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture> [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) (thrivingtechnologist.com)</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of C#.NET in Microsoft are titled _architects_ or _leads_ but all of them show fluent coding skills at presentations.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Images credit: AutoCAD, Microsoft, Lotus Corp., Tripadvisor, and kyriosity</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Images credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and kyriosity</sub>
 
 <div align="center"><b>.......</b> &nbsp;🔚 &nbsp;🌘 kyriosity 2023-2025&nbsp;&nbsp;&nbsp;<b>.......</b></div>
