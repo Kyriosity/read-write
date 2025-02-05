@@ -42,7 +42,7 @@ but to quickly define operating wholes rather than ripen aesthetic values.
 
 </td><td valign="bottom">
  <div>... <ins>much similar to IDEs</ins>.</div>
- <picture><img src="../../../../_rsc/_img/snap/screen/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" 
+ <picture><img src="../../../../_rsc/_img/snap/screen/VisualStudio/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" 
             title="&nbsp;Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture></td></tr></table>
   
 ### ...but diffs are bigger
