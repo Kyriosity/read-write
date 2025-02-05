@@ -8,7 +8,7 @@ title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nb
 # Architecture and Architects
 
 <table><tr valign="top"><td><picture><img width="550px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.jpg" /></picture></td><td>
-<p>The essence of architecture appeared as folks managed to erect somewhat more extravagant and durable than a hut of piled branches (sprinning from megaliths).</p>
+<p>The essence of architecture appeared as folks managed to erect somewhat more extravagant and durable than a hut of piled branches (springing from megaliths).</p>
 <p>Some ancient Hellenes were so good at construction sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &mdash; the term romanized to <i>architecture</i> centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &rarr; 
 refined craftsmen exempt from chores and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
@@ -44,7 +44,7 @@ but to quickly define operating wholes rather than ripen aesthetic values.
 
 </td><td valign="bottom">
   <picture><img src="../../../../_rsc/_img/snap/media/books/A_Pattern_Language-ChrAlexander_et_al-1977.jpg" alt="&nbsp;A Pattern Language" 
-            title="&nbsp;A Pattern Language&#013;&#010;Alexander Christopher et al&#013;&#010;Oxford University Press, 1977" /></picture>
+            title="&nbsp;A Pattern Language&#013;&#010;Christopher Alexander et al&#013;&#010;Oxford University Press, 1977" /></picture>
  <div>... <ins>bestsellers too</ins> ...</div>
  <picture><img src="../../../../_rsc/_img/snap/media/books/DesignPattern_GangOfFour_1994.jpg" alt="&nbsp;Design Patterns" 
             title="&nbsp;Design Patterns&#013;&#010;Gang of Four&#013;&#010;Addison-Wesley Professional, 1994" /></picture></td></tr></table>
