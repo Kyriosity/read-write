@@ -15,6 +15,8 @@ Explorers may also overestimate weak decisions, and search for deep meaning in s
 
 ## Recording ⏺️ design ⏹️
 
+<table><tr valign="top"><td><picture><img alt="&nbsp;Docu pillar" src="../../../_rsc/_img/illus/docu/docu_pillar.jpg" /></picture></td><td>
+
 Even if there's extensive user guidance, even the best quality application code needs a fluent explanation: 
 
 * engaging intro,
@@ -28,7 +30,9 @@ The higher the level and more concise (yet complete) the documentation &mdash; t
 
 Accurate and meaningful commit comments can make a skeleton of the design log. Theoretically automated but practically there will be too many mixed entries with white noise.
 
-Just a daily (semi-weekly) log (or blog) on notable decisions could be a great help in documenting the pace of design. 
+Just a daily (semi-weekly) log (or blog) on notable decisions could help document the pace of design. 
+  
+</td></tr></table>
 
 ### F.&thinsp;A.&thinsp;Q.
 
