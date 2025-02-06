@@ -43,11 +43,11 @@ but to quickly define operating wholes rather than ripen aesthetic values.
 👯 Both can't rely solely on generations of experience and picked masterminds but on a team of professionals and pundits (with a hierarchy or not).
 
 </td><td valign="bottom">
-  <picture><img src="../../../../_rsc/_img/snap/media/books/A_Pattern_Language-ChrAlexander_et_al-1977.jpg" alt="&nbsp;A Pattern Language" 
-            title="&nbsp;A Pattern Language&#013;&#010;Christopher Alexander et al&#013;&#010;Oxford University Press, 1977" /></picture>
+  <a href="https://en.wikipedia.org/wiki/A_Pattern_Language"><img src="../../../../_rsc/_img/snap/media/books/A_Pattern_Language-ChrAlexander_et_al-1977.jpg" alt="&nbsp;A Pattern Language" 
+            title="&nbsp;A PATTERN LANGUAGE&#013;&#010;&nbsp;Towns Buildings Construction&#013;&#010;&nbsp;___________&#013;&#010;&nbsp;Christopher Alexander et al&#013;&#010;&nbsp;Oxford University Press, 1977" /></a>
  <div>... <ins>bestsellers too</ins> ...</div>
- <picture><img src="../../../../_rsc/_img/snap/media/books/DesignPattern_GangOfFour_1994.jpg" alt="&nbsp;Design Patterns" 
-            title="&nbsp;Design Patterns&#013;&#010;Gang of Four&#013;&#010;Addison-Wesley Professional, 1994" /></picture></td></tr></table>
+ <a href="https://en.wikipedia.org/wiki/Design_Patterns"><img src="../../../../_rsc/_img/snap/media/books/DesignPattern_GangOfFour_1994.jpg" alt="&nbsp;Design Patterns" 
+            title="&nbsp;DESIGN PATTERNS&#013;&#010;&nbsp;Elements of Reusable&#013;&#010;&nbsp;Object-Oriented Software&#013;&#010;___________&#013;&#010;&nbsp;Gang of Four&#013;&#010;&nbsp;Addison-Wesley Professional, 1994" /></a></td></tr></table>
   
 ### ...but diffs are bigger
 
@@ -61,7 +61,7 @@ Or <i>Tower of Babel</i> populated with <a href="../../quotes/README+/aside/cont
  <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" title="&nbsp;Image credit: kyriosity, 2024"/></picture><br />
   <i>Walhalla</i> on the river Danube, Bavaria (built 1820-1842) is an exemplary neoclassicism.
 </td><td>
- Buildings are immobile, conservative, and traditional &mdash; software is fluid, experimental, and free of nostalgia (as neoclassicism).</p>
+ Buildings are **immobile**, conservative, and traditional &mdash; software is **ephemeral**, fluid, and free of nostalgia (as neoclassicism).</p>
  <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).
  
  The software doesn't rust or erode but gets obsolete in a few years. Decades (bare minimum for wood cabins) set records in residual mainframe software, which won't recur (till interstellar flights).
