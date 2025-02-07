@@ -90,6 +90,11 @@ who suggested tongue (English) semantics for programming (so natural now that on
 
 ### "Generals"
 
+As programmong evolved the mass of general terms was given. Some, as object where VOLLTREFFER others shaded other uses or interferred with them
+
+
+application app is better
+
 Interface which means `contract`.
 
 ### Bug or Fix?
