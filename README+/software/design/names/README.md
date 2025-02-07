@@ -1,8 +1,8 @@
 # Software&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Naming and Categorization
 
-<p dir="rtl"><i>"...In the beginning was the Word"</div></i></p><br/>
+<p dir="rtl"><i>«...&nbsp;In the beginning was the Word</i>»</p>
 
-<table><tr valign="top"><td><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
+<table><tr valign="top"><td width="20%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
   <p><b>Denomination of categories <ins>and</ins>ins> titles is a pivotal but underrated and neglected activity in any exploration.</b></p>
   <div>In software, names with categories, which smoothly guide through the design and make coding intuitive, are taken for granted,</div>
@@ -49,14 +49,14 @@ The inevitable and heavy expenses will pay off with the formation of ***lingua f
 + shared comprehension of a domain, collaboration, and indeed bound team,
 + genuine design and self-descriptive code,
 + inspiration for behavior/domain-driven design,
-+ help for creating and reading the documentation<sup>📒</sup>,
-+ mitigated tension to get into a project for newcomers,
++ base for writing and reading the documentation<sup>📒</sup>,
++ less tension to get into a project for newcomers,
 + comfy navigation in the source code (beginning from <kbd>CTRL+F</kbd>).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team means not only developers and managers but customers, testers with end users.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📒</sup><sub> reqs/specs, DoU, meetings protocols, and primers - hard to follow but easy to misunderstand or forget</sub>
 
-And it is an ingredient of successful [domain-driven design](../drive/README.md#Domain-drive).
+It's an ingredient of successful [domain-driven design](../drive/README.md#Domain-drive) (and vice versa).
 
 ## What's next
 
@@ -66,8 +66,8 @@ And it is an ingredient of successful [domain-driven design](../drive/README.md#
 
 ## Wrapping up
 
-+ Even top teams under time pressure and brakes on perfectionism would be barely proud of their implementation of naming. 
-+ The naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be continuous and genuine.
++ Even top consonant teams under time pressure and brakes on perfectionism would rarely be proud of their naming implementation. 
++ The naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve them must be honest and continuous.
 
 ## Appendix. Learning from others
 
@@ -90,12 +90,9 @@ who suggested tongue (English) semantics for programming (so natural now that on
 
 ### "Generals"
 
-As programmong evolved the mass of general terms was given. Some, as object where VOLLTREFFER others shaded other uses or interferred with them
+As programming evolved the mass of general terms must have been given. Some, as `object` or `bug`, are relatively univocal hits &mdash; others shade higher level notion or interfere with them:
 
-
-application app is better
-
-Interface which means `contract`.
+Application, solution, interface, exception - to name a few.
 
 ### Bug or Fix?
 
