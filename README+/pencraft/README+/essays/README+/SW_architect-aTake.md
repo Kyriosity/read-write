@@ -12,8 +12,8 @@ title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nb
 <p>Some ancient Hellenes were so good at construction sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &mdash; the term romanized to <i>architecture</i> centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &rarr; 
 refined craftsmen exempt from chores and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
-<p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy. 
- Nevertheless, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) and architects of <em>détente</em> or <em>economic miracle</em> are compliments (or flattery).</p>
+<p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy.</p>
+<p>Even so, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) and architects of <em>détente</em> or <em>economic miracle</em> are compliments (or flattery).</p>
 ___________<br />
 <sup>🏛️</sup> <sub>Greek:</sub> <samp>ἀρχιτέκτων</samp><sub>, “master/chief builder/maker" but this occupation must have existed much prior as the <i>Ziggurat of Ur</i> and Egyptian Pyramids suggest (but Stonehenge refutes).</sub>
  </td></tr></table>
@@ -42,7 +42,7 @@ but to quickly define operating wholes rather than ripen aesthetic values.
 
 🎈 Abuse of both for hollow promises and sandcastles is more frequent than in other industries.
 
-👯 Both don't rely solely on generations of experience and picked masterminds but on teams of versatile professionals and pundits (with a hierarchy or not).
+👯 Both don't rely solely on picked masterminds but on teams of professionals and pundits with varying competence (with or without hierarchy).
 
 </td><td valign="bottom">
   <a href="https://en.wikipedia.org/wiki/A_Pattern_Language"><img src="../../../../_rsc/_img/snap/media/books/A_Pattern_Language-ChrAlexander_et_al-1977.jpg" alt="&nbsp;A Pattern Language" 
@@ -51,13 +51,13 @@ but to quickly define operating wholes rather than ripen aesthetic values.
  <a href="https://en.wikipedia.org/wiki/Design_Patterns"><img src="../../../../_rsc/_img/snap/media/books/DesignPattern_GangOfFour_1994.jpg" alt="&nbsp;Design Patterns" 
             title="&nbsp;DESIGN PATTERNS&#013;&#010;&nbsp;Elements of Reusable&#013;&#010;&nbsp;Object-Oriented Software&#013;&#010;___________&#013;&#010;&nbsp;Gang of Four&#013;&#010;&nbsp;Addison-Wesley Professional, 1994" /></a></td></tr></table>
   
-### ...but diffs are bigger
+### ...but diffs are larger
 
 <p align="right"><b><code>IF</code></b>&nbsp;«Architecture is a frozen music.»<br />
-<sub><i>Arthur Schopenhauer</i> (1788-1860)</sub><br />
+<i>Arthur Schopenhauer</i> (1788-1860)<br />
 <b><code>THEN</code></b>&nbsp;software is a symphonic cacophony<br />
 [unleashed under the amateur circus tent&thinsp;].<br />
-<b><code>OR</code></b> <i>Tower of Babel</i> populated with <a href="../../quotes/README+/aside/controversy.md#woodpecker">woodpeckers</a><sup>💬</sup><br />[on steroids].</p>
+<code><b>OR</b></code> <i>Tower of Babel</i> populated with <a href="../../quotes/README+/aside/controversy.md#woodpecker">woodpeckers</a><sup>💬</sup><br />[on steroids].</p>
 
 <table><tr valign="top"><td width="35%">
  <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" title="&nbsp;Image credit: kyriosity, 2024"/></picture><br />
@@ -68,13 +68,13 @@ but to quickly define operating wholes rather than ripen aesthetic values.
  
  The software doesn't rust or erode but becomes obsolete in a few years. Decades (bare minimum for wood cabins) set lifecycle records in residual mainframe software - unlikely to recur (till interstellar flights).
 
-Software development gives freedom of life-sized _trial and **error**_ unthinkable in other production. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (libraries/services). 
+Software development gives freedom of life-sized _trial and **error**_ unthinkable in another production. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (libraries/services). 
 
 Contrariwise, months of upfront planning and prototyping are adverse to software, which paces in releases and favors [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)<sup><b>w</b></sup> ASAP.
  
 </td></tr></table>
 
-Software is the most automated production that ever existed when copying, scaling, installation, and updates are one-click (or auto-scheduled) and unattended. 
+Software is the most automated production ever existed when copying, scaling, installation, and updates are one-click (or auto-scheduled) and unattended. 
 
 <table><tr valign="top"><td width="*">
  <p>A construction engineer, whose modeling tasks mingle with stirring concrete, who is up and there on the spot to supervise the progress and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
@@ -161,18 +161,18 @@ Contrary to the evolution of building - programming <ins>disperses the classical
 
 ⬅️ ... easy to declare but hard to correspond to alone.
 
-This makes up the software architecture &mdash; a synergy of collective and best vision, design, and development from multiple points. Gaps in connecting design to code will create the insulation layer of misconstruing and block potentials.
+**This makes up the software architecture** &mdash; collective vision and fusion of the best design, development, and coding from multiple inputs. Leaving as few cavities (of misconstruing and anarchy) as possible.
 
 ## but hold on...
 
 **Reputable software providers hire/promote architects; they are central figures at IT events. There's certification after all.**
 
 Above all, **_software architect_** sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup>, and impresses hiring managers, customers, and stakeholders.&#8287;
-Neither <ins>_expert_</ins>, <ins>_Chief Programming Officer_</ins> nor <ins>_dev&nbsp;lord_</ins> can match it.
+Neither _**expert**_, _**dev&nbsp;lord**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> is equivalent.
 
 > There is no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of avant practices with strong practical backup.<sup>👩‍👦‍👦</sup>
 
-And let's salt all this with a bitter reminder that major software isn't _Pantheon_ but the routine adaptation of requirements to known and tried solutions with quite a decent input of cutting-edge.
+Finally, salt all this with a bitter reminder that major software isn't _Pantheon_ but the routine adaptation of requirements to known and tried solutions with quite a decent input of cutting-edge input and invention.
 
 <div dir=rtl><samp>"<b>.Smith will suffice</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
 
