@@ -20,7 +20,7 @@ ___________<br />
 
 <h1 align="right">Part&nbsp;I. Software <i>vs.</i> Building</h1>
 
-### much in common...
+## much in common...
 
 <table><tr valign="top"><td width="25%">
  <picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title="&nbsp;AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture>
@@ -51,7 +51,7 @@ but to quickly define operating wholes rather than ripen aesthetic values.
  <a href="https://en.wikipedia.org/wiki/Design_Patterns"><img src="../../../../_rsc/_img/snap/media/books/DesignPattern_GangOfFour_1994.jpg" alt="&nbsp;Design Patterns" 
             title="&nbsp;DESIGN PATTERNS&#013;&#010;&nbsp;Elements of Reusable&#013;&#010;&nbsp;Object-Oriented Software&#013;&#010;___________&#013;&#010;&nbsp;Gang of Four&#013;&#010;&nbsp;Addison-Wesley Professional, 1994" /></a></td></tr></table>
   
-### ...but diffs are larger
+## ...but diffs are larger
 
 <p align="right"><b><code>IF</code></b>&nbsp;«Architecture is a frozen music.»<br />
 <i>Arthur Schopenhauer</i> (1788-1860)<br />
@@ -79,7 +79,7 @@ Software is the most automated production ever existed when copying, scaling, in
 <table><tr valign="top"><td width="*">
  <p>A construction engineer, whose modeling tasks mingle with stirring concrete, who is up and there on the spot to supervise the progress and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
 ... must be a fantastic creature &mdash; but a usual Jack-of-all-trades in software teams where construction places are open 🕙24x7 💻laptop.</p>
-  <p>Building education and activities are very narrow and regulated (also legally). <b>IT</b>&nbsp;is reluctant about formalities of schooling.</p>
+  <p>Building education and activities are very narrow and regulated (also legally). &mdash; <b>IT</b>&nbsp;is&nbsp;reluctant about formalities of schooling.</p>
 </td><td width="40%">
   
 ```mermaid
