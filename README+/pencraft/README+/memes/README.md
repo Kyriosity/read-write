@@ -16,7 +16,8 @@ The grains of truth in this wisdom:
 * No other knowledge erodes so quickly as the IT tech stack - languages/scripts, markup, frameworks, and their IDEs, UX styles emerge, submerge, and mutate with the year's pace.<sup>:violin:</sup>
 * In the orthogonal  (to time) dimension a developer can't stick to a favorite syntax and must be fluent in a wide techno spectrum.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:violin:</sup> <sub>Javascript/HTML, which one learned in 2000, remains only as kernel syntax. It went through numerous libs, polyfills, jQuery, and other cool tools and at the moment transformed into single-page frameworks, which rule the web dev.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:violin:</sup> <sub>Javascript/HTML, which one learned in 2000, remains only as kernel syntax. 
+It went through numerous libs, polyfills, jQuery, and other cool tools and at the moment transformed into single-page frameworks, which rule the web dev.</sub>
 
 **Escape?**
 
@@ -92,18 +93,18 @@ This is justified because of the changed requirements as discussed a bit in [quo
 &nbsp;
 
 <table><tr valign="top"><td width="50%"><picture><img src="../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture><br />
-<picture><img alt="&nbsp;Early memory chips" src="../../../_rsc/_img/af/Intel-C1103_ink.jpg" /></pictire></td><td>
+<picture><img alt="&nbsp;Early memory chips" src="../../../_rsc/_img/af/Intel-C1103_ink.jpg" /></pictire>
+<div><sub>Image credits: screengrab, imdb.com: <i>Born Invincible</i>, 1978; Wiki media: Intel 1103 memory</sub></div>
+</td><td>
   <p>I heard it from a <code>C++</code>-gifted colleague when we exchanged <samp>DOOM</samp> experience (already lores too). 
-    He told what he heard from elders, that true multi-warrior computer games with epic wins are a thing of the past - times of very primitive monochrome text monitors (if not arrays of light bulbs).</p>
+    He told what he knew from <i>olds</i> &mdash; true multi-warrior computer games with epic wins are a thing of the past - times of very primitive monochrome text monitors (if not arrays of light bulbs).</p>
   <p>I remastered and enhanced that.</p>
   <p>The lore goes that computer scientists (every programmer was one), senior in age and title, used relatively idle nighttime<sup>🌛</sup> 
-    to gather in their computer centers and combat resources with all possible (for warming up) and impossible, and unthinkable hacks in <i>machine languages</i> (no hardware manipulations, no dirty cheats, no vulgar social engineering).</p>
+    to connect their computer centers via antediluvian wide area networks and combat resources with all possible (for warming up) and impossible, and unthinkable hacks in <i>machine languages</i> (no hardware manipulations, no dirty cheats, no vulgar social engineering).</p>
   <p>The winner occupied the most or whole memory of the opponents' timeslots.</p>
-  It really requires an ultra-level of abstraction to comprehend what silent battles unfolded in darkness via  antediluvian wide area networks over bits (not bytes).
+  <p>These sagas went unnoticed since require ultra-level abstractions to grasp what silent battles unfolded in darkness over bits (not bytes).</p>
   <sup>🌛</sup> <sub>Relatively, since computer time was so deficient, a couple of hours in night shifts on BIG machines was a big luck for junior fellows (daytime was out of reach for them at all).</sub>
 </td></tr></table>
-
-<div align="right"><sub>Image credits: screengrab, imdb.com: <i>Born Invincible</i>, 1978; Wiki image of Intel 1103 memory</sub></div>
 
 \___________</details>
 
