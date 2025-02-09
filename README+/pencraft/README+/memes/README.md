@@ -98,7 +98,8 @@ This is justified because of the changed requirements as discussed a bit in [quo
   <p>I remastered and enhanced that.</p>
   <p>The lore goes that computer scientists (every programmer was one), senior in age and title, used relatively idle nighttime<sup>🌛</sup> 
     to gather in their computer centers and combat resources with all possible (for warming up) and impossible, and unthinkable hacks in <i>machine languages</i> (no hardware manipulations, no dirty cheats, no vulgar social engineering).</p>
-  <p>The winner occupied the whole memory of the opponent's machine (or the timeslot?).</p>
+  <p>The winner occupied the most or whole memory of the opponents' timeslots.</p>
+  It really requires an ultra-level of abstraction to comprehend what silent battles unfolded in darkness via  antediluvian wide area networks over bits (not bytes).
   <sup>🌛</sup> <sub>Relatively, since computer time was so deficient, a couple of hours in night shifts on BIG machines was a big luck for junior fellows (daytime was out of reach for them at all).</sub>
 </td></tr></table>
 
