@@ -153,7 +153,7 @@ A store of punched cards for a casual program. I'm proud to have a [little exper
 
 ## Fine Arts
 
-<table><tr><td><h3><a href="README+/polyptych_works.md">POLYPTYCH</a></h3></td></tr></table>
+<table><tr><td><h3><a href="README+/art/polyptych_works.md">POLYPTYCH</a></h3></td></tr></table>
 
 ## Recommended reading 
 
