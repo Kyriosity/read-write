@@ -1,4 +1,4 @@
-# Pencraft &mdash; Essays
+# Pencraft&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Essays
 
 <table>
   <tr>
