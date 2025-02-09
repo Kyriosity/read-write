@@ -2,12 +2,13 @@
 
 > **Guaranteed to be authentic** &mdash; not another paraphrase of [wiki articles](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup><b>w</b></sup>
 
-<table><tr valign="top"><td><picture><img width="400px" alt="&nbsp;Ancient Egypt bas-relief" src="../../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg" /></picture><br />
-      <a href="../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg"><img src="../../../../_rsc/_img/af/punchcard_vert.jpg" alt="&nbsp;Image not found" title="&nbsp;Punchcard in 1966"/></a><br />
-      <picture><img width="400px" alt="&nbsp;Please do not bend" src="../../../../_rsc/_img/signs/do_not_bend-vert_h200px.jpg" /></picture>
+# Intramural experience&nbsp;&nbsp;&mdash;&nbsp;&nbsp;short and vintage
+
+<table><tr valign="top"><td><picture><img width="333px" alt="&nbsp;Ancient Egypt bas-relief" src="../../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg" /></picture><br />
+      <a href="../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg">
+            <img width="333px" src="../../../../_rsc/_img/af/punchcard_vert.jpg" alt="&nbsp;Image not found" title="&nbsp;Punchcard in 1966"/></a><br />
+      <picture><img width="333px" alt="&nbsp;Please do not bend" src="../../../../_rsc/_img/signs/do_not_bend-vert_h200px.jpg" /></picture>
                   </td><td>
-                        
-# Intramural experience &mdash; short and vintage
                         
 It was long after the decline of the punching technology and its carton carrier &mdash; to remain a legacy coursework at my university for the last year because the supply of cards became extinct.
                         
@@ -50,7 +51,8 @@ Between **(4)** and **(5)** a fellow disciple intruded: shuffling my deck unnoti
 
 <h1 align="right">Extramural afterword</h1>
 
-My mediocre story is a chance to remind the reader of the outstanding traits of this medium, despite its fast decadence predetermined by data density (it couldn't get either mini/micro or double side next).
+My mediocre story is a chance to remind the reader of the outstanding traits of this medium, &mdash; 
+despite its fast decadence predetermined by data density (it couldn't get either mini/micro or double side next).
 
 I venture to propose punch cards as a backup if computer illiteracy ages come<sup>📚</sup> or for extraterrestrial spam<sup>🚀</sup>. And that's why:
 
