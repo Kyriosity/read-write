@@ -120,7 +120,7 @@ This is justified because of the changed requirements as discussed a bit in [quo
 <i>a fellow shares the location of cafe</i>] .&thinsp;.&thinsp;. good, <i>bon</i>, agreed, &mdash; be there in a moment] <kbd><b>DE</b>&thinsp;->&thinsp;<b>EN</b></kbd>
 </div><br />
 
-The caricature may look sloppy, but it's a rare match of the futurtic vision of its author Karl Arnold: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
+The caricature may look sloppy, but it'ls author Karl Arnold had astonishly escaped futuristic cringe: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
 
 </details>
 
