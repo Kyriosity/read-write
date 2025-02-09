@@ -1,4 +1,4 @@
-# IT &mdash; Quotes &mdash; Cornerstones
+# IT Quotes&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Cornerstones
 
 >☝️ Quotes and epigraphs can be annoying, while their hackneyed selections migrate between resources &mdash; but **only worthy** ones are cherry-picked here to provoke deeper IT thinking. 
 
@@ -54,7 +54,7 @@
       Unlike [peoples] tongues [computer] <mark>languages</mark> are strongly opinionated.<br /><ins><i>Misc. sources</i></ins>
     </td>
     <td>
-      When I read commentary about suggestions for where <b></b><tt>C</tt></b> should go, I often think back and give thanks that it wasn`t developed under the advice of a worldwide crowd.<br />
+      When I read commentary about suggestions for where&thinsp;<mark>&thinsp;<b>C</b>&thinsp;</mark>&thinsp;should go, I often think back and give thanks that it wasn`t developed under the advice of a worldwide crowd.<br />
       <a href="contributors/README.md#Dennis-Ritchie"><b>Dennis Ritchie</b></a>
     </td>
   </tr> 
@@ -113,4 +113,4 @@
  
 \____________
 
-🔚 ... 🌗 (2024) to be reviewed, reworked and extended ✏️ ...
+🔚 ... 2024-2025 to be reviewed, reworked and extended ✏️ ...
