@@ -149,14 +149,15 @@ Contrary to the evolution of building - programming <ins>disperses the classical
 ⬅️ Let alone DevOps, as a separate area in software.
 
 <details><summary><ins>&nbsp;.. <b>or for personal aptitudes:</b>&nbsp;</ins>  ➡️</summary>
- 
+
 + memorizing big pictures in enough detail (not general diagrams),
++ ability to unify and simplify logic (where it's not evident for others),
 + ability to stay over (but not ignore) known decisions and practices,
 + ability to admit poor decisions (let alone dead-ends) on time and energy to find better and redo the work,
 + selecting the right proxies for communication on technologies,
-+ definition of subtasks and delegating them without <s>micro</s><i>deci</i>-management,
++ definition of subtasks and delegating them with minimal tutelage and surveillance (let alone _micromanagement_),
 + authority to reconcile design and technological encounters/counter-opinions,
-+ <ins>euphoria and frustration tolerance</ins>.
++ <ins>euphoria and frustration tolerance</ins> (for all that above).
 </details>
 
 ⬅️ ... easy to declare but hard to correspond to alone.
