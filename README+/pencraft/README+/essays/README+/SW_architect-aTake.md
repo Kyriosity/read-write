@@ -1,22 +1,16 @@
-<table><tr></tr><tr>
- <td widh="39%">☝️</td><td>This essay doesn't split <i>architecture</i> and <i>design</i> (as everything over particular and imaginary applications/systems/constructions) while
-<picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
-title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
- (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin adjacent activities</a>.
- </td></tr></table>
-
 # Architecture and Architects
 
-<table><tr valign="top"><td><picture><img width="550px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.jpg" /></picture></td><td>
-<p>The essence of architecture appeared as folks managed to erect somewhat more extravagant and durable than a hut of piled branches - say, megaliths.</p>
+<table><tr valign="top"><td><picture><img width="550px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.jpg" /></picture>
+       </td><td>
+<p>The essence of architecture appeared as folks managed to erect somewhat more extravagant and durable than a hut of piled branches &mdash; say, megaliths.</p>
 <p>Some ancient Hellenes were so good at construction sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &mdash; the term romanized to <i>architecture</i> centuries later.</p>
-<p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &rarr; 
+<p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &mdash; 
 refined craftsmen exempt from chores and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
 <p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy.</p>
 <p>Even so, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) and architects of <em>détente</em> or <em>economic miracle</em> are compliments (or flattery).</p>
 ___________<br />
-<sup>🏛️</sup> <sub>Greek:</sub> <samp>ἀρχιτέκτων</samp><sub>, “master/chief builder/maker" but this occupation must have existed much prior as the <i>Ziggurat of Ur</i> and Egyptian Pyramids suggest (but Stonehenge refutes).</sub>
- </td></tr></table>
+<sup>🏛️</sup> <sub>Greek:</sub> <samp>ἀρχιτέκτων</samp><sub>, “master/chief builder/maker" but this occupation existed much prior as the <i>Ziggurat of Ur</i> and Egyptian Pyramids suggest (but Stonehenge refutes).</sub>
+          </td></tr></table>
 
 <h1 align="right">Part&nbsp;I. Software <i>vs.</i> Building</h1>
 
@@ -51,7 +45,7 @@ but to quickly define operating wholes rather than ripen aesthetic values.
  <a href="https://en.wikipedia.org/wiki/Design_Patterns"><img src="../../../../_rsc/_img/snap/media/books/DesignPattern_GangOfFour_1994.jpg" alt="&nbsp;Design Patterns" 
             title="&nbsp;DESIGN PATTERNS&#013;&#010;&nbsp;Elements of Reusable&#013;&#010;&nbsp;Object-Oriented Software&#013;&#010;___________&#013;&#010;&nbsp;Gang of Four&#013;&#010;&nbsp;Addison-Wesley Professional, 1994" /></a></td></tr></table>
   
-## ...but diffs are larger
+## ...but diffs are bigger
 
 <p align="right"><b><code>IF</code></b>&nbsp;«Architecture is a frozen music.»<br />
 <i>Arthur Schopenhauer</i> (1788-1860)<br />
@@ -111,6 +105,9 @@ checkout bug-fix
 **Ultima ratio**: slang differs.
 
 <details><summary>_________&thinsp;<b><samp>bottom line</samp></b>&thinsp;_________</summary>
+
+### Flipside
+
 <table><tr valign="top"><td width="50%"><picture><img alt="&nbsp;Museu_do_amanha(tripadvisor.com).jpg" src="../../../../_rsc/_img/photo/build/Museu_do_amanha(tripadvisor.com).jpg" title="&nbsp;Designed by Santiago Calatrava" /></picture><br />
       <i>Museum of Tomorrow, Rio de Janeiro</i>
 <div align="right"><picture><img src="../../../../_rsc/_img/signs/arrows/back-forth_skewed_200px.jpg" alt="&nbsp;C O M P A R E"/></picture></div>
@@ -137,26 +134,53 @@ Contrary to the evolution of building - programming <ins>disperses the classical
 
 <details><summary><ins>&nbsp;<b>"Architect" is often an alias or catch-all term for good known roles and duties:</b>&nbsp;</ins> ➡️</summary>
 
-* _domain expert_ or _business analyst_, who boils down requirements to systematic description,
-* _team lead_ or _project manager_,
-* _lead_/_senior developer_,
-* _consultant_, propagating portfolio of verified solutions to new applications,
-* _tutor_, or _technology evangelist_, proposing blueprints for the solution,
-* "*librarian-navigator*", somebody with the utmost knowledge of the design and code,
-* geeks from _computer science_.
+```mermaid
+---
+title: 
+---
+mindmap
+Arc)"`☂️ **ARCHI
+TECT** 🏖️`"(
+
+   Expert(("`**Domain EXPERT** /
+**Business ANALYST**
+who boils down requirements to the systematic description`"))
+
+   Conso("`**CONSULTANT**
+propagating portfolio of verified solutions to new applications`")
+
+   dev["`**lead / senior**
+**DEVELOPER**`"]
+
+   Mngr["`**team LEAD** /
+**project MANAGER**`"]
+
+   Tutor("`**IT TUTOR** /
+**Technology EXTERT**
+proposing blueprints for the solution`")
+
+   LibNav("`**LIBRARIAN** / 
+**NAVIGATOR**
+somebody with the utmost knowledge of the design and code`")
+
+   Geek))"`**GEEKS**
+from computer science`"((
+
+```
+
 </details>
 
-⬅️ Let alone DevOps, as a separate area in software.
+⬅️ Let alone <mark>**DevOps**</mark>, as a separate area in software.
 
 <details><summary><ins>&nbsp;.. <b>or for personal aptitudes:</b>&nbsp;</ins>  ➡️</summary>
 
-+ memorizing big pictures in enough detail (not general diagrams),
-+ ability to unify and simplify logic (where it's not evident for others),
-+ ability to stay over (but not ignore) known decisions and practices,
-+ ability to admit poor decisions (let alone dead-ends) on time and energy to find better and redo the work,
-+ selecting the right proxies for communication on technologies,
-+ definition of subtasks and delegating them with minimal tutelage and surveillance (let alone _micromanagement_),
-+ authority to reconcile design and technological encounters/counter-opinions,
++ memorizing **big pictures** in enough detail (not general diagrams),
++ ability to **unify** and simplify logic (where it's not evident for others),
++ staying **over** (but not ignoring) known decisions, practices, and common inclinations,
++ power to **admit** poor decisions (let alone dead-ends) on time and energy to find better and redo the work,
++ selecting the right **proxies** for communication on technologies,
++ definition of **subtasks** and delegating them with minor tutelage and surveillance (let alone _micromanagement_),
++ authority to **reconcile** design and technological encounters/counter-opinions,
 + <ins>euphoria and frustration tolerance</ins> (for all that above).
 </details>
 
@@ -183,5 +207,12 @@ Finally, salt all this with a bitter reminder that major software isn't _Pantheo
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of C#.NET in Microsoft are titled _architects_ or _leads_ but all of them show fluent coding skills at presentations.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Images credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and kyriosity</sub>
+
+<table><tr></tr><tr>
+ <td widh="39%">☝️</td><td>This essay doesn't split <i>architecture</i> and <i>design</i> (as everything over particular and imaginary applications/systems/constructions) while
+<picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
+title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
+ (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin adjacent activities</a>.
+ </td></tr></table>
 
 <div align="center"><b>.......</b> &nbsp;🔚 &nbsp;🌘 kyriosity 2023-2025&nbsp;&nbsp;&nbsp;<b>.......</b></div>
