@@ -4,7 +4,7 @@ The planning and presentation of software features require a pictorial and encou
 |- ♟️ [Chess](#chess)\
 |- 🧮 [Math](#math)\
 |- 🎨 [Raster images](#raster-images)\
-|- 🧱 [Still plain models](#still-plain-models)
+|- 🧱 [Still ordinary models](#still-models)
 
 ## Chess
 
@@ -50,7 +50,7 @@ Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to m
 
 The study of logic and **math** with its formalism has predetermined programming. As hardware could run decent algebra instructions low and high-level languages on it could render fundamental mathematical functions for programmers.
 
-More specific functions can be found in external libraries and if not are the subject of tailored development: from a casual task for non-mathematicians to scientific thesises (as some _computer-assisted-proofs_). 
+More specific functions can be found in external libraries and if not are the subject of tailored development: from a casual task for non-mathematicians to scientific theses (as some _computer-assisted-proofs_). 
 
 * Arguments and results of functions are not only numbers but also compound and highly abstract structures. 
 * A simple or not formula may spare loads of modification storage and still be swift. 
@@ -84,7 +84,7 @@ Actions vary from simple (flip, rotate) to highly processed retouching or effect
 
 ---
 
-## Still plain models
+## <a id="still-models">Still ordinary models
 
 <p dir=rtl>In some mysterious way woods have<br />
 .never seemed to me to be <mark>static</mark> things<br />
@@ -97,7 +97,8 @@ ___________<br />
 <ins>First and foremost</ins>, software design asks for "static" bare figures, which make core models. The preceding samples are more in motion ("dynamic") &mdash; they have properties and hierarchies but are more demonstrative of processes that change them.
 
 "Static" models can be altered and async too, but they must demonstratively represent hierarchies, parametrization, and initialization. 
-One of their custom implementations is available as use-dev➡️ [AbcModels](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels).
+
+The neighbor repo use-dev➡️ explores how to make these models [more flexible](https://github.com/Kyriosity/use-dev/blob/main/README+/techniques/README+/PropT_RW-Model/README.md) and implements them as in [AbcModels](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels).
 
 ---
 
@@ -114,6 +115,5 @@ However, put them all together on the mental green field of growing application 
 
 and mix them (e.g. async undo-redo,  or multi-culture as units).
 
----
-
-🔚
+\___________\
+🔚 🌕 2023-2025
