@@ -124,9 +124,7 @@ checkout bug-fix
 
 <p dir=rtl><samp>"<b>.I am the Architect</b>"</samp><br /><sup>🎦</sup><i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i>, 2003</p>
 
-*Software architecture*, whatever it means, is formalizable and veritable as a phenomenon, but not as an exercise.
-
-Contrary to the evolution of building - programming <ins>disperses the classical figure of the architect</ins> - allowing and demanding from **everybody** to **efficiently** <mark>zoom IN</mark> implementation details and <mark>zoom OUT</mark> concepts (up to top design).<sup>🔎</sup>
+Contrary to the evolution of building **programming disperses the classical figure of the architect** &mdash; allowing and demanding from **everybody** to <mark>zoom IN</mark> implementation details and <mark>zoom OUT</mark> concepts (up to top design).<sup>🔎</sup>
 
 > **This assumes neither skills parity nor full inside of each technology and methodology.**&#8287;
 > The bigger the project, the bigger the vertical&varr; and horizontal&harr; offsets of team members according to skills, talents, experience, and preferences with or without roles exchange.
@@ -170,23 +168,23 @@ from computer science`"((
 
 </details>
 
-⬅️ Let alone <mark>**DevOps**</mark>, as a separate area in software.
+⬅️ Let alone ♾️<b>D<samp>EV</samp>O<samp>PS</samp></b>♾️, as a separate software discipline.
 
-<details><summary><ins>&nbsp;.. <b>or for personal aptitudes:</b>&nbsp;</ins>  ➡️</summary>
+<details><summary><ins>&nbsp;.. <b>or for personal aptitudes:</b>&nbsp;</ins> ➡️</summary>
 
 + memorizing **big pictures** in enough detail (not general diagrams),
 + ability to **unify** and simplify logic (where it's not evident for others),
 + staying **over** (but not ignoring) known decisions, practices, and common inclinations,
-+ power to **admit** poor decisions (let alone dead-ends) on time and energy to find better and redo the work,
++ power to **admit** poor decisions and dead-ends on time and energy to find better and redo the work,
 + selecting the right **proxies** for communication on technologies,
-+ definition of **subtasks** and delegating them with minor tutelage and surveillance (let alone _micromanagement_),
++ definition of **subtasks** and delegating them with minor tutelage and surveillance (not to mention _micromanagement_),
 + authority to **reconcile** design and technological encounters/counter-opinions,
 + <ins>euphoria and frustration tolerance</ins> (for all that above).
 </details>
 
 ⬅️ ... easy to declare but hard to correspond to alone.
 
-**This makes up the software architecture** &mdash; collective vision and fusion of the best design, development, and coding from multiple inputs. Leaving as few cavities (of misconstruing and anarchy) as possible.
+**Phenomenon of software architecture** is a collective vision and fusion of the best design, development, and coding from multiple inputs. Leaving as little cavities of misconstruing and design anarchy as possible.
 
 ## but hold on...
 
@@ -203,7 +201,7 @@ Finally, salt all this with a bitter reminder that major software isn't _Pantheo
 
 \___________
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom IN/OUT</mark>" from <picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture> [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) (thrivingtechnologist.com)</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom <b>IN/OUT</b></mark>" from <picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture> [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) (thrivingtechnologist.com)</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of C#.NET in Microsoft are titled _architects_ or _leads_ but all of them show fluent coding skills at presentations.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Images credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and kyriosity</sub>
