@@ -104,11 +104,9 @@ checkout bug-fix
 
 **Ultima ratio**: slang differs.
 
-<details><summary>_________&thinsp;<b><samp>bottom line</samp></b>&thinsp;_________</summary>
+<details align="center"><summary>_________&thinsp;<b><samp>F&thinsp;L&thinsp;I&thinsp;P&thinsp;S&thinsp;I&thinsp;D&thinsp;E</samp></b>&thinsp;_________</summary>
 
-### Flipside
-
-<table><tr valign="top"><td width="50%"><picture><img alt="&nbsp;Museu_do_amanha(tripadvisor.com).jpg" src="../../../../_rsc/_img/photo/build/Museu_do_amanha(tripadvisor.com).jpg" title="&nbsp;Designed by Santiago Calatrava" /></picture><br />
+<table><tr align="left" valign="top"><td width="50%"><picture><img alt="&nbsp;Museu_do_amanha(tripadvisor.com).jpg" src="../../../../_rsc/_img/photo/build/Museu_do_amanha(tripadvisor.com).jpg" title="&nbsp;Designed by Santiago Calatrava" /></picture><br />
       <i>Museum of Tomorrow, Rio de Janeiro</i>
 <div align="right"><picture><img src="../../../../_rsc/_img/signs/arrows/back-forth_skewed_200px.jpg" alt="&nbsp;C O M P A R E"/></picture></div>
 </td><td>
