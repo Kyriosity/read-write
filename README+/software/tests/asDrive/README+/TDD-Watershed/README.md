@@ -159,7 +159,7 @@ title TDD ISie
 
 SPIN-OFFS: TESTS MULTIFEED
 
-## Wrap up <samp>`// really awaited title here`</samp>
+## Wrap up <samp>`// we deserved it`</samp>
 
 ### Advantages
 
@@ -167,7 +167,7 @@ SPIN-OFFS: TESTS MULTIFEED
 
 It needs no introduction but to stress a couple of points:
 
-+ Match personal inclinations (even of a single person depending on mood).
++ Match personal inclinations (even of a single person depending on initiative).
 + Present the concept ASAP.
 + Adjust/swap layers of logic.
 
@@ -176,6 +176,10 @@ It needs no introduction but to stress a couple of points:
 #### Team practice
 
 #### Motivation to TDD
+
+### What may be wrong
+
+SPLIT !
 
 \___________
  <div align="center">🔚 &nbsp;🌒 2024-2025  ... images: kyriosity ...</div>
