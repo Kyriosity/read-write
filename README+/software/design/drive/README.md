@@ -60,8 +60,8 @@ Many other systems are projections of rudimentary software possibilities before 
 <span title="&nbsp;Content Management System"><ins>CMS</ins></span>, <span title="&nbsp;Customer Relationship Management "><ins>CRM</ins></span>, and <span title="&nbsp;Erterpise Resource Planning"><ins>ERP</ins></span> (as SAP).
 
 <table><tr><td>☝️</td><td>
-<p><b>Reverse D&thinsp;D&thinsp;D can go on usual projects with "remake" of legacy software as archetype.</b></p>
-<p>You may recall success stories when leading edge IT platforms inspired ideas, use cases and features, which had been never discussed before and users/customers loved them .</p>
+<p><b>Reverse D&thinsp;D&thinsp;D can go on usual projects with a "remake" of legacy software as an archetype.</b></p>
+<p>You may recall success stories when leading-edge IT platforms inspired ideas, use cases, and features, that had never been discussed before and users/customers loved them .</p>
 </td></tr></table>
 
 ## Test drive
@@ -76,6 +76,8 @@ To summarize
 ### Wrap up
 
 This was a sketch, that shall be enhanced with references to live projects.
+
+## Appendix. PRACT DESIGN
 
 \___________\
 🔚 <sub> ... borrowed images credit: [The Outer Limits.The&nbsp;Mutant, 1964](https://www.imdb.com/title/tt0667845/?ref_=ttep_ep25), [FREEP1K](FREEP!K (freepik.com))</sub>
