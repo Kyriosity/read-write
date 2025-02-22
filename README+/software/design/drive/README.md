@@ -77,7 +77,11 @@ To summarize
 
 This was a sketch, that shall be enhanced with references to live projects.
 
-## Appendix. PRACT DESIGN
+## Appendix. Developer friendly design
+
+### Builder-based design
+
+🚧 ... TO WRITE ... 🚧
 
 \___________\
 🔚 <sub> ... borrowed images credit: [The Outer Limits.The&nbsp;Mutant, 1964](https://www.imdb.com/title/tt0667845/?ref_=ttep_ep25), [FREEP1K](FREEP!K (freepik.com))</sub>
