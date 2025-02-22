@@ -1,15 +1,15 @@
-# Software creation &mdash; Drives
+<h1 align="center"><samp>Software creation</samp>&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Drives</h1>
 
 What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names for approaches. Also _functional programming_ is a driven approach.
 
-<details><summary><ins>&nbsp;<b>Fancying more items on both sides of <samp>DRIVEN</samp> will scheme a grotesque gearbox&thinsp;:</b>&nbsp;</ins></summary>
+<details align="center"><summary><ins>&nbsp;<b>Fancying more items on both sides of <samp>DRIVEN</samp> will scheme a grotesque gearbox&thinsp;:</b>&thinsp;</ins>&nbsp;⬇️</summary>
 <br />
 <p align="center"><picture><img alt="&thinsp;&nbsp;&nbsp;Combinational mess of drives and driven" src="../../../_rsc/_img/illus/AllDrives.jpg"/></picture></p>
 </details>
 
 <p align="center">⬆️&thinsp;<mark><b>Let's figure out what to do with this mess...</b>&thinsp;⬇️</mark></p>
 
-## Drive and let drive
+# Drive and let drive
 
 Let's reserve individual surveys of <ins><b>&thinsp;<samp>ONE-WAY</samp> 1&thinsp;:&thinsp;1&thinsp;</b></ins> to voluminous books and techno-evangelists. They do a great job of formalization (including methodologies) and popularizing exclusive approaches, which may prevail in particular initiatives.
 
