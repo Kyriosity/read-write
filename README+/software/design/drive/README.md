@@ -20,7 +20,7 @@ The arduous trail is to draw arrows in the picture,  play with their direction, 
 \_______\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>This read isn't a doctrine now. You are free to dump it now (unless you want to spare hours of rambling in courses and books.</sub>
 
-### Your gearbox has ... <samp>REVERSE</samp>
+## Your gearbox has ... <samp>REVERSE</samp>
 
 Consider any approach's counter "rotation," regardless of how twisted it looks first. For example, _Development-Driven Tests_ are nothing else than **test coverage** (e.g. for planning and automation).
 
@@ -28,15 +28,15 @@ Consider any approach's counter "rotation," regardless of how twisted it looks f
 
 🚧🚧🚧... more EXAMPLES coming ... 🚧🚧🚧
 
-### Filter out...
+## Filter out...
 
 For any particular application, some drives will drop out themselves (like UX for DB), but not all the remaining combinations shall drive and some may be detrimental.
 
 For example, Development Driven/Crippled Design from the gross use of _Test Driven Development_.
 
-##  Domain drive
+#  Domain drive
 
-### ... for all
+## ... for all
 
 <table><tr valign="top"><td width="25%"><picture>
   <img alt="&nbsp;Snapshot of illustrated kids alphabet" src="../../../_rsc/_img/illus/freepik.com-KidsAbc.jpg" title="&nbsp;courtesy of FREEP!K (freepik.com)" />
@@ -52,7 +52,7 @@ For example, Development Driven/Crippled Design from the gross use of _Test Driv
 <p><b>D&thinsp;D&thinsp;D&thinsp;</b> is so innate that studying it is like learning the alphabet of spoken tongues. Flipped in the mirror and with deep analysis of segments.</p>
 </td></tr></table>
 
-#### R&thinsp;E&thinsp;V&thinsp;E&thinsp;R&thinsp;S&thinsp;E&nbsp; there?
+### R&thinsp;E&thinsp;V&thinsp;E&thinsp;R&thinsp;S&thinsp;E&nbsp; there?
 
 **<mark>&thinsp;Y&thinsp;e&thinsp;s&thinsp;</mark>**, remember the aphorism «_Computers solve problems that we didn't have without them_»? That's definitely about _Operating Systems_ - the product of <i><b>Hardware</b></i>+<i><b>Software</b>-Driven-Domain</i>.
 
@@ -64,22 +64,22 @@ Many other systems are projections of rudimentary software possibilities before 
 <p>You may recall success stories when leading-edge IT platforms inspired ideas, use cases, and features, that had never been discussed before and users/customers loved them .</p>
 </td></tr></table>
 
-## Test drive
+# Test drive
 
-**T&thinsp;D&thinsp;D** is the oldest, still most talked over and practiced approach and earned its own corner, no, hall&thinsp;!, in the [Tests area](../../tests).
+**T&thinsp;D&thinsp;D** is the oldest, still most talked over and practiced approach and earned its own corner, even the hall❗, in the [Tests area](../../tests).
 
-To summarize
+### To digest
 
 1) Test Driven **Development** and Test Driven **Design** are branching approaches.
 2) Tests better qualify not as drives but as tools for Driven Development and Design.
 
-### Wrap up
+## Wrap up
 
 This was a sketch, that shall be enhanced with references to live projects.
 
 ## Appendix. Developer friendly design
 
-### Builder-based design
+### Builder/Wizard-based design
 
 🚧 ... TO WRITE ... 🚧
 
