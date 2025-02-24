@@ -39,7 +39,7 @@ For example, Development Driven/Crippled Design from the gross use of _Test Driv
 ## ... for all
 
 <table><tr valign="top"><td width="25%"><picture>
-  <img alt="&nbsp;Snapshot of illustrated kids alphabet" src="../../../_rsc/_img/illus/freepik.com-KidsAbc.jpg" title="&nbsp;courtesy of FREEP!K (freepik.com)" />
+  <img alt="&nbsp;Snapshot of illustrated kids alphabet" src="../../../_rsc/_img/illus/freepik.com-KidsAbc.jpg" title="&nbsp;courtesy of FREEP!K&#013;&#010;(freepik.com)" />
 </picture><br />
 <i>Bounded Contexts</i>
 </td><td>
@@ -77,9 +77,9 @@ Many other systems are projections of rudimentary software possibilities before 
 
 This was a sketch, that shall be enhanced with references to live projects.
 
-## Appendix. Developer friendly design
+# Appendix. Developer friendly design
 
-### Builder/Wizard-based design
+## Builder/Wizard-based design
 
 🚧 ... TO WRITE ... 🚧
 
