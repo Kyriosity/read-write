@@ -1,6 +1,6 @@
-# Software - External parts
+# Software&nbsp;&nbsp;&mdash;&nbsp;&nbsp;External parts
 
-What are the cornerstones of a new big project - technologies, tools, requirements, planning, team, budget? Neither. \
+What are the cornerstones of a big new project - technologies, tools, requirements, planning, team, and budget? Neither. \
 **The fundamentals already exist and are proven concepts/components to adopt.**
 
 > This follows the universal paradigm: learn first from others.

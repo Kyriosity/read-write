@@ -1,4 +1,4 @@
-# Design - Samples
+<h1 align="center">Design&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Samples</h1>
 
 The planning and presentation of software features require a pictorial and encouraging background. We'll rely often on the next samples:\
 |- ♟️ [Chess](#chess)\
@@ -6,7 +6,7 @@ The planning and presentation of software features require a pictorial and encou
 |- 🎨 [Raster images](#raster-images)\
 |- 🧱 [Still ordinary models](#still-models)
 
-## Chess
+# Chess
 
 <p dir=rtl>Chess speaks for itself<br><i><b>Hans Moke Niemann</b>, GM, 2022</i></p>
 
@@ -44,7 +44,7 @@ Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to m
 
 ---
 
-## Math
+# Math
 
 <p dir=rtl>,If numbers aren't beautiful<br />.I don't know what is<br ><i><b>Paul Erdos</b> (1913-1996)<br />ultra-mathematician</i></p>
 
@@ -68,7 +68,7 @@ Parallelization (multi-threading) of algorithms, when applicable, tangibly speed
 
 ---
 
-## Raster images
+# Raster images
 
 <p dir=rtl>,When I am in a painting<br>.I'm not aware of what I'm doing<br><i><b>Jackson Pollock</b> (1912-1956) </i></p>
 
@@ -84,10 +84,10 @@ Actions vary from simple (flip, rotate) to highly processed retouching or effect
 
 ---
 
-## <a id="still-models">Still ordinary models
+# <a id="still-models">Still ordinary models
 
 <p dir=rtl>In some mysterious way woods have<br />
-.never seemed to me to be <mark>static</mark> things<br />
+.never seemed to me to be <b>static</b> things<br />
 ;In physical terms, I move through them<br />
 ,yet in metaphysical ones<br />
 .they seem to move through me<br />
