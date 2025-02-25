@@ -17,7 +17,7 @@ The grains of truth in this wisdom:
 * In the orthogonal  (to time) dimension a developer can't stick to a favorite syntax and must be fluent in a wide techno spectrum.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:violin:</sup> <sub>Javascript/HTML, which one learned in 2000, remains only as kernel syntax. 
-It went through numerous libs, polyfills, jQuery, and other cool tools and at the moment transformed into single-page frameworks, which rule the web dev.</sub>
+It went through numerous libs, polyfills, jQuery, and other cool tools and at the moment transformed into single-page-application frameworks, which govern the web dev now.</sub>
 
 **Escape?**
 
