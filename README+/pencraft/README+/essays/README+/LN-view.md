@@ -1,31 +1,34 @@
 # Lotus Notes&nbsp;&nbsp;&mdash;&nbsp;&nbsp;"This used to be my playground"
 
 <table><tr><td width="35%">
-<p>The multiplatform groupware <code>Lotus Notes</code><sup><mark>LN</mark></sup>, released at the turn of 1991, joined the best of computer sciences from the 1980s with <i>laissez-faire</i> IT in the 1990s and rapidly became the system of core value for companies and teams.</p>
+<p>The multiplatform groupware <code><b>Lotus Notes</b></code><sup><mark>LN</mark></sup>, released at the turn of 1991, joined the best of computer sciences from the 1980s with <i>laissez-faire</i> IT in the 1990s and rapidly became the system of core value for companies and teams.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;<sup><mark>LN</mark></sup> <sub>Henceforth also <b><i>LN</i></b>.</sub>
 </td><td width="35%">
-<picture><img alt="Lotus Notes R5 splash screen" src="https://github.com/Kyriosity/read-write/blob/main/README+/_rsc/_img/af/LotusNotesR5_SplashWin.jpg" title="splash screen of Lotus Notes R5"></picture>
+<picture><img alt="&nbsp;&nbsp;Lotus Notes R5 splash screen" src="../../../../_rsc/_img/af/LN/LotusNotesR5_SplashWin.jpg" title="&nbsp;splash screen of Lotus Notes R5"></picture>
 </td><td width="30%">
 <p>As a developer of line-of-business and corporate applications on Lotus Notes for over a decade<sup><mark>#</mark></sup>, I must have deserved the privilege of personal (Lotus) notes.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;<sup><mark>#</mark></sup> <sub>Before I cast my lot with <a href="../../../../.net">C#.NET</a>.</sub>
 </td></tr></table>
 
-IBM PC users remember (or not) that it was a time and a <b>word</b> &mdash; not Microsoft's one or WordPerfect, but\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;«<b>LOTUS</b>»,\
+IBM PC users remember (or not) that it was a time and a <b>word</b> &mdash; not Microsoft's one or WordPerfect, but ... «<b>LOTUS</b>»,&nbsp;&nbsp;&mdash; 
 a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
 
-Developers and sysadmins will remember genuine Rapid Application Development with fluent installation/evaluation<sup>🙋</sup>.
+<table><tr><td><picture><img alt="&nbsp;&nbsp;Lotus Notes R8 workspace" src="../../../../_rsc/_img/af/LN/LN-WS_snapshot(computerwoche.de).jpg" title="Screenshot of casual Lotus Notes R8 workspace&#013;&#010;(source: computerwoche.de)" /></picture></td><td>
 
-LN paved the public road to diverse innovations: client-server, multirole/group authorization, doc-oriented DB<sup>📜</sup>, __**replication**__<sup>⭐</sup>, pictograms in view columns &mdash; 
+Developers and sysadmins will remember genuine Rapid Application Development with fluent installation/evaluation<sup>🙋</sup> and leading-edge editors.
+
+LN paved the public road to diverse innovations: client-server, multirole/group authorization, distributed/synchronized doc-oriented DB<sup>📜</sup>, __**replication**__<sup>⭐</sup>, pictograms in view columns &mdash; 
 to name a few of the extraordinary goodies.
 
 There were similar suites - legacy, alternative, or tailor-made - but this aquatic flower dominated the market garden ... until Microsoft began to win its large chunks of office software.
+  
+</td></tr></table>
 
 * In 1995, <sub>[![IBM Badge](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=fff&style=for-the-badge)](#)</sub> gained Lotus in full<sup>💰</sup>.\
-It was a big chance not only to gain from sales and internal installations but also to reform at least _LN_ with the influence, know-how, and technologies of the Big Blue. 
+It was a big chance not only to gain from sales and internal installations but to reform at least _LN_ gaining on the influence, know-how, and technological capital of the Big Blue. 
 However mediocre and inaccurately focused efforts caused Lotus to wilt.<sup>🍦</sup>
 
-* In 2001 Microsoft released its "bird of a feather" - **SharePoint** - much more sophisticated and bulkier but promoting the next generation (as a product and API).\
+* In 2001, Microsoft released its "bird of a feather" - **SharePoint** - which was much more sophisticated and bulkier but promoted the next generation (as a product and API).\
 SharePoint was deprived of many inherent vices of the Lotus pioneer and gradually began to supersede _LN_ in the one-way migration. 
 
 * The bargain sale of Domino/Notes and donating the office's source code to freeware pushed out _LN_ to IT margins.
@@ -45,7 +48,7 @@ Notes had enough outdated and weak sides to surrender to the rival from Redmond 
 + **Storage as a sound object-relational model over IBM DB2**\
 Instead of enclosed and specific Notes Storage Facility (NSF)<sup>💿</sup> 
 + **Single-Page Web-Application as the only user client**<sup>🌩️</sup>\
-Akin to Angular or React, eliminating desktop premises and porting _@formula_ language to Javascript utilities
+Akin to Angular or React, eliminating desktop premises and porting _@formula_ language to JavaScript utilities
 + **Seamless UI integration of office features**\
 Either from Microsoft or those updated from Lotus<sup>🥀</sup>, in popular open formats
 + **Java as main language**<sup>☕</sup>\
@@ -57,7 +60,7 @@ Actual version as a substitute for rudimentary LotusScript
 
 **Last but not least**, top pro and liable  _Notes_ team/community to fulfill this wishlist and prevent quality degradation<sup>🙋</sup>.
 
-> <mark>Was it technically doable? <b>Sure</b>.</mark>
+> <mark>Was it technically doable? <b>Absolutely</b>.</mark>
 
 \___________
 
