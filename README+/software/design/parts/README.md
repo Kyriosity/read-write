@@ -1,10 +1,10 @@
-# Software - Big parts
+# Software&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Big parts
 
 |- **Logical division**\
-|--- [Model](README+/app-model.md)\
-|--- [View](README+/app-view.md) (presentation, "interface")\
-|--- [Between View and Model](README+/app-view_model.md)
+|-&thinsp;-&thinsp;- [M&thinsp;o&thinsp;d&thinsp;e&thinsp;l](README+/app-model.md)\
+|-&thinsp;-&thinsp;- [V&thinsp;i&thinsp;e&thinsp;w](README+/app-view.md)&nbsp;&nbsp;(presentation, "interface")\
+|-&thinsp;-&thinsp;- [Between&nbsp;&nbsp;V&thinsp;i&thinsp;e&thinsp;w&nbsp;&nbsp;and&nbsp;&nbsp;M&thinsp;o&thinsp;d&thinsp;e&thinsp;l](README+/app-view_model.md)
 
-|- [**External parts**](README+/ext_parts.md)
+|-&nbsp;&nbsp;[**E&thinsp;x&thinsp;t&thinsp;e&thinsp;r&thinsp;n&thinsp;a&thinsp;l&nbsp;&nbsp;p&thinsp;a&thinsp;r&thinsp;t&thinsp;s**](README+/ext_parts.md)
 
 |- **Storage**
