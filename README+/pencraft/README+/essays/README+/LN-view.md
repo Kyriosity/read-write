@@ -25,10 +25,10 @@ There were similar suites - legacy, alternative, or tailor-made - but this aquat
 </td></tr></table>
 
 * In 1995, <sub>[![IBM Badge](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=fff&style=for-the-badge)](#)</sub> gained Lotus in full<sup>💰</sup>.\
-It was a big chance not only to gain from sales and internal installations but to reform at least _LN_ gaining on the influence, know-how, and technological capital of the Big Blue. 
+It was a big chance not only to gain from sales and internal installations but to reform at least _LN_ leaning on the influence, and technological capital of the Big Blue. 
 However mediocre and inaccurately focused efforts caused Lotus to wilt.<sup>🍦</sup>
 
-* In 2001, Microsoft released its "bird of a feather" - **SharePoint** - which was much more sophisticated and bulkier but promoted the next generation (as a product and API).\
+* In 2001, Microsoft released its "bird of a feather" &mdash; **SharePoint** &mdash; much more sophisticated and bulkier but promoting the next generation of a product and API.\
 SharePoint was deprived of many inherent vices of the Lotus pioneer and gradually began to supersede _LN_ in the one-way migration. 
 
 * The bargain sale of Domino/Notes and donating the office's source code to freeware pushed out _LN_ to IT margins.
