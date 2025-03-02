@@ -1,4 +1,4 @@
-# Pen & Brush craft &mdash; Technical writing
+# Pen & Brush craft&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Technical writing
 
 <table width="80%" align="center"><tr></tr><tr><td>
 
