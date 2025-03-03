@@ -1,4 +1,4 @@
-# C# &mdash; Misconception and malpractice
+# `C#`&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Misconception and malpractice
 
 ## Inappropriate usage
 
