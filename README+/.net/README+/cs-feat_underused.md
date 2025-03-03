@@ -1,8 +1,8 @@
-# C# &mdash; Good sides &mdash; Underused
+# `C#`&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Good sides&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Underused
 
 Parts of C# syntax, certain features, libraries, and frameworks are preferable but often remain unrevealed.
 
-## Fresh released
+## Freshly released
 
 C# evolves swiftly with regular and rich releases, but not every developer is an early adaptor, and not every team is eager to update the breadwinning production environment.
 
@@ -37,7 +37,7 @@ With pattern matching, tuples, and `=>` replacing `break` the good old statement
 
 ## Pattern matching `switch` instead of `else if`s
 
-"Conditional rows" with patterns and `_`-matchng, "on-the-fly" tuples, and `=>` returns allow amazing tables of shortcuts.\
+"Conditional rows" with patterns and `_`-matching, "on-the-fly" tuples, and `=>` returns allow amazing tables of shortcuts.\
 It's better to see once a recent video tutorial, for example [Advanced Pattern Matching in C#](https://www.youtube.com/watch?v=W-f9MHB-5TQ)<sup><picture><img src="../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="&nbsp;Link to YouTube video" /></picture></sup>, Nov/2024.
 
 ## Predicates and delegates as arguments
@@ -121,3 +121,6 @@ There must be other useful but neglected parts, features, and syntax of C# and i
 Besides definitely underused parts there are\
 |--- [Parts in shade](parts/cs-feat_shadow.md)\
 |--- Obsolete/bad parts, features, and [malpractices](cs-malpractice.md) 
+
+\___________\
+🔚 🌙 2021-2025
