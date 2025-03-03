@@ -1,11 +1,11 @@
-# C# &mdash; Nice to have &mdash; Syntax, constructs and features
+# `C#`&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Nice to have&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Syntax, constructs and features
 
 C#.NET isn't a universal formula, and its team (counting the community) doesn't possess unbounded resources. However, this platform could offer extra features and foundations, which would only boost its charm.
 
 ## More common interfaces
 
 The general interface defines members like `Count`, `Clone()`, `Equals()`, `CompareTo()`, which developers are eager to apply to their codes too.\
-However much more remains uncovered, e.g. Max/Min for limiting collections and object size.
+However, much more remains uncovered, e.g. Max/Min for limiting collections and object size.
 
 Other promising members (like `IsReadOnly`) are defined within specific interfaces.
 
