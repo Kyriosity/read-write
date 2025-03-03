@@ -1,4 +1,4 @@
-# C# &mdash; <samp>from everyday praxis</samp> &mdash; Hints
+# `C#`&nbsp;&nbsp;&mdash;&nbsp;&nbsp;<samp>from everyday praxis</samp>&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Hints
 
 ## Syntactic reminder
 
