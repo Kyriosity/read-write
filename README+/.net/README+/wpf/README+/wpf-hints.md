@@ -1,4 +1,4 @@
-# WPF &mdash; from praxis &mdash; Hints
+# WPF&nbsp;&nbsp;&mdash;&nbsp;&nbsp;from praxis&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Hints
 
 [![C#](https://custom-icon-badges.demolab.com/badge/WPF-keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white&color=tomato)](#)
 
