@@ -1,4 +1,4 @@
-<h1 align="center"><samp>Software creation</samp>&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Drives</h1>
+<h1 align="center"><samp>SOFTWARE CREATION</samp>&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Drives</h1>
 
 What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names for approaches. Also _functional programming_ is a driven approach.
 
@@ -30,7 +30,7 @@ Consider any approach's counter "rotation," regardless of how twisted it looks f
 
 ## Filter out...
 
-For any particular application, some drives will drop out themselves (like UX for DB), but not all the remaining combinations shall drive and some may be detrimental.
+For any particular application, some drives will drop out themselves (like UX for DB), but not all the remaining combinations will drive, and some may be detrimental.
 
 For example, Development Driven/Crippled Design from the gross use of _Test Driven Development_.
 
@@ -43,7 +43,7 @@ For example, Development Driven/Crippled Design from the gross use of _Test Driv
 </picture><br />
 <i>Bounded Contexts</i>
 </td><td>
-<p>If <i>domain-driven</i> is a distinct approach there must be alternatives without that. And I <b>doubt there are</b>...</p>
+<p>If <i>domain-driven</i> is a distinct approach, there must be alternatives without that. And I <b>doubt there are</b>...</p>
 <p></p>Software as a phenomenon abstracts domains, explicitly or implicitly, nothing else. Domain Drive is a permanent force (like gravitation of abstractions).</p>
 <p>One of the motives and benefits of object-oriented design is that it directly maps to domains, though one may break it with wrong and overladen hierarchies and bad naming.</p>
 <blockquote><p>DDD-tempered code is adverse to names such as <code>utility</code>, <code>service</code>, <code>handler</code>, or <code>data</code> (unless these are conventions of platforms/frameworks).</p></blockquote>
@@ -73,15 +73,15 @@ Many other systems are projections of rudimentary software possibilities before 
 1) Test Driven **Development** and Test Driven **Design** are branching approaches.
 2) Tests better qualify not as drives but as tools for Driven Development and Design.
 
-## Wrap up
-
-This was a sketch, that shall be enhanced with references to live projects.
 
 # Appendix. Developer friendly design
 
 ## Builder/Wizard-based design
 
 🚧 ... TO WRITE ... 🚧
+
+Example:\
+|- use-dev➡️ [Wizard blocks](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/WizConstr/README.md)
 
 \___________\
 🔚 <sub> ... borrowed images credit: [The Outer Limits.The&nbsp;Mutant, 1964](https://www.imdb.com/title/tt0667845/?ref_=ttep_ep25), [FREEP1K](FREEP!K (freepik.com))</sub>
