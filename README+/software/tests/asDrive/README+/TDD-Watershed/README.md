@@ -138,7 +138,7 @@ The course will also unveil tasks of higher or parallel level but they will be e
 
 \___________</b></details>
 
-<h3 align="center">So sophisticated and idealistic? Neither!</h3>
+<h3 align="center">⬆️ So sophisticated and idealistic? Neither! ⬇️</h3>
 
 <h2 id="TDD-ISie" align="center">Reconcile by example: TDD ⭐I&thinsp;S&thinsp;<samp>I&thinsp;E</samp>⭐</h2>
 
