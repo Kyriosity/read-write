@@ -1,4 +1,4 @@
-# WPF &mdash; Drawbacks and lacks
+# WPF&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Drawbacks and lacks
 
 WPF is a stable, modern and so far popular platform, alive and well off despite numerous sad prognoses.
 
@@ -7,7 +7,7 @@ It remains the number one choice for new desktop applications (of any scale), ye
 ## "WPF 2.0"
 
 The wide use of WPF from 2006 has accumulated vast expertise, feedback, critique (naming), and [proposals](https://github.com/dotnet/wpf/discussions)<sup>:octocat:</sup>. 
-Microsoft resources allow its professionals to transform them into a breaking cutting-edge version of the subsystem - not on the horizon in 2024.
+Microsoft resources allow its professionals to transform them into a breaking, cutting-edge version of the subsystem - not on the horizon in 2024.
 
 Microsoft and the .NET team were more than busy with cross-platform, Web, and mobile solutions, .NET Core, but losing focus on a mainstream product (since it's all right and running) invites competitors to push it away.<sup>🥀</sup>
 
