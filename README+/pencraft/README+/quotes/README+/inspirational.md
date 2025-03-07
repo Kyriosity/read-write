@@ -162,7 +162,9 @@ _Sam Bankman-Fried_, FTX cofounder, [only Zuck has been this rich young](https:/
 
 #### Rites against refactoring
 
-<table><tr><td><a href="../../../../_rsc/_img/photo/blog/air/Zeppelin_Bodensee.jpg"><img alt="&nbsp;Zeppelin over Bodensee" width="100px" src="../../../../_rsc/_img/thumbs/Bodensee_Zeppelin-200px.jpg"></picture></td><td>
+<table><tr><td><a href="../../../../_rsc/_img/photo/blog/air/Zeppelin_Bodensee.jpg">
+  <img alt="&nbsp;Zeppelin over Bodensee" title="&nbsp;Zeppelin over Bodensee" width="100px" src="../../../../_rsc/_img/thumbs/Bodensee_Zeppelin-200px.jpg"></picture>
+</td><td>
   <blockquote><b>Somewhere it's better to curse in the darkness <br />than to light a single candle.</b><br />
 (Attributed to <i>Ferdinand von Zeppelin</i> or <i>von Hindenburg</i>)</blockquote>
 </td></tr></table>
@@ -239,7 +241,10 @@ _Steve Maguire_, programmer and author
 #### Recent
 
 > **I find it very odd. I’m a fairly private person who just sits in front of the computer and hacks on code.**\
-_Andres Freund_, a programmer who occasionally prevented the ["century" cyberattack](https://en.wikipedia.org/wiki/XZ_Utils_backdoor), in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html">NYT inteview</a>, 2024.
+_Andres Freund_, a programmer who occasionally found out the [XZ Utils backdoor](https://en.wikipedia.org/wiki/XZ_Utils_backdoor),
+in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html">NYT inteview</a>, 2024.<sup>🙋</sup>
+
+<sup>🙋</sup> <sub>Hyperbolized by media to a "century cyberattack" though even being smartly and longly planned it couldn't infiltrate all distributions and required many conditions to coincide.</sub>
 
 \_________________________________</details>
 
