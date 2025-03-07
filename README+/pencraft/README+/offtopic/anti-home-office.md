@@ -30,6 +30,7 @@
 
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/ElbeHafen.jpg" width="300" title="&nbsp;Dockers, containers&#013;&#010;&nbsp;(Elbe, Hafen)" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/mount/DevVsMonolyth.jpg" width="300" title="&nbsp;Development created this monolyth&#013;&#010;&nbsp;(Alter Schwede, 217t)" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Main-Donau_highPt.jpg" width="300" title="&nbsp;Main-Danube Canal" /></span>
 
 ## Public spots
 
