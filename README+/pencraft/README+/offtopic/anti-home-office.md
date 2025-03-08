@@ -8,6 +8,7 @@
 
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/A320-dim_cabin.jpg" title="&nbsp;Airbus A320" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/NUE-Atlas_747.jpg" title="&nbsp;Boeing 747-422 (Atlas Air) landing in the NUE airport" width="300"/></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/747-NUE_South_March.jpg" title="&nbsp;Boeing 747-422 (Atlas Air) landing in the NUE airport" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/NUE.2024-WtoE.jpg" title="&nbsp;West-East landing in the NUE airport" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/NUE-Hall_west.jpg" title="&nbsp;NUE Airport, crowded secured zone in rush hours" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/NUE/NUE-brougham.jpg" title="&nbsp;Shuttles at the NUE airport" width="300"/></span>
