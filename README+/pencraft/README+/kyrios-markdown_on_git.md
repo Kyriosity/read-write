@@ -5,7 +5,7 @@
 <sub>[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)</sub> is lightweight to learn and use, 
 with plenty of guides and cheat sheets for advanced techniques. This markup and its dialects were never designed to provide rich content.
 
-GitHub alone doesn't render its own site in markdown or a flavor despite the role of built-in and primary documentation means.
+Despite assigning it the role of built-in and primary documentation, GitHub alone doesn't render its site in markdown or a flavor.
 
 <table align="center"><tr></tr><tr><td><b>For a reason to try</b> <samp>markdown</samp> <b>beyond a moderately formatted text, here is my ounce of teaching</b> illustrated by this repository.</td></tr></table>
 
@@ -56,7 +56,7 @@ Next:
 
 ### Pictures
 
-+ That's nothing bad with including images in documents but their size. Also, markdown on Git won't support goodies like linkable picture areas or images in pop-ups.
++ That's nothing bad with including images in documents, but their size. Also, markdown on Git won't support goodies like linkable picture areas or images in pop-ups.
 
 ### Pictograms / Symbols
 
@@ -68,8 +68,10 @@ Review [HTML symbols](https://www.w3schools.com/charsets/ref_html_symbols.asp)<s
 
 #### Remarks
 
-<p>⚠️ Browsers may show some pictograms differently. Find out diffs on this snapshot:</p>
-<p><a href="essays/README+/AI-2020s.md#evidence"><img alt="&nbsp;string of emojis presented different" src="../../_rsc/_img/snap/screen/emojis_diff-browsers.jpg" title="&nbsp;Click to see how it looks in yours" /></a></p>
+> [!WARNING]
+> Browsers may show some pictograms differently. Find out the diffs on this snapshot:
+> 
+> <a href="essays/README+/AI-2020s.md#evidence"><img alt="&nbsp;string of emojis presented different" src="../../_rsc/_img/snap/screen/emojis_diff-browsers.jpg" title="&nbsp;Click to see how it looks in yours" /></a>
 
 ### Miscellany
 
@@ -79,11 +81,11 @@ Keep in mind inherently supported `code snippets` with `diffs`, [math expression
 
 HTML elements are in play even for the purest text: markdown has neither non-breaking space nor a hyphen.
 
-The richer the content the more HTML you will use. The use of HTML is inevitable in cells of `<table>`<i>s</i>.
+The richer the content, the more HTML you will use. The use of HTML is inevitable in cells of `<table>`<i>s</i>.
 
 ## Tips, and advice
 
-Advice Nr&thinsp;1 is **don't even try to hack git markdown**. Even if you manage to style some stuff one day Git may sweep it out.
+Advice Nr&thinsp;1 is **don't even try to hack git markdown**. Even if you manage to style some stuff one day, Git may sweep it out.
 
 Besides symbols, the best HTML pals of markdown writers are
 
@@ -94,11 +96,11 @@ Besides symbols, the best HTML pals of markdown writers are
 ### Fancy footnotes
 
 Numbered footnotes are academic and convenient but a number itself won't tell much about its subject (when separated by enough content). Mnemonic superscript references are eye-catching<sup>🙋</sup>.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>You can invent your footnotes vocabulary, as I use _raising hand_ to express the own opinion.
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>You can invent your footnotes vocabulary, as I use _raising hand_ to express my opinion.</sub>
 
 ### Links suffixes
 
-Named links are overall practice but they distract. You may hint that a URL goes **outside**: [Docs as code](https://www.writethedocs.org/guide/docs-as-code/)<sup>🔗</sup>. 
+Named links are practiced overall, but they can distract. You may hint that a URL goes **outside**: [Docs as code](https://www.writethedocs.org/guide/docs-as-code/)<sup>🔗</sup>. 
 Next, narrow mnemonics to hint on frequently referred resources, like:\
 [Reactive programs](https://en.wikipedia.org/wiki/Reactive_programming)<sup><b>w</b></sup>,&nbsp;&nbsp;
 [Trending C#](https://github.com/trending/c%23)<sup>:octocat:</sup>,&nbsp;&nbsp;
