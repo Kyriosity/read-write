@@ -66,8 +66,6 @@ To my knowledge, the only exception (inserted by code only) is a dozen of Git's 
 
 Review [HTML symbols](https://www.w3schools.com/charsets/ref_html_symbols.asp)<sup>🔗</sup> as a great enhancement of selections.
 
-#### Remarks
-
 > [!WARNING]
 > Browsers may show some pictograms differently. Find out the diffs on this snapshot:
 > 
