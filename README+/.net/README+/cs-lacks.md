@@ -153,7 +153,7 @@ Guid Register(int attempt, [Name.Western], byte age) { ... }
 Fine-granulated interfaces and their multi-inheritance into more substantial belong to sound design practices.
 
 Another story is a combination of primitive (or feature) interfaces as options for casting or *builders*.\
-Suppose, there're `ILimited`, `ITimestamped`, and `INotifyPropertyChanged` which combinations imply 2<sup>3</sup> nominal declarations. And what if this could be done with `<IInterfaceA, IInterfaceB[, IInterfaceC[, ...]]>`
+Suppose there are `ILimited`, `ITimestamped`, and `INotifyPropertyChanged`, which combinations imply 2<sup>3</sup> nominal declarations. And what if this could be done with `<IInterfaceA, IInterfaceB[, IInterfaceC[, ...]]>`
 
 <details>
 <summary><ins>&nbsp;Interface conjunction - <b>Design sketch&nbsp;</ins></b></summary>
@@ -179,8 +179,14 @@ void Planning.Capacity.Register(<ILoadSpecs, IPassengerConfig> transport) { ... 
 
 Such a feature will be useful also for run-time object composition.
 
+### Builders / Wizards
+
+Intuitive supply of syntax in chained calls (for code completion) is one of the best programming techniques. 
+`C#` could provide out-of-the-box templates for builders and wizards boiling down custom projects (as my attempted [WizConstr](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/WizConstr)).
+
+
 <ins>&nbsp;**More nice-to-have:**&nbsp;</ins>\
 |- [Parts and frameworks](parts/cs-lacks-parts.md)\
 |- [WPF lacks](wpf/README+/wpf-drawbacks.md)
 
-🔚 🌓 2022-2025
+🔚 🌓 2021-2025
