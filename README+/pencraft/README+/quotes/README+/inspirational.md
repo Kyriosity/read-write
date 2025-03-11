@@ -8,12 +8,12 @@
 ― _Marcus Tullius Cicero (106-43 BC)_\
 <sub>[Compiler too]</sub>
 
+> **Write what you know.**\
+― _Mark Twain (1835-1910)_
+
 > **There's no such freak who wouldn't find a mate and there's**\
 **no such nonsense that won't find a proper reader.**\
 ― _Anton Chekhov (1860-1904)_, "Rules for novice writers"
-
-> **Write what you know.**\
-― _Mark Twain (1835-1910)_
 
 > **_If you could know in what a dirty drain_**\
 > **_The verse does grow without knowing shame,_** ...\
@@ -25,7 +25,7 @@
 **And so I invented the Monospace.**\
 ― _George Williams_ (*assumed)
 
-<p dir="rtl"><b>!Gimme that torch, and FAST</b><br /><i>Ray Bradbury (1920-2012)</i><br />about the <i>Twilight</i> novels (*assumed)</p>
+<p dir="rtl"><b>!Gimme the torch, FAST</b><br /><i>Ray Bradbury (1920-2012)</i><br />reading the <i>Twilight</i> novels (*assumed)</p>
 
 \_________________________________</details>
 
