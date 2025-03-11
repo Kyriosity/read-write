@@ -1,5 +1,8 @@
 # Code&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Comments
 
+<p align="right">Compilers don't read comments (or design documents) <br/>and neither do many programmers (consistently).<br />
+<a href="https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#p1-express-ideas-directly-in-code">C++ Core Guidelines</a></p>
+
 <p dir="rtl">,<i>When you feel the need to write a comment<br />first try to refactor the code so that<br />.any comment becomes superfluous</i><br />
  <a href="../../../pencraft/README+/quotes/README+/contributors/README.md#Kent-Beck">Kent Beck</a>, "Refactoring", <b><i>1999</i></b></p>
 <p align="right">___________</p>
@@ -22,9 +25,9 @@ Accompanied by info and copyright<sup>©️</sup> headers and footers.
 ## ❗Breaking exclusion &mdash; Nota bene
 
 Some members require clarification, e.g. _natural number_ **may** include zero. A name may specify it (`IsNaturalNonzero` / `IsNaturalOrZero`). 
-This can't be a solution for cases such as `RemovePunctiation()`: what symbols exactly, shall include `«»»` (guillemets), is `_` punctuation, ...?
+This can't be a solution for cases such as `RemovePunctiation()`: what symbols exactly shall include `«»»` (guillemets), is `_` punctuation, ...?
 
-Tests shall fragment distinctions but are not comfy for hints and unavailable through API, services, or, generally speaking, interfaces.
+Tests shall fragment distinctions but are not comfortable for hints and unavailable through API, services, or, generally speaking, interfaces.
 
 > **The comment docu can be necessary to appear as a hint.**
 
