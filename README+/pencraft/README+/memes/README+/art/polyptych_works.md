@@ -2,7 +2,7 @@
 
 [![Cooked up metaphors](https://img.shields.io/badge/Cooked%20up-metaphors-8CA1AF?logo=readthedocs&logoColor=fff)](#)
 
-## Intro &mdash; Diptych
+## Intro&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Diptych
 
 <table align="center"><tr valign="center" align="center"><td><b>¯\_(ツ)_/¯</b></td><td><b>☁️ ¯\_(ツ)_/¯ ☁️</b></td>
 </tr><tr align="center">
@@ -10,7 +10,7 @@
   <td><b><samp>IT WORKS</samp></b><br />in my cloud</td>
 </tr></table>
 
-## Triptych &mdash; Work Tenses
+## Triptych&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Work Tenses
 
 <table align="center"><tr></tr><tr align="center"><td>PAST <b>PERFECT</b></td><td>PRESENT <b>SIMPLE</b></td><<td><b>FUTURE</b> SIMPLE</td></tr>
   <tr valign="center" align="center">
