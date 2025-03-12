@@ -84,7 +84,7 @@ Actions vary from simple (flip, rotate) to highly processed retouching or effect
 
 ---
 
-# <a id="still-models">Still ordinary models
+# <a id="still-models">Still ”static“ models
 
 <p dir=rtl>In some mysterious way woods have<br />
 .never seemed to me to be <mark>static</mark> things<br />
@@ -98,7 +98,7 @@ ___________<br />
 
 "Static" models can be altered and async too, but they must demonstratively represent hierarchies, parametrization, and initialization. 
 
-The neighbor repo use-dev➡️ explores how to make these models [more flexible](https://github.com/Kyriosity/use-dev/blob/main/README+/techniques/README+/polymorphism+/) and implements them as in [AbcModels](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels).
+The neighbor repo use-dev➡️ explores how to make these models [more flexible](https://github.com/Kyriosity/use-dev/blob/main/README+/techniques/README+/polymorphism+/README+/prop_shift.md) and implements them as in [AbcModels](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels).
 
 ---
 
