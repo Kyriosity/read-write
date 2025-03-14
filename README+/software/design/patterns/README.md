@@ -2,8 +2,10 @@
 
 The famed vision of code constructs as [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)<sup><b>w</b></sup> has spread over software templates, project solutions, methodologies, and even developers' manners, but let's stay on its initial meaning.
 
-As the growth of hardware instruction sets pushed abstractions to the next level, clever programmers spotted useful code patterns to follow and recommend. 
-In the 1970s-1990s they were augmented, systematized, and popularized - the most admitted of them became dogmatic and featured in languages/frameworks.
+> [!NOTE]
+> As the growth of hardware instruction sets pushed abstractions to the next level, clever programmers spotted useful code patterns to follow and recommend.
+> 
+> In the 1970s-1990s, they were augmented, systematized, and popularized &mdash; the most admitted of them became dogmatic and featured in languages/frameworks.
 
 :construction: ... TO BE CONTINUED with samples ...:pencil2:
 
@@ -30,12 +32,13 @@ Custom/personal (nick)names for established patterns aren't a good way unless it
 
 ## Conclusion
 
-Keen developers will intuitively follow design patterns even if they are unaware of them. However, learning is essential to keep rational thinking, know recent, and use proper names and signatures.
+**Keen developers will intuitively follow design patterns even if they are unaware of them.** However, learning is essential to keep rational thinking, know the recent, and use proper names and signatures.
 
+\___________\
 **Going further:**\
 |- [**Patterns** thru **techniques**](https://github.com/Kyriosity/use-dev/tree/main/README+/techniques) ➡️ (_use-dev_)
 
-|- Design principles and methodlogies\
+|- Design principles and methodologies\
 |--- [reviewed SOLID](../../../pencraft/README+/essays/README+/contraSOLID.md) 🚧
 
-🔚
+🔚 2025
