@@ -1,7 +1,7 @@
-# Software &mdash; Quality Assurance (QA)
+# Software&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Quality Assurance (QA)
 
 <table><tr valign="top"><td width="42%">
- <p>Software is pure abstraction ether.</p>
+ <p>Software is an abstraction ether.</p>
  <p>Frivolous, fleeting, and exponential spirit makes the programming inherently and largely</p>
  <div align="center"><b><samp>E&thinsp;R&thinsp;R&thinsp;O&thinsp;R&thinsp;-&thinsp;p&thinsp;r&thinsp;o&thinsp;n&thinsp;e</samp></b></div>.
 </td><td><picture><img alt="&nbsp;Bug &amp; Compass" src="../../_rsc/_img/signs/bugs/bug_in_flask-pencil-250px.jpg" /></picture></td><td width="42%">
@@ -52,12 +52,12 @@ Experience in
 + tools (as a platform and programming language),
 + fails and retreats (also of others).
 
-When security risks are a concern other approaches for hacking vulnerability come into play (and devs aren't writing code in a criminal-minded mode).
+When security risks are a concern, other approaches for hacking vulnerabilities come into play (and devs aren't writing code in a criminal-minded mode).
 Protrude this statement to all other cases where IT pundits don't have all the expertise to test the domain.
 
 ## In process
 
-<table><tr><td><picture><img width="250px" alt="&nbsp;Drake helps Lil Yachty with laptop (&quot;Life Is Good&quot;)" title="&nbsp;Drake helps Lil Yachty with laptop (&quot;Life Is Good&quot;)" src="../../_rsc/_img/memes/Drake_LilYachty-LifeIsGood_laptop.jpg" /></picture></td><td>
+<table><tr><td><picture><img width="250px" alt="&nbsp;Drake helps Lil Yachty with laptop (&quot;Life Is Good&quot;)" title="&nbsp;Drake helps Lil Yachty with laptop&#013;&#010;(&quot;Life Is Good&quot;)" src="../../_rsc/_img/memes/Drake_LilYachty-LifeIsGood_laptop.jpg" /></picture></td><td>
  <p>These are continuous measures within teams:</p>
  <ul>
   <li>Code reviews, pair programming, friendly discussions, and lessons.</li>
@@ -80,13 +80,13 @@ _Tests_ and _Testing_ are a CENTERPIECE of QA and <ins>&thinsp;w&thinsp;i&thinsp
 
 Opening this page was your manual test. 
  
-Unlike the olden days with blind commits of punchcards and tapes most development allows one to evaluate its product (in whole or by feature) with every step and at time: just build and run.
+Unlike the olden days with blind commits of punchcards and tapes, most development allows one to evaluate its product (in whole or by feature) with every step and at time: just build and run.
 
 Responsible developers are the primary, most prepared, most effective, and critical testers.
 
 ### Programmatic tests
 
-Executable code routines - are the biggest cornerstone of modern QA. Automation of their run - fundament of continuous quality and safety.
+Executable code routines - are the biggest cornerstone of modern QA. Automation of their run - a fundamental of continuous quality and safety.
 
 \___________\
 :end: ... continued in ...  [Errors](README+/errors/)  .&thinsp;.&thinsp;.  [Code quality](README+/code-quality.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [Tests for QA](../tests/asQA/) &nbsp;...&nbsp; [Pitfalls](README+/QA-pitfalls.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [TDD](../tests/asDrive)
