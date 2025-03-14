@@ -24,15 +24,19 @@ Sticking to the narrowed vocabulary, repetitions, and cliches are benefactors in
 Regardless of mission, significant writing is an expensive and exhausting exercise. If not a hobby or bondage, it must:
 
 + [x] have a live eager auditorium,
-+ [x] exceed other ways of teaching\
-(consider quickly sketched presentation, captured video tutorial, or even watercooler talks),
++ [x] exceed other ways of teaching,\
+(consider quickly sketched presentation, captured video tutorial, or even watercooler talks)
 + [x] be long-term (updated and evolved).
 
 ## Vital side effects
 
+<table><tr><td><picture><img alt="&nbsp;Mango fruit" src="../_rsc/_img/photo/nat/mango/red_on_bk-500px.jpg" width="200px"/></picture></td><td>
+
 Documenting/sketching ideas for even small features mitigates the impedance between the stretch of imagination and implementation reality. 
 
 Namely, formalization and structuring compel us to reexplore and examine concepts, enhance good sides, remake the bad, and reject unrealistic or meaningless stuff. 
+  
+</td></tr></table>
 
 ## Appendix. Personal disclaimer
 
