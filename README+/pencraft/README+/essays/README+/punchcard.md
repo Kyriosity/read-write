@@ -1,4 +1,4 @@
-# Punched cards&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Once upon a time
+<h1 align="center">Punched cards&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Once upon a time</h1>
 
 > **Guaranteed to be authentic** &mdash; not another paraphrase of [wiki articles](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup><b>w</b></sup>
 
@@ -14,7 +14,7 @@ It was long after the decline of the punching technology and its carton carrier 
                         
 ## The Task
       
-It was an exercise in PL/I&nbsp;<sup>🔢</sup> &mdash; output a curve of an assigned function (some $`ax^2 + bx + c`$ was mine). And the <i>output</i> meant <b>direct to the line printer</b> using teletype symbols for <samp>X/Y</samp> axes and the graph.
+It was an exercise in PL/I&nbsp;<sup>🔢</sup> &mdash; output a curve of an assigned function (a variant of $`ax^2 + bx + c`$ was mine). And the <i>output</i> meant <b>direct to the line printer</b> using teletype symbols for <samp>X/Y</samp> axes and the graph.
 
 Believe it or not, this story had no electronic display.
 
@@ -25,7 +25,7 @@ Believe it or not, this story had no electronic display.
 
 ## Carton in, paper out
 
-It amazes me, in this day and age, what barely agile steps it took:
+The moves the task took were hardly agile even for its time:
 
 &nbsp;&nbsp;<b>1️)</b> Come up with a _programme_ and sketch it in the dedicated notebook (the paper one).<br />
 &nbsp;&nbsp;<b>2️)</b> Fill in a lined paper form with procedural statements.<sup>🥪</sup><br />
@@ -39,7 +39,7 @@ It amazes me, in this day and age, what barely agile steps it took:
 &nbsp;&nbsp;<b>7)</b>  Search for a graph among collateral outputs.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If fail, read errors, debug (mentally), and go to <b>(2)</b>.
 
-The motivation was so strong (as you might feel) that many succeeded in the first approach but not me.
+The motivation was so strong (as you might feel) that many succeeded in the first approach, but not me.
 
 Between **(4)** and **(5)** a fellow disciple intruded: shuffling my deck unnoticed. Instead of the graph, I got bad (machine) language printed and a lesson learned about data integrity and security.
 
@@ -51,7 +51,7 @@ Between **(4)** and **(5)** a fellow disciple intruded: shuffling my deck unnoti
 
 <h1 align="right">Extramural afterword</h1>
 
-My mediocre story is a chance to remind the reader of the outstanding traits of this medium, &mdash; 
+This mediocre story is a chance to remind the reader of the outstanding traits of this medium, &mdash; 
 despite its fast decadence predetermined by data density (it couldn't get either mini/micro or double side next).
 
 I venture to propose punch cards as a backup if computer illiteracy ages come<sup>📚</sup> or for extraterrestrial spam<sup>🚀</sup>. And that's why:

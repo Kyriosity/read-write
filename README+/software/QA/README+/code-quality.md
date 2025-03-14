@@ -1,16 +1,16 @@
 <p dir="rtl">,Junior developer writes poor code<br/>
 ,advanced one - good code<br/>
-,expert writes no code<br/>
+,experts write no code<br/>
 guru deletes code<br/></p>
 <p dir="rtl"><i>Anonymous</i></p>
 
 # `Code` Quality 
 
-<table><tr valign="top"><td width=30%>
+<table><tr></tr><tr valign="center"><td width=30%>
   <picture><img src="../../../_rsc/_img/photo/misc/pour_concrete.jpg" alt="&nbsp;pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
 </td><td>
-<p>Code is the <b>cement</b> of software. Its quality is imperceptible for spectators and doesn't matter much for booths.</p>
-<p>Still, it ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions — poor quality, as in buildings, leads to menacing cracks.</p>
+<h3>Code is the <mark>cement</mark> of software. Its quality is imperceptible for spectators and doesn't matter much for booths.</h3>
+<h3>Still, it ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions — poor quality, as in buildings, leads to menacing cracks.</h3>
 </td></tr></table>
 
 ## High-quality code
@@ -68,12 +68,12 @@ _Errare humanum est_, and quality code allows one to focus tests on ...
 
 With all that said, why does flawed code prevail and _clean code_ migrate to buzzwords? 
 
-1. Poor-quality code is written much faster, cheaper, and without heated debates<sup>🥴</sup>. And as it does the job counter-arguments fade.
-2. Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup> as well as exponentially growing issues from bad software parts. The point when controllable chaos goes out of control, or a security breach opens may be crucial but lay far in the next releases.<sup>:parachute:</sup>
-3. Intention for quality is good but if efforts aren't complete then still deficient code will come with a massive overhead. 
+1. Poor-quality code is written much faster, cheaper, and without heated debates<sup>🥴</sup>. And as it does the job, counter-arguments fade.
+2. Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup> as well as exponentially growing issues from bad software parts. The point when controllable chaos goes out of control, or a security breach opens, may be crucial but will lay far in the next releases.<sup>:parachute:</sup>
+3. Intention for quality is good, but if efforts aren't complete, deficient code will still come with a massive overhead. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🥴</sup>&nbsp;<sub>Provided one doesn't bother with [development] principles.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family_man_woman_boy_boy:</sup>&nbsp;<sub>Customers, developers, tester, users and project organizers.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family_man_woman_boy_boy:</sup>&nbsp;<sub>Customers, developers, testers, users, and project organizers.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:parachute:</sup>&nbsp;<sub>When its originators may be safely on other projects, leaving the headache to others.</sub>
 
 Top up with the fact that not every developer self-reflects on "submit and forget" doing, and not every project management will draw a golden section between profanity and academism. 
@@ -85,7 +85,7 @@ Apart from environments where seeds of good code won't bloom<sup>:wilted_flower:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:wilted_flower:</sup>&nbsp;<sub>Budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:desert:</sup>&nbsp;<sub>Prototypes, stand-alone auxiliaries, temporary solutions.</sub>
 
-Besides _classical_ over-creativity and procrastination the reasons could be:
+Besides _classical_ over-creativity and procrastination, the reasons could be:
 
 + overweight of formal processes at the expense of design and communication,
 + "egocentrism": low feedback (code review, pair programming, coaching) and reluctance to learn (especially from critique),
