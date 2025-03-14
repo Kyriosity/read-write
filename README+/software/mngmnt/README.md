@@ -1,4 +1,4 @@
-# Code, Dev, and Docu &mdash; Management &mdash; Digest
+# Code, Dev, and Docu&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Management&nbsp;&nbsp;&mdash;&nbsp;&nbsp;<em>Digest</em>
 
 The exponential (and chaotic) growth of software projects in the 2000s founded the "parallel" realm of their organization: requirements/issue tracking, code collecting/versioning, collaboration tools, deployment services, and project management.
 
