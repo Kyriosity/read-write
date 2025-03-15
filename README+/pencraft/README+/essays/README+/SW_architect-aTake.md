@@ -32,7 +32,7 @@ but to quickly define operating wholes rather than ripen aesthetic values.
 
 🔋 Both must accumulate mainstream and alternate practices and reveal patterns.
 
-💥 Imperfect abstraction and planning can make both a mess which products loudly crash.
+💥 Imperfect abstraction and planning can make both a mess, which products loudly crash.
 
 🎈 Abuse of both for hollow promises and sandcastles is more frequent than in other industries.
 
@@ -124,9 +124,12 @@ checkout bug-fix
 
 Contrary to the evolution of building **programming disperses the classical figure of the architect** &mdash; allowing and demanding from **everybody** to <mark>zoom IN</mark> implementation details and <mark>zoom OUT</mark> concepts (up to top design).<sup>🔎</sup>
 
+> [!WARNING]
+> 
 > **This assumes neither skills parity nor full inside of each technology and methodology.**&#8287;
 > The bigger the project, the bigger the vertical&varr; and horizontal&harr; offsets of team members according to skills, talents, experience, and preferences with or without roles exchange.
-> <div align="center">( &varr; between coding and design; &harr; within the technologies stack)</div>
+> <p align="center">( &varr; between coding and design; &harr; within the technologies stack)</p>
+> <p>The "best" recipe of mashed design (puree) is to smear nitty-gritty over all development heads.</p>
 
 <details><summary><ins>&nbsp;<b>"Architect" is often an alias or catch-all term for good known roles and duties:</b>&nbsp;</ins> ➡️</summary>
 
