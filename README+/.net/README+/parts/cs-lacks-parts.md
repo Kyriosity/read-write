@@ -1,6 +1,6 @@
-# C# &mdash; Nice to have &mdash; Parts and frameworks
+# `C#` &nbsp;&nbsp; &mdash; &nbsp;&nbsp; <samp>Nice to have</samp> &nbsp;&nbsp; &mdash; &nbsp;&nbsp; Parts and Frameworks
 
-Along with [nice-to-have syntax/features](../cs-lacks.md) there are some bigger blocks of ideational `C#`.
+Along with [nice-to-have syntax/features](../cs-lacks.md) there are some bigger blocks of _ideational_ `C#`.
 
 ## Testing
 
@@ -73,12 +73,12 @@ However
 - this reinvents the wheel,
 - there are other forms of grammatical numbers besides plurals,
 - numbering is only a share of grammatical agreements in every single tongue,
-- linguistics requires competence in more than in a pair of language families.
+- linguistics requires competence in more than a pair of language families.
 
 And what if .NET foundation classes could:
 - neatly formulate declensions, conjugation, and other formations,
 - define constants for unfamiliar forms of loanwords (greek, Latin u.a.),
-- revise habitual [`CultureInfo`](https://docs.microsoft.com/en-us/dotnet/api/system.globalization.cultureinfo) (classify tongue families and default agreements)
+- revise habitual [`CultureInfo`](https://docs.microsoft.com/en-us/dotnet/api/system.globalization.cultureinfo)<sup>🪟</sup> (classify tongue families and default agreements)
 
 And, not least, add syntax sugar like
 
@@ -96,7 +96,7 @@ And, not least, add syntax sugar like
 
 ### Classification and attributes
 
-The custom use-dev➡️ [⭐ISie⭐](https://github.com/Kyriosity/use-dev/blob/main/README%2B/parts/_ext/README%2B/ISie.md) demanded me to make fast [AbcLingua](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/Abc/Lingua) folders. But I'd rather find such a structure in C# language or frameworks.
+The custom _use-dev_  ➡️ [⭐ISie⭐](https://github.com/Kyriosity/use-dev/blob/main/README+/parts/_ext/ISie/README.md) demanded me to make fast [AbcLingua](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/Abc/Lingua) folders. But I'd rather find such a structure in C# language or frameworks.
 
 \___________\
 🔚 🌔 .. 2025
