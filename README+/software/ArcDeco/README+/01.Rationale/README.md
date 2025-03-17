@@ -1,4 +1,4 @@
-[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.jpg)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;**Rationale** -> [Big Picture](../02.BigPict/README.md) -> [Stripes](../03.Stripes/README.md) -> [Forces](../04.Forces/README.md) -> [Roles](../05.Roles/README.md) -> [Factors](../06.Factors/README.md) -> [Wrap&nbsp;up](../07.Wrapping/README.md)
+[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;**Rationale** -> [Big Picture](../02.BigPict/README.md) -> [Stripes](../03.Stripes/README.md) -> [Forces](../04.Forces/README.md) -> [Roles](../05.Roles/README.md) -> [Factors](../06.Factors/README.md) -> [Wrap&nbsp;up](../07.Wrapping/README.md)
 
 ---
 
@@ -13,7 +13,7 @@
   <p><img alt="&nbsp;IT chess phantasy" src="../../../../_rsc/_img/illus/ChessIT.jpg" /></p>
 <div dir="rtl"><sub>or I'm boring and unimaginative to&nbsp;&#8230;&nbsp;</sub><sup>♟️</sup><br><sub>.propose better and smarter analogies</sub></div>
   <br /><br /></bre><blockquote><b>Who is the opponent in software?</b><br />
-  Not a customer, a manager, or a user.<br />The development!</blockquote>
+  Not a customer, a manager, or a user.<br />The development<b>!</b></blockquote>
 </td><td>
 <p>♕♛&nbsp;Learning elementary programming and the rules of the checkered strategy are both fast and attainable for the masses. 
 Starting programming resembles games of neophytes: <i>blitz</i> (wins follow fails), fun, and visibly improving.</p>
@@ -57,6 +57,7 @@ Veneer with <ins>rhetorical</ins> vs. <ins>open</ins> <kbd>&thinsp;<samp><b>I&th
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Developing excellent features, feeling the patterns and principles, and writing [quality code](../../../QA/README+/code-quality.md) but designing euphoria over it succumbs to achieving a passable project state.</sub>
 
 <table><tr><td><picture><img alt="&nbsp;sitting on ice" src="../../../../_rsc/_img/symbols/extinct_species.png"/></picture></td><td>
+  <b><p>More (de)motivation:</p></b>
   The external heartening or intimidating factor is the construction of more material, safer and less patchable and shapeable megastructures: liquefied gas tankers, skyscrapers, airplane auto-navigation).
   The answer to many <kbd>why</kbd> isn't always or principally a bad state of design.
 </td></tr></table>
