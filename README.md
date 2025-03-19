@@ -8,8 +8,8 @@
      <!-- -->
      <!--                               NAMES, DRIVES, SAMPLES          --!>
      <!-- -->
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/design/names">Names</a>&thinsp;⚙️&thinsp;
-    <a href="README+/software/design/drive/">Drives</a>&thinsp;➰&thinsp;<a href="README+/software/design/samples">Samples</a><br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/design/names/README.md">Names</a>&thinsp;⚙️&thinsp;
+    <a href="README+/software/design/drive//README.md">Drives</a>&thinsp;➰&thinsp;<a href="README+/software/design/samples/README.md">Samples</a><br/>
      <!-- -->
      <!--                               QA and TESTS          --!>
      <!-- -->
