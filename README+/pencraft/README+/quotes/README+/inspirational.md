@@ -244,7 +244,7 @@ _Steve Maguire_, programmer and author
 
 Security conference, August/2004
 
-#### Recent
+#### Recent but not last
 
 > **I find it very odd. I’m a fairly private person who just sits in front of the computer and hacks on code.**\
 _Andres Freund_, a programmer who occasionally found out the [XZ Utils backdoor](https://en.wikipedia.org/wiki/XZ_Utils_backdoor),
