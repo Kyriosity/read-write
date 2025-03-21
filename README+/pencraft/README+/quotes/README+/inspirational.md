@@ -226,7 +226,7 @@ To make a customer feel guilty for it - the **art**.
 
 \_________________________________</details>
 
-<details><summary><ins>&nbsp;<b>...but to debug</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>...but to test and debug</b>&nbsp;</ins></summary>
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
@@ -237,6 +237,12 @@ To make a customer feel guilty for it - the **art**.
 
 > **Never allow the same bug to bite you twice.**\
 _Steve Maguire_, programmer and author
+
+#### Motto of the thinking tester
+
+> Hackers are innovative and resourceful, and so are we. They never stop thinking about new ways to harm our software and our users, and neither do we.
+
+2000
 
 #### Recent
 
