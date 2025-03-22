@@ -5,8 +5,18 @@
 * The higher the level of naming, the more attention.
 * Name, apply, get feedback, refactor.
 * At least two people with different backgrounds must confirm the top names.
-* Avoid top names known in neighboring domains but with another meaning.
-* When possible avoid names that may become language keywords (e.g. _field_ - hallo, C#13 preview).
+* Avoid top names known in neighboring domains but with another meaning.\
+(when possible avoid names that may become language keywords, e.g. _field_ - hallo, C#13 preview.
+
+## Guidelines
+
+### Methods for values
+
+* `Get` - means available values and must be property,
+* `Find` - implies efforts and queries which must bring the result (or fail with exception),
+* `Lookup` - implies querying which may bring nothing. In other words, it's `TryFind`.
+
+`Calculate`/`Process` is different from all the above.
 
 ## Traps
 
