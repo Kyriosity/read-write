@@ -14,7 +14,7 @@ Besides new features, each annual release improves the performance of significan
 
 Surprisingly **`C#`** is widely utilized in APIs and drivers to industry-standard **embedded** software (i.a. automotive and machinery) and **game dev** (popular [Unity engine](https://unity.com/solutions/programming)<sup>🔗</sup>).
 
-With all given praise **`C#`** isn't monumentally accomplished and experience in various projects and teams allows me to sort out its goodies and lacks in the subfolders.
+With all given praise **`C#`** isn't monumentally accomplished and enough waits for inprovements (my critics, wishlists, and ideas - in the subfolders below and near).
 
 \___________\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:⛵:</sup> <sub>Microsoft has neither acquired it (akin to Java) nor outsourced (it could be Python) but recruited a team to raise the mega-framework.</sub>\
@@ -23,7 +23,7 @@ With all given praise **`C#`** isn't monumentally accomplished and experience in
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🪩</sup> <sub>«Good code should be fast.» Bjarne Stroustrup, 2018</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>⌨️</sup> <sub>Visual Studio Community Edition and JetBrains Rider.</sub>
 
-## Conclusion
+## <ins>Bottom line</ins>
 
 Genuine `C++` experts are justified to name `C#` "just another _Basic_" while others will argue that it harnesses design phantasies for the sake of dev progress and clarity.
 
