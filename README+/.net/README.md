@@ -6,24 +6,24 @@ It evolves nonstop, providing us with state-of-the-art, concise, comprehensible 
 
 Its dedicated team<sup>:people_holding_hands:</sup> learns from the drawbacks and advantages of other languages, own [community](https://github.com/dotnet/csharplang/tree/main/proposals)<sup>:octocat:</sup>, and looks up trade-offs between readability and brevity.
 
-**`C#`** allows developers to focus on [code quality](../software/QA/README+/code-quality.md), which .NET will care to compile into effective and safe executables.<sup>💾</sup>  The cleaner the code - the better performance.<sup>🪩</sup>
+**`C#`** allows developers to focus on [code quality](../software/QA/README+/code-quality.md), which .NET will care to compile into effective and safe executables.<sup>💾</sup>  The cleaner the code, the better the performance.<sup>🪩</sup>
 
-Nonetheless **`C#`** offers "lower-level" _unsafe_ syntax, optimized collections, concurrent structures, and memory spans for specific boosts, intensive tasks, and parallel calculations.
+Nonetheless, **`C#`** offers "lower-level" _unsafe_ syntax, optimized collections, concurrent structures, and memory spans for specific boosts, intensive tasks, and parallel calculations.
 
 Besides new features, each annual release improves the performance of significant parts. Learning resources are best-of-the-breed for newcomers and skilled with IDEs free for educational and personal use.<sup>⌨️</sup>
 
-Surprisingly **`C#`** is widely utilized in APIs and drivers to industry-standard **embedded** software (i.a. automotive and machinery) and **game dev** (popular [Unity engine](https://unity.com/solutions/programming)<sup>🔗</sup>).
+Surprisingly **`C#`** is widely utilized in APIs and drivers to industry-standard **embedded** software (_i.a._ automotive and machinery) and **game dev** (popular [Unity engine](https://unity.com/solutions/programming)<sup>🔗</sup>).
 
 With all given praise **`C#`** isn't monumentally accomplished and enough waits for inprovements (my critics, wishlists, and ideas - in the subfolders below and near).
 
 \___________\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:⛵:</sup> <sub>Microsoft has neither acquired it (akin to Java) nor outsourced (it could be Python) but recruited a team to raise the mega-framework.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🧑‍🤝‍🧑</sup> <sub>Where you know top figures by name and can follow them on Git, media, and social networks.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>💾</sup> <sub>Now you can avoid selecting a processor, [memory models](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)<sup>🪟</sup> and turning off 1MB of RAM to get performance bonus on release.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🪩</sup> <sub>«Good code should be fast.» Bjarne Stroustrup, 2018</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>⌨️</sup> <sub>Visual Studio Community Edition and JetBrains Rider.</sub>
+&nbsp;&nbsp;<sup>⛵</sup>&nbsp;<samp>Microsoft has neither acquired it (akin to Java) nor outsourced (it could be Python) but recruited a team to make it from scratch.</samp>\
+&nbsp;&nbsp;<sup>🧑‍🤝‍🧑</sup>&nbsp;<samp>Where you know top figures by name and can follow them on Git, media, and social networks.</samp>\
+&nbsp;&nbsp;<sup>💾</sup>&nbsp;<samp>Now you can avoid selecting a processor, [memory models](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012)<sup>🪟</sup> and turning off 1MB of RAM to get performance bonus on release.</samp>\
+&nbsp;&nbsp;<sup>🪩</sup>&nbsp;<samp>«Good code should be fast.» Bjarne Stroustrup, 2018</samp>\
+&nbsp;&nbsp;<sup>⌨️</sup>&nbsp;<samp>Visual Studio Community Edition and JetBrains Rider.</samp>
 
-## <ins>Bottom line</ins>
+## <ins>&thinsp;Bottom line&thinsp;</ins>
 
 Genuine `C++` experts are justified to name `C#` "just another _Basic_" while others will argue that it harnesses design phantasies for the sake of dev progress and clarity.
 
