@@ -27,6 +27,7 @@
         :octocat:&thinsp;<mark><a href="README+/pencraft/README+/kyrios-markdown_on_git.md">Markdown</a></mark><br/>
       &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md">&thinsp;<b><samp>ESSAYS</samp></b>&thinsp;</a>&nbsp;🪝<a href="README+/pencraft/README+/memes/README.md">Memes</a>&nbsp;&nbsp;🥨<a href="README+/pencraft/README+/quotes/README.md">Quotes</a>
      </td>
+    <td align="center">S<br/>O<br/>F<br/>T<br/>W<br/>A<br/>R<br/>E</td>
 </tr><tr></tr><tr><td><!--                  C#.NET              --!>
 <a href="README+/.net/"><b>C#️⃣<sup>.NET</sup></b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;✖️&nbsp;
