@@ -1,5 +1,5 @@
 <table><tr valign="top">
-    <td width="50%">
+    <td>
       <picture><img src="README+/_rsc/_img/_nav/learn_is_swim.jpg" alt="&nbsp;If to learn is to swim against the current ..." /></picture>
     </td><td width="50%">
      <a href="README+/software/ArcDeco"><b>S&thinsp;O&thinsp;F&thinsp;T&thinsp;W&thinsp;A&thinsp;R&thinsp;E</b></a><br/>
@@ -8,8 +8,8 @@
      <!-- -->
      <!--                               NAMES, DRIVES, SAMPLES          --!>
      <!-- -->
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/design/names">Names</a>&thinsp;⚙️&thinsp;
-    <a href="README+/software/design/drive/">Drives</a>&thinsp;➰&thinsp;<a href="README+/software/design/samples">Samples</a><br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/software/design/names/README.md">Names</a>&thinsp;⚙️&thinsp;
+    <a href="README+/software/design/drive//README.md">Drives</a>&thinsp;➰&thinsp;<a href="README+/software/design/samples/README.md">Samples</a><br/>
      <!-- -->
      <!--                               QA and TESTS          --!>
      <!-- -->
@@ -27,8 +27,9 @@
         :octocat:&thinsp;<mark><a href="README+/pencraft/README+/kyrios-markdown_on_git.md">Markdown</a></mark><br/>
       &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md">&thinsp;<b><samp>ESSAYS</samp></b>&thinsp;</a>&nbsp;🪝<a href="README+/pencraft/README+/memes/README.md">Memes</a>&nbsp;&nbsp;🥨<a href="README+/pencraft/README+/quotes/README.md">Quotes</a>
      </td>
+    <td align="center" rowspan="2"><b>S<br/>O<br/>F<br/>T<br/>W<br/>A<br/>R<br/>E</b></td>
 </tr><tr></tr><tr><td><!--                  C#.NET              --!>
-<a href="README+/.net/"><b>C#<sup>.NET</sup></b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
+<a href="README+/.net/"><b>C#️⃣<sup>.NET</sup></b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;✖️&nbsp;
 <a href="README+/.net/README+/cs-lacks.md">Lacks</a>&nbsp;➗&nbsp;
  <br/>

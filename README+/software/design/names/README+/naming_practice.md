@@ -1,17 +1,28 @@
-# Naming &mdash; Practice
+# Naming &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Practice
 
 ## Rules of thumb
 
-* The higher the level of naming, the more attention.\
+* The higher the level of naming, the more attention.
 * Name, apply, get feedback, refactor.
 * At least two people with different backgrounds must confirm the top names.
-* _divide et empera_
+* Avoid top names known in neighboring domains but with another meaning.\
+(when possible avoid names that may become language keywords, e.g. _field_ - hallo, C#13 preview.
 
-* avoid names that may become language keywords (e.g. _field_ - hallo, C#13 preview)
+## Guidelines
+
+### Methods for values
+
+* `Get` - means available values and must be property,
+* `Find` - implies efforts and queries which must bring the result (or fail with exception),
+* `Lookup` - implies querying which may bring nothing. In other words, it's `TryFind`.
+
+`Calculate`/`Process` is different from all the above.
 
 ## Traps
 
 TRAP: Duplicate names in the chain!     PRINTER.PRINT
+
+TRAP: The realm of `Helpers`, `Managers`, `Providers`. `Services`, ...
 
 ### Symbolic traps
 
@@ -52,4 +63,4 @@ Some naming occasions can be harder than difficult.
 
 
 \___________\
-🔚
+🔚 2023-2025

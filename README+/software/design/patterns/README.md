@@ -39,6 +39,6 @@ Custom/personal (nick)names for established patterns aren't a good way unless it
 |- [**Patterns** thru **techniques**](https://github.com/Kyriosity/use-dev/tree/main/README+/techniques) ➡️ (_use-dev_)
 
 |- Design principles and methodologies\
-|--- [reviewed SOLID](../../../pencraft/README+/essays/README+/contraSOLID.md) 🚧
+|--- 🚧 reviewed SOLID 🚧
 
 🔚 2025

@@ -18,10 +18,10 @@ It was an exercise in PL/I&nbsp;<sup>🔢</sup> &mdash; output a curve of an ass
 
 Believe it or not, this story had no electronic display.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔢</sup>&nbsp;<sub>IBM's procedural <a href="https://en.wikipedia.org/wiki/PL/I">Programming Language One</a><sup><b>w</b></sup><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>//</code> <b>PL/1</b>, <b>DB2</b>, <b>OS/2</b>, <b>Type-III</b>, <b>BS12</b>, ... &mdash; this Blue Giant was the Lord of imagination and naming.</sub>
+&nbsp;&nbsp;<sup>🔢</sup>&nbsp;<samp>IBM's procedural <a href="https://en.wikipedia.org/wiki/PL/I">Programming Language One</a><sup><b>w</b></sup><br />
+&nbsp;&nbsp;&nbsp;<code><b>PL/1</b>, <b>DB2</b>, <b>OS/2</b>, <b>Type-III</b>, <b>BS12</b>,</code> ... this Blue Giant was the Lord of imagination and naming.</samp>
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:cinema:</sup><sub>Fun fact: traces of PL/1 appear in the epic <a href="https://www.wired.com/story/2001-a-space-odyssey-predicted-the-future50-years-ago">2001: A Space Odyssey</a>.</sub>
+&nbsp;&nbsp;<sup>:cinema:</sup><samp>Fun fact: traces of PL/1 appear in the epic <a href="https://www.wired.com/story/2001-a-space-odyssey-predicted-the-future50-years-ago">2001: A Space Odyssey</a>.</samp>
 
 ## Carton in, paper out
 

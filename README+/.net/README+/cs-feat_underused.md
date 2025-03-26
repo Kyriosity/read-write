@@ -40,6 +40,12 @@ With pattern matching, tuples, and `=>` replacing `break` the good old statement
 "Conditional rows" with patterns and `_`-matching, "on-the-fly" tuples, and `=>` returns allow amazing tables of shortcuts.\
 It's better to see once a recent video tutorial, for example [Advanced Pattern Matching in C#](https://www.youtube.com/watch?v=W-f9MHB-5TQ)<sup><picture><img src="../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="&nbsp;Link to YouTube video" /></picture></sup>, Nov/2024.
 
+## Shorter syntax
+
+### `[..]` shortcuts
+
+Range indexer for substrings, arrays concat, ...
+
 ## Predicates and delegates as arguments
 
 // ToDo: ➡️ move to hints ! ➡️ \

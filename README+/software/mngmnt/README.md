@@ -1,4 +1,4 @@
-# Code, Dev, and Docu&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Management&nbsp;&nbsp;&mdash;&nbsp;&nbsp;<em>Digest</em>
+# Code, Dev, and Docu&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Management&nbsp;&nbsp;&mdash;&nbsp;&nbsp;<em>Opinion</em>
 
 The exponential (and chaotic) growth of software projects in the 2000s founded the "parallel" realm of their organization: requirements/issue tracking, code collecting/versioning, collaboration tools, deployment services, and project management.
 
@@ -6,9 +6,11 @@ You must be reading now from a  **Git**<sup>:octocat:</sup> repository while oth
 
 ## Good organization
 
-The customers/users perspective &mdash; <ins>&thinsp;not **how** but **what** matters&thinsp;</ins> &mdash; draws a crucial landmark: _**either**_ organization serves development, _**or**_ _vice versa_.
+> **The customers/users perspective** &mdash; <mark>&thinsp;not **how** but **what** matters&thinsp;</mark> &mdash;\
+> draws a crucial landmark: _**<ins>&thinsp;either&thinsp;</ins>**_ organization serves development,\
+> _**<ins>&thinsp;or&thinsp;<ins>**_ _vice versa_.
 
-A commendable organization endows every process/measure with an exact explanation of how it...
+A commendable organization endows every process/measure with an exact explanation of how it:
 
 + facilitates development,
 + spares human resources (especially in procedures and pushover tasks),
