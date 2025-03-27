@@ -1,24 +1,19 @@
 ![Work in progress](https://img.shields.io/badge/🚧_work_🚧-in_progress-yellow) 
 
+# Quotes for IT&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Counterforts
 
-# Quotes for IT - DRAFT
+## Privacy
 
- The key is to <b><mark>test</mark> the areas that you are most worried about going wrong</b>. 
-      <details><summary><ins>That way you...</ins></summary>
-      ...get the most benefit for your testing effort.<br />It is better to write and run incomplete tests than not to run complete tests.
-      </details>
-          <a href="contributors/README.md#Kent-Beck"><b>Kent Beck</b></a>, "Refactoring", 1999
+> **If privacy is outlawed, only outlaws will have privacy.**\
+_Philip Zimmermann_, [Why I Wrote PGP](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 
-## Cornerstones
+## Philosophy
 
-<details>
-<summary><ins>&nbsp;<b>German philosophy</b>&nbsp;</ins></summary>
-&nbsp;
+### German philosophy</b>&nbsp;</ins></summary>
   
- ![ArcDeco star](https://img.shields.io/badge/⭐-ArcDeco-yellow)
+![ArcDeco star](https://img.shields.io/badge/⭐-ArcDeco-yellow)
 > Experience without theory is blind but theory without experience is mere intellectual play.\
 _Immanuel Kant_
-
 
 _Immanuel Kant_ for domain-driven design
 
@@ -28,15 +23,12 @@ _Immanuel Kant_ for domain-driven design
 > For by the former is meant an object necessarily desired according to a principle of reason;\
 by the latter one necessarily shunned, also according to a principle of reason.
 
-No mockery but a modest tribute to the 300th birthday of the considered one of the greatest philosophers.
+This is not mockery but a modest tribute to the 300th birthday of one of the greatest philosophers. 
 
 <sup>🇩🇪</sup> <sub>Original: _Die alleinigen Objekte einer praktischen Vernunft sind also die vom Guten und Bösen. 
 Denn durch das erstere versteht man einen notwendigen Gegenstand des Begehrungs-, 
 durch das zweite des Verabscheuungsvermögens, beides aber nach einem Prinzip der Vernunft._\
 _**Kritik der praktischen Vernunft, 1788**_<sub>
 
----------
-</details>
-
-
-🚧... WORK in PROGRESS ... 🖋️
+\___________\
+🚧... TO be CONTINUED ... 🖋️ ..2025
