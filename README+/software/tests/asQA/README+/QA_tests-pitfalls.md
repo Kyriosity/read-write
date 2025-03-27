@@ -10,6 +10,12 @@ This is the continuation of [QA Pitfalls](../../../QA/README+/QA-pitfalls.md)
 
 ### Redundant coding and automation
 
+<p align="right">The key is to <b>test the areas that you are most worried about going wrong</b>.<br/>
+That way you get the most benefit for your testing effort.<br />
+It is better to write and run incomplete tests than not to run complete tests.<br />
+<a href="../../../../pencraft/README+/quotes/README+/contributors/README.md#Kent-Beck"">Kent Beck</a>, "Refactoring", 1999</p>
+
+
 Not every test should/could be written in code. Not every test automation will pay off. Furthermore, not every test must be formulated in steps.
 
 UI tests are a protruding example but atop of other specific, badly formulated, and irregular tests.
