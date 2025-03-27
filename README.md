@@ -2,7 +2,6 @@
     <td>
       <picture><img src="README+/_rsc/_img/_nav/learn_is_swim.jpg" alt="&nbsp;If to learn is to swim against the current ..." /></picture>
     </td><td width="50%">
-    <b>S&thinsp;O&thinsp;F&thinsp;T&thinsp;W&thinsp;A&thinsp;R&thinsp;E</b><br/>
      &nbsp;&nbsp;<a href="README+/software/design/"><b>D&thinsp;e&thinsp;s&thinsp;i&thinsp;g&thinsp;n</b></a>&thinsp;<sup>∑</sup>&nbsp;&nbsp;<i>feat.</i>
           <br />
      <!-- -->
@@ -28,14 +27,15 @@
       &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md">&thinsp;<b><samp>ESSAYS</samp></b>&thinsp;</a>&nbsp;🪝<a href="README+/pencraft/README+/memes/README.md">Memes</a>&nbsp;&nbsp;🥨<a href="README+/pencraft/README+/quotes/README.md">Quotes</a>
      </td>
                                                                                         <!--          A r c D e c o   S I D E B A R    --!>
-    <td align="center"><a href="README+/software/ArcDeco"><b>A<br/>r<br/>c<br/>D<br/>e<br/>c<br/>o</b></a></td>
-</tr><tr></tr><tr><td>                                                               <!--                  C#.NET              --!>
+    <td align="center"><a href="README+/software/ArcDeco"><picture><img alt="&nbsp;I&thinsp;T" src="README+/_rsc/_img/.png" title="SOFTWARE&#010;&#013;Arc Deco"/></picture></a></td>
+                                           <!--                  C#.NET              --!>
+</tr><tr></tr><tr><td>
 <a href="README+/.net/"><b>C#️⃣<sup>.NET</sup></b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;✖️&nbsp;
 <a href="README+/.net/README+/cs-lacks.md">Lacks</a>&nbsp;➗&nbsp;
  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-malpractice.md">Malpractices</a>&nbsp;➕&nbsp;<a href="README+/.net/README+/cs-feat_underused.md">Underused</a>
- <br /><!--                                                C#  S I D E S and P A R T S         --!>
+ <br /><!--                                                C#   S I D E S    a n d    P A R T S         --!>
  &nbsp;&nbsp;<b>♯</b>&nbsp;<b>S&thinsp;i&thinsp;d&thinsp;e&thinsp;s&thinsp;/&thinsp;P&thinsp;a&thinsp;r&thinsp;t&thinsp;s</b>
    <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/parts/cs-lacks-parts.md">Nice to have</a>&nbsp;➖&nbsp;<a href="README+/.net/README+/parts/cs-feat_shadow.md">In shadow</a><br/>
