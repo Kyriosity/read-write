@@ -5,7 +5,7 @@ C#.NET isn't a universal formula, and its team (counting the community) doesn't 
 ## More common interfaces
 
 The general interface defines members like `Count`, `Clone()`, `Equals()`, `CompareTo()`, which developers are eager to apply to their codes too.\
-However, much more remains uncovered, e.g. Max/Min for limiting collections and object size.
+However, much more remains uncovered, e.g., Max/Min for limiting collections and object size.
 
 Other promising members (like `IsReadOnly`) are defined within specific interfaces.
 
@@ -27,7 +27,7 @@ Flush<T>(T stream) where T :  IDisposable AND System.IO.Stream
 + Bonus.Calc(IEnumerable<T> months) where T : Month OR Months // Months is Month but [Flags]
 ```
 
-I long for better [numbers](cs-drawbacks.md#Numbers) in C# but meanwhile constraints could improve the state.
+I long for better [numbers](cs-drawbacks.md#Numbers) in C# but meanwhile, constraints could improve the state.
 
 ```csharp
 // rationally limited natural number
@@ -38,7 +38,7 @@ Retail.Price<N>(N val) where N : byte OR short;
 Retail.Price<N>(N val) where N : byte || short;
 ```
 
-To a turn (for me) numbers and constraints shall be like this sketch:
+To a turn (for me), numbers and constraints shall be like this sketch:
 
 ```csharp
 
@@ -60,7 +60,7 @@ method<N1, N2>(N1 left, N2 right) where N1, N2 : integer
 
 ### Method arguments as in object initializer
 
-If a method has arguments of compatible type, the chances are good to shuffle them by mistake.
+If a method has arguments of compatible types, the chances are good to shuffle them by mistake.
 
 Named arguments are fine but optional. Some patterns and practices (sub-calls, side-typing) ensure the right assignment but bring overhead, and you still must deal with established calls and obey the args order.
 
@@ -129,9 +129,9 @@ with downcast only, e.g.:
 <summary><ins>&nbsp;<b>Arguments signature</b> - Design sketch&nbsp;</ins></summary>
 &nbsp;
 
-Let's put aside that long signatures are bug buddies and shall be encapsulated into classes/structs or tuples. 
+Let's forget that long signatures are bug buddies and should be encapsulated into classes/structs or tuples. 
 
-As a matter of fact, repetitive sequences of arguments occur (sometimes dictated by external tools), and ensuring the same names in order would be pleasing.
+In fact, repetitive sequences of arguments occur (sometimes dictated by external tools), and it would be pleasing to ensure the same names are used in order.
 
 ```csharp
 
@@ -177,11 +177,11 @@ void Planning.Capacity.Register(<ILoadSpecs, IPassengerConfig> transport) { ... 
 
 </details>
 
-Such a feature will be useful also for run-time object composition.
+Such a feature will also be useful for run-time object composition.
 
 ### Builders / Wizards
 
-Intuitive supply of syntax in chained calls (for code completion) is one of the best programming techniques. 
+The intuitive supply of syntax in chained calls (for code completion) is one of the best programming techniques. 
 `C#` could provide out-of-the-box templates for builders and wizards boiling down custom projects (as my attempted [WizConstr](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/WizConstr)).
 
 
