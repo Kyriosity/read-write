@@ -3,11 +3,13 @@
 <p align="right"><b>&ndash;</b>&nbsp;What is the difference between<br /><i>markdown</i> newbie and expert?<br /><b>&ndash;</b>&nbsp;Half an hour.</p>
 
 <sub>[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)</sub> is lightweight to learn and use, 
-with plenty of guides and cheat sheets for advanced techniques. This markup and its dialects were never designed to provide rich content.
+with plenty of guides and cheat sheets for advanced techniques.
 
-Despite assigning it the role of built-in and primary documentation, GitHub alone doesn't render its site in markdown or a flavor.
+Despite building it in and assigning it the role of primary documentation, GitHub alone doesn't render its site in markdown or a flavor.
 
-<table align="center"><tr></tr><tr><td><b>For a reason to try</b> <samp>markdown</samp> <b>beyond a moderately formatted text, here is my ounce of teaching</b> illustrated by this repository.</td></tr></table>
+(This markup and its dialects were never designed to provide rich content.)
+
+<table align="center"><tr></tr><tr><td><b>For any reason to try</b> <samp>markdown</samp> <b>beyond a moderately formatted text, here is my ounce of teaching</b> illustrated by this repository.</td></tr></table>
 
 <p dir="rtl"><i>.Markdown forgives</i>»<br /><i>«.The GitHub doesn't</i><br />(for <a href="https://www.merriam-webster.com/dictionary/TL%3BDR">TL;DR</a>)</p>
 
