@@ -2,11 +2,11 @@
 
 <table><tr valign="top"><td><picture><img width="550px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.jpg" /></picture>
        </td><td>
-<p>The essence of architecture appeared as folks managed to erect somewhat more extravagant and durable than a hut of piled branches &mdash; say, megaliths.</p>
+<p>The essence of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches &mdash; say, megaliths.</p>
 <p>Some ancient Hellenes were so good at construction sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &mdash; the term romanized to <i>architecture</i> centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &mdash; 
 refined craftsmen exempt from chores and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
-<p>Much later diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy.</p>
+<p>Much later, diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy.</p>
 <p>Even so, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) and architects of <em>détente</em> or <em>economic miracle</em> are compliments (or flattery).</p>
 ___________<br />
 <sup>🏛️</sup> <sub>Greek:</sub> <samp>ἀρχιτέκτων</samp><sub>, “master/chief builder/maker" but this occupation existed much prior as the <i>Ziggurat of Ur</i> and Egyptian Pyramids suggest (but Stonehenge refutes).</sub>
@@ -111,8 +111,8 @@ checkout bug-fix
 <div align="right"><picture><img src="../../../../_rsc/_img/signs/arrows/back-forth_skewed_200px.jpg" alt="&nbsp;C O M P A R E"/></picture></div>
 </td><td>
 <p>Building rests on functional design that facilitates easy, cheap, mass construction. 
- The most advanced and creative specimen may be endowed to break the standards and create unique extraordinary pieces of aesthetics, art, and cultural heritage.</p>
-<p>Extravagant (and still working) IT ideas don't require solid fundament however mature software design canalizes creativity into uniform mainstream: standards, patterns, and templates.</p>
+ The most advanced and creative specimen may be endowed to break the standards and create unique, extraordinary pieces of aesthetics, art, and cultural heritage.</p>
+<p>Extravagant (and still working) IT ideas don't require solid fundamentals, however, mature software design canalizes creativity into uniform mainstream: standards, patterns, and templates.</p>
 <br /><picture><img alt="&nbsp;Lotus 1-2-3 on OS/2" src="../../../../_rsc/_img/snap/screen/Lotus123-OSdiv2.jpg" title="&nbsp;Editor of Lotus 1-2-3&#013;&#010;(snapshot from ecsoft2.org)" /></picture><br />
        <i>Lotus 1-2-3 from the previous century still defines the UX and functionality of spreadsheets.</i></a>
 </td></tr></table>
@@ -126,12 +126,12 @@ Contrary to the evolution of building **programming disperses the classical figu
 
 > [!WARNING]
 > 
-> **This assumes neither skills parity nor full inside of each technology and methodology.**&#8287;
+> **This assumes neither skills parity nor full knowledge of each technology and methodology.**&#8287;
 > The bigger the project, the bigger the vertical&varr; and horizontal&harr; offsets of team members according to skills, talents, experience, and preferences with or without roles exchange.
 > <p align="center">( &varr; between coding and design; &harr; within the technologies stack)</p>
 > <p>The "best" recipe of mashed design (puree) is to smear nitty-gritty over all development heads.</p>
 
-<details><summary><ins>&nbsp;<b>"Architect" is often an alias or catch-all term for good known roles and duties:</b>&nbsp;</ins> ➡️</summary>
+<details><summary><ins>&nbsp;<b>"Architect" is often an alias or catch-all term for well-known roles and duties:</b>&nbsp;</ins> ➡️</summary>
 
 ```mermaid
 ---
@@ -189,12 +189,12 @@ from computer science`"((
 
 ## but hold on...
 
-**Reputable software providers hire/promote architects; they are central figures at IT events. There's certification after all.**
+**Reputable software providers hire/promote architects; they are central figures at IT events. There's certification, after all.**
 
 Above all, **_software architect_** sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup>, and impresses hiring managers, customers, and stakeholders.&#8287;
 Neither _**expert**_, _**dev&nbsp;lord**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> is equivalent.
 
-> There is no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of avant practices with strong practical backup.<sup>👩‍👦‍👦</sup>
+> There is no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.<sup>👩‍👦‍👦</sup>
 
 Finally, salt all this with a bitter reminder that major software isn't _Pantheon_ but the routine adaptation of requirements to known and tried solutions with quite a decent input of cutting-edge input and invention.
 
@@ -208,10 +208,10 @@ Finally, salt all this with a bitter reminder that major software isn't _Pantheo
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Images credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and kyriosity</sub>
 
 <table><tr></tr><tr>
- <td widh="39%">☝️</td><td>This essay doesn't split <i>architecture</i> and <i>design</i> (as everything over particular and imaginary applications/systems/constructions) while
+ <td>☝️</td><td>This essay doesn't split <i>architecture</i> and <i>design</i> (as everything over particular and imaginary applications/systems/constructions) while
 <picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
 title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
- (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin adjacent activities</a>.
+ (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin or adjacent activities</a>.
  </td></tr></table>
 
 <div align="center"><b>.......</b> &nbsp;🔚 &nbsp;🌘 kyriosity 2023-2025&nbsp;&nbsp;&nbsp;<b>.......</b></div>
