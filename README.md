@@ -30,9 +30,9 @@
     <td align="center"><a href="README+/software/ArcDeco"><picture><img width="20px" alt="&nbsp;I&thinsp;T" src="README+/_rsc/_img/_nav/SOFTWARE_25-250px.png" title="Arc Deco&#013;&#010;
 Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde"/>
 </picture></a></td>
-                                           <!--                  C#.NET              --!>
+                                           <!--                   C# . N E T               --!>
 </tr><tr></tr><tr>
-    <td width="5%" align="center"><a href="README+/software/ArcDeco"><picture><img alt="&nbsp;C&thinsp;#" src="README+/_rsc/_img/_nav/C-Sharp_25-250px.png"/></picture></a></td>
+    <td><a href="README+/software/ArcDeco"><picture><img width="35px" alt="&nbsp;C&thinsp;#" src="README+/_rsc/_img/_nav/C-SHARP_150-500px.png"/></picture></a></td>
     <td>
 <a href="README+/.net/">#️⃣Intro🎼</a>&nbsp;&nbsp;&nbsp;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;✖️&nbsp;
