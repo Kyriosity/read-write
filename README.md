@@ -1,7 +1,7 @@
 <table><tr valign="center">
-    <td>
+    <td colspan="2" align="right">
       <picture><img src="README+/_rsc/_img/_nav/learn_is_swim.jpg" alt="&nbsp;If to learn is to swim against the current ..." /></picture>
-    </td><td width="50%">
+    </td><td>
      &nbsp;&nbsp;<a href="README+/software/design/"><b>D&thinsp;e&thinsp;s&thinsp;i&thinsp;g&thinsp;n</b></a>&thinsp;<sup>∑</sup>&nbsp;&nbsp;<i>feat.</i>
           <br />
      <!-- -->
@@ -27,10 +27,14 @@
       &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md">&thinsp;<b><samp>ESSAYS</samp></b>&thinsp;</a>&nbsp;🪝<a href="README+/pencraft/README+/memes/README.md">Memes</a>&nbsp;&nbsp;🥨<a href="README+/pencraft/README+/quotes/README.md">Quotes</a>
      </td>
                                                                                         <!--          A r c D e c o   S I D E B A R    --!>
-    <td align="center"><a href="README+/software/ArcDeco"><picture><img alt="&nbsp;I&thinsp;T" src="README+/_rsc/_img/.png" title="SOFTWARE&#010;&#013;Arc Deco"/></picture></a></td>
+    <td align="center"><a href="README+/software/ArcDeco"><picture><img width="20px" alt="&nbsp;I&thinsp;T" src="README+/_rsc/_img/_nav/SOFTWARE_25-250px.png" title="Arc Deco&#013;&#010;
+Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde"/>
+</picture></a></td>
                                            <!--                  C#.NET              --!>
-</tr><tr></tr><tr><td>
-<a href="README+/.net/"><b>C#️⃣<sup>.NET</sup></b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
+</tr><tr></tr><tr>
+    <td width="5%" align="center"><a href="README+/software/ArcDeco"><picture><img alt="&nbsp;C&thinsp;#" src="README+/_rsc/_img/_nav/C-Sharp_25-250px.png"/></picture></a></td>
+    <td>
+<a href="README+/.net/">#️⃣Intro🎼</a>&nbsp;&nbsp;&nbsp;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;✖️&nbsp;
 <a href="README+/.net/README+/cs-lacks.md">Lacks</a>&nbsp;➗&nbsp;
  <br/>
@@ -47,7 +51,7 @@
  <a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames">Frames</a>&nbsp;&nbsp;<b>.&thinsp;.&thinsp;.</b>
  <br />
  &nbsp;&nbsp;&nbsp;<b>.&thinsp;.&thinsp;.</b>&nbsp;&nbsp;and more on <a href="https://github.com/Kyriosity/use-dev/"><b>&thinsp;use-dev&thinsp;</b></a>&nbsp;
-</td><td>
+</td><td colspan="2" align="left">
       <picture><img src="README+/_rsc/_img/_nav/IT_is_waterfall.jpg" alt="&nbsp;... then IT must be a waterfall" /></picture>
      </td>
 </table>
