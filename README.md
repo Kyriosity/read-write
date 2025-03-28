@@ -1,7 +1,7 @@
 <table><tr valign="center">
-    <td>
+    <td width="5%" /><td width="45%">
       <picture><img src="README+/_rsc/_img/_nav/learn_is_swim.jpg" alt="&nbsp;If to learn is to swim against the current ..." /></picture>
-    </td><td width="50%">
+    </td><td width="45%">
      &nbsp;&nbsp;<a href="README+/software/design/"><b>D&thinsp;e&thinsp;s&thinsp;i&thinsp;g&thinsp;n</b></a>&thinsp;<sup>∑</sup>&nbsp;&nbsp;<i>feat.</i>
           <br />
      <!-- -->
@@ -27,9 +27,9 @@
       &nbsp;&nbsp;🥱<a href="README+/pencraft/README+/essays/README.md">&thinsp;<b><samp>ESSAYS</samp></b>&thinsp;</a>&nbsp;🪝<a href="README+/pencraft/README+/memes/README.md">Memes</a>&nbsp;&nbsp;🥨<a href="README+/pencraft/README+/quotes/README.md">Quotes</a>
      </td>
                                                                                         <!--          A r c D e c o   S I D E B A R    --!>
-    <td align="center"><a href="README+/software/ArcDeco"><picture><img alt="&nbsp;I&thinsp;T" src="README+/_rsc/_img/_nav/SOFTWARE_25-250px.png" title="SOFTWARE&#010;&#013;Arc Deco"/></picture></a></td>
+    <td width="5%" align="center"><a href="README+/software/ArcDeco"><picture><img alt="&nbsp;I&thinsp;T" src="README+/_rsc/_img/_nav/SOFTWARE_25-250px.png" title="SOFTWARE&#010;&#013;Arc Deco"/></picture></a></td>
                                            <!--                  C#.NET              --!>
-</tr><tr></tr><tr><td>
+</tr><tr></tr><tr><td></td><td>
 <a href="README+/.net/"><b>C#️⃣<sup>.NET</sup></b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;✖️&nbsp;
 <a href="README+/.net/README+/cs-lacks.md">Lacks</a>&nbsp;➗&nbsp;
