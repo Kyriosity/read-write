@@ -6,12 +6,13 @@
 - rigid interfaces,
 - restrained _generics_ and their _constraints_.
 
-The following language artifacts are awkward leastwise for some. 
+The following language artifacts are awkward, at least for some. 
 
-## Base
+## Principal
 
 - Rudimentary `0` as the start index in collections<sup>⭕</sup>, which doesn't correlate with the count and shall better start from `1`.
 - Size setters (as for arrays and collections) must have been unsigned integers: <code><b>u</b>int Length { get; }</code>. This could eliminate a big share of bugs and run-time errors.
+- `void` could be a type. At least to make _Actions_ compatible with _Funcs_.
 
 ## Syntax
 
@@ -69,9 +70,9 @@ The next definition is terse and clear `class CollWrapper<C, T> where C : IColle
 
 ## Single-class inheritance
 
-A class may refer to only one base class but multiple interfaces with default method implementations. This dismantles arguing for conceptual single-class inheritance (which must have been technically restrained).
+A class may refer to only one base class but have multiple interfaces with default method implementations. This dismantles the argument for conceptual single-class inheritance (which must have been technically restrained).
 
-However, arranging the code from some interfaces is rather cumbersome and restrictive, and shall be reserved for limited technical purposes (not multiinheritance design).
+However, arranging the code from some interfaces is rather cumbersome and restrictive &mdash; shall be reserved for limited technical purposes (not multiinheritance design).
 
 Other peculiar and arbitrary alternatives are [extension methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>🪟</sup> and dynamic composition (notably facilitated with [Roslyn](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)<sup>🔗</sup>).
 
@@ -114,8 +115,8 @@ Syntax shortcuts here could make the code both shorter and readable.
 
 ### DateTime
 
-`DateTime` and refined `DateOnly` (non-casting from the first) are error-prone, awkward and limited. 
-Ironically you may specify a date close to the year 9999 (when only regular astronomical events can be predicted that precise) but not a recorded one before [Common Era](https://en.wikipedia.org/wiki/Common_Era)<sup>🔗</sup>.
+`DateTime` and refined `DateOnly` (non-casting from the first) are error-prone, awkward, and limited. 
+Ironically, you may specify a date close to the year 9999 (when only regular astronomical events can be predicted that precisely) but not a recorded one before [Common Era](https://en.wikipedia.org/wiki/Common_Era)<sup>🔗</sup>.
 
 Ambiguous order and `int` input of year/month/day allows nonsense values, which only the running code may or may not detect (_viz_. a bad bug).<sup>🐛</sup>.
 
@@ -129,7 +130,7 @@ Continued in [C# lacks - Dates](parts/cs-lacks-parts.md#Dates).
 - LINQ [`Reverse()`](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse), is actually *flip*.
 - Type modifiers _in_/_out_ for contra-/covariance collide with the same name parameter modifiers (_more_/_less_ can be better)
 
-## Wrap up
+## Bottom line
 
 The list is far from being complete but I wait for a day (more correct to say a year) when Danish Masters or their disciples will strike a higher note - D-flat or even `D#`.
 
