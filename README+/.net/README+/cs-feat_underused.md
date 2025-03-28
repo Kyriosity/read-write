@@ -4,11 +4,11 @@ Parts of C# syntax, certain features, libraries, and frameworks are preferable b
 
 ## Freshly released
 
-C# evolves swiftly with regular and rich releases, but not every developer is an early adaptor, and not every team is eager to update the breadwinning production environment.
+C# evolves swiftly with regular and rich releases, but not every developer is an early adaptor, and not every team is eager to update the breadwinning environment.
 
-However, staying fit with C# is reasonable and feasible. Releases of .NET are cumulative and stable; besides new syntax and structures, they bring more performance, and security with longer support. 
+However, staying fit with C# is reasonable and feasible. Releases of .NET are cumulative and stable; besides new syntax and structures, they provide better performance, more security, and longer support. 
 
-Devoted bloggers and speakers<sup>👨‍👩‍👧‍👦</sup> are greatly at separating the wheat from the chaff, and IDEs hint at new features.
+Devoted bloggers and speakers<sup>👨‍👩‍👧‍👦</sup> do a great job of separating the wheat from the chaff, while IDEs hint at new features.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I don't recommend any since this must be a personal experience, selection of the active and a matter of taste. Except for the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🪟</sup>.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>**Advice:** Limit review ardor to [officially released features](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/)<sup>🪟</sup>. Many nice others are delayed from release to release (let alone those experimental).</sub>
@@ -77,7 +77,7 @@ static void CalcHard(int nat) {
 
 ## All of the LINQ
 
-LINQ is so great and practical that it's the first thing C# developers miss when coding in other languages.<sup>:large_blue_diamond:</sup>
+Tge magic of LINQ is so practical that it's the first thing C# developers miss when coding in other languages.<sup>:large_blue_diamond:</sup>
 
 However, even its addicts may be unfamiliar with many tenable features. I knew about 
 [`Cast`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.cast), 
@@ -107,6 +107,8 @@ It doesn't involve deranged imagination to improvise the auto-implementation of 
 // ToDo: link to use-dev
 
 ## Extension methods
+
+Allow calls on null.
 
 ### Props of polymorphism
 
