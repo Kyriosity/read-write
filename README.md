@@ -1,5 +1,5 @@
 <table><tr valign="center">
-    <td></td><td>
+    <td colspan="2" align="right">
       <picture><img src="README+/_rsc/_img/_nav/learn_is_swim.jpg" alt="&nbsp;If to learn is to swim against the current ..." /></picture>
     </td><td>
      &nbsp;&nbsp;<a href="README+/software/design/"><b>D&thinsp;e&thinsp;s&thinsp;i&thinsp;g&thinsp;n</b></a>&thinsp;<sup>∑</sup>&nbsp;&nbsp;<i>feat.</i>
@@ -51,9 +51,8 @@ Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbs
  <a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames">Frames</a>&nbsp;&nbsp;<b>.&thinsp;.&thinsp;.</b>
  <br />
  &nbsp;&nbsp;&nbsp;<b>.&thinsp;.&thinsp;.</b>&nbsp;&nbsp;and more on <a href="https://github.com/Kyriosity/use-dev/"><b>&thinsp;use-dev&thinsp;</b></a>&nbsp;
-</td><td>
+</td><td colspan="2" align="left">
       <picture><img src="README+/_rsc/_img/_nav/IT_is_waterfall.jpg" alt="&nbsp;... then IT must be a waterfall" /></picture>
      </td>
-    <td></td>
 </table>
 🔚 ... if this navigation is baffling &rArr; start with <a href="README+/pencraft/README+/essays/README.md"><b>&thinsp;E<samp>SSAYS</samp>&thinsp;</b></a> ... 🌔 2020-2025
