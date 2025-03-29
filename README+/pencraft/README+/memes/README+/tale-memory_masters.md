@@ -1,12 +1,14 @@
 # L<samp>EGEND</samp> of memory masters
 
+[![Tales fron the crypt](https://img.shields.io/badge/Tales%20from-the%20crypt-violet?logo=readthedocs&logoColor=f0f)](#)
+
 > I heard it from a <code>C++</code>-gifted colleague when we exchanged [<samp><b>DOOM</b></samp>](https://en.wikipedia.org/wiki/Doom_(1993_video_game))&thinsp;<sup><b>w</b></sup> experience (already lores too).\
 > He told what he knew from <i>olds</i> &mdash; true multi-warrior computer games with epic wins are a thing of the past &mdash; times of very primitive monochrome text monitors (if not arrays of light bulbs).</p>
 
 I remastered and enhanced that.
 
-<table><tr valign="top"><td width="50%"><picture><img src="../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture><br />
-<picture><img alt="&nbsp;Early memory chips" src="../../../_rsc/_img/af/Intel-C1103_ink.jpg" /></pictire>
+<table><tr valign="top"><td width="50%"><picture><img src="../../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture><br />
+<picture><img alt="&nbsp;Early memory chips" src="../../../../_rsc/_img/af/Intel-C1103_ink.jpg" /></pictire>
 
 </td><td>
   <p>The lore goes that computer scientists (every programmer was one), senior in age and title, used relatively idle nighttime<sup>🌛</sup> 
