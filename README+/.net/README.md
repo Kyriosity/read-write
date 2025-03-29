@@ -25,6 +25,6 @@ With all given praise **`C#`** isn't monumentally accomplished and enough waits 
 
 ## <ins>&thinsp;Bottom line&thinsp;</ins>
 
-Genuine `C++` experts are justified to name `C#` "just another _Basic_" while others will argue that it harnesses design phantasies for the sake of dev progress and clarity.
+Genuine `C++` or `Perl` experts are legitimate in branding `C#` as "just another _Basic_" while others will argue that it harnesses design phantasies for the sake of dev progress and clarity.
 
 🔚 ... but [README+](README+)
