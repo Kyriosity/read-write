@@ -31,9 +31,9 @@
 Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde"/>
 </picture></a></td>
                                            <!--                   C# . N E T               --!>
-</tr><tr></tr><tr>
-    <td><a href="README+/software/ArcDeco"><picture><img width="35px" alt="&nbsp;C&thinsp;#" src="README+/_rsc/_img/_nav/C-SHARP_vert_150-575px.png"/></picture></a></td>
-    <td>
+</tr><tr></tr><tr><td>
+    <picture><img width="35px" alt="&nbsp;C&thinsp;#" src="README+/_rsc/_img/_nav/C-SHARP_vert_150-575px.png"/></picture>
+</td><td>
 <a href="README+/.net/"><b>C</b>#️⃣Intro🎼</a>&nbsp;&nbsp;&nbsp;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;✖️&nbsp;
 <a href="README+/.net/README+/cs-lacks.md">Lacks</a>&nbsp;➗&nbsp;
