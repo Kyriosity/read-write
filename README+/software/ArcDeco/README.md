@@ -34,7 +34,7 @@ Many projects' modest size and lifetime, banality, and isolated work on them wil
 <br /><picture><img  align="center" alt="&nbsp;&nbsp;&nbsp;ArcDeco view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" /></picture><br />
 ⬆️...  <ins>&thinsp;theorization around which will be fetched out of thin air.</ins>
 
-### ... but ...
+<h3 align="center">... but ...</h3>
 
 Axes of e**X**pansion and complexit**Y** may tear this patchwork:<sup>🙋</sup>
 
@@ -46,7 +46,7 @@ Axes of e**X**pansion and complexit**Y** may tear this patchwork:<sup>🙋</sup>
 
 Such menaces encourage us to verbalize the metaphysics of software. 
 
-### ... opening ...
+<h3 align="center">... opening ...</h3>
 
 <picture><img alt="&nbsp;Arc Deco" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-14px.jpg" /></picture>&nbsp;(<mark><b>Arc</b></mark>hitecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding).\
 I couldn't find a better tag but a mocking acronym<sup>🎨</sup> to distinguish the following survey (at least for the file system).
