@@ -8,17 +8,19 @@ C# evolves swiftly with regular and rich releases, but not every developer is an
 
 However, staying fit with C# is reasonable and feasible. Releases of .NET are cumulative and stable; besides new syntax and structures, they provide better performance, more security, and longer support. 
 
-Devoted bloggers and speakers<sup>👨‍👩‍👧‍👦</sup> do a great job of separating the wheat from the chaff, while IDEs hint at new features.
+Devoted bloggers and speakers<sup>👨‍👩‍👧‍👦</sup> do a great job of separating the wheat from the chaff while IDEs hint at new features.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I don't recommend any since this must be a personal experience, selection of the active and a matter of taste. Except for the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🪟</sup>.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>**Advice:** Limit review ardor to [officially released features](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/)<sup>🪟</sup>. Many nice others are delayed from release to release (let alone those experimental).</sub>
 
 ### C#13.NET9 (2024) ... but wait! ...
 
-Among other features, two could be rather practical. Announced, and promoted by bloggers but "still in active development" (2025).
+Among other features, two could be rather practical. Announced and promoted by bloggers but "still in active development" (2025).
 
 + `using` aliases improved: 1) full qualification not required for imported namespaces, 2) generics supported.
-+ `extension` keyword (`explicit` and `implicit`): 1) good to replace clumsy extension methods with `this`, 2) properties supported.
++ `extension` keyword (`explicit` and `implicit`):\
+1\) nice to replace clumsy extension methods exposing the dummy class,\
+2\) properties supported.
 
 ### Earlier
 
@@ -26,10 +28,9 @@ The following "old" practical syntax and features remain unused in enough progra
 
 - [ ]  single file namespaces with `;` without `{}`
 - [ ] [Tuple assignments](https://essentialcsharp.com/tuples#tuples)<sup>🔗</sup> - shortcuts assignment (swap!) and comparison.
-- [ ] [`CallerArgumentExpressions`](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression)<sup>🙋‍♂️</sup>
+- [ ] [`CallerArgumentExpressions`](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression)
+(It urged me to rewrite ➡️[exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcCommu/Errors).)
 - [ ] `readonly` for `struct` methods - questionable but don't harm and may prevent bugs
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋‍♂️</sup> <sub>This urged me to rewrite ➡️[exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcCommu/Errors).</sub>
 
 ##### `switch` beyond `else if`
 

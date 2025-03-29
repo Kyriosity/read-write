@@ -50,9 +50,14 @@ General words sound vague (if not bombastic) unless established in the domain. C
 
 Some naming occasions can be harder than difficult.
 
-### Impedance with inherited domain names
+### "Can't touch this"
 
-// ToDescribe:
+``Empty`, `Space`, `Noting`, `undefined`, `null`, `default`, `0` &ndash; all these can or may describe not available value.
+
+Some guidelines can be derived:
+
+* space isn't empty
+* zero as other default values must be excluded
 
 ### Active or passive voice
 
@@ -60,7 +65,9 @@ Some naming occasions can be harder than difficult.
 
 // ToDescribe:
 
+### Impedance with inherited domain names
 
+// ToDescribe:
 
 \___________\
 🔚 2023-2025
