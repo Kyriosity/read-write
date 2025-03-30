@@ -68,46 +68,6 @@ This is justified because of the changed requirements as discussed a bit in [quo
 
 \___________</details>
 
-## Tales from the Crypt
-
-<details><summary><ins>&nbsp;<b>Marsupial covariance</b>&nbsp;</ins></summary>
-&nbsp;
-
-![DRY principle](https://img.shields.io/badge/clean_code-Oz-cyan)  ![clean code](https://img.shields.io/badge/DRY-🇦🇺-yellow) ![fact check](https://img.shields.io/badge/Fact❓-Check❗-green)  
-
-<table>
-  <tr valign="center"><td align="center">
-      <h3>🦘&thinsp;<a href="https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/">&nbsp;Object-oriented kangaroos 🇦🇺&nbsp;</b></a></h3>
-      <p><a href="../../../_rsc/_backup/ref/Marsupial/">downloaded safe-copy</a> <br />if the URL above doesn't work</samp></p>
-    </td>
-    <td>
-       <a href="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy).jpg">
-        <img src="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy)_thumb250px.jpg" 
-          alt="&nbsp; a flying kangaroo" title="&nbsp; A kangaroo clears a fence in Beveridge,&#013;&#010;&nbsp;37 km north of Melbourne's CBD&#013;&#010;&nbsp;(snapshot by Nathan Xuebsy, 2024)"></a>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details><summary><ins>&nbsp;<b>L<samp>EGEND</samp> of memory masters</b>&nbsp;</ins></summary>
-&nbsp;
-
-<table><tr valign="top"><td width="50%"><picture><img src="../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture><br />
-<picture><img alt="&nbsp;Early memory chips" src="../../../_rsc/_img/af/Intel-C1103_ink.jpg" /></pictire>
-<div><sub>Image credits: screengrab, imdb.com: <i>Born Invincible</i>, 1978; Wiki media: Intel 1103 memory</sub></div>
-</td><td>
-  <p>I heard it from a <code>C++</code>-gifted colleague when we exchanged <samp>DOOM</samp> experience (already lores too). 
-    He told what he knew from <i>olds</i> &mdash; true multi-warrior computer games with epic wins are a thing of the past - times of very primitive monochrome text monitors (if not arrays of light bulbs).</p>
-  <p>I remastered and enhanced that.</p>
-  <p>The lore goes that computer scientists (every programmer was one), senior in age and title, used relatively idle nighttime<sup>🌛</sup> 
-    to connect their computer centers via antediluvian wide area networks and combat resources with all possible (for warming up) and impossible, and unthinkable hacks in <i>machine languages</i> (no hardware manipulations, no dirty cheats, no vulgar social engineering).</p>
-  <p>The winner occupied the most or whole memory of the opponents' timeslots.</p>
-  <p>These sagas went unnoticed since require ultra-level abstractions to grasp what silent battles unfolded in darkness over bits (not bytes).</p>
-  <sup>🌛</sup> <sub>Relatively, since computer time was so deficient, a couple of hours in night shifts on BIG machines was a big luck for junior fellows (daytime was out of reach for them at all).</sub>
-</td></tr></table>
-
-\___________</details>
-
 ## Historic snapshots
 
 <details><summary>📱 <b><ins>&nbsp;<mark>1926</mark>: Mobile phones rock Berlin&nbsp;</ins></b></summary>
@@ -151,9 +111,34 @@ A store of punched cards for a casual program. I'm proud to have a [little exper
 
 </details>
 
+## Mosaic
+
+<table><tr><td>
+  <a href=""><img src="../../../_rsc/_img/_nav/" alt="" alt="&nbsp;Marsupial covariance" /></a>
+  MARSUPIAL COVARIANCE</a>
+</td><td>
+    <a href="README+/tale-memory_masters.md"><img src="../../../_rsc/_img/_nav/" alt="" alt="&nbsp;Legend of memory masters" />
+  TALES from the CRYPT</a>
+</td></tr></table>
+
+![DRY principle](https://img.shields.io/badge/clean_code-Oz-cyan)  ![clean code](https://img.shields.io/badge/DRY-🇦🇺-yellow) ![fact check](https://img.shields.io/badge/Fact❓-Check❗-green)  
+
+<table>
+  <tr valign="center"><td align="center">
+      <h3>🦘&thinsp;<a href="https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/">&nbsp;Object-oriented kangaroos 🇦🇺&nbsp;</b></a></h3>
+      <p><a href="../../../_rsc/_backup/ref/Marsupial/">downloaded safe-copy</a> <br />if the URL above doesn't work</samp></p>
+    </td>
+    <td>
+       <a href="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy).jpg">
+        <img src="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy)_thumb250px.jpg" 
+          alt="&nbsp; a flying kangaroo" title="&nbsp; A kangaroo clears a fence in Beveridge,&#013;&#010;&nbsp;37 km north of Melbourne's CBD&#013;&#010;&nbsp;(snapshot by Nathan Xuebsy, 2024)"></a>
+    </td>
+  </tr>
+</table>
+
 ## Fine Arts
 
-<table><tr><td><h3><a href="README+/art/polyptych_works.md">POLYPTYCH</a></h3></td></tr></table>
+<table><tr><td><h3><a href="README+/polyptych_works.md">POLYPTYCH</a></h3></td></tr></table>
 
 ## Recommended reading 
 
