@@ -111,11 +111,16 @@ A store of punched cards for a casual program. I'm proud to have a [little exper
 
 </details>
 
-## Mosaic (beyond this page)
+## Mosaic
 
 <table><tr align="center"><td>
-  <a href=""><img src="../../../_rsc/_img/_nav/" alt="&nbsp;Marsupial covariance" /><br />
-  <b>DESIGN STORIES</b></a>
+  
+  ```mermaid
+flowchart TD
+    Start --> Continue
+  ```
+  
+  <a href="README+/prj_cases.md"><b>PROJECT STORIES</b></a>
 </td><td>
     <a href="README+/tale-memory_masters.md"><img src="../../../_rsc/_img/_nav/tiles/ChessBox_bw-200px.jpg" alt="&nbsp;&nbsp;Tales from the crypt" /><br />
   <b>MEMORY MASTERS</b></a>
@@ -123,7 +128,7 @@ A store of punched cards for a casual program. I'm proud to have a [little exper
   <samp><b>IT WORKS</b></samp><br />
   <mark>&thinsp;<b>¯\_(ツ)_/¯</b>&thinsp;</mark><br />
   on my MACHINE<br />
-  <mark>&thinsp;☁️ ¯\_(ツ)_/¯ ☁️&thinsp;</mark><br />
+  <mark>&thinsp;<b>☁️ ¯\_(ツ)_/¯ ☁️</b>&thinsp;</mark><br />
   in my CLOUD<br />
 <br /><a href="README+/polyptych_works.md"><b>POLYPTYCH</b></a>
 </td><td>
