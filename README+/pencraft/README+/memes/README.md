@@ -14,10 +14,10 @@
 The grains of truth in this wisdom:
 
 * No other knowledge erodes so quickly as the IT tech stack - languages/scripts, markup, frameworks, and their IDEs, UX styles emerge, submerge, and mutate with the year's pace.<sup>:violin:</sup>
-* In the orthogonal  (to time) dimension a developer can't stick to a favorite syntax and must be fluent in a wide techno spectrum.
+* In the orthogonal (to time) dimension, a developer can't stick to a favorite syntax and must be fluent in a wide techno spectrum.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:violin:</sup> <sub>Javascript/HTML, which one learned in 2000, remains only as kernel syntax. 
-It went through numerous libs, polyfills, jQuery, and other cool tools and at the moment transformed into single-page-application frameworks, which govern the web dev now.</sub>
+It went through numerous libs, polyfills, jQuery, and other cool tools and transformed into single-page-application frameworks, which now govern the web dev.</sub>
 
 **Escape?**
 
@@ -80,7 +80,7 @@ This is justified because of the changed requirements as discussed a bit in [quo
 <i>a fellow shares the location of cafe</i>] .&thinsp;.&thinsp;. good, <i>bon</i>, agreed, &mdash; be there in a moment] <kbd><b>DE</b>&thinsp;->&thinsp;<b>EN</b></kbd>
 </div><br />
 
-The caricature may look sloppy, but it'ls author Karl Arnold had astonishly escaped futuristic cringe: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
+The caricature may look sloppy, but its author Karl Arnold had astonishingly escaped futuristic cringe: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
 
 </details>
 
@@ -111,45 +111,28 @@ A store of punched cards for a casual program. I'm proud to have a [little exper
 
 </details>
 
-## Mosaic
+## Mosaic (beyond this page)
 
-<table><tr><td>
-  <a href=""><img src="../../../_rsc/_img/_nav/" alt="" alt="&nbsp;Marsupial covariance" /></a>
-  MARSUPIAL COVARIANCE</a>
+<table><tr align="center"><td>
+  <a href=""><img src="../../../_rsc/_img/_nav/" alt="&nbsp;Marsupial covariance" /><br />
+  <b>DESIGN STORIES</b></a>
 </td><td>
-    <a href="README+/tale-memory_masters.md"><img src="../../../_rsc/_img/_nav/" alt="" alt="&nbsp;Legend of memory masters" />
-  TALES from the CRYPT</a>
+    <a href="README+/tale-memory_masters.md"><img src="../../../_rsc/_img/_nav/tiles/ChessBox_bw-200px.jpg" alt="&nbsp;&nbsp;Tales from the crypt" /><br />
+  <b>MEMORY MASTERS</b></a>
+</td><td>
+  <samp><b>IT WORKS</b></samp><br />
+  <mark>&thinsp;<b>¯\_(ツ)_/¯</b>&thinsp;</mark><br />
+  on my MACHINE<br />
+  <mark>&thinsp;☁️ ¯\_(ツ)_/¯ ☁️&thinsp;</mark><br />
+  in my CLOUD<br />
+<br /><a href="README+/polyptych_works.md"><b>POLYPTYCH</b></a>
+</td><td>
+  <picture><img src="../../../_rsc/_img/_nav/tiles/_ComingNext_200px.jpg" alt="&nbsp;coming next ..." /></picture><br />
+  <a href="README+/extra_read.md"><b>EXTRA READING</b></a>
 </td></tr></table>
-
-![DRY principle](https://img.shields.io/badge/clean_code-Oz-cyan)  ![clean code](https://img.shields.io/badge/DRY-🇦🇺-yellow) ![fact check](https://img.shields.io/badge/Fact❓-Check❗-green)  
-
-<table>
-  <tr valign="center"><td align="center">
-      <h3>🦘&thinsp;<a href="https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/">&nbsp;Object-oriented kangaroos 🇦🇺&nbsp;</b></a></h3>
-      <p><a href="../../../_rsc/_backup/ref/Marsupial/">downloaded safe-copy</a> <br />if the URL above doesn't work</samp></p>
-    </td>
-    <td>
-       <a href="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy).jpg">
-        <img src="../../../_rsc/_img/photo/misc/2024.AU-KangarooClearsFence(Nathan Xuebsy)_thumb250px.jpg" 
-          alt="&nbsp; a flying kangaroo" title="&nbsp; A kangaroo clears a fence in Beveridge,&#013;&#010;&nbsp;37 km north of Melbourne's CBD&#013;&#010;&nbsp;(snapshot by Nathan Xuebsy, 2024)"></a>
-    </td>
-  </tr>
-</table>
-
-## Fine Arts
-
-<table><tr><td><h3><a href="README+/polyptych_works.md">POLYPTYCH</a></h3></td></tr></table>
-
-## Recommended reading 
-
-<details><summary><ins>&nbsp;<b>Great grandpa of all driven design</b>&nbsp;</ins></summary>
-&nbsp;
-
-🚧 COMING...NEXT
-
-\___________</details>
 
 ## **Volume&nbsp;II.** [**Inspirational quotes**](../quotes/README+/inspirational.md) 
 
 \___________\
-🔚 🌒 2024-2025 .. <sub>([Notes/disclaimer](../../../_rsc) about graphic resources)</sub>
+🔚 🌒 2024-2025 .. [Notes/disclaimer](../../../_rsc/README.md) about graphic resources<br />
+<sub>Image credits: [The Mystery of Chess Boxing](https://www.imdb.com/title/tt0199813/?ref_=nm_flmg_job_1_cdt_t_13)</sub>
