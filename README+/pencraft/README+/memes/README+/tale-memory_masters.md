@@ -1,4 +1,4 @@
-# L<samp>EGEND</samp> of memory masters
+# L<samp>EGEND</samp> of Memory Masters
 
 [![Tales fron the crypt](https://img.shields.io/badge/Tales%20from-the%20crypt-violet?logo=readthedocs&logoColor=f0f)](#)
 
