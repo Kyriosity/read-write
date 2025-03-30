@@ -12,11 +12,11 @@
 
 ## Triptych&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Work Tenses
 
-<table align="center"><tr></tr><tr align="center"><td>PAST <b>PERFECT</b></td><td>PRESENT <b>SIMPLE</b></td><<td><b>FUTURE</b> SIMPLE</td></tr>
+<table align="center"><tr></tr><tr align="center"><td>PAST <b>PERFECT</b></td><td>PRESENT <b>SIMPLE</b></td><td><b>FUTURE</b> SIMPLE</td></tr>
   <tr valign="center" align="center">
-    <td><picture><img width="250px" alt="&nbsp;IBM PC" src="../../../../../_rsc/_img/af/IBM_PC-ClothIco.jpg" title="&nbsp;IBM PC merchanidise&#013;&#010;Screengrab: ZDNet.com" /></picture></td>
-    <td><picture><img width="250px" alt="&nbsp;Docker image" src="../../../../../_rsc/_img/symbols/logo/Docker_Software.jpg" title="&nbsp;Docker Inc.,&#013;&#010;software for cloud containters" /></picture></td>
-    <td><picture><img width="250px" alt="&nbsp;Imagine a qubit" src="../../../../../_rsc/_img/symbols/phys/MIT-qubit_500px.jpg" title="&nbsp;MIT, Awschalom Group, D. Laorenza" /></picture></td>
+    <td><picture><img width="250px" alt="&nbsp;IBM PC" src="../../../../_rsc/_img/af/IBM_PC-ClothIco.jpg" title="&nbsp;IBM PC merchanidise&#013;&#010;Screengrab: ZDNet.com" /></picture></td>
+    <td><picture><img width="250px" alt="&nbsp;Docker image" src="../../../../_rsc/_img/symbols/logo/Docker_Software.jpg" title="&nbsp;Docker Inc.,&#013;&#010;software for cloud containters" /></picture></td>
+    <td><picture><img width="250px" alt="&nbsp;Imagine a qubit" src="../../../../_rsc/_img/symbols/phys/MIT-qubit_500px.jpg" title="&nbsp;MIT, Awschalom Group, D. Laorenza" /></picture></td>
 </tr><tr align="center">
   <td><samp>IT HAD WORKED</samp><br /><b>on my machine</b></td>
     <td><b>IT WORKS</b><br /><samp>in my container</samp></td>
@@ -28,4 +28,4 @@
 <div align="middle">🚧🐝🚧 ... COMING SOONer or later ... 🚧🐝🚧</div>
 
 \___________\
-🔚 🌒 2025 .. images credits: Docker Inc., MIT, ZDNet magazine
+🔚 🌒 2025 .. image credits: Docker Inc., MIT, ZDNet magazine

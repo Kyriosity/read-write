@@ -4,7 +4,7 @@ The non-code stuff in repositories here contains diverse pictures, snapshots, sc
 
 ## Own resources
 
-Resources, created under this personal profile, such as collages, memes, or texts, contributed by repository owner(s), can be reproduced without asking permission but explicitly referencing the GitHub profile.
+Resources created under this personal profile, such as collages, memes, or texts, contributed by repository owner(s), can be reproduced without asking permission but explicitly referencing the GitHub profile.
 
 ## External resources
 
@@ -14,12 +14,12 @@ I have searched for and used works of others for fair and limited use:
 * just for fun,
 * non-commercial.
 
-When possible I refer the source or/and attribute to the author.
+When possible, I refer the source or/and attribute to the author.
 
 ## Miscellaneous
 
 I couldn't trace the authors of certain images/texts. (Archaeologists say that the source of any can be found in cuneiform.) 
-Some memes are too folk (public), or old to be proprietary or copyright-protected.
+Some memes are too folk (public) or old to be proprietary or copyright-protected.
 
 Some known images are utilized in collages for entertainment or presentation purposes only.
 
@@ -29,6 +29,7 @@ The tools mostly utilized to stuff the repositories are:
 
 + **Paint.net**, dotPDN LLC®️,
 + **LibreOffice** (with its galleries),
++ **Grammarly** (writing checker),
 + Microsoft®️ **Office**,
 + Microsoft®️ **Visual Studio** (Community version),
 + and **GitHub**.
