@@ -18,7 +18,7 @@ ___________<br />
 
 <table><tr valign="top"><td width="25%">
  <picture><img src="../../../../_rsc/_img/snap/screen/AutoCAD_sample.jpg" alt="&nbsp;AutoCAD drawing" title="&nbsp;AutoCAD&#8482; sample drawing.&#013;&#010;Image credit: AutoDesk&#174;" /></picture>
- <br /><ins>Buiding CADS are similar to IDEs</ins><br />
+ <br /><ins>Buiding CADS are similar to IDEs</ins> ...<br />
   <picture><img src="../../../../_rsc/_img/snap/screen/VisualStudio/VisualStudio-dependency_diagram-sample.jpg" alt="&nbsp;Visual Studio Dependency Diagram" 
             title="&nbsp;Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture>
 </td><td>
@@ -48,8 +48,8 @@ but to quickly define operating wholes rather than ripen aesthetic values.
 ## ...but diffs are bigger
 
 <p align="right"><b><code>IF</code></b>&nbsp;«Architecture is a frozen music.»<br />
-<i>Arthur Schopenhauer</i> (1788-1860)<br />
-<b><code>THEN</code></b>&nbsp;software is a symphonic cacophony<br />
+(<i>Arthur Schopenhauer</i>, 1788-1860)<br />
+<b><code>THEN</code></b>&nbsp;Software is a symphonic cacophony<br />
 [unleashed under the amateur circus tent&thinsp;].<br />
 <code><b>OR</b></code> <i>Tower of Babel</i> populated with <a href="../../quotes/README+/aside/controversy.md#woodpecker">woodpeckers</a><sup>💬</sup><br />[on steroids].</p>
 
@@ -192,7 +192,7 @@ from computer science`"((
 **Reputable software providers hire/promote architects; they are central figures at IT events. There's certification, after all.**
 
 Above all, **_software architect_** sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup>, and impresses hiring managers, customers, and stakeholders.&#8287;
-Neither _**expert**_, _**dev&nbsp;lord**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> is equivalent.
+Neither _**expert**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> is equivalent.
 
 > There is no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.<sup>👩‍👦‍👦</sup>
 
