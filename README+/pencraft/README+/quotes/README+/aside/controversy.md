@@ -1,9 +1,9 @@
-# Quotes &mdash; Backshelve &mdash; Controversy
+# Quotes &nbsp; &mdash; &nbsp; Backshelve &nbsp; &mdash; &nbsp; Controversy
 
 > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.\
 [Linus Torvalds](../contributors/README.md#Linus-Torvalds)
 
-Master _Torvalds_ could have meant renowned open-source contributors, but most smart guys in IT are for and because of wages and it never was a fun in commercial development.
+Master _Torvalds_ could have meant renowned open-source contributors, but most smart guys in IT are for and because of wages, and it was never fun in commercial development.
 
 ### Maternity ward
 
@@ -14,9 +14,9 @@ It suited a private aviation engineering talk but [Fred Brooks](../contributors/
 
 > The bearing of a child takes nine months, no matter how many women are assigned.
 
-Derogatory and illogical. Finding expert developers who can save a failing project ASAP is a question of payment. (Like Finding nine women in a city who will deliver even **ten** babies in less than a month is a fast linear search.) 
+Derogatory and illogical. Finding expert developers who can save a failing project ASAP is a question of payment. (Finding nine women in a city who will deliver even **ten** babies in less than a month is a fast linear search.) 
 
-[Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra) conveyed the idea much more plausible (albeit about programming languages, 1975):
+[Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra) conveyed the idea much more plausibly (albeit about programming languages, 1975):
 
 > It is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with **ten** blunt axes instead.
 
@@ -27,7 +27,7 @@ Derogatory and illogical. Finding expert developers who can save a failing proje
 > **Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.** Code for readability.\
 _John F. Woods_, /comp.lang.c++/, 1991
 
-This accidental quote in a newsgroup became one of the most cited in IT (oft for fun). Unrealistic "always" demotivates aspiration to [quality code](../../../../../software/QA/README+/code-quality.md) (harmful and wrong).
+This accidental quote in a newsgroup became one of the most cited in IT (often for fun). Unrealistic "always" demotivates aspiration to [quality code](../../../../../software/QA/README+/code-quality.md) (harmful and wrong).
 
 
 > **Software is Art.**\
@@ -43,9 +43,9 @@ It is pleasing but barely real - there are no galleries of Old Masters with Algo
 > **If builders built houses the way programmers built programs, the first <mark>woodpecker</mark> to come along would destroy civilization.**\
 Attributed to [Gerald Weinberg](../contributors/README.md#Gerald-Weinberg)
 
-Knowing the high-responsibility software in which Mr.&nbsp;Weinberg participated one would strongly doubt his authorship. Unless it was a sheer joke.
+Knowing the high-responsibility software in which Mr.&nbsp;Weinberg participated, one would strongly doubt his authorship. Unless it was a sheer joke.
 
-Despite all epic failures, software, on which our life depends, is extremely robust and, contrary, made the world safer (consider IT behind 50'000 daily civil aviation flights). 
+Despite all the epic failures, software, on which our life depends, is extremely robust and, contrary, has made the world safer (consider IT behind 50'000 daily civil aviation flights). 
 
 The aphorism shall better be: "If the software was built like houses, custom projects would be a luxury."
 
@@ -63,7 +63,7 @@ The aphorism shall better be: "If the software was built like houses, custom pro
 > <mark><b>C++</b> is a language strongly optimized for liars and people who go by guesswork and ignorance.</mark> 🤦‍♂️\
 _Erik Naggum_, Lisp programmer, 2008 on Usenet
 
-Sure, an environment may force bad practices but they don't make developers. Vice versa, limitations can stimulate optimization, abstraction, pattern thinking, and search for unexpected solutions. 
+Sure, an environment may force bad practices, but they don't make developers. Vice versa, limitations can stimulate optimization, abstraction, pattern thinking, and search for unexpected solutions. 
 
 ### Paradigms
  
@@ -92,7 +92,7 @@ _Stephen Edwin King_
 
 Whether one has read books by Mr. King or not, likes them or not, the indisputable fact is that he remains an incredibly prolific author of bestselling stuff for decades (and a worthy person).
 
-Following this and his other conclusions for authoring is like teaching a kid to ride city byke from downhill champions. 
+Following this and his other conclusions for authoring is like teaching a kid to ride a city bike from downhill champions. 
 
 \___________\
 🔚 ...but to be continued...
