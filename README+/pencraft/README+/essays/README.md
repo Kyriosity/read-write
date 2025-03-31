@@ -3,20 +3,20 @@
 <table>
   <tr>
     <td>
-      <a href="README+/AI-2020s.md"><img src="../../../_rsc/_img/_nav/tiles/AIchemy_200px.jpg" alt="AI-2020s.md" title="&nbsp;AI Twenties - Much ado about ... fussing?"/></a>
+      <a href="README+/AI-2020s.md"><img src="../../../_rsc/_img/_nav/tiles/AIchemy_bw-200px.jpg" alt="AI-2020s.md" title="&nbsp;AI Twenties - Much ado about ... fussing?"/></a>
       <br /><div align="center"><h4><a href="README+/AI-2020s.md">AI <samp>TWENTIES</samp></a></h4></div>
     </td>
       <td>
-      <a href="README+/LN-view.md"><img src="../../../_rsc/_img/_nav/tiles/LotusNotes_200px.jpg" alt="&nbsp;LN-view.md" title="&nbsp;Lotus Notes - This used to be my playground"/></a>
+      <a href="README+/LN-view.md"><img src="../../../_rsc/_img/_nav/tiles/LotusNotes_bw-200px.jpg" alt="&nbsp;LN-view.md" title="&nbsp;Lotus Notes - This used to be my playground"/></a>
       <br /><div align="center"><h4><a href="README+/LN-view.md">LOTUS NOTES</a></h4></div>
     </td>
         <td>
-      <a href="README+/punchcard.md"><img src="../../../_rsc/_img/_nav/tiles/punchcard_200px.jpg" alt="&nbsp;punchacrd.md" title="&nbsp;Punchcards - once upon a time"/></a>
+      <a href="README+/punchcard.md"><img src="../../../_rsc/_img/_nav/tiles/punchcard_bw-200px.jpg" alt="&nbsp;punchacrd.md" title="&nbsp;Punchcards - once upon a time"/></a>
         <br /><div align="center"><h4><a href="README+/punchcard.md">PUNCHCARDS</a></h4></div>
     </td>
                                             </tr><tr></tr><tr>
     <td>
-      <a href="README+/SW_architect-aTake.md"><img src="../../../_rsc/_img/_nav/tiles/Architect_200px.jpg" alt="&nbsp;U-Val" title="&nbsp;Finding Software Architect - a Take"/></a>
+      <a href="README+/SW_architect-aTake.md"><img src="../../../_rsc/_img/_nav/tiles/Architect_bw-200px.jpg" alt="&nbsp;U-Val" title="&nbsp;Finding Software Architect - a Take"/></a>
       <br /><div align="center"><h4><a href="README+/SW_architect-aTake.md">ARCHITECT(URE)</a></h4></div>
     </td>
   <td>
