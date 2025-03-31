@@ -1,4 +1,4 @@
-# IT Quotes &mdash; Aged not that good
+# IT Quotes &nbsp; &mdash; &nbsp; Aged not that good
 
 ## Skills
 
@@ -32,7 +32,7 @@ With the elapsed **25** of 30 popular metrics put __`Java`__ in the top five, an
 > The programmer's primary weapon in the **never-ending battle against slow system** is to change the intramodular structure.\
 [Fred Brooks](../contributors/README.md#Fred-Brooks)
 
-I dare to say that this battle is over and resource starvation with performance hits is no longer a headache for the majority of applications.
+I dare to say that this battle is over, and resource starvation with performance hits is no longer a headache for the majority of applications.
 
 > **Software gets slower faster than hardware gets faster.**\
 [Niklaus Wirth](../contributors/README.md#Niklaus-Wirth), 1995, "A Plea for Lean Software" (aka Wirth's law)
