@@ -21,16 +21,16 @@
     </td>
   <td>
     <!--                  T D D   W A T E R S H E D !-->
-      <a href="../../../software/tests/asDrive/README+/TDD-Watershed/README.md"><img src="../../../_rsc/_img/_nav/tiles/TddWatershed_200px.jpg" alt="&nbsp;TDD-Big_Watershed.md" title="&nbsp;Tests Driven What - Watershed"/></a>
+      <a href="../../../software/tests/asDrive/README+/TDD-Watershed/README.md"><img src="../../../_rsc/_img/_nav/tiles/TddWatershed_bw-200px.png" alt="&nbsp;TDD-Big_Watershed.md" title="&nbsp;Tests Driven What - Watershed"/></a>
       <br /><div align="center"><h4><a href="../../../software/tests/asDrive/README+/TDD-Watershed/README.md">TD<mark>?D</mark> WATERSHED</a></h4></div>
     </td>
     <td>
-        <a href="../quotes/README+/inspirational.md"><img src="../../../_rsc/_img/_nav/tiles/InspitationQuotes_200px.jpg" alt="&nbsp;inspirational.md" title="&nbsp;Quotes to work and rest"/></a>
+        <a href="../quotes/README+/inspirational.md"><img src="../../../_rsc/_img/_nav/tiles/InspitationQuotes_bw-200px.png" alt="&nbsp;inspirational.md" title="&nbsp;Quotes to work and rest"/></a>
         <br /><div align="center"><h4><a href="../quotes/README+/inspirational.md">QUOTES for INSPIRATION</a></h4></div>
     </td>
         </tr><tr></tr><tr>
       <td>
-        <a href="../../../software/ArcDeco/README.md"><img src="../../../_rsc/_img/_nav/tiles/ArcDeco_200px.jpg" alt="&nbsp;Arc, design, dev, code" title="&nbsp;Study of Software"/></a>
+        <a href="../../../software/ArcDeco/README.md"><img src="../../../_rsc/_img/_nav/tiles/ArcDeco_bw-200px.png" alt="&nbsp;Arc, design, dev, code" title="&nbsp;Study of Software"/></a>
         <br /><div align="center"><h4><a href="../../../software/ArcDeco/README.md">ARC DECO</a>&thinsp; 🐝</h4></div>
      </td>
     <td>
@@ -38,7 +38,7 @@
       <br /><div align="center"><h4>? PEN RESISTANCE ?</h4>
     </td>
     <td>
-      <a href="../offtopic/anti-home-office.md"><img src="../../../_rsc/_img/_nav/tiles/_BonusTrack_200px.jpg" alt="&nbsp;Bonus track: anti-home-office" title="&nbsp;Neither office nor home spots"/></a>
+      <a href="../offtopic/anti-home-office.md"><img src="../../../_rsc/_img/_nav/tiles/_BonusTrack_bw-200px.png" alt="&nbsp;Bonus track: anti-home-office" title="&nbsp;Neither office nor home spots"/></a>
         <br /><div align="center"><h4><a href="../offtopic/anti-home-office.md"">ANTI-HOME-OFFICE</a></h4></div>
     </td>
   </tr>
