@@ -1,4 +1,4 @@
-# IT Quotes &mdash; Misinterpreted, misattributed and disputed
+# IT Quotes &nbsp; &mdash; &nbsp; Misinterpreted, misattributed and disputed
 
 <p dir="rtl"><mark>I never posted even one-tenth of<br/>
 .the garbage they will quote as mine</mark><br/>
@@ -9,7 +9,7 @@
 > **If you can't explain it simply, you don't understand it well enough.**\
 <s>Albert Einstein</s> 🤦‍♂️🤦🤦‍♀️
 
-The backside of scientific fame is that the figure of Albert Einstein (but not he) became the King of misattributed citation. And this quote, beloved in sci-pop and crash courses, is a shining diamond in the crown of dubious authorship.
+The downside of scientific fame is that the figure of Albert Einstein (but not he) became the King of misattributed citation. And this quote, beloved in sci-pop and crash courses, is a shining diamond in the crown of dubious authorship.
 
 Dr.&nbsp;Einstein would be the least thinker for such an idea. **Nobody can explain a thesis simply** (or in detail) **if the learner doesn't know the subject fundamentally.** Not every wizard will even remember the learning path left behind.
 
