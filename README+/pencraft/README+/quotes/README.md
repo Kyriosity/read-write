@@ -1,4 +1,4 @@
-# IT - Quotes store
+# IT &nbsp; &mdash; &nbsp; Quotes store
 
 <p dir="rtl">?What makes a good quote<br/>
 .Terse, witty? —  That's for aphorisms<br/>
@@ -30,4 +30,4 @@
   </tr>
 </table>
 
-:end: 🌒(2024-2025) ... see also 👩‍🔬[Contributors](README+/contributors/)🧑‍💻
+:end: 🌒(2024-2025) ... _see also_ 👩‍🔬[**Contributors**](README+/contributors/)🧑‍💻
