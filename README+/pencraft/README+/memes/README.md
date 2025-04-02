@@ -84,7 +84,13 @@ The caricature may look sloppy, but its author Karl Arnold had astonishingly esc
 
 </details>
 
-1956: IT conquered the world
+<details><summary>💻<ins>&nbsp;<b><mark>1956</mark>: IT conquered the world</b>&nbsp;</ins></summary>
+&nbsp;
+
+<picture><img alt="&nbsp;&nbsp;Poster: IT Conquered the World, 1956, Sci-Fi, Horror. Director: Roger Corman" src="../../../_rsc/_img/snap/movies/1956.IT_conquered_the_World.jpg" 
+     title="Sci-Fi, Horror,&#010;&#013;Sunset Productions (III), 1956,&#010;&#013;Director: Roger Corman" /></picture>
+
+</details>
 
 <details><summary>💿<ins>&nbsp;<b><mark>1956</mark>: When disks were indeed hard and strong skills in IT for real...</b>&nbsp;</ins></summary>
 &nbsp;
