@@ -1,4 +1,4 @@
-# Code&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Patterns
+# Code&nbsp;&nbsp; &mdash; &nbsp;&nbsp;Patterns
 
 The famed vision of code constructs as [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)<sup><b>w</b></sup> has spread over software templates, project solutions, methodologies, and even developers' manners, but let's stay on its initial meaning.
 
@@ -24,7 +24,7 @@ This also refers to overuse when, for example,  _Builders_ cover trivial constru
 Unsuitable context may negate any pattern. Specimens? 
 
 - Doubtful _singleton_ in Java or C# where injection is an escape: `void ProvePeriphery(ILog sharedLog);`
-- any `Lazy<...>` loading that could be done async
+- any `Lazy<...>` loading that could be done async or/and custom
 
 ### Naming
 

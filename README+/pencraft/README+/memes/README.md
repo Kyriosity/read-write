@@ -49,7 +49,7 @@ Translated east-to-west this means: find a sinecure in a big company.
 
 <picture><img alt="Guaranteed random by fair dice roll" src="../../../_rsc/_img/memes/IT-meme.random-number.png" /></picture><br/><br/>
 
-And ... the twist! It was a real random number, while algorithms generate only pseudo-random ones.
+And ... the twist! It was a real random number, while algorithms generate pseudo-random ones.
 
 As the extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/README.md#John-von-Neumann) stressed:
 
@@ -83,6 +83,8 @@ This is justified because of the changed requirements as discussed a bit in [quo
 The caricature may look sloppy, but its author Karl Arnold had astonishingly escaped futuristic cringe: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
 
 </details>
+
+1956: IT conquered the world
 
 <details><summary>💿<ins>&nbsp;<b><mark>1956</mark>: When disks were indeed hard and strong skills in IT for real...</b>&nbsp;</ins></summary>
 &nbsp;
