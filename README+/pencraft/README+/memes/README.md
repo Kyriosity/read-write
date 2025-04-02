@@ -64,7 +64,7 @@ As the extraordinary [John von&nbsp;Neumann](../quotes/README+/contributors/READ
 
 <picture><img alt="Here is X. Calm down Pythagoras" src="../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg" /></picture><br/><br/>
 
-This is justified because of the changed requirements as discussed a bit in [quotes](../quotes/README+/aside/sour_quotes.md#math).
+This is a very justified answer because of the changed requirements to programmers, as discussed a bit in [quotes](../quotes/README+/aside/sour_quotes.md#math)<sup>💬</sup>.
 
 \___________</details>
 
@@ -87,15 +87,17 @@ The caricature may look sloppy, but its author Karl Arnold had astonishingly esc
 <details><summary>💻<ins>&nbsp;<b><mark>1956</mark>: IT conquered the world</b>&nbsp;</ins></summary>
 &nbsp;
 
-<picture><img alt="&nbsp;&nbsp;Poster: IT Conquered the World, 1956, Sci-Fi, Horror. Director: Roger Corman" src="../../../_rsc/_img/snap/movies/1956.IT_conquered_the_World.jpg" 
+<picture><img alt="&nbsp; Movie poster: IT Conquered the World, 1956. Tagline: EVERT NAN ITS PRISONER ... EVERT WOMAN ITS SLAVE!" src="../../../_rsc/_img/snap/movies/1956.IT_conquered_the_World.jpg" 
      title="Sci-Fi, Horror,&#010;&#013;Sunset Productions (III), 1956,&#010;&#013;Director: Roger Corman" /></picture>
+
+Another striking prediction (note the uncompromising _past tense_) from the year when **IT** were embryonic but just before their boom. The horrific backend was also the match.
 
 </details>
 
 <details><summary>💿<ins>&nbsp;<b><mark>1956</mark>: When disks were indeed hard and strong skills in IT for real...</b>&nbsp;</ins></summary>
 &nbsp;
 
-<picture><img alt="&nbsp;&nbsp;The year 1956: loading an IBM disk to rent" src="../../../_rsc/_img/photo/hist/IBM350_1956.jpg" /></picture><br/><br/>
+<picture><img alt="&nbsp; The year 1956: loading an IBM disk to rent" src="../../../_rsc/_img/photo/hist/IBM350_1956.jpg" /></picture><br/><br/>
 
 </details>
 
