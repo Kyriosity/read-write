@@ -1,9 +1,9 @@
-# L<samp>EGEND</samp> of Memory Masters
+# The L<samp>EGEND</samp> of Memory Masters
 
 [![Tales fron the crypt](https://img.shields.io/badge/Tales%20from-the%20crypt-violet?logo=readthedocs&logoColor=f0f)](#)
 
 > I heard it from a <code>C++</code>-gifted colleague when we exchanged [<samp><b>DOOM</b></samp>](https://en.wikipedia.org/wiki/Doom_(1993_video_game))&thinsp;<sup><b>w</b></sup> experience (already lores too).\
-> He told what he knew from <i>olds</i> &mdash; true multi-warrior computer games with epic wins are a thing of the past &mdash; times of two-row monochrome text monitors (if not arrays of light bulbs).</p>
+> What he told was what he knew from <i>olds</i> &mdash; true multi-warrior computer games with epic wins are a thing of the past &mdash; times of two-row monochrome text monitors (if not arrays of light bulbs).</p>
 
 I remastered and enhanced that.
 
@@ -19,4 +19,5 @@ I remastered and enhanced that.
 </td></tr></table>
 
 \___________\
-🔚 🌘 2025 .&thinsp;.&thinsp;. Image credits: screengrab, imdb.com: <i>Born Invincible</i>, 1978; Wiki media: Intel 1103 memory
+🔚 🌘 2025 .&thinsp;.&thinsp;. kyriosity\
+Image credits: screengrab, imdb.com: <i>Born Invincible</i>, 1978; Wiki media: Intel 1103 memory
