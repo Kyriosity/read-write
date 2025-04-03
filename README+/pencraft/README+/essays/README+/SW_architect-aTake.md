@@ -32,7 +32,7 @@ but to quickly define operating wholes rather than ripen aesthetic values.
 
 🔋 Both must accumulate mainstream and alternate practices and reveal patterns.
 
-💥 Imperfect abstraction and planning can make both a mess, which products loudly crash.
+💥 Both imperfect abstraction and planning can produce a mess, which will loudly crash.
 
 🎈 Abuse of both for hollow promises and sandcastles is more frequent than in other industries.
 
@@ -108,13 +108,13 @@ checkout bug-fix
 
 <table><tr align="left" valign="top"><td width="50%"><picture><img alt="&nbsp;Museu_do_amanha(tripadvisor.com).jpg" src="../../../../_rsc/_img/photo/build/Museu_do_amanha(tripadvisor.com).jpg" title="&nbsp;Designed by Santiago Calatrava" /></picture><br />
       <i>Museum of Tomorrow, Rio de Janeiro</i>
-<div align="right"><picture><img src="../../../../_rsc/_img/signs/arrows/back-forth_skewed_200px.jpg" alt="&nbsp;C O M P A R E"/></picture></div>
+<div align="right"><picture><img src="../../../../_rsc/_img/signs/arrows/back-forth_skewed_200px.png" alt="&nbsp;&nwarr; C O M P A R E &searr;"/></picture></div>
 </td><td>
 <p>Building rests on functional design that facilitates easy, cheap, mass construction. 
  The most advanced and creative specimen may be endowed to break the standards and create unique, extraordinary pieces of aesthetics, art, and cultural heritage.</p>
 <p>Extravagant (and still working) IT ideas don't require solid fundamentals, however, mature software design canalizes creativity into uniform mainstream: standards, patterns, and templates.</p>
 <br /><picture><img alt="&nbsp;Lotus 1-2-3 on OS/2" src="../../../../_rsc/_img/snap/screen/Lotus123-OSdiv2.jpg" title="&nbsp;Editor of Lotus 1-2-3&#013;&#010;(snapshot from ecsoft2.org)" /></picture><br />
-       <i>Lotus 1-2-3 from the previous century still defines the UX and functionality of spreadsheets.</i></a>
+       <i>Lotus 1-2-3 and its predecessors from the previous century still define the UX and functionality of spreadsheets.</i></a>
 </td></tr></table>
 </details>
 
@@ -128,8 +128,8 @@ Contrary to the evolution of building **programming disperses the classical figu
 > 
 > **This assumes neither skills parity nor full knowledge of each technology and methodology.**&#8287;
 > The bigger the project, the bigger the vertical&varr; and horizontal&harr; offsets of team members according to skills, talents, experience, and preferences with or without roles exchange.
-> <p align="center">( &varr; between coding and design; &harr; within the technologies stack)</p>
-> <p>The "best" recipe of mashed design (puree) is to smear nitty-gritty over all development heads.</p>
+> <p align="center">( <b>&varr;</b> between coding and design; &harr; within the technologies stack)</p>
+> <p>The "best" recipe of mashed design (puree) is to smear nitty-gritty over all developers' tables.</p>
 
 <details><summary><ins>&nbsp;<b>"Architect" is often an alias or catch-all term for well-known roles and duties:</b>&nbsp;</ins> ➡️</summary>
 
