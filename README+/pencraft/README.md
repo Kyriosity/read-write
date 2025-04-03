@@ -3,7 +3,7 @@
 <table width="80%" align="center"><tr></tr><tr><td>
 
 [__Documentation__](README+/tech_docu.md)<sup>📄</sup> and [__authoring__](README+/tech-authoring.md)<sup>🖊️</sup> are two very dissimilar employments of writing and painting skills<br />
-with opposed values of formalism, creativity, envisaging, and styles.
+with opposing values of formalism, creativity, envisaging, and styles.
 
 </td></tr></table>
 
@@ -19,18 +19,18 @@ The principled distinction is __*driven*__ vs __*drives*__:
 
 When it's often a reader's headache to find and study the right <ins>documentation</ins> in any state and grade, with <ins>authoring</ins>, it's a burden of "pensters" to attract the public. 
 
-Sticking to the narrowed vocabulary, repetitions, and cliches are benefactors in documentation, but authoring sins.
+Sticking to the narrowed vocabulary, repetitions, and cliches are benefactors in documentation but authoring sins.
 
 Regardless of mission, significant writing is an expensive and exhausting exercise. If not a hobby or bondage, it must:
 
-+ [x] have a live eager auditorium,
++ [x] have a live, eager auditorium,
 + [x] exceed other ways of teaching,\
 (consider quickly sketched presentation, captured video tutorial, or even watercooler talks)
 + [x] be long-term (updated and evolved).
 
 ## Vital side effects
 
-<table><tr><td><picture><img alt="&nbsp;Mango fruit" src="../_rsc/_img/photo/nat/mango/red_on_bk-500px.jpg" width="200px"/></picture></td><td>
+<table><tr><td><picture><img alt="&nbsp;Mango fruit" src="../_rsc/_img/photo/nat/mango/red_on_transparent-500px.png" width="200px"/></picture></td><td>
 
 Documenting/sketching ideas for even small features mitigates the impedance between the stretch of imagination and implementation reality. 
 
@@ -42,7 +42,7 @@ Namely, formalization and structuring compel us to reexplore and examine concept
 
 The writings and collections here are ...
 
-* The subject of personal taste, inclination, vision, and fallacies. (It's up to you whether to look them through or recoil in distaste.)
+* The subject of personal taste, inclination, vision, and fallacies. (It's up to you to look them over or recoil in distaste.)
 * The subject of continuous delivery (i.e. endless edit and modification).
 * Some opuses may be in the badly readable state of 🚧draft🐝 (skip them while I do my best to finish).
 
