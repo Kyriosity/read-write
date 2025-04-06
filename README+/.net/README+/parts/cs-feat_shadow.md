@@ -16,7 +16,7 @@ Sure, event/stream-based development isn't for every use and its paradigm requir
 
 ## Explicit extensions - STILL in DEVELOPMENT❗
 
-[Proposal](https://github.com/dotnet/csharplang/blob/main/proposals/extensions.md)<sup>:octocat:</sup> of Mads Torgersen himself divides extensions for implicit and explicit.
+[Proposal](https://github.com/dotnet/csharplang/blob/main/proposals/extensions.md)<sup>:octocat:</sup> of the lead designer himself divides extensions for implicit and explicit.
 
 The former is just a better syntax for extension methods. The latter intercepts much with inheritance and shall be used with care for pure functional logic.
 

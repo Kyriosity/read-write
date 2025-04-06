@@ -65,10 +65,10 @@ var rfidTagFilter = 0b_0111_1100_0100_0011;
 
 </details>
 
-<details><summary><ins>&nbsp;Name "magic" constants&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;Title not name "magic" constants&nbsp;</ins></summary>
 &nbsp;
 
-Making a "magic value" to constants or predefined values doesn't clean the code unless named good.   
+Moving "magic values" to constants or predefined values doesn't clean the code **unless** named good.   
   
 ```diff csharp
 -     legacySystem.ModuleD1.Abracadabra = true; // specifies that text input is treated as case-sensitive
@@ -87,7 +87,7 @@ Making a "magic value" to constants or predefined values doesn't clean the code 
 
 ```diff csharp
 -    throw new ArgumentException(state.ToString());
-// shorter and the message can be easily decorated with text
+// shorter and easy to decorate with text
 +    throw new ArgumentException($"{state}")); 
 ```
 

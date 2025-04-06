@@ -120,7 +120,6 @@ Not only the East grant us profound and eloquent teaching! Whatever Mr. Kipling*
  Ecce Homo. Wie man wird, was man ist (1889),</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>👯</sup> <sub>Original: „Wir sollten jeden Tag als verloren betrachten, an dem wir nicht mindestens einmal getanzt haben.“</sub>
 
-
 #### Great ideas that came in the sleep
 
 To name a few of the officially recognized:
@@ -238,7 +237,7 @@ To make a customer feel guilty for it - the **art**.
 > **Never allow the same bug to bite you twice.**\
 _Steve Maguire_, programmer and author
 
-#### Manifest of the thinking tester
+#### Manifest of the ingenious tester
 
 > Hackers are innovative and resourceful, and so are we. They never stop thinking about new ways to harm our software and our users, and neither do we.
 
@@ -250,7 +249,7 @@ Security conference, August/2004
 _Andres Freund_, a programmer who occasionally found out the [XZ Utils backdoor](https://en.wikipedia.org/wiki/XZ_Utils_backdoor),
 in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html">NYT inteview</a>, 2024.<sup>🙋</sup>
 
-<sup>🙋</sup> <sub>Hyperbolized by media to a "century cyberattack" though even being smartly and longly planned it couldn't infiltrate all distributions and required many conditions to coincide.</sub>
+<sup>🙋</sup> <sub>Media had hyperbolized it to a "century cyberattack". Though being tricky and longly planned it was far off to infiltrate most "distros", required many conditions to coincide and would manifest itself soon.</sub>
 
 \_________________________________</details>
 
