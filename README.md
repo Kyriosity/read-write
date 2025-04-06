@@ -47,10 +47,10 @@ Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbs
   &nbsp;&nbsp;🪟&nbsp;<a href="README+/.net/README+/wpf"><b>W&thinsp;P&thinsp;F</b></a>
     <!--                   C L O S E R  to  C O D E      --!>
  <br/><br/><kbd>Closer to code</kbd><br/>
-  &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-hints.md">Hints</a>&nbsp;➡️&nbsp;
+  &nbsp;&nbsp;&nbsp;<a href="README+/.net/README+/cs-hints.md"><mark>&thinsp;Hints&thinsp;</mark></a>&nbsp;➡️&nbsp;
  <a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames">Frames</a>&nbsp;&nbsp;<b>.&thinsp;.&thinsp;.</b>
  <br />
- &nbsp;&nbsp;&nbsp;<b>.&thinsp;.&thinsp;.</b>&nbsp;&nbsp;and more on <a href="https://github.com/Kyriosity/use-dev/"><b>&thinsp;use-dev&thinsp;</b></a>&nbsp;
+ &nbsp;&nbsp;&nbsp;<b>.&thinsp;.&thinsp;.</b>&nbsp;&nbsp;and more on <a href="https://github.com/Kyriosity/use-dev/blob/main/README.md"><b>&thinsp;use-dev&thinsp;</b></a>&nbsp;
 </td><td colspan="2" align="left">
       <picture><img src="README+/_rsc/_img/_nav/IT_is_waterfall-ext.jpg" alt="&nbsp;&nbsp;... then IT must be a waterfall" /></picture>
      </td>
