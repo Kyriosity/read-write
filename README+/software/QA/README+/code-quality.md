@@ -31,7 +31,7 @@ High-quality code shall present
 
 + syntax that prevents typos<sup>🎼</sup> and mistakes<sup>🥎</sup>,
 + pronounced logical flows (e.g., early returns, shallow enclosures),
-+ minimum redundancies and repetitions.
++ foolproof input/import.
 
 The highest merit is that even a breaking change won't surprise devs and users with unexpected side effects.
 
@@ -86,10 +86,8 @@ Top up with the fact that not every developer self-reflects on "submit and forge
 
 ## Appendix. Still mediocre code &nbsp;&mdash;&nbsp; Why&thinsp;?&thinsp;!
 
-Apart from environments where seeds of good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup>, even motivated smart teams may not reach high quality in very good conditions with enough resources and freedoms. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:wilted_flower:</sup>&nbsp;<sub>Budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:desert:</sup>&nbsp;<sub>Prototypes, stand-alone auxiliaries, temporary solutions.</sub>
+Apart from environments where seeds of good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup>, 
+**motivated smart teams may not reach high quality in very good conditions with enough resources and freedoms.**
 
 Besides _classical_ over-creativity and procrastination, the reasons could be:
 
@@ -101,8 +99,12 @@ Besides _classical_ over-creativity and procrastination, the reasons could be:
 Some prominent individuals develop great apps alone and are so good at keeping all details and the whole picture in mind that they don't need and like to lose time with code organization. 
 However, this is exceptional and not about enterprise development.
 
-</td><td width="30%">
-  <picture><img alt="&nbsp;Stone monolyth" src="../../../_rsc/_img/photo/nat/DerAlteSchwede.jpg" title="Waterfall monolyth again..." /></picture>
-</td></tr></table>
+\___________\
+&nbsp;&nbsp;&nbsp; <sup>:wilted_flower:</sup> <samp>Budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation.</samp>\
+&nbsp;&nbsp;&nbsp; <sup>:desert:</sup> <samp>Prototypes, stand-alone auxiliaries, temporary solutions.</samp>
 
+</td><td width="30%">
+  <a href="../../../_rsc/_img/photo/blog/mount/DevVsMonolyth.jpg"><img alt="&nbsp;Stone monolyth" src="../../../_rsc/_img/photo/nat/DerAlteSchwede.jpg" title="Waterfall monolyth again..." /></a>
+</td></tr></table>
+    
 🔚 ...🌜2023-2025
