@@ -69,10 +69,12 @@ _Errare humanum est_, and enough quality code allows one to focus tests on ...
 
 With all that said, why does flawed code prevail and _clean code_ migrate to buzzwords? 
 
-1. Poor-quality code is written much faster, cheaper, and without heated debates.<sup>🥴</sup> And as it does the job, counter-arguments fade.
-2. Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup> and exponentially growing issues from bad software parts.\
+**1.** Poor-quality code is written much faster, cheaper, and without heated debates.<sup>🥴</sup> And as it does the job, counter-arguments fade.
+
+**2.** Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup> and exponentially growing issues from bad software parts.\
 The point when controllable chaos goes out of control or a security breach manifests itself may be crucial but will lay far in the next releases.<sup>:parachute:</sup>
-4. Intention for quality is good, but if efforts aren't complete, deficient code will still come with a massive overhead. 
+
+**3.** Intention for quality is good. Albeit if efforts aren't complete, deficient code will still come, but with a massive overhead. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🥴</sup>&nbsp;<sub>Provided one doesn't bother with [development] principles.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family_man_woman_boy_boy:</sup>&nbsp;<sub>Customers, developers, testers, users, and project organizers.</sub>\
@@ -80,7 +82,7 @@ The point when controllable chaos goes out of control or a security breach manif
 
 Top up with the fact that not every developer self-reflects on "submit and forget" doing, and not every project management will draw a golden section between profanity and academism. 
 
-<table><tr valign="top"><td>
+<table><tr></tr><tr valign="top"><td>
 
 ## Appendix. Still mediocre code &nbsp;&mdash;&nbsp; Why&thinsp;?&thinsp;!
 
