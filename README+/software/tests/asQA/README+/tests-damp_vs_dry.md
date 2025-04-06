@@ -27,7 +27,7 @@ Needless to point out the virtues of this approach but one great flaw: <ins>&thi
     <p>The refactoring counterblast is to <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> (<i><b>D</b>on't <b>R</b>repeat <b>Y</b>ourself</i>).</p>
 </td></tr></table>
 
-# DRY it - A<samp>RRANGE</samp>
+# DRY it &nbsp;&mdash;&nbsp; A<samp>RRANGE</samp>
 
 ## Feed expansion
 
@@ -57,41 +57,41 @@ Each of these items alone proportionally enhances the number of test cases (with
 
 ### Multitype parameters
 
-Whether for strictly or weakly typed languages the same argument value may appear in different types (e.g. integer and floating point for the same calculations).
+Whether for strictly or weakly typed languages, the same argument value may appear in different types (e.g., integer and floating point for the same calculations).
 
-#### Solution
+#### Ideas
 
 Many languages support generic types, which a test method may discern.
 
 🧪[Phys/Math tests](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/FuncStore.Convers.Tests/PhysMath) in custom <code></b>C#</b> funcware</code> utilize such a technique for numeric values.
 
-## Solutions/Workarounds
+## Solutions&thinsp;/&thinsp;Workarounds
 
-The easiest and alluring response is to write fewer tests concentrating on guiding ones and stowing routine checks in folders where nobody will look (till an error occurs). 
-Auto-generation tools may help but their setting and tuning may be overkill.
+The easiest and alluring response is to write fewer tests, concentrating on guiding ones and stowing routine checks in folders where nobody will look (till an error occurs). 
+Auto-generation tools may help, but their setting and tuning may be overkill.
 
 What known frameworks and less known workarounds can do is the subject of the repo with more close-up to practical code:
 
-<table><tr><td><picture><img alt="&nbsp;READ-WRITE meets USE-DEV" width="100px" src="../../../../_rsc/_img/_nav/read-write_use-dev.jpg" /></picture></td><td>
-    <a href="https://github.com/Kyriosity/use-dev/blob/main/README%2B/tests/README%2B/prog_tests-cut_feeds.md">Cutting the feeds</a>
+<table align="center"><tr></tr><tr><td><picture><img alt="&nbsp;READ-WRITE meets USE-DEV" width="100px" src="../../../../_rsc/_img/_nav/read-write_use-dev.jpg" /></picture></td><td>
+    <a href="https://github.com/Kyriosity/use-dev/blob/main/README%2B/tests/README%2B/prog_tests-cut_feeds.md"><b>Cutting the feeds</b></a>
 </td></td></tr></table>
 
-# D<samp>RY</samp> it - A<samp>SSERT</samp>
+# D<samp>RY</samp> it &nbsp;&mdash;&nbsp; A<samp>SSERT</samp>
 
-If *Arrange* could be the **X** axis of extension then *Assert* must be **Y**. (It looks so on the screen.)
+If *Arrange* could be the **X** axis of extension, then *Assert* must be **Y**. (It looks so on the screen.)
 
 ## Keep It Single... Or Multiple?
 
 The widely adopted practice &mdash; one *Assert* per test method/test case &mdash; became the teaching and often a written rule.
 
-Albeit the subject isn't always atomic as it may seem. An _Act_ may assume many actions and the test result can be split.\
+Albeit, the subject isn't always as atomic as it may seem. An _Act_ may assume many actions, and the test result can be split.\
 For example, consider native methods as `string.IsNullOrWhitespace(..)` for either *Act* or *Assert*.
 
 Repeating arrangements for miscellaneous _Asserts_ is a growth steroid. 
 And there can be even a deeper negative side effect &mdash; a small error can trigger a salvo of failing tests. 
 Such a salute will hardly provide a clue but rather hide it in dependencies - inevitable even with granulated and isolated units and best-structured folders.
 
-## Solutions
+## Ideas
 
 <details><summary><ins>&nbsp; History teaches us that one failure might be enough to know...&nbsp;</ins></summary>
     
@@ -112,9 +112,9 @@ Grouping _Asserts_ for the same _Arrange_ is a call of reason.
 // EXAMPLE PENDING
 ```
 
-As intuition must suggest they can be best ordered from the most autonomous to the most dependent (not only by reference/hierarchy but, principally, logic).
+As intuition must suggest, they can be best ordered from the most autonomous to the most dependent (not only by reference/hierarchy but, principally, logic).
 
-Advanced versions shall deal with _Arrange_ and _Act_ blending and branching but this asks for <s>funding</s> a good big pragmatic case to study and implement.
+Advanced versions shall deal with _Arrange_ and _Act_ blending and branching, but this asks for <s>funding</s> a good, big pragmatic case to study and implement.
 
 #### Posers
 
@@ -126,7 +126,7 @@ When a mass of tests exceeds the eyes' capabilities, it's clever to select the "
 
 Example: math engine of a project. If a floating error emerges neither API errors shall matter.
 
-## Wrap up. D<samp>RY</samp> but not drain 
+## Wrap-up. D<samp>RY</samp> but not drain 
 
 <mark>&thinsp;<b>D&thinsp;U&thinsp;M&thinsp;P</b>&thinsp;</mark> or <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark>❔ Neither but a compromise. (Could I omit set phrases?) 
 
