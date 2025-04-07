@@ -23,7 +23,7 @@ With all given praise **`C#`** isn't monumentally accomplished and enough waits 
 &nbsp;&nbsp;<sup>🪩</sup>&nbsp;<samp>«Good code should be fast.» Bjarne Stroustrup, 2018</samp>\
 &nbsp;&nbsp;<sup>⌨️</sup>&nbsp;<samp>Visual Studio Community Edition and JetBrains Rider.</samp>
 
-## <ins>&thinsp;Bottom line&thinsp;</ins>
+## Epilogue
 
 Genuine `C++` or `Perl` experts are legitimate in branding `C#` as "just another _Basic_" while others will argue that it harnesses design phantasies for the sake of dev progress and clarity.
 
