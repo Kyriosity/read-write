@@ -45,10 +45,11 @@
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Starbux.jpg" width="300" title="&nbsp;Starbucks" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Hbf-CoffeeFellows.jpg" width="300" title="&nbsp;Coffee Fellows, Hbf" /></span>
 
-### <ins>&thinsp;Bottom line&thinsp;</ins> - how without cats?
+### <ins>&thinsp;Bottom line&thinsp;</ins>: Blog without cats is _für die Katz_&thinsp;<sup>*</sup>
 
 <span><img alt="&nbsp;&nbsp;&nbsp;Stubentiger front of notebook" src="../../../_rsc/_img/photo/blog/ThinkCat.jpg" title="&nbsp;der Stubentiger" width="300" /></span>
 
 \___________
 
-🔚 ... All snapshots are genuine and feature my programming and writing activity 🌘2000-2025
+<sup><b>*</b></sup> _German_ "for cat" &mdash; idiomatically "for nothing"
+<div align="right">🔚 ... All snapshots are mine and genuine .. 🌘2000-2025</div>

@@ -1,4 +1,4 @@
-# Project Stories <samp>from others</samp>
+# Project Stories <samp>all over the world and further</samp>
 
 ## Marsupial Covairance
 
