@@ -1,4 +1,4 @@
-# Programmatic Tests&nbsp;&nbsp;&mdash;&nbsp;&nbsp;DAMP not DRY
+# Programmatic Tests&nbsp;&nbsp;&mdash;&nbsp;&nbsp;DAMP <samp>NOT</samp> DRY
 
 <table><tr><td><p>Either <a href="../../asDrive">TDD<sup>e<b>V</b></sup></a> or <a href="../../asQA">proof</a> of the provided code, <b>a conventional approach</b> is to</p>
     <ul>
@@ -12,7 +12,7 @@
 </td></tr></table>
 
 Developing tests this way shall (☝🏼 no warranty) wrap features in pleasing _<b>D</b>escriptive <b>A</b>nd <b>M</b>eaninigful <b>P</b>hrases_ (_abbr._ <mark>&thinsp;<b>D&thinsp;A&thinsp;M&thinsp;P</b>&thinsp;</mark>).\
-&nbsp;&nbsp;&nbsp;&nbsp;<sub>Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario) that wrap tests into phrases, which not only programmers but sane people can comprehend.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario) that wrap tests into phrases, which not only programmers but also sane people can comprehend.</sub>
 
 Needless to point out the virtues of this approach but one great flaw: <ins>&thinsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins>&thinsp;, fermented by
 
@@ -22,12 +22,12 @@ Needless to point out the virtues of this approach but one great flaw: <ins>&thi
 
 <table><tr><td><picture><img alt="&nbsp;Black box of test (not of application)" src="../../../../_rsc/_img/memes/ItTestsSmth.jpg" /></picture>
 </td><td>
-<p>The early layout will create a sound core, proving code essentials and describing the application (some documentation still required).</p>
+<p>The early layout will create a sound core, proving code essentials and describing the application (some documentation is still required).</p>
 <p>More and more tests will slightly but steadily dissolve this core into a badly maintainable bulk. With scrappy coverage, accumulated negligence, and impeded navigation.</p>
     <p>The refactoring counterblast is to <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> (<i><b>D</b>on't <b>R</b>repeat <b>Y</b>ourself</i>).</p>
 </td></tr></table>
 
-# DRY it &nbsp;&mdash;&nbsp; A<samp>RRANGE</samp>
+<h1 align="center">DRY it &nbsp;&mdash;&nbsp; A<samp>RRANGE</samp></h1>
 
 ## Feed expansion
 
@@ -53,7 +53,8 @@ Each of these items alone proportionally enhances the number of test cases (with
 
 ### Combinatorial explosion
 
-**This is the greatest hit.** Any combination of two factors from the list (or picture) above _powers_ the progression. For honest test coverage there, no copy-paste will help (but [T4 templates](https://en.wikipedia.org/wiki/Text_Template_Transformation_Toolkit)<sup><b>w</b></sup>).
+**This is the greatest hit.** Any combination of two factors from the list (or picture) above _powers_ the progression. 
+For honest test coverage there, no copy-paste will help (but [T4 templates](https://en.wikipedia.org/wiki/Text_Template_Transformation_Toolkit)<sup><b>w</b></sup>).
 
 ### Multitype parameters
 
@@ -70,37 +71,44 @@ Many languages support generic types, which a test method may discern.
 The easiest and alluring response is to write fewer tests, concentrating on guiding ones and stowing routine checks in folders where nobody will look (till an error occurs). 
 Auto-generation tools may help, but their setting and tuning may be overkill.
 
-What known frameworks and less known workarounds can do is the subject of the repo with more close-up to practical code:
+<table><tr></tr><tr>
+<td><picture><img alt="&nbsp;READ-WRITE meets USE-DEV" width="100px" src="../../../../_rsc/_img/_nav/read-write_use-dev.jpg" /></picture></td><td>
+    <a href="https://github.com/Kyriosity/use-dev/blob/main/README%2B/tests/README%2B/prog_tests-cut_feeds.md"><b>Cutting<br />the feeds</b></a>
+</td>
+<td>
 
-<table align="center"><tr></tr><tr><td><picture><img alt="&nbsp;READ-WRITE meets USE-DEV" width="100px" src="../../../../_rsc/_img/_nav/read-write_use-dev.jpg" /></picture></td><td>
-    <a href="https://github.com/Kyriosity/use-dev/blob/main/README%2B/tests/README%2B/prog_tests-cut_feeds.md"><b>Cutting the feeds</b></a>
-</td></td></tr></table>
+What known frameworks and less-known workarounds can do is a subject of\
+the repository with more close-ups to practical code:
+    
+</td></tr></table>
 
-# D<samp>RY</samp> it &nbsp;&mdash;&nbsp; A<samp>SSERT</samp>
+<h1 align="center">D<samp>RY</samp> it &nbsp;&mdash;&nbsp; A<samp>SSERT</samp></h1>
 
-If *Arrange* could be the **X** axis of extension, then *Assert* must be **Y**. (It looks so on the screen.)
+If *Arrange* could be the **<mark>&thinsp;X&thinsp;</mark>** axis of extension, then *Assert* must be **<mark>&thinsp;Y&thinsp;</mark>**. (It looks so on the screen.)
 
 ## Keep It Single... Or Multiple?
 
 The widely adopted practice &mdash; one *Assert* per test method/test case &mdash; became the teaching and often a written rule.
 
-Albeit, the subject isn't always as atomic as it may seem. An _Act_ may assume many actions, and the test result can be split.\
+However, the subject isn't always as atomic as it may seem. An _Act_ may assume many actions, and the test result can be split.\
 For example, consider native methods as `string.IsNullOrWhitespace(..)` for either *Act* or *Assert*.
 
 Repeating arrangements for miscellaneous _Asserts_ is a growth steroid. 
 And there can be even a deeper negative side effect &mdash; a small error can trigger a salvo of failing tests. 
 Such a salute will hardly provide a clue but rather hide it in dependencies - inevitable even with granulated and isolated units and best-structured folders.
 
-## Ideas
+## 💡I<samp>DEAS</samp>💡
 
 <details><summary><ins>&nbsp; History teaches us that one failure might be enough to know...&nbsp;</ins></summary>
     
+> &nbsp;\
 > As in the anecdote  about **Napoleon** enraged by the silence of cannons on a flank.\
 A summoned general was eager to recount seven reasons, he knew, but was shortly interrupted with\
 <samp>«Already one is more than enough for me».</samp>
 >
 > The same Albert Einstein replied to "One Hundred Authors Against Einstein", 1931:\
-> <samp>"If I were wrong, it would only take one."</samp>
+> <samp>"If I were wrong, it would only take one."</samp>\
+> &nbsp;
 
 </details>
 
@@ -116,7 +124,7 @@ As intuition must suggest, they can be best ordered from the most autonomous to 
 
 Advanced versions shall deal with _Arrange_ and _Act_ blending and branching, but this asks for <s>funding</s> a good, big pragmatic case to study and implement.
 
-#### Posers
+### Posers
 
 Normalization doesn't apply well to advanced evaluation as [gradual asserts](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/unit_test-gradual_assert.md).
 
@@ -124,19 +132,32 @@ Normalization doesn't apply well to advanced evaluation as [gradual asserts](htt
 
 When a mass of tests exceeds the eyes' capabilities, it's clever to select the "key" ones &mdash; that fails must be investigated first (an order and classification can be set there too).
 
-Example: math engine of a project. If a floating error emerges neither API errors shall matter.
+Imagine a math engine of a project. If a floating error emerges, neither API error will matter.
 
-## Wrap-up. D<samp>RY</samp> but not drain 
+<h1 align="center">Wrap-up. D<samp>RY</samp> but not drain</h1>
 
 <mark>&thinsp;<b>D&thinsp;U&thinsp;M&thinsp;P</b>&thinsp;</mark> or <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark>❔ Neither but a compromise. (Could I omit set phrases?) 
 
-Was it all about unit tests? Yes, but it can work for others in the pyramid. Remember that units of tests are elusive and there's no distinct division.
+Was it all about unit tests? Yes, but it can work for others in the pyramid. Remember that units of tests are elusive, and there's no distinct division.
 
 Does DRY apply to Test Driven Design? Yes, but very constrained by DAMP as its main motive.
 
-### Bottom line
+## Shorter syntax
 
-When covering existing code you shall find out the repetitions to group. The opposite is for **Test Driven Development**: think in test unions prior.
+The accent of most frameworks and add-ins to them (as [fluent assertions](https://fluentassertions.com)<sup>🔗</sup>) is on the long articulated wording. 
+With all readability, the handicap is that the _test subjects_ are hidden in extra clauses and parenthesis.
+
+The alternative can be ugly but terser, like these ["coagulated" expressions](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/FeatTest/README.md#assert-by-assign).
+
+<h3 align="center"><ins>&thinsp;Bottom line&thinsp;</ins></h3>
+
+<table align="center"><tr></tr><tr><td>👆</td><td>
+    
+When covering existing code you shall find out the repetitions to group.
+
+The opposite is for **Test Driven Development** &nbsp;&mdash;&nbsp; think in test unions prior.
+
+</td></tr></table>
 
 \___________\
 🔚 🌙 2024-2025
