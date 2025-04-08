@@ -57,20 +57,34 @@ Protrude this statement to all other cases where IT pundits don't have all the e
 
 ## In process
 
-<table><tr><td><picture><img width="250px" alt="&nbsp;Drake helps Lil Yachty with laptop (&quot;Life Is Good&quot;)" title="&nbsp;Drake helps Lil Yachty with laptop&#013;&#010;(&quot;Life Is Good&quot;)" src="../../_rsc/_img/memes/Drake_LilYachty-LifeIsGood_laptop.jpg" /></picture></td><td>
+<table><tr>
+ <td>
  <p>These are continuous measures within teams:</p>
  <ul>
   <li>Code reviews, pair programming, friendly discussions, and lessons.</li>
   <li>Preferred approaches as <a href="../tests/asDrive/">Test Driven Development</a>.</li>
  <li>Selection of popular or custom <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/frames">guidelines</a> and <a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/techniques">techniques</a>.</li>
  </ul>
-</td></tr></table>
+</td>
+<td>
+  <picture><img width="250px" alt="&nbsp;Drake helps Lil Yachty with laptop (&quot;Life Is Good&quot;)" title="&nbsp;Drake helps Lil Yachty with laptop&#013;&#010;(&quot;Life Is Good&quot;)" src="../../_rsc/_img/memes/Drake_LilYachty-LifeIsGood_laptop.jpg" /></picture></td></tr></table>
 
 ## Post measures
 
 ### Feedback
 
-Customer feedback is the top mark (not only on the positive scale) and not every user is eager to share it.
+<table><tr>
+ <td><picture><img alt="&nbsp;The Twilight Zone" width="250px"
+    src="../../_rsc/_img/snap/movies/TheTwilightZone.1960.Monsters_MapleStreet.jpg" title="The Twilight Zone&#013;&#010;&#013;&#010;Ep. Mar, 1960" /></picture></td>
+ <td>
+
+Customer/user feedback is the top mark (not only on the positive scale), and not every user is eager to share it.
+
+Besides errors surveys must find out frustration and, even more important &mdash; neglected features.
+ 
+</td>
+</tr></table>
+
 
 ### Tests
 
@@ -86,7 +100,7 @@ Responsible developers are the primary, most prepared, most effective, and criti
 
 ### Programmatic tests
 
-Executable code routines - are the biggest cornerstone of modern QA. Automation of their run - a fundamental of continuous quality and safety.
+Executable code routines are the biggest cornerstone of modern QA. Automation of their run - a fundamental of continuous quality and safety.
 
 \___________\
 :end: ... continued in ...  [Errors](README+/errors/)  .&thinsp;.&thinsp;.  [Code quality](README+/code-quality.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [Tests for QA](../tests/asQA/) &nbsp;...&nbsp; [Pitfalls](README+/QA-pitfalls.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [TDD](../tests/asDrive)
