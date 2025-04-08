@@ -11,11 +11,17 @@ I remastered and enhanced that.
 <picture><img alt="&nbsp;Early memory chips" src="../../../../_rsc/_img/af/Intel-C1103_ink.jpg" /></pictire>
 
 </td><td>
-  <p>The lore goes that computer scientists (every programmer was one), senior in age and title, used relatively idle nighttime<sup>🌛</sup> 
-    to connect their computer centers via antediluvian wide area networks and combat resources with all possible (for warming up) and impossible, and unthinkable hacks in <i>machine languages</i> (no hardware manipulations, no dirty cheats, no vulgar social engineering).</p>
-  <p>The winner occupied the most or all of the memory of the opponents' time slots.</p>
-  <p>These sagas went unnoticed since it requires ultra-level abstraction to grasp what silent battles unfolded in darkness over bits (not bytes).</p>
-  <sup>🌛</sup> <sub>Relatively, since computer time was so deficient, a couple of hours in night shifts on BIG machines was a big luck for junior fellows (daytime was out of reach for them at all).</sub>
+
+  The lore goes that computer scientists (every programmer was one), senior in age and title, used relatively idle nighttime<sup>🌛</sup> to connect their computer centers 
+  via antediluvian wide area networks and combat resources with all possible (for warming up) and impossible, and unthinkable hacks in _machine languages_.
+    
+ Only codes, only hardcore &nbsp;&mdash;&nbsp; no hardware manipulations, no dirty cheats, no vulgar social engineering.
+   
+The winner occupied the most or all of the memory of the opponents' time slots.
+
+These sagas remained unnoticed in the mass culture since ultra-level abstraction is required to grasp what silent battles unfolded in darkness over bits (not bytes).
+
+<sup>🌛</sup> <sub>Relatively, since computer time was so deficient, a couple of hours in night shifts on BIG machines was a big luck for junior fellows (daytime was out of reach for them at all).</sub>
 </td></tr></table>
 
 \___________\
