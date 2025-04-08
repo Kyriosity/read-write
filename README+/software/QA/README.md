@@ -78,7 +78,7 @@ Protrude this statement to all other cases where IT pundits don't have all the e
     src="../../_rsc/_img/snap/movies/TheTwilightZone.1960.Monsters_MapleStreet.jpg" title="The Twilight Zone&#013;&#010;&#013;&#010;Ep. Mar, 1960" /></picture></td>
  <td>
 
-Customer/user feedback is the top mark (not only on the positive scale), and not every user is eager to share it.
+Customer/user experience is the top mark (not only on the positive scale), and not every user is eager to share it.
 
 Besides errors surveys must find out frustration and, even more important &mdash; neglected features.
  
