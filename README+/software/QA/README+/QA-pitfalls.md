@@ -1,34 +1,35 @@
 # Quality Assurance &nbsp; &mdash; &nbsp; Pitfalls
 
-There are some observation and bookmarks to share. Not for rant but as theses for organization.
+> **I've collected some observations and bookmarks to share &mdash; not for tirades but as theses for countermeasures.**
  
 ## Conceptual
 
 ### Apathy
 
-QA doesn't deliver and thus is the first item to spare on: declared or concealed, individually and by whole teams/departments.
+QA doesn't deliver end products but consumes resources and thus is the first to spare: declared or concealed, individually and by whole teams/departments. Consequences are the subject of luck or misfortune. 
 
-Consequences are the subject of luck or misfortune. 
-
-Non-critical features may be neglected for years &mdash; don't expect all popular (especially mobile) apps to support 125%, 150%, and 200% scaling. Localization of enough applications may be unreadable. 
+Non-critical features may be neglected for years &mdash; don't expect all popular (especially mobile) apps to support 125% (150%, 200%) view scaling. Localization of enough applications may be unreadable. 
 
 ###  Formality vs. Engagement 
 
 🚧 
 
+Observation is harder than action. 
+
+Fulfilling all test procedures manually or writing tests that may report few non-critical errors disappoints and looks profligate.
+
 ### "Wishful thinking"
 
-A software product or a team can deserve a high credit, which sideeffect ls non-critical and shallow checks. Especially of the established parts.
+A software product or a team can deserve a high credit. The side effect is non-critical and shallow checks, particularly of the established parts.
 
-Good personal relationships may (note **may**) turn on blind eye.
+Good personal relationships may (note **may**) turn a blind eye.
 
 ### "Blaming the messenger"
 
-The mirrored twin of _wishful thinking_ is the negative reaction of developers to reports.
+The mirrored twin of _wishful thinking_ is the negative reaction of developers to reports. 
+They may treat discovered omissions and bugs as accusations of bad performance (mostly wrong).
 
-Who would treat discovered omissions and bugs as accusation of bad performance (mostly false).
-
-And yes this means more job, stress and distraction.
+And yes, this means more job, stress and diversion.
 
 This will discourage testers from reporting the facts or soft-pedal them.
 
@@ -36,7 +37,7 @@ This will discourage testers from reporting the facts or soft-pedal them.
 
 "Blind" programming and testing of the subjects is akin to technical translation by linguists.
 
-### Underestimate of foolproof, "criminal energy" and vandalism
+### Undervalue of foolproof checks, "criminal energy", and vandalism
 
 Stories of many system breaches and epic fails began with "Who would ever...". 
 
@@ -50,10 +51,9 @@ This means careless development with QA in the loop as TDD LINK! and the hope th
 
 ### Sandbox and greenhouses
 
-Usual conditions can be too good and stable  Select a bad loc. A must for network, async, and high load applications.
+Usual conditions can be too good and stable.  Select a bad loc. A must for network, async, and high-load applications.
 
 The easiest recipe is to develop/test applications in [unusual locations](../../../pencraft/README%2B/offtopic/anti-home-office.md).
-
 
 ## REMEDIES ?
 
