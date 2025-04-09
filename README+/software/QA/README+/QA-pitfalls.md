@@ -1,38 +1,44 @@
-# Quality Assurance &mdash; Pitfalls
+# Quality Assurance &nbsp; &mdash; &nbsp; Pitfalls
 
-It's not a strict study but observation and bookmarks.
+There are some observation and bookmarks to share. Not for rant but as theses for organization.
  
 ## Conceptual
 
 ### Apathy
 
-QA doesn't deliver and thus is the first item to be spared individually, by the customer, by a team, or by a department. Perhaps this passes or with less luck may be nominated to the ten most disastrous bugs (at least of the department). 
+QA doesn't deliver and thus is the first item to spare on: declared or concealed, individually and by whole teams/departments.
 
-Non-critical features may be neglected for years - don't expect all popular mobile apps to support 125%, 150%, and 200% scaling. Localization of enough applications may be for 
+Consequences are the subject of luck or misfortune. 
 
-###  Formality vs. Informality
+Non-critical features may be neglected for years &mdash; don't expect all popular (especially mobile) apps to support 125%, 150%, and 200% scaling. Localization of enough applications may be unreadable. 
+
+###  Formality vs. Engagement 
+
+🚧 
 
 ### "Wishful thinking"
 
-The credit for a software product or team may be high and errors may vanish.
+A software product or a team can deserve a high credit, which sideeffect ls non-critical and shallow checks. Especially of the established parts.
 
-Automated and formal tests will give the green light to the classical parts and lull.
+Good personal relationships may (note **may**) turn on blind eye.
 
 ### "Blaming the messenger"
 
-The mirrored twin of wishful thinking is the negative reaction of developers to reports.
+The mirrored twin of _wishful thinking_ is the negative reaction of developers to reports.
 
-The same as errors and bugs are seen as bad dev work.
+Who would treat discovered omissions and bugs as accusation of bad performance (mostly false).
 
-which will discourage testers from reporting the error or soft-pedal them.
+And yes this means more job, stress and distraction.
+
+This will discourage testers from reporting the facts or soft-pedal them.
 
 ### Bad domain knowledge
 
-"Blind" programming of the domain (analogy: tech translation done by linguist)
+"Blind" programming and testing of the subjects is akin to technical translation by linguists.
 
 ### Underestimate of foolproof, "criminal energy" and vandalism
 
-System breaches can be shielded by "Who would ever...". Let's put a curtain on tales.
+Stories of many system breaches and epic fails began with "Who would ever...". 
 
 ## Practical
 
@@ -42,12 +48,11 @@ This means careless development  [Test Driven Development](../../tests/asDrive)
 
 This means careless development with QA in the loop as TDD LINK! and the hope they give fast feedback. This overloads the QA
 
-### Sandbox
+### Sandbox and greenhouses
 
 Usual conditions can be too good and stable  Select a bad loc. A must for network, async, and high load applications.
 
 The easiest recipe is to develop/test applications in [unusual locations](../../../pencraft/README%2B/offtopic/anti-home-office.md).
-
 
 
 ## REMEDIES ?
