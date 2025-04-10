@@ -1,22 +1,19 @@
-# Software&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Quality Assurance (QA)
+# Software &nbsp; &mdash; &nbsp; Quality Assurance (QA)
 
-<table><tr valign="top"><td width="42%">
+<table><tr valign="top"><td width="40%">
  <p>Software is an abstraction ether.</p>
- <p>Frivolous, fleeting, and exponential spirit makes the programming inherently and largely</p>
+ <p>Frivolous, fleeting, and exponential spirit makes its development inherently and largely</p>
  <div align="center"><b><samp>E&thinsp;R&thinsp;R&thinsp;O&thinsp;R&thinsp;-&thinsp;p&thinsp;r&thinsp;o&thinsp;n&thinsp;e</samp></b></div>.
 </td><td><picture><img alt="&nbsp;Bug &amp; Compass" src="../../_rsc/_img/signs/bugs/bug_in_flask-pencil-250px.jpg" /></picture></td><td width="42%">
-<p>When breaking changes are as close as fingers to the keyboard, commits can be rolled back, and there's always a gap until delivery to production (for last-minute fixes or bug introduction) software is </p>
+<p>Breaking changes as close as fingers to the keyboard, commits that can be rolled back with a click, and  separation of test and production make development </p>
 <div align="center"><b><samp>Q&thinsp;A&thinsp;-&thinsp;f&thinsp;a&thinsp;t&thinsp;e&thinsp;d&thinsp;.</samp></b></div>
 </td></tr></table>
 
-## Errors
-
-**QA** couldn't exist without errors - the catch-all term which inmates deserved their own [**corner**](README+/errors/).
-
-## Quality
+"And never the two will meet" unless ...
 
 ```mermaid
 ---
+title: qa map
 config:
   look: handDrawn
   theme: neutral
@@ -37,20 +34,13 @@ graph TB
     end
 ```
 
-## Natural born
-
-There were and will be remarkable works done from scratch without allotted proof and validation measures (let alone code reviews and test automation) but robust from the first release. 
-This may (and _may not_) happen in localized high-pro teams of responsible individuals but is an exclusion to underline the must-have of __QA__.
-
-> Coding cleanly and qualitatively must be the primary goal, but teams will be uneven, distributed&thinsp;/&thinsp;fluctuating, and stressed. Add human nature to sweep problems under the carpet—it is quite big and thick in the software.
-
 ## Prerequisites
 
-Experience in
+Knowledge of/Experience in
 
 + domain/subjects,
 + tools (as a platform and programming language),
-+ fails and retreats (also of others).
++ fails and retreats (preferably of others).
 
 When security risks are a concern, other approaches for hacking vulnerabilities come into play (and devs aren't writing code in a criminal-minded mode).
 Protrude this statement to all other cases where IT pundits don't have all the expertise to test the domain.
@@ -86,7 +76,7 @@ Besides errors surveys must find out frustration and, even more important &mdash
 </tr></table>
 
 
-### Tests
+<h2 align="center">Tests 🦠☄️</h2>
 
 _Tests_ and _Testing_ are a CENTERPIECE of QA and <ins>&thinsp;w&thinsp;i&thinsp;d&thinsp;e&thinsp;</ins> umbrella terms for the check of code and its products (including documentation). Bug searching and quality proofing tests are optional but highly recommended and a natural share of software creation. 
 
@@ -101,6 +91,18 @@ Responsible developers are the primary, most prepared, most effective, and criti
 ### Programmatic tests
 
 Executable code routines are the biggest cornerstone of modern QA. Automation of their run - a fundamental of continuous quality and safety.
+
+
+## Appendix. Natural born quality
+
+There were and will be remarkable works done from scratch **without** allotted proof and validation measures (let alone code reviews and test automation) **but robust** from the first release. 
+
+This may (but mostly _will not_) happen in localized high-pro teams of responsible individuals but as an exclusion underlines the need of __QA__.
+
+> Coding cleanly and qualitatively must be the primary goal, but teams will be uneven, distributed&thinsp;/&thinsp;fluctuating, and stressed. Add human nature to sweep problems under the carpet—it is quite big and thick in the software.
+<h3 align="center"><ins>&nbsp;bottom line&nbsp;</ins></h3>
+
+**QA** couldn't exist without errors - the catch-all term which inmates deserved their own [**corner**](README+/errors/).
 
 \___________\
 :end: ... continued in ...  [Errors](README+/errors/)  .&thinsp;.&thinsp;.  [Code quality](README+/code-quality.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [Tests for QA](../tests/asQA/) &nbsp;...&nbsp; [Pitfalls](README+/QA-pitfalls.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [TDD](../tests/asDrive)
