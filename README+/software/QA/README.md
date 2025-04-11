@@ -1,19 +1,24 @@
-# Software &nbsp; &mdash; &nbsp; Quality Assurance (QA)
+<h1 align="center">Software &nbsp; &mdash; &nbsp; Quality Assurance (QA)</h1>
 
-<table><tr valign="top"><td width="40%">
- <p>Software is an abstraction ether.</p>
- <p>Frivolous, fleeting, and exponential spirit makes its development inherently and largely</p>
- <div align="center"><b><samp>E&thinsp;R&thinsp;R&thinsp;O&thinsp;R&thinsp;-&thinsp;p&thinsp;r&thinsp;o&thinsp;n&thinsp;e</samp></b></div>.
+<table><tr valign="center"><td width="42%">
+ 
+ Software is a pure abstraction ether on fragile carriers.
+ 
+ The frivolous, fleeting, and exploding spirit of its development makes software inherently and largely
+ 
+ <div align="center"><b><samp>E&thinsp;R&thinsp;R&thinsp;O&thinsp;R&thinsp;-&thinsp;p&thinsp;r&thinsp;o&thinsp;n&thinsp;e&thinsp;.</samp></b></div>
 </td><td><picture><img alt="&nbsp;Bug &amp; Compass" src="../../_rsc/_img/signs/bugs/bug_in_flask-pencil-250px.jpg" /></picture></td><td width="42%">
-<p>Breaking changes as close as fingers to the keyboard, commits that can be rolled back with a click, and  separation of test and production make development </p>
-<div align="center"><b><samp>Q&thinsp;A&thinsp;-&thinsp;f&thinsp;a&thinsp;t&thinsp;e&thinsp;d&thinsp;.</samp></b></div>
+
+Software became an irreplaceable stratum of civilization as technology.
+
+<div>Its applications manage crucial systems of all kinds and must be</div>
+<div align="center"><b><samp>S&thinsp;T&thinsp;A&thinsp;B&thinsp;L&thinsp;e&thinsp; </samp>and<samp> &thinsp;R&thinsp;O&thinsp;B&thinsp;U&thinsp;S&thinsp;T&thinsp;.</samp></b></div>
 </td></tr></table>
 
-"And never the two will meet" unless ...
+<h3 align="center">And «<samp>never the twain shall meet</samp>» unless ... <b>Quality Assurance</b>.</h3>
 
 ```mermaid
 ---
-title: qa map
 config:
   look: handDrawn
   theme: neutral
@@ -34,7 +39,7 @@ graph TB
     end
 ```
 
-## Prerequisites
+<h2 align="center">Prerequisites</h2>
 
 Knowledge of/Experience in
 
@@ -42,10 +47,17 @@ Knowledge of/Experience in
 + tools (as a platform and programming language),
 + fails and retreats (preferably of others).
 
-When security risks are a concern, other approaches for hacking vulnerabilities come into play (and devs aren't writing code in a criminal-minded mode).
+When security risks are a concern, other approaches for hacking vulnerabilities come into play &thinsp;&mdash;&thinsp; and devs aren't writing code in a criminal-minded mode.
+
 Protrude this statement to all other cases where IT pundits don't have all the expertise to test the domain.
 
-## In process
+### Velvet gloves of discipline
+
+Breaking changes as close as fingers to the keyboard, commits that can be rolled back with a click, development/testing playgrounds and sandboxes, ["it works on my machine"](../../pencraft/README+/memes/README+/polyptych_works.md).
+
+What's admissible on "tangible" projects may lead to epic fails on a larger scale.
+
+<h2 align="center">In process</h2>
 
 <table><tr>
  <td>
@@ -59,7 +71,7 @@ Protrude this statement to all other cases where IT pundits don't have all the e
 <td>
   <picture><img width="250px" alt="&nbsp;Drake helps Lil Yachty with laptop (&quot;Life Is Good&quot;)" title="&nbsp;Drake helps Lil Yachty with laptop&#013;&#010;(&quot;Life Is Good&quot;)" src="../../_rsc/_img/memes/Drake_LilYachty-LifeIsGood_laptop.jpg" /></picture></td></tr></table>
 
-## Post measures
+<h2 align="center">Retrospective</h2>
 
 ### Feedback
 
@@ -70,13 +82,13 @@ Protrude this statement to all other cases where IT pundits don't have all the e
 
 Customer/user experience is the top mark (not only on the positive scale), and not every user is eager to share it.
 
-Besides errors surveys must find out frustration and, even more important &mdash; neglected features.
+Besides errors, surveys must find out frustration and, even more important &mdash; neglected features.
  
 </td>
 </tr></table>
 
 
-<h2 align="center">Tests 🦠☄️</h2>
+<h2 align="center">🧪Tests📏🪲</h2>
 
 _Tests_ and _Testing_ are a CENTERPIECE of QA and <ins>&thinsp;w&thinsp;i&thinsp;d&thinsp;e&thinsp;</ins> umbrella terms for the check of code and its products (including documentation). Bug searching and quality proofing tests are optional but highly recommended and a natural share of software creation. 
 
@@ -90,14 +102,13 @@ Responsible developers are the primary, most prepared, most effective, and criti
 
 ### Programmatic tests
 
-Executable code routines are the biggest cornerstone of modern QA. Automation of their run - a fundamental of continuous quality and safety.
-
+Executable code routines are the biggest cornerstone of modern QA. Automation of their run is fundamental of continuous quality and safety.
 
 ## Appendix. Natural born quality
 
 There were and will be remarkable works done from scratch **without** allotted proof and validation measures (let alone code reviews and test automation) **but robust** from the first release. 
 
-This may (but mostly _will not_) happen in localized high-pro teams of responsible individuals but as an exclusion underlines the need of __QA__.
+This may (but mostly _will not_) happen in localized high-pro teams of responsible individuals but as an exclusion underlines the need for __QA__.
 
 > Coding cleanly and qualitatively must be the primary goal, but teams will be uneven, distributed&thinsp;/&thinsp;fluctuating, and stressed. Add human nature to sweep problems under the carpet—it is quite big and thick in the software.
 <h3 align="center"><ins>&nbsp;bottom line&nbsp;</ins></h3>
