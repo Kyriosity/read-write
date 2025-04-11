@@ -2,18 +2,16 @@
 
 <div dir="rtl"><i>I like epigraphs for<br/>magnificent look and<br>.vertical indent</i></div>
 
-## Primus
-
-<details><summary><ins>&nbsp;<b>West meets east</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>West meets East</b>&nbsp;</ins></summary>
 &nbsp;
   
 ![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)
 
-[![... then IT must be a waterfall.](../../../_rsc/_img/memes/ITLearnWaterfall_horiz.png)](../../../software/)
+[![If to learn is to swim against the current then IT must be a waterfall.](../../../_rsc/_img/memes/ITLearnWaterfall_horiz.png)](../../../software/)
 
 The grains of truth in this wisdom:
 
-* No other knowledge erodes so quickly as the IT tech stack - languages/scripts, markup, frameworks, and their IDEs, UX styles emerge, submerge, and mutate with the year's pace.<sup>:violin:</sup>
+* No other knowledge erodes so quickly as the IT tech stack &nbsp;&mdash;&nbsp; languages/scripts, markup, frameworks, and their IDEs, UX styles emerge, submerge, and mutate with the year's pace.<sup>:violin:</sup>
 * In the orthogonal (to time) dimension, a developer can't stick to a favorite syntax and must be fluent in a wide techno spectrum.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:violin:</sup> <sub>Javascript/HTML, which one learned in 2000, remains only as kernel syntax. 
@@ -24,7 +22,7 @@ It went through numerous libs, polyfills, jQuery, and other cool tools and trans
 > Don't swim against the current. Stay in the river, become the river; and the river is already going to the sea. This is the great teaching.\
 — _Rajneesh, aka Osho_ (1931-1990)
 
-Translated east-to-west this means: find a sinecure in a big company.
+Translated east-to-west this means: follow career paths to a sinecure in a big company.
 
 \___________</details>
 
@@ -90,7 +88,7 @@ The caricature may look sloppy, but its author Karl Arnold had astonishingly esc
 <picture><img alt="&nbsp; Movie poster: IT Conquered the World, 1956. Tagline: EVERT NAN ITS PRISONER ... EVERT WOMAN ITS SLAVE!" src="../../../_rsc/_img/snap/movies/1956.IT_conquered_the_World.jpg" 
      title="Sci-Fi, Horror,&#010;&#013;Sunset Productions (III), 1956,&#010;&#013;Director: Roger Corman" /></picture>
 
-Another striking prediction (note the uncompromising _past tense_) from the year when **IT** were embryonic but just before their boom. The horrific backend was also the match.
+Another striking prediction (note the uncompromising _past tense_) from the year when **IT** were embryonic but just before their boom. The horrific to horrible backend was also the hit.
 
 </details>
 
