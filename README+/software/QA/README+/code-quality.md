@@ -45,11 +45,12 @@ less code gives less soil for bugs.
 
 ### Re: Tests 🧪
 
-Test coverage may (and shall) share realization with or even origin from [Test Driven Development](../../tests/) but is **primarily** intended to examine software mechanically (no matter whether implemented before the subject or postfactum).
+Test coverage may (and shall) share realization with or even origin from [Test Driven Development](../../tests/) but is **primarily** intended to examine software mechanically 
+(no matter whether implemented before the subject or postfactum).
 
 Efficient, ample test coverage allows only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, and performance testing.
 
-_Errare humanum est_, and enough quality code allows one to focus tests on ...
+Enough quality code allows one to focus tests where _errare humanum est_:
 
 * bottlenecks: intricate logic, performance, accuracy,
 * subjects of frequent changes,
@@ -59,15 +60,16 @@ _Errare humanum est_, and enough quality code allows one to focus tests on ...
 
 ## Afterword
 
-**1)** Coding isn't a self-contained activity but an ingredient of <sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px.jpg)](../../../software/ArcDeco/README.md)</sub>&thinsp;, where quality is a motive, derivative, and bonus.
+**1)** Coding isn't a self-contained activity but an ingredient of <sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png)](../../../software/ArcDeco/README.md)</sub>&thinsp;, where quality is a motive, derivative, and bonus.
 
-**2)** While design sets formworks of code **concrete**, [coding frames](https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames) reinforce it.
+**2)** While design sets formworks of code <mark>concrete</mark>, [coding frames](https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames) reinforce it.
 
-**3)** The traits listed above are NOT acceptance criteria, but utmost aims. Even if your team comes close to them the code won't be a book of design revelation — you still owe quality [documentation](../../docu).
+**3)** The traits listed above are <samp><b><ins>NOT</ins></b></samp> acceptance criteria, **but** utmost aims. 
+Even if your team comes close to them, the code won't be a book of design revelation — you still owe quality [documentation](../../docu) or/and tutoring.
 
 ## Moralité
 
-With all that said, why does flawed code prevail and _clean code_ migrate to buzzwords? 
+With all that said, **why does flawed code prevail and _clean code_ migrate to buzzwords?**
 
 **1.** Poor-quality code is written much faster, cheaper, and without heated debates.<sup>🥴</sup> And as it does the job, counter-arguments fade.
 
