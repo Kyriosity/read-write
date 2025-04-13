@@ -2,8 +2,9 @@
 
 [![Tales fron the crypt](https://img.shields.io/badge/Tales%20from-the%20crypt-violet?logo=readthedocs&logoColor=f0f)](#)
 
-> I heard it from a <code>C++</code>-gifted colleague when we exchanged [<samp><b>DOOM</b></samp>](https://en.wikipedia.org/wiki/Doom_(1993_video_game))&thinsp;<sup><b>w</b></sup> experience (already lores too).\
-> What he told was what he knew from <i>olds</i> &mdash; true multi-warrior computer games with epic wins are a thing of the past &mdash; times of two-row monochrome text monitors (if not arrays of light bulbs).</p>
+> I heard it from a <code>C++</code>-gifted colleague when we exchanged [<samp><b>DOOM</b></samp>](https://en.wikipedia.org/wiki/Doom_(1993_video_game))&thinsp;<sup><b>w</b></sup> experience (already lores too).
+> 
+> His mom &mdash; who used to bе an assistant in some IT labs &mdash; told that true multi-warrior computer games with epic wins are a thing of the past &mdash; times of two-row monochrome text monitors (if not arrays of light bulbs).</p>
 
 I remastered and enhanced that.
 
