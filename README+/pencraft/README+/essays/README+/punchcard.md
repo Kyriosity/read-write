@@ -10,9 +10,7 @@
       <picture><img width="333px" alt="&nbsp;Please do not bend" src="../../../../_rsc/_img/signs/do_not_bend-vert_h200px.jpg" /></picture>
                   </td><td>
                         
-Long after their decline the punching technology and its carton carrier still remained a coursework at my university. 
-
-Till the supply of cards became extinct &thinsp;&mdash;&thinsp; I caught the last year of this legacy.
+Long after their decline, punching technology and its carton carrier remained coursework at my university. **Till** the supply of cards became extinct &thinsp;&mdash;&thinsp; I caught the last year of this legacy.
                         
 ## The Task
       
@@ -43,7 +41,7 @@ The moves the task took were hardly agile even for its time:
 
 The motivation was so strong (as you might feel) that many succeeded in the first approach, but not me.
 
-Between **(4)** and **(5)** a fellow disciple intruded: shuffling my deck unnoticed. Instead of the graph, I got bad (machine) language printed and a lesson learned about data integrity and security.
+Between **(4)** and **(5)**, a fellow disciple intruded, shuffling my deck unnoticed. Instead of the graph, I got bad (machine) language printed, and a lesson learned about data integrity and security.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🥪</sup> <sub>I wonder how it may look object-oriented. A card glued over the base one to inherit or override&thinsp;?</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🛠️</sup> <sub>Precisionists can definitely treat their occupation as true absolute coders.</sub>\
@@ -58,7 +56,7 @@ despite its fast decadence predetermined by data density (it couldn't get either
 
 I venture to propose punch cards as a backup if computer illiteracy ages come<sup>📚</sup> or for extraterrestrial spam<sup>🚀</sup>. And that's why:
 
-+ Easy to make: neither rare minerals nor precious elements involved, and the process is as dumb as for papier-mâché.
++ The production is as easy as for papier-mâché. Neither rare minerals nor precious elements are involved.
 + The cards will be intact for millennia in harsh environments.\
 Any mechanical action, dirt, temperature, or humidity, that can damage them, will irreparably sweep other media.  A cheap safe box will rescue them from direct fire and chemical agents.
 + Electromagnetic emission in the whole spectrum can't bring even a tiny data loss.\
