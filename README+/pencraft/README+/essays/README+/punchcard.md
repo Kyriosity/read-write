@@ -1,4 +1,4 @@
-<h1 align="center">Punched cards&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Once upon a time</h1>
+<h1 align="center">Punched cards &nbsp;&mdash;&nbsp; Once upon a time</h1>
 
 > **Guaranteed to be authentic** &mdash; not another paraphrase of [wiki articles](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup><b>w</b></sup>
 
@@ -10,7 +10,9 @@
       <picture><img width="333px" alt="&nbsp;Please do not bend" src="../../../../_rsc/_img/signs/do_not_bend-vert_h200px.jpg" /></picture>
                   </td><td>
                         
-It was long after the decline of the punching technology and its carton carrier &mdash; to remain a legacy coursework at my university for the last year because the supply of cards became extinct.
+Long after their decline the punching technology and its carton carrier still remained a coursework at my university. 
+
+Till the supply of cards became extinct &thinsp;&mdash;&thinsp; I caught the last year of this legacy.
                         
 ## The Task
       
@@ -19,9 +21,9 @@ It was an exercise in PL/I&nbsp;<sup>🔢</sup> &mdash; output a curve of an ass
 Believe it or not, this story had no electronic display.
 
 &nbsp;&nbsp;<sup>🔢</sup>&nbsp;<samp>IBM's procedural <a href="https://en.wikipedia.org/wiki/PL/I">Programming Language One</a><sup><b>w</b></sup><br />
-&nbsp;&nbsp;&nbsp;<code><b>PL/1</b>, <b>DB2</b>, <b>OS/2</b>, <b>Type-III</b>, <b>BS12</b>,</code> ... this Blue Giant was the Lord of imagination and naming.</samp>
+&nbsp;&nbsp;&nbsp;<code><b>PL/1</b>, <b>DB2</b>, <b>OS/2</b>, <b>Type-III</b>, <b>BS12</b>,</code> ... this Blue Giant was a lord of imagination and naming.</samp>
 <br />
-&nbsp;&nbsp;<sup>:cinema:</sup><samp>Fun fact: traces of PL/1 appear in the epic <a href="https://www.wired.com/story/2001-a-space-odyssey-predicted-the-future50-years-ago">2001: A Space Odyssey</a>.</samp>
+&nbsp;&nbsp;<sup>:cinema:</sup> <samp>Fun fact: traces of PL/1 appear in the epic <a href="https://www.wired.com/story/2001-a-space-odyssey-predicted-the-future50-years-ago">2001: A Space Odyssey</a>.</samp>
 
 ## Carton in, paper out
 
@@ -56,7 +58,7 @@ despite its fast decadence predetermined by data density (it couldn't get either
 
 I venture to propose punch cards as a backup if computer illiteracy ages come<sup>📚</sup> or for extraterrestrial spam<sup>🚀</sup>. And that's why:
 
-+ Easy to make: no rare or precious elements and the technology is as easy as for papier-mâché.
++ Easy to make: neither rare minerals nor precious elements involved, and the process is as dumb as for papier-mâché.
 + The cards will be intact for millennia in harsh environments.\
 Any mechanical action, dirt, temperature, or humidity, that can damage them, will irreparably sweep other media.  A cheap safe box will rescue them from direct fire and chemical agents.
 + Electromagnetic emission in the whole spectrum can't bring even a tiny data loss.\
