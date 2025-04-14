@@ -68,7 +68,7 @@ Contrariwise, months of upfront planning and prototyping are adverse to software
  
 </td></tr></table>
 
-Software is the most automated production ever existed when copying, scaling, installation, and updates are one-click (or auto-scheduled) and unattended. 
+**Software is the most automated production ever materialized** when copying, scaling, installation, and updates are one-click (or auto-scheduled) and unattended. 
 
 <table><tr valign="top"><td width="*">
  <p>A construction engineer, whose modeling tasks mingle with stirring concrete, who is up and there on the spot to supervise the progress and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
@@ -169,14 +169,14 @@ from computer science`"((
 
 </details>
 
-⬅️ Not to mention ♾️<b>D<samp>EV</samp>O<samp>PS</samp></b>♾️ &thinsp;&mdash:&thinsp; a separate software discipline.
+⬅️ `//` Not to mention ♾️<b>D<samp>EV</samp>O<samp>PS</samp></b>♾️ &thinsp;&mdash;&thinsp; a separate software domain.
 
 <details><summary><ins>&nbsp;.. <b>or for personal aptitudes:</b>&nbsp;</ins> ➡️</summary>
 
 + memorizing **big pictures** in enough detail (not general diagrams),
 + ability to **unify** and simplify logic (where it's not evident for others),
 + staying **over** (but not ignoring) known patterns, practices, and common inclinations,
-+ strength to **admit** poor decisions and dead-ends on time and energy to find better and redo the work,
++ strength to **admit** poor decisions and dead-ends on time with energy to find better and redo the work,
 + selecting the right **proxies** for communication on technologies,
 + skill to define **subtasks** and delegate them with minor tutelage and surveillance (let alone _micromanagement_),
 + authority to **reconcile** design and technological counter-opinions,
@@ -185,7 +185,8 @@ from computer science`"((
 
 ⬅️ ... easy to declare but **really** hard to correspond to.
 
-**Phenomenon of software architecture** is a collective rather than personal vision and fusion of the best design, development, and coding from multiple inputs. Leaving as little cavities of misconstruing and design anarchy as possible.
+**The Phenomenon of software architecture** is a collective rather than personal vision and fusion of the best design, development, and coding from multiple inputs, 
+leaving as few cavities of misconstruing and design anarchy as possible.
 
 ## but hold on...
 
