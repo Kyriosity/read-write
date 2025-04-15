@@ -43,13 +43,15 @@ graph TB
 
 Knowledge of/Experience in
 
-+ domain/subjects,
-+ tools (as a platform and programming language),
-+ fails and retreats (preferably of others).
++ **domain**/subjects,\
+`//` or it will be programming "telephone charades" with customer, or a great pverhead of specifications
++ **tools** (as a platform and programming language),\
+`//` learning complex technologies on critical projects is a burnout path or/and programming what's already available,
++ **fails** and retreats (preferably of others).
 
 When security risks are a concern, other approaches for hacking vulnerabilities come into play &thinsp;&mdash;&thinsp; and devs aren't writing code in a criminal-minded mode.
 
-Protrude this statement to all other cases where IT pundits don't have all the expertise to test the domain.
+This statement applies to all other cases where IT pundits lack the expertise to test the domain.
 
 ### Velvet gloves of discipline
 
@@ -87,22 +89,26 @@ Besides errors, surveys must find out frustration and, even more important &mdas
 </td>
 </tr></table>
 
-
 <h2 align="center">🧪Tests📏🪲</h2>
 
 _Tests_ and _Testing_ are a CENTERPIECE of QA and <ins>&thinsp;w&thinsp;i&thinsp;d&thinsp;e&thinsp;</ins> umbrella terms for the check of code and its products (including documentation). Bug searching and quality proofing tests are optional but highly recommended and a natural share of software creation. 
 
 ### Manual (spontaneous and planned)
 
-Opening this page was your manual test. 
- 
-Unlike the olden days with blind commits of punchcards and tapes, most development allows one to evaluate its product (in whole or by feature) with every step and at time: just build and run.
+There's no full replacement of manual tests &thinsp;&mdash;&thinsp; only their underestimate
 
-Responsible developers are the primary, most prepared, most effective, and critical testers.
+Unlike the olden days with blind commits of punchcards and tapes, most development allows its creators to assess the product (in whole or by feature) with every step and at time: just build and run.
+ Responsible programmers are the primary, most prepared, most effective, and critical testers.
+
+P.S. Opening this page was your manual test. 
 
 ### Programmatic tests
 
-Executable code routines are the biggest cornerstone of modern QA. Automation of their run is fundamental of continuous quality and safety.
+Executable code routines are the biggest cornerstone of modern QA. Automation of their run is fundamental to continuous quality and safety.
+
+### Simulators
+
+IT's more challenging to find an unavailable UI simulator or platform emulator or virtual machine than one popular.
 
 ## Appendix. Natural born quality
 
