@@ -2,12 +2,12 @@
 
 <table><tr valign="center"><td width="42%">
  
- Software is a pure abstraction ether on fragile carriers.
+Software is a pure abstraction ether on fragile carriers.
  
- The frivolous, fleeting, and exploding spirit of its development makes software inherently and largely
+The frivolous, fleeting, and exploding spirit of its development makes software inherently and largely
  
- <div align="center"><b><samp>E&thinsp;R&thinsp;R&thinsp;O&thinsp;R&thinsp;-&thinsp;p&thinsp;r&thinsp;o&thinsp;n&thinsp;e&thinsp;.</samp></b></div>
-</td><td><picture><img alt="&nbsp;Bug &amp; Compass" src="../../_rsc/_img/signs/bugs/bug_in_flask-pencil-250px.jpg" /></picture></td><td width="42%">
+<div align="center"><b><samp>E&thinsp;R&thinsp;R&thinsp;O&thinsp;R&thinsp;-&thinsp;p&thinsp;r&thinsp;o&thinsp;n&thinsp;e&thinsp;.</samp></b></div>
+</td><td><picture><img alt="&nbsp;Bug in flask" src="../../_rsc/_img/signs/bugs/bug_in_flask-pencil-250px.jpg" /></picture></td><td width="42%">
 
 Software became an irreplaceable stratum of civilization as technology.
 
@@ -27,7 +27,7 @@ graph TB
  c1-->QA2
     subgraph "<h3><a href="https://github.com/Kyriosity/read-write/tree/main/README%2B/software/tests">Programmatic Tests</a></h3>"
     c1("<b>Proof</br>coverage</b>")
-      TDD("<b>Test driven</b>")-->TDDev("Development")
+      TDD("<a href="https://github.com/Kyriosity/read-write/blob/main/README%2B/software/tests/asDrive/README.md">Test driven</a>")-->TDDev("Development")
       TDD-->TDDes("Design")
      c1 o--o TDDev
     end
