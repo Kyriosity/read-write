@@ -1,4 +1,4 @@
-# Test Drive&nbsp;&nbsp;&rarr;&nbsp;&nbsp;Big Watershed
+<h1 align="center">Test Drive&nbsp;&nbsp;&rarr;&nbsp;&nbsp;Big Watershed</h1>
 
 <table><tr valign="center"><td align="center">🌧️🌦️⛈️🌨️🌧️🌫️
 <picture><img width="150px" alt="&nbsp;Y-fork: black on yellow" src="../../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>
@@ -11,15 +11,14 @@ For the record, the title of the lecture resonated with my anxiety: "Failed with
    <p align="center"><b>b&thinsp;u&thinsp;t ...</p>
 </td><td><picture><img alt="&nbsp;LONG READ" src="../../../../../_rsc/_img/signs/LongRead/plates/plsStayOn.jpg" /></picture></td></tr></table>
 
-The de-abbreviation raised another doubt: Where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...<sup>🙋</sup> 
+The de-abbreviation raised another doubt: Where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...<sup>🙋</sup>\
+&nbsp; &nbsp;<sup>🙋</sup> <sub align="right">Albeit being energetic in the recherche, I couldn't go through the best part of treatises. There must be better findings, and there could be better alternating conclusions.</sub>
 
 Presentations and lectures favored _development_ with _design_ as a natural<sup>🌵</sup> spin-off, not much bothering about distinction and some exploited both terms interchangeably. 
-Books and tutorials showed up inclined to techniques, patterns, and testing frameworks.
+Books and tutorials showed up inclined to techniques, patterns, and testing frameworks.\
+&nbsp; &nbsp; <sup>🌵</sup> <sub><b>Natural</b> since any complete snippet can't escape design or must fit into the given.</sub>
 
 Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</samp>, and encouraging to start features, didn't set forth for me to design just a mediocre project: hypothetical or tried.
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Albeit being energetic in the recherche, I couldn't go through the best part of treatises. There must be better findings, and there could be better alternating conclusions.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🌵</sup> <sub><b>Natural</b> since any complete snippet can't escape design or must fit into the given.</sub>
 
 <table align="center"><tr></tr><tr><td><br />&nbsp;&nbsp;&nbsp;<ins>&thinsp;
    The initial </ins><mark><b><code>O&thinsp;R</code></b></mark><ins>-question was answered first </ins><code><b>A&thinsp;N&thinsp;D</b></code><ins> and then refined to </ins><code><b>X&thinsp;O&thinsp;R</b></code><ins>
@@ -35,11 +34,9 @@ Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</sa
 <!--                                              WATERSHED CANVAS        --!>
 <!-- pic --!>
 
-
-
 </details>
 
-Design vs. Development are too dissimilar and contradictory to rotate on the same axis even admitting [evolutionary phenomenon](https://en.wikipedia.org/wiki/Continuous_design)<sup><b>w</b></sup>. 
+Design vs. Development are too **dissimilar and contradictory** to rotate on the same axis even admitting [evolutionary phenomenon](https://en.wikipedia.org/wiki/Continuous_design)<sup><b>w</b></sup>. 
 Even if it's the same project and team, test tools/framework, and skills/techniques to write tests and implement code behind.
 
 <table><tr><td width="50%" align="center"><b>🧪 Test ⚙️ DESIGN</b> <mark><b>Δ</b></mark> </td><td align="center">🧪 <b>Test</b> ⚙️ <b>DEVELOPMENT</b> <mark><b>δ</b></mark></td></tr><tr>
@@ -96,7 +93,7 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
    <p>Shall implement test doubles sketched by design.</p>
    <p>Use of the new test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).</p></td>
 </tr>
-        <!--            CHECKLIST    -->
+        <!--            CHECKLIST / CHEATSHEET    -->
 <tr>
 <td align="center" colspan="2"><b>C&thinsp;h&thinsp;e&thinsp;c&thinsp;k&thinsp;l&thinsp;i&thinsp;s&thinsp;t</b></td></tr>
 <tr valign="top"><td>
@@ -119,7 +116,7 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
    <div>☑️<ins><b>&nbsp;Functioning parts of applications.&nbsp;</b></ins></div>
 </td></tr>
            <!--            SO EASY?    --!>
-<tr><td align="center" colspan="2"><h3>Is that so handy&thinsp;?</h3></td>
+<tr><td align="center" colspan="2"><h3>Is that so handy as this cheatsheet&thinsp;?</h3></td>
 </tr>
        </table>
 <!--          NOT SO EASY     --!>
@@ -164,7 +161,7 @@ SPIN-OFFS: TESTS MULTIFEED
 
 ## Wrap up <samp>`// we deserved it`</samp>
 
-### Advantages
+### Advantages to take
 
 #### Separation of duties
 
@@ -180,9 +177,9 @@ It needs no introduction but to stress a couple of points:
 
 #### Motivation to TDD
 
-### What may be wrong
+### Disadvantages to avoid
 
-SPLIT !
+Activities may become to split.
 
 \___________
  <div align="center">🔚 &nbsp;🌒 2024-2025  ... images: kyriosity ...</div>
