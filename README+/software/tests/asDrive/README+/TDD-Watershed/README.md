@@ -45,9 +45,9 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
 </tr><tr valign="top"><td>
    <ul>
       <li><b>Grope</b> concepts and get a hands-on feeling on subjects<sup>🖋️</sup></li>
-      <li><b>Prototype</b> the vital funcaionality</li>
+      <li><b>Prototype</b> the chief functionality</li>
       <li><b>Couple</b> design fantasies with the tech-stack materiality</li>
-      <li><b>Define</b> skeleton functionality to vitalize</li>
+      <li><b>Define</b> skeleton code parts to vitalize</li>
       <li><b>Evaluate</b> and pick patterns/templates and, in some cases, languages/platforms</li>
       <li><b>Discuss</b> ideas, naming, and logic with consultants, users, and other devs</li>
    </ul>
