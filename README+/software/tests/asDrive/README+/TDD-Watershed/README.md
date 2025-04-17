@@ -6,15 +6,15 @@
 </td><td><p>... I was bicycling to hear a casual <b>TD<mark>D</mark></b> lecture as doubts crept in &mdash; where am I going:</p>
    <p align="center">Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
 <p>It wasn't about the destination of this ride but the principal divergence. 
-For the record, the title of the lecture resonated with my anxiety: "Failed with TDD? Here, you know why."</p>
-<p align="center">Mystery solved: it was <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>.</p>
-   <p align="center"><b>b&thinsp;u&thinsp;t ...</p>
+For the record, the title of the lecture resonated with my anxiety: «<i>Failed with TDD? Here, you know why.</i>»</p>
+<p align="center">Mystery solved: it was <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>,</p>
+   <p align="center"><b>b&thinsp;u&thinsp;t&thinsp; .&thinsp;.&thinsp;.</b/></p>
 </td><td><picture><img alt="&nbsp;LONG READ" src="../../../../../_rsc/_img/signs/LongRead/plates/plsStayOn.jpg" /></picture></td></tr></table>
 
 The de-abbreviation raised another doubt: Where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...<sup>🙋</sup>\
-&nbsp; &nbsp;<sup>🙋</sup> <sub align="right">Albeit being energetic in the recherche, I couldn't go through the best part of treatises. There must be better findings, and there could be better alternating conclusions.</sub>
+&nbsp; &nbsp;<sup>🙋</sup> <sub align="right">Albeit being energetic in the recherche, I couldn't go through the best part of treatises. There must be better findings, and there could be better alternative conclusions.</sub>
 
-Presentations and lectures favored _development_ with _design_ as a natural<sup>🌵</sup> spin-off, not much bothering about distinction and some exploited both terms interchangeably. 
+Presentations and lectures favored _development_ with _design_ as a natural<sup>🌵</sup> spin-off, not much bothering about distinction, and some exploited both terms interchangeably. 
 Books and tutorials showed up inclined to techniques, patterns, and testing frameworks.\
 &nbsp; &nbsp; <sup>🌵</sup> <sub><b>Natural</b> since any complete snippet can't escape design or must fit into the given.</sub>
 
@@ -36,7 +36,7 @@ Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</sa
 
 </details>
 
-Design vs. Development are too **dissimilar and contradictory** to rotate on the same axis even admitting [evolutionary phenomenon](https://en.wikipedia.org/wiki/Continuous_design)<sup><b>w</b></sup>. 
+Design vs. Development are too **dissimilar and contradictory** to rotate on the same axis, even admitting [evolutionary phenomenon](https://en.wikipedia.org/wiki/Continuous_design)<sup><b>w</b></sup>. 
 Even if it's the same project and team, test tools/framework, and skills/techniques to write tests and implement code behind.
 
 <table><tr><td width="50%" align="center"><b>🧪 Test ⚙️ DESIGN</b> <mark><b>Δ</b></mark> </td><td align="center">🧪 <b>Test</b> ⚙️ <b>DEVELOPMENT</b> <mark><b>δ</b></mark></td></tr><tr>
@@ -54,7 +54,8 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
   <div align="right"><sup>🖋️</sup> <sub>all the same: API sketch, bookkeeping artifacts or superhero <i>ViewModel</i></sub></div>
    </td><td>
    <ul>
-      <li><b>Reality check</b> of design</li>
+      <li><b>Reality check</b> of design<br />
+         <sup>We may plan features that the selected stack won't support.</sup></li>
       <li>Estimate and if reasonable provide <b>alternatives</b> of functionality and libraries/framework</li>
       <li><b>Granulate</b> dev items and functions</li>
       <li> Fill design with <b>working</b> code and its alternatives</li>
@@ -66,9 +67,9 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
          <!--             MODE: VOLATILE vs. FREEZE      --!>
 <tr>
    <td align="center" colspan="2"><b>M&thinsp;o&thinsp;d&thinsp;e</b></td></tr><tr valign="top"><td><p align="center"><b>Volatile</b></p><p>Design tests and code behind will inevitably come through iterations and breaking changes.</p>
-   <p>There's a chamber for creativity and experimentation but not hasty decisions (which will massively backlash).</p?
+   <p>There's a chamber for creativity and experimentation, but not hasty decisions (which will massively backfire).</p?
          </td><td><p align="center"><b>Freezing</b></p>
-   <p>Efforts shall be oriented toward the working code.</p><p> Imperfections, flaws, and locks can be prioritized and addressed later.</p>
+   <p>Efforts shall be oriented toward the production code version.</p><p> Imperfections, flaws, and locks can be prioritized and addressed later.</p>
 </td></tr>
          <!--              C O D E   B E H I N D     --!>
 <tr>
@@ -81,7 +82,7 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
      </td><td>
 <p>Granulate <b>interfaces</b> and create "technical" interfaces and classes.</p>
    <p>Implement interfaces and abstract classes.</p>
-   <p>Code classes and methods under strict guidelines (as wodely accepted SOLID or <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/frames">custom rules</a>).</p>
+   <p>Code classes and methods under strict guidelines (as widely accepted S.O.L.I.D. or <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/frames">custom rules</a>).</p>
 </td></tr>
           <!--          TEST DOUBLES    --!>
 <tr>
@@ -91,7 +92,7 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
 <p>When design stabilizes, these doubles will be development tasks, test-driven or not.</p>
 </td><td>
    <p>Shall implement test doubles sketched by design.</p>
-   <p>Use of the new test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnose helpers (as spies).</p></td>
+   <p>Use of the new test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnostic hooks (as spies).</p></td>
 </tr>
         <!--            CHECKLIST / CHEATSHEET    -->
 <tr>
@@ -115,7 +116,7 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
    <div>_________</div>
    <div>☑️<ins><b>&nbsp;Functioning parts of applications.&nbsp;</b></ins></div>
 </td></tr>
-           <!--            SO EASY?    --!>
+<!--            SO EASY?    --!>
 <tr><td align="center" colspan="2"><h3>Is that so handy as this cheatsheet&thinsp;?</h3></td>
 </tr>
        </table>
@@ -165,7 +166,7 @@ SPIN-OFFS: TESTS MULTIFEED
 
 #### Separation of duties
 
-It needs no introduction but to stress a couple of points:
+It needs no introduction, but to stress a couple of points:
 
 + Match personal inclinations (even of a single person, depending on initiative).
 + Present the concept ASAP.
@@ -179,7 +180,7 @@ It needs no introduction but to stress a couple of points:
 
 ### Disadvantages to avoid
 
-Activities may become to split.
+Activities may become too split.
 
 \___________
  <div align="center">🔚 &nbsp;🌒 2024-2025  ... images: kyriosity ...</div>
