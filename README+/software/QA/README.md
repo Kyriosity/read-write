@@ -44,7 +44,7 @@ graph TB
 Knowledge of/Experience in
 
 + **domain**/subjects,\
-`//` or it will be programming "telephone charades" with customer, or a great pverhead of specifications
+`//` or it will be programming "telephone charades" with the customer, or a great overhead of specifications
 + **tools** (as a platform and programming language),\
 `//` learning complex technologies on critical projects is a burnout path or/and programming what's already available,
 + **fails** and retreats (preferably of others).
@@ -63,6 +63,9 @@ What's admissible on "tangible" projects may lead to epic fails on a larger scal
 
 <table><tr>
  <td>
+  <picture><img width="250px" alt="&nbsp;Drake helps Lil Yachty with laptop (&quot;Life Is Good&quot;)" title="&nbsp;Drake helps Lil Yachty with laptop&#013;&#010;(&quot;Life Is Good&quot;)" 
+   src="../../_rsc/_img/memes/Drake_LilYachty-LifeIsGood_laptop.jpg" /></picture></td>
+ <td>
  <p>These are continuous measures within teams:</p>
  <ul>
   <li>Code reviews, pair programming, friendly discussions, and lessons.</li>
@@ -70,16 +73,13 @@ What's admissible on "tangible" projects may lead to epic fails on a larger scal
  <li>Selection of popular or custom <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/frames">guidelines</a> and <a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/techniques">techniques</a>.</li>
  </ul>
 </td>
-<td>
-  <picture><img width="250px" alt="&nbsp;Drake helps Lil Yachty with laptop (&quot;Life Is Good&quot;)" title="&nbsp;Drake helps Lil Yachty with laptop&#013;&#010;(&quot;Life Is Good&quot;)" src="../../_rsc/_img/memes/Drake_LilYachty-LifeIsGood_laptop.jpg" /></picture></td></tr></table>
+</tr></table>
 
 <h2 align="center">Retrospective</h2>
 
 ### Feedback
 
 <table><tr>
- <td><picture><img alt="&nbsp;The Twilight Zone" width="250px"
-    src="../../_rsc/_img/snap/movies/TheTwilightZone.1960.Monsters_MapleStreet.jpg" title="The Twilight Zone&#013;&#010;&#013;&#010;Ep. Mar, 1960" /></picture></td>
  <td>
 
 Customer/user experience is the top mark (not only on the positive scale), and not every user is eager to share it.
@@ -87,6 +87,8 @@ Customer/user experience is the top mark (not only on the positive scale), and n
 Besides errors, surveys must find out frustration and, even more important &mdash; neglected features.
  
 </td>
+ <td><picture><img alt="&nbsp;&nbsp;IT came from the outer space" width="250px"
+    src="../../_rsc/_img/snap/movies/IT_came_from_outer_space.1953-frag.jpg" title="IT came from the outer space&#013;&#010;&#013;&#010;director Jack Arnold, 1953" /></picture></td>
 </tr></table>
 
 <h2 align="center">🧪Tests📏🪲</h2>
@@ -97,7 +99,7 @@ _Tests_ and _Testing_ are a CENTERPIECE of QA and <ins>&thinsp;w&thinsp;i&thinsp
 
 There's no full replacement of manual tests &thinsp;&mdash;&thinsp; only their underestimate
 
-Unlike the olden days with blind commits of punchcards and tapes, most development allows its creators to assess the product (in whole or by feature) with every step and at time: just build and run.
+Unlike the olden days with blind commits of punchcards and tapes, most development allows its creators to assess the product (in whole or by feature) with every step and at the same time: just build and run.
  Responsible programmers are the primary, most prepared, most effective, and critical testers.
 
 P.S. Opening this page was your manual test. 
@@ -108,18 +110,18 @@ Executable code routines are the biggest cornerstone of modern QA. Automation of
 
 ### Simulators
 
-IT's more challenging to find an unavailable UI simulator or platform emulator or virtual machine than one popular.
+IT's more challenging to find an unavailable UI simulator or platform emulator, or virtual machine than a popular one.
 
 ## Appendix. Natural born quality
 
 There were and will be remarkable works done from scratch **without** allotted proof and validation measures (let alone code reviews and test automation) **but robust** from the first release. 
 
-This may (but mostly _will not_) happen in localized high-pro teams of responsible individuals but as an exclusion underlines the need for __QA__.
+This may (but mostly _will not_) happen in localized high-pro teams of responsible individuals, but as an exclusion underlines the need for __QA__.
 
-> Coding cleanly and qualitatively must be the primary goal, but teams will be uneven, distributed&thinsp;/&thinsp;fluctuating, and stressed. Add human nature to sweep problems under the carpet—it is quite big and thick in the software.
+> Coding cleanly and qualitatively must be the primary goal, but teams will be uneven, distributed/&thinsp;fluctuating, and stressed. Add human nature to sweep problems under the carpet &thinsp;&mdash;&thinsp; one quite big and thick in the software.
 <h3 align="center"><ins>&nbsp;bottom line&nbsp;</ins></h3>
 
-**QA** couldn't exist without errors - the catch-all term which inmates deserved their own [**corner**](README+/errors/).
+**QA** couldn't exist without errors &thinsp;&mdash;&thinsp; the catch-all term, with a dedicated [**corner**](README+/errors/) for its inmates.
 
 \___________\
 :end: ... continued in ...  [Errors](README+/errors/)  .&thinsp;.&thinsp;.  [Code quality](README+/code-quality.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [Tests for QA](../tests/asQA/) &nbsp;...&nbsp; [Pitfalls](README+/QA-pitfalls.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [TDD](../tests/asDrive)
