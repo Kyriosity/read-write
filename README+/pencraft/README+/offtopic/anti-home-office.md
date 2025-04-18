@@ -1,8 +1,8 @@
 # Photoblog&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Anti-home-office
 
-❗🏠 && ❗🏢 = 🏞️ 🚋🛸
 
-<p align="center"><b><samp>NOT HOME, NOT OFFICE</samp></b></p>
+
+<p align="center"><b><samp>NOT HOME, NOT OFFICE</samp></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;❗🏠 && ❗🏢 = 🏞️ 🚋🛸</p>
 
 ## Planes, Trains & ... whatever
 
@@ -33,6 +33,7 @@
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/mount/DevVsMonolyth.jpg" width="300" title="&nbsp;Development created this monolyth&#013;&#010;&nbsp;(Alter Schwede, 217t)" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Main-Donau_highPt.jpg" width="300" title="&nbsp;Main-Danube Canal" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Nord-Ostsee-Kanal_Rendsburg-High-Bridge.jpg" width="300" title="&nbsp; &nbsp;Nord-Ostsee-Kanal&#013;&#010;Rendsburg High Bridge" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Kiel-BalticInlet.jpg" width="300" title="&nbsp; Kieler Förde" /></span>
 
 ## Public spots
 
@@ -46,13 +47,13 @@
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Starbux.jpg" width="300" title="&nbsp;Starbucks" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Hbf-CoffeeFellows.jpg" width="300" title="&nbsp;Coffee Fellows, Hbf" /></span>
 
-### <ins>&thinsp;Bottom line&thinsp;</ins>: Blog without cats is _für die Katz_&thinsp;<sup>🐈‍⬛</sup>
+### <ins>&thinsp;Bottom line:&thinsp;</ins> Blog without cats would be _für die Katz_&thinsp;<sup>🐈‍⬛</sup>
 
 <span><img alt="&nbsp;&nbsp;&nbsp;Stubentiger front of notebook" src="../../../_rsc/_img/photo/blog/ThinkCat.jpg" title="&nbsp;der Stubentiger" width="300" /></span>
 
 \___________
 
-&nbsp; &nbsp; <sup>⚠️🚝</sup> <samp>These photos are for entertainment only and in no way promote Deutsche Bahn.</samp>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>(WARNING: You may miss important meetings or connections because of regular delays and cancellations of this service!)</sup></p>
+&nbsp; &nbsp; <sup>🚝</sup> <samp>These photos are for entertainment only and in no way promote Deutsche Bahn.</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sup>⚠️ You may miss important meetings or connections because of regular delays and cancellations of this service!</sup></p>
 &nbsp; &nbsp; <sup>🐈‍⬛</sup> <samp>_German_ "for cat" &mdash; idiomatically "for nothing"</samp>
 <div align="right">🔚 ... All snapshots are mine and genuine .. 🌘2000-2025</div>
