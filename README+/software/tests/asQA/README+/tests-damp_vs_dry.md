@@ -1,4 +1,4 @@
-# Programmatic Tests&nbsp;&nbsp;&mdash;&nbsp;&nbsp;DAMP <samp>NOT</samp> DRY
+# Programmatic Tests &nbsp; &mdash; &nbsp; DAMP <samp>NOT</samp> DRY
 
 <table><tr><td><p>Either <a href="../../asDrive">TDD<sup>e<b>V</b></sup></a> or <a href="../../asQA">proof</a> of the provided code, <b>a conventional approach</b> is to</p>
     <ul>
@@ -14,7 +14,7 @@
 Developing tests this way shall (☝🏼 no warranty) wrap features in pleasing _<b>D</b>escriptive <b>A</b>nd <b>M</b>eaninigful <b>P</b>hrases_ (_abbr._ <mark>&thinsp;<b>D&thinsp;A&thinsp;M&thinsp;P</b>&thinsp;</mark>).\
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario) that wrap tests into phrases, which not only programmers but also sane people can comprehend.</sub>
 
-Needless to point out the virtues of this approach but one great flaw: <ins>&thinsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins>&thinsp;, fermented by
+Needless to point out the virtues of this approach, but one great flaw: <ins>&thinsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins>&thinsp;, fermented by
 
 * the number of test cases, rows of test data (and their combinations),
 * re-testing of common functionality,
@@ -22,7 +22,7 @@ Needless to point out the virtues of this approach but one great flaw: <ins>&thi
 
 <table><tr><td><picture><img alt="&nbsp;Black box of test (not of application)" src="../../../../_rsc/_img/memes/ItTestsSmth.jpg" /></picture>
 </td><td>
-<p>The early layout will create a sound core, proving code essentials and describing the application (some documentation is still required).</p>
+<p>The early layout will create a sound core, verifying code essentials and describing the application (some documentation is still required).</p>
 <p>More and more tests will slightly but steadily dissolve this core into a badly maintainable bulk. With scrappy coverage, accumulated negligence, and impeded navigation.</p>
     <p>The refactoring counterblast is to <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> (<i><b>D</b>on't <b>R</b>repeat <b>Y</b>ourself</i>).</p>
 </td></tr></table>
@@ -44,7 +44,7 @@ graph TD
 
 * Miscellaneous sets of arguments (or test data) or even their order/combinations can make a difference.
 * External settings may have alternatives.
-* Different features and methods will not repeat themselves but have the same side-effects to test\
+* Different features and methods will not repeat themselves, but have the same side effects to test\
 (especially for error-proof)
 * Possible vital <ins>test doubles</ins> for _Asserts_ and _Acts_ are subjects of tests (sometimes the first to show up).
 * Abuse of _Asserts_ and _Acts_ (as nulls or invalid values/calls) must be tested for error handling.
@@ -122,7 +122,7 @@ Grouping _Asserts_ for the same _Arrange_ is a call of reason.
 
 As intuition must suggest, they can be best ordered from the most autonomous to the most dependent (not only by reference/hierarchy but, principally, logic).
 
-Advanced versions shall deal with _Arrange_ and _Act_ blending and branching, but this asks for <s>funding</s> a good, big pragmatic case to study and implement.
+Advanced versions shall deal with _Arrange_ and _Act_ blending and branching, but this asks for <s>funding</s> a good, big, pragmatic case to study and implement.
 
 ### Posers
 
@@ -130,7 +130,7 @@ Normalization doesn't apply well to advanced evaluation as [gradual asserts](htt
 
 ### Master cautions
 
-When a mass of tests exceeds the eyes' capabilities, it's clever to select the "key" ones &mdash; that fails must be investigated first (an order and classification can be set there too).
+When a mass of tests exceeds the sight capabilities, it's clever to select the "key" ones &mdash; which fail must be investigated first (an order and classification can be set there too).
 
 Imagine a math engine of a project. If a floating error emerges, neither API error will matter.
 
@@ -145,7 +145,7 @@ Does DRY apply to Test Driven Design? Yes, but very constrained by DAMP as its m
 ## Shorter syntax
 
 The accent of most frameworks and add-ins to them (as [fluent assertions](https://fluentassertions.com)<sup>🔗</sup>) is on the long articulated wording. 
-With all readability, the handicap is that the _test subjects_ are hidden in extra clauses and parenthesis.
+With all readability, the handicap is that the _test subjects_ are hidden in extra clauses and parentheses.
 
 The alternative can be ugly but terser, like these ["coagulated" expressions](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/FeatTest/README.md#assert-by-assign).
 
@@ -153,7 +153,7 @@ The alternative can be ugly but terser, like these ["coagulated" expressions](ht
 
 <table align="center"><tr></tr><tr><td>👆</td><td>
     
-When covering existing code you shall find out the repetitions to group.
+When covering existing code, you shall find out the repetitions to group.
 
 The opposite is for **Test Driven Development** &nbsp;&mdash;&nbsp; think in test unions prior.
 

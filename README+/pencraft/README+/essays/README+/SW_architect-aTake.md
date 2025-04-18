@@ -58,9 +58,9 @@ but to quickly define operating wholes rather than ripen aesthetic values.
   <i>Walhalla</i> on the river Danube, Bavaria (built 1820-1842) is an exemplary neoclassicism.
 </td><td>
  Buildings are <b>immobile</b>, conservative, and traditional &mdash; software is <b>ephemeral</b>, fluid, and free of nostalgia (as neoclassicism).</p>
- <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (without relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).
+ <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (lacking relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).
  
- The software doesn't rust or erode but becomes obsolete in a few years. Decades (bare minimum for wood cabins) set lifecycle records in residual mainframe software - unlikely to recur (till interstellar flights).
+ The software can't rust or erode but becomes obsolete in a few years. Decades (bare minimum for wood cabins) set lifecycle records in residual mainframe software - unlikely to recur (till interstellar flights).
 
 Software development gives freedom of life-sized _trial and **error**_ unthinkable in another production. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (libraries/services). 
 
@@ -68,7 +68,7 @@ Contrariwise, months of upfront planning and prototyping are adverse to software
  
 </td></tr></table>
 
-Software is the most automated production ever existed when copying, scaling, installation, and updates are one-click (or auto-scheduled) and unattended. 
+**Software is the most automated production ever materialized** when copying, scaling, installation, and updates are one-click (or auto-scheduled) and unattended. 
 
 <table><tr valign="top"><td width="*">
  <p>A construction engineer, whose modeling tasks mingle with stirring concrete, who is up and there on the spot to supervise the progress and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
@@ -169,23 +169,24 @@ from computer science`"((
 
 </details>
 
-⬅️ Let alone ♾️<b>D<samp>EV</samp>O<samp>PS</samp></b>♾️, as a separate software discipline.
+⬅️ `//` Not to mention ♾️<b>D<samp>EV</samp>O<samp>PS</samp></b>♾️ &thinsp;&mdash;&thinsp; a separate software domain.
 
 <details><summary><ins>&nbsp;.. <b>or for personal aptitudes:</b>&nbsp;</ins> ➡️</summary>
 
 + memorizing **big pictures** in enough detail (not general diagrams),
 + ability to **unify** and simplify logic (where it's not evident for others),
-+ staying **over** (but not ignoring) known decisions, practices, and common inclinations,
-+ power to **admit** poor decisions and dead-ends on time and energy to find better and redo the work,
++ staying **over** (but not ignoring) known patterns, practices, and common inclinations,
++ strength to **admit** poor decisions and dead-ends on time with energy to find better and redo the work,
 + selecting the right **proxies** for communication on technologies,
-+ definition of **subtasks** and delegating them with minor tutelage and surveillance (not to mention _micromanagement_),
-+ authority to **reconcile** design and technological encounters/counter-opinions,
++ skill to define **subtasks** and delegate them with minor tutelage and surveillance (let alone _micromanagement_),
++ authority to **reconcile** design and technological counter-opinions,
 + <ins>euphoria and frustration tolerance</ins> (for all that above).
 </details>
 
-⬅️ ... easy to declare but hard to correspond to alone.
+⬅️ ... easy to declare but **really** hard to correspond to.
 
-**Phenomenon of software architecture** is a collective vision and fusion of the best design, development, and coding from multiple inputs. Leaving as little cavities of misconstruing and design anarchy as possible.
+**The Phenomenon of software architecture** is a collective rather than personal vision and fusion of the best design, development, and coding from multiple inputs, 
+leaving as few cavities of misconstruing and design anarchy as possible.
 
 ## but hold on...
 
@@ -194,9 +195,9 @@ from computer science`"((
 Above all, **_software architect_** sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup>, and impresses hiring managers, customers, and stakeholders.&#8287;
 Neither _**expert**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> is equivalent.
 
-> There is no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.<sup>👩‍👦‍👦</sup>
+> There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.<sup>👩‍👦‍👦</sup>
 
-Finally, salt all this with a bitter reminder that major software isn't _Pantheon_ but the routine adaptation of requirements to known and tried solutions with quite a decent input of cutting-edge input and invention.
+Finally, salt all this with a bitter reminder that major software isn't _Pantheon_ but the routine adaptation of requirements to known and tried solutions with quite a decent input of cutting-edge and invention.
 
 <div dir=rtl><samp>"<b>.Smith will suffice</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
 

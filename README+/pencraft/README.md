@@ -1,4 +1,4 @@
-# Pen & Brush craft&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Technical writing
+<h1 align="center">Pen & Brush craft&nbsp;&nbsp;&mdash;&nbsp;&nbsp;✒️Technical writing🎨</h1>
 
 <table width="80%" align="center"><tr></tr><tr><td>
 
@@ -42,9 +42,11 @@ Namely, formalization and structuring compel us to reexplore and examine concept
 
 The writings and collections here are ...
 
-* The subject of personal taste, inclination, vision, and fallacies. (It's up to you to look them over or recoil in distaste.)
+* The subject of personal taste, inclination, vision, and fallacies.\
+`//` It's up to you to look them over or recoil in distaste.
 * The subject of continuous delivery (i.e. endless edit and modification).
-* Some opuses may be in the badly readable state of 🚧draft🐝 (skip them while I do my best to finish).
+* Some opuses may be in the badly readable state of 🚧<samp>draft</samp>🐝\
+`//` Skip them while I do my best to finish.
 
 \___________\
 🔚 🌘 2023-2025 &rArr; 📂[README+](README+)

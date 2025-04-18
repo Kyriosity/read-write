@@ -17,7 +17,7 @@
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/air/TIA/secured_zone.jpg" title="&nbsp;TIA security zone" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/rw/DB/ICE888.jpg" title="&nbsp;DB Intercity Express, München->Hamburg" width="300"/></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/rw/DB/ICE1007.jpg" title="&nbsp;DB ICE Sprinter, Berlin&rarr;München" height="300"/></span>
-<p>... not that convenient always ...</p>
+<p>... not that convenient always ... <sup>🚝</sup></p>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/rw/DB/ICE228.jpg" title="&nbsp;DB ICE228, Wien&rarr;Dortmund" height="300"/></span>
 
 ## Nature
@@ -45,11 +45,13 @@
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Starbux.jpg" width="300" title="&nbsp;Starbucks" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/spots/Hbf-CoffeeFellows.jpg" width="300" title="&nbsp;Coffee Fellows, Hbf" /></span>
 
-### <ins>&thinsp;Bottom line&thinsp;</ins>: Blog without cats is _für die Katz_&thinsp;<sup>*</sup>
+### <ins>&thinsp;Bottom line&thinsp;</ins>: Blog without cats is _für die Katz_&thinsp;<sup>🐈‍⬛</sup>
 
 <span><img alt="&nbsp;&nbsp;&nbsp;Stubentiger front of notebook" src="../../../_rsc/_img/photo/blog/ThinkCat.jpg" title="&nbsp;der Stubentiger" width="300" /></span>
 
 \___________
 
-<sup><b>*</b></sup> _German_ "for cat" &mdash; idiomatically "for nothing"
+&nbsp; &nbsp; <sup>🚝</sup> <samp>Photos in no way promote Deutsche Bahn.\
+&nbsp; &nbsp; WARNING: You may miss important meetings or connections because of regular delays and cancellations of this service!</samp>\
+&nbsp; &nbsp; <sup>🐈‍⬛</sup> <samp>_German_ "for cat" &mdash; idiomatically "for nothing"</samp>
 <div align="right">🔚 ... All snapshots are mine and genuine .. 🌘2000-2025</div>
