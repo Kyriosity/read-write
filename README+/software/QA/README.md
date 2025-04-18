@@ -77,10 +77,10 @@ What's admissible on "tangible" projects may lead to epic fails on a larger scal
 
 <h2 align="center">Retrospective</h2>
 
-### Feedback
-
-<table><tr>
+<table><tr valign="top">
  <td>
+
+### Feedback
 
 Customer/user experience is the top mark (not only on the positive scale), and not every user is eager to share it.
 
@@ -93,7 +93,7 @@ Besides errors, surveys must find out frustration and, even more important &mdas
 
 <h2 align="center">🧪Tests📏🪲</h2>
 
-_Tests_ and _Testing_ are a CENTERPIECE of QA and <ins>&thinsp;w&thinsp;i&thinsp;d&thinsp;e&thinsp;</ins> umbrella terms for the check of code and its products (including documentation). Bug searching and quality proofing tests are optional but highly recommended and a natural share of software creation. 
+_Tests_ and _Testing_ are a <samp>CENTERPIECE</samp> of QA and <ins>&thinsp;w&thinsp;i&thinsp;d&thinsp;e&thinsp;</ins> umbrella terms for the check of code and its products (including documentation). Bug searching and quality proofing tests are optional but highly recommended and a natural share of software creation. 
 
 ### Manual (spontaneous and planned)
 
