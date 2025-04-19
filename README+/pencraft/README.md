@@ -44,7 +44,8 @@ Namely, formalization and structuring compel us to reexplore and examine concept
 
 ## Appendix. Personal disclaimer
 
-<p align="right"><b>The difficulty of writing English is most tiresome to me.</b><br />
+<p align="right" title="&nbsp;... My God! If only we could write this beautiful language of France at all times!&#010;&#013;Letter to John Foster (7 July 1850)">
+  «<b>The difficulty of writing English is most tiresome to me.</b>»<br />
 <i>Charles Dickens</i>, 1850 [and me, 2025]</p>
 
 The writings and collections here are ...
