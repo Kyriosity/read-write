@@ -1,4 +1,4 @@
-# Software &mdash; <samp>Quality Assurance</samp> &rarr; Programmatic Tests
+# Software &nbsp; &mdash; &nbsp; <samp>Quality Assurance</samp> &rarr; Programmatic Tests
 
 <table><tr valign="top"><td><picture><img width="400px" alt="&nbsp;Software tests pyramid" src="../../../_rsc/_img/illus/tests/test_pyramid-deco-750px.jpg"></picture></td><td>
   <h3><i>Programmatic test</i> is a fundamental QA stone.</h3>
@@ -34,4 +34,4 @@ The more pragmatic use-dev repo discusses and renders [tests stuff](https://gith
 With all the benefits of the proof coverage and TDD<sup>eV</sup>, tests make up a second project requiring development and maintenance. 
 
 \___________\
-🔚 ... but [README+](README+) ... <sub>collage credit: LibreOffice clipart; The Outer Limits.The&nbsp;Mutant, 1964 (imdb screenshot)</sub>
+🔚 ... but [README+](README+) &nbsp; ... &nbsp; <sub>collage credit: LibreOffice clipart; The Outer Limits.The&nbsp;Mutant, 1964 (imdb screenshot)</sub>
