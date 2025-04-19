@@ -3,7 +3,7 @@
 <p dir="rtl">?<i>Need to write fast, catching, and pro<br>.Hire a ghostwriter</i><br />
 [Best author advice]</p>
 
-> **Certain software products, and technologies deserve the work of a pen or brush.**\
+> **Certain software products and technologies deserve the work of a pen or brush.**\
 > **The rank of such work may be a decision factor Nr&nbsp;1 for the usage of/funding for its subject: either attract or divert for good.**
 
 Technical authoring lies between documentation and literature and must have an artistic feel, rich vocabulary, and allure of the latter in frames of technical topics.
@@ -12,14 +12,14 @@ Technical authoring lies between documentation and literature and must have an a
 > For technically bright heads, freestyle authoring may seem deceptively easygoing: 
 > * Tongue is the only tool sharpened in use.
 > * Creative opus won't produce compilation errors.
-> * Drawing is what everybody already learned in childhood.
+> * Drawing is what everybody has already learned in childhood.
 > * Themes and plots are more available than to be invented.
 >
 > However, noble lines of words are much more sophisticated and painful than excellent code or engineering blueprints.\
-> An astute reader will notice poor or mediocre style from the very first sight.
+> An astute reader will notice poor or mediocre style at  first sight.
   
 <span title="&nbsp;What You See Is What You Write"><ins>WYSIWYG</ins></span> of the opus and rapidity of writing can create square miles of 'pulp'. 
-The 2020s decade of LLM-generated content has even boosted such "coverage" and visibly raised the bar for authentic words and pictures.
+The 2020s decade of LLM-generated content has even boosted such "coverage" and significantly raised the bar for authentic words and pictures.
 
 ## Pitfalls
 
@@ -33,11 +33,11 @@ The worst enemies of authorship are:
 
 ## Recipies 
 
-### Card driven
+### Card-driven
 
 ...
 
-## Dev driven writing
+## Dev-driven writing
 
 🚧TO BE WRITTEN
 
@@ -63,5 +63,5 @@ Listening to any lecture (live or recorded), course, or discussion can rescue yo
   <p>Randomly opened mathematical books helped me to polish the <a href="essays/README+/SW_architect-aTake.md">Architect(ure)</a>. (Yeap, that essay could be worse.)</p>
 </td></tr></table>
 
-🔚 🧂 <sub>The portion of truth in the epigraph is the quite but active "ghostwriting" market.</sub>
+🔚 🧂 <sub>The portion of truth in the epigraph is the quiet but active "ghostwriting" market.</sub>
 
