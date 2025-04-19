@@ -17,7 +17,7 @@ Writing tests in the language of their subjects is natural, practical, and facil
 
 Solution? Any popular language has some mainstream frameworks. Many frameworks also allow tests of UI, units/modules written in other languages, or API.<sup>🏛️</sup>
 
-&nbsp; &nbsp; &nbsp;<sup>🏛️</sup> <samp> E.g., even old and rare languages got test support as fastly found for reference [Cobol-check](https://github.com/openmainframeproject/cobol-check).</samp>
+&nbsp; &nbsp; &nbsp;<sup>🏛️</sup> <samp> E.g., even old and rare languages got test support as fastly found for reference [Cobol-check](https://github.com/openmainframeproject/cobol-check)<sup>🔗</sup>.</samp>
 
 ## Automation
 
