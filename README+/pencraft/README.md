@@ -1,6 +1,10 @@
-<h1 align="center">Pen & Brush craft&nbsp;&nbsp;&mdash;&nbsp;&nbsp;✒️Technical writing🎨</h1>
+<h1 align="center">Pen & Brush craft&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Technical writing</h1>
 
 <table width="80%" align="center"><tr></tr><tr><td>
+
+✒️&thinsp;**&**&thinsp;🎨
+  
+</td><td>
 
 [__Documentation__](README+/tech_docu.md)<sup>📄</sup> and [__authoring__](README+/tech-authoring.md)<sup>🖊️</sup> are two very dissimilar employments of writing and painting skills<br />
 with opposing values of formalism, creativity, envisaging, and styles.
@@ -17,11 +21,11 @@ The principled distinction is __*driven*__ vs __*drives*__:
 
 <ins>**Documentation**</ins> assumes defined, if not available, subjects (as software applications), while <ins>**authoring**</ins> may begin with a pure idea. (Enough technical oeuvres, such as concepts of relational DBs or REST, were based on "paper" concepts with little or no implementation.)
 
-When it's often a reader's headache to find and study the right <ins>documentation</ins> in any state and grade, with <ins>authoring</ins>, it's a burden of "pensters" to attract the public. 
+When it's often a reader's headache to find and study the right <ins>documentation</ins> in any state and grade, with <ins>authoring</ins>, it's a burden for "pensters" to attract the public. 
 
 Sticking to the narrowed vocabulary, repetitions, and cliches are benefactors in documentation but authoring sins.
 
-Regardless of mission, significant writing is an expensive and exhausting exercise. If not a hobby or bondage, it must:
+Regardless of the mission, significant writing is an expensive and exhausting exercise. If not a hobby or bondage, it must:
 
 + [x] have a live, eager auditorium,
 + [x] exceed other ways of teaching,\
@@ -32,19 +36,22 @@ Regardless of mission, significant writing is an expensive and exhausting exerci
 
 <table><tr><td><picture><img alt="&nbsp;Mango fruit" src="../_rsc/_img/photo/nat/mango/red_on_transparent-500px.png" width="200px"/></picture></td><td>
 
-Documenting/sketching ideas for even small features mitigates the impedance between the stretch of imagination and implementation reality. 
+Documenting/sketching ideas for even small features mitigates the impedance between the stretch of imagination and the reality of implementation. 
 
-Namely, formalization and structuring compel us to reexplore and examine concepts, enhance good sides, remake the bad, and reject unrealistic or meaningless stuff. 
+Namely, formalization and structuring compel us to reexplore and examine concepts, enhance the good sides, remake the bad, and reject unrealistic or meaningless features. 
   
 </td></tr></table>
 
 ## Appendix. Personal disclaimer
 
+<p align="right"><b>The difficulty of writing English is most tiresome to me.</b><br />
+<i>Charles Dickens</i>, 1850 [and me, 2025]</p>
+
 The writings and collections here are ...
 
-* The subject of personal taste, inclination, vision, and fallacies.\
+* The subject of private taste, inclination, vision, and fallacies.\
 `//` It's up to you to look them over or recoil in distaste.
-* The subject of continuous delivery (i.e. endless edit and modification).
+* The subject of continuous delivery (i.e., endless edit and modification).
 * Some opuses may be in the badly readable state of 🚧<samp>draft</samp>🐝\
 `//` Skip them while I do my best to finish.
 
