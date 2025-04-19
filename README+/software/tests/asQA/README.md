@@ -2,9 +2,9 @@
 
 <table><tr valign="top"><td><picture><img width="400px" alt="&nbsp;Software tests pyramid" src="../../../_rsc/_img/illus/tests/test_pyramid-deco-750px.jpg"></picture></td><td>
   <h3><i>Programmatic test</i> is a fundamental QA stone.</h3>
-  <p>Though unit tests are at the bottom of the pyramid any high-level test subject is a unit of its own.</p>
-  <p>This works in the opposite direction: there's no atomic test unit that couldn't be dissolved into lesser (to cover rationally without the explosion of code size). 
-  Our unit tests always drag lower lever units.</p>
+  <p>Though unit tests are at the bottom of the pyramid, any high-level test subject is a unit of its own.</p>
+  <p>This works in the opposite direction: no atomic test unit could be dissolved into a lesser unit (to cover rationally without the explosion of code size). 
+  Our unit tests always drag lower-level units.</p>
 </td></tr></table>
 
 ## Test frameworks and languages
@@ -13,16 +13,17 @@ Writing tests in the language of their subjects is natural, practical, and facil
 
 - UI has no programming language (like other amorphous themes).
 - Some languages (SQL) or markup (HTML) aren't suited to describe tests or are too obsolete (mostly to be maintained).
-- A domain may be written in a set of languages, or similar requirements implemented with different tools (e.g. JavaScript for front- and Java for backend).
+- A domain may be written in a set of languages, or similar requirements implemented with different tools (e.g., JavaScript for front-end and Java for backend).
 
-Solution? Any popular language has some mainstream frameworks. Many frameworks also allow UI tests and modules written in any language.<sup>🏛️</sup>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🏛️</sup> <sub>E.g. even old and rare languages got test support as fastly found for reference [Cobol-check](https://github.com/openmainframeproject/cobol-check).</sub>
+Solution? Any popular language has some mainstream frameworks. Many frameworks also allow tests of UI, units/modules written in other languages, or API.<sup>🏛️</sup>
+
+&nbsp; &nbsp; &nbsp;<sup>🏛️</sup> <samp> E.g., even old and rare languages got test support as fastly found for reference [Cobol-check](https://github.com/openmainframeproject/cobol-check).</samp>
 
 ## Automation
 
 <blockquote><b>Programmatic ≠ automated.</b><br />But tests are the intrinsic subject of automation when applicable and beneficial.</blockquote>
 
-// ToBe written
+// ToBe written 🚧
 
 ## Down to the practice
 
