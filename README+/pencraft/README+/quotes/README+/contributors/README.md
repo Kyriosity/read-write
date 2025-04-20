@@ -33,6 +33,10 @@ Designer of the earliest stored program computers (EDSAC, 1949) and inventor of 
 
 _Richard Wesley Hamming_ (**1915** - 1988), a mathematician known for prize-winning IT solutions
 
+### Christopher Strachey
+
+_Christopher S. Strachey_ (1916 - 1975), University of Cambridge. A British founder of denotational semantics, and other early groundstones of programming.
+
 ### Richard Bellman
 
 Prof. _Richard Ernest Bellman_ (**1920**-1983), a mathematician  who introduced **dynamic programming** in 1953 (IEEE Medal of Honor, 1979),\
