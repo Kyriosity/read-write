@@ -80,7 +80,7 @@ What's admissible on "tangible" projects may lead to epic fails on a larger scal
 <table><tr valign="top">
  <td>
 
-### Feedback
+### User feedback
 
 Customer/user experience is the top mark (not only on the positive scale), and not every user is eager to share it.
 
@@ -90,6 +90,10 @@ Besides errors, surveys must find out frustration and, even more important &mdas
  <td><picture><img alt="&nbsp;&nbsp;IT came from the outer space" width="250px"
     src="../../_rsc/_img/snap/movies/IT_came_from_outer_space.1953-frag.jpg" title="IT came from the outer space&#013;&#010;&#013;&#010;director Jack Arnold, 1953" /></picture></td>
 </tr></table>
+
+### Meetings
+
+With many "lessons learned", "sprint reviews" and similar behind I must say that they make sense provided the attendees will apply what they heard ASAP.
 
 <h2 align="center">🧪Tests📏🪲</h2>
 
