@@ -19,10 +19,10 @@ It went through numerous libs, polyfills, jQuery, and other cool tools and trans
 
 **Escape?**
 
-> Don't swim against the current. Stay in the river, become the river; and the river is already going to the sea. This is the great teaching.\
+> Don't swim against the current. Stay in the river, become the river; and the river is already going to the sea. This is great teaching.\
 — _Rajneesh, aka Osho_ (1931-1990)
 
-Translated east-to-west this means: follow career paths to a sinecure in a big company.
+Translated east-to-west, this means: follow career paths to a sinecure in a big company.
 
 \___________</details>
 
@@ -78,7 +78,7 @@ This is a very justified answer because of the changed requirements to programme
 <i>a fellow shares the location of cafe</i>] .&thinsp;.&thinsp;. good, <i>bon</i>, agreed, &mdash; be there in a moment] <kbd><b>DE</b>&thinsp;->&thinsp;<b>EN</b></kbd>
 </div><br />
 
-The caricature may look sloppy, but its author Karl Arnold had astonishingly escaped futuristic cringe: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
+The caricature may look sloppy, but its author, Karl Arnold, had astonishingly escaped futuristic cringe: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
 
 </details>
 
@@ -104,7 +104,7 @@ Another striking prediction (note the uncompromising _past tense_) from the year
 
 <picture><img alt="&nbsp;&nbsp;LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../_rsc/_img/snap/media/1957.02.25_LIFE_Page8_FSD.jpg" /></picture><br/>
 
-> ELECTRICITY MAY BE THE DRIVER. One day your car may speed along an electric highway, its speed and steering automatically controlled by electronic devices embedded in the road.\
+> ELECTRICITY MAY BE THE DRIVER. One day, your car may speed along an electric highway, its speed and steering automatically controlled by electronic devices embedded in the road.\
 _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 </details>
@@ -115,7 +115,7 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 <picture><img alt="&nbsp;Pile/stack of punchcards in 1966" src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" /></picture><br/>
 _(Tell grandma how much space your source files take ...)_
 
-A store of punched cards for a casual program. I'm proud to have a [little experience](../essays/README+/punchcard.md) of dealing with them.
+A store of punched cards for a casual program. I'm proud to have some [little experience](../essays/README+/punchcard.md) of dealing with them.
 
 </details>
 
