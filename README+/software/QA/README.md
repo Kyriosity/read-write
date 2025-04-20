@@ -121,7 +121,7 @@ This may (but mostly _will not_) happen in localized high-pro teams of responsib
 > Coding cleanly and qualitatively must be the primary goal, but teams will be uneven, distributed/&thinsp;fluctuating, and stressed. Add human nature to sweep problems under the carpet &thinsp;&mdash;&thinsp; one quite big and thick in the software.
 <h3 align="center"><ins>&nbsp;bottom line&nbsp;</ins></h3>
 
-**QA** couldn't exist without errors &thinsp;&mdash;&thinsp; the catch-all term, with a dedicated [**corner**](README+/errors/) for its inmates.
+**QA** couldn't exist without errors &thinsp;&mdash;&thinsp; the catch-all term, with a dedicated [**corner**](README+/errors/) for its inmates. Where 🪲[bugs](README+/errors/README+/bugs.md)🪳 are the first-class citizens.
 
 \___________\
-:end: ... continued in ...  [Errors](README+/errors/)  .&thinsp;.&thinsp;.  [Code quality](README+/code-quality.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [Tests for QA](../tests/asQA/) &nbsp;...&nbsp; [Pitfalls](README+/QA-pitfalls.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [TDD](../tests/asDrive)
+:end: ... continued in ... &nbsp;🚧[Errors](README+/errors/)  .&thinsp;.&thinsp;.  [Code quality](README+/code-quality.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [Tests for QA](../tests/asQA/) &nbsp;...&nbsp; [Pitfalls](README+/QA-pitfalls.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [TDD](../tests/asDrive)
