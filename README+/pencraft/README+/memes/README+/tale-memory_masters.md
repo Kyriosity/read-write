@@ -1,20 +1,22 @@
 # The L<samp>EGEND</samp> of Memory Masters
 
-[![Tales fron the crypt](https://img.shields.io/badge/Tales%20from-the%20crypt-violet?logo=readthedocs&logoColor=f0f)](#)
+[![Tales fron the crypt](https://img.shields.io/badge/Tales%20from-the%20crypt-blue?logo=readthedocs&logoColor=fdf)](#)
 
 > I heard it from a <code>C++</code>-gifted colleague when we exchanged [<samp><b>DOOM</b></samp>](https://en.wikipedia.org/wiki/Doom_(1993_video_game))&thinsp;<sup><b>w</b></sup> experience (already lores too).
 > 
-> His mom &mdash; who used to bе an assistant in some IT labs &mdash; told that true multi-warrior computer games with epic wins are a thing of the past &mdash; times of two-row monochrome text monitors (if not arrays of light bulbs).</p>
+> His mom &thinsp;&mdash;&thinsp; who used to bе an assistant in some IT labs &thinsp;&mdash;&thinsp; was sceptic about his excitement and told him that true multi-warrior computer games with epic wins are a thing of the past &nbsp;**.&thinsp;.&thinsp;.**\
+> &nbsp;
 
-I remastered and enhanced that.
+<p align="center"><i>I remastered and enhanced that.</i></p>
 
 <table><tr valign="top"><td width="50%"><picture><img src="../../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture><br />
 <picture><img alt="&nbsp;Early memory chips" src="../../../../_rsc/_img/af/Intel-C1103_ink.jpg" /></pictire>
 
 </td><td>
+  
+The lore goes in times of two-row monochrome text monitors (if not arrays of light bulbs) when every programmer was a computer scientist, or a mathematician, or both.
 
-  The lore goes that computer scientists (every programmer was one), senior in age and title, used relatively idle nighttime<sup>🌛</sup> to connect their computer centers 
-  via antediluvian wide area networks and combat resources with all possible (for warming up) and impossible, and unthinkable hacks in _machine languages_.
+Those senior in age and title occupied relatively idle nighttime<sup>🌛</sup> to connect their computer centers via antediluvian _wide area networks_ and combat resources with all possible (for warming up) and impossible, and unthinkable hacks in _machine languages_.
     
  Only codes, only hardcore &nbsp;&mdash;&nbsp; no hardware manipulations, no dirty cheats, no vulgar social engineering.
    
