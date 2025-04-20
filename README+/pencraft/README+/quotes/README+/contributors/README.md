@@ -168,15 +168,20 @@ He was brave enough to be [critical of AI](https://en.wikipedia.org/wiki/Hubert_
 ### Bjarne Stroustrup
 
 Bjarne Stroustrup (1950, Aarhus 🇩🇰) /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
-Beyond the great programming, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html)<sup>:link:</sup> saving us from misinterpretations.
+Beyond the great programming, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html)<sup>:link:</sup>, saving us from misinterpretations.
 
 ### Richard Stallman
 
-_Richard Matthew Stallman_, founder of GNU and Free Software Movement
+_Richard Matthew Stallman_, founder of GNU and the Free Software Movement
 
 ### Kent Beck
 
-_Kent Beck_ (born 1961) reviver of TDD approach, the eXtreme Programming founder, a signer of _Agile Manifesto_, a productive author on patterns, and a contributor to frameworks ([JUnit](https://github.com/junit-team)&thinsp;<sup>:octocat:</sup> as the most famous).
+_Kent Beck_ (born 1961), reviver of the TDD approach, the eXtreme Programming founder, 
+a signer of _Agile Manifesto_, a productive author on patterns, and a contributor to frameworks ([JUnit](https://github.com/junit-team)&thinsp;<sup>:octocat:</sup> as the most famous).
+
+### L. Peter Deutsch<a id="peter-deutsch" />
+
+_L. (Lawrence) Peter Deutsch_ (born 1946), computer scientist and composer, son of the famous MIT physics professor. Smalltalk, Ghostscript, FOSS, ...
 
 \___________
 
