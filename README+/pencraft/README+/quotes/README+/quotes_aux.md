@@ -30,5 +30,10 @@ Denn durch das erstere versteht man einen notwendigen Gegenstand des Begehrungs-
 durch das zweite des Verabscheuungsvermögens, beides aber nach einem Prinzip der Vernunft._\
 _**Kritik der praktischen Vernunft, 1788**_<sub>
 
+### Aphorisms
+
+> **You can't see the semantic wood for the syntactic trees.**\
+> [Christopher Strachey](contributors/README.md#christopher-strachey)
+
 \___________\
 🚧... TO be CONTINUED ... 🖋️ ..2025
