@@ -11,7 +11,8 @@ Let's assume the short word &thinsp;<mark><samp>&thinsp;<b>B&thinsp;U&thinsp;G</
 &nbsp; &nbsp; 🔬 Viruses and malware are **not** bugs. As well as missing features or bad UX.\
 &nbsp; &nbsp; ➿ Not only code but hardware vulnerabilities may cause bugs. Remember [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup>.\
 &nbsp; &nbsp; 🔎 Bugs can be permanent and sporadic, easy reproducable and not.\
-&nbsp; &nbsp; 🍴 Vulnerability to external errors and attacks is also a bug. (SQL injection, DDoS, user input of nonsense values, ...)
+&nbsp; &nbsp; 🍴 Vulnerability to external errors and attacks is also a bug: SQL injection, DDoS, user input of nonsense values, ...\
+&nbsp; &nbsp; <ins>&thinsp;Bugs are "physical" &thinsp;&mdash;&thinsp; they can be traced to bits, distinguishing them from general errors.&thinsp;</ins>
 
 Let's assume the samely short word <mark><samp>&thinsp;<b>F&thinsp;I&thinsp;X</b>&thinsp;</samp></mark> for measures to handle the **found** bugs.
   
