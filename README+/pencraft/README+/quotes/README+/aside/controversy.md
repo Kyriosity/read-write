@@ -1,13 +1,13 @@
 # Quotes &nbsp; &mdash; &nbsp; Backshelve &nbsp; &mdash; &nbsp; Controversy
 
-> Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.\
+> **Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.**\
 [Linus Torvalds](../contributors/README.md#Linus-Torvalds)
 
 Master _Torvalds_ could have meant renowned open-source contributors, but most smart guys in IT are for and because of wages, and it was never fun in commercial development.
 
 ### Maternity ward
 
->  Everyone knows it takes a woman nine months to have a baby. But you Americans think if you get nine women pregnant, you can have a baby in a month.\
+> **Everyone knows it takes a woman nine months to have a baby. But you Americans think if you get nine women pregnant, you can have a baby in a month.**\
 _Theodore von Kármán_ (1957)
 
 It suited a private aviation engineering talk but [Fred Brooks](../contributors/README.md#Fred-Brooks) popularized the phrase in his [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)<sup><b>w</b></sup>:
@@ -29,11 +29,19 @@ _John F. Woods_, /comp.lang.c++/, 1991
 
 This accidental quote in a newsgroup became one of the most cited in IT (often for fun). Unrealistic "always" demotivates aspiration to [quality code](../../../../../software/QA/README+/code-quality.md) (harmful and wrong).
 
-
 > **Software is Art.**\
 (Eavesdropped from a Product Owner)
 
 It is pleasing but barely real - there are no galleries of Old Masters with Algol listings.
+
+## Techniques
+
+> **To iterate is human, to recurse divine.**\
+> [L. Peter Deutsh](../contributors/README.md#peter-deutsch)
+
+Recursion is a great mathematical tool and an elegant software trick. However, for the latter, it's error-prone and may end up with a stack overflow.
+
+That's why it was prohibited for many mission-critical applications.
 
 ## Bitter words
 
@@ -47,7 +55,7 @@ Knowing the high-responsibility software in which Mr.&nbsp;Weinberg participated
 
 Despite all the epic failures, software, on which our life depends, is extremely robust and, contrary, has made the world safer (consider IT behind 50'000 daily civil aviation flights). 
 
-The aphorism shall better be: "If the software was built like houses, custom projects would be a luxury."
+The aphorism shall be better: "If the software were built like houses, custom projects would be a luxury."
 
 ### Languages
  
