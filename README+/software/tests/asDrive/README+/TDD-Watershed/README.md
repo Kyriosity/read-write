@@ -64,14 +64,14 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
       <p>Feedback stitches are incredibly valuable to prevent Design and Dev from coming apart.</p>
    </ul></td>
 </tr>
-         <!--             MODE: VOLATILE vs. FREEZE      --!>
+         <!--                                 MODE: VOLATILE vs. FREEZE      --!>
 <tr>
    <td align="center" colspan="2"><b>M&thinsp;o&thinsp;d&thinsp;e</b></td></tr><tr valign="top"><td><p align="center"><b>Volatile</b></p><p>Design tests and code behind will inevitably come through iterations and breaking changes.</p>
    <p>There's a chamber for creativity and experimentation, but not hasty decisions (which will massively backfire).</p?
          </td><td><p align="center"><b>Freezing</b></p>
    <p>Efforts shall be oriented toward the production code version.</p><p> Imperfections, flaws, and locks can be prioritized and addressed later.</p>
 </td></tr>
-         <!--              C O D E   B E H I N D     --!>
+         <!--                                      C O D E   B E H I N D     --!>
 <tr>
    <td colspan="2" align="center"><b>"&thinsp;C&thinsp;o&thinsp;d&thinsp;e&nbsp;&nbsp;&nbsp;b&thinsp;e&thinsp;h&thinsp;i&thinsp;n&thinsp;d&thinsp;"</b></td></tr>
 <tr valign="top"><td>
@@ -84,7 +84,9 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
    <p>Implement interfaces and abstract classes.</p>
    <p>Code classes and methods under strict guidelines (as widely accepted S.O.L.I.D. or <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/frames">custom rules</a>).</p>
 </td></tr>
+           <!--  --!>
           <!--          TEST DOUBLES    --!>
+         <!--  --!>
 <tr>
 <td align="center" colspan="2"><b>T&thinsp;e&thinsp;s&thinsp;t&nbsp;&nbsp;&nbsp;&nbsp;d&thinsp;o&thinsp;u&thinsp;b&thinsp;l&thinsp;e&thinsp;s</b></td></tr>
 <tr valign="top"><td>
@@ -92,9 +94,23 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
 <p>When design stabilizes, these doubles will be development tasks, test-driven or not.</p>
 </td><td>
    <p>Shall implement test doubles sketched by design.</p>
-   <p>Use of the new test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnostic hooks (as spies).</p></td>
-</tr>
-        <!--            CHECKLIST / CHEATSHEET    -->
+   <p>Use of the new test double must be limited to indispensable (stubbing a remote service or unavailable data) and diagnostic hooks (as spies).</p></td></tr>
+           <!--  --!>
+          <!--          TEST DATA    --!>
+           <!--  --!>
+<tr><td align="center" colspan="2"><b>T&thinsp;e&thinsp;s&thinsp;t&nbsp;&nbsp;&nbsp;&nbsp;d&thinsp;a&thinsp;t&thinsp;a</b></td></tr>
+<tr valign="top"><td>
+<p align="center"><b>Demonstrative</b></p>
+
+Must present the intention and motivation for development, and must be as user-friendly as possible.
+
+</td><td>
+<p align="center"><b>Technicalized</b></p>
+
+Test coverage actually with a slant to find elaborate error cases.
+
+</td></tr>
+                                                      <!--            CHECKLIST / CHEATSHEET    -->
 <tr>
 <td align="center" colspan="2"><b>C&thinsp;h&thinsp;e&thinsp;c&thinsp;k&thinsp;l&thinsp;i&thinsp;s&thinsp;t</b></td></tr>
 <tr valign="top"><td>
