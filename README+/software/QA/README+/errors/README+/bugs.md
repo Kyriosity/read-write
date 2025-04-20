@@ -9,10 +9,10 @@ Let's assume the short word &thinsp;<mark><samp>&thinsp;<b>B&thinsp;U&thinsp;G</
 &nbsp; &nbsp; ⚪ This behavior may be exactly specified or implied.\
 &nbsp; &nbsp; 🪲 Bugs must not definitely cause negative effects &thinsp; they can be all of a sudden useful and propose features.\
 &nbsp; &nbsp; 🔬 Viruses and malware are **not** bugs. As well as missing features or bad UX.\
-&nbsp; &nbsp; ➿ Not only code but hardware vulnerabilities may cause bugs. Remember [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup>.\
+&nbsp; &nbsp; ➿ Not only code but hardware vulnerabilities may cause bugs. Remember [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> even if there was no 100% software patch for it.\
 &nbsp; &nbsp; 🔎 Bugs can be permanent and sporadic, easy reproducable and not.\
 &nbsp; &nbsp; 🍴 Vulnerability to external errors and attacks is also a bug: SQL injection, DDoS, user input of nonsense values, ...\
-&nbsp; &nbsp; <ins>&thinsp;Bugs are "physical" &thinsp;&mdash;&thinsp; they can be traced to bits, distinguishing them from general errors.&thinsp;</ins>
+&nbsp; &nbsp; <ins>&thinsp;Bugs are historically "physical" &thinsp;&mdash;&thinsp; they can be traced to bits, distinguishing them from general errors.&thinsp;</ins>
 
 Let's assume the samely short word <mark><samp>&thinsp;<b>F&thinsp;I&thinsp;X</b>&thinsp;</samp></mark> for measures to handle the **found** bugs.
   
