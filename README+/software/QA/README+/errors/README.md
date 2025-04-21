@@ -1,28 +1,31 @@
-# IT &nbsp; &mdash; &nbsp; Errors
+# Software &nbsp; &mdash; &nbsp; Errors
+
+<p align="right">«<samp>There's no sound software.<br />There could be not enough QA.</samp>»</p>
+
+**_Errare programata est._** Errors in software systems and applications aren't limited to [**bugs**](README+/bugs.md), tangible by users, but 
+
+- poor performance (or great resource consumption),
+- frustrating user experience,
+- missing implementation,
+- concealed elements and features,
+- underused and misused parts,
+- incompatibilities (versions, environment, and hardware),
+- bad naming and text (particularly translations between tongues).
+
+This wasn't the complete list. **The whole software product can be an error** (no sarcasm intended).
+
 
 🚧🚧🚧 PLACEHOLDER -DRAFT 🚧🚧🚧
 
- which are very <ins>&thinsp;w&thinsp;&thinsp;i&thinsp;d&thinsp;e&thinsp;</ins> umbrella term, which covers:
- 
-- fails,
-- bugs,
-- poor performance,
-- frustrating user experience,
-- missing implementation,
-- concealed elements and features.
-
 ## Specimen
 
-### Falsely assumed as errors
+### What's not an error
 
 #### Messages
 
 #### Foreign problems
 
-### Hall of shame
-
-Place Nr1: «<samp>This wasn't in the requirements.</samp>»
-
+## Practice
 
 |- [Errors guidelines](https://github.com/Kyriosity/use-dev/blob/main/README%2B/frames/README%2B/commu/errors.md)
 
