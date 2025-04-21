@@ -139,10 +139,18 @@ flowchart TD
   <mark>&thinsp;<b>☁️ ¯\_(ツ)_/¯ ☁️</b>&thinsp;</mark><br />
   in my CLOUD<br />
 <br /><a href="README+/polyptych_works.md"><b>POLYPTYCH</b></a>
-</td><td>
+</td>
+                    </tr><tr></tr><tr align="center">
+<td>
+  <a href="README+/template_memes.md"><img src="../../../_rsc/_img/_nav/tiles/dashed_bw-200px.jpg" alt="&nbsp;&nbsp;Memes from templates" /><br />
+  <a href="README+/template_memes.md"><b>TEMPLATED</b></a>
+</td>
+<td></td>
+<td>
   <picture><img src="../../../_rsc/_img/_nav/tiles/_ComingNext_200px.jpg" alt="&nbsp;coming next ..." /></picture><br />
   <a href="README+/extra_read.md"><b>EXTRA READING</b></a>
-</td></tr></table>
+</td>
+</tr></table>
 
 ## **Volume&nbsp;II.** [**Inspirational quotes**](../quotes/README+/inspirational.md) 
 
