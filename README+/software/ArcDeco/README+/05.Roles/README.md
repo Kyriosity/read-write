@@ -3,13 +3,13 @@
 
 ---
 
-<p align="center"><b>«Many hands make light work.»</b><br /><i>If I were limited to a few words about Arc Deco <br />this idiom would be the choice.</i></p>
+<p align="center"><b><samp>«Many hands make light work.»</samp></b><br /><i>If I were limited to a few words about Arc Deco,<br />this idiom would be the choice.</i></p>
 
 # Roles
 
 🚧📝🚧 ... DRAFT in progress ... 🚧🖌️🚧
 
-While it's under construction you may rad a [Take on the <samp><b>Architect</b></samp>](../../../../pencraft/README+/essays/README+/SW_architect-aTake.md).
+While it's under construction, you may read a [Take on the <samp><b>Architect</b></samp>](../../../../pencraft/README+/essays/README+/SW_architect-aTake.md).
 
 ## Challenges which lead to roles
 
@@ -17,10 +17,10 @@ While it's under construction you may rad a [Take on the <samp><b>Architect</b><
 
 ## Roles swap
 
+<p align="right"><samp>A change is as good as a rest.</samp></p>
 
-
-Quite often there are predefined destinies in occupation.
+Quite often, there are predefined destinies in occupation.
 
 🔚 **...** <picture><img alt="&nbsp;&nbsp;&nbsp;&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg"
 title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde"/></picture>
-&nbsp;🌔 (2024...)
+&nbsp;🌔 (2024-2025 ...)
