@@ -15,7 +15,7 @@
   <br /><br /></bre><blockquote><b>Who is the opponent in software?</b><br />
   Not a customer, a manager, or a user.<br />The development<b>!</b></blockquote>
 </td><td>
-<p>♕♛&nbsp;Learning elementary programming and the rules of the checkered strategy are both fast and attainable for the masses. 
+<p>♕♛&nbsp;Learning elementary programming and the rules of the checkered strategy are both fast, enjoyable and attainable for the masses. 
 Starting programming resembles games of neophytes: <i>blitz</i> (wins follow fails), fun, and visibly improving.</p>
 
 <p>♖♜&nbsp;Understanding and learning principles and check patterns will prevent blunders but not positional traps of better opponents.<br />
@@ -24,7 +24,7 @@ In like manner, a keen junior will soon write good pieces of code but shaky solu
 <p>♗♝&nbsp;Chess openings rest on studied memorized decisions and strong theory. In software, it means IT education, selection of platforms, frameworks, and external parts, when experimentation and creativity are abnormal</p>
 
 <p>♘♞&nbsp;Then the perception of combinatory vastness and the need to think in several moves lifts the curtain of first naive impressions.<br />
-"Moves" in software are multilevel projections over digits and their calculations with enormous space <code><b>&gt;</b>&thinsp;8x8</code> for phantasies and alternative solutions.</p>
+"Moves" in software are multilevel projections three boolean operations over bits calculations with tremendous space <code><b>&gt;</b>&thinsp;8x8</code> for phantasies and alternative solutions.</p>
 
 <p>Passion wouldn't be enough to rise to a higher - learning and understanding of theory required and games against stronger opponents. The number of games or written applications won't break the ceiling.<sup>👑</sup></p>
   
