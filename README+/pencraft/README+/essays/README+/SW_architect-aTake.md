@@ -6,7 +6,7 @@
 <p>Some ancient Hellenes were so good at construction sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &mdash; the term romanized to <i>architecture</i> centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &mdash; 
 refined craftsmen exempt from chores and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
-<p>Much later, diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complicacy.</p>
+<p>Much later, diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complexity.</p>
 <p>Even so, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) and architects of <em>détente</em> or <em>economic miracle</em> are compliments (or flattery).</p>
 ___________<br />
 <sup>🏛️</sup> <sub>Greek:</sub> <samp>ἀρχιτέκτων</samp><sub>, “master/chief builder/maker" but this occupation existed much prior as the <i>Ziggurat of Ur</i> and Egyptian Pyramids suggest (but Stonehenge refutes).</sub>
@@ -30,7 +30,7 @@ but to quickly define operating wholes rather than ripen aesthetic values.
 
 🎨 Both enjoy the flexibility of many tools, methodologies, and skills.
 
-🔋 Both must accumulate mainstream and alternate practices and reveal patterns.
+🔋 Both must accumulate mainstream and alternative practices and reveal patterns.
 
 💥 Both imperfect abstraction and planning can produce a mess, which will loudly crash.
 
@@ -60,9 +60,9 @@ but to quickly define operating wholes rather than ripen aesthetic values.
  Buildings are <b>immobile</b>, conservative, and traditional &mdash; software is <b>ephemeral</b>, fluid, and free of nostalgia (as neoclassicism).</p>
  <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (lacking relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).
  
- The software can't rust or erode but becomes obsolete in a few years. Decades (bare minimum for wood cabins) set lifecycle records in residual mainframe software - unlikely to recur (till interstellar flights).
+ The software can't rust or erode, but it becomes obsolete in a few years. Decades (bare minimum for wood cabins) set lifecycle records in residual mainframe software - unlikely to recur (till interstellar flights).
 
-Software development gives freedom of life-sized _trial and **error**_ unthinkable in another production. Builders may only envy sustainability and seamless upgrades/swaps of hardware basements and communications (libraries/services). 
+Software development gives freedom of life-sized _trial and **error**_ unthinkable in another production. Builders may only envy sustainability and seamless upgrades/swaps of hardware, basements, and communications (libraries/services). 
 
 Contrariwise, months of upfront planning and prototyping are adverse to software, which paces in releases and favors [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)<sup><b>w</b></sup> ASAP.
  
@@ -173,10 +173,11 @@ from computer science`"((
 
 <details><summary><ins>&nbsp;.. <b>or for personal aptitudes:</b>&nbsp;</ins> ➡️</summary>
 
-+ memorizing **big pictures** in enough detail (not general diagrams),
++ **memorizing** "big pictures" in enough detail (not general diagrams),
 + ability to **unify** and simplify logic (where it's not evident for others),
 + staying **over** (but not ignoring) known patterns, practices, and common inclinations,
 + strength to **admit** poor decisions and dead-ends on time with energy to find better and redo the work,
++ humility to keep on searching existing snippets and features ahead of implementing the great own,
 + selecting the right **proxies** for communication on technologies,
 + skill to define **subtasks** and delegate them with minor tutelage and surveillance (let alone _micromanagement_),
 + authority to **reconcile** design and technological counter-opinions,
@@ -206,7 +207,7 @@ Finally, salt all this with a bitter reminder that major software isn't _Pantheo
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom <b>IN/OUT</b></mark>" from <picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture> [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) (thrivingtechnologist.com)</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of C#.NET in Microsoft are titled _architects_ or _leads_ but all of them show fluent coding skills at presentations.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Images credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and kyriosity</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Image credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and kyriosity</sub>
 
 <table><tr></tr><tr>
  <td>☝️</td><td>This essay doesn't split <i>architecture</i> and <i>design</i> (as everything over particular and imaginary applications/systems/constructions) while
