@@ -5,12 +5,19 @@
 # The Big Picture
 
 <table><tr valign="top"><td width="45%">
-    <p><b>Big thoughts</b> &mdash; <b>big pictures</b>. Shallow, childish, or blurred, plane section or angled, they are better than naked prose and give readers an eagle view.</p>
-    <p>Let's begin with contours, intentionally left without annotations to defy your 3D phantasy.</p>
-    <p>Before we go further, it's nice if you guess or conjure up the forces and factors (they can not and won't match those, as explained below).</p>
+   
+### Big thoughts &nbsp;&mdash;&nbsp; big pictures 
+
+Shallow, childish, or blurred, plane section or angled, they are better than naked prose and give readers an eagle view.
+
+Let's begin with contours, **intentionally** left without annotations to defy your 3D phantasy.
+
+👆 Before we move further, it would be nice if you could guess or conjure up the forces and factors.\
+(❕ They can not and will not match those, as explained below.)
+
 </td><td>
     <picture><img alt="&nbsp;image not found: ArcDeco-BigPict-bare.jpg" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-bare.jpg" 
-    title="&nbsp;Unannotated forces in multiple dimensions"/></picture>
+    title="&nbsp;Unannotated forces in &#013;&#010;multiple dimensions"/></picture>
 </td></tr></table>
 
 <details><summary><h2><ins>&nbsp;Forces named&nbsp;</ins></h2></summary>
