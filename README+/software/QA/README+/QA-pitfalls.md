@@ -4,6 +4,10 @@
  
 ## Conceptual
 
+### Fatigue
+
+Even a minor change may require a thick layer of test coverage along with the modification of existing. And this can be temporary.
+
 ### Apathy
 
 QA doesn't deliver end products but consumes resources and thus is the first to spare: declared or concealed, individually and by whole teams/departments. Consequences are the subject of luck or misfortune. 
@@ -16,11 +20,11 @@ Non-critical features may be neglected for years &mdash; don't expect all popula
 
 Observation is harder than action. 
 
-Fulfilling all test procedures manually or writing tests that may report few non-critical errors disappoints and looks profligate.
+Fulfilling all test procedures manually or writing tests that may report a few non-critical errors disappoints and looks profligate.
 
 ### "Wishful thinking"
 
-A software product or a team can deserve a high credit. The side effect is non-critical and shallow checks, particularly of the established parts.
+A software product or a team can deserve high credit. The side effects are non-critical and shallow checks, particularly of the established parts.
 
 Good personal relationships may (note **may**) turn a blind eye.
 
@@ -29,15 +33,15 @@ Good personal relationships may (note **may**) turn a blind eye.
 The mirrored twin of _wishful thinking_ is the negative reaction of developers to reports. 
 They may treat discovered omissions and bugs as accusations of bad performance (mostly wrong).
 
-And yes, this means more job, stress and diversion.
+And yes, this means more efforts, stress, and diversion.
 
-This will discourage testers from reporting the facts or soft-pedal them.
+This will discourage testers from reporting the facts or soft-pedaling them.
 
 ### Bad domain knowledge
 
 "Blind" programming and testing of the subjects is akin to technical translation by linguists.
 
-### Undervalue of foolproof checks, "criminal energy", and vandalism
+### Undervaluation of foolproof checks, "criminal energy", and vandalism
 
 Stories of many system breaches and epic fails began with "Who would ever...". 
 
@@ -47,7 +51,7 @@ Stories of many system breaches and epic fails began with "Who would ever...".
 
 This means careless development  [Test Driven Development](../../tests/asDrive)
 
-This means careless development with QA in the loop as TDD LINK! and the hope they give fast feedback. This overloads the QA
+This means careless development with QA in the loop as TDD LINK! and the hope that they will give fast feedback. This overloads the QA
 
 ### Sandbox and greenhouses
 
