@@ -23,18 +23,17 @@ ___________<br />
             title="&nbsp;Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture>
 </td><td>
 
-🏝️ The architecture of both demands creativity and grants **leeway** and vast **playland** for phantasy and missteps, 
-but to quickly define operating wholes rather than ripen aesthetic values. 
+🏝️ The architecture of both demands creativity and grants **leeway** with vast **playland** for phantasy and missteps. However the goal is to quickly define operating wholes rather than ripen aesthetic values. 
 
-✏️ Endeavors in both often begin from sketching on white paper or chalkboards.
+✏️ Endeavors in both often begin from sketching on the white paper or chalkboards.
 
-🎨 Both enjoy the flexibility of many tools, methodologies, and skills.
+🎨 Both enjoy the availability and flexibility of many tools, methodologies, and skills.
 
 🔋 Both must accumulate mainstream and alternative practices and reveal patterns.
 
-💥 Both imperfect abstraction and planning can produce a mess, which will loudly crash.
+💥 Imperfect abstraction and planning in both can produce a mess, which will loudly crash.
 
-🎈 Abuse of both for hollow promises and sandcastles is more frequent than in other industries.
+🎈 Abuse of both for hollow promises and "sandcastles" is more typical and frequent than in other industries.
 
 👯 Both don't rely solely on picked masterminds but on teams of professionals and pundits with varying competence (with or without hierarchy).
 
@@ -45,7 +44,7 @@ but to quickly define operating wholes rather than ripen aesthetic values.
  <a href="https://en.wikipedia.org/wiki/Design_Patterns"><img src="../../../../_rsc/_img/snap/media/books/DesignPattern_GangOfFour_1994.jpg" alt="&nbsp;Design Patterns" 
             title="&nbsp;DESIGN PATTERNS&#013;&#010;&nbsp;Elements of Reusable&#013;&#010;&nbsp;Object-Oriented Software&#013;&#010;___________&#013;&#010;&nbsp;Gang of Four&#013;&#010;&nbsp;Addison-Wesley Professional, 1994" /></a></td></tr></table>
   
-## ...but diffs are bigger
+## ... but diffs are bigger
 
 <p align="right"><b><code>IF</code></b>&nbsp;«Architecture is a frozen music.»<br />
 (<i>Arthur Schopenhauer</i>, 1788-1860)<br />
@@ -179,12 +178,12 @@ from computer science`"((
 + strength to **admit** poor decisions and dead-ends on time with energy to find better and redo the work,
 + humility to keep on searching existing snippets and features ahead of implementing the great own,
 + selecting the right **proxies** for communication on technologies,
-+ skill to define **subtasks** and delegate them with minor tutelage and surveillance (let alone _micromanagement_),
++ skill to define **subtasks** and delegate them with minor tutelage and surveillance (and for heaven's sake _micromanagement_),
 + authority to **reconcile** design and technological counter-opinions,
 + <ins>euphoria and frustration tolerance</ins> (for all that above).
 </details>
 
-⬅️ ... easy to declare but **really** hard to correspond to.
+⬅️ ... easy to declare but **truly** tough to correspond to.
 
 **The Phenomenon of software architecture** is a collective rather than personal vision and fusion of the best design, development, and coding from multiple inputs, 
 leaving as few cavities of misconstruing and design anarchy as possible.
