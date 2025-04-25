@@ -11,9 +11,9 @@
 
 <table><tr valign="top"><td><p><b>Figure of chess is a universal figure of speech...</b><sup>♟️</sup></p>
   <p><img alt="&nbsp;IT chess phantasy" src="../../../../_rsc/_img/illus/ChessIT.jpg" /></p>
-<div dir="rtl"><sub>or I'm boring and unimaginative to&nbsp;&#8230;&nbsp;</sub><sup>♟️</sup><br><sub>.propose better and smarter analogies</sub></div>
-  <br /><br /></bre><blockquote><b>Who is the opponent in software?</b><br />
-  Not a customer, a manager, or a user.<br />The development<b>!</b></blockquote>
+<p dir="rtl"><sub>or I'm boring and unimaginative to&nbsp;&#8230;&nbsp;</sub><sup>♟️</sup><br><sub>.propose better and smarter analogies</sub></p>
+<blockquote><b>Who is the opponent in software?</b><br />
+  Not a customer, a manager, or a user.<br />The development❕</blockquote>
 </td><td>
 <p>♕♛ Learning elementary programming and the rules of the checkered strategy are both fast, enjoyable, and attainable for the masses. 
 Starting programming resembles games of neophytes: <i>blitz</i> (wins follow fails), fun, and visibly improving.</p>
@@ -39,9 +39,9 @@ Software ways to craftsmanship are inscrutable and assessed by eye.</p>
 
 These two are paved with miscellaneous dilemmas, but one pivotal:
 
-<p align="center"><b><samp>Why don't best development practices make the great design by itself?</samp>&thinsp;<sup>🙋</sup></b></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>Developing excellent features, feeling the patterns and principles, and writing [quality code](../../../QA/README+/code-quality.md) but expectations end up to achieving a passable project state.</sub>
+<h3 align="center"><b><samp>Why don't best development practices make great design by themselves?&thinsp;</b><br />
+<sub>(Developing excellent features, feeling the patterns and principles, and writing <a href="../../../QA/README+/code-quality.md">quality code</a>, 
+  <br />but expectations end up with achieving just a passable project state.)</sub></h3>
 
 Now veneer them with <ins>rhetorical</ins> vs. <ins>open</ins> <kbd>&thinsp;<samp><b>I&thinsp;S</b></samp>&thinsp;</kbd>, <kbd>&thinsp;<samp><b>W&thinsp;H&thinsp;Y</b></samp>&thinsp;</kbd>, and <kbd>&thinsp;<samp><b>H&thinsp;O&thinsp;W</b></samp>&thinsp;</kbd> tiles:
 
