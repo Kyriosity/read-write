@@ -9,11 +9,18 @@
 
 <p dir="rtl">A cherry-picked <b>metaphor</b><br />.simplifies explanation<br />(.At times even for readers)</p>
 
-<table><tr valign="top"><td><p><b>Figure of chess is a universal figure of speech...</b><sup>♟️</sup></p>
+<table><tr valign="top"><td><p id="chess"><b>Figure of chess is a universal figure of speech...</b><sup>♟️</sup></p>
   <p><img alt="&nbsp;IT chess phantasy" src="../../../../_rsc/_img/illus/ChessIT.jpg" /></p>
 <p dir="rtl"><sub>or I'm boring and unimaginative to&nbsp;&#8230;&nbsp;</sub><sup>♟️</sup><br><sub>.propose better and smarter analogies</sub></p>
 <blockquote><b>Who is the opponent in software?</b><br />
   Not a customer, a manager, or a user.<br />The development❕</blockquote>
+
+Win - Breaking change go lite
+
+Stalemate - the project works, but features can hardly be added.
+
+Mate - dev stop only support.
+  
 </td><td>
 <p>♕♛ Learning elementary programming and the rules of the checkered strategy are both fast, enjoyable, and attainable for the masses. 
 Starting programming resembles games of neophytes: <i>blitz</i> (wins follow fails), fun, and visibly improving.</p>
