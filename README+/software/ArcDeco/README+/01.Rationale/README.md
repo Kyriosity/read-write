@@ -5,11 +5,11 @@
 # Rationale
 
 <details><summary><ins>&nbsp;&nbsp;&nbsp;A metaphor you may skip&nbsp;</ins>&nbsp;...</summary>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... but (thanks) you've clicked.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... but (thanks) you've clicked.<a id="chess" />
 
 <p dir="rtl">A cherry-picked <b>metaphor</b><br />.simplifies explanation<br />(.At times even for readers)</p>
 
-<table><tr valign="top"><td><p id="chess"><b>Figure of chess is a universal figure of speech...</b><sup>♟️</sup></p>
+<table><tr valign="top"><td><p><b>Figure of chess is a universal figure of speech...</b><sup>♟️</sup></p>
   <p><img alt="&nbsp;IT chess phantasy" src="../../../../_rsc/_img/illus/ChessIT.jpg" /></p>
 <p dir="rtl"><sub>or I'm boring and unimaginative to&nbsp;&#8230;&nbsp;</sub><sup>♟️</sup><br><sub>.propose better and smarter analogies</sub></p>
 <blockquote><b>Who is the opponent in software?</b><br />
