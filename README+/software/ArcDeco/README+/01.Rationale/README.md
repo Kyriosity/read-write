@@ -5,7 +5,7 @@
 # Rationale
 
 <details><summary><ins>&nbsp;&nbsp;&nbsp;A metaphor you may skip&nbsp;</ins>&nbsp;...</summary>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... but (thanks) you've clicked.<a id="chess" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... but (thanks) you've clicked.
 
 <p dir="rtl">A cherry-picked <b>metaphor</b><br />.simplifies explanation<br />(.At times even for readers)</p>
 
