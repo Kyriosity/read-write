@@ -15,7 +15,7 @@ Fun fact: searching for _von Neumann_ (without the first name) will recite first
 
 ### Grace Hopper
 
-_Grace Brewster Hopper_, née Murray (**1906**-1992), grandma of Cobol, finder of the moth thus starting the debugging era (that chords with her name). She also suggested the use of English for high-level programming.
+_Grace Brewster Hopper_, née Murray (**1906**-1992), grandma of COBOL, finder of the moth, thus starting the debugging era (that chords with her name). She also suggested the use of English for high-level programming.
 
 ### Alan Turing
 
@@ -80,7 +80,7 @@ _Gerald Marvin Weinberg_ (**1933** - 2018), UMich, IBM, a computer scientist, a 
 
 ### Tony Hoare
 
-_C.A.R. Hoare_, _Charles Antony Richard Hoare_ (born **1934**)<sup title="Turing Award, 1980">🥇</sup> a fundamental contributor to programming languages and algorithms.
+_C.A.R. Hoare_, Sir _Charles Antony Richard Hoare_ (born **1934**)<sup title="Turing Award, 1980">🥇</sup> a fundamental contributor to programming languages and algorithms.
 
 He coined the famous [Billion Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/) for _NullReference_.
 
@@ -90,7 +90,7 @@ _Niklaus Emil Wirth_ (**1934** - 2024)🇨🇭 <sup title="Turing Award, 1984">�
 
 ### Donald Knuth
 
-_Donald Ervin Knuth_ (born **1938**)<sup title="Turing Award, 1974">🥇</sup> one of the first and most prominent computer scientists, best known for _The Art of Computer Programming_, 1962-1973
+_Donald Ervin Knuth_ (born **1938**)<sup title="Turing Award, 1974">🥇</sup>, one of the first and most prominent computer scientists, best known for _The Art of Computer Programming_, 1962-1973
 
 ### Barbara Liskov
 
@@ -115,7 +115,7 @@ _Dennis MacAlistair Ritchie_ (**1941**-2011)<sup title="Turing Award, 1983, with
 
 Prof. _George Pólya_ (**1887**-1985)<sup>👽</sup> mathematician, Zürich, Stanford
 
-He is distinguished for his endowment in the pedagogics of mathematics. One of his students was _John von Neumann_.
+He is distinguished for his endowment in the pedagogy of mathematics. One of his students was _John von Neumann_.
 
 ### Paul Erdos
 
@@ -163,7 +163,7 @@ He was brave enough to be [critical of AI](https://en.wikipedia.org/wiki/Hubert_
 
 + _Alchemy and Artificial Intelligence_, 1965
 + _What Computers Can't Do_, 1972\
-«We're like the man who climbed on a chair and declared he was a little closer to the moon»
+«We're like the man who climbed on a chair and declared he was a little closer to the moon.»
 
 ### Bjarne Stroustrup
 
@@ -181,7 +181,7 @@ a signer of _Agile Manifesto_, a productive author on patterns, and a contributo
 
 ### L. Peter Deutsch<a id="peter-deutsch" />
 
-_L. (Lawrence) Peter Deutsch_ (born 1946), computer scientist and composer, son of the famous MIT physics professor. Smalltalk, Ghostscript, FOSS, ...
+_L. (Lawrence) Peter Deutsch_ (born 1946), computer scientist and composer, the son of a famous MIT physics professor. Smalltalk, Ghostscript, FOSS, ...
 
 \___________
 
