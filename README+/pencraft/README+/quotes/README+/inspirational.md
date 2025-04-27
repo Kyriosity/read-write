@@ -108,6 +108,17 @@ Not only the East grant us profound and eloquent teaching! Whatever Mr. Kipling*
 <br /><picture><img src="../../../../_rsc/_img/photo/misc/Twitter-FTX_SamFried.jpg" alt="&nbsp;nap in FTX office" /></picture><br />
 <mark><b>... Sam&nbsp;</b></mark> who [Fried Bankm**e**n](https://www.techtarget.com/whatis/feature/FTX-scam-explained-Everything-you-need-to-know) and not only.
  
+#### Great ideas that came in the sleep
+
+To name a few of the officially recognized:
+
++ _The principles of analytical geometry_, René Descartes (1596-1650)
++ _The periodic table of chemical elements_, Dmitri Mendeleev (1834-1907)
++ _Special relativity theory_, Albert Einstein (1879-1955)
++ _The model of the atom_, Neils Bohr (1885-1962)
++ _Structure of the benzene molecule_, August Kekulé (1829-1896)
++ _Sewing machine_, Elias Howe (1819-1867)
+
 #### German philosophy always rules
 
 > **Don't believe any thought that wasn't born in the open air and with free movement.**<sup>🚶</sup>\
@@ -120,16 +131,10 @@ Not only the East grant us profound and eloquent teaching! Whatever Mr. Kipling*
  Ecce Homo. Wie man wird, was man ist (1889),</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>👯</sup> <sub>Original: „Wir sollten jeden Tag als verloren betrachten, an dem wir nicht mindestens einmal getanzt haben.“</sub>
 
-#### Great ideas that came in the sleep
+#### Kind advice
 
-To name a few of the officially recognized:
-
-+ _The principles of analytical geometry_, René Descartes (1596-1650)
-+ _The periodic table of chemical elements_, Dmitri Mendeleev (1834-1907)
-+ _Special relativity theory_, Albert Einstein (1879-1955)
-+ _The model of the atom_, Neils Bohr (1885-1962)
-+ _Structure of the benzene molecule_, August Kekulé (1829-1896)
-+ _Sewing machine_, Elias Howe (1819-1867)
+> **If you have a fountain, shut it down. Let even a fountain have a rest.**\
+_K. Proutkov_, Selection, ~1850
 
 \_________________________________</details>
 
@@ -176,7 +181,7 @@ _Sam Bankman-Fried_, FTX cofounder, [only Zuck has been this rich young](https:/
 
 <sup>🇫🇷</sup> <sub>Original: "Si vous escomptez avoir du succès dans le monde, promettez tout, ne donnez rien."</sub>
 
-#### Handshake thru generations
+#### Handshake through generations
 
 > **There are four things to watch forever:\
 falling water, burning fire, starry sky,** and **tasks, you define and others commit**.\
@@ -203,7 +208,7 @@ Should one defy fundamental Western philosophers ...
 (fr: "After us the deluge may come for aught we care")\
 attributed to Louis XV (1710-1774)
 
-The motto under which some (rare) fix-budget outsourced projects are delivered.
+The motto under which some (rare) fixed-budget outsourced projects are delivered.
 
 #### Medieval
 
@@ -249,14 +254,14 @@ Security conference, August/2004
 _Andres Freund_, a programmer who occasionally found out the [XZ Utils backdoor](https://en.wikipedia.org/wiki/XZ_Utils_backdoor),
 in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html">NYT inteview</a>, 2024.<sup>🙋</sup>
 
-<sup>🙋</sup> <sub>Media had hyperbolized it to a "century cyberattack". Though being tricky and longly planned it was far off to infiltrate most "distros", required many conditions to coincide and would manifest itself soon.</sub>
+<sup>🙋</sup> <sub>Media had hyperbolized it to a "century cyberattack". Though being tricky and longly planned, it was far off to infiltrate most "distros", required many conditions to coincide, and would manifest itself soon.</sub>
 
 \_________________________________</details>
 
 <details><summary><ins>&nbsp;...and <b>... to quote&nbsp;</b></ins>❗</summary>&nbsp;
 
 > **I always have a quotation for everything. It saves original thinking.**\
-_Dorothy L. Sayers_ (1893-1957), novelist, translator and critic
+_Dorothy L. Sayers_ (1893-1957), novelist, translator, and critic
 </details>
 
 \___________\
