@@ -197,7 +197,7 @@ Neither _**expert**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>ro
 
 > There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.<sup>👩‍👦‍👦</sup>
 
-Finally, salt all this with a bitter reminder that major software isn't _Pantheon_ but the routine adaptation of requirements to known and tried solutions with quite a decent input of cutting-edge and invention.
+Finally, salt all this with a bitter reminder that major development doesn't raise _Pantheons_ but routinely adapts requirements to known and tried solutions with quite a decent input of cutting-edge and invention.
 
 <div dir=rtl><samp>"<b>.Smith will suffice</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
 
