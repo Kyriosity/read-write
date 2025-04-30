@@ -2,7 +2,7 @@
 
 <table><tr valign="top"><td><picture><img width="550px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.jpg" /></picture>
        </td><td>
-<p>The essence of architecture appeared as folks managed to erect something more extravagant and durable than a hut of piled branches &mdash; say, megaliths.</p>
+<p>The essence of architecture appeared with constructions that folks raised more extravagant and durable than a hut of piled branches &mdash; say, megaliths.</p>
 <p>Some ancient Hellenes were so good at construction sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &mdash; the term romanized to <i>architecture</i> centuries later.</p>
 <p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &mdash; 
 refined craftsmen exempt from chores and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
@@ -197,7 +197,7 @@ Neither _**expert**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>ro
 
 > There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.<sup>👩‍👦‍👦</sup>
 
-Finally, salt all this with a bitter reminder that major development doesn't raise _Pantheons_ but routinely adapts requirements to known and tried solutions with quite a decent input of cutting-edge and invention.
+Finally, salt all this with a bitter reminder that major projects don't develop _Pantheons_ but routinely cast requirements to known and tried solutions with a decent input of cutting-edge and invention.
 
 <div dir=rtl><samp>"<b>.Smith will suffice</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
 
