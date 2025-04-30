@@ -2,13 +2,20 @@
 
 <table><tr valign="top"><td><picture><img width="550px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.jpg" /></picture>
        </td><td>
-<p>The essence of architecture appeared with constructions that folks raised more extravagant and durable than a hut of piled branches &mdash; say, megaliths.</p>
-<p>Some ancient Hellenes were so good at construction sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &mdash; the term romanized to <i>architecture</i> centuries later.</p>
-<p>Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &mdash; 
-refined craftsmen exempt from chores and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.</p>
-<p>Much later, diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complexity.</p>
-<p>Even so, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) and architects of <em>détente</em> or <em>economic miracle</em> are compliments (or flattery).</p>
-___________<br />
+
+The essence of architecture appeared when folks began raising constructions &thinsp;&mdash;&thinsp; more extravagant and durable than a hut of piled branches, say, megaliths.
+
+Some ancient Hellenes were so prominent at building sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &thinsp;&mdash;&thinsp; the term romanized to <i>architecture</i> centuries later.
+
+Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &thinsp;&mdash;&thinsp; 
+refined craftsmen, exempt from chores and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.
+
+Much later, diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complexity.
+
+Even so, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) 
+and architects of <em>détente</em> or <em>economic miracle</em> are compliments (or flattery).
+
+___________\
 <sup>🏛️</sup> <sub>Greek:</sub> <samp>ἀρχιτέκτων</samp><sub>, “master/chief builder/maker" but this occupation existed much prior as the <i>Ziggurat of Ur</i> and Egyptian Pyramids suggest (but Stonehenge refutes).</sub>
           </td></tr></table>
 
@@ -23,15 +30,16 @@ ___________<br />
             title="&nbsp;Visual Studio&#8482; Dependency diagram&#013;&#010;Image credit: Microsoft&#174;" /></picture>
 </td><td>
 
-🏝️ The architecture of both demands creativity and grants **leeway** with vast **playland** for phantasy and missteps. However the goal is to quickly define operating wholes rather than ripen aesthetic values. 
+🏝️ The architecture of both demands **creativity** and grants **leeway** with a vast playland for phantasy and missteps. 
+However, the goal is to define operating wholes quickly rather than ripen aesthetic values.
 
-✏️ Endeavors in both often begin from sketching on the white paper or chalkboards.
+✏️ Endeavors in both often begin from sketching on white paper or chalkboards.
 
-🎨 Both enjoy the availability and flexibility of many tools, methodologies, and skills.
+🎨 Both enjoy the availability and ease of many tools, methodologies, and designing environments.
 
 🔋 Both must accumulate mainstream and alternative practices and reveal patterns.
 
-💥 Imperfect abstraction and planning in both can produce a mess, which will loudly crash.
+💥 Imperfect abstraction and planning can produce a mess that will loudly crash.
 
 🎈 Abuse of both for hollow promises and "sandcastles" is more typical and frequent than in other industries.
 
@@ -110,7 +118,7 @@ checkout bug-fix
 <div align="right"><picture><img src="../../../../_rsc/_img/signs/arrows/back-forth_skewed_200px.png" alt="&nbsp;&nwarr; C O M P A R E &searr;"/></picture></div>
 </td><td>
 <p>Building rests on functional design that facilitates easy, cheap, mass construction. 
- The most advanced and creative specimen may be endowed to break the standards and create unique, extraordinary pieces of aesthetics, art, and cultural heritage.</p>
+ The most advanced and creative specimens may be endowed to break the standards and create unique, extraordinary pieces of aesthetics, art, and cultural heritage.</p>
 <p>Extravagant (and still working) IT ideas don't require solid fundamentals, however, mature software design canalizes creativity into uniform mainstream: standards, patterns, and templates.</p>
 <br /><picture><img alt="&nbsp;Lotus 1-2-3 on OS/2" src="../../../../_rsc/_img/snap/screen/Lotus123-OSdiv2.jpg" title="&nbsp;Editor of Lotus 1-2-3&#013;&#010;(snapshot from ecsoft2.org)" /></picture><br />
        <i>Lotus 1-2-3 and its predecessors from the previous century still define the UX and functionality of spreadsheets.</i></a>
@@ -123,12 +131,18 @@ checkout bug-fix
 
 Contrary to the evolution of building **programming disperses the classical figure of the architect** &mdash; allowing and demanding from **everybody** to <mark>zoom IN</mark> implementation details and <mark>zoom OUT</mark> concepts (up to top design).<sup>🔎</sup>
 
-> [!WARNING]
-> 
-> **This assumes neither skills parity nor full knowledge of each technology and methodology.**&#8287;
-> The bigger the project, the bigger the vertical&varr; and horizontal&harr; offsets of team members according to skills, talents, experience, and preferences with or without roles exchange.
-> <p align="center">( <b>&varr;</b> between coding and design; &harr; within the technologies stack)</p>
-> <p>The "best" recipe of mashed design (puree) is to smear nitty-gritty over all developers' tables.</p>
+
+<table><tr valign="center"><td>‼️</td><td>
+
+<p align="center"><b>Neither skills parity nor full knowledge of each technology and methodology are assumed.</b></p>
+
+The bigger the project, the bigger the vertical&varr; and horizontal&harr; offsets of team members according to skills, talents, experience, and preferences, with or without roles exchange.
+
+<p align="center">( <b>&varr;</b> between coding and design; &harr; within the technologies stack)</p>
+
+The "best" recipe of mashed design (puree) is to smear nitty-gritty over all developers' tables.
+       
+</td></tr></table>
 
 <details><summary><ins>&nbsp;<b>"Architect" is often an alias or catch-all term for well-known roles and duties:</b>&nbsp;</ins> ➡️</summary>
 
