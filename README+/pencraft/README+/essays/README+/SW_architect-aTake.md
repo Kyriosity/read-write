@@ -134,7 +134,7 @@ Contrary to the evolution of building **programming disperses the classical figu
 
 <table><tr valign="center"><td>‼️</td><td>
 
-<p align="center"><b>Neither skills parity nor full knowledge of each technology and methodology are assumed.</b></p>
+<p align="center"><b>Neither skills parity nor full knowledge of each technology and methodology is assumed.</b></p>
 
 The bigger the project, the bigger the vertical&varr; and horizontal&harr; offsets of team members according to skills, talents, experience, and preferences, with or without roles exchange.
 
@@ -209,9 +209,10 @@ leaving as few cavities of misconstruing and design anarchy as possible.
 Above all, **_software architect_** sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup>, and impresses hiring managers, customers, and stakeholders.&#8287;
 Neither _**expert**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> is equivalent.
 
-> There was no intention to defame _software architects_ but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.<sup>👩‍👦‍👦</sup>
+> **There was no intention to defame** _software architects_ **but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.**<sup>👩‍👦‍👦</sup>
 
-Finally, salt all this with a bitter reminder that major projects don't develop _Pantheons_ but routinely cast requirements to known and tried solutions with a decent input of cutting-edge and invention.
+\___________\
+Finally, salt all this: major projects don't develop _Pantheons_ but regularly cast requirements to known and tried solutions with a decent input of cutting-edge and invention.
 
 <div dir=rtl><samp>"<b>.Smith will suffice</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
 
