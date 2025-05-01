@@ -25,13 +25,14 @@
       <br /><div align="center"><h4><a href="../../../software/tests/asDrive/README+/TDD-Watershed/README.md">TD<mark>?D</mark> WATERSHED</a></h4></div>
     </td>
     <td>
-        <a href="../quotes/README+/inspirational.md"><img src="../../../_rsc/_img/_nav/tiles/InspitationQuotes_bw-200px.png" alt="&nbsp;inspirational.md" title="&nbsp;Quotes to work and rest"/></a>
+        <a href="../quotes/README+/inspirational.md"><img src="../../../_rsc/_img/_nav/tiles/InspitationQuotes_bw-200px.png" alt="&nbsp; inspirational.md" title="&nbsp;Quotes to work and rest"/></a>
         <br /><div align="center"><h4><a href="../quotes/README+/inspirational.md">QUOTES for INSPIRATION</a></h4></div>
     </td>
         </tr><tr></tr><tr>
+    <!--                          N U L L   W A S H I N G      --!>
       <td>
-        <a href="../../../software/ArcDeco/README.md"><img src="../../../_rsc/_img/_nav/tiles/ArcDeco_bw-200px.png" alt="&nbsp;Arc, design, dev, code" title="&nbsp;Study of Software"/></a>
-        <br /><div align="center"><h4><a href="../../../software/ArcDeco/README.md">ARC DECO</a>&thinsp; 🐝</h4></div>
+        <a href="README+/NullRefError.md"><img src="../../../_rsc/_img/_nav/tiles/drain-water-hole_bw-200px.jpg" alt="&nbsp; Dam water drain hole" title="&nbsp;Study of Software"/></a>
+        <br /><div align="center"><h4><a href="README+/NullRefError.md">WASHING <code>NULL</code></a>&thinsp; 🐝</h4></div>
      </td>
     <td>
       <picture><img src="../../../_rsc/_img/_nav/tiles/_ComingNext_200px.jpg" alt="&nbsp;Coming up next..." title="&nbsp;Next essay coming sooner or later.."/></picture>
