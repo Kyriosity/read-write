@@ -1,12 +1,24 @@
-# `NullReference` error&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Washing
+# `NullReference` error &nbsp;&mdash;&nbsp; Private investigation
 
-`NullReference` has a horrible reputation as an _exceptional_ pest. These are not exceptions (they fire massively); they appear from _nothing_ and spare neither junior developers nor ripe products.
+<table><tr><td width="50%"><picture><img alt="&thinsp; Visual Studio: catastrophic failure" src="../../../../_rsc/_img/snap/screen/VisualStudio/2025.VS2022-CatastrophicFailure-deco.jpg" /></picture>
+</td><td>
 
-[Sir Tony Hoare](https://github.com/Kyriosity/read-write/tree/main/README%2B/pencraft/README%2B/quotes/README%2B/contributors/README.md#tony-hoare) voluntarily took the blame for being this Frankenstein who brought the _billion-dollar mistake_ into the software Eden.
+`NullReference` has a horrible reputation as an _exceptional_ pest. Its outbreaks appear literally from `nothing` and are too common to be exceptions &thinsp;&mdash;&thinsp; they fire everywhere and spare neither junior developers nor mature systems.
 
-Advanced languages introduce paradigms to avoid them, and IDEs with tools warn about possible nulls.
+[Sir Tony Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame for being this Frankenstein who brought the 
+[billion-dollar mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🔗</sup> into the software Eden. 
 
-**However I can't buy it **
+A demonic blockchain that no IT Makedonsky can cut to stop collecting its billion toll.
+  
+</td></tr></table>
+
+However, if you can't make 1960s subscripts and `null` in today's software meet &nbsp;&mdash;&nbsp; you are not alone.
+
+## Much Ado About `Nothing`&thinsp;? Yes and No
+
+> **Blaming `null` for mistakes is like blaming `zero` for one can divide by it.**
+
+## <samp>Null</samp> Washing
 
 🚧 PLACEHOLDER ... to be continued 🚧
 
