@@ -32,12 +32,17 @@ With the elapsed **25** of 30 popular metrics put __`Java`__ in the top five, an
 > The programmer's primary weapon in the **never-ending battle against slow system** is to change the intramodular structure.\
 [Fred Brooks](../contributors/README.md#Fred-Brooks)
 
-I dare to say that this battle is over, and resource starvation with performance hits is no longer a headache for the majority of applications.
+I dare say that this battle is over, and resource starvation with performance hits is no longer a headache for the majority of applications.
 
 > **Software gets slower faster than hardware gets faster.**\
 [Niklaus Wirth](../contributors/README.md#Niklaus-Wirth), 1995, "A Plea for Lean Software" (aka Wirth's law)
 
 Much has changed since the 1990s when sparing half a byte in a DOS program was a worthy trick. The grace of auto memory allocation with garbage collection and intermediate languages spread only because the hardware could facilitate them.
+
+## End of programming
+
+<img width="350px" alt="&nbsp; Personal Computer, Feb/1981: Programming is over" src="../../../../../_rsc/_img/snap/media/magazines/endOfProg/1981.Feb-PC-end_of_programming.jpg" />
+<img width="350px" alt="&nbsp; NYT, June/2023: End of programming" src="../../../../../_rsc/_img/snap/media/magazines/endOfProg/2023.06.02-NYT-end_of_programming.jpg" />
 
 \___________\
 🔚 ... to be continued ...
