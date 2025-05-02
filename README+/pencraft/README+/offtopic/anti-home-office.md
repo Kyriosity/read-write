@@ -23,12 +23,12 @@
 ## Nature
 
 <span><img alt="&nbsp;&nbsp;&nbsp;image not foundt" src="../../../_rsc/_img/photo/blog/aqua/Brombachsee-eBucht-pier.jpg" width="300" title="&nbsp;Brombachsee, Mittelfranken, Germany" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not foundt" src="../../../_rsc/_img/photo/blog/aqua/Brombachsee-dam.jpg" width="300" title="&nbsp;Brombachsee, dam" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/mount/Ochsenkopf_July.jpg" width="300" title="&nbsp;Slopes of Mt. Ochsenopf, Fichtelgebirge, 1'024m" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Sea_balcony.jpg" width="300" title="&nbsp;Vlore, Albania" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Karaburun.jpg" width="300" title="&nbsp;Ionic" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Tekirova.jpg" width="300" title="&nbsp;Tekirova, TK" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/beach.jpg" width="300" title="&nbsp;River beach" /></span>
-
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/ElbeHafen.jpg" width="300" title="&nbsp;Dockers, containers&#013;&#010;&nbsp;(Elbe, Hafen)" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/mount/DevVsMonolyth.jpg" width="300" title="&nbsp;Development created this monolyth&#013;&#010;&nbsp;(Alter Schwede, 217t)" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Main-Donau_highPt.jpg" width="300" title="&nbsp;Main-Danube Canal" /></span>
