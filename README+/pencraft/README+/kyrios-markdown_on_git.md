@@ -2,8 +2,7 @@
 
 <p align="right"><b>&ndash;</b>&nbsp;What is the difference between<br /><i>markdown</i> newbie and expert?<br /><b>&ndash;</b>&nbsp;Half an hour.</p>
 
-<sub>[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)</sub> is lightweight to learn and use, 
-with plenty of guides and cheat sheets for advanced techniques.
+<sub>[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)</sub> is lightweight to learn and use with plenty of guides and cheat sheets for advanced techniques.
 
 Despite building it in and assigning it the role of primary documentation, GitHub alone doesn't render its site in markdown or a flavor.
 
@@ -17,19 +16,19 @@ Despite building it in and assigning it the role of primary documentation, GitHu
     
 ## Editors and Tools
 
-A simple markdown is readable without WYSIWYG, and no editors will support it. 
-No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the editor of choice is www.gihub.com, switching between _Edit_ and _Preview_.
+A simple markdown is readable without WYSIWYG, and no editor will support it. 
+No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the editor of choice is www.github.com, switching between _Edit_ and _Preview_.
 
 * There's no excuse to avoid grammar check browser plugins.
 * View releases on browsers with different engines.
-* Always prove the mobile presentation to be passable (but don't expect a nice layout on small screens).
+* Always preview the mobile presentation to be passable (but don't expect a nice layout on small screens).
 
 ## Limitations
 
 ### Markdown
 
-- Markdown doesn't have codes akin to HTML or rich-text formats (to begin with essential non-breaking elements).
-- Native markdown tables are intended for little portions.
+- Markdown doesn't have codes akin to HTML or rich-text formats (to begin with, essential non-breaking elements).
+- Native markdown tables are intended for small portions.
 - There are no variables in markup (Remember it's plain text.)
 
 ### Git
@@ -39,37 +38,37 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 Next:
 
 - GitHub removes styles, classes, and most other formatting.\
-(Thus there are always borders in both "marked down" and HTML-made tables).
-- There's no overlay for image loading but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
+(Thus, there are always borders in both "marked down" and HTML-made tables).
+- There's no overlay for image loading, but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
 - Many (if not most) Q&A tricks for markdown won't work on Git.
-- It's easier to list what the GitHub site editor has (few shortcut keys) rather than what's wanted: toolbars, context menus, auto-saving, and so on.
-- GitHub isn't the fastest and the smartest markdown engine.
+- It's easier to list what the GitHub site editor has (a few shortcut keys) rather than what's wanted: toolbars, context menus, auto-saving, and so on.
+- GitHub isn't the fastest or the smartest markdown engine.
 
 ## More than text
 
 ### Diagrams
 
 + Good news: GitHub renders `mermaid` diagrams in markdown.\
-(If you don't know them a <a href="https://mermaid.js.org/intro/">quick tour</a><sup>🧜🏼‍♀️</sup> is worth a look).
+(If you don't know them, a <a href="https://mermaid.js.org/intro/">quick tour</a><sup>🧜🏼‍♀️</sup> is worth a look).
 + Entity names can be made into HTML links (but not in every type&thinsp;**!**).
 + "Mermaids" mushrooming gives hope to see WYSIWYG tooling soon.
 
-"Mermaids" are beautiful but not for drawings. For a specific layout or artistic look, you have to snap/save a drawing in other programs.
+"Mermaids" are beautiful, but not for drawings. For a specific layout or artistic look, you have to snap/save a drawing in other programs.
 
 ### Pictures
 
-+ That's nothing bad with including images in documents, but their size. Also, markdown on Git won't support goodies like linkable picture areas or images in pop-ups.
++ There's nothing wrong with including images in documents, but their size. Also, markdown on Git won't support goodies like linkable picture areas or images in pop-ups.
 
 ### Pictograms / Symbols
 
-GitHub markdown renders pictograms from <code>:<i>emoji</i>:</code> codes but it's the same collection as in _emoji keyboard_ (<kbd>Win+.</kbd> for Windows users). Raw graphic symbols are better than their code names unless a document must be saved as <samp>ASCII</samp>.
+GitHub markdown renders pictograms from <code>:<i>emoji</i>:</code> codes, but it's the same collection as in _emoji keyboard_ (<kbd>Win+.</kbd> for Windows users). Raw graphic symbols are better than their code names unless a document must be saved as <samp>ASCII</samp>.
 
 To my knowledge, the only exception (inserted by code only) is a dozen of Git's custom emojis, of which I'd only consider <code>:octocat:</code>, <code>:atom:</code> and <code>:electron:</code>.
 
 Review [HTML symbols](https://www.w3schools.com/charsets/ref_html_symbols.asp)<sup>🔗</sup> as a great enhancement of selections.
 
 > [!WARNING]
-> Browsers may show some pictograms differently. Find out the diffs on this snapshot:
+> Browsers may show some pictograms differently. Find out the differences on this snapshot:
 > 
 > <a href="essays/README+/AI-2020s.md#evidence"><img alt="&nbsp;string of emojis presented different" src="../../_rsc/_img/snap/screen/emojis_diff-browsers.jpg" title="&nbsp;Click to see how it looks in yours" /></a>
 
@@ -79,13 +78,13 @@ Keep in mind inherently supported `code snippets` with `diffs`, [math expression
 
 ## HTML
 
-HTML elements are in play even for the purest text: markdown has neither non-breaking space nor a hyphen.
+HTML elements must be in play even for the purest text: markdown has neither a non-breaking space nor a hyphen. The richer the content, the more HTML you will use.
 
-The richer the content, the more HTML you will use. The use of HTML is inevitable in cells of `<table>`<i>s</i>.
+Surprisingly, the inevitable `<table>` can keep pure or mixed markdown in cells &thinsp;&mdash;&thinsp; put an empty line before and after.
 
-## Tips, and advice
+## Tips and advice
 
-Advice Nr&thinsp;1 is **don't even try to hack git markdown**. Even if you manage to style some stuff one day, Git may sweep it out.
+Advice No. 1 is "don't even try to hack git markdown." Even if you manage to style some stuff one day, Git may sweep it out tomorrow.
 
 Besides symbols, the best HTML pals of markdown writers are
 
@@ -95,13 +94,13 @@ Besides symbols, the best HTML pals of markdown writers are
 
 ### Fancy footnotes
 
-Numbered footnotes are academic and convenient but a number itself won't tell much about its subject (when separated by enough content). Mnemonic superscript references are eye-catching<sup>🙋</sup>.\
+Numbered footnotes are academic and convenient, but a number itself won't tell much about its subject (when separated by enough content). Mnemonic superscript references are eye-catching<sup>🙋</sup>.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>You can invent your footnotes vocabulary, as I use _raising hand_ to voice my opinion.</sub>
 
 ### Links suffixes
 
 Named links are practiced overall, but they can distract. You may hint that a URL goes **outside**: [Docs as code](https://www.writethedocs.org/guide/docs-as-code/)<sup>🔗</sup>. 
-Next, narrow mnemonics to hint on frequently referred resources, like:\
+Next, narrow mnemonics to hint at frequently referred resources, like:\
 [Reactive programs](https://en.wikipedia.org/wiki/Reactive_programming)<sup><b>w</b></sup>,&nbsp;&nbsp;
 [Trending C#](https://github.com/trending/c%23)<sup>:octocat:</sup>,&nbsp;&nbsp;
 [charts samples](https://mermaid.js.org/syntax/examples.html)<sup>🧜‍♀️</sup>,&nbsp;&nbsp;
