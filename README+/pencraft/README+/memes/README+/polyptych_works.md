@@ -25,7 +25,11 @@
 
 ## Polyptych
 
-<div align="middle">🚧🐝🚧 ... COMING SOONer or later ... 🚧🐝🚧</div>
+<b><samp>IT WORKED IN MY CONVENT</samp></b>
+
+<picture><img alt="&nbsp; Monks singing with a script uphold" src="../../../../_rsc/_img/art/monks_sing(GettyMuseum).jpg" /></picture>
+
+<div align="left">🚧🐝🚧 ... NEXT PARTS COMING SOONer or later ... 🚧🐝🚧</div>
 
 \___________\
-🔚 🌒 2025 .. image credits: Docker Inc., MIT, ZDNet magazine
+🔚 🌒 2025 .. image credits: Docker Inc., MIT, ZDNet magazine, Getty Museum
