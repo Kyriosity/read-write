@@ -21,7 +21,7 @@ A sinister blockchain that no Alexander of IT Macedon can cut to stop collecting
 </tr><tr valign="center"><td>
   
 Null references aren't CPU vulnerabilities as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that you can't fix just by a software patch. 
-It's not even similar to the Y2K problem, which had a determined source.
+It's not even a peer to the Y2K problem, which rooted to a single but massive negligence.
 
 Botched updates, blackouts, catastrophic failures - they were caused by logical errors where this or that type of exception didn't play a dramatic role. 
 What make matter twisted - many disasters spread because there was no sign of exception or error.
@@ -56,7 +56,7 @@ radar-beta
 
 When the source of a problem isn't evident it's easier to declare it as the order of planets, air from bogs or bad moral. It's easier to address the perplexed NullReference exceptions to the sins of IT founders, legacy software and bugs of operatings systems and platforms.
 
-# Part 2. `NULL` 
+# Part Tw&empty; 
 
 <p align="right"><b>Null is for programming, as zero is for math.</b></p>
 
