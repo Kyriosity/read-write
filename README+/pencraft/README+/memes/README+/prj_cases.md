@@ -23,5 +23,9 @@
 
 🛰️ The loss of an astronomical sum by a small bug is so prominent that I've made it a central story in [**Multifacet Value**](https://github.com/Kyriosity/use-dev/blob/main/README+/parts/MultifacetVal/README.md#mars-orbiter).
 
+## Divide by Zero. Horror stories
+
+🚧 ... _COMING NEXT_ ... 🚧
+
 \___________\
 🔚 ... to be continued ...
