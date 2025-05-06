@@ -20,20 +20,21 @@ A sinister blockchain that no Alexander of IT Macedon can cut to stop collecting
 <table><tr></tr><tr align="center"><td width="40%"><b>Y&thinsp;E&thinsp;S</b></td><td width="20%" >and</td><td width="40%" ><b>N&thinsp;O</b></td>
 </tr><tr valign="center"><td>
   
-Null references aren't CPU vulnerabilities as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that can't be fixed just by a software patch. 
-It's not even a peer to the Y2K problem, which stemmed from a single but massive negligence.
+Null references aren't CPU vulnerabilities as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that no software patch can fix. 
+It's not even a peer to the Y2K problem, which stemmed from the explicit negligence to eliminate with explicit enhancement.
 
-Botched global updates, blackouts, catastrophic failures were caused by logical errors where exception names play a secondary role. 
+Botched global updates, blackouts, and catastrophic failures were caused by logical errors in which exception names played a secondary role. 
 
 Except one type &thinsp;&mdash;&thinsp; many disasters multiplied and spread because there was no sign of exception or error.
   
 </td><td><picture><img alt="&nbsp; Yin&Yang under null sign" src="../../../../_rsc/_img/signs/YinYangNull.png" /></picture></picture></td><td>
 
-Fewer or more big software providers collect reports on error, which crash their products or run undercover.
+Middle and big software providers permanently collect reports on errors, which crash their products, get handled, or run undercover (unnoticed).
 
-The fruit of statistics &thinsp;&mdash;&thinsp; `NullReference` cane make up over 50%.  Many of these errors are difficult enough to trace and debug, and if they aren't regular or critical they can stay for years without investigation.
+Their statistics give `NullReference` the first place (from my experience). 
+Many of these errors are difficult enough to trace, reproduce, and debug, and if they aren't regular or critical, they can stay for years with the lowest priority for investigation.
 
-Must be evident NullReference can be most difficult to research.
+Time and size populate projects' closets with ghost `NullReference` errors &thinsp;&mdash;&thinsp; the syndrome of the design decadence, which mostly gets symptomatic treatment.
 
 </td></tr></table>
 
@@ -44,8 +45,8 @@ Must be evident NullReference can be most difficult to research.
 ```mermaid
 
 radar-beta
-  axis App["<b>Application</b>"], s["Own"], e["New"]
-  axis OS["Operation System"], g["External"], a["Legacy"]
+  axis App["`**APPLICATION**`"], s["OWN CODE"], e["NEW"]
+  axis OS["PLATFORMS"], g["EXTERNAL"], a["LEGACY"]
   curve MISTAKE["Mistake"]{85, 90, 80, 70, 75, 90}
   curve LOGIC["Logic"]{70, 75, 85, 80, 90, 85}
 
@@ -55,8 +56,8 @@ radar-beta
 
 ### "Scapegoating" (≠ Goatscaping) 
 
-When the source of a problem isn't evident, it's easier to declare it as the order of planets, air from bogs, or bad morale. 
-It's easier to address the perplexed cases of `NullReference` firing to the peculiarities and bugs of the underlying platforms.
+When the source of a problem isn't evident, it's a time to explain it with the order of planets, air from bogs, bad morale, or errors of others. 
+It's easier to refer the perplexed cases of `NullReference` firing to the peculiarities and bugs of the underlying platforms.
 
 <h1 align = "center">Part Tw&empty;</h1>
 
@@ -70,3 +71,4 @@ LET US DO THIS
 
 \___________\
 🔚 &empty; 2025  image credits: Wiki Commons, kyriosity
+
