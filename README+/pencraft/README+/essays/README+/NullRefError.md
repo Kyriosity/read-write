@@ -3,7 +3,7 @@
 <table><tr><td><picture><img alt="&thinsp; Monticello-Dam drain hole" src="../../../../_rsc/_img/photo/build/Monticello-Dam-drain.jpg" /></picture>
 </td><td>
 
-**`NullReference`** has a horrible reputation as an _exceptional_ pest. Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
+**`NullReference`** earned a horrible reputation of an _exceptional_ pest. Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
 they fire everywhere and have mercy on neither junior developers nor mature systems.
 
 [Sir Tony Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame for being this Frankenstein who brought the 
@@ -20,18 +20,21 @@ A sinister blockchain that no Alexander of IT Macedon can cut to stop collecting
 <table><tr></tr><tr align="center"><td width="40%"><b>Y&thinsp;E&thinsp;S</b></td><td width="20%" >and</td><td width="40%" ><b>N&thinsp;O</b></td>
 </tr><tr valign="center"><td>
   
-Null references aren't CPU vulnerabilities as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that you can't fix just by a software patch. 
+Null references aren't CPU vulnerabilities as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that can't be fixed just by a software patch. 
 It's not even a peer to the Y2K problem, which stemmed from a single but massive negligence.
 
-Botched updates, blackouts, catastrophic failures - they were caused by logical errors where this or that type of exception didn't play a dramatic role. 
-What makes matters twisted &thinsp;&mdash;&thinsp; many disasters spread because there was no sign of exception or error.
+Botched global updates, blackouts, catastrophic failures were caused by logical errors where exception names play a secondary role. 
+
+Except one type &thinsp;&mdash;&thinsp; many disasters multiplied and spread because there was no sign of exception or error.
   
 </td><td><picture><img alt="&nbsp; Yin&Yang under null sign" src="../../../../_rsc/_img/signs/YinYangNull.png" /></picture></picture></td><td>
 
-Fewer or more big software providers collect error information, which occurs in their products.
+Fewer or more big software providers collect reports on error, which crash their products or run undercover.
 
-Over 50% of them could be `NullReference` and they may be handled under the carpet.  Many of these errors are difficult enough to trace and debug, and they stay for years, unless the software crashes.
-  
+The fruit of statistics &thinsp;&mdash;&thinsp; `NullReference` cane make up over 50%.  Many of these errors are difficult enough to trace and debug, and if they aren't regular or critical they can stay for years without investigation.
+
+Must be evident NullReference can be most difficult to research.
+
 </td></tr></table>
 
 ## Null <mark>&empty;🚿</mark> Washing</h2>
