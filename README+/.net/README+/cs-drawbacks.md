@@ -1,4 +1,4 @@
-# `C#`&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Drawbacks&nbsp;&nbsp;&mdash;&nbsp;&nbsp;"Minority report"
+# `C#` &nbsp;&mdash;&nbsp; Drawbacks &nbsp;&mdash;&nbsp; "Minority report"
 
 **`C#`** isn't an artwork to be perfect. Despite nice contributions and best parts, there are downsides, to begin with
 
@@ -10,17 +10,17 @@ The following language artifacts are awkward, at least for some.
 
 ## Principal
 
-- Rudimentary `0` as the start index in collections<sup>⭕</sup>, which doesn't correlate with the count and shall better start from `1`.
+- Rudimentary `0` as the start index in collections<sup>⭕</sup>, which doesn't correlate with the count and should better start from `1`.
 - Size setters (as for arrays and collections) must have been unsigned integers: <code><b>u</b>int Length { get; }</code>. This could eliminate a big share of bugs and run-time errors.
 - `void` could be a type. At least to make _Actions_ compatible with _Funcs_.
 
 ## Syntax
 
 - Rudimentary `;` ending a line brings nothing but visual noise.
-- Constructor names imply extra refactoring on class/struct renaming &mdash; better be "anonymous" `ctor()` or `this()`.\
+- Constructor names imply extra refactoring on class/struct renaming &thinsp;&mdash;&thinsp; better be "anonymous" `ctor()` or `this()`.\
 Compare to the `base()` call in the same constructors.
 - Default when missing access modifier<sup>⭕</sup> shall be better reserved for "ultimate" `private` or  `public` than for a less explicit and used `internal`
-- The `const` modifier shall not be limited to pre-compiled values (as in intermediate languages) but prevent re-assignment, as `init` and `readonly` do.
+- The `const` modifier shall not be limited to pre-compiled values (as in intermediate languages) but shall prevent re-assignment, as `init` and `readonly` do.
 - No constant option for default values in signatures. `Do(int val, string remark=string.Empty)` won't compile.
 - Nullable declaration (with `?` prefix) is evident for value types but ambiguous for references and objects, which can be nulled anyway:\
 `string a = null; string? b = null;`
@@ -31,7 +31,7 @@ Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# read
 \_______________
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>⭕</sup> <sub>These native features can't be changed.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<sub>Though you can avoid them and hopefully .NET team doesn't plan to make a Perl out of their language.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<sub>Though you can avoid them, and hopefully .NET team doesn't plan to make a Perl out of their language.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>❓</sup> <sub>Isn't `null` a value too (compare to the _undefined_ notion)?</sub>
 
 ### Fishy shortcuts
@@ -50,11 +50,11 @@ if (response.IsSuccessStatusCode) /// or differentiate for more specific conditi
 Advanced C# design reveals massive generic restraints and results in *Vodoo programming* to workaround them.<sup>🙋</sup>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<sub>.NET team [admits](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)<sup>🪟</sup> that their generics are "_does nots_" of C++ templates.</sub>
 
-Only some technical will be listed here:
+Only some technical details will be listed here:
 
-### Syntatic redundancies
+### Syntactic redundancies
 
-The next definition is terse and clear `class CollWrapper<C, T> where C : ICollection<T> { ... }` but not the redundancy in its declaration `new CollWrapper<List<int>, int>()`.
+The next definition is terse and clear, `class CollWrapper<C, T> where C : ICollection<T> { ... }`, but not the redundancy in its declaration `new CollWrapper<List<int>, int>()`.
 
 ## Type system
   
@@ -72,11 +72,11 @@ The next definition is terse and clear `class CollWrapper<C, T> where C : IColle
 
 A class may refer to only one base class but have multiple interfaces with default method implementations. This dismantles the argument for conceptual single-class inheritance (which must have been technically restrained).
 
-However, arranging the code from some interfaces is rather cumbersome and restrictive &mdash; shall be reserved for limited technical purposes (not multiinheritance design).
+However, arranging the code from some interfaces is rather cumbersome and restrictive &thinsp;&mdash;&thinsp; shall be reserved for limited technical purposes (not multiinheritance design).
 
 Other peculiar and arbitrary alternatives are [extension methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>🪟</sup> and dynamic composition (notably facilitated with [Roslyn](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)<sup>🔗</sup>).
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>I do object multi-inheritance for logic as destructive for single-responsibility but would like it for operational adornment: `ToString()`, `NotifyPropertyChanged`, `Compare` and similar.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>I do object to multi-inheritance for logic as destructive for single-responsibility but would like it for operational adornment: `ToString()`, `NotifyPropertyChanged`, `Compare`, and similar.</sub>
 
 ## Namespaces and class organization
 
@@ -104,7 +104,7 @@ Allowing this cast doesn't contradict type safety.\
 
 Developers should better declare just a *numeric* and distinguish only the way it's processed: fixed (default) or floating. It would be a great option to derive subclasses from this _numeric_ could (with range and precision constraints).
 
-C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.numerics.inumber-1)<sup>🪟</sup> which genericizes numbers but in a bulky and restricted fashion.<sup>🙋</sup>
+C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.numerics.inumber-1)<sup>🪟</sup>, which genericizes numbers but in a bulky and restricted fashion.<sup>🙋</sup>
 
 ### String
 
@@ -132,6 +132,6 @@ Continued in [C# lacks - Dates](parts/cs-lacks-parts.md#Dates).
 
 ## Bottom line
 
-The list is far from being complete but I wait for a day (more correct to say a year) when Danish Masters or their disciples will strike a higher note - D-flat or even `D#`.
+The list is far from being complete, but I wait for a day (more correctly to say a year) when Danish Masters or their disciples will strike a higher note &thinsp;&mdash;&thinsp; D-flat or even `D#`.
 
 <div align="center">🔚 ... 🌘 2023-2025, to be continued ...</div>

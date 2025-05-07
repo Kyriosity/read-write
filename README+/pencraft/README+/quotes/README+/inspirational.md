@@ -226,7 +226,7 @@ _Alexander Pope_, poet (1688-1744)
 
 > **Is software craft or art?**\
 To interpret a bug as a feature is a craft.\
-To make a customer feel guilty for it - the **art**.
+To make a customer feel guilty for it &thinsp;&mdash;&thinsp; the **art**.
 
 \_________________________________</details>
 
@@ -258,7 +258,7 @@ in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-li
 
 \_________________________________</details>
 
-<details><summary><ins>&nbsp;...and <b>... to quote&nbsp;</b></ins>❗</summary>&nbsp;
+<details><summary><ins>&nbsp;...and <b>... to quote&nbsp;</b></ins>♾️</summary>&nbsp;
 
 > **I always have a quotation for everything. It saves original thinking.**\
 _Dorothy L. Sayers_ (1893-1957), novelist, translator, and critic
