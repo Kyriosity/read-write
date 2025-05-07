@@ -40,7 +40,7 @@ Continuous ratification of design decisions (incl. rejection) in the form of Que
 
 ### Diagrams and presentations
 
-**Any text document (except F.A.Q.) over a few pages will be a boring blur without drawings, diagrams, and presentations.**
+**Any text document (except F.A.Q.) over a few pages will be a vapid blur without drawings, diagrams, and presentations.**
 
 There are elaborate methodologies and tools (to remember classical IBM Rational Rose and RUP) to evolve a project in UML and other diagrams. 
 However, they cost time, restrain presentation, stick the vision to **2D** (literally and metaphorically), and prompt to input of redundant details. Mutual synchronization with code will make matters even worse.
