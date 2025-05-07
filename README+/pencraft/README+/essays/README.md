@@ -1,4 +1,4 @@
-# <samp>Pencraft</samp> &nbsp;&mdash;&nbsp; Essays
+# <i>Pencraft</i> &nbsp;&mdash;&nbsp; Tries<sub>😹</sub>
 
 <table>
   <tr align="center">
@@ -11,7 +11,7 @@
       <br /><div><h4><a href="README+/LN-view.md">LOTUS NOTES</a></h4></div>
     </td>
     <td>
-      <a href="README+/punchcard.md"><img src="../../../_rsc/_img/_nav/tiles/punchcard_bw-200px.jpg" alt="&nbsp;punchacrd.md" title="&nbsp;Punchcards - once upon a time"/></a>
+      <a href="README+/punchcard.md"><img src="../../../_rsc/_img/_nav/tiles/punchcard_bw-200px.png" alt="&nbsp;used punchacrd" title="&nbsp;Punchcards - once upon a time"/></a>
         <br /><div><h4><a href="README+/punchcard.md">PUNCHCARDS</a></h4></div>
     </td>
                                             </tr><tr></tr><tr align="center">
