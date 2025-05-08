@@ -176,27 +176,37 @@ title TDD ISie
 
 SPIN-OFFS: TESTS MULTIFEED
 
-## Wrap up <samp>`// we deserved it`</samp>
+## Wrap up. Pros and Cons
 
-### Advantages to take
+As usual, the same highlight can be an advantage  a drawback and handicap. Let's review them quickly.
 
-#### Separation of duties
+### Layering and division of design
+
+Overcomplicated.
+
+Defining new features and projects. MINUS - with too much enthusiasm.
+
+### Separation of duties
 
 It needs no introduction, but to stress a couple of points:
 
-+ Match personal inclinations (even of a single person, depending on initiative).
++ Match personal inclinations (even of a single person, depending on initiative and mood).
 + Present the concept ASAP.
 + Adjust/swap layers of logic.
 
-#### Effective definitions of tasks and feedback
+🙁 Activities may become too split. The "front" team may underestimate the billow of implentation items they create.
 
-#### Team practice
+### Effective definitions of tasks and feedback
+
+The upper desing will quite smart fornulate
+
+The opposite side is when 
+
+### Team practice
 
 #### Motivation to TDD
 
-### Disadvantages to avoid
 
-Activities may become too split.
 
 \___________
  <div align="center">🔚 &nbsp;🌒 2024-2025  ... images: kyriosity ...</div>
