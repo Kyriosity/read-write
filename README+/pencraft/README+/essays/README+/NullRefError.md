@@ -62,9 +62,11 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 <h2 align="center">The Mistake&thinsp;?</h2>
 
+First of all, NullReference is not a bubo, bug, stub, or rudiment. It's a mostly valid state of neglected objects.
+
 ### Blaming the messenger
 
-
+NullReference most of all delivers the news about problems with software.
 
 ### "Scapegoating" (≠ Goatscaping) 
 
@@ -73,16 +75,20 @@ It's easier to refer the perplexed cases of `NullReference` to the peculiarities
 
 <h2 align="center">Null <mark>&empty;🚿</mark> Washing</h2>
 
-**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its closest application &thinsp;&mdash;&thinsp;. Hardware has -- the bit that state can't be read because it's off.
+**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its closest application. Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.
+
+&nbsp; &nbsp; <sup>&empty;</sup> <samp>Null in math means zero or empty set. As it's _zero_ in German.</samp>
 
 LET US DO IT
 
 <p dir="rtl">.<b><code>Null</code></b> is for programming, as <code><b>zero</b></code> is for math</p>
 
 <h1 align = "center">Part Tw&empty;. Praxis</h1>
+ 
+Besides [quality code](../../../../software/QA/README+/code-quality.md) the following practices may ensure assignment:
 
-
-&nbsp; &nbsp; <sup>&empty;</sup> <samp>Null means zero or empty set.</samp>
++ Builders/Factories/Wizards
 
 \___________\
 🔚 &empty; 2025  image credits: Wiki Commons, kyriosity
+
