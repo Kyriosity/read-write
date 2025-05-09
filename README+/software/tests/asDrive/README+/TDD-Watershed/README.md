@@ -174,17 +174,19 @@ title TDD ISie
     Circuitry   :d, 1968-01-20, until b c
 ```
 
-SPIN-OFFS: TESTS MULTIFEED
+**Spin-offs:**
+
+* Multifeed tests
 
 ## Wrap up. Pros and Cons
 
-As usual, the same highlight can be an advantage  a drawback and handicap. Let's review them quickly.
+As usual, the same highlight can be an advantage and a drawback/handicap. Let's review them quickly.
 
 ### Layering and division of design
 
-Overcomplicated.
+It doesn't need explanation as an advantage but its cons can doom a project. "Front parts" must never get the higher priority (this will build drip castles).
 
-Defining new features and projects. MINUS - with too much enthusiasm.
+The great entusiasm may lead to definitions of parts, which would never be finished or even worse &thinsp;&mdash;&thinsp; overload development, derrogate it and dissolve design.
 
 ### Separation of duties
 
@@ -194,19 +196,21 @@ It needs no introduction, but to stress a couple of points:
 + Present the concept ASAP.
 + Adjust/swap layers of logic.
 
-🙁 Activities may become too split. The "front" team may underestimate the billow of implentation items they create.
+🙁 Activities may become too split. The "front" team may underestimate the billow of implentation items they create. Guys in implementation hats may feel themselves as pure workforce. 
 
-### Effective definitions of tasks and feedback
+Solution? Roles swap and permanent direct feedback.
 
-The upper desing will quite smart fornulate
+### Effective definitions of tasks
 
-The opposite side is when 
+The upper desing will quite smartly formulate major tasks while these tasks can be effectively split into subtasks.
 
 ### Team practice
 
-#### Motivation to TDD
+Resonsiple and attentive following the principles will unite and motivate the team while getting the best of members (win-win).
 
+### Motivation to TDD
 
+It must be much higher than reading the theory why TDD is good.
 
 \___________
  <div align="center">🔚 &nbsp;🌒 2024-2025  ... images: kyriosity ...</div>
