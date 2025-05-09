@@ -5,6 +5,8 @@
 
 <p align="center"><b><samp>«Many hands make light work.»</samp></b><br /><i>If I were limited to a few words about Arc Deco,<br />this idiom would be the choice.</i></p>
 
+«<samp>Not gods fire pots</samp>» will complete it.
+
 # Roles
 
 🚧📝🚧 ... DRAFT in progress ... 🚧🖌️🚧
