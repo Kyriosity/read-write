@@ -3,11 +3,14 @@
 
 ---
 
-<p align="center"><b><samp>«Many hands make light work.»</samp></b><br /><i>If I were limited to a few words about Arc Deco,<br />this idiom would be the choice.</i></p>
+<p align="center"><b>«&thinsp;<samp>M&thinsp;A&thinsp;N&thinsp;Y &thinsp; H&thinsp;A&thinsp;N&thinsp;D&thinsp;S &thinsp; M&thinsp;A&thinsp;K&thinsp;E &thinsp; L&thinsp;I&thinsp;G&thinsp;H&thinsp;T &thinsp; W&thinsp;O&thinsp;R&thinsp;K</samp>&thinsp;»</b>
+<br /><i>If I were limited to a few words about Arc Deco,<br />this idiom would be the choice.</i></p>
+
+<p align="right">«&thinsp;<samp><b>Not gods fire pots</b></samp>&thinsp;» can complete it.</p>
 
 # Roles
 
-🚧📝🚧 ... DRAFT in progress ... 🚧🖌️🚧
+<p align="center">🚧📝🚧 ... DRAFT in progress ... 🚧🖌️🚧</p>
 
 While it's under construction, you may read a [Take on the <samp><b>Architect</b></samp>](../../../../pencraft/README+/essays/README+/SW_architect-aTake.md).
 
