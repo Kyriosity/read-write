@@ -1,6 +1,6 @@
 <h1 align="center"><code>Null</code>, its reference, and the Mistake<br />🔎&empty;</h1>
 
-<table><tr><td><picture><img alt="&thinsp; Monticello-Dam drain hole" src="../../../../_rsc/_img/photo/build/Monticello-Dam-drain.jpg" /></picture>
+<table><tr valign="top"><td><picture><img alt="&thinsp; Monticello-Dam drain hole" src="../../../../_rsc/_img/photo/build/Monticello-Dam-drain-rot90.jpg" /></picture>
 </td><td>
 
 **`NullReference`** earned a horrible reputation of an _exceptional_ pest. Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
@@ -10,6 +10,12 @@ they strike everywhere, in managed and unmanaged environments, and have mercy on
 [billion-dollar mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
 
 A sinister _Gordian_ blockchain that nobody great can cut to stop collecting its billion toll.
+  
+</td><td>
+
+SIDENOTE:
+
+`Null` may hide under other names: `Nothing`, `nil`, `none`, `undef[inded]`, and even `NaN`.
   
 </td></tr></table>
 
