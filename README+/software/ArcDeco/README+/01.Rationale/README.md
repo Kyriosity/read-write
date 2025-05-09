@@ -15,13 +15,13 @@
 <blockquote><b>Who is the opponent in software?</b><br />
   Not a customer, a manager, or a user.<br />The development❕</blockquote>
 
-Win - Breaking changes go lite
+Win - Breaking changes go light.
 
-Checked - principal changes aee done with woodoo programming
+Checked - principal changes are done with Woodoo programming.
 
-Stalemate - the project works, but features can hardly be added.
+Stalemate - the project works, but big features can hardly be added.
 
-Mate - dev stop only support.
+Mate - dev stops only support. The time to give it away to another team and speak about a remake on other technologies.
   
 </td><td>
 <p>♕♛ Learning elementary programming and the rules of the checkered strategy are both fast, enjoyable, and attainable for the masses. 
@@ -75,7 +75,7 @@ And the answer to many <kbd>why</kbd> isn't always or principally a bad design s
 Successful projects from the neighboring materiality, less patchable and less reversible but much more fragile, may both hearten or intimidate:\
 Liquefied gas tankers, skyscrapers, airplane auto-navigation, implants, space telescopes, robotic lines ...
 
-And these are your peers who created them. "Not gods fired these pots."
+And these are your peers with different backgrounds who created them. «Not gods fired these pots.»
   
 </td></tr></table>
 
