@@ -21,20 +21,23 @@ A sinister _Gordian_ blockchain that nobody great can cut to stop collecting its
 
 radar-beta
  showLegend true
-  axis App["A P P L I C A T I O N"], s["OWN   C O D E"], e["N E W"]
+  axis App["A P P L I C A T I O N"], s["O W N   C O D E"], e["N E W"]
   axis OS["P L A T F O R M S"], g[" E X T E R N A L"], a[" L E G A C Y"]
   curve LOGIC["APP LOGIC"]{85, 90, 80, 70, 75, 50}
   curve PHYS["'PHYSICAL'"]{5, 9, 0, 70, 70, 90}
-  curve DEEP["ERRORS"]{20, 25, 20, 27, 30, 30}
+  curve TECH["'TECHNICAL'"]{20, 25, 20, 27, 30, 30}
 
   max 100
   min 0
 ```
 
 * "**Physical**" &thinsp;&mdash;&thinsp; could occur when a pointer/reference comes out of physical/logical memory
-* **App Logic** &thinsp;&mdash;&thinsp; actually unassigned or nulled declarations
+* "**Technical**" &thinsp;&mdash;&thinsp; not supposed to occur. In the extreme case, a number is `null`.
+* **App Logic** &thinsp;&mdash;&thinsp; actually unassigned or nulled declarations. _<samp>Mea culpa</samp>_.
 
-## Much Ado About `Nothing`&thinsp;?
+In my opinion, `NullReference` is natural, and an exception over it is only a symptom. **Charging `null` for errors is like accusing `zero` for one can divide by it.**
+
+<h2 align="center">Much Ado About <code>Nothing</code>&thinsp;?</h2>
 
 <table><tr></tr><tr align="center"><td width="40%"><b>Y&thinsp;E&thinsp;S</b></td><td width="20%" >and</td><td width="40%" ><b>N&thinsp;O</b></td>
 </tr><tr valign="center"><td>
@@ -42,7 +45,7 @@ radar-beta
 Null references aren't CPU vulnerabilities as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that no software patch can fix. 
 It's not even a peer to the Y2K problem, which stemmed from the explicit negligence to eliminate with explicit enhancement.
 
-Botched global updates, blackouts, and catastrophic failures were caused by logical errors in which exception names played a secondary role. 
+Botched global updates, blackouts, and catastrophic failures were caused by logical errors of different origins, in which exception names played a secondary role. 
 
 Except one type &thinsp;&mdash;&thinsp; many disasters multiplied and spread because there was no sign of exception or error.
   
@@ -50,17 +53,20 @@ Except one type &thinsp;&mdash;&thinsp; many disasters multiplied and spread bec
 
 Middle and big software providers permanently collect reports on errors, which crash their products, get handled, or run undercover (unnoticed).
 
-Their statistics give `NullReference` the first place (from my experience). 
+Their statistics give `NullReference` the first place (from my experience too). 
 Many of these errors are difficult enough to trace, reproduce, and debug, and if they aren't regular or critical, they can stay for years with the lowest priority for investigation.
 
 Time and size populate projects' closets with ghost `NullReference` errors &thinsp;&mdash;&thinsp; the syndrome of the design decadence, which mostly gets symptomatic treatment.
 
 </td></tr></table>
 
-## Null <mark>&empty;🚿</mark> Washing</h2>
+<h2 align="center">Null <mark>&empty;🚿</mark> Washing</h2>
 
-> **Accusing `null` for errors is like accusing `zero` for one can divide by it.**
+**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its closest application &thinsp;&mdash;&thinsp;. Hardware has -- the bit that state can't be read because it's off.
 
+LET US DO THIS
+
+<p dir="rtl">.<b><code>Null</code></b> is for programming, as <code><b>zero</b></code> is for math</p>
 
 ### Blaming the messenger
 
@@ -73,11 +79,6 @@ It's easier to refer the perplexed cases of `NullReference` firing to the peculi
 
 <h1 align = "center">Part Tw&empty;. Praxis</h1>
 
-**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_<sup>&empty;</sup> as we know in programming &thinsp;&mdash;&thinsp; to aid its closest offspring &thinsp;&mdash;&thinsp;. Hardware has -- the bit that state can't be read because it's off.
-
-LET US DO THIS
-
-<p dir="rtl">.<b><code>Null</code></b> is for programming, as <code><b>zero</b></code> is for math</p>
 
 &nbsp; &nbsp; <sup>&empty;</sup> <samp>Null means zero or empty set.</samp>
 
