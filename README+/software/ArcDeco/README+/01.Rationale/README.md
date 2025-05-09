@@ -15,7 +15,9 @@
 <blockquote><b>Who is the opponent in software?</b><br />
   Not a customer, a manager, or a user.<br />The development❕</blockquote>
 
-Win - Breaking change go lite
+Win - Breaking changes go lite
+
+Checked - principal changes aee done with woodoo programming
 
 Stalemate - the project works, but features can hardly be added.
 
@@ -70,10 +72,10 @@ And the answer to many <kbd>why</kbd> isn't always or principally a bad design s
   
 **More (de)motivation:**
   
-Successful projects from the neighboring materiality, less patchable but with higher safety requirements, may both hearten or intimidate:\
+Successful projects from the neighboring materiality, less patchable and less reversible but much more fragile, may both hearten or intimidate:\
 Liquefied gas tankers, skyscrapers, airplane auto-navigation, implants, space telescopes, robotic lines ...
 
-And these are your peers who created them.
+And these are your peers who created them. "Not gods fired these pots."
   
 </td></tr></table>
 
