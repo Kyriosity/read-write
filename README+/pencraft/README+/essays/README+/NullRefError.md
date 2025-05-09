@@ -4,7 +4,7 @@
 </td><td>
 
 **`NullReference`** earned a horrible reputation of an _exceptional_ pest. Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
-they strike everywhere and have mercy on neither junior developers nor mature systems.
+they strike everywhere, in managed and unmanaged environments, and have mercy on neither junior developers nor mature systems.
 
 [Sir Tony Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame for being this Frankenstein who brought the 
 [billion-dollar mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
@@ -31,7 +31,7 @@ radar-beta
   min 0
 ```
 
-* "**Physical**" &thinsp;&mdash;&thinsp; could occur when a pointer/reference comes out of physical/logical memory
+* "**Physical**" &thinsp;&mdash;&thinsp; could occur when a pointer/reference comes out of physical/logical/allocated memory
 * "**Technical**" &thinsp;&mdash;&thinsp; not supposed to occur. In the extreme case, a number is `null`.
 * **App Logic** &thinsp;&mdash;&thinsp; actually unassigned or nulled declarations. _<samp>Mea culpa</samp>_.
 
@@ -62,11 +62,13 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 <h2 align="center">The Mistake&thinsp;?</h2>
 
-First of all, NullReference is not a bubo, bug, stub, or rudiment. It's a mostly valid state of neglected objects.
+First of all, `NullReference` is not a bubo, bug, stub, or rudiment. It's a natural, initial, and valid state of objects. And when neglected, it notifies sincerely about this rude error.
 
 ### Blaming the messenger
 
-NullReference most of all delivers the news about problems with software.
+Bugs coming from delivered software are annoying since _1)_ [it worked on my machine](../../memes/README+/polyptych_works.md), and _2)_ it will be a headache to debug. No wonder NullReference got its reputation.
+
+The bad idea is that silencing it will cure the problem.
 
 ### "Scapegoating" (≠ Goatscaping) 
 
@@ -75,11 +77,10 @@ It's easier to refer the perplexed cases of `NullReference` to the peculiarities
 
 <h2 align="center">Null <mark>&empty;🚿</mark> Washing</h2>
 
-**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its closest application. Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.
+**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its closest application. **Let's do it ourselves.**
 
-&nbsp; &nbsp; <sup>&empty;</sup> <samp>Null in math means zero or empty set. As it's _zero_ in German.</samp>
-
-LET US DO IT
+&nbsp; &nbsp; <sup>&empty;</sup> <samp>Null in math means zero or empty set. As it's _zero_ in German.</samp>\
+&nbsp; &nbsp; <sup>&empty;</sup> <samp>Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.</samp>
 
 <p dir="rtl">.<b><code>Null</code></b> is for programming, as <code><b>zero</b></code> is for math</p>
 
@@ -87,8 +88,8 @@ LET US DO IT
  
 Besides [quality code](../../../../software/QA/README+/code-quality.md) the following practices may ensure assignment:
 
-+ Builders/Factories/Wizards
++ Eliminating declarations\
+Builders/Factories/Wizard
 
 \___________\
 🔚 &empty; 2025  image credits: Wiki Commons, kyriosity
-
