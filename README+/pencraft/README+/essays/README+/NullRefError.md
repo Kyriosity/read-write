@@ -60,13 +60,7 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 </td></tr></table>
 
-<h2 align="center">Null <mark>&empty;🚿</mark> Washing</h2>
-
-**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its closest application &thinsp;&mdash;&thinsp;. Hardware has -- the bit that state can't be read because it's off.
-
-LET US DO THIS
-
-<p dir="rtl">.<b><code>Null</code></b> is for programming, as <code><b>zero</b></code> is for math</p>
+<h2 align="center">The Mistake&thinsp;?</h2>
 
 ### Blaming the messenger
 
@@ -75,7 +69,15 @@ LET US DO THIS
 ### "Scapegoating" (≠ Goatscaping) 
 
 When the source of a problem isn't evident, it's a time to explain it with the order of planets, air from bogs, bad morale, or errors of others. 
-It's easier to refer the perplexed cases of `NullReference` firing to the peculiarities and bugs of the underlying platforms.
+It's easier to refer the perplexed cases of `NullReference` to the peculiarities and bugs of the underlying platforms.
+
+<h2 align="center">Null <mark>&empty;🚿</mark> Washing</h2>
+
+**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its closest application &thinsp;&mdash;&thinsp;. Hardware has -- the bit that state can't be read because it's off.
+
+LET US DO IT
+
+<p dir="rtl">.<b><code>Null</code></b> is for programming, as <code><b>zero</b></code> is for math</p>
 
 <h1 align = "center">Part Tw&empty;. Praxis</h1>
 
@@ -84,48 +86,3 @@ It's easier to refer the perplexed cases of `NullReference` firing to the peculi
 
 \___________\
 🔚 &empty; 2025  image credits: Wiki Commons, kyriosity
-
-- conceptual mistakes of middleware software (CLR, virtual machines, and so on)
-- malware
-- **programming logic**
- 
-and source 
-
-
-It's opposite - nullable numbers
-
-WRITE OFF from the tech debt of CAR
-
-        INVALID MEMORY ADDRESS
-
-          MANAGED vs UNMANAGED
-
-ERROR
-VALUE
-TECH (POINTER etc)
-
-They aren't the plague but boboes
-
-THE REAL BLN DLR MISTAKE is PUTTING NULL under the CARPET
-
-Some programmers discover it like ancient Greeks.
-
-Example with fridge. With paper
-
-Advanced languages introduce paradigms to avoid them, and IDEs with tools warn about possible nulls.
-
-Is not reference outised the memory stick
-
-ENUMs as the worst practice of not-null. Partial solution: default but it doesn't prevent logical error
-
-undefined in JS
-
-NEW PHYLO STONE
-
-REFERENCE vs. POINTER
-
-No Magic Wand to prevent run time null
-
-PRX:
-    Replace Null with mor specific things : NotSet
-    Constructing Wizards
