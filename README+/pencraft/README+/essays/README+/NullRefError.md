@@ -1,6 +1,7 @@
 <h1 align="center"><code>Null</code>, its reference, and the Mistake<br />🔎&empty;</h1>
 
-<table><tr valign="top"><td><picture><img alt="&thinsp; Monticello-Dam drain hole" src="../../../../_rsc/_img/photo/build/Monticello-Dam-drain-rot90.jpg" /></picture>
+<table><tr valign="top"><td><picture><img alt="&thinsp; Gibson Dam, Montana - drain (Wiki)" src="../../../../_rsc/_img/photo/build/Gibson_Dam-Montana-drain.jpg" 
+   title="&nbsp;Gibson Dam, Montana, drain&#010;Source: Wiki media" /></picture>
 </td><td>
 
 **`NullReference`** earned a horrible reputation of an _exceptional_ pest. Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
@@ -10,13 +11,9 @@ they strike everywhere, in managed and unmanaged environments, and have mercy on
 [billion-dollar mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
 
 A sinister _Gordian_ blockchain that nobody great can cut to stop collecting its billion toll.
-  
-</td><td>
 
-SIDENOTE:
+**P.S.** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`.
 
-`Null` may hide under other names: `Nothing`, `nil`, `none`, `undef[inded]`, and even `NaN`.
-  
 </td></tr></table>
 
 <sup>🎥</sup> However, if you can't make the 1950s subscripts **and** today's unassigned declarations meet &nbsp;&mdash;&nbsp; you are not alone. 
@@ -70,11 +67,13 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 First of all, `NullReference` is not a bubo, bug, stub, or rudiment. It's a natural, initial, and valid state of objects. And when neglected, it notifies sincerely about this rude error.
 
+Implicit default or proforma values instead of `null` obviously pave the way to epic fails.
+
 ### Blaming the messenger
 
-Bugs coming from delivered software are annoying since _1)_ [it worked on my machine](../../memes/README+/polyptych_works.md), and _2)_ it will be a headache to debug. No wonder NullReference got its reputation.
+Bugs in delivered software are annoying since _1)_ [it worked on my machine](../../memes/README+/polyptych_works.md), and _2)_ they will be a headache to debug. No wonder NullReference got its reputation.
 
-The bad idea is that silencing it will cure the problem.
+The bad idea is that silencing it may cure the problem (though sometimes it works).
 
 ### "Scapegoating" (≠ Goatscaping) 
 
@@ -90,12 +89,17 @@ It's easier to refer the perplexed cases of `NullReference` to the peculiarities
 
 <p dir="rtl">.<b><code>Null</code></b> is for programming, as <code><b>zero</b></code> is for math</p>
 
-<h1 align = "center">Part Tw&empty;. Praxis</h1>
- 
-Besides [quality code](../../../../software/QA/README+/code-quality.md) the following practices may ensure assignment:
+<h1 align = "center">Part Tw&empty;. Back to keyboard</h1>
+
+First of all, there's no magic wand to get rid of the `NullReference` errors, as clickbait titles try to sell.
+
+Besides [quality code](../../../../software/QA/README+/code-quality.md) and apparent measures the following practices may ensure assignment:
 
 + Eliminating declarations\
 Builders/Factories/Wizard
+
++ Distinguighig unset and null\
+Javascript
 
 \___________\
 🔚 &empty; 2025  image credits: Wiki Commons, kyriosity
