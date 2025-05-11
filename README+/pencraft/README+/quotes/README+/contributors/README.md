@@ -1,6 +1,6 @@
-# Contributors and influencers
+# Contributors and Influencers
 
-<h2 align="center">IT Pioneers</h2>
+<h1 align="center">IT Pioneers</h1>
 
 There's a discernible inclination in quotes toward the mathematicians and engineers who stood behind the first computers. Whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and enough delusions count.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project, Mercury or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
@@ -109,7 +109,7 @@ Author of the [LaTeX](https://en.wikipedia.org/wiki/LaTeX)<sup><b>w</b></sup> so
 
 _Dennis MacAlistair Ritchie_ (**1941**-2011)<sup title="Turing Award, 1983, with Ken Thompson">🥇</sup> creator of the **`C`** programming language and co-author of UNIX (with Ken Thompson)
 
-<h2 align="center">Math / Phys</h2>
+<h1 align="center">Math / Phys</h1>
 
 ### George Pólya
 
@@ -147,7 +147,7 @@ _Grady Booch_ (born 1955)
 
 ### Linus Torvalds
 
-_Linus Benedict Torvalds_ (born 1969) 🇫🇮 Univ. Helsinki
+_Linus Benedict Torvalds_ (born 1969) 🇫🇮 Univ. Helsinki doesn't need a presentation.
 
 <h2 align="center"><i>et alia</i></h2>
 
