@@ -37,9 +37,9 @@ radar-beta
 
 * "**Physical**" &thinsp;&mdash;&thinsp; a pointer&thinsp;/&thinsp;reference steps out of physical&thinsp;/&thinsp;logical memory
 * "**Technical**" &thinsp;&mdash;&thinsp; not supposed to occur (as an extreme case, a number becomes `null`).
-* **App Logic** &thinsp;&mdash;&thinsp; actually unassigned or nulled declarations. _<samp>Mea culpa</samp>_.
+* &nbsp;**App Logic** &thinsp;&mdash;&thinsp; actually unassigned or nulled declarations. _<samp>Mea culpa</samp>_.
 
-I bet the last case caused the worldwide alarm and triggered great discussions and proposals. 
+I bet the last case caused the worldwide alarm and triggered big discussions and proposals. 
 However, `NullReference` there is essential, and an exception over it is only a symptom.
 
 <h2 align="center">Much Ado About <code>Nothing</code>&thinsp;?</h2>
@@ -69,7 +69,7 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 <p align="center"><b>Charging <code>null</code> for errors is like accusing <code>zero</code> for one can divide by it.</b></p>
 
-First of all, `NullReference` is not a bubo, bug, stub, or rudiment. It's a logical, initial, and valid state of objects. And when neglected, it notifies sincerely about this rude error.
+First of all, `NullReference` is not a popped transistor, ghost, bug, stub, rudiment, or malware. It's a logical, initial, and valid state of objects. When neglected, it sincerely warns about a breach.
 
 ### Blaming the messenger
 
@@ -84,28 +84,36 @@ It's easier to refer the perplexed cases of `NullReference` to the peculiarities
 
 Based on true stories.
 
-<h1 align="center">Null <mark>&empty;🚿</mark> Washing</h2>
+<h1 align="center">Null <mark>&thinsp;&empty;🚿</mark> Washing</h2>
 
 <p dir="rtl">.<b><code>Null</code></b> is for programming, as <code><b>zero</b></code> is for math</p>
 
 ## Foam (Apply theory)
 
-**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its most proximate employment. **Let's do it ourselves.**
+**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment. **Let's do it ourselves ...**
 
-Let's break Null traps into three BEs:
+I wouldn't like to classify Null traps by managed/unmanaged, pointer vs. reference vs indexbut break them into three **BE**s:
 
-* **CAN'T** BE &thinsp;&mdash;&thinsp; 
-* **SHAN'T** BE &thinsp;&mdash;&thinsp;
-* **MUST** BE &thinsp;&mdash;&thinsp; Surpsisinly?        It's opposite - nullable numbers
-
-What I won't do is to classify by managed/unmanaged, pointer vs. reference vs index
+* **CAN'T** BE &thinsp;&mdash;&thinsp; the assignee (field, variable, or object) can **never** be null.\
+And only technical possibility allowed a logical flaw to set it.
+* **SHAN'T** BE &thinsp;&mdash;&thinsp; the assignee can have Null value but not in this place\
+(PENDING: booking example)
+* **MUST** BE &thinsp;&mdash;&thinsp; Surpsisinly? The value can be null but either falsely stubbed or can't be nulled.
 
 &nbsp; &nbsp; <sup>&empty;</sup> <samp>Null in math means zero or empty set. As it's _zero_ in German.</samp>\
-&nbsp; &nbsp; <sup>&empty;</sup> <samp>Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.</samp>
+&nbsp; &nbsp; <sup>&empty;&empty;</sup> <samp>Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.</samp>
+
+### Then what's the problem to debug ?
+
+<table><tr><td><picture><img alt="&nbsp;🐝✒️ WRITING IN PROGRESS🚧" src="../../" /></picture></td><td>
+
+Besides remembering bad cases, which aren't an excuse ...
+   
+</td></tr></table>
 
 ## Rinse (Back to keyboard)
 
-First of all, there's no magic wand to get rid of the `NullReference` errors, as clickbait titles try to sell.
+First and foremost, there's no magic wand to get rid of the `NullReference` errors, as clickbait titles try to sell. And there shall not be.
 
 ### Do not hide
 
@@ -115,17 +123,17 @@ Relying on default or _pro forma_ values instead of `null` obviously paves the w
 
 Besides [quality code](../../../../software/QA/README+/code-quality.md) and apparent measures the following practices may ensure assignment:
 
-+ Eliminating declarations\
++ Eliminating null declarations\
 Builders/Factories/Wizard
 
-+ Distinguighig unset and null\
++ Distinguish\
 Javascript
     Replace Null with more specific things : NotSet
 
 
 ## Epilogue
 
-THE REAL BLN DLR MISTAKE is PUTTING NULL under the CARPET
+The real billion-dollar mistake is ignorance.
 
 \___________\
 🔚 &empty; 2025  image credits: Wiki Commons, kyriosity
