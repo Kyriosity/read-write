@@ -4,19 +4,20 @@
    title="&nbsp;Gibson Dam, Montana, drain&#010;Source: Wiki media" /></picture>
 </td><td>
 
-**`NullReference`** earned a horrible reputation of an _exceptional_ pest. Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
-they strike everywhere, in managed and unmanaged environments, and have mercy on neither junior developers nor mature systems.
+**`NullReference` earned a horrible reputation as an _exceptional_ pest.** Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
+they strike everywhere, in safe and unmanaged code, and have mercy on neither junior developers nor mature systems.
 
-[Sir Tony Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame for being this Frankenstein who brought the 
-[billion-dollar mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
+[Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame for being this _Frankenstein_ who brought the 
+[**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
 
 A sinister _Gordian_ blockchain that nobody great can cut to stop collecting its billion toll.
 
-**P.S.** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`.
+\___________\
+<samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`.
 
 </td></tr></table>
 
-<sup>🎥</sup> However, if you can't make the 1950s subscripts **and** today's unassigned declarations meet &nbsp;&mdash;&nbsp; you are not alone. 
+<sup>🎥</sup> If you can't make the 1950s subscripts **and** today's unassigned declarations meet &nbsp;&mdash;&nbsp; you are **not** alone. 
 
 <h4 align="center">Let my shaky pen and subjective experience sketch the NullReference reflection:</h4>
 
@@ -34,11 +35,12 @@ radar-beta
   min 0
 ```
 
-* "**Physical**" &thinsp;&mdash;&thinsp; could occur when a pointer/reference comes out of physical/logical/allocated memory
-* "**Technical**" &thinsp;&mdash;&thinsp; not supposed to occur. In the extreme case, a number is `null`.
+* "**Physical**" &thinsp;&mdash;&thinsp; a pointer&thinsp;/&thinsp;reference steps out of physical&thinsp;/&thinsp;logical memory
+* "**Technical**" &thinsp;&mdash;&thinsp; not supposed to occur (as an extreme case, a number becomes `null`).
 * **App Logic** &thinsp;&mdash;&thinsp; actually unassigned or nulled declarations. _<samp>Mea culpa</samp>_.
 
-In my opinion, `NullReference` is natural, and an exception over it is only a symptom. **Charging `null` for errors is like accusing `zero` for one can divide by it.**
+I bet the last case caused the worldwide alarm and triggered great discussions and proposals. 
+However, `NullReference` there is essential, and an exception over it is only a symptom.
 
 <h2 align="center">Much Ado About <code>Nothing</code>&thinsp;?</h2>
 
@@ -56,8 +58,8 @@ Except one type &thinsp;&mdash;&thinsp; many disasters multiplied and spread bec
 
 Middle and big software providers permanently collect reports on errors, which crash their products, get handled, or run undercover (unnoticed).
 
-Their statistics give `NullReference` the first place (from my experience too). 
-Many of these errors are difficult enough to trace, reproduce, and debug, and if they aren't regular or critical, they can stay for years with the lowest priority for investigation.
+Their statistics give `NullReference` the first place (from my experience too). Many of these errors are difficult to trace, reproduce, and debug. 
+Those not regular and critical may stay for years with the lowest priority for investigation.
 
 Time and size populate projects' closets with ghost `NullReference` errors &thinsp;&mdash;&thinsp; the syndrome of the design decadence, which mostly gets symptomatic treatment.
 
@@ -65,33 +67,51 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 <h2 align="center">The Mistake&thinsp;?</h2>
 
-First of all, `NullReference` is not a bubo, bug, stub, or rudiment. It's a natural, initial, and valid state of objects. And when neglected, it notifies sincerely about this rude error.
+<p align="center"><b>Charging <code>null</code> for errors is like accusing <code>zero</code> for one can divide by it.</b></p>
 
-Implicit default or proforma values instead of `null` obviously pave the way to epic fails.
+First of all, `NullReference` is not a bubo, bug, stub, or rudiment. It's a logical, initial, and valid state of objects. And when neglected, it notifies sincerely about this rude error.
 
 ### Blaming the messenger
 
-Bugs in delivered software are annoying since _1)_ [it worked on my machine](../../memes/README+/polyptych_works.md), and _2)_ they will be a headache to debug. No wonder NullReference got its reputation.
+Errors in delivered software are annoying since **_1)_** [it worked on my machine](../../memes/README+/polyptych_works.md), and **_2)_** they could be a headache to debug. No wonder `NullReference` got a magnified reputation.
 
-The bad idea is that silencing it may cure the problem (though sometimes it works).
+The bad idea is that ignoring or silencing it may cure the problem (though sometimes it works).
 
 ### "Scapegoating" (≠ Goatscaping) 
 
 When the source of a problem isn't evident, it's a time to explain it with the order of planets, air from bogs, bad morale, or errors of others. 
 It's easier to refer the perplexed cases of `NullReference` to the peculiarities and bugs of the underlying platforms.
 
-<h2 align="center">Null <mark>&empty;🚿</mark> Washing</h2>
+Based on true stories.
 
-**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its closest application. **Let's do it ourselves.**
+<h1 align="center">Null <mark>&empty;🚿</mark> Washing</h2>
+
+<p dir="rtl">.<b><code>Null</code></b> is for programming, as <code><b>zero</b></code> is for math</p>
+
+## Foam (Apply theory)
+
+**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its most proximate employment. **Let's do it ourselves.**
+
+Let's break Null traps into three BEs:
+
+* **CAN'T** BE &thinsp;&mdash;&thinsp; 
+* **SHAN'T** BE &thinsp;&mdash;&thinsp;
+* **MUST** BE &thinsp;&mdash;&thinsp; Surpsisinly?        It's opposite - nullable numbers
+
+What I won't do is to classify by managed/unmanaged, pointer vs. reference vs index
 
 &nbsp; &nbsp; <sup>&empty;</sup> <samp>Null in math means zero or empty set. As it's _zero_ in German.</samp>\
 &nbsp; &nbsp; <sup>&empty;</sup> <samp>Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.</samp>
 
-<p dir="rtl">.<b><code>Null</code></b> is for programming, as <code><b>zero</b></code> is for math</p>
-
-<h1 align = "center">Part Tw&empty;. Back to keyboard</h1>
+## Rinse (Back to keyboard)
 
 First of all, there's no magic wand to get rid of the `NullReference` errors, as clickbait titles try to sell.
+
+### Do not hide
+
+Relying on default or _pro forma_ values instead of `null` obviously paves the way to epic fails.
+
+### Do not treat as empty&thinsp;/&thinsp;zero
 
 Besides [quality code](../../../../software/QA/README+/code-quality.md) and apparent measures the following practices may ensure assignment:
 
@@ -100,6 +120,13 @@ Builders/Factories/Wizard
 
 + Distinguighig unset and null\
 Javascript
+    Replace Null with more specific things : NotSet
+
+
+## Epilogue
+
+THE REAL BLN DLR MISTAKE is PUTTING NULL under the CARPET
 
 \___________\
 🔚 &empty; 2025  image credits: Wiki Commons, kyriosity
+
