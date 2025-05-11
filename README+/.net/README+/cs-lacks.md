@@ -1,10 +1,10 @@
-# `C#`&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Nice to have&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Syntax, constructs and features
+# `C#` &nbsp;&mdash;&nbsp; Nice to have &nbsp;&mdash;&nbsp; Syntax, constructs and features
 
 C#.NET isn't a universal formula, and its team (counting the community) doesn't possess unbounded resources. However, this platform could offer extra features and foundations, which would only boost its charm.
 
 ## More common interfaces
 
-The general interface defines members like `Count`, `Clone()`, `Equals()`, `CompareTo()`, which developers are eager to apply to their codes too.\
+The general interface defines members like `Count`, `Clone()`, `Equals()`, `CompareTo()`, which developers are eager to apply to their code too.\
 However, much more remains uncovered, e.g., Max/Min for limiting collections and object size.
 
 Other promising members (like `IsReadOnly`) are defined within specific interfaces.
@@ -27,7 +27,7 @@ Flush<T>(T stream) where T :  IDisposable AND System.IO.Stream
 + Bonus.Calc(IEnumerable<T> months) where T : Month OR Months // Months is Month but [Flags]
 ```
 
-I long for better [numbers](cs-drawbacks.md#Numbers) in C# but meanwhile, constraints could improve the state.
+I long for better [numbers](cs-drawbacks.md#Numbers) in C#, but meanwhile, constraints could improve the state.
 
 ```csharp
 // rationally limited natural number
@@ -48,7 +48,7 @@ method<N1, N2>(N1 left, N2 right) where N1, N2 : integer
    where N1 < 100  
    where N2 < 0
 
-// and much more similar to your phantasy
+// and much more similar to your imagination
 ```
 
 </details>
@@ -56,11 +56,11 @@ method<N1, N2>(N1 left, N2 right) where N1, N2 : integer
 \__________\
 ☝️ Numerours high-rated queries on Q&A sites formulate demands for _constraints_ "grammar" further, better, and wider.
 
-## Syntax
+# Syntax
 
 ### Method arguments as in object initializer
 
-If a method has arguments of compatible types, the chances are good to shuffle them by mistake.
+If a method has arguments of compatible types, the chances are good that one shuffles them by mistake.
 
 Named arguments are fine but optional. Some patterns and practices (sub-calls, side-typing) ensure the right assignment but bring overhead, and you still must deal with established calls and obey the args order.
 
@@ -74,19 +74,19 @@ Register(string firstName, string secondName, byte age, short numOrders, bool kn
 Register { lastName = "Deer", firstName = "John", numOrders = 2, age = 18 }
 ```
 
-This also would make much prettier initialization of objects from factory/builder methods.
+This would also make prettier initialization of objects from factory/builder methods.
 
-### Sugar
+## Sugar
 
 There's no excuse why shortcuts like `ArgumentNullException.ThrowIfNull(...)` aren't added to most exceptions. 
-There could also be static classes without evident _Exception_ suffix (e.g. `NotImplemented.Throw()`). 
+There could also be static classes without an evident _Exception_ suffix (e.g. `NotImplemented.Throw()`). 
 
 Meanwhile, such substitutes are available in use-dev➡️ [exception shortcuts](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/ExtensionsTests/Exceptions) 🧪.
 
 ### Extra inheritance
 
 <details>
-<summary><ins>&nbsp;<b>Enum</b> - Design sketch&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>Enum</b> &thinsp;&mdash;&thinsp; Design sketch&nbsp;</ins></summary>
 &nbsp;
 
 ```csharp
@@ -126,7 +126,7 @@ with downcast only, e.g.:
 </details>
 
 <details>
-<summary><ins>&nbsp;<b>Arguments signature</b> - Design sketch&nbsp;</ins></summary>
+<summary><ins>&nbsp;<b>Arguments signature</b> &thinsp;&mdash;&thinsp; Design sketch&nbsp;</ins></summary>
 &nbsp;
 
 Let's forget that long signatures are bug buddies and should be encapsulated into classes/structs or tuples. 
@@ -135,7 +135,7 @@ In fact, repetitive sequences of arguments occur (sometimes dictated by external
 
 ```csharp
 
-// one of the possible syntax through attribute
+// one of the possible syntax through the attribute
 [Args("Name")]
 bool Login(string name, string familyName) { ... }
 
@@ -148,7 +148,7 @@ Guid Register(int attempt, [Name.Western], byte age) { ... }
 
 </details>
 
-### Interfaces conjunction
+## Interfaces junction
 
 Fine-granulated interfaces and their multi-inheritance into more substantial belong to sound design practices.
 
@@ -156,7 +156,7 @@ Another story is a combination of primitive (or feature) interfaces as options f
 Suppose there are `ILimited`, `ITimestamped`, and `INotifyPropertyChanged`, which combinations imply 2<sup>3</sup> nominal declarations. And what if this could be done with `<IInterfaceA, IInterfaceB[, IInterfaceC[, ...]]>`
 
 <details>
-<summary><ins>&nbsp;Interface conjunction - <b>Design sketch&nbsp;</ins></b></summary>
+<summary><ins>&nbsp;Interface conjunction &thinsp;&mdash;&thinsp; <b>Design sketch&nbsp;</ins></b></summary>
 &nbsp;
     
 ```csharp
