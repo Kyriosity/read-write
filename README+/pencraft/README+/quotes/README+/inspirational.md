@@ -134,7 +134,7 @@ To name a few of the officially recognized:
 #### Kind advice
 
 > **If you have a fountain, shut it down. Let even a fountain have a rest.**\
-_K. Proutkov_, Selection, ~1850
+_K. Proutkoff_, Selection, ~1850
 
 \_________________________________</details>
 
@@ -177,7 +177,7 @@ _Sam Bankman-Fried_, FTX cofounder, [only Zuck has been this rich young](https:/
 
 > If you wish to be a success in the world, promise everything, deliver nothing.\
 ― _Napoleon Bonaparte (1769-1821)_\
-<sub>He failed as a result of being inconsistent with his own saying.</sub>
+<sub>He failed as a result of being inconsistent with his saying.</sub>
 
 <sup>🇫🇷</sup> <sub>Original: "Si vous escomptez avoir du succès dans le monde, promettez tout, ne donnez rien."</sub>
 
@@ -217,6 +217,12 @@ but one who notices this.
 
 The rule of medieval feasts and merciful testers
 
+\___________
+
+> **Is software craft or art?**\
+To interpret a bug as a feature is a craft.\
+To make a customer feel guilty for it &thinsp;&mdash;&thinsp; the **art**.
+
 #### Moralité 
 
 "Errare humanum est, perseverare autem diabolicum." 
@@ -224,9 +230,10 @@ The rule of medieval feasts and merciful testers
 "To err is human, to forgive divine"\
 _Alexander Pope_, poet (1688-1744)
 
-> **Is software craft or art?**\
-To interpret a bug as a feature is a craft.\
-To make a customer feel guilty for it &thinsp;&mdash;&thinsp; the **art**.
+#### Bottom line
+
+> **Commit a few bugs, they call you a failure. Deliver a million and you're a Founder.**
+
 
 \_________________________________</details>
 
@@ -252,7 +259,7 @@ Security conference, August/2004
 
 > **I find it very odd. I’m a fairly private person who just sits in front of the computer and hacks on code.**\
 _Andres Freund_, a programmer who occasionally found out the [XZ Utils backdoor](https://en.wikipedia.org/wiki/XZ_Utils_backdoor),
-in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html">NYT inteview</a>, 2024.<sup>🙋</sup>
+in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html">NYT interview </a>, 2024.<sup>🙋</sup>
 
 <sup>🙋</sup> <sub>Media had hyperbolized it to a "century cyberattack". Though being tricky and longly planned, it was far off to infiltrate most "distros", required many conditions to coincide, and would manifest itself soon.</sub>
 
@@ -262,7 +269,12 @@ in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-li
 
 > **I always have a quotation for everything. It saves original thinking.**\
 _Dorothy L. Sayers_ (1893-1957), novelist, translator, and critic
+
+> **He wrapped himself in quotations &thinsp;&mdash;&thinsp; as a beggar would enfold himself in the purple of emperors.**\
+Advice from _Joseph Rudyard Kipling_ (1865-1936)
+
 </details>
+
 
 \___________\
 ♾️ ... subject of continuous delivery since 300'000 BCE ...
