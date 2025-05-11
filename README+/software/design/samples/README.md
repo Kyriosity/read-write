@@ -1,4 +1,4 @@
-<h1 align="center">Design&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Samples</h1>
+# Design &nbsp;&mdash;&nbsp; Samples
 
 The planning and presentation of software features require a pictorial and encouraging background. We'll rely often on the next samples:\
 |- ♟️ [Chess](#chess)\
@@ -6,7 +6,7 @@ The planning and presentation of software features require a pictorial and encou
 |- 🎨 [Raster images](#raster-images)\
 |- 🧱 [Still ordinary models](#still-models)
 
-# Chess
+<h1 align="center">Chess</h1>
 
 <p dir=rtl>Chess speaks for itself<br><i><b>Hans Moke Niemann</b>, GM, 2022</i></p>
 
@@ -19,12 +19,12 @@ The conventional record of moves allows one to track a finished or in-progress g
 ### Value-action substitution
 
 A game "macro" can be either moves (*actions* that change the board) or alternating board layout (*value*, which moves result). 
-The layout can be reproduced from moves and vice versa, thus mixed notation can also serve (though extraordinary).
+The layout can be reproduced from moves and vice versa, thus mixed notation can also serve (though extraordinarily).
 
 ### Multiuser
 
-Chess assumes two players (i.e. multiuser application), who make moves in turn or decide to end the game, but there's a judge and timer, who follow the game and may change its progress.
-Thus any action (start, move, resign, undo) requires the approval or notification of others.
+Chess assumes two players (i.e., a multiuser application), who make moves in turn or decide to end the game, but there's a judge and timer, who follow the game and may change its progress.
+Thus, any action (start, move, resign, undo) requires the approval or notification of others.
 
 ### Multi-value note of the _move_
 
@@ -38,17 +38,17 @@ Various actors set async props of a move/action:
 ### Duration, size, space
 
 Playing chess is predictably finite<sup>:1234:</sup>, while any initiative may unleash the figures, _8x8_ layout, or time control and result in perpetual movement.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:1234:</sup>&nbsp;<sub>Theory and rules limit moves to 5`949 with prevailing numbers on practice far below fivescore.</sub>
+&nbsp; &nbsp; <sup>🔢</sup>&nbsp;<sub>Theory and rules limit moves to 5`949 with prevailing numbers on practice far below fivescore.</sub>
 
 Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to maintain and output an archive of all known tournaments.
 
 ---
 
-# Math
+<h1 align="center">Math</h1>
 
-<p dir=rtl>,If numbers aren't beautiful<br />.I don't know what is<br ><i><b>Paul Erdos</b> (1913-1996)<br />ultra-mathematician</i></p>
+<p dir=rtl><b>All is Number</b><br ><i>Πυθαγόρας</i></p>
 
-The study of logic and **math** with its formalism has predetermined programming. As hardware could run decent algebra instructions low and high-level languages on it could render fundamental mathematical functions for programmers.
+The study of logic and **math** with its formalism has predetermined programming. As hardware could run decent algebra instructions, low- and high-level languages on it could render fundamental mathematical functions for programmers.
 
 More specific functions can be found in external libraries and if not are the subject of tailored development: from a casual task for non-mathematicians to scientific theses (as some _computer-assisted-proofs_). 
 
@@ -60,7 +60,7 @@ More specific functions can be found in external libraries and if not are the su
 
 Codes may rely on mathematical *invertibility* (to undo and browse changes) while [one-way functions](https://en.wikipedia.org/wiki/One-way_function)<sup><b>w</b></sup> may suit for trace or hack safety.
 
-Values difference may suggest a math operation to reproduce, or disclose a function (e.g. one point for an exponent, and two for a line).
+Value differences may suggest a mathematical operation to reproduce, or disclose a function (e.g., one point for an exponent, and two for a line).
 
 ### Optimization
 
@@ -68,12 +68,12 @@ Parallelization (multi-threading) of algorithms, when applicable, tangibly speed
 
 ---
 
-# Raster images
+<h1 align="center">Raster images</h1>
 
 <p dir=rtl>,When I am in a painting<br>.I'm not aware of what I'm doing<br><i><b>Jackson Pollock</b> (1912-1956) </i></p>
 
 Editor of raster images is the richest and most multi-faceted support for thinking in application design: presentation, processing, and persistence. 
-All of these three ask for optimization (equally logical and tricky).
+All three of these ask for optimization (equally logical and tricky).
 
 Maps of pixels range from grayscale thumbnails to giant high-density multi-layered canvases or animations. 
 
@@ -84,7 +84,7 @@ Actions vary from simple (flip, rotate) to highly processed retouching or effect
 
 ---
 
-# <a id="still-models">Still ”static“ models
+<h1 align="center"><a id="still-models" />Still ”static“ models</h1>
 
 <p dir=rtl>In some mysterious way woods have<br />
 .never seemed to me to be <mark>static</mark> things<br />
@@ -104,16 +104,16 @@ The neighbor repo use-dev➡️ explores how to make these models [more flexible
 
 ## Wrapping up
 
-Developers can select this or that sample/model that fits features under development, and implement (or re-use) prototypes with tests. 
+Developers can select this or that sample/model that fits the features under development, and implement (or re-use) prototypes with tests. 
 
-However, put them all together on the mental green field of growing application to plan:
+However, put them all together on the mental green field of a growing application to plan:
 
 + multitasking,
-+ multi-culture,
++ multi-cultural,
 + undo-redo,
 + conversions.
 
-and mix them (e.g. async undo-redo,  or multi-culture as units).
+and mix them (e.g., async undo-redo,  or multi-culture as units).
 
 \___________\
 🔚 🌕 2023-2025
