@@ -5,7 +5,7 @@
 </td><td>
 
 **`NullReference` earned a horrible reputation as an _exceptional_ pest.** Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
-they strike everywhere, in safe and unmanaged code, and have mercy on neither junior developers nor mature systems.
+they strike everywhere, in safe and unmanaged code, and have no mercy on  junior and seasoned developers.
 
 [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame for being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
@@ -39,8 +39,8 @@ radar-beta
 * "**Technical**" &thinsp;&mdash;&thinsp; not supposed to occur (as an extreme case, a number becomes `null`). A system bug.
 * &nbsp;**App Logic** &thinsp;&mdash;&thinsp; actually unassigned or nulled declarations. No magic, _<samp>mea culpa</samp>_.
 
-I bet the last case feeds loud worldwide discussions and proposals. 
-However, `null` and its reference are natural there. Exceptions, thrown when nulls are referred to, are only a symptom of programming mistakes and logical flaws.
+I bet the last case prevails and feeds loud worldwide duspute. 
+However, `null` and its reference are natural there. Exceptions from its references are only a symptom of programming mistakes and logical flaws.
 
 <h2 align="center">Much Ado About <code>Nothing</code>&thinsp;?</h2>
 
