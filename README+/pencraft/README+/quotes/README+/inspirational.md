@@ -1,4 +1,4 @@
-# Quotes store &mdash; Inspiration department
+# Quotes store &nbsp;&mdash;&nbsp; Inspiration department
 
 ## I&thinsp;n&thinsp;c&thinsp;i&thinsp;t&thinsp;e&nbsp;&nbsp;m&thinsp;e ...
 
@@ -73,7 +73,7 @@ Coming next&mdash;[National Procrastination Week](https://en.wikipedia.org/wiki/
 #### Classics
 
 > **Trifles make perfection, and perfection is no trifle.**\
-attributed to _Michelangelo_ (1475-1564) about his David statue\
+Attributed to _Michelangelo_ (1475-1564) about his David statue\
 (for which allegedly the Master surveyed the marble piece for two years)
 
  #### Naturalism 
@@ -232,7 +232,7 @@ _Alexander Pope_, poet (1688-1744)
 
 #### Bottom line
 
-> **Commit a few bugs, they call you a failure. Deliver a million and you're a Founder.**
+> **Commit a few bugs, and they call you a failure. Release a million and you're a Founder.**
 
 
 \_________________________________</details>
