@@ -36,11 +36,11 @@ radar-beta
 ```
 
 * "**Physical**" &thinsp;&mdash;&thinsp; a pointer&thinsp;/&thinsp;reference steps out of physical&thinsp;/&thinsp;logical memory
-* "**Technical**" &thinsp;&mdash;&thinsp; not supposed to occur (as an extreme case, a number becomes `null`).
-* &nbsp;**App Logic** &thinsp;&mdash;&thinsp; actually unassigned or nulled declarations. _<samp>Mea culpa</samp>_.
+* "**Technical**" &thinsp;&mdash;&thinsp; not supposed to occur (as an extreme case, a number becomes `null`). A system bug.
+* &nbsp;**App Logic** &thinsp;&mdash;&thinsp; actually unassigned or nulled declarations. No magic, _<samp>mea culpa</samp>_.
 
-I bet the last case caused the worldwide alarm and triggered big discussions and proposals. 
-However, `null` and its reference are natural there &thinsp;&mdash;&thinsp; exceptions, they may throw, are only a symptom of programming mistakes and logical flaws.
+I bet the last case feeds loud worldwide discussions and proposals. 
+However, `null` and its reference are natural there. Exceptions, thrown when nulls are referred to, are only a symptom of programming mistakes and logical flaws.
 
 <h2 align="center">Much Ado About <code>Nothing</code>&thinsp;?</h2>
 
@@ -50,7 +50,7 @@ However, `null` and its reference are natural there &thinsp;&mdash;&thinsp; exce
 Null references aren't CPU vulnerabilities as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that no software patch can fix. 
 It's not even a peer to the Y2K problem, which stemmed from the explicit negligence to eliminate with explicit enhancement.
 
-Botched global updates, blackouts, and catastrophic failures were caused by logical errors of different origins, in which exception names played a secondary role. 
+Botched global updates, blackouts, and catastrophic failures were caused by logical errors of different origins, when exception names play a secondary role. 
 
 Except one type &thinsp;&mdash;&thinsp; many disasters multiplied and spread because there was no sign of exception or error.
   
@@ -61,7 +61,7 @@ Middle and big software providers permanently collect reports on errors, which c
 Their statistics give `NullReference` the first place (from my experience too). Many of these errors are difficult to trace, reproduce, and debug. 
 Those not regular and critical may stay for years with the lowest priority for investigation.
 
-Time and size populate projects' closets with ghost `NullReference` errors &thinsp;&mdash;&thinsp; the syndrome of the design decadence, which mostly gets symptomatic treatment.
+Time and size populate projects' closets with ghost `NullReference` errors &thinsp;&mdash;&thinsp; the syndrome of the design decadence, which often gets symptomatic treatment.
 
 </td></tr></table>
 
@@ -69,13 +69,13 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 <p align="center"><b>Charging <code>null</code> for errors is like accusing <code>zero</code> for one can divide by it.</b></p>
 
-First of all, `NullReference` is not a popped transistor, ghost, bug, stub, rudiment, or malware. It's a logical, initial, and valid state of objects. When neglected, it sincerely warns about a breach.
+First of all, `NullReference` is not a popped transistor, phantom, bug, stub, rudiment, or malware. It's a logical, initial, and valid state of objects. When neglected, it sincerely warns about a breach.
 
 ### Blaming the messenger
 
 Errors in delivered software are annoying since **_1)_** [it worked on my machine](../../memes/README+/polyptych_works.md), and **_2)_** they could be a headache to debug. No wonder `NullReference` got a magnified reputation.
 
-The bad idea is that ignoring or silencing it may cure the problem (though sometimes it works).
+The bad approach is that ignoring or silencing may cure the problem (though sometimes it works, for a while).
 
 ### "Scapegoating" (≠ Goatscaping) 
 
@@ -90,22 +90,22 @@ Based on true stories.
 
 ## Foam (Apply theory)
 
-**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment. **Let's do it ourselves ...**
+**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment, leaving us alone with this problem.
 
-I wouldn't like to classify Null traps by managed/unmanaged, pointer vs. reference vs index, but break them into three **BE**s:
+I wouldn't like to classify _null_ traps by managed/unmanaged, pointer vs. reference vs index, but break them into three **BE**s:
 
 * **CAN'T** BE &thinsp;&mdash;&thinsp; the assignee (field, variable, or object) can **never** be null.\
-And only a peculiar glitch allowed setting it.
-* **SHAN'T** BE &thinsp;&mdash;&thinsp; the assignee can have Null value but not in this place\
-(PENDING: booking example)
-* **MUST** BE &thinsp;&mdash;&thinsp; Surpsisinly? The value must be null there, but either falsely stubbed or set default.
+And only a peculiar glitch allowed setting it. E.g., objects coming from builders.
+* **SHAN'T** BE &thinsp;&mdash;&thinsp; the assignee can take _null_ but not now or here.\
+E.g. a booking request can be _null_ when returned or cancelled, but not when submitted to the invoice routine.
+* **MUST** BE &thinsp;&mdash;&thinsp; Surpsisinly opposite? The value must be null there, but either falsely stubbed or set default.
 
-<div align="right">&nbsp; &nbsp; <sup>&empty;</sup> <samp>Null in math means zero or empty set. As it's _zero_ in German.</samp></div>
-<div align="right">&nbsp; &nbsp; <sup>&empty;&empty;</sup> <samp>Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.</samp></div>
+<div align="right">&nbsp; &nbsp; <sup>&empty;</sup> <samp>Null in math means zero or empty set. As it's <i>zero</i> in German.</samp></div>
+<div align="right">&nbsp; &nbsp; <sup>&empty;🖱️</sup> <samp>Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.</samp></div>
 
-### Then what's the problem to debug ?
+### What's the problem to debug?
 
-<table><tr><td><picture><img alt="&nbsp;🐝✒️ WRITING IN PROGRESS🚧" src="../../" /></picture></td><td>
+<table><tr><td><picture><img alt="&nbsp;✒️ WRITING IN PROGRESS🚧" src="../../" /></picture></td><td>
 
 Besides remembering bad cases, which aren't an excuse ...
    
@@ -113,25 +113,41 @@ Besides remembering bad cases, which aren't an excuse ...
 
 ## Rinse (Back to keyboard)
 
-First and foremost, there's no magic wand to get rid of the `NullReference` errors, as clickbait titles try to sell. And there shall not be.
+First and foremost, there's no magic wand to get rid of the `NullReference` errors, as clickbait titles try to sell. And there shall be none.
+
+Besides sound logic, [quality code](../../../../software/QA/README+/code-quality.md) and apparent measures (including language aid), the following practices must prevent unexpected exceptions:
 
 ### Do not hide
 
 Relying on default or _pro forma_ values instead of `null` obviously paves the way to epic fails.
 
+### Every null check must be sane
+
+☝️ If a check allows _null_ to propagate or replaces it with a value, it's definitely for the logic &thinsp;&mdash;&thinsp; not to avoid further exceptions or IDE warnings.
+
+In the 2020s decade, mainstream languages tempt you to chain null checks: ```Book?.Author?.Name?.Middle is null or ""```
+
+Here, a lucid proof of the optional name builds a multi-level shelter for bugs.
+
+### Guards
+
+Be the first to throw.
+
 ### Do not treat as empty&thinsp;/&thinsp;zero
 
-Besides [quality code](../../../../software/QA/README+/code-quality.md) and apparent measures the following practices may ensure assignment:
+```if (fridge.IsNullOrEmpty) order(ice);``` // there could be no fridge and the ice will melt
 
-+ Eliminating null declarations\
+### Eliminating null declarations
+
 Builders/Factories/Wizard
 
-+ Distinguish\
-Javascript
-    Replace Null with more specific things : NotSet
+### Distinguish
 
+JavaScript has a native `undefined`. In other languages, a never set value may throw a specific exception, like in this tailored property [`AbsYear`](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcChrono/Timescales/Models/Hap.cs).
 
-## Epilogue
+Bad idea: setting a specific object, which will only mask `null` and make matters worse.
+
+<h2 align="center">Epilogue</h2>
 
 The real billion-dollar mistake is ignorance.
 
