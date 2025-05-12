@@ -2,7 +2,7 @@
 
 > **Guaranteed to be authentic** &mdash; not another paraphrase of [wiki articles](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup><b>w</b></sup>
 
-# Intramural experience&nbsp;&nbsp;&mdash;&nbsp;&nbsp;short and vintage
+# Intramural experience &nbsp;&mdash;&nbsp; short and vintage
 
 <table><tr valign="top"><td><picture><img width="333px" alt="&nbsp;Ancient Egypt bas-relief" src="../../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg" /></picture><br />
       <a href="../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg">
@@ -10,7 +10,7 @@
       <picture><img width="333px" alt="&nbsp;Please do not bend" src="../../../../_rsc/_img/signs/do_not_bend-vert_h200px.jpg" /></picture>
                   </td><td>
                         
-Long after their decline, punching technology and its carton carrier remained coursework at my university. **Till** the supply of cards became extinct &thinsp;&mdash;&thinsp; I caught the last year of this legacy.
+Long after their decline, punching technology and its carton carrier remained coursework at my university. **Till**&nbsp;the&nbsp;supply of cards became extinct &thinsp;&mdash;&thinsp; I caught the last year of this legacy.
                         
 ## The Task
       
@@ -43,16 +43,16 @@ The motivation was so strong (as you might feel) that many succeeded in the firs
 
 Between **(4)** and **(5)**, a fellow disciple intruded, shuffling my deck unnoticed. Instead of the graph, I got bad (machine) language printed, and a lesson learned about data integrity and security.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🥪</sup> <sub>I wonder how it may look object-oriented. A card glued over the base one to inherit or override&thinsp;?</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🛠️</sup> <sub>Precisionists can definitely treat their occupation as true absolute coders.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🏛️</sup> <sub>One who saw mainframes would advocate the name for this huge open space hall with metal cabinets.</sub>
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🥪</sup> <sub>I wonder how it may look object-oriented. A card glued over the base one to inherit or override&thinsp;?</sub>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🛠️</sup> <sub>Precisionists can find their occupation as true absolute coders.</sub>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🏛️</sup> <sub>One who saw mainframes would advocate the name for this huge open space hall with metal cabinets.</sub>
 
 </td></tr></table>
 
 <h1 align="right">Extramural afterword</h1>
 
 This mediocre story is a chance to remind the reader of the outstanding traits of this medium, &mdash; 
-despite its fast decadence predetermined by data density (it couldn't get either mini/micro or double side next).
+despite its fast decadence, predetermined by data density (it couldn't get either mini/micro or double-sided next).
 
 I venture to propose punch cards as a backup if computer illiteracy ages come<sup>📚</sup> or for extraterrestrial spam<sup>🚀</sup>. And that's why:
 
@@ -63,12 +63,12 @@ Any mechanical action, dirt, temperature, or humidity, that can damage them, wil
 It's not about household magnets, short circuits, and solar flares. Punch cards will survive nuclear disasters and [gamma-ray bursts](https://en.wikipedia.org/wiki/Gamma-ray_burst)<sup><b>w</b></sup>.
 + They have a look&feel of data storage, easy to read<sup>🪢</sup> manually or with DIY device.
 + Eco-friendly and highly utilizable. 
-Even if the data remains unclaimed or safely copied, our heirs or other species may use the cards as our ancestors: bookmarks, pads, or fans.
+Even if the data remains unclaimed or safely copied, our heirs or other species may use the cards as our ancestors did: bookmarks, pads, or fans.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📚</sup> <sub>As it happened with the Writing in centuries before Homer.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🚀</sup> <sub>A deck of punchcards could make a better impression than naive [Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque) 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>📚</sup> <sub>As it happened with the Writing in centuries before Homer.</sub>\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>🚀</sup> <sub>A deck of punchcards could make a better impression than naive [Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque) 
 and volatile mundane [phonograph records](https://en.wikipedia.org/wiki/Voyager_Golden_Record)<sup><b>w</b></sup>.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🪢</sup> <sub>Though there was a joke that IBM's positioning of holes won the US government bid for encryption.</sub>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>🪢</sup> <sub>Though there was an joke that IBM's positioning of holes won the US government bid for encryption.</sub>
 
 \_______\
  🔚 &nbsp; 🌙 kyriosity 2024-2025
