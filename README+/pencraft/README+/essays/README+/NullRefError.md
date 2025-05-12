@@ -40,7 +40,7 @@ radar-beta
 * &nbsp;**App Logic** &thinsp;&mdash;&thinsp; actually unassigned or nulled declarations. _<samp>Mea culpa</samp>_.
 
 I bet the last case caused the worldwide alarm and triggered big discussions and proposals. 
-However, `NullReference` there is essential, and an exception over it is only a symptom.
+However, `null` and its reference are natural there &thinsp;&mdash;&thinsp; exceptions, they may throw, are only a symptom of programming mistakes and logical flaws.
 
 <h2 align="center">Much Ado About <code>Nothing</code>&thinsp;?</h2>
 
@@ -92,16 +92,16 @@ Based on true stories.
 
 **Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment. **Let's do it ourselves ...**
 
-I wouldn't like to classify Null traps by managed/unmanaged, pointer vs. reference vs indexbut break them into three **BE**s:
+I wouldn't like to classify Null traps by managed/unmanaged, pointer vs. reference vs index, but break them into three **BE**s:
 
 * **CAN'T** BE &thinsp;&mdash;&thinsp; the assignee (field, variable, or object) can **never** be null.\
-And only technical possibility allowed a logical flaw to set it.
+And only a peculiar glitch allowed setting it.
 * **SHAN'T** BE &thinsp;&mdash;&thinsp; the assignee can have Null value but not in this place\
 (PENDING: booking example)
-* **MUST** BE &thinsp;&mdash;&thinsp; Surpsisinly? The value can be null but either falsely stubbed or can't be nulled.
+* **MUST** BE &thinsp;&mdash;&thinsp; Surpsisinly? The value must be null there, but either falsely stubbed or set default.
 
-&nbsp; &nbsp; <sup>&empty;</sup> <samp>Null in math means zero or empty set. As it's _zero_ in German.</samp>\
-&nbsp; &nbsp; <sup>&empty;&empty;</sup> <samp>Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.</samp>
+<div align="right">&nbsp; &nbsp; <sup>&empty;</sup> <samp>Null in math means zero or empty set. As it's _zero_ in German.</samp></div>
+<div align="right">&nbsp; &nbsp; <sup>&empty;&empty;</sup> <samp>Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.</samp></div>
 
 ### Then what's the problem to debug ?
 
