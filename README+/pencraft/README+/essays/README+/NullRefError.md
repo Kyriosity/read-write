@@ -56,7 +56,7 @@ Botched global updates, blackouts, and catastrophic failures were caused by logi
   
 </td><td><picture><img alt="&nbsp; Yin&Yang under null sign" src="../../../../_rsc/_img/signs/YinYangNull.png" /></picture></picture></td><td>
 
-Middle and big software providers permanently collect reports on errors, which crash their products, get handled, or run undercover (unnoticed).
+When a number of software installations is significant, providers continuously collect reports on errors, which crash their products, get handled, or run undercover (unnoticed).
 
 Their statistics give `NullReference` the first place (from my experience too). Many of these errors are difficult to trace, reproduce, and debug. 
 Those not regular and critical may stay for years with the lowest priority for investigation.
@@ -159,12 +159,13 @@ JavaScript has a native `undefined`. In other languages, a never set value may t
 
 ## <a id="null-case" />Bottom lines
 
-<sup>🙋</sup> I find personal stories the last shelter of narrators unless it's a full match and a good backup.
+<sup>🙋</sup> I find personal stories the last shelter of narrators unless it's a full match and a good backup. This must be the case.
 
 > I can remember a contractor for a big, really big, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
 After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](LN-view.md) and returned to his daily need - [NFS](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
 >
-> Occasionally, a peer developer picked this problem (for the sake of the team) to dive into the hand-obfuscated code. After making the brain function on all cylinders, the Swiss cheese was found: a rather hidden setter.
+> Occasionally, a peer developer picked this problem (for the sake of the team) to dive into the hand-obfuscated code. After making the brain function on all cylinders, the slices of Swiss cheese coincided to reveal a malicious an<i>null</i>er. Fixed.\
+> &nbsp;
 
 **Moral?** Imagining the number of cases without a happy twist, Sir Hoare may surely write off a digit from the tech debt he shouldered.
 
