@@ -125,7 +125,13 @@ Relying on default or _pro forma_ values instead of `null` obviously paves the w
 
 ### Every null check must be sane
 
-☝️ If a check allows _null_ to propagate or replaces it with a value, it's definitely for the logic &thinsp;&mdash;&thinsp; not to avoid further exceptions or IDE warnings.
+<table><tr></tr><tr valign="center"><td>☝️</td><td>
+
+If a check allows _null_ to propagate or replaces it with a value, it must be certain for the logic &thinsp;&mdash;&thinsp;\
+not to avoid further exceptions or IDE warnings.
+   
+</td></tr></table>
+
 
 In the 2020s decade, mainstream languages tempt you to chain null checks: ```Book?.Author?.Name?.Middle is null or ""```
 
@@ -138,6 +144,8 @@ Be the first to throw.
 ### Do not treat as empty&thinsp;/&thinsp;zero
 
 ```if (fridge.IsNullOrEmpty) order(ice);``` // there could be no fridge and the ice will melt
+
+Inspired by C# `string.IsNullOrWhitespace(..)`
 
 ### Eliminating null declarations
 
