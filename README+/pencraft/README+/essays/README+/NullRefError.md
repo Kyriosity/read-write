@@ -82,7 +82,7 @@ The bad approach is that ignoring or silencing may cure the problem (though some
 When the source of a problem isn't evident, it's a time to explain it with the order of planets, air from bogs, bad morale, or errors of others. 
 It's easier to refer the perplexed cases of `NullReference` to the peculiarities and bugs of the underlying platforms.
 
-Based on true stories.
+Based on <a href="#null-case">true stories</a>.<sup title="Read one in bottom lines">🙋</sup>
 
 <h1 align="center">Null <mark>&thinsp;&empty;🚿</mark> Washing</h2>
 
@@ -92,7 +92,7 @@ Based on true stories.
 
 **Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment, leaving us alone with this problem.
 
-Null isn't a value (it maybe memory 0) but agrrement. 
+Null isn't a value (it may be memory 0), but agreement. 
 
 I wouldn't like to classify _null_ traps by managed/unmanaged, pointer vs. reference vs index, but break them into three **BE**s:
 
@@ -100,7 +100,7 @@ I wouldn't like to classify _null_ traps by managed/unmanaged, pointer vs. refer
 And only a peculiar glitch allowed setting it. E.g., objects coming from builders.
 * **SHAN'T** BE &thinsp;&mdash;&thinsp; the assignee can take _null_ but not now or here.\
 E.g. a booking request can be _null_ when returned or cancelled, but not when submitted to the invoice routine.
-* **MUST** BE &thinsp;&mdash;&thinsp; Surpsisinly opposite? The value must be null there, but either falsely stubbed or set default.
+* **MUST** BE &thinsp;&mdash;&thinsp; Surpsisinly opposite? The value must be null there, but either falsely stubbed or set to a default.
 
 <div align="right">&nbsp; &nbsp; <sup>&empty;</sup> <samp>Null in math means zero or empty set. As it's <i>zero</i> in German.</samp></div>
 <div align="right">&nbsp; &nbsp; <sup>&empty;🖱️</sup> <samp>Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.</samp></div>
@@ -157,8 +157,9 @@ JavaScript has a native `undefined`. In other languages, a never set value may t
 
 Bad idea: setting a specific object, which will only mask `null` and make matters worse.
 
-<h2 align="center">Epilogue</h2>
+## <a id="null-case" />Bottom lines
 
+<sup>🙋</sup>
 The real billion-dollar mistake is ignorance.
 
 \___________\
