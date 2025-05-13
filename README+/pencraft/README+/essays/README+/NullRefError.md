@@ -1,4 +1,4 @@
-<h1 align="center"><code>Null</code>, its reference, and the Mistake<br />🔎&empty;</h1>
+<h1 align="center"><code>Null</code>, its Reference, and its Mistake<br />🔎&empty;</h1>
 
 <table><tr valign="top"><td><picture><img alt="&thinsp; Gibson Dam, Montana - drain (Wiki)" src="../../../../_rsc/_img/photo/build/Gibson_Dam-Montana-drain.jpg" 
    title="&nbsp;Gibson Dam, Montana, drain&#010;Source: Wiki media" /></picture>
