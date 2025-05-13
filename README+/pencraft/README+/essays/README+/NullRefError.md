@@ -145,7 +145,7 @@ Be the first to throw.
 
 ```if (fridge.IsNullOrEmpty) order(ice);``` // there could be no fridge and the ice will melt
 
-Inspired by C# `string.IsNullOrWhitespace(..)`
+Inspired by C# `string.IsNullOrWhitespace(..)`.
 
 ### Eliminating null declarations
 
@@ -155,12 +155,18 @@ Builders/Factories/Wizard
 
 JavaScript has a native `undefined`. In other languages, a never set value may throw a specific exception, like in this tailored property [`AbsYear`](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcChrono/Timescales/Models/Hap.cs).
 
-Bad idea: setting a specific object, which will only mask `null` and make matters worse.
+👎 Bad idea: setting a specific object, which will only mask `null` and make matters worse.
 
 ## <a id="null-case" />Bottom lines
 
-<sup>🙋</sup>
-The real billion-dollar mistake is ignorance.
+<sup>🙋</sup> I find personal stories the last shelter of narrators unless it's a full match and a good backup.
+
+> I can remember a contractor for a big, really big, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
+After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](LN-view.md) and returned to his daily need - [NFS](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
+>
+> Occasionally, a peer developer picked this problem (for the sake of the team) to dive into the hand-obfuscated code. After making the brain function on all cylinders, the Swiss cheese was found: a rather hidden setter.
+
+**Moral?** Imagining the number of cases without a happy twist, Sir Hoare may surely write off a digit from the tech debt he shouldered.
 
 \___________\
 🔚 &empty; 2025  image credits: Wiki Commons, kyriosity
