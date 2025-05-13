@@ -5,7 +5,7 @@
 </td><td>
 
 **`NullReference` earned a horrible reputation as an _exceptional_ pest.** Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
-they strike everywhere, in safe and unmanaged code, and have no mercy on  junior and seasoned developers.
+they strike everywhere, in safe and unmanaged code, on bolted ancient mainframes and in clouds, and have no mercy on  junior and seasoned developers.
 
 [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame for being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
@@ -36,10 +36,10 @@ radar-beta
 ```
 
 * "**Physical**" &thinsp;&mdash;&thinsp; a pointer&thinsp;/&thinsp;reference steps out of physical&thinsp;/&thinsp;logical memory
-* "**Technical**" &thinsp;&mdash;&thinsp; not supposed to occur (as an extreme case, a number becomes `null`). A system bug.
+* "**Technical**" &thinsp;&mdash;&thinsp; null as value/reference is not supposed to occur (as an extreme case, a number turns to be `null`). A system bug.
 * &nbsp;**App Logic** &thinsp;&mdash;&thinsp; actually unassigned or nulled declarations. No magic, _<samp>mea culpa</samp>_.
 
-I bet the last case prevails and feeds loud worldwide duspute. 
+I bet the last case prevails and promotes the worldwide concern. 
 However, `null` and its reference are natural there. Exceptions from its references are only a symptom of programming mistakes and logical flaws.
 
 <h2 align="center">Much Ado About <code>Nothing</code>&thinsp;?</h2>
@@ -52,7 +52,7 @@ It's not even a peer to the Y2K problem, which stemmed from the explicit neglige
 
 Botched global updates, blackouts, and catastrophic failures were caused by logical errors of different origins, when exception names play a secondary role. 
 
-Except one type &thinsp;&mdash;&thinsp; many disasters multiplied and spread because there was no sign of exception or error.
+(Except one type &thinsp;&mdash;&thinsp; many disasters multiplied and spread because there was no sign of exception or error.)
   
 </td><td><picture><img alt="&nbsp; Yin&Yang under null sign" src="../../../../_rsc/_img/signs/YinYangNull.png" /></picture></picture></td><td>
 
@@ -91,6 +91,8 @@ Based on true stories.
 ## Foam (Apply theory)
 
 **Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment, leaving us alone with this problem.
+
+Null isn't a value (it maybe memory 0) but agrrement. 
 
 I wouldn't like to classify _null_ traps by managed/unmanaged, pointer vs. reference vs index, but break them into three **BE**s:
 
