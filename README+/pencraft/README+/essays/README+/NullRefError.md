@@ -5,12 +5,12 @@
 </td><td>
 
 **`NullReference` earned a horrible reputation as an _exceptional_ pest.** Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
-they strike everywhere, in safe and unmanaged code, on bolted ancient mainframes and in clouds, and have no mercy on  junior and seasoned developers.
+they strike in safe and unmanaged code, in bolted to the floor mainframes and in clouds, and don't distinguish junior and seasoned developers.
 
-[Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame for being this _Frankenstein_ who brought the 
+_Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame of being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
 
-A sinister _Gordian_ blockchain that nobody great can cut to stop collecting its billion toll.
+But who Great will cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.
 
 \___________\
 <samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`.
@@ -73,16 +73,17 @@ First of all, `NullReference` is not a popped transistor, phantom, bug, stub, ru
 
 ### Blaming the messenger
 
-Errors in delivered software are annoying since **_1)_** [it worked on my machine](../../memes/README+/polyptych_works.md), and **_2)_** they could be a headache to debug. No wonder `NullReference` got a magnified reputation.
+Errors in delivered software are annoying since **_1)_** [it worked on my machine](../../memes/README+/polyptych_works.md), and **_2)_** they could be a headache to debug. No wonder `NullReference` got a magnified dislove.
 
 The bad approach is that ignoring or silencing may cure the problem (though sometimes it works, for a while).
 
 ### "Scapegoating" (≠ Goatscaping) 
 
 When the source of a problem isn't evident, it's a time to explain it with the order of planets, air from bogs, bad morale, or errors of others. 
-It's easier to refer the perplexed cases of `NullReference` to the peculiarities and bugs of the underlying platforms.
 
-Based on <a href="#null-case">true stories</a>.<sup title="Read one in bottom lines">🙋</sup>
+It's luring to refer the perplexed cases of `NullReference` to the peculiarities and bugs of the underlying platforms.
+
+(Based on <a href="#null-case">true stories</a>.<sup title="Read one in bottom lines">🙋</sup>)
 
 <h1 align="center">Null <mark>&thinsp;&empty;🚿</mark> Washing</h2>
 
@@ -127,8 +128,9 @@ Relying on default or _pro forma_ values instead of `null` obviously paves the w
 
 <table><tr></tr><tr valign="center"><td>☝️</td><td>
 
-If a check allows _null_ to propagate or replaces it with a value, it must be certain for the logic &thinsp;&mdash;&thinsp;\
-not to avoid further exceptions or IDE warnings.
+If a check allows _null_ to propagate or replaces it with a value,\
+✅ it must be CERTAIN for the logic &thinsp;&mdash;&thinsp;\
+❌ not to avoid further exceptions or IDE warnings.
    
 </td></tr></table>
 
@@ -167,7 +169,7 @@ After sacrificing a couple of hours, he addressed this pesky _null_ to the dark 
 > Occasionally, a peer developer picked this problem (for the sake of the team) to dive into the hand-obfuscated code. After making the brain function on all cylinders, the slices of Swiss cheese coincided to reveal a malicious an<i>null</i>er. Fixed.\
 > &nbsp;
 
-**Moral?** Imagining the number of cases without a happy twist, Sir Hoare may surely write off a digit from the tech debt he shouldered.
+**MORAL?** Imagining the number of cases without a happy twist, Sir Hoare may surely write off a digit from the tech debt he shouldered.
 
 \___________\
 🔚 &empty; 2025  image credits: Wiki Commons, kyriosity
