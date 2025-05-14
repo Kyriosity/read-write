@@ -10,7 +10,7 @@ they strike in safe and unmanaged code, in bolted to the floor mainframes and in
 _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame of being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
 
-But who Great will cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.
+But who _Great_ will cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll?
 
 \___________\
 <samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`.
@@ -71,6 +71,8 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 First of all, `NullReference` is not a popped transistor, phantom, bug, stub, rudiment, or malware. It's a logical, initial, and valid state of objects. When neglected, it sincerely warns about a breach.
 
+Besides plain cases, NullReference may be the visible summit of the iceberg made of logical faults. 
+
 ### Blaming the messenger
 
 Errors in delivered software are annoying since **_1)_** [it worked on my machine](../../memes/README+/polyptych_works.md), and **_2)_** they could be a headache to debug. No wonder `NullReference` got a magnified dislove.
@@ -79,9 +81,9 @@ The bad approach is that ignoring or silencing may cure the problem (though some
 
 ### "Scapegoating" (≠ Goatscaping) 
 
-When the source of a problem isn't evident, it's a time to explain it with the order of planets, air from bogs, bad morale, or errors of others. 
+When the source of a problem isn't evident, it's a time to explain it with the order of planets, air from bogs, bad demeanor, or faults of others. 
 
-It's luring to refer the perplexed cases of `NullReference` to the peculiarities and bugs of the underlying platforms.
+It's luring to relate the perplexed cases of `NullReference` to the peculiarities and bugs of the underlying platforms.
 
 (Based on <a href="#null-case">true stories</a>.<sup title="Read one in bottom lines">🙋</sup>)
 
@@ -100,19 +102,11 @@ I wouldn't like to classify _null_ traps by managed/unmanaged, pointer vs. refer
 * **CAN'T** BE &thinsp;&mdash;&thinsp; the assignee (field, variable, or object) can **never** be null.\
 And only a peculiar glitch allowed setting it. E.g., objects coming from builders.
 * **SHAN'T** BE &thinsp;&mdash;&thinsp; the assignee can take _null_ but not now or here.\
-E.g. a booking request can be _null_ when returned or cancelled, but not when submitted to the invoice routine.
+E.g., a booking request can be _null_ when returned or cancelled, but not when submitted to the invoice routine.
 * **MUST** BE &thinsp;&mdash;&thinsp; Surpsisinly opposite? The value must be null there, but either falsely stubbed or set to a default.
 
 <div align="right">&nbsp; &nbsp; <sup>&empty;</sup> <samp>Null in math means zero or empty set. As it's <i>zero</i> in German.</samp></div>
 <div align="right">&nbsp; &nbsp; <sup>&empty;🖱️</sup> <samp>Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.</samp></div>
-
-### What's the problem to debug?
-
-<table><tr><td><picture><img alt="&nbsp;✒️ WRITING IN PROGRESS🚧" src="../../" /></picture></td><td>
-
-Besides remembering bad cases, which aren't an excuse ...
-   
-</td></tr></table>
 
 ## Rinse (Back to keyboard)
 
@@ -129,7 +123,7 @@ Relying on default or _pro forma_ values instead of `null` obviously paves the w
 <table><tr></tr><tr valign="center"><td>☝️</td><td>
 
 If a check allows _null_ to propagate or replaces it with a value,\
-✅ it must be CERTAIN for the logic &thinsp;&mdash;&thinsp;\
+✅ it must be deliberately for the logic &thinsp;&mdash;&thinsp;\
 ❌ not to avoid further exceptions or IDE warnings.
    
 </td></tr></table>
@@ -157,16 +151,16 @@ Builders/Factories/Wizard
 
 JavaScript has a native `undefined`. In other languages, a never set value may throw a specific exception, like in this tailored property [`AbsYear`](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcChrono/Timescales/Models/Hap.cs).
 
-👎 Bad idea: setting a specific object, which will only mask `null` and make matters worse.
+Bad approach: setting a specific object, which will only mask `null` and make matters worse.
 
 ## <a id="null-case" />Bottom lines
 
 <sup>🙋</sup> I find personal stories the last shelter of narrators unless it's a full match and a good backup. This must be the case.
 
-> I can remember a contractor for a big, really big, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
+> I can remember a contractor for a big, really, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
 After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](LN-view.md) and returned to his daily need - [NFS](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
 >
-> Occasionally, a peer developer picked this problem (for the sake of the team) to dive into the hand-obfuscated code. After making the brain function on all cylinders, the slices of Swiss cheese coincided to reveal a malicious an<i>null</i>er. Fixed.\
+> Occasionally, a peer developer picked this problem (for the team's sake) to dive into the hand-obfuscated code. After making the brain function on all cylinders, the slices of Swiss cheese coincided to reveal a malicious an<i>null</i>er. Fixed.\
 > &nbsp;
 
 **MORAL?** Imagining the number of cases without a happy twist, Sir Hoare may surely write off a digit from the tech debt he shouldered.
