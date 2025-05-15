@@ -1,6 +1,6 @@
-# Software &nbsp;&mdash;&nbsp; Naming and Categorization
+<p dir="rtl"><i>«...&nbsp;In the beginning was the Word</i>»</p>
 
-<blockquote dir="rtl"><b><i>«...&nbsp;In the beginning was the Word</i>»</b></blockquote>
+# Software &nbsp;&mdash;&nbsp; Naming and Categorization
 
 <table><tr valign="top"><td width="20%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
@@ -16,12 +16,11 @@ one wading through the thorns of poorly named and labyrinthine code, abatis of d
 
 ## Categorization
 
-Categorization&thinsp;/&thinsp;classification plays a more profound role than breaking collocations and sentences and building the folder hierarchy. &mdash; 
-It frames abstractions.
+Categorization&thinsp;/&thinsp;classification plays a more profound role than breaking collocations and sentences and building the folder hierarchy.&nbsp;&thinsp;&mdash;&thinsp;&nbsp;It&nbsp;frames abstractions.
 
 If folks could categorize myriads of wretched boulders in the _Oort cloud_ and paltry insects, it must not be a big deal for unique by-nature software entities.
 
-The challenge is the accurate layout. Our imagination tries to align even bizarre names to the right meaning and aliases, but takes on trust their categories.
+The challenge is the accurate layout. Our imagination tries to align doubtful and even bizarre names to the right meaning and aliases, but takes on trust their categories.
 
 \___________\
 As a negative sample, GitHub is full of shallow folders and huge lists even for corporate projects. Namespaces of frameworks and languages often look like a verbal dump.
