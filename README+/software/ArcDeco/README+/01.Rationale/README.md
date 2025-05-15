@@ -7,7 +7,7 @@
 <details><summary><ins>&nbsp;&nbsp;&nbsp;A metaphor you may skip&nbsp;</ins>&nbsp;...</summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... but (thanks) you've clicked.
 
-<p dir="rtl">A cherry-picked <b>metaphor</b><br />.simplifies explanation<br />(.At times even for readers)</p>
+<p dir="rtl">A cherry-picked <b>metaphor</b><br />simplifies explanation<br />.(at times even for readers)</p>
 
 <table><tr valign="top"><td><p><b>Figure of chess is a universal figure of speech...</b><sup>♟️</sup></p>
   <p><img alt="&nbsp;IT chess phantasy" src="../../../../_rsc/_img/illus/ChessIT.jpg" /></p>
@@ -21,26 +21,30 @@ Checked - principal changes are done with Woodoo programming.
 
 Stalemate - the project works, but big features can hardly be added.
 
-Mate - dev stops only support. The time to give it away to another team and speak about a remake on other technologies.
+Mate - dev stops, support only. The time to give it away to another team and speak about a remake in other technologies.
   
 </td><td>
-<p>♕♛ Learning elementary programming and the rules of the checkered strategy are both fast, enjoyable, and attainable for the masses. 
-Starting programming resembles games of neophytes: <i>blitz</i> (wins follow fails), fun, and visibly improving.</p>
+  
+♕♛ Learning elementary programming and the rules of the checkered strategy are both fast, enjoyable, and attainable for the masses. 
+Starting programming resembles games of neophytes: <i>blitz</i> (wins follow fails), fun, and visibly improving.
 
-<p>♖♜ Understanding and learning principles and check patterns will prevent blunders, but not positional traps of better opponents.<br />
-In like manner, a keen junior will soon write good pieces of code but shaky solutions.</p>
+♖♜ Understanding and learning principles and check patterns will prevent blunders, but not positional traps of better opponents.\
+In like manner, a keen junior will soon write good pieces of code but shaky solutions.
 
-<p>♗♝ Chess openings rest on studied, memorized decisions and strong theory. In software, it means IT education, selection of platforms, frameworks, and external parts, when experimentation and creativity are abnormal</p>
+♗♝ Chess openings rest on studied, memorized decisions and strong theory. In software, it implies IT literacy, computer science, selection of platforms, frameworks, 
+and external parts, when experimentation and creativity are abnormal.
 
-<p>♘♞ Then the perception of combinatory vastness and the need to think in several moves lifts the curtain of first naive impressions.<br />
-There are only three "moves" in programming: `AND`, `OR`, `NOT` over bits, but they provide even the bigger than <code><b>&gt;</b>&thinsp;8x8</code> space for fantasies and alternative solutions.</p>
+♘♞ Then the perception of combinatory vastness and the need to think in several moves lifts the curtain of first naive impressions.\
+There are only three "moves" in programming: `AND`, `OR`, `NOT` over bits, but they provide even the bigger than <code><b>&gt;</b>&thinsp;8x8</code> space for fantasies and alternative solutions.
 
 <p>Passion wouldn't be enough to rise much higher &thinsp;&mdash;&thinsp; learning and understanding of theory become essential along with games against stronger opponents. &thinsp;&mdash;&thinsp;
 The number of games or written applications won't break the ceiling.<sup>👑</sup></p>
   
-<p>In chess, theoretical roadmaps and schools lead to higher ratings, ruthlessly showing one's place. <b>Here, the metaphor breaks down.</b> 
-Software ways to craftsmanship are inscrutable and assessed by eye.</p>
-<div dir="rtl"><sub>&mdash; Popular chess servers can brag about legends&nbsp;&nbsp;&mdash; not bots, but pausing for sleep only</sub><sup>👑</sup><br /><sub>with an astronomical number of games but slightly growing amateur ELO ratings.</sub></div>
+In chess, theoretical roadmaps and schools lead to higher ratings, ruthlessly administering one's place. <b>Here, the metaphor breaks down.</b> 
+Software ways to craftsmanship are inscrutable and assessed by eye.
+
+<div dir="rtl"><sub>&mdash; Popular chess servers can brag about legends&nbsp;&nbsp;&mdash; not bots, but pausing for sleep only</sub><sup>👑</sup><br />
+.<sub>with an astronomical number of games but slightly growing amateur ELO ratings</sub></div>
 
 </td></tr></table></details>
 
