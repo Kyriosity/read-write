@@ -17,7 +17,9 @@ But who _Great_ will cut this sinister _Gordian_ "blockchain" to stop  collectin
 
 </td></tr></table>
 
-<sup>🎥</sup> If you can't make the 1950s subscripts **and** today's unassigned declarations meet &nbsp;&mdash;&nbsp; you are **not** alone. 
+<sup>🎥</sup> If you can't make the 1950s subscripts **and** today's exceptions meet &nbsp;&mdash;&nbsp; you are **not** alone. 
+
+let's define what is the subject. null or reference?
 
 <h4 align="center">Let my shaky pen and subjective experience sketch the NullReference reflection:</h4>
 
@@ -158,12 +160,12 @@ Bad approach: setting a specific object, which will only mask `null` and make ma
 <sup>🙋</sup> I find personal stories the last shelter of narrators unless it's a full match and a good backup. This must be the case.
 
 > I can remember a contractor for a big, really, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
-After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](LN-view.md) and returned to his daily need - [NFS](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
+After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](LN-view.md) and returned to his daily need - [NfS](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
 >
-> Occasionally, a peer developer picked this problem (for the team's sake) to dive into the hand-obfuscated code. After making the brain function on all cylinders, the slices of Swiss cheese coincided to reveal a malicious an<i>null</i>er. Fixed.\
+> For the team's sake, a peer developer picked this ticket to dive into the hand-obfuscated code. After making the brain function on all cylinders, the slices of Swiss cheese coincided to reveal a malicious an<i>null</i>er. To be trivially fixed.\
 > &nbsp;
 
-**MORAL?** Imagining the number of cases without a happy twist, Sir Hoare may surely write off a digit from the tech debt he shouldered.
+**MORAL?** Imagining the number of such cases without a happy twist, Sir Hoare may surely write off a digit from the tech debt he shouldered.
 
 \___________\
 🔚 &empty; 2025  image credits: Wiki Commons, kyriosity
