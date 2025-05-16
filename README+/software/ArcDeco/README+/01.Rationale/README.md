@@ -4,8 +4,8 @@
 
 # Rationale
 
-<details><summary><ins>&nbsp;&nbsp;&nbsp;A metaphor you may skip&nbsp;</ins>&nbsp;...</summary>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... but (thanks) you've clicked.
+<details><summary><ins>&nbsp;&nbsp;&nbsp;A metaphor you may skip&nbsp;</ins>&nbsp;.&thinsp;.&thinsp;.</summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&thinsp;.&thinsp;. but (thanks) you've clicked.
 
 <p dir="rtl">A cherry-picked <b>metaphor</b><br />simplifies explanation<br />.(at times even for readers)</p>
 
@@ -21,7 +21,7 @@ Checked - principal changes are done with Woodoo programming.
 
 Stalemate - the project works, but big features can hardly be added.
 
-Mate - dev stops, support only. The time to give it away to another team and speak about a remake in other technologies.
+Mate - dev stops, support only. It is time to give it away to another team and speak about a remake in other technologies.
   
 </td><td>
   
@@ -48,7 +48,7 @@ Software ways to craftsmanship are inscrutable and assessed by eye.
 
 </td></tr></table></details>
 
-<p align="center">System engineering &thinsp;<samp><b>E&thinsp;N&thinsp;L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&thinsp;E&thinsp;N&thinsp;M&thinsp;E&thinsp;N&thinsp;T</b></samp>&thinsp; has many facets, two of which are secured:<br /><b>enthusiasm</b> and <b>frustration</b>.</p>
+<p align="center"><samp><b>E&thinsp;N&thinsp;L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&thinsp;E&thinsp;N&thinsp;M&thinsp;E&thinsp;N&thinsp;T</b></samp>&thinsp;💡 in System Engineering has many facets, two of which are secured:<br /><b>enthusiasm</b> and <b>frustration</b>.</p>
 
 These two are paved with miscellaneous dilemmas, but one pivotal:
 
@@ -85,8 +85,8 @@ And these are your peers with different backgrounds who created them. «Not gods
 
 ## Goal
 
-Bridge development to design.
-This requires **abstraction of** software **abstractionism** but with utilitarian intentions: detecting what helps and harms in mundane code (that is, answers the <samp><i>WHY</i></samp>s and <samp><i>HOW</i></samp>s above).
+Bridge development to design. This requires **abstraction of** software **abstractionism** but with utilitarian intentions: 
+detecting what helps and what harms in mundane code (that is, answers the <samp><i>WHY</i></samp>s and <samp><i>HOW</i></samp>s above).
 
 ### Objectives
 
