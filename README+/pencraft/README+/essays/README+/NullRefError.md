@@ -13,13 +13,23 @@ _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/RE
 But who _Great_ will cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll?
 
 \___________\
-<samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`.
+<samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`.
 
 </td></tr></table>
 
 <sup>🎥</sup> If you can't make the 1950s subscripts **and** today's exceptions meet &nbsp;&mdash;&nbsp; you are **not** alone. 
 
-let's define what is the subject. null or reference?
+### The fallacy of equivocation 
+
+<details><summary><ins> Defined in diff languages </ins></summary>
+
+C#
+   
+The exception that is thrown when there is an attempt to dereference a null object reference.
+
+A NullReferenceException exception is thrown when you try to access a member on a type whose value is null. A NullReferenceException exception typically reflects developer error and is thrown in the following scenarios:
+
+</details>
 
 <h4 align="center">Let my shaky pen and subjective experience sketch the NullReference reflection:</h4>
 
