@@ -2,15 +2,17 @@
 
 <table><tr valign="top"><td><picture><img alt="&thinsp; Gibson Dam, Montana - drain (Wiki)" src="../../../../_rsc/_img/photo/build/Gibson_Dam-Montana-drain.jpg" 
    title="&nbsp;Gibson Dam, Montana, drain&#010;Source: Wiki media" /></picture>
+   
+   Let's descend into this rabbit hole.
 </td><td>
 
-**`NullReference` earned a horrible reputation as an _exceptional_ pest.** Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
-they strike in safe and unmanaged code, in bolted to the floor mainframes and in clouds, and spare neither junior nor seasoned developers.
+**`NullReference` earned a gruesome reputation as an _exceptional_ pest.** Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
+they strike in safe and unmanaged code, bolted to the floor mainframes and in clouds, and spare neither junior nor seasoned developers.
 
 _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame of being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
 
-And no else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll?\
+And no else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.\
 \___________\
 <samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`.
 
