@@ -1,6 +1,6 @@
 # IT Quotes&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Cornerstones
 
->☝️ Quotes and epigraphs can be annoying, while their hackneyed selections migrate between resources &mdash; but **only worthy** ones are cherry-picked here to provoke deeper IT thinking. 
+>☝️ Quotes and epigraphs can be annoying, their hackneyed selections migrate between resources &thinsp;&mdash;&thinsp; but **only worthy** ones are cherry-picked here to provoke deeper IT thinking. 
 
 [![#SimpleVsComplex](https://img.shields.io/badge/%23-Simple⚔️Complex-2962FF)](#) [![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software/ArcDeco/README.md)
 <table>
@@ -109,8 +109,8 @@
   </tr>
 </table>
 
-**P.S.** Finding quotes is arduous - not every pundit spoke or wrote in them. Not every citation is in _wikiquote_ or on another popular list.
+**P.S.** Finding quotes is arduous &thinsp;&mdash;&thinsp; not every pundit spoke or wrote in them. Not every citation is in _wikiquote_ or on another popular list.
  
 \____________
 
-🔚 ... 2024-2025 to be reviewed, reworked and extended ✏️ ...
+🔚 ... 2024-2025 to be reviewed, and extended ✏️ ...

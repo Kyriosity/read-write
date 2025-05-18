@@ -1,25 +1,29 @@
-# Software&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Naming and Categorization
-
 <p dir="rtl"><i>«...&nbsp;In the beginning was the Word</i>»</p>
+
+# Software &nbsp;&mdash;&nbsp; Naming and Categorization
 
 <table><tr valign="top"><td width="20%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
-  <p><b>Denomination of categories <ins>and</ins> titles is a pivotal but underrated and neglected activity in any exploration.</b></p>
-  <div>In software, names with categories, which smoothly guide through the design and make coding intuitive, are taken for granted,</div>
-  <p align="center">o&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</p>
- <p>one wading through the thorns of poorly named and labyrinthine code, abatis of docu will curse application complexity, learning curve, technologies selected, and fate, but at least the naming.
-</p>
+  
+### Denomination of titles <ins>and</ins> classification is a pivotal but underrated activity in any exploration.
+  
+In software, names with categories, which smoothly guide through the design and make coding intuitive, are taken for granted.
+
+  <p align="center">O&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</p>
+
+one wading through the thorns of poorly named and labyrinthine code, abatis of docu will curse application complexity, learning curve, technologies selected, and fate, but at least the naming.
 </td></tr></table>
 
 ## Categorization
 
-Categorization (classification) is more profound than breaking collocations and sentences and building the folder hierarchy. &mdash; 
-It makes the structural frame of sound abstractions.
+Categorization&thinsp;/&thinsp;classification plays a more profound role than breaking collocations and sentences and building the folder hierarchy.&nbsp;&thinsp;&mdash;&thinsp;&nbsp;It&nbsp;frames abstractions.
 
-People manage to categorize boulders in the Oort cloud and catalogize paltry insects, and it must not be a slight challenge for unique by-nature software entities. 
-Nevertheless, you will meet shallow folders and huge lists in many GitHub projects. 
+If folks could categorize myriads of wretched boulders in the _Oort cloud_ and paltry insects, it must not be a big deal for unique by-nature software entities.
 
-> **Rule of palm &mdash; four fingers (or less) will hide the folder content on the screen.**
+The challenge is the accurate layout. Our imagination tries to align doubtful and even bizarre names to the right meaning and aliases, but takes on trust their categories.
+
+\___________\
+As a negative sample, GitHub is full of shallow folders and huge lists even for corporate projects. Namespaces of frameworks and languages often look like a verbal dump.
 
 ### Tags
 
