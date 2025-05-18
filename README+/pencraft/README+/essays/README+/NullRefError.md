@@ -1,17 +1,16 @@
-<h1 align="center"><code>Null</code>, its Reference, and its Mistake<br />🔎&empty;</h1>
+<h1 align="center"><code>Null</code>, its Reference, and their Mistake<br />🔎&empty;</h1>
 
 <table><tr valign="top"><td><picture><img alt="&thinsp; Gibson Dam, Montana - drain (Wiki)" src="../../../../_rsc/_img/photo/build/Gibson_Dam-Montana-drain.jpg" 
    title="&nbsp;Gibson Dam, Montana, drain&#010;Source: Wiki media" /></picture>
 </td><td>
 
 **`NullReference` earned a horrible reputation as an _exceptional_ pest.** Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
-they strike in safe and unmanaged code, in bolted to the floor mainframes and in clouds, and don't distinguish junior and seasoned developers.
+they strike in safe and unmanaged code, in bolted to the floor mainframes and in clouds, and spare neither junior nor seasoned developers.
 
 _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame of being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
 
-But who _Great_ will cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll?
-
+And no else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll?\
 \___________\
 <samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`.
 
@@ -19,17 +18,6 @@ But who _Great_ will cut this sinister _Gordian_ "blockchain" to stop  collectin
 
 <sup>🎥</sup> If you can't make the 1950s subscripts **and** today's exceptions meet &nbsp;&mdash;&nbsp; you are **not** alone. 
 
-### The fallacy of equivocation 
-
-<details><summary><ins> Defined in diff languages </ins></summary>
-
-C#
-   
-The exception that is thrown when there is an attempt to dereference a null object reference.
-
-A NullReferenceException exception is thrown when you try to access a member on a type whose value is null. A NullReferenceException exception typically reflects developer error and is thrown in the following scenarios:
-
-</details>
 
 <h4 align="center">Let my shaky pen and subjective experience sketch the NullReference reflection:</h4>
 
@@ -51,8 +39,23 @@ radar-beta
 * "**Technical**" &thinsp;&mdash;&thinsp; null as value/reference is not supposed to occur (as an extreme case, a number turns to be `null`). A system bug.
 * &nbsp;**App Logic** &thinsp;&mdash;&thinsp; actually unassigned or nulled declarations. No magic, _<samp>mea culpa</samp>_.
 
-I bet the last case prevails and promotes the worldwide concern. 
-However, `null` and its reference are natural there. Exceptions from its references are only a symptom of programming mistakes and logical flaws.
+### The fallacy of equivocation 
+
+Let's put dots on _i_ and  cross the _t_'s. `Null` is a logical agreement. There's no specific hardware value other than `1` or `0`, `true` or `false`. 
+The prevailing case is when we, developers, forget to initialize the values. No mystique reference misleads honest set objects.
+
+<details><summary><ins> Reference to the source documentation </ins></summary>
+
+C#
+   
+> The exception that is thrown when there is an attempt to dereference a null object reference.
+>
+> A NullReferenceException exception is thrown when you try to access a member on a type whose value is null. A NullReferenceException exception typically reflects developer error and is thrown in the following scenarios:
+
+
+🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧      UNDER CONSTRUCTION
+</details>
+
 
 <h2 align="center">Much Ado About <code>Nothing</code>&thinsp;?</h2>
 
