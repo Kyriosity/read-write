@@ -2,16 +2,9 @@
 
 <table><tr valign="top">
 <td>
-   <samp><b><i>Let's explore this rabbit hole,</i></b></samp>
-   
-   <picture><img alt="&thinsp; Gibson Dam, Montana - drain (Wiki)" src="../../../../_rsc/_img/photo/build/Gibson_Dam-Montana-drain.jpg" 
-   title="&nbsp;Gibson Dam, Montana, drain&#010;Source: Wiki media" /></picture>
-   
-   <samp><b><i>which sucks (our objects and coins).</i></b></samp>
-</td>
-<td>
 
-**`NullReference` earned a gruesome reputation as an _exceptional_ pest.** Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
+### ⚡`Null ∅ Reference`⚡
+**It earned a gruesome reputation as an _exceptional_ pest.** Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
 they strike in safe and unmanaged code, bolted to the floor mainframes and in clouds, and spare neither junior nor seasoned developers.
 
 _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame of being this _Frankenstein_ who brought the 
@@ -21,7 +14,15 @@ And no else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collec
 \___________\
 <samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`, or none.
 
-</td></tr></table>
+</td>
+<td>
+   <samp><b><i>Let's explore this rabbit hole,</i></b></samp>
+   
+   <picture><img alt="&thinsp; Gibson Dam, Montana - drain (Wiki)" src="../../../../_rsc/_img/photo/build/Gibson_Dam-Montana-drain.jpg" 
+   title="&nbsp;Gibson Dam, Montana, drain&#010;Source: Wiki media" /></picture>
+   <div align="right"><samp><b><i>which sucks (our objects and coins).</i></b></samp></div>
+</td>
+</tr></table>
 
 <sup>🎥</sup> If you can't make the 1950s subscripts **and** today's exceptions meet &nbsp;&mdash;&nbsp; you are **not** alone. 
 
