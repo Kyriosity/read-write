@@ -29,12 +29,14 @@ And no else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collec
 <sup>🎥</sup> If you can't couple the 1950s subscripts **and** today's exceptions meet &nbsp;&mdash;&nbsp; you are **not** alone (and probably in a good company).
 `Null` is a logical consensus to designate not initialized values. There's no specific `boolean` or machine value for it.
  
-The prevailing errors is when we, developers, forget to initialize the values, that what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
+The prevailing error is when we, developers, forget to initialize the values &thinsp;&mdash;&thinsp; that's what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
 
 > * You forgot to instantiate a reference type. 
 > * You forgot to dimension an array before initializing it.
-> * You get a null return value from a method, and then call a method on the returned type.
+> * You get a null return value from a method, and then call a method on the returned type\
 > ... and so on.
+
+There's no null or broken reference, which sends our objects and values to nowhere.
 
 <h2 align="center">Much Ado About <code>Nothing</code>&thinsp;?</h2>
 
@@ -77,7 +79,7 @@ The bad approach is that ignoring or silencing may cure the problem (though some
 
 When the source of a problem isn't evident, it's a time to explain it with the order of planets, air from bogs, bad demeanor, or faults of others. 
 
-It's luring to relate the perplexed cases of `NullReference` to the peculiarities and bugs of the underlying platforms.
+It's tempting to relate the perplexed cases of `NullReference` to the peculiarities and bugs of the underlying platforms.
 
 (Based on <a href="#null-case">true stories</a>.<sup title="Read one in bottom lines">🙋</sup>)
 
@@ -110,7 +112,9 @@ Besides sound logic, [quality code](../../../../software/QA/README+/code-quality
 
 ### Do not hide
 
-Relying on default or _pro forma_ values instead of `null` obviously paves the way to epic fails.
+Relying on default or _pro forma_ values instead of `null` obviously paves the way to epic fails. 
+
+That's a rather strange idea that there could be a programming language without `null`.
 
 ### Every null check must be sane
 
@@ -152,12 +156,12 @@ Bad approach: setting a specific object, which will only mask `null` and make ma
 <sup>🙋</sup> I find personal stories the last shelter of narrators unless it's a full match and a good backup. This must be the case.
 
 > I can remember a contractor for a big, really, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
-After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](LN-view.md) and returned to his daily need - [NfS](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
+After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](LN-view.md) and returned to his daily need &mdash; [NfS](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
 >
 > For the team's sake, a peer developer picked this ticket to dive into the hand-obfuscated code. After making the brain function on all cylinders, the slices of Swiss cheese coincided to reveal a malicious an<i>null</i>er. To be trivially fixed.\
 > &nbsp;
 
-**MORAL?** Imagining the number of such cases without a happy twist, Sir Hoare may surely write off a digit from the tech debt he shouldered.
+**MORAL?** Imagining the multitude of such cases without a happy twist, Sir Hoare may surely write off a digit from the tech debt he shouldered.
 
 \___________\
 🔚 &empty; 2025  image credits: Wiki Commons, kyriosity
