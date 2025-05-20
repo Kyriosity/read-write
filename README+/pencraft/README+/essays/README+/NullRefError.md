@@ -26,23 +26,15 @@ And no else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collec
 
 ### The fallacy of equivocation 
 
-<sup>🎥</sup> If you can't make the 1950s subscripts **and** today's exceptions meet &nbsp;&mdash;&nbsp; you are **not** alone (and probable in a good company).
+<sup>🎥</sup> If you can't couple the 1950s subscripts **and** today's exceptions meet &nbsp;&mdash;&nbsp; you are **not** alone (and probably in a good company).
+`Null` is a logical consensus to designate not initialized values. There's no specific `boolean` or machine value for it.
+ 
+The prevailing errors is when we, developers, forget to initialize the values, that what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
 
- `Null` is a logical agreement. There's no specific hardware value other than `1` or `0`, `true` or `false`. 
-The prevailing case is when we, developers, forget to initialize the values. No mystique reference misleads honest set objects.
-
-<details><summary><ins> Reference to the source documentation </ins></summary>
-
-C#
-   
-> The exception that is thrown when there is an attempt to dereference a null object reference.
->
-> A NullReferenceException exception is thrown when you try to access a member on a type whose value is null. A NullReferenceException exception typically reflects developer error and is thrown in the following scenarios:
-
-
-🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧      UNDER CONSTRUCTION
-</details>
-
+> * You forgot to instantiate a reference type. 
+> * You forgot to dimension an array before initializing it.
+> * You get a null return value from a method, and then call a method on the returned type.
+> ... and so on.
 
 <h2 align="center">Much Ado About <code>Nothing</code>&thinsp;?</h2>
 
