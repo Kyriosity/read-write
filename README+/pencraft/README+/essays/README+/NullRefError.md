@@ -24,32 +24,11 @@ And no else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collec
 </td>
 </tr></table>
 
-<sup>🎥</sup> If you can't make the 1950s subscripts **and** today's exceptions meet &nbsp;&mdash;&nbsp; you are **not** alone. 
-
-
-<h4 align="center">Let my shaky pen and subjective experience sketch the NullReference reflection:</h4>
-
-```mermaid
-
-radar-beta
- showLegend true
-  axis App["A P P L I C A T I O N"], s["O W N   C O D E"], e["N E W"]
-  axis OS["P L A T F O R M S"], g[" E X T E R N A L"], a[" L E G A C Y"]
-  curve LOGIC["APP LOGIC"]{85, 90, 80, 70, 75, 50}
-  curve PHYS["'PHYSICAL'"]{5, 9, 0, 70, 70, 90}
-  curve TECH["'TECHNICAL'"]{20, 25, 20, 27, 30, 30}
-
-  max 100
-  min 0
-```
-
-* "**Physical**" &thinsp;&mdash;&thinsp; a pointer&thinsp;/&thinsp;reference steps out of physical&thinsp;/&thinsp;logical memory
-* "**Technical**" &thinsp;&mdash;&thinsp; null as value/reference is not supposed to occur (as an extreme case, a number turns to be `null`). A system bug.
-* &nbsp;**App Logic** &thinsp;&mdash;&thinsp; actually unassigned or nulled declarations. No magic, _<samp>mea culpa</samp>_.
-
 ### The fallacy of equivocation 
 
-Let's put dots on _i_ and  cross the _t_'s. `Null` is a logical agreement. There's no specific hardware value other than `1` or `0`, `true` or `false`. 
+<sup>🎥</sup> If you can't make the 1950s subscripts **and** today's exceptions meet &nbsp;&mdash;&nbsp; you are **not** alone (and probable in a good company).
+
+ `Null` is a logical agreement. There's no specific hardware value other than `1` or `0`, `true` or `false`. 
 The prevailing case is when we, developers, forget to initialize the values. No mystique reference misleads honest set objects.
 
 <details><summary><ins> Reference to the source documentation </ins></summary>
