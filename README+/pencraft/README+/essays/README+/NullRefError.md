@@ -3,8 +3,9 @@
 <table><tr valign="top">
 <td>
 
-### ⚡`Null ∅ Reference`⚡
-**It earned a gruesome reputation as an _exceptional_ pest.** Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
+**∅`Null`⚡ Reference earned a gruesome reputation as an _exceptional_ pest.** 
+
+Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
 they strike in safe and unmanaged code, bolted to the floor mainframes and in clouds, and spare neither junior nor seasoned developers.
 
 _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame of being this _Frankenstein_ who brought the 
@@ -36,7 +37,7 @@ The prevailing error is when we, developers, forget to initialize the values &th
 > * You get a null return value from a method, and then call a method on the returned type\
 > ... and so on.
 
-There's no null or broken reference, which sends our objects and values to nowhere.
+There's no null or broken reference, which sends our objects and values to nowhere. That's we.
 
 <h2 align="center">Much Ado About <code>Nothing</code>&thinsp;?</h2>
 
@@ -63,11 +64,16 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 <h2 align="center">The Mistake&thinsp;?</h2>
 
-<p align="center"><b>Charging <code>null</code> for errors is like accusing <code>zero</code> for one can divide by it.</b></p>
+<p align="right">Charging <code>null</code> for errors is like <br />accusing <code>zero</code> for one can divide by it.</b></p>
 
-First of all, `NullReference` is not a popped transistor, phantom, bug, stub, rudiment, or malware. It's a logical, initial, and valid state of objects. When neglected, it sincerely warns about a breach.
+### `Null` is a feature not a bug
 
-Besides plain cases, NullReference may be the visible summit of the iceberg made of logical faults. 
+First of all, `Null` is not a popped transistor, phantom, bug, stub, rudiment, or malware. It's a logical agreeement for unassigned variables and initial, and valid state of objects. 
+When neglected, it sincerely warns about a breach.
+
+Besides plain cases, `NullReference` may be the visible summit of the iceberg made of logical faults. 
+
+That's a rather strange idea that there could be a programming language without `null`.
 
 ### Blaming the messenger
 
@@ -114,8 +120,6 @@ Besides sound logic, [quality code](../../../../software/QA/README+/code-quality
 
 Relying on default or _pro forma_ values instead of `null` obviously paves the way to epic fails. 
 
-That's a rather strange idea that there could be a programming language without `null`.
-
 ### Every null check must be sane
 
 <table><tr></tr><tr valign="center"><td>☝️</td><td>
@@ -143,7 +147,11 @@ Inspired by C# `string.IsNullOrWhitespace(..)`.
 
 ### Eliminating null declarations
 
-Builders/Factories/Wizard
+Avoid declaration but use Builders/Factories/Wizard.
+
+### Utilize language protection
+
+When possible use attributes or constraints, which your language provides. It won't prevent complex logical errors but fool-prove the code. 
 
 ### Distinguish
 
