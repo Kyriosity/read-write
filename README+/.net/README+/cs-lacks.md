@@ -156,7 +156,7 @@ Another story is a combination of primitive (or feature) interfaces as options f
 Suppose there are `ILimited`, `ITimestamped`, and `INotifyPropertyChanged`, which combinations imply 2<sup>3</sup> nominal declarations. And what if this could be done with `<IInterfaceA, IInterfaceB[, IInterfaceC[, ...]]>`
 
 <details>
-<summary><ins>&nbsp;Interface conjunction &thinsp;&mdash;&thinsp; <b>Design sketch&nbsp;</ins></b></summary>
+<summary><ins>&nbsp;Interface con-/disjunction &thinsp;&mdash;&thinsp; <b>Design sketch&nbsp;</ins></b></summary>
 &nbsp;
     
 ```csharp
@@ -173,16 +173,17 @@ IList<IataAirportCode> Planning.Destinations.FindOptimal(IataAirportCode from, <
 void Planning.Capacity.Register(<ILoadSpecs, IPassengerConfig> transport) { ... }
 
 ```
----
 
-</details>
+\___________</details>
 
-Such a feature will also be useful for run-time object composition.
+Such a feature will also be useful for run-time object composition. 
+I'm not the first to wish it &thinsp;&mdash;&thinsp; Here's a long old discussion of [types intersection](https://github.com/dotnet/csharplang/discussions/399)<sup>:octocat:</sup>.
+
 
 ### Builders / Wizards
 
 The intuitive supply of syntax in chained calls (for code completion) is one of the best programming techniques. 
-`C#` could provide out-of-the-box templates for builders and wizards boiling down custom projects (as my attempted [WizConstr](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/WizConstr)).
+`C#` could provide out-of-the-box templates for builders and wizards boiling down custom projects (as my attempted [WizConstr](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/WizConstr/README.md)).
 
 
 <ins>&nbsp;**More nice-to-have:**&nbsp;</ins>\
