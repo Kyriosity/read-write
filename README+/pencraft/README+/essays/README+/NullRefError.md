@@ -32,9 +32,9 @@ And no else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collec
  
 The prevailing error is when we, developers, forget to initialize the values &thinsp;&mdash;&thinsp; that's what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
 
-> * You forgot to instantiate a reference type. 
-> * You forgot to dimension an array before initializing it.
-> * You get a null return value from a method, and then call a method on the returned type\
+> * **You forgot to instantiate a reference type.**
+> * **You forgot to dimension an array before initializing it.**
+> * **You get a null return value from a method, and then call a method on the returned type**\
 > ... and so on.
 
 There's no null or broken reference, which sends our objects and values to nowhere. That's we.
@@ -97,7 +97,7 @@ It's tempting to relate the perplexed cases of `NullReference` to the peculiarit
 
 **Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment, leaving us alone with this problem.
 
-Null isn't a specific value (it may be memory 0), but a predefined constant. Quite convenient, though some programmes look at it as  Phygaros at zero<span title="&nbsp;0️⃣ came to Europe from India &#013;&thinsp; only in Medieval ages.">ℹ️</span>.
+Null isn't a specific value (it may be memory 0), but a predefined constant. Quite convenient, though some programmes look at it as  Phygaros at zero<span title="&nbsp;Arab mathematiians brought&nbsp;0️⃣&#013;to Europe from India only in&#010;the Middle Ages.">ℹ️</span>.
 
 I wouldn't like to classify _null_ traps by managed/unmanaged, pointer vs. reference vs index, but break them into three **BE**s:
 
