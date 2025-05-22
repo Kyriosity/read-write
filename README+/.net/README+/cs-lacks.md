@@ -1,6 +1,6 @@
 # `C#` &nbsp;&mdash;&nbsp; Nice to have &nbsp;&mdash;&nbsp; Syntax, constructs and features
 
-C#.NET isn't a universal formula, and its team (counting the community) doesn't possess unbounded resources. However, this platform could offer extra features and foundations, which would only boost its charm.
+`C#.NET` isn't a universal formula, and its team (counting the community) doesn't possess unbounded resources. However, this platform could offer extra features and foundations, which would only boost its charm.
 
 ## More common interfaces
 
@@ -150,7 +150,7 @@ Guid Register(int attempt, [Name.Western], byte age) { ... }
 
 ## Interfaces junction
 
-Fine-granulated interfaces and their multi-inheritance into more substantial belong to sound design practices.
+Fine-granulated interfaces and their multi-inheritance into more substantial ones belong to sound design practices.
 
 Another story is a combination of primitive (or feature) interfaces as options for casting or *builders*.\
 Suppose there are `ILimited`, `ITimestamped`, and `INotifyPropertyChanged`, which combinations imply 2<sup>3</sup> nominal declarations. And what if this could be done with `<IInterfaceA, IInterfaceB[, IInterfaceC[, ...]]>`
@@ -177,7 +177,7 @@ void Planning.Capacity.Register(<ILoadSpecs, IPassengerConfig> transport) { ... 
 \___________</details>
 
 Such a feature will also be useful for run-time object composition. 
-I'm not the first to wish it &thinsp;&mdash;&thinsp; Here's a long old discussion of [types intersection](https://github.com/dotnet/csharplang/discussions/399)<sup>:octocat:</sup>.
+This wish isn't new &thinsp;&mdash;&thinsp; Here's a long old discussion of [types intersection](https://github.com/dotnet/csharplang/discussions/399)<sup>:octocat:</sup>.
 
 
 ### Builders / Wizards
