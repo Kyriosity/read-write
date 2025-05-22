@@ -3,7 +3,7 @@
 <table><tr valign="top">
 <td>
 
-**∅`Null`⚡ Reference earned a gruesome reputation as an _exceptional_ pest.** 
+**∅`NULL`⚡REFERENCE earned a gruesome reputation as an _exceptional_ pest.** 
 
 Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
 they strike in safe and unmanaged code, bolted to the floor mainframes and in clouds, and spare neither junior nor seasoned developers.
@@ -64,11 +64,11 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 <h2 align="center">The Mistake&thinsp;?</h2>
 
-<p align="right">Charging <code>null</code> for errors is like <br />accusing <code>zero</code> for one can divide by it.</b></p>
+<p align="right">Charging <code>null</code> for errors is like <br />accusing <samp>ZERO</samp> for one can divide by it.</b></p>
 
-### `Null` is a feature not a bug
+### `Null` is a feature, not a bug
 
-First of all, `Null` is not a popped transistor, phantom, bug, stub, rudiment, or malware. It's a logical agreeement for unassigned variables and initial, and valid state of objects. 
+First, `Null` is not a popped transistor, phantom, bug, stub, rudiment, or malware. It's a logical agreement for unassigned variables and the initial and valid state of objects. 
 When neglected, it sincerely warns about a breach.
 
 Besides plain cases, `NullReference` may be the visible summit of the iceberg made of logical faults. 
@@ -91,13 +91,13 @@ It's tempting to relate the perplexed cases of `NullReference` to the peculiarit
 
 <h1 align="center">Null <mark>&thinsp;&empty;🚿</mark> Washing</h2>
 
-<p dir="rtl">.<b><code>Null</code></b> is for programming, as <code><b>zero</b></code> is for math</p>
+<p dir="rtl">,<b><code>Null</code></b> is for programming<br />as <code><b>zero</b></code> is for mathematics</p>
 
 ## Foam (Apply theory)
 
 **Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment, leaving us alone with this problem.
 
-Null isn't a value (it may be memory 0), but agreement. 
+Null isn't a specific value (it may be memory 0), but a predefined constant. Quite convenient, though some programmes look at it as  Phygaros at zero<span title="&nbsp;0️⃣ came to Europe from India &#013;&thinsp; only in Medieval ages.">ℹ️</span>.
 
 I wouldn't like to classify _null_ traps by managed/unmanaged, pointer vs. reference vs index, but break them into three **BE**s:
 
@@ -147,7 +147,7 @@ Inspired by C# `string.IsNullOrWhitespace(..)`.
 
 ### Eliminating null declarations
 
-Avoid declaration but use Builders/Factories/Wizard.
+Avoid declaration but use Builders/Factories/Wizards.
 
 ### Utilize language protection
 
