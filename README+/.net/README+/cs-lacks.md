@@ -74,7 +74,7 @@ Register(string firstName, string secondName, byte age, short numOrders, bool kn
 Register { lastName = "Deer", firstName = "John", numOrders = 2, age = 18 }
 ```
 
-This would also make prettier initialization of objects from factory/builder methods.
+This would also make the initialization of objects from factory/builder methods prettier.
 
 ## Sugar
 
@@ -148,7 +148,7 @@ Guid Register(int attempt, [Name.Western], byte age) { ... }
 
 </details>
 
-## Interfaces junction
+## "In-line" Interfaces junction
 
 Fine-granulated interfaces and their multi-inheritance into more substantial ones belong to sound design practices.
 
@@ -176,8 +176,9 @@ void Planning.Capacity.Register(<ILoadSpecs, IPassengerConfig> transport) { ... 
 
 \___________</details>
 
-Such a feature will also be useful for run-time object composition. 
-This wish isn't new &thinsp;&mdash;&thinsp; Here's a long old discussion of [types intersection](https://github.com/dotnet/csharplang/discussions/399)<sup>:octocat:</sup>.
+Such a feature can be extremely useful for object composition by builders and wizards.
+
+This wish isn't new &thinsp;&mdash;&thinsp; here's a long old discussion of [types intersection](https://github.com/dotnet/csharplang/discussions/399)<sup>:octocat:</sup>.
 
 
 ### Builders / Wizards
