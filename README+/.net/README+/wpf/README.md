@@ -17,7 +17,7 @@ For developers **WPF**:
 + implies [MVVM](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm)<sup>🪟</sup> and has promoted it to other platforms,
 + and grants true **RADD** (Rapid Application Development and Deployment).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>☕</sup> <sub>Compare to Java/Javascript/Typescript stacks with disputes on frontend framework and backend DB.</sub>
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>☕</sup> <sub>Compare to Java/Javascript/Typescript stacks with a zoo of frontend frameworks and libraries.</sub>
 
 ## Rapid Development and Deployment with WPF
 
@@ -44,7 +44,7 @@ And most of such components are already available in miscellaneous suites.
 ### Deployment
 
 Even if there are no DevOps or dedicated admins, clients can install, or update the WPF applications (either as a prototype, test, or release) as easily as unpacking an archived folder. 
-A kind of container that will work not only "[on my machine](../../../pencraft/README+/memes/README+/art/polyptych_works.md)".
+A kind of container that will work not only "[on my machine](../../../pencraft/README+/memes/README+/polyptych_works.md)".
 
 ---
 
@@ -58,4 +58,4 @@ __Resources__:\
 |- [Awesome WPF](https://github.com/Carlos487/awesome-wpf)<sup>🔗</sup> - big collection of links about literally everything that may concern WPF developers\
 |- [Prism](https://github.com/PrismLibrary/Prism)<sup>🔗</sup> - reputable representative of WPF/MVVM bootstrapping 
 
-🔚
+🔚 2021..2025
