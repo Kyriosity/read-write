@@ -3,15 +3,15 @@
 <table><tr valign="top">
 <td>
 
-**∅`NULL`⚡REFERENCE earned a gruesome reputation as an _exceptional_ pest.** 
+**∅`NULL`⚡REFERENCE earned a gruesome reputation as an _exceptional_ plague.** 
 
-Its outbreaks appear literally from `nothing` and are too common to be _exceptions_ &thinsp;&mdash;&thinsp; 
+Its outbreaks appear literally from `nothing` and are too common to call them just `exceptions` &thinsp;&mdash;&thinsp; 
 they strike in safe and unmanaged code, bolted to the floor mainframes and in clouds, and spare neither junior nor seasoned developers.
 
 _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame of being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
 
-And no else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.\
+And no one else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.\
 \___________\
 <samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`, or none.
 
@@ -27,9 +27,9 @@ And no else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collec
 
 ### The fallacy of equivocation 
 
-<sup>🎥</sup> If you can't couple the 1950s subscripts **and** today's exceptions meet &nbsp;&mdash;&nbsp; you are **not** alone (and probably in a good company).
-`Null` is a logical consensus to designate not initialized values. There's no specific `boolean` or machine value for it.
- 
+<sup>🎥</sup>&nbsp; But if you can't couple the 1950s subscripts **and** today's exceptions &nbsp;&mdash;&nbsp; you are **not** alone (and probably in a good company).
+
+`Null` is a logical consensus to designate not initialized values. There's no specific `boolean` or machine value for it. 
 The prevailing error is when we, developers, forget to initialize the values &thinsp;&mdash;&thinsp; that's what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
 
 > * **You forgot to instantiate a reference type.**
@@ -64,11 +64,11 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 <h2 align="center">The Mistake&thinsp;?</h2>
 
-<p align="right">Charging <code>null</code> for errors is like <br />accusing <samp>ZERO</samp> for one can divide by it.</b></p>
+<p align="right">Accusing <code>null</code> for errors is like <br />charging <mark>&thinsp;<b>0</b>&thinsp;</mark> for one can divide by it.</b></p>
 
 ### `Null` is a feature, not a bug
 
-First, `Null` is not a popped transistor, phantom, bug, stub, rudiment, or malware. It's a logical agreement for unassigned variables and the initial and valid state of objects. 
+First, `Null` is not a popped transistor, phantom, bug, stub, rudiment, or singularity. It's not more than a logical agreement for unassigned variables and the initial and valid state of objects. 
 When neglected, it sincerely warns about a breach.
 
 Besides plain cases, `NullReference` may be the visible summit of the iceberg made of logical faults. 
@@ -91,9 +91,9 @@ It's tempting to relate the perplexed cases of `NullReference` to the peculiarit
 
 <h1 align="center">Null <mark>&thinsp;&empty;🚿</mark> Washing</h2>
 
-<p dir="rtl">,<b><code>Null</code></b> is for programming<br />as <code><b>zero</b></code> is for mathematics</p>
+<p dir="rtl">,<b><code>Null</code></b> is for programming<br />as <code><b>zero</b></code> for mathematics</p>
 
-## Foam (Apply theory)
+## Foam &rarr; Apply theory</samp>
 
 **Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment, leaving us alone with this problem.
 
@@ -110,7 +110,7 @@ E.g., a booking request can be _null_ when returned or cancelled, but not when s
 <div align="right">&nbsp; &nbsp; <sup>&empty;</sup> <samp>Null in math means zero or empty set. As it's <i>zero</i> in German.</samp></div>
 <div align="right">&nbsp; &nbsp; <sup>&empty;🖱️</sup> <samp>Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.</samp></div>
 
-## Rinse (Back to keyboard)
+## Rinse &rarr; <samp>Back to keyboard</samo>
 
 First and foremost, there's no magic wand to get rid of the `NullReference` errors, as clickbait titles try to sell. And there shall be none.
 
@@ -163,13 +163,15 @@ Bad approach: setting a specific object, which will only mask `null` and make ma
 
 <sup>🙋</sup> I find personal stories the last shelter of narrators unless it's a full match and a good backup. This must be the case.
 
-> I can remember a contractor for a big, really, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
-After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](LN-view.md) and returned to his daily need &mdash; [NfS](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
+> &nbsp;\
+>  I can remember a contractor for a big, really, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
+After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](LN-view.md) and returned to his daily need &mdash; [N&thinsp;f&thinsp;S](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
 >
 > For the team's sake, a peer developer picked this ticket to dive into the hand-obfuscated code. After making the brain function on all cylinders, the slices of Swiss cheese coincided to reveal a malicious an<i>null</i>er. To be trivially fixed.\
 > &nbsp;
 
-**MORAL?** Imagining the multitude of such cases without a happy twist, Sir Hoare may surely write off a digit from the tech debt he shouldered.
+**MORAL❓**\
+Imagining the multitude of such cases without a happy twist, _Sir Hoare_ may surely write off a digit from the tech debt he shouldered.
 
 \___________\
 🔚 &empty; 2025  image credits: Wiki Commons, kyriosity
