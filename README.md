@@ -34,7 +34,7 @@ Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D &nbsp; &nbsp; &nbsp; Design&#01
 </tr><tr></tr><tr><td>
     <picture><img width="35px" alt="&nbsp;C&thinsp;#" src="README+/_rsc/_img/_nav/C-SHARP_vert_150-575px.png"/></picture>
 </td><td>
-<a href="README+/.net/"><b>C</b>#️⃣Intro🎼</a>&nbsp;&nbsp;&nbsp;<br/>
+<a href="README+/.net/"><b>C</b>#️⃣&nbsp;<b>I&thinsp;n&thinsp;t&thinsp;r&thinsp;o</b>&nbsp;🎼</a>&nbsp;&nbsp;&nbsp;<br/>
 &nbsp; &nbsp; &nbsp;<a href="README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;✖️&nbsp;
 <a href="README+/.net/README+/cs-lacks.md">Lacks</a>&nbsp;➗&nbsp;
  <br/>
