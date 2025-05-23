@@ -4,13 +4,13 @@ Parts of C# syntax, certain features, libraries, and frameworks are preferable b
 
 ## Freshly released
 
-C# evolves swiftly with regular and rich releases, but not every developer is an early adaptor, and not every team is eager to update the breadwinning environment.
+C# evolves swiftly with regular and rich releases, but not every developer is an early adopter, and not every team is eager to update the breadwinning environment.
 
 However, staying fit with C# is reasonable and feasible. Releases of .NET are cumulative and stable; besides new syntax and structures, they provide better performance, more security, and longer support. 
 
 Devoted bloggers and speakers<sup>👨‍👩‍👧‍👦</sup> do a great job of separating the wheat from the chaff while IDEs hint at new features.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I don't recommend any since this must be a personal experience, selection of the active and a matter of taste. Except for the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🪟</sup>.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I don't recommend any since this must be a personal experience, selection of the active, and a matter of taste. Except for the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🪟</sup>.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>**Advice:** Limit review ardor to [officially released features](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/)<sup>🪟</sup>. Many nice others are delayed from release to release (let alone those experimental).</sub>
 
 ### C#13.NET9 (2024) ... but wait! ...
@@ -21,6 +21,10 @@ Among other features, two could be rather practical. Announced and promoted by b
 + `extension` keyword (`explicit` and `implicit`):\
 1\) nice to replace clumsy extension methods exposing the dummy class,\
 2\) properties supported.
+
+#### <mark>UPDATE:</makr> C#14.NET10 Preview (Apr/2024)
+
+Lastly, they appeared with an alternate syntax!
 
 ### Earlier
 
@@ -45,12 +49,12 @@ It's better to see once a recent video tutorial, for example [Advanced Pattern M
 
 ### `[..]` shortcuts
 
-Range indexer for substrings, arrays concat, ...
+Range indexer for substrings, concatenation of arrays, ...
 
 ## Predicates and delegates as arguments
 
 // ToDo: ➡️ move to hints ! ➡️ \
-They are good for the parametrization of method calls but are seldom seen there.
+They are good for the parametrization of method calls, but are seldom seen there.
 
 ## Multitasking out-of-the-box
 
@@ -78,7 +82,7 @@ static void CalcHard(int nat) {
 
 ## All of the LINQ
 
-Tge magic of LINQ is so practical that it's the first thing C# developers miss when coding in other languages.<sup>:large_blue_diamond:</sup>
+The magic of LINQ is so practical that it's the first thing C# developers miss when coding in other languages.<sup>:large_blue_diamond:</sup>
 
 However, even its addicts may be unfamiliar with many tenable features. I knew about 
 [`Cast`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.cast), 
@@ -97,13 +101,15 @@ It's also better to be aware of disputable methods like
 
 ## Reflection
 
-The image of "illegal" hacking and rumors of slow performance follow the reflection but are unfair. It does worth tricks and has become a programming paradigm (unless trying to substitute a "direct" language construct). 
+The image of "illegal" hacking and rumors of slow performance follow the reflection, but are unfair for the former and exaggerated for the latter. 
+It performs worthy tricks and has become a programming paradigm (unless trying to substitute a "direct" language construct). 
 
-// ToDo: link to caller !
+<mark><b>use-dev</b></mark>➡️ to [reflect](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcRefl)
 
 ## Dynamic code generation
 
-It doesn't involve deranged imagination to improvise the auto-implementation of interfaces - to spare coding of countless combinations. [Roslyn](https://github.com/dotnet/roslyn)<sup>🔗</sup> has  much facilitated dynamic code though there's a lack of good tutorials.
+It doesn't involve a deranged imagination to improvise the auto-implementation of interfaces, to spare coding of countless combinations. 
+[Roslyn](https://github.com/dotnet/roslyn)<sup>🔗</sup> has  much facilitated dynamic code, though there's a lack of good tutorials.
 
 // ToDo: link to use-dev
 
@@ -121,13 +127,13 @@ Allow calls on null.
 
 [`ValueTask`](https://learn.microsoft.com/dotnet/api/system.threading.tasks.valuetask-1) was introduced in .NET Core 2.0 to wrap the result of `Task`. It won't create an overhead if the result is available.
 
-Along with another abstraction `IValueTaskSource` it's a choice over `Task` for one-time calls without blocking and similar scenarios.
+Along with another abstraction `IValueTaskSource`, it's a choice over `Task` for one-time calls without blocking and similar scenarios.
 
 ## Wrap up
 
-There must be other useful but neglected parts, features, and syntax of C# and its subsystem, that you may know and contribute to this document.
+There must be other useful but neglected parts, features, and syntax of C# and its subsystems that you may know and contribute to this document.
 
-Besides definitely underused parts there are\
+Plus to the mentioned above, there are:\
 |--- [Parts in shade](parts/cs-feat_shadow.md)\
 |--- Obsolete/bad parts, features, and [malpractices](cs-malpractice.md) 
 
