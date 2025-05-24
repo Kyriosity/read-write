@@ -18,22 +18,20 @@ Thus, WPF to .NET/Win is like the Moon to Earth &thinsp;&mdash;&thinsp; the only
 + provides **full stack** dev on .NET (+MS&nbsp;SQL) without the mix of platforms (and involvement of their providers), languages, and tools with differing paradigms<sup>☕</sup>.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>☕</sup> <samp>Compare to Java, JavaScript/TypeScript stacks with a "botanical garden" of frameworks, libraries, and technologies.</samp>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &thinsp;<samp>When scaffolding may devour a quarter of the programmer's time (and most at the start).</samp> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &thinsp;<samp>When scaffolding and interops may devour a quarter of the programmer's time (and most at the start).</samp> 
 
 ## Rapid Development and Deployment with `WPF`
 
 The learning curve of WPF is distinctly steeper, and the concepts to learn are much broader than those of _WinForms_. 
 Nonetheless, a WPF newbie<sup>🔰</sup> entering either a new or established project has the luck to delay advanced topics till less stressful times. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔰</sup> <sup>But experienced in .NET and thinking in MVW<i>whatever</i> patterns.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔰</sup> <sup>But experienced in .NET and thinking in MVW<sup>hatever</sup> patterns.</sup>
 
 This includes IDEs/tools, sketching, running, testing, and deployment.
 
 ### Initiatives
 
-The best way to learn WPF is to build a basic MVVM application on a green field: proof of concept, prototype, or initial commit. 
-
-LINK
+The best way to learn WPF is to build a basic MVVM application on a green field: proof of concept, prototype, or initial commit. You need a few minutes to start, as in this [sample](README+/mvvm/README.md#sample).
 
 Even better is to take a renowned trial or freeware template, learn it, and build the application on it.
 
@@ -58,13 +56,13 @@ __Further notes__:\
 |- [WPF hints](README+/wpf-hints.md)\
 |- [XAML view](README+/wpf-xaml_view.md)
 
+➡️ **use-dev**:\
+|-- 📖&thinsp;[MVVM Coherernce](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/mvvm/mvvm-vmodel_cohesion.md)\
+|-- 📖&thinsp;[MVVM Ochestration](https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-notification_orchestration.md)\
+|-- ⌨️&thinsp;improved [Visibility converter](https://github.com/Kyriosity/use-dev/blob/main/README+/snippets/wpf/bool2viz_improved.md)
+
 __Resources__:\
 |- [Awesome WPF](https://github.com/Carlos487/awesome-wpf)<sup>🔗</sup> - big collection of links about literally everything that may concern WPF developers\
 |- [Prism](https://github.com/PrismLibrary/Prism)<sup>🔗</sup> - reputable representative of WPF/MVVM bootstrapping 
-
-➡️ **use-dev**:\
-|-- Coherernce\
-|-- Ochestration\
-|-- improved Visibility converted
 
 <div align="center">🔚 2021..2025</div>
