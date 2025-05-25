@@ -13,11 +13,11 @@ with opposing values of formalism, creativity, envisaging, and styles.
 
 The principled distinction is __*driven*__ vs __*drives*__:
 
-* <ins>Documentation</ins> is **on-demand/request** derivative of a product or service, must follow templates, and shall be (auto-)generated and reused as much as possible.<sup>📖</sup>\
+* <mark>Documentation</mark> is **on-demand/request** derivative of a product or service, must follow templates, and shall be (auto-)generated and reused as much as possible.<sup>📖</sup>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📖</sup> <sub>A strict _User manual_ of hazardous tools is an exemplary story.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Microsoft [documentation](https://learn.microsoft.com/) follows this line but, honestly, this doesn't help to "🪟<b>Learn</b>".</docu>
 
-* <ins>Authoring</ins> is **initiative**, must take a bird's view of the subject, inspire and explain sophisticated and regulated ideas in an abstractive, friendly, and sometimes informal/playful manner.
+* <mark>Authoring</mark> is **initiative**, must take a bird's view of the subject, inspire and explain sophisticated and regulated ideas in an abstractive, friendly, and sometimes informal/playful manner.
 
 <ins>**Documentation**</ins> assumes defined, if not available, subjects (as software applications), while <ins>**authoring**</ins> may begin with a pure idea. (Enough technical oeuvres, such as concepts of relational DBs or REST, were based on "paper" concepts with little or no implementation.)
 
