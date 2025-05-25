@@ -45,5 +45,5 @@
   </tr>
 </table>
 
-🔚 🌒 2024-2025 ... a bit more freestyle ➡️ [use-dev <mark><samp><b>HIGHLIGHTS</b></samp></mark>](https://github.com/Kyriosity/use-dev/blob/main/README.md#highlights)\
+🔚 🌒 2024-2025 ... a bit more freestyle ➡️ [use-dev <mark><samp><b>HIGHLIGHTS</b></samp></mark>](https://github.com/Kyriosity/use-dev/blob/main/.github/README.md#highlights)\
 <sub><i>The product of imagination AS it IS.</i></sub>
