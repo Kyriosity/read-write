@@ -1,6 +1,6 @@
 # Technical authoring
 
-<p dir="rtl">?<i>Need to write fast, catching, and pro<br>.Hire a ghostwriter</i><br />
+<p dir="rtl">?<i>Want to write fast, catching, and pro<br>.Hire a ghostwriter</i><br />
 [Best author advice]</p>
 
 > **Certain software products and technologies deserve the work of a pen or brush.**\
@@ -10,7 +10,7 @@ Technical authoring lies between documentation and literature and must have an a
 
 > [!WARNING]
 > For technically bright heads, freestyle authoring may seem deceptively easygoing: 
-> * Tongue is the only tool sharpened in use.
+> * The tongue is the only tool sharpened in use.
 > * Creative opus won't produce compilation errors.
 > * Drawing is what everybody has already learned in childhood.
 > * Themes and plots are more available than to be invented.
@@ -25,7 +25,7 @@ The 2020s decade of LLM-generated content has even boosted such "coverage" and s
 
 The worst enemies of authorship are:
 
-- repetitions (words, phrases and cliches),
+- repetitions (words, phrases, and cliches),
 - monotonous volume (wordiness),
 - formalism,
 - indifference.
@@ -45,13 +45,13 @@ Thesis + Struct + Phrases
 
 ## Tips
 
-Internet swarms with advice, hints, and guidelines for writing - useful, practical - but which you could formulate yourself. May I add up a few?
+The Internet swarms with advice, hints, and guidelines for writing &thinsp;&mdash;&thinsp; useful, practical &thinsp;&mdash;&thinsp; but which you could formulate yourself. May I add up a few?
 
 ### Lectures/Courses
 
 Listening to any lecture (live or recorded), course, or discussion can rescue you from stagnation. It forces you to accept other points of view and urges you to contend and generate your arguments mentally.
 
-> It's not an invitation to plagiarism - just the opposite. You may find that an idea is already covered, and put it to a source reference.
+> It's not an invitation to plagiarism - just the opposite. You may find that an idea is already covered, and put it in a source reference.
 
 ### Library
 
@@ -63,5 +63,5 @@ Listening to any lecture (live or recorded), course, or discussion can rescue yo
   <p>Randomly opened mathematical books helped me to polish the <a href="essays/README+/SW_architect-aTake.md">Architect(ure)</a>. (Yeap, that essay could be worse.)</p>
 </td></tr></table>
 
-🔚 🧂 <sub>The portion of truth in the epigraph is the quiet but active "ghostwriting" market.</sub>
+🔚 🧂 <sub>The portion of truth in the epigraph is the quiet but blooming "ghostwriting" market.</sub>
 
