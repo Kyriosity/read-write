@@ -1,12 +1,10 @@
-# Markdown on Git :octocat: &rarr;&thinsp; Hands-on experience <sup>😹</sup>
+# <mark>Markdown</mark> on Git :octocat: &rarr;&thinsp; Hands-on experience <sup>😹</sup>
 
-<p align="right"><b>&ndash;</b>&nbsp;What is the difference between<br /><i>markdown</i> newbie and expert?<br /><b>&ndash;</b>&nbsp;Half an hour.</p>
+<p align="right"><b>&ndash;</b>&nbsp;What is the difference between<br />a <i>markdown</i> newbie and an expert?<br /><b>&ndash;</b>&nbsp;Half an hour.</p>
 
 <sub>[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)</sub> is lightweight to learn and use with plenty of guides and cheat sheets for advanced techniques.
 
-Despite building it in and assigning it the role of primary documentation, GitHub alone doesn't render its site in markdown or a flavor.
-
-(This markup and its dialects were never designed to provide rich content.)
+Despite building it in and assigning it the role of primary documentation, <sub>[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)</sub> alone doesn't render its site in markdown or a flavor. (This markup and its dialects were never designed to provide rich content.)
 
 <table align="center"><tr></tr><tr><td><b>For any reason to try</b> <samp>markdown</samp> <b>beyond a moderately formatted text, here is my ounce of teaching</b> illustrated by this repository.</td></tr></table>
 
