@@ -17,8 +17,10 @@ Thus, WPF to .NET/Win is like the Moon to Earth &thinsp;&mdash;&thinsp; the only
 + grants <ins>true</ins> **RADD** (Rapid Application Development and Deployment),
 + provides **full stack** dev on .NET (+MS&nbsp;SQL) without the mix of platforms (and involvement of their providers), languages, and tools with differing paradigms<sup>☕</sup>.
 
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>☕</sup> <samp>Compare to Java, JavaScript/TypeScript stacks with a "botanical garden" of frameworks, libraries, and technologies.</samp>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &thinsp;<samp>When scaffolding and interops may devour a quarter of the programmer's time (and most at the start).</samp> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &thinsp;<samp>When scaffolding and interops may devour a quarter of the programmer's time (and most at the start).</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>🌳</sup> <samp>Full stack here means more than the language and platforms &thinsp;&mdash;&thinsp; one time definition of entities and functions.</samp>
 
 ## Rapid Development and Deployment with `WPF`
 
