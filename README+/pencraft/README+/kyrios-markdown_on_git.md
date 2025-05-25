@@ -6,7 +6,11 @@
 
 Despite building it in and assigning it the role of primary documentation, <sub>[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)</sub> alone doesn't render its site in markdown or a flavor. (This markup and its dialects were never designed to provide rich content.)
 
-<table align="center"><tr></tr><tr><td><b>For any reason to try</b> <samp>markdown</samp> <b>beyond a moderately formatted text, here is my ounce of teaching</b> illustrated by this repository.</td></tr></table>
+<table align="center"><tr></tr><tr><td>
+    
+Some <mark>markdown</mark> beyond a moderately formatted text? Here is my ounce of teaching illustrated by this repository.
+
+</td></tr></table>
 
 <p dir="rtl"><i>.Markdown forgives</i>»<br /><i>«.The GitHub doesn't</i><br />(for <a href="https://www.merriam-webster.com/dictionary/TL%3BDR">TL;DR</a>)</p>
 
