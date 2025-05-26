@@ -15,7 +15,7 @@ Besides new features, each annual release improves the performance of significan
 
 Amazingly **`C#`** is widely utilized in APIs and drivers to industry-standard **embedded** software (_i.a._ automotive and machinery) and **game dev** (popular [Unity engine](https://unity.com/solutions/programming)<sup>🔗</sup>).
 
-With all the praise given, **`C#`** isn't monumentally accomplished and has its foibles and lacks (my criticisms, wishlists, and ideas—in the subfolders below and near).
+With all the praise given, **`C#`** isn't monumentally accomplished and has its foibles and lacks (my criticisms, wishlists, and ideas are in the subfolders below and near).
 
 \___________\
 &nbsp;<sup>⛵</sup>&nbsp;<samp>Microsoft has neither acquired it (akin to Java) nor outsourced (it could be Python), but recruited a team to build it from scratch.</samp>\

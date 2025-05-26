@@ -2,7 +2,7 @@
     <td colspan="2" align="right">
       <picture><img src="../README+/_rsc/_img/_nav/learn_is_swim-ext.jpg" alt="&nbsp;If to learn is to swim against the current ..." /></picture>
     </td><td>
-     &nbsp; <a href="../README+/software/design/"><b>D&thinsp;e&thinsp;s&thinsp;i&thinsp;g&thinsp;n</b></a>&thinsp;<sup>∑</sup>&nbsp;&nbsp;<i>feat.</i>
+     &nbsp; <a href="../README+/software/design/"><b>D&thinsp;e&thinsp;s&thinsp;i&thinsp;g&thinsp;n</b></a>&thinsp;<sup>∑</sup>&nbsp <i>feat.</i>
           <br />
      <!-- -->
      <!--                               NAMES, DRIVES, SAMPLES          --!>
@@ -12,9 +12,9 @@
      <!-- -->
      <!--                               QA and TESTS          --!>
      <!-- -->
-     &nbsp; <a href="../README+/software/QA/"><b>Q&thinsp;A</b></a>&thinsp;&nbsp;⊃&thinsp;⊂&nbsp;<a href="../README+/software/tests/"><b>T&thinsp;e&thinsp;s&thinsp;t&thinsp;s</b></a>&nbsp;&nbsp;&nbsp;<i>feat.</i>
+     &nbsp; <a href="../README+/software/QA/"><b>Q&thinsp;A</b></a>&thinsp;&nbsp;⊃&thinsp;⊂&nbsp;<a href="../README+/software/tests/"><b>T&thinsp;e&thinsp;s&thinsp;t&thinsp;s</b></a>&nbsp; &nbsp;<i>feat.</i>
      <br />
-    &nbsp; &nbsp; &nbsp; <a href="../README+/software/QA/README+/code-quality.md">Code quality</a>&nbsp;&nbsp;&nbsp;🧪&thinsp;<a href="../README+/software/tests/asQA/README+/tests-damp_vs_dry.md">D<samp>AMP</samp>⚔️D<samp>RY</samp></a>
+    &nbsp; &nbsp; &nbsp; <a href="../README+/software/QA/README+/code-quality.md">Code quality</a>&nbsp; &nbsp;🧪&thinsp;<a href="../README+/software/tests/asQA/README+/tests-damp_vs_dry.md">D<samp>AMP</samp>⚔️D<samp>RY</samp></a>
      <!-- -->
      <!--                               DOCU and ORG          --!>
      <!-- -->
@@ -22,19 +22,19 @@
     <!-- -->
      <!--                              P E N C R A F T          --!>
      <!-- -->
-     <a href="../README+/pencraft"><b>P&thinsp;E&thinsp;N&thinsp;C&thinsp;R&thinsp;A&thinsp;F&thinsp;T</b></a>&nbsp;<sup>∏</sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="../README+/pencraft"><b>P&thinsp;E&thinsp;N&thinsp;C&thinsp;R&thinsp;A&thinsp;F&thinsp;T</b></a>&nbsp;<sup>∏</sup>&nbsp; &nbsp; &nbsp; &nbsp;
         :octocat:&thinsp;<mark><a href="../README+/pencraft/README+/kyrios-markdown_on_git.md">Markdown</a></mark><br/>
       &nbsp; 🥱<a href="../README+/pencraft/README+/essays/README.md">&thinsp;<b><samp>ESSAYS</samp></b>&thinsp;</a>&nbsp;🪝<a href="../README+/pencraft/README+/memes/README.md">Memes</a>&nbsp; 🥨<a href="../README+/pencraft/README+/quotes/README.md">Quotes</a>
      </td>
                                                                                         <!--          A r c D e c o   S I D E B A R    --!>
     <td align="center"><a href="../README+/software/ArcDeco/README.md"><picture><img width="20px" alt="&nbsp;I&thinsp;T" src="../README+/_rsc/_img/_nav/SOFTWARE_25-250px.png" title="Arc Deco&#013;&#010;
-Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D &nbsp; &nbsp; &nbsp; Design&#013;&#010;e&nbsp; &nbsp; &nbsp; &nbsp; dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde"/>
+Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D &nbsp; &nbsp; &nbsp; Design&#013;&#010;e&nbsp; &nbsp; &nbsp; &nbsp; dEvelopment&#013;&#010;co&nbsp; &nbsp; &nbsp; COde"/>
 </picture></a></td>
                                            <!--                   C# . N E T               --!>
 </tr><tr></tr><tr><td>
-    <picture><img width="35px" alt="&nbsp;C&thinsp;#" src="../README+/_rsc/_img/_nav/C-SHARP_vert_150-575px.png"/></picture>
+    <a <a href="../README+/.net"><img width="35px" alt="&nbsp;C&thinsp;#" src="../README+/_rsc/_img/_nav/C-SHARP_vert_150-575px.png"/></a>
 </td><td>
-<a href="../README+/.net/"><b>C</b>#️⃣&nbsp;<b>I&thinsp;n&thinsp;t&thinsp;r&thinsp;o</b>&nbsp;🎼</a>&nbsp;&nbsp;&nbsp;<br/>
+<a href="../README+/.net/README.md"><b>C</b>#️⃣&nbsp;<b>I&thinsp;n&thinsp;t&thinsp;r&thinsp;o</b>&nbsp;🎼</a>&nbsp; &nbsp;<br/>
 &nbsp; &nbsp; &nbsp;<a href="../README+/.net/README+/cs-drawbacks.md">Drawbacks</a>&nbsp;✖️&nbsp;
 <a href="../README+/.net/README+/cs-lacks.md">Lacks</a>&nbsp;➗&nbsp;
  <br/>
@@ -48,7 +48,7 @@ Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D &nbsp; &nbsp; &nbsp; Design&#01
     <!--                   C L O S E R  to  C O D E      --!>
  <br/><br/><kbd>&thinsp;<b>CLOSER to CODE</b>&thinsp;</kbd><br/>
   &nbsp; &nbsp;<a href="../README+/.net/README+/cs-hints.md"><b>&thinsp;Hints&thinsp;</b></a>&nbsp;➡️&nbsp;
- <a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames">Frames</a>&nbsp;&nbsp;<b>.&thinsp;.&thinsp;.</b>
+ <a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames">Frames</a>&nbsp; <b>.&thinsp;.&thinsp;.</b>
  <br />
  &nbsp; &nbsp;<b>.&thinsp;.&thinsp;.</b>&nbsp; and more on <a href="https://github.com/Kyriosity/use-dev/blob/main/.github/README.md"><b>&thinsp;use-dev&thinsp;</b></a>&nbsp;
 </td><td colspan="2" align="left">

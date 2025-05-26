@@ -72,7 +72,7 @@ The easiest and alluring response is to write fewer tests, concentrating on guid
 Auto-generation tools may help, but their setting and tuning may be overkill.
 
 <table><tr></tr><tr>
-<td><picture><img alt="&nbsp;READ-WRITE meets USE-DEV" width="100px" src="../../../../_rsc/_img/_nav/read-write_use-dev.jpg" /></picture></td><td>
+<td><picture><img alt="&nbsp;READ-WRITE meets USE-DEV" width="100px" src="../../../../_rsc/_img/_nav/read-write_use-dev.png" /></picture></td><td>
     <a href="https://github.com/Kyriosity/use-dev/blob/main/README%2B/tests/README%2B/prog_tests-cut_feeds.md"><b>Cutting<br />the feeds</b></a>
 </td>
 <td>
@@ -102,7 +102,7 @@ Such a salute will hardly provide a clue but rather hide it in dependencies - in
 <details><summary><ins>&nbsp; History teaches us that one failure might be enough to know...&nbsp;</ins></summary>
     
 > &nbsp;\
-> As in the anecdote  about **Napoleon** enraged by the silence of cannons on a flank.\
+> As in the anecdote about **Napoleon** enraged by the silence of cannons on a flank.\
 A summoned general was eager to recount seven reasons, he knew, but was shortly interrupted with\
 <samp>«Already one is more than enough for me».</samp>
 >
