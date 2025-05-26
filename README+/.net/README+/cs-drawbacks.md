@@ -89,7 +89,7 @@ First of all, numerous errors should be moved from `System` to their own `namesp
 ## Casting limitations
 
 - [Named tuples](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/august/essential-net-csharp-7-0-tuples-explained)<sup>🪟</sup> and anonymous objects are very handy to submit sporadic composed results, but can't cast to an interface or class.
-- Some obvious inheritance is missing (e.g. can't cast `DateTime` to `DateOnly`).
+- Some obvious inheritance is missing (e.g., can't cast `DateTime` to `DateOnly`).
 - Neither implicit nor explicit downcasting works while JSON (de)serialization legally does this operation.\
 Allowing this cast doesn't contradict type safety.\
 `// ToDo:` an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)<sup>🪟</sup>
@@ -132,6 +132,6 @@ Continued in [C# lacks - Dates](parts/cs-lacks-parts.md#Dates).
 
 ## Bottom line
 
-The list is far from being complete, but I wait for a day (more correctly to say a year) when Danish Masters or their disciples will strike a higher note &thinsp;&mdash;&thinsp; D-flat or even `D#`.
+The list is far from being complete, but I wait for a day (more correctly to say a year) when somebody will strike a higher note &thinsp;&mdash;&thinsp; D-flat or even `D#`.
 
 <div align="center">🔚 ... 🌘 2023-2025, to be continued ...</div>
