@@ -16,8 +16,8 @@ Even so, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b
 and architects of <em>détente</em> or <em>economic miracle</em> are compliments (or flattery).
 
 ___________\
-<sup>🏛️</sup> <sub>Greek:</sub> <samp>ἀρχιτέκτων</samp><sub>, “master/chief builder/maker" but this occupation existed much prior as the <i>Ziggurat of Ur</i> and Egyptian Pyramids suggest (but Stonehenge refutes).</sub>
-          </td></tr></table>
+<sup>🏛️</sup> <samp>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation existed much prior as the <i>Ziggurat of Ur</i> and Egyptian Pyramids suggest.</samp>
+</td></tr></table>
 
 <h1 align="right">Part&nbsp;I. Software <i>vs.</i> Building</h1>
 
@@ -212,22 +212,22 @@ Neither _**expert**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>ro
 > **There was no intention to defame** _software architects_ **but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.**<sup>👩‍👦‍👦</sup>
 
 \___________\
-Finally, salt all this: major projects don't develop _Pantheons_ but regularly cast requirements to known and tried solutions with a decent input of cutting-edge and invention.
+Finally, salt all this: major projects don't develop _Pantheons_ but turn the flagstones of _Stonehenge_: cast requirements to known and tried solutions with a decent input of cutting-edge and invention.
 
 <div dir=rtl><samp>"<b>.Smith will suffice</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
 
 \___________
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom <b>IN/OUT</b></mark>" from <picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture> [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) (thrivingtechnologist.com)</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of C#.NET in Microsoft are titled _architects_ or _leads_ but all of them show fluent coding skills at presentations.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Image credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and kyriosity</sub>
+&nbsp; &nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom <b>IN/OUT</b></mark>" from <picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture> [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) (thrivingtechnologist.com)</sub>\
+&nbsp; &nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
+&nbsp; &nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of progressive platforms may be titled _architects_ or _leads_ but all of them show fluent coding skills at presentations.</sub>\
+&nbsp; &nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Image credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and kyriosity</sub>
 
 <table><tr></tr><tr>
  <td>☝️</td><td>This essay doesn't split <i>architecture</i> and <i>design</i> (as everything over particular and imaginary applications/systems/constructions) while
 <picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
-title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde" /></picture>
+title="Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D&nbsp; &nbsp; &nbsp; &nbsp;Design&#013;&#010;e&nbsp; &nbsp; &nbsp; &nbsp; dEvelopment&#013;&#010;co&nbsp; &nbsp; &nbsp; COde" /></picture>
  (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin or adjacent activities</a>.
  </td></tr></table>
 
-<div align="center"><b>.......</b> &nbsp;🔚 &nbsp;🌘 kyriosity 2023-2025&nbsp;&nbsp;&nbsp;<b>.......</b></div>
+<div align="center"><b>.......</b> &nbsp;🔚 &nbsp;🌘 kyriosity 2023-2025&nbsp; &nbsp;<b>.......</b></div>
