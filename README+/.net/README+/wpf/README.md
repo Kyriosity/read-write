@@ -60,8 +60,8 @@ __Further notes__:\
 
 ➡️ **use-dev**:\
 |-- 📖&thinsp;[MVVM Coherernce](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/mvvm/mvvm-vmodel_cohesion.md)\
-|-- 📖&thinsp;[MVVM Ochestration](https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-notification_orchestration.md)\
-|-- ⌨️&thinsp;improved [Visibility converter](https://github.com/Kyriosity/use-dev/blob/main/README+/snippets/wpf/bool2viz_improved.md)
+|-- 📖&thinsp;[MVVM Orchestration](https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-notification_orchestration.md)\
+|-- ⌨️&thinsp;improved [Visibility converter](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/WinClay/Converters/bool2viz_improved.md)
 
 __Resources__:\
 |- [Awesome WPF](https://github.com/Carlos487/awesome-wpf)<sup>🔗</sup> - big collection of links about literally everything that may concern WPF developers\
