@@ -13,15 +13,14 @@ _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/RE
 
 And no one else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.\
 \___________\
-<samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`, or none.
+<samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`, `dereferencing`, or none (just "null").
 
 </td>
-<td>
-   <samp><b><i>Let's explore this rabbit hole,</i></b></samp>
-   
+<td align="right">
+   <div align="left"><samp><b><i>Let's explore this rabbit hole,</i></b></samp></div>
    <picture><img alt="&thinsp; Gibson Dam, Montana - drain (Wiki)" src="../../../../_rsc/_img/photo/build/Gibson_Dam-Montana-drain.jpg" 
-   title="&nbsp;Gibson Dam, Montana, drain&#010;Source: Wiki media" /></picture>
-   <div align="right"><samp><b><i>which sucks (our objects and coins).</i></b></samp></div>
+   title="&nbsp;Gibson Dam, Montana, drain&#010;Source: Wiki media" /></picture><br />
+   <samp><b><i>which sucks (our objects and coins).</i></b></samp>
 </td>
 </tr></table>
 
@@ -30,14 +29,14 @@ And no one else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  co
 <sup>🎥</sup>&nbsp; But if you can't couple the 1950s subscripts **and** today's exceptions &nbsp;&mdash;&nbsp; you are **not** alone (and probably in a good company).
 
 `Null` is a logical consensus to designate not initialized values. There's no specific `boolean` or machine value for it. 
-The prevailing error is when we, developers, forget to initialize the values &thinsp;&mdash;&thinsp; that's what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
+The error occurs chiefly when we, developers, forget to initialize &thinsp;&mdash;&thinsp; that's what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
 
 > * **You forgot to instantiate a reference type.**
 > * **You forgot to dimension an array before initializing it.**
 > * **You get a null return value from a method, and then call a method on the returned type**\
 > ... and so on.
 
-There's no null or broken reference, which sends our objects and values to nowhere. That's we.
+There's no null or broken reference, which sends our objects and values to nowhere. That's our fault.
 
 <h2 align="center">Much Ado About <code>Nothing</code>&thinsp;?</h2>
 
@@ -66,14 +65,16 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 <p align="right">Accusing <code>null</code> for errors is like <br />charging <mark>&thinsp;<b>0</b>&thinsp;</mark> for one can divide by it.</b></p>
 
-### `Null` is a feature, not a bug
+### `Null` is not a bug but a feature
 
 First, `Null` is not a popped transistor, phantom, bug, stub, rudiment, or singularity. It's not more than a logical agreement for unassigned variables and the initial and valid state of objects. 
 When neglected, it sincerely warns about a breach.
 
 Besides plain cases, `NullReference` may be the visible summit of the iceberg made of logical faults. 
 
-That's a rather strange idea that there could be a programming language without `null`.
+It's a rather strange idea that there could be a programming language without `null`. Meanwhile, mainstream languages allow nullable numeric types to avoid the unwanted default to zero.
+
+
 
 ### Blaming the messenger
 
@@ -97,7 +98,7 @@ It's tempting to relate the perplexed cases of `NullReference` to the peculiarit
 
 **Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment, leaving us alone with this problem.
 
-Null isn't a specific value (it may be memory 0), but a predefined constant. Quite convenient, though some programmes look at it as  Phygaros at zero<span title="&nbsp;Arab mathematiians brought&nbsp;0️⃣&#013;to Europe from India only in&#010;the Middle Ages.">ℹ️</span>.
+Null isn't a specific value (it may be memory 0), but a predefined constant. Quite convenient, though some programmes look at it as <span title="&nbsp; &nbsp; &nbsp;Arab mathematicians brought&#013; 0️⃣&nbsp;to Europe from India only&#010; in the Middle Ages."><ins>Phygaros</ins></span> at zero.
 
 I wouldn't like to classify _null_ traps by managed/unmanaged, pointer vs. reference vs index, but break them into three **BE**s:
 
@@ -105,7 +106,8 @@ I wouldn't like to classify _null_ traps by managed/unmanaged, pointer vs. refer
 And only a peculiar glitch allowed setting it. E.g., objects coming from builders.
 * **SHAN'T** BE &thinsp;&mdash;&thinsp; the assignee can take _null_ but not now or here.\
 E.g., a booking request can be _null_ when returned or cancelled, but not when submitted to the invoice routine.
-* **MUST** BE &thinsp;&mdash;&thinsp; Surpsisinly opposite? The value must be null there, but either falsely stubbed or set to a default.
+* **MUST** BE &thinsp;&mdash;&thinsp; Surpsisinly opposite? The value must be null there, but either falsely stubbed or set to a default.\
+_Enums_ (enumerations), i.e., declarative numbers, are rather prone to such errors.
 
 <div align="right">&nbsp; &nbsp; <sup>&empty;</sup> <samp>Null in math means zero or empty set. As it's <i>zero</i> in German.</samp></div>
 <div align="right">&nbsp; &nbsp; <sup>&empty;🖱️</sup> <samp>Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.</samp></div>
@@ -145,19 +147,19 @@ Be the first to throw.
 
 Inspired by C# `string.IsNullOrWhitespace(..)`.
 
-### Eliminating null declarations
+### Reduce direct declarations
 
-Avoid declaration but use Builders/Factories/Wizards.
+Avoid declaration, but use Builders/Factories/Wizards.
 
 ### Utilize language protection
 
-When possible use attributes or constraints, which your language provides. It won't prevent complex logical errors but fool-prove the code. 
+When possible, use attributes or constraints that a language provides. It won't prevent complex logical errors, but foolproof the code. 
 
 ### Distinguish
 
 JavaScript has a native `undefined`. In other languages, a never set value may throw a specific exception, like in this tailored property [`AbsYear`](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcChrono/Timescales/Models/Hap.cs).
 
-Bad approach: setting a specific object, which will only mask `null` and make matters worse.
+Bad approach: setting a specific object that will only mask `null` to make matters worse.
 
 ## <a id="null-case" />Bottom lines
 
@@ -167,11 +169,18 @@ Bad approach: setting a specific object, which will only mask `null` and make ma
 >  I can remember a contractor for a big, really, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
 After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](LN-view.md) and returned to his daily need &mdash; [N&thinsp;f&thinsp;S](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
 >
-> For the team's sake, a peer developer picked this ticket to dive into the hand-obfuscated code. After making the brain function on all cylinders, the slices of Swiss cheese coincided to reveal a malicious an<i>null</i>er. To be trivially fixed.\
-> &nbsp;
+> For the team's sake, a peer developer picked this ticket to dive into the hand-obfuscated code. After making the brain function on all cylinders, the slices of Swiss cheese coincided to reveal a malicious an<i>null</i>er. To be trivially fixed.
 
-**MORAL❓**\
-Imagining the multitude of such cases without a happy twist, _Sir Hoare_ may surely write off a digit from the tech debt he shouldered.
+<div align="center"><b>MORAL</b>❓</div>
+
+Imagining the multitude of such cases without a happy twist, _Sir Hoare_ may surely write off a digit or two from the tech debt he shouldered.
+
+### Appendices
+
+|- ➡️**use-dev**\
+|-&thinsp;- [Calls on null](https://github.com/Kyriosity/use-dev/blob/main/README+/frames/README+/calls_on_null.md) `// are possible and ... legit`\
+|-&thinsp;-&thinsp; primitive [Guards](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcStoppers/Guards) `// the shortest ways to discover nulls ASAP`\
+|-&thinsp;- [Code wizard](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/WizConstr) `// building backbone that won't forget to initialize`
 
 \___________\
 🔚 &empty; 2025  image credits: Wiki Commons, kyriosity
