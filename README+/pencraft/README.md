@@ -19,11 +19,11 @@ The principled distinction is __*driven*__ vs __*drives*__:
 
 * <mark>Authoring</mark> is **initiative**, must take a bird's view of the subject, inspire and explain sophisticated and regulated ideas in an abstractive, friendly, and sometimes informal/playful manner.
 
-<ins>**Documentation**</ins> assumes defined, if not available, subjects (as software applications), while <ins>**authoring**</ins> may begin with a pure idea. (Enough technical oeuvres, such as concepts of relational DBs or REST, were based on "paper" concepts with little or no implementation.)
+<ins>**Documentation**</ins> assumes defined, if not available, subjects (as software applications), while <ins>**authoring**</ins> may begin with a pure idea. (Enough technical _oeuvres_, such as concepts of relational DBs or REST, were based on "paper" concepts with little or no implementation.)
 
 When it's often a reader's headache to find and study the right <mark>documentation</mark> in any state and grade, with <mark>authoring</mark>, it's a burden for "pensters" to attract the public. 
 
-Sticking to the narrowed vocabulary, repetitions, and cliches are benefactors in <mark>documentation</mark> but <mark>authoring</mark> sins.
+Sticking to the narrowed vocabulary, repetitions, and cliches are benefactors in <mark>documentation</mark> **but** <mark>authoring</mark> sins.
 
 Regardless of the mission, significant writing is an **expensive** and **exhausting** exercise. If not a hobby or bondage, it must:
 
