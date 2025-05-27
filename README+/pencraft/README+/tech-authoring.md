@@ -18,7 +18,7 @@ Technical authoring lies between documentation and literature and must have an a
 > However, noble lines of words are much more sophisticated and painful than excellent code or engineering blueprints.\
 > An astute reader will notice poor or mediocre style at  first sight.
   
-<span title="&nbsp;What You See Is What You Write"><ins>WYSIWYG</ins></span> of the opus and rapidity of writing can create square miles of 'pulp'. 
+<span title="&nbsp; What You See Is What You Write"><ins>WYSIWYG</ins></span> of the opus and rapidity of writing can create square miles of 'pulp'. 
 The 2020s decade of LLM-generated content has even boosted such "coverage" and significantly raised the bar for authentic words and pictures.
 
 ## Pitfalls
@@ -27,8 +27,7 @@ The worst enemies of authorship are:
 
 - repetitions (words, phrases, and cliches),
 - monotonous volume (wordiness),
-- formalism,
-- indifference.
+- formalism and indifference to the subject/result,
 - 🚧🚧🚧🖋️🚧🚧🚧 
 
 ## Recipies 
@@ -37,7 +36,7 @@ The worst enemies of authorship are:
 
 ...
 
-## Dev-driven writing
+## Code-driven writing
 
 🚧TO BE WRITTEN
 
