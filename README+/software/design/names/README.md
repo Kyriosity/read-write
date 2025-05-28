@@ -5,18 +5,18 @@
 <table><tr valign="top"><td width="20%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
   
-### Denomination of titles <ins>and</ins> classification is a pivotal but underrated activity in any exploration.
+### Denomination of titles <ins>and</ins> classification is a pivotal but underrated activity <ins>in any exploration</ins>.
   
-In software, names with categories, which smoothly guide through the design and make coding intuitive, are taken for granted.
+#### In software, names with categories, which smoothly guide users through the design and make coding more intuitive, are often taken for granted.
 
-  <p align="center">O&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</p>
+  <p align="center"><b>O&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</b></p>
 
 one wading through the thorns of poorly named and labyrinthine code, abatis of docu will curse application complexity, learning curve, technologies selected, and fate, but at least the naming.
 </td></tr></table>
 
 ## Categorization
 
-Categorization&thinsp;/&thinsp;classification plays a more profound role than breaking collocations and sentences and building the folder hierarchy.&nbsp;&thinsp;&mdash;&thinsp;&nbsp;It&nbsp;frames abstractions.
+Categorization (_aka_ classification) plays a more profound role than breaking collocations and sentences and building the folder hierarchy. &thinsp;&mdash;&thinsp; **It&nbsp;frames abstractions.**
 
 If folks could categorize myriads of wretched boulders in the _Oort cloud_ and paltry insects, it must not be a big deal for unique by-nature software entities.
 
@@ -57,7 +57,7 @@ The inevitable and heavy expenses will pay off with the formation of ***lingua f
 + less tension to get into a project for newcomers,
 + comfy navigation in the source code (beginning from <kbd>CTRL+F</kbd>).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team means not only developers and managers but customers, testers with end users.</sub>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team means not only developers and managers but customers, testers, with end users.</sub>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📒</sup><sub> reqs/specs, DoU, meetings protocols, and primers - hard to follow but easy to misunderstand or forget</sub>
 
 It's an ingredient of successful [domain-driven design](../drive/README.md#Domain-drive) (and vice versa).
@@ -94,7 +94,7 @@ who suggested tongue (English) semantics for programming (so natural now that on
 
 ### "Generals"
 
-As programming evolved the mass of general terms must have been given. Some, as `object` or `bug`, are relatively univocal hits &mdash; others shade higher level notion or interfere with them:
+As programming evolved, a mass of general terms must have been given. Some, as `object` or `bug`, are relatively univocal hits &mdash; others shade higher-level notions or interfere with them:
 
 Application, solution, interface, exception - to name a few.
 
@@ -104,7 +104,7 @@ What's project management software names _bug_ is its _fix_.
 
 ### <samp>Exception</samp> or Error ?
 
-Many languages (including C#) use this term for errors to throw so its meaning can sound even opposite - allowance.
+Many languages (`C#` there) use this term for errors to throw, though its meaning can sound even opposite &thinsp;&mdash;&thinsp;&nbsp;allowance.
 
 
 ## Curtain of grace (opened)
@@ -116,7 +116,7 @@ Many languages (including C#) use this term for errors to throw so its meaning c
 🍓 
 🪱 longness
 
-'Emoji' defines pictograms overall while being only their subset. 
+'Emoji' defines pictograms overall, while being only their subset. 
 "Icons" is .. eh .. a bit blasphemous.
 
 🗼"Tower of Babel" award for naming in different alphabets. (Unless it's a highly localized domain or business.)
