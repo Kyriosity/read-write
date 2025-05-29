@@ -31,16 +31,14 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 - Markdown doesn't have codes akin to HTML or rich-text formats (to begin with, essential non-breaking elements).
 - Native markdown tables are intended for small portions.
-- There are no variables in markup (Remember it's plain text.)
+- There are no variables in markup (Remember, it's plain text).
 
 ### Git
 
-<b>The saddest experience:</b> you can't include shared content and snippets but <samp>copy-paste</samp>. (While even elementary repositories have common headers and footers of READMEs.)
-
-Next:
+<b>The saddest experience:</b> you can't include shared content and snippets but <samp>copy-paste</samp>. (While even elementary repositories have common headers and footers of READMEs.) Next:
 
 - GitHub removes styles, classes, and most other formatting.\
-(Thus, there are always borders in both "marked down" and HTML-made tables).
+(Thus, there are always borders in both "marked down" and HTML-made tables.)
 - There's no overlay for image loading, but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
 - Many (if not most) Q&A tricks for markdown won't work on Git.
 - It's easier to list what the GitHub site editor has (a few shortcut keys) rather than what's wanted: toolbars, context menus, auto-saving, and so on.
@@ -55,7 +53,7 @@ Next:
 + Entity names can be made into HTML links (but not in every type&thinsp;**!**).
 + "Mermaids" mushrooming gives hope to see WYSIWYG tooling soon.
 
-"Mermaids" are beautiful, but not for drawings. For a specific layout or artistic look, you have to snap/save a drawing in other programs.
+"Mermaids" are beautiful, but not for drawings. For a specific layout or artistic look, you need to save a drawing in another program.
 
 ### Pictures
 
@@ -70,7 +68,7 @@ To my knowledge, the only exception (inserted by code only) is a dozen of Git's 
 Review [HTML symbols](https://www.w3schools.com/charsets/ref_html_symbols.asp)<sup>🔗</sup> as a great enhancement of selections.
 
 > [!WARNING]
-> Browsers may show some pictograms differently. Find out the differences on this snapshot:
+> Browsers may show some pictograms differently. Find out the differences in this snapshot:
 > 
 > <a href="essays/README+/AI-2020s.md#evidence"><img alt="&nbsp;string of emojis presented different" src="../../_rsc/_img/snap/screen/emojis_diff-browsers.jpg" title="&nbsp;Click to see how it looks in yours" /></a>
 
@@ -86,7 +84,7 @@ Surprisingly, the inevitable `<table>` can keep pure or mixed markdown in cells 
 
 ## Tips and advice
 
-Advice No. 1 is "don't even try to hack git markdown." Even if you manage to style some stuff one day, Git may sweep it out tomorrow.
+Advice **No.1** is "don't try to hack Git-markdown." Even if you manage to style some elements one day, Git may sweep this out tomorrow.
 
 Besides symbols, the best HTML pals of markdown writers are
 
