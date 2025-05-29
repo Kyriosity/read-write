@@ -110,7 +110,7 @@ Next, narrow mnemonics to hint at frequently referred resources, like:\
 [`C# Lookup`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.lookup-2)<sup>🪟</sup>,&nbsp;&nbsp;
 [.NET conf 2024](https://www.youtube.com/watch?v=ikSNL-lxolc)<sup><picture><img src="../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="&nbsp;link to YouTube video" /></picture></sup>.
 
-### <a id="link-achors" />Link anchors
+### <a id="link-achors" />Link🔗 anchors ⚓
 
 Prefer `<a id="anchor_name" />` for sustained (internal) links to avoid changeable and motley `#-heading`.
 
