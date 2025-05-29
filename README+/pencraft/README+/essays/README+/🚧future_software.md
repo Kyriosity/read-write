@@ -1,10 +1,13 @@
 # Future of the Software
 
-<p align="right">If you want to make Gods laugh,<br />share your plans.<br />
-To cheer up descendants, predict their living and post in a capsule.<br />
-Aliens - already Voyager</p>
+<p align="right">To make Gods laugh &thinsp;&mdash;&thinsp; share them your plans.<br />
+To amuse ET send them a Voyager full of ...<br />
+<s>To amuse Deutsche Bahn share your travel plans</s><br />
+To make descendants roar in laughter, predict their living and post in a capsule.</p>
 
 🚧🚧🚧           DRAFT / PLACEHOLDER 🚧🚧🚧
+
+Don't let the hype eclipse the apparent: IT is decades in the **natural** stagnation.
 
  (link to mobile among steampunk)
 
@@ -29,5 +32,11 @@ Embedded ?
 Assistants ?
 
 ## Epilogue. Why stagnation
+
+The same desktop, mouse, keyboard and the same IDE.
+
+OOP,
+Dynamic,
+crypto
 
 🔚 2025 A.D.
