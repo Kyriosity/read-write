@@ -1,5 +1,7 @@
 # Software
 
+is abstraction but ...
+
 ## What makes it? 
 
 ### **In a word - `programming`, in four -** 
