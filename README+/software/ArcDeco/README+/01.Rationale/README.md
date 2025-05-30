@@ -1,6 +1,4 @@
-[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️ **R&thinsp;A&thinsp;T&thinsp;I&thinsp;O&thinsp;N&thinsp;A&thinsp;L&thinsp;E** &rarr; Big Picture &rarr; Stripes &rarr; Forces &rarr; Roles &rarr; Factors &rarr; Wrap&nbsp;up
-
----
+# <sub>[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md)</sub> &rarr; Rationale
 
 <details><summary><ins>&nbsp;&nbsp;&nbsp;A metaphor you may skip&nbsp;</ins>&nbsp;.&thinsp;.&thinsp;.</summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&thinsp;.&thinsp;. but (thanks) you've clicked.
@@ -49,7 +47,7 @@ Software ways to craftsmanship are inscrutable and assessed by eye.
 
 </td></tr></table></details>
 
-<p align="center"><samp><b>E&thinsp;N&thinsp;L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&thinsp;E&thinsp;N&thinsp;M&thinsp;E&thinsp;N&thinsp;T</b></samp>&thinsp;💡 in System Engineering has many facets, two of which are secured:<br /><b>enthusiasm</b> and <b>frustration</b>.</p>
+<p align="center"><samp><b>E&thinsp;N&thinsp; L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&thinsp;E&thinsp;N&thinsp;M&thinsp;E&thinsp;N&thinsp;T</b></samp>&thinsp;💡 in System Engineering has many facets, two of which are secured:<br /><b>enthusiasm</b> and <b>frustration</b>.</p>
 
 These two are paved with miscellaneous dilemmas, but one pivotal:
 
@@ -60,9 +58,9 @@ These two are paved with miscellaneous dilemmas, but one pivotal:
 Now veneer the frustration/anxiety facets with <ins>rhetorical</ins> vs. <ins>open</ins> <kbd>&thinsp;<samp><b>I&thinsp;S</b></samp>&thinsp;</kbd>, <kbd>&thinsp;<samp><b>W&thinsp;H&thinsp;Y</b></samp>&thinsp;</kbd>, and <kbd>&thinsp;<samp><b>H&thinsp;O&thinsp;W</b></samp>&thinsp;</kbd> tiles:
 
 <table valign="center" align="center"><tr></tr><tr>
-   <td width="34%"><mark>WHY</mark> is <b>experience</b> rater an <b>inhibitor</b> of rapid development❔</td>
+   <td width="34%"><mark>Why</mark> is <b>experience</b> rater an <b>inhibitor</b> of rapid development❔</td>
    <td width="33%"><mark>How</mark> can the code <b>obfuscate</b> lucid domain logic for reviewers❔</td>
-   <td><mark>Why</mark> could a small syntax sugar become a <i>breaking change</i>❔ </td>
+   <td><mark>How</mark> can a small <b>change</b> (even syntax sugar) become <i>breaking</i>❔ </td>
 </tr><tr>
    <td><mark>Why</mark> is getting into big projects a headache and <b>dread</b>❔</td>
    <td><mark>Why</mark> don't bright architectural ideas <b>propagate</b> to development❔</td>
@@ -70,7 +68,7 @@ Now veneer the frustration/anxiety facets with <ins>rhetorical</ins> vs. <ins>op
 </tr><tr>
    <td><mark>Why</mark> don't many good <b>design decisions</b> survive, and how do bad ones rematerialize in the next endeavors❔</td>
    <td><mark>Why</mark> do frankly <b>bad parts</b> of dark code nonetheless fuse to enterprise architecture that works and persists for years❔</td>
-   <td><mark>How</mark> smart leads <b>pass between</b> evolutionary kludges and "conceptualism" utopia❔</td>
+   <td><mark>How</mark> smart leads <b>pass between</b> augmenting kludges and "conceptualism" utopia❔</td>
 </tr></table>
 
 #### And the answer to many <mark>WHY</mark> isn't always or principally a bad design state.
@@ -100,8 +98,9 @@ detecting what helps and what harms in mundane code (that is, answers the <samp>
 
 ## What's next
 
-Even great masters didn't paint _magnum opus_ from the first cast but began with the primer. Let's roll up our sleeves, take a brush, and with shy strokes put layer after layer on the canvas of ...\
-[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;**Rationale** -> [**Big Picture**](../02.BigPict/README.md) -> [Stripes](../03.Stripes/README.md) -> [Forces](../04.Forces/README.md) -> [Roles](../05.Roles/README.md) -> [Factors](../06.Factors/README.md) -> [Wrap&nbsp;up](../07.Wrapping/README.md)
+Even great masters didn't paint _magnum opus_ from the first cast but began with the primer. Let's roll up our sleeves, take a brush, and with shy strokes put layer after layer\
+on the canvas of ...\
+[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;**Rationale** &rarr; [**Big Picture**](../02.BigPict/README.md) &rarr; [Stripes](../03.Stripes/README.md) &rarr; [Forces](../04.Forces/README.md) &rarr; [Roles](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md)
 
 <div align="right">🌒 ...2024-2025... &nbsp; <a href="../../../../pencraft/README+/quotes/README+/cornerstones.md"><img src="https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue" /></a>
 
