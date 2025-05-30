@@ -1,19 +1,20 @@
-[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;**Rationale** -> [Big Picture](../02.BigPict/README.md) -> [Stripes](../03.Stripes/README.md) -> [Forces](../04.Forces/README.md) -> [Roles](../05.Roles/README.md) -> [Factors](../06.Factors/README.md) -> [Wrap&nbsp;up](../07.Wrapping/README.md)
+[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️ **R&thinsp;A&thinsp;T&thinsp;I&thinsp;O&thinsp;N&thinsp;A&thinsp;L&thinsp;E** &rarr; Big Picture &rarr; Stripes &rarr; Forces &rarr; Roles &rarr; Factors &rarr; Wrap&nbsp;up
 
 ---
-
-# Rationale
 
 <details><summary><ins>&nbsp;&nbsp;&nbsp;A metaphor you may skip&nbsp;</ins>&nbsp;.&thinsp;.&thinsp;.</summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&thinsp;.&thinsp;. but (thanks) you've clicked.
 
 <p dir="rtl">A cherry-picked <b>metaphor</b><br />simplifies explanation<br />.(at times even for readers)</p>
 
-<table><tr valign="top"><td><p><b>Figure of chess is a universal figure of speech...</b><sup>♟️</sup></p>
+<p align="right"><b>Figure of chess is a universal figure of speech...</b><sup>♟️</sup></p>
+
+<table><tr valign="top"><td>
+<details><summary><ins>Who is your opponent in software?</ins></summary>
+Not a customer, a manager, other programmers, or users ...
+<p align="center"><b><samp>The &thinsp;D&thinsp;E&thinsp;V&thinsp;E&thinsp;L&thinsp;O&thinsp;P&thinsp;M&thinsp;E&thinsp;N&thinsp;T</samp></b></p>
+</details>
   <p><img alt="&nbsp;IT chess phantasy" src="../../../../_rsc/_img/illus/ChessIT.jpg" /></p>
-<p dir="rtl"><sub>or I'm boring and unimaginative to&nbsp;&#8230;&nbsp;</sub><sup>♟️</sup><br><sub>.propose better and smarter analogies</sub></p>
-<blockquote><b>Who is the opponent in software?</b><br />
-  Not a customer, a manager, or a user.<br />The development❕</blockquote>
 
 Win - Breaking changes go light.
 
@@ -58,7 +59,7 @@ These two are paved with miscellaneous dilemmas, but one pivotal:
 
 Now veneer the frustration/anxiety facets with <ins>rhetorical</ins> vs. <ins>open</ins> <kbd>&thinsp;<samp><b>I&thinsp;S</b></samp>&thinsp;</kbd>, <kbd>&thinsp;<samp><b>W&thinsp;H&thinsp;Y</b></samp>&thinsp;</kbd>, and <kbd>&thinsp;<samp><b>H&thinsp;O&thinsp;W</b></samp>&thinsp;</kbd> tiles:
 
-<table valign="center" align="center"><tr>
+<table valign="center" align="center"><tr></tr><tr>
    <td width="34%"><mark>WHY</mark> is <b>experience</b> rater an <b>inhibitor</b> of rapid development❔</td>
    <td width="33%"><mark>How</mark> can the code <b>obfuscate</b> lucid domain logic for reviewers❔</td>
    <td><mark>Why</mark> could a small syntax sugar become a <i>breaking change</i>❔ </td>
@@ -99,8 +100,9 @@ detecting what helps and what harms in mundane code (that is, answers the <samp>
 
 ## What's next
 
-We can't paint <sub><picture><img alt="&thinsp;Arc&nbsp;Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png" /></picture></sub> from the first cast but let's roll up our sleeves, take a brush, and with shy strokes put layer after layer on the canvas of software abstractionism...
+Even great masters didn't paint _magnum opus_ from the first cast but began with the primer. Let's roll up our sleeves, take a brush, and with shy strokes put layer after layer on the canvas of ...\
+[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;**Rationale** -> [**Big Picture**](../02.BigPict/README.md) -> [Stripes](../03.Stripes/README.md) -> [Forces](../04.Forces/README.md) -> [Roles](../05.Roles/README.md) -> [Factors](../06.Factors/README.md) -> [Wrap&nbsp;up](../07.Wrapping/README.md)
 
-> 👆 **Now it's only the <samp><ins><span title="Applying layers to create a barrier between the canvas and the paint.">PRIMING</span></ins></samp>.**
+<div align="right">🌒 ...2024-2025... &nbsp; <a href="../../../../pencraft/README+/quotes/README+/cornerstones.md"><img src="https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue" /></a>
 
-🔚&nbsp;🌒 ...2024-2025... &nbsp;&nbsp; [![Powered by good quotes](https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue)](../../../../pencraft/README+/quotes/README+/cornerstones.md)
+  
