@@ -126,7 +126,7 @@ Prefer `<a id="anchor_name" />` for sustained (internal) links to avoid changeab
 
 Avoid clickable images unless they are links or a detailed (bigger) version &thinsp;&mdash;&thinsp; HTML `<picture>` to rescue.
 
-</td><td><picture><img width="100px" alt="&nbsp;LONG READ" src="../../_rsc/_img/signs/LongRead/2845px_rotate90.jpg" /></picture>
+</td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../_rsc/_img/signs/LongRead/2845px_rotate90.jpg" /></picture>
 </td></tr></table>
 <!--                                                         W R A P - U P                       --!>
 <table><tr valign="top"><td><picture><img alt="&nbsp;WRAP UP" src="../../_rsc/_img/signs/WrapUp/counter-rotate/80x144_fold.jpg" /></picture></td><td>
