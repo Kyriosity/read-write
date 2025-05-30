@@ -23,7 +23,7 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 * There's no excuse to avoid grammar check browser plugins.
 * View releases on browsers with different engines.
-* Always preview the mobile presentation to be passable (but don't expect a nice layout on small screens).
+* Always preview the mobile presentation to ensure it is passable and navigable (but don't expect a pretty layout on small screens).
 
 ## Limitations
 
@@ -57,7 +57,7 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 ### Pictures
 
-+ There's nothing wrong with including images in documents, but their size. Also, markdown on Git won't support goodies like linkable picture areas or images in pop-ups.
++ There's nothing wrong with including images in documents, but their size. Also, markdown on Git won't support goodies like linkable picture areas, images in pop-ups, or big icons.
 
 ### Pictograms / Symbols
 
@@ -92,9 +92,11 @@ Besides symbols, the best HTML pals of markdown writers are
 + `<table>` - needs explanation?
 + `<sub>`, `<sup>`, and `..[v]align=..`.
 
-### Fancy footnotes
+### Fancy (mnemonic) footnotes
 
-Numbered footnotes are academic and convenient, but a number itself won't tell much about its subject (when separated by enough content). Mnemonic superscript references are eye-catching<sup>🙋</sup>.\
+Numbered footnotes are academic and convenient, and you shall use [the :octocat:supported](https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/).
+
+But a digit itself won't tell much about its subject (and you may not want to jump forth and back between reading). Mnemonic superscript references are eye-catching<sup>🙋</sup>.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>You can invent your footnotes vocabulary, as I use _raising hand_ to voice my opinion.</sub>
 
 ### Links suffixes
