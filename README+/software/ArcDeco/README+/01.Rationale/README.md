@@ -56,21 +56,23 @@ These two are paved with miscellaneous dilemmas, but one pivotal:
 <sub>(Developing excellent features, feeling the patterns and principles, and writing <a href="../../../QA/README+/code-quality.md">quality code</a>, 
   <br />but expectations end up with achieving just a passable project state.)</sub></h3>
 
-Now veneer them with <ins>rhetorical</ins> vs. <ins>open</ins> <kbd>&thinsp;<samp><b>I&thinsp;S</b></samp>&thinsp;</kbd>, <kbd>&thinsp;<samp><b>W&thinsp;H&thinsp;Y</b></samp>&thinsp;</kbd>, and <kbd>&thinsp;<samp><b>H&thinsp;O&thinsp;W</b></samp>&thinsp;</kbd> tiles:
+Now veneer the frustration/anxiety facets with <ins>rhetorical</ins> vs. <ins>open</ins> <kbd>&thinsp;<samp><b>I&thinsp;S</b></samp>&thinsp;</kbd>, <kbd>&thinsp;<samp><b>W&thinsp;H&thinsp;Y</b></samp>&thinsp;</kbd>, and <kbd>&thinsp;<samp><b>H&thinsp;O&thinsp;W</b></samp>&thinsp;</kbd> tiles:
 
-* Is there something supernatural in system design compared to project development?
-* Why is experience rather an inhibitor of rapid development?
-* How can the code obfuscate lucid domain logic for reviewers?
-* Why don't bright architectural ideas propagate to development?
-* Why is getting into big projects a headache and dread?
-* Why does adapting external solutions require excessive work?
-* Why don't many good design decisions survive, and how do bad ones rematerialize in the next endeavors?
-* Why are developers doomed to repeat decisions and solutions done by others?
-* Why do frankly bad parts of dark code nonetheless fuse to enterprise architecture that works and persists for years?
-* Why could a harmless syntax sugar be delayed for releases as a _breaking change_? 
-* How smart leads pass between evolutionary kludges and "conceptualism" utopia.
+<table valign="center" align="center"><tr>
+   <td width="34%"><mark>WHY</mark> is <b>experience</b> rater an <b>inhibitor</b> of rapid development❔</td>
+   <td width="33%"><mark>How</mark> can the code <b>obfuscate</b> lucid domain logic for reviewers❔</td>
+   <td><mark>Why</mark> could a small syntax sugar become a <i>breaking change</i>❔ </td>
+</tr><tr>
+   <td><mark>Why</mark> is getting into big projects a headache and <b>dread</b>❔</td>
+   <td><mark>Why</mark> don't bright architectural ideas <b>propagate</b> to development❔</td>
+   <td><mark>Why</mark> are developers doomed to <b>reinvent</b> decisions&thinsp;/&thinsp;solutions of others❔</td>
+</tr><tr>
+   <td><mark>Why</mark> don't many good <b>design decisions</b> survive, and how do bad ones rematerialize in the next endeavors❔</td>
+   <td><mark>Why</mark> do frankly <b>bad parts</b> of dark code nonetheless fuse to enterprise architecture that works and persists for years❔</td>
+   <td><mark>How</mark> smart leads <b>pass between</b> evolutionary kludges and "conceptualism" utopia❔</td>
+</tr></table>
 
-And the answer to many <kbd>why</kbd> isn't always or principally a bad design state.
+#### And the answer to many <mark>WHY</mark> isn't always or principally a bad design state.
 
 <table><tr><td><picture><img alt="&nbsp;sitting on ice" src="../../../../_rsc/_img/symbols/extinct_species.png"/></picture></td><td>
   
