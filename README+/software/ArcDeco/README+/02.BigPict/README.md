@@ -49,5 +49,5 @@ Let's begin with contours, **intentionally** left without annotations to defy yo
 
 Let's dive deeper behind pictures of _art naif_ in the following chapters.
 
-[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;[Rationale](../01.Rationale/README.md) &larr; **Big Picture** &rarr; [Stripes](../03.Stripes/README.md) &rarr; [Forces](../04.Forces/README.md) &rarr; [Roles](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md)
+[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;[Rationale](../01.Rationale/README.md) &larr; **Big Picture** &rarr; [**Stripes**](../03.Stripes/README.md) &rarr; [Forces](../04.Forces/README.md) &rarr; [Roles](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md)
 <div align="right">🌒 ...2024-2025...</div>
