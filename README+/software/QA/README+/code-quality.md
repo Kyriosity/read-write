@@ -1,5 +1,5 @@
-<p dir="rtl">,Junior developer writes poor code<br/>
-,advanced one - good code<br/>
+<p dir="rtl">,Junior developers writes poor code<br/>
+,they advanced &mdash; good code<br/>
 ,experts write no code<br/>
 gurus delete code<br/></p>
 <p dir="rtl"><i>Anonymous</i></p>
@@ -9,8 +9,13 @@ gurus delete code<br/></p>
 <table><tr></tr><tr valign="center"><td width=30%>
   <picture><img src="../../../_rsc/_img/photo/misc/pour_concrete.jpg" alt="&nbsp;pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
 </td><td>
-<h3>Code is the <mark>cement</mark> of software. Its quality is imperceptible to spectators and doesn't matter much for booths.</h3>
-<h3>Still, it ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions — poor quality, as in buildings, leads to menacing cracks.</h3>
+  
+### Code is the <mark>cement</mark> of software. Its quality is imperceptible to spectators and doesn't matter much for booths.
+
+### But it ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions.
+
+#### Poor quality, as in buildings, leads to menacing cracks, which no design clamps can hold for long.
+
 </td></tr></table>
 
 ## High-quality code
@@ -21,7 +26,7 @@ That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`cl
 + [x] **teaches** techniques and gimmicks,
 + [x] **inspires** to contribute (<ins>rather than to re-implement</ins>).
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>↔️</sup> <sub>On-boarding developers can learn the domain from code (sure, not alone), while the domain expert (with some assistance) will grasp the implemented application logic.</sub>
+&nbsp; &nbsp; <sup>↔️</sup> <sub>On-boarding developers can learn the domain from code (sure, not alone), while the domain expert (with some assistance) will grasp the implemented application logic.</sub>
 
 ### <samp>Re:</samp> Bugs 🪳
 
@@ -105,7 +110,8 @@ Besides _classical_ over-creativity and procrastination, the reasons could be:
 + hesitation in using and contributing to shared code (from team/enterprise foundations up to open source)
 
 Some prominent individuals develop great apps alone and are so good at keeping all details and the whole picture in mind that they don't need to and like to lose time with code organization. 
-However, this is exceptional and not about enterprise development.
+
+However, these cases are exceptional and not about enterprise development.
 
 \___________\
 &nbsp; &nbsp; <sup>:wilted_flower:</sup> <samp>Budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation.</samp>\
