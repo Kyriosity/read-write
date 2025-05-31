@@ -1,27 +1,30 @@
 # <sub>[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md)</sub> &rarr; Rationale &thinsp;.&thinsp;.&thinsp;.
 
-<details><summary><ins>&nbsp;&nbsp;&nbsp;A metaphor you may skip&nbsp;</ins>&nbsp;.&thinsp;.&thinsp;.</summary>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&thinsp;.&thinsp;. but (thanks) you've clicked.
+<details><summary><ins>&nbsp; &nbsp;A metaphor you may skip&nbsp;</ins>&nbsp;.&thinsp;.&thinsp;.</summary>
+&nbsp; &nbsp; &nbsp;.&thinsp;.&thinsp;. but (thanks) you've clicked.
 
 <p dir="rtl">A cherry-picked <b>metaphor</b><br />simplifies explanation<br />.(at times even for readers)</p>
 
 <p align="right"><b>Figure of chess is a universal figure of speech...</b><sup>♟️</sup></p>
 
-<table><tr valign="top"><td>
-<details><summary><ins>Who is your opponent in software?</ins></summary>
-Not a customer, a manager, other programmers, or users ...
-<p align="center"><b><samp>The &thinsp;D&thinsp;E&thinsp;V&thinsp;E&thinsp;L&thinsp;O&thinsp;P&thinsp;M&thinsp;E&thinsp;N&thinsp;T</samp></b></p>
+<table><tr valign="top"><td width="45%">
+<details><summary><ins>&thinsp;Who is your opponent in software?&thinsp;</ins></summary>
+Users, managers, other developers, or the Architect? None ...
+<p align="center"><b><samp>The &thinsp;D&thinsp;E&thinsp;V&thinsp;E&thinsp;L&thinsp;O&thinsp;P&thinsp;M&thinsp;E&thinsp;N&thinsp;T&thinsp; itself<sup>⬇️</sup></samp></b></p>
 </details>
   <p><img alt="&nbsp;IT chess phantasy" src="../../../../_rsc/_img/illus/ChessIT.jpg" /></p>
 
-Win - Breaking changes go light.
+🎇**Win** &thinsp;&mdash;&thinsp; pattern teasers make up frameworks. Breaking changes go light.
 
-Checked - principal changes are done with Woodoo programming.
+Checked &thinsp;&mdash;&thinsp; principal changes are done with Woodoo programming.
 
-Stalemate - the project works, but big features can hardly be added.
+Stalemate &thinsp;&mdash;&thinsp; the project works, but big features can hardly be added.
 
-Mate - dev stops, support only. It is time to give it away to another team and speak about a remake in other technologies.
-  
+**Mate** &thinsp;&mdash;&thinsp; dev stops, support only. It is time to give it away to another team and speak about a remake in other technologies.
+
+\___________\
+<sup>⬇️</sup> **Why development?** It involves you into positional traps, lures by shortcuts.
+
 </td><td>
   
 ♕♛ Learning elementary programming and the rules of the checkered strategy are both fast, enjoyable, and attainable for the masses. 
@@ -42,7 +45,7 @@ The number of games or written applications won't break the ceiling.<sup>👑</s
 In chess, theoretical roadmaps and schools lead to higher ratings, ruthlessly administering one's place. <b>Here, the metaphor breaks down.</b> 
 Software ways to craftsmanship are inscrutable and assessed by eye.
 
-<div dir="rtl"><sub>&mdash; Popular chess servers can brag about legends&nbsp;&nbsp;&mdash; not bots, but pausing for sleep only</sub><sup>👑</sup><br />
+<div dir="rtl"><sub>&mdash; Popular chess servers can brag about legends&nbsp; &mdash; not bots, but pausing for sleep only</sub><sup>👑</sup><br />
 .<sub>with an astronomical number of games but slightly growing amateur ELO ratings</sub></div>
 
 </td></tr></table></details>
@@ -100,6 +103,6 @@ detecting what helps and what harms in mundane code (that is, answers the <samp>
 
 Even great masters didn't paint _magnum opus_ from the first cast but began with the primer. Let's roll up our sleeves, take a brush, and with shy strokes put a layer after layer\
 on the canvas of ...\
-[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;**Rationale** &rarr; [**Big Picture**](../02.BigPict/README.md) &rarr; [Stripes](../03.Stripes/README.md) &rarr; [Forces](../04.Forces/README.md) &rarr; [Roles](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md)
+[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp; &nbsp; &nbsp;↪️&nbsp;**Rationale** &rarr; [**Big Picture**](../02.BigPict/README.md) &rarr; [Stripes](../03.Stripes/README.md) &rarr; [Forces](../04.Forces/README.md) &rarr; [Roles](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md)
 
 <div align="right">🌒 ...2024-2025... &nbsp; <a href="../../../../pencraft/README+/quotes/README+/cornerstones.md"><img src="https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue" /></a></div>
