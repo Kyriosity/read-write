@@ -54,14 +54,16 @@ Such menaces encourage us to verbalize the metaphysics of software.
 
 <h2 align="center">... opening ...</h3>
 
-<picture><img alt="&nbsp;Arc Deco" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-14px.jpg" /></picture>&nbsp;(<mark><b>Arc</b></mark>hitecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding).\
+<picture><img alt="&nbsp;Arc Deco" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-14px.jpg" /></picture>&nbsp;(<mark><b>Arc</b></mark>hitecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding). 
 I couldn't find a better tag but a mocking acronym<sup>🎨</sup> to distinguish the following survey (at least for the file system).
- 
- &nbsp; &nbsp; &nbsp;↪️&nbsp;[**Rationale**](README+/01.Rationale/README.md) -> [**Big Picture**](README+/02.BigPict/README.md) -> [**Stripes**](README+/03.Stripes/README.md) -> [**Forces**](README+/04.Forces/README.md) -> [**Roles**](README+/05.Roles/README.md) -> [**Factors**](README+/06.Factors/README.md) -> [**Wrap&nbsp;up**](README+/07.Wrapping/README.md)
+
+Press to continue:\
+ &nbsp; &nbsp; &nbsp;↪️&nbsp;[**RATIONALE**](README+/01.Rationale/README.md) &rarr; **Big Picture** &rarr; **Stripes** &rarr; **Forces** &rarr; **Roles** &rarr; **Factors** &rarr; **Wrap&nbsp;up**
 
 \___________\
 &nbsp; &nbsp;<sup>🙋</sup> <samp>This said not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or gaming engines) but challenges beyond the ordinary: 
-new LOB foundation, unfamiliar domains (such as CAD or interpreters), or remakes (original graph base, making async from legacy and dividing modules).</samp>\
-&nbsp; &nbsp;<sup>🎨</sup> <samp>Homonym to __Arc&nbsp;Deco__ - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco) (`är-dā-ˈkō`) with its comeback, ~century after its introduction at the _International Exhibition of Modern Decorative and Industrial Arts_ in Paris.</samp>
+new LOB foundation, unfamiliar domains (such as CAD or interpreters), or remakes (original graph base, making async from legacy, and dividing modules).</samp>\
+&nbsp; &nbsp;<sup>🎨</sup> <samp>Homonym to __Arc&nbsp;Deco__ - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco)</samp><sup><b>w</b></sup><samp> (`är-dā-ˈkō`) 
+with its comeback, ~century after its introduction at the _International Exhibition of Modern Decorative and Industrial Arts_ in Paris.</samp>
 
  🔚 ... <sub>Collage credit: _Alessandro di Mariano di Vanni Filipepi_, _Raffaello Sanzio da Urbino_, _Edvard Munch_, and _Salvador Domingo Felipe Jacinto Dalí i Domènech_</sub>
