@@ -1,4 +1,4 @@
-# <sub>[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md)</sub> &rarr; Rationale
+# <sub>[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md)</sub> &rarr; Rationale &thinsp;.&thinsp;.&thinsp;.
 
 <details><summary><ins>&nbsp;&nbsp;&nbsp;A metaphor you may skip&nbsp;</ins>&nbsp;.&thinsp;.&thinsp;.</summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&thinsp;.&thinsp;. but (thanks) you've clicked.
@@ -47,11 +47,11 @@ Software ways to craftsmanship are inscrutable and assessed by eye.
 
 </td></tr></table></details>
 
-<p align="center"><samp><b>E&thinsp;N&thinsp; L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&thinsp;E&thinsp;N&thinsp;M&thinsp;E&thinsp;N&thinsp;T</b></samp>&thinsp;💡 in System Engineering has many facets, two of which are secured:<br /><b>enthusiasm</b> and <b>frustration</b>.</p>
+<p align="center"><samp><b>E&thinsp;N&thinsp;L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&thinsp;E&thinsp;N&thinsp;M&thinsp;E&thinsp;N&thinsp;T</b></samp>&thinsp;💡 in System Engineering has many facets, two of which are secured:<br /><b>enthusiasm</b> and <b>frustration</b>.</p>
 
 These two are paved with miscellaneous dilemmas, but one pivotal:
 
-<h3 align="center"><b><samp>Why don't best development practices make great design by themselves?&thinsp;</b><br />
+<h3 align="center"><b><samp><mark>Why don't best development practices make great design by themselves?&thinsp;</mark></b></samp><br />
 <sub>(Developing excellent features, feeling the patterns and principles, and writing <a href="../../../QA/README+/code-quality.md">quality code</a>, 
   <br />but expectations end up with achieving just a passable project state.)</sub></h3>
 
@@ -84,9 +84,9 @@ And these are your peers with different backgrounds who created them. «Not gods
   
 </td></tr></table>
 
-## Goal
+## Goal &thinsp;&mdash;&thinsp; <mark>Bridge development to design</mark>
 
-Bridge development to design. This requires **abstraction of** software **abstractionism** but with utilitarian intentions: 
+This requires **abstraction of** software **abstractionism** but with utilitarian intentions: 
 detecting what helps and what harms in mundane code (that is, answers the <samp><i>WHY</i></samp>s and <samp><i>HOW</i></samp>s above).
 
 ### Objectives
@@ -98,10 +98,8 @@ detecting what helps and what harms in mundane code (that is, answers the <samp>
 
 ## What's next
 
-Even great masters didn't paint _magnum opus_ from the first cast but began with the primer. Let's roll up our sleeves, take a brush, and with shy strokes put layer after layer\
+Even great masters didn't paint _magnum opus_ from the first cast but began with the primer. Let's roll up our sleeves, take a brush, and with shy strokes put a layer after layer\
 on the canvas of ...\
 [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;**Rationale** &rarr; [**Big Picture**](../02.BigPict/README.md) &rarr; [Stripes](../03.Stripes/README.md) &rarr; [Forces](../04.Forces/README.md) &rarr; [Roles](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md)
 
-<div align="right">🌒 ...2024-2025... &nbsp; <a href="../../../../pencraft/README+/quotes/README+/cornerstones.md"><img src="https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue" /></a>
-
-  
+<div align="right">🌒 ...2024-2025... &nbsp; <a href="../../../../pencraft/README+/quotes/README+/cornerstones.md"><img src="https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue" /></a></div>
