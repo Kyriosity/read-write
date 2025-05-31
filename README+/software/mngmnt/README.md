@@ -1,8 +1,8 @@
-# Code, Dev, and Docu&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Management&nbsp;&nbsp;&mdash;&nbsp;&nbsp;<em>Opinion</em>
+# Code, Dev, and Docu &nbsp;&mdash;&nbsp; Management&nbsp;&nbsp;&mdash;&nbsp;&nbsp;<em>Opinion</em>
 
 The exponential (and chaotic) growth of software projects in the 2000s founded the "parallel" realm of their organization: requirements/issue tracking, code collecting/versioning, collaboration tools, deployment services, and project management.
 
-You must be reading now from a  **Git**<sup>:octocat:</sup> repository while other platforms, frameworks, and methodologies will take some screen scrolls to name only the popular ones.
+You must be reading now from a  **Git**<sup>:octocat:</sup> repository while other platforms, frameworks, and methodologies will take some screen scrolls to name only the trending ones.
 
 ## Good organization
 
@@ -14,16 +14,16 @@ A commendable organization endows every process/measure with an exact explanatio
 
 + facilitates development,
 + spares human resources (especially in procedures and pushover tasks),
-+ increases code quality and decreases errors,
++ improves code quality and prevents errors,
 + automates routines.
 
-And not because chosen methodologies and tools are on trend.
+And not because chosen methodologies and tools are massively promoted.
 
 ### Technical advantages expected
 
 + Intuitive environment with short learning curves and minor maintenance.
 + Limited branching and staging for justified "autonomy".<sup>🌵</sup>
-+ Barriers for commits of bad code (copy-pasted, violations of guidelines and styles, obsolete features, anti-patterns).
++ Barriers for commits of bad code (copy-pasted, violations of guidelines and styles, obsolete features, anti-patterns, experimental hooks).
 + Eager use of code automation tools (including own frameworks).
 + Automated workflow of issues.<sup>⚙️</sup>
 
