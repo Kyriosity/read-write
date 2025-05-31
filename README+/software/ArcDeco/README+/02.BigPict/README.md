@@ -1,8 +1,4 @@
-[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;[Rationale](../01.Rationale/README.md) -> **Big&nbsp;Picture** -> [Stripes](../03.Stripes/README.md) -> [Forces](../04.Forces/README.md) -> [Roles](../05.Roles/README.md) -> [Factors](../06.Factors/README.md) -> [Wrap&nbsp;up](../07.Wrapping/README.md)
-
----
-
-# The Big Picture
+# <sub>[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md)</sub> &rarr; &thinsp;.&thinsp;.&thinsp;.&thinsp; Big Picture &thinsp;.&thinsp;.&thinsp;.
 
 <table><tr valign="top"><td width="45%">
    
@@ -25,7 +21,7 @@ Let's begin with contours, **intentionally** left without annotations to defy yo
 <table><tr valign="top"><td width="55%">
 <picture><img alt="&nbsp;image not found: ArcDeco-BigPict-forces_annotated.jpg" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-forces_annotated.jpg" /></picture>
 </td><td>
-      <p>The «<b>tearing X and Y axes</b>» in the intro were a two-dimension simplification for a figure of speech.</p>
+      <p>The «<b>tearing X and Y axis</b>» in the intro were a two-dimensional simplification for a figure of speech.</p>
     <p>What seems the first united will be stretched and squeezed.</p>
 </td></tr></table>
 
@@ -39,7 +35,7 @@ Let's begin with contours, **intentionally** left without annotations to defy yo
 <p>🧪&thinsp;<a href="../../../QA" title="&nbsp;read-write: QA"><b>Quality Assurance</b></a> &mdash; tests</p>
 <p>♾️&thinsp;<b>DevOps</b> &mdash; which must seamleassly deliver end products.</p> 
 <br /><br />
-    <p>Even if you're a single person on the project you may take all these roles.</p>
+    <p>Even if you're a single person on the project, you may take all these roles.</p>
 </td><td width="55%">
     <picture><img alt="&nbsp;image not found: ArcDeco-BigPict-agents_annotated.jpg" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-agents_annotated.jpg" /></picture>
 </td></tr></table>
@@ -47,12 +43,11 @@ Let's begin with contours, **intentionally** left without annotations to defy yo
 
 ## Image background
 
-<p title="&nbsp;Just imagine them behind the objects.">To avoid image overloading, the background wasn't laid - <ins>the sheets of resulting code with data and documentation</ins>.</p>
+<p title="&nbsp; Just imagine them behind the objects.">To avoid image overloading, the background wasn't laid - <ins>the sheets of resulting code with data and documentation</ins>.</p>
 
 ## What's next
 
 Let's dive deeper behind pictures of _art naif_ in the following chapters.
 
-🔚 **...** <picture><img alt="&nbsp;&nbsp;&nbsp;&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg"
-title="Arc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARChitecture&#013;&#010;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design&#013;&#010;e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dEvelopment&#013;&#010;co&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COde"/></picture>
-&nbsp;🌒 ...2024-2025...
+[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;[**Rationale**](../01.Rationale/README.md) &larr; **Big Picture** &rarr; [Stripes](../03.Stripes/README.md) &rarr; [Forces](../04.Forces/README.md) &rarr; [Roles](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md)
+<div align="right">🌒 ...2024-2025...</div>
