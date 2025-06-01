@@ -5,25 +5,26 @@
 
 <p dir="rtl">A cherry-picked <b>metaphor</b><br />simplifies explanation<br />.(at times even for readers)</p>
 
-<p align="right"><b>Figure of chess is a universal figure of speech...</b><sup>♟️</sup></p>
+#### Figure of chess is a universal figure of speech...
 
-<table><tr valign="top"><td width="45%">
+<table><tr valign="top"><td width="50%">
 <details><summary><ins>&thinsp;Who is your opponent in software?&thinsp;</ins></summary>
 Users, managers, other developers, or the Architect? None ...
 <p align="center"><b><samp>The &thinsp;D&thinsp;E&thinsp;V&thinsp;E&thinsp;L&thinsp;O&thinsp;P&thinsp;M&thinsp;E&thinsp;N&thinsp;T&thinsp; itself<sup>⬇️</sup></samp></b></p>
 </details>
   <p><img alt="&nbsp;IT chess phantasy" src="../../../../_rsc/_img/illus/ChessIT.jpg" /></p>
 
-🎇**Win** &thinsp;&mdash;&thinsp; pattern teasers make up frameworks. Breaking changes go light.
+🎇**Win** &thinsp;&mdash;&thinsp; pattern teasers make up frameworks. Breaking changes go light.\
+The more realistic **draw** means "the controllable chaos" of development. 
 
 Checked &thinsp;&mdash;&thinsp; principal changes are done with Woodoo programming.
 
 Stalemate — the project works, but it's challenging to add significant features.
 
-**Mate** &thinsp;&mdash;&thinsp; dev stops, support only. It is time to give it away to another team and speak about a remake in other technologies.
+**Mate** &thinsp;&mdash;&thinsp; dev stops, support only. The proper time to hand the project over to another team or discuss a remake in other technologies.
 
 \___________\
-<sup>⬇️</sup> **Why development?** It involves you into positional traps, lures by shortcuts.
+<sup>⬇️</sup> **Why development?** It lures you in with shortcuts and involves you in positional traps: techno details, design trade-offs, etc.
 
 </td><td>
   
