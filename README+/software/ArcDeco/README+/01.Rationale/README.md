@@ -50,28 +50,26 @@ Software ways to craftsmanship are inscrutable and assessed by eye.
 
 </td></tr></table></details>
 
-<p align="center"><samp><b>E&thinsp;N&thinsp;L&thinsp;I&thinsp;G&thinsp;H&thinsp;T&thinsp;E&thinsp;N&thinsp;M&thinsp;E&thinsp;N&thinsp;T</b></samp>&thinsp;💡 in System Engineering has many facets, two of which are secured:<br /><b>enthusiasm</b> and <b>frustration</b>.</p>
+The path of _System Engineering_ is paved with many plates, but two secured: <b>enthusiasm</b> and <b>frustration</b>. The latter is inscribed with:
 
-These two are paved with miscellaneous dilemmas, but one pivotal:
-
-<h3 align="center"><b><samp><mark>Why don't best development practices make great design by themselves?&thinsp;</mark></b></samp><br />
+<h3 align="center"><b><samp><mark>&thinsp;Why don't best development practices make great design by themselves?&thinsp;</mark></b></samp><br />
 <sub>(Developing excellent features, feeling the patterns and principles, and writing <a href="../../../QA/README+/code-quality.md">quality code</a>, 
   <br />but expectations end up with achieving just a passable project state.)</sub></h3>
 
-Now veneer the frustration/anxiety facets with <ins>rhetorical</ins> vs. <ins>open</ins> <kbd>&thinsp;<samp><b>I&thinsp;S</b></samp>&thinsp;</kbd>, <kbd>&thinsp;<samp><b>W&thinsp;H&thinsp;Y</b></samp>&thinsp;</kbd>, and <kbd>&thinsp;<samp><b>H&thinsp;O&thinsp;W</b></samp>&thinsp;</kbd> tiles:
+Now veneer the frustration/anxiety facet with <ins>**rhetorical**</ins> _vs._ <ins>**open**</ins> <kbd>&thinsp;<samp><b>I&thinsp;S</b></samp>&thinsp;</kbd>, <kbd>&thinsp;<samp><b>W&thinsp;H&thinsp;Y</b></samp>&thinsp;</kbd>, and <kbd>&thinsp;<samp><b>H&thinsp;O&thinsp;W</b></samp>&thinsp;</kbd> tiles:
 
 <table valign="center" align="center"><tr></tr><tr>
-   <td width="34%"><mark>Why</mark> is <b>experience</b> rater an <b>inhibitor</b> of rapid development❔</td>
-   <td width="33%"><mark>How</mark> can the code <b>obfuscate</b> lucid domain logic for reviewers❔</td>
-   <td><mark>How</mark> can a small <b>change</b> (even syntax sugar) become <i>breaking</i>❔ </td>
+   <td width="34%">Why is <b>experience</b> rater an <b>inhibitor</b> of rapid development❔</td>
+   <td width="33%">Why don't bright architectural ideas <b>propagate</b> to development❔</td>
+   <td>Why are developers doomed to <b>reinvent</b> decisions&thinsp;/&thinsp;solutions of others❔</td>
 </tr><tr>
-   <td><mark>Why</mark> is getting into big projects a headache and <b>dread</b>❔</td>
-   <td><mark>Why</mark> don't bright architectural ideas <b>propagate</b> to development❔</td>
-   <td><mark>Why</mark> are developers doomed to <b>reinvent</b> decisions&thinsp;/&thinsp;solutions of others❔</td>
+   <td>Why is getting into big projects a headache and <b>dread</b>❔</td>
+   <td>How can the code <b>obfuscate</b> lucid domain logic for reviewers❔</td>
+   <td>How can a small <b>change</b> (even syntax sugar) become <i>breaking</i> or even a <b>flaw</b>❔</td>
 </tr><tr>
-   <td><mark>Why</mark> don't many good <b>design decisions</b> survive, and how do bad ones rematerialize in the next endeavors❔</td>
-   <td><mark>Why</mark> do frankly <b>bad parts</b> of dark code nonetheless fuse to enterprise architecture that works and persists for years❔</td>
-   <td><mark>How</mark> smart leads <b>pass between</b> augmenting kludges and "conceptualism" utopia❔</td>
+   <td>Why don't many good <b>design decisions</b> survive, and how do bad ones rematerialize in the next endeavors❔</td>
+   <td>Why do frankly <b>bad parts</b> of dark code nonetheless fuse to enterprise architecture that works and persists for years❔</td>
+   <td>How smart leads <b>pass between</b> augmenting kludges and "conceptualism" utopia❔</td>
 </tr></table>
 
 #### And the answer to many <mark>WHY</mark> isn't always or principally a bad design state.
