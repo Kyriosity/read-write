@@ -18,7 +18,7 @@ Users, managers, other developers, or the Architect? None ...
 
 Checked &thinsp;&mdash;&thinsp; principal changes are done with Woodoo programming.
 
-Stalemate &thinsp;&mdash;&thinsp; the project works, but big features can hardly be added.
+Stalemate — the project works, but it's challenging to add significant features.
 
 **Mate** &thinsp;&mdash;&thinsp; dev stops, support only. It is time to give it away to another team and speak about a remake in other technologies.
 
@@ -50,7 +50,7 @@ Software ways to craftsmanship are inscrutable and assessed by eye.
 
 </td></tr></table></details>
 
-The path of _System Engineering_ is paved with many plates, but two secured: <b>enthusiasm</b> and <b>frustration</b>. The latter is inscribed with:
+The path of _System Engineering_ begins with <b>enthusiasm</b> and goes through (if not ends in) <b>frustration</b>. The latter is inscribed with:
 
 <h3 align="center"><b><samp><mark>&thinsp;Why don't best development practices make great design by themselves?&thinsp;</mark></b></samp><br />
 <sub>(Developing excellent features, feeling the patterns and principles, and writing <a href="../../../QA/README+/code-quality.md">quality code</a>, 
