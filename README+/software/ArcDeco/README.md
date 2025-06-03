@@ -57,13 +57,16 @@ Such menaces encourage us to verbalize the metaphysics of software.
 <picture><img alt="&nbsp;Arc Deco" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-14px.jpg" /></picture>&nbsp;(<mark><b>Arc</b></mark>hitecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding). 
 I couldn't find a better tag but a mocking acronym<sup>🎨</sup> to distinguish the following survey (at least for the file system).
 
-**Press to continue** ⬇️:\
- &nbsp; &nbsp; &nbsp; &nbsp;➡️[**RATIONALE**](README+/01.Rationale/README.md) &rarr; **Big Picture** &rarr; **Stripes** &rarr; **Forces** &rarr; **Roles** &rarr; **Factors** &rarr; **Wrap&nbsp;up**
-
 \___________\
 &nbsp; &nbsp;<sup>🙋</sup> <samp>This said not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or gaming engines) but challenges beyond the ordinary: 
 new LOB foundation, unfamiliar domains (such as CAD or interpreters), or remakes (original graph base, making async from legacy, and dividing modules).</samp>\
 &nbsp; &nbsp;<sup>🎨</sup> <samp>Homonym to __Arc&nbsp;Deco__ - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco)</samp><sup><b>w</b></sup><samp> (`är-dā-ˈkō`) 
 with its comeback, _ca._ a century after its introduction at the _International Exhibition of Modern Decorative and Industrial Arts_ in Paris.</samp>
 
- 🔚 ... <sub>Collage credit: _Alessandro di Mariano di Vanni Filipepi_, _Raffaello Sanzio da Urbino_, _Edvard Munch_, and _Salvador Domingo Felipe Jacinto Dalí i Domènech_</sub>
+## What's next
+
+Even great masters didn't paint _magnum opus_ from the first cast but began with the primer. 
+Let's roll up our sleeves, take a brush, and with shy strokes put a layer after layer on the canvas of ...\
+[![Arc Deco.](../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;➡️&nbsp;[**RATIONALE**](README+/01.Rationale/README.md) &rarr; [Big Picture](../02.BigPict/README.md) &rarr; [Stripes](../03.Stripes/README.md) &rarr; [Forces](../04.Forces/README.md) &rarr; [Roles](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md)
+
+🔚 ... <sub>Collage credit: _Alessandro di Mariano di Vanni Filipepi_, _Raffaello Sanzio da Urbino_, _Edvard Munch_, and _Salvador Domingo Felipe Jacinto Dalí i Domènech_</sub>
