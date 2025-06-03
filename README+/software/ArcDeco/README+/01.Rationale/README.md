@@ -23,6 +23,8 @@ Stalemate — the project works, but it's challenging to add significant feature
 
 **Mate** &thinsp;&mdash;&thinsp; dev stops, support only. The proper time to hand the project over to another team or discuss a remake in other technologies.
 
+_Sacrifices_ mean not team members or customers, but refactoring (to give up a piece of achieved for the better).
+
 \___________\
 <sup>⬇️</sup> **Why development?** It lures you in with shortcuts and involves you in positional traps: techno details, design trade-offs, etc.
 
