@@ -67,6 +67,6 @@ with its comeback, _ca._ a century after its introduction at the _International 
 
 Even great masters didn't paint _magnum opus_ from the first cast but began with the primer. 
 Let's roll up our sleeves, take a brush, and with shy strokes put a layer after layer on the canvas of ...\
-[![Arc Deco.](../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;➡️&nbsp;[**RATIONALE**](README+/01.Rationale/README.md) &rarr; **Big&nbsp;Picture** &rarr; **Stripes** &rarr; **Forces** &rarr; **Roles** &rarr; **Factors** &rarr; **Wrap&nbsp;up**
+<pictire><img alt="&nbsp;Arc DECo" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png" /></picture> &nbsp;➡️ [**RATIONALE**](README+/01.Rationale/README.md) &rarr; **Big&nbsp;Picture** &rarr; **Stripes** &rarr; **Forces** &rarr; **Roles** &rarr; **Factors** &rarr; **Wrap&nbsp;up**
 
 🔚 ... <sub>Collage credit: _Alessandro di Mariano di Vanni Filipepi_, _Raffaello Sanzio da Urbino_, _Edvard Munch_, and _Salvador Domingo Felipe Jacinto Dalí i Domènech_</sub>
