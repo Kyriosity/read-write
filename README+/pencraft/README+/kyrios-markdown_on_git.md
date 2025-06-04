@@ -19,7 +19,7 @@ Some <mark>markdown</mark> beyond a moderately formatted text? Here is my ounce 
 ## Editors and Tools
 
 A simple markdown is readable without WYSIWYG, and no editor will support it. 
-No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the editor of choice is www.github.com, switching between _Edit_ and _Preview_.
+No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the editor of choice is www.github.com, toggling _Edit_ and _Preview_.
 
 * There's no excuse to avoid grammar check browser plugins.
 * View releases on browsers with different engines.
@@ -72,6 +72,8 @@ Review [HTML symbols](https://www.w3schools.com/charsets/ref_html_symbols.asp)<s
 > 
 > <a href="essays/README+/AI-2020s.md#evidence"><img alt="&nbsp;string of emojis presented different" src="../../_rsc/_img/snap/screen/emojis_diff-browsers.jpg" title="&nbsp;Click to see how it looks in yours" /></a>
 
+🔵 For regular authoring, consider a library of authentic pictograms (to include with `<picture>` / `<img>`).
+
 ### Miscellany
 
 Keep in mind inherently supported `code snippets` with `diffs`, [math expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)<sup>:octocat:</sup>, and [badges](https://shields.io/)<sup>🔗</sup>.
@@ -96,7 +98,7 @@ Besides symbols, the best HTML pals of markdown writers are
 
 Numbered footnotes are academic and convenient, and you shall use [the :octocat:supported](https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/).
 
-But a digit itself won't tell much about its subject (and you may not want to jump forth and back between reading). Mnemonic superscript references are eye-catching<sup>🙋</sup>.\
+But a digit itself won't tell much about its subject (and you may not want to jump forth and back between clauses). Mnemonic superscript references are eye-catching<sup>🙋</sup>.\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>You can invent your footnotes vocabulary, as I use _raising hand_ to voice my opinion.</sub>
 
 ### Links suffixes
