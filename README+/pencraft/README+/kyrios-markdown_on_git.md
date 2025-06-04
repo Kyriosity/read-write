@@ -134,7 +134,8 @@ Avoid clickable images unless they are links or a detailed (bigger) version &thi
 ### 🎉 You made it to a markdown lord🎈and now ...
 
 + You may consider Git-supported dialects as [flavored markdown](https://github.github.com/gfm/)<sup>:octocat:</sup> and converters as [PanDoc](https://pandoc.org)<sup>🔗</sup>. 
-+ There are legions of content management and site creation tools for big projects that are more suitable and pro than markdown-on-Git.
++ There are legions of content management and site creation tools for big projects that are more suitable and professional than markdown-on-Git.
++ There are GitHub Pages (GitHub.io) that you can add to a Git profile.
 
 </td></tr></table>
 
