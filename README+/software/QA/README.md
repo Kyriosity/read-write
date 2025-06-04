@@ -2,16 +2,17 @@
 
 <table><tr valign="center"><td width="42%">
  
-Software is a pure abstraction ether on fragile carriers.
+Software is a pure abstraction ether poured into fragile containers.
  
-The frivolous, fleeting, and exploding spirit of its development makes software inherently and largely
+The frivolous, fleeting, and exploding spirit of development makes it inherently and largely
  
 <div align="center"><b><samp>E&thinsp;R&thinsp;R&thinsp;O&thinsp;R&thinsp;-&thinsp;p&thinsp;r&thinsp;o&thinsp;n&thinsp;e&thinsp;.</samp></b></div>
 </td><td><picture><img alt="&nbsp;Bug in flask" src="../../_rsc/_img/signs/bugs/bug_in_flask-pencil-250px.jpg" /></picture></td><td width="42%">
 
 Software became an irreplaceable stratum of civilization as technology.
 
-<div>Its applications manage crucial systems of all kinds and must be</div>
+Its applications manage crucial systems of all kinds and must be
+
 <div align="center"><b><samp>S&thinsp;T&thinsp;A&thinsp;B&thinsp;L&thinsp;e&thinsp; </samp>and<samp> &thinsp;R&thinsp;O&thinsp;B&thinsp;U&thinsp;S&thinsp;T&thinsp;.</samp></b></div>
 </td></tr></table>
 
@@ -55,7 +56,7 @@ This statement applies to all other cases where IT pundits lack the expertise to
 
 ### Velvet gloves of discipline
 
-Breaking changes as close as fingers to the keyboard, commits that can be rolled back with a click, development/testing playgrounds and sandboxes, ["it works on my machine"](../../pencraft/README+/memes/README+/polyptych_works.md).
+Breaking changes as close as fingers to the keyboard, commits that can be rolled back with a click, development playgrounds and tesring sandboxes, ["it works on my machine"](../../pencraft/README+/memes/README+/polyptych_works.md), ...
 
 What's admissible on "tangible" projects may lead to epic fails on a larger scale.
 
