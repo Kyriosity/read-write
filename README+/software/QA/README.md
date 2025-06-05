@@ -2,14 +2,14 @@
 
 <table><tr valign="center"><td width="42%">
  
-Software is a pure abstraction ether poured into fragile containers.
+**Software is a pure abstraction ether poured into fragile containers made of code.**
  
 The frivolous, fleeting, and exploding spirit of development makes it inherently and largely
  
 <div align="center"><b><samp>E&thinsp;R&thinsp;R&thinsp;O&thinsp;R&thinsp;-&thinsp;p&thinsp;r&thinsp;o&thinsp;n&thinsp;e&thinsp;.</samp></b></div>
 </td><td><picture><img alt="&nbsp;Bug in flask" src="../../_rsc/_img/signs/bugs/bug_in_flask-pencil-250px.jpg" /></picture></td><td width="42%">
 
-Software became an irreplaceable stratum of civilization as technology.
+**Software has become an irreplaceable stratum of civilization, as technology.**
 
 Its applications manage crucial systems of all kinds and must be
 
