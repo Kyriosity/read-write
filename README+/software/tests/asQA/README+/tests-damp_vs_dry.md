@@ -77,8 +77,7 @@ Auto-generation tools may help, but their setting and tuning may be overkill.
 </td>
 <td>
 
-What known frameworks and less-known workarounds can do is a subject of\
-the repository with more close-ups to practical code:
+What known frameworks and less-known workarounds can do is a subject of the repository with more close-ups to practical code:
     
 </td></tr></table>
 
@@ -94,7 +93,7 @@ However, the subject isn't always as atomic as it may seem. An _Act_ may assume 
 For example, consider native methods as `string.IsNullOrWhitespace(..)` for either *Act* or *Assert*.
 
 Repeating arrangements for miscellaneous _Asserts_ is a growth steroid. 
-And there can be even a deeper negative side effect &mdash; a small error can trigger a salvo of failing tests. 
+And there can be even a deeper negative side effect &thinsp;&mdash;&thinsp; a small error can trigger a salvo of failing tests. 
 Such a salute will hardly provide a clue but rather hide it in dependencies - inevitable even with granulated and isolated units and best-structured folders.
 
 ## 💡I<samp>DEAS</samp>💡
@@ -114,7 +113,7 @@ A summoned general was eager to recount seven reasons, he knew, but was shortly 
 
 ### Normalization
 
-Grouping _Asserts_ for the same _Arrange_ is a call of reason. 
+Grouping _Asserts_ for the same _Arrange_ is a call of reason &thinsp;&mdash;&thinsp; otherwise method opening/closing will eat half of the page.
 
 ```csharp
 // EXAMPLE PENDING
