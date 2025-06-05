@@ -144,7 +144,8 @@ The "best" recipe of mashed design (puree) is to smear nitty-gritty over all dev
        
 </td></tr></table>
 
-<details><summary><ins>&nbsp;<b>"Architect" is often an alias or catch-all term for well-known roles and duties:</b>&nbsp;</ins> ➡️</summary>
+<details><summary><ins>&nbsp;<b>"Architect" is often an alias or catch-all term for well-known roles and duties:</b>&nbsp;</ins> ↘️</summary>
+&nbsp;
 
 ```mermaid
 ---
@@ -182,7 +183,7 @@ from computer science`"((
 
 </details>
 
-⬅️ `//` Not to mention ♾️<b>D<samp>EV</samp>O<samp>PS</samp></b>♾️ &thinsp;&mdash;&thinsp; a separate software domain.
+↖️ `//` Not to mention ♾️<b>D<samp>EV</samp>O<samp>PS</samp></b>♾️ &thinsp;&mdash;&thinsp; a separate software domain.
 
 <details><summary><ins>&nbsp;.. <b>or for personal aptitudes:</b>&nbsp;</ins> ➡️</summary>
 
@@ -220,13 +221,13 @@ Finally, salt all this: major projects don't develop _Pantheons_ but turn the fl
 
 &nbsp; &nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom <b>IN/OUT</b></mark>" from <picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture> [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) (thrivingtechnologist.com)</sub>\
 &nbsp; &nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
-&nbsp; &nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of progressive platforms may be titled _architects_ or _leads_ but all of them show fluent coding skills at presentations.</sub>\
+&nbsp; &nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of progressive platforms may be titled _architects_ or _leads_, but all of them show fluent coding skills at presentations.</sub>\
 &nbsp; &nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Image credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and kyriosity</sub>
 
 <table><tr></tr><tr>
  <td>☝️</td><td>This essay doesn't split <i>architecture</i> and <i>design</i> (as everything over particular and imaginary applications/systems/constructions) while
-<picture><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-12px.jpg" 
-title="Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D&nbsp; &nbsp; &nbsp; &nbsp;Design&#013;&#010;e&nbsp; &nbsp; &nbsp; &nbsp; dEvelopment&#013;&#010;co&nbsp; &nbsp; &nbsp; COde" /></picture>
+<a href="../../../../software/ArcDeco/README+/01.Rationale/README.md"><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px.jpg" 
+title="Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D&nbsp; &nbsp; &nbsp; &nbsp;Design&#013;&#010;e&nbsp; &nbsp; &nbsp; &nbsp; dEvelopment&#013;&#010;co&nbsp; &nbsp; &nbsp; COde" /></a>
  (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin or adjacent activities</a>.
  </td></tr></table>
 
