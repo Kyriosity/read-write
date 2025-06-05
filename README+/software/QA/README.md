@@ -16,7 +16,7 @@ Its applications manage crucial systems of all kinds and must be
 <div align="center"><b><samp>S&thinsp;T&thinsp;A&thinsp;B&thinsp;L&thinsp;e&thinsp; </samp>and<samp> &thinsp;R&thinsp;O&thinsp;B&thinsp;U&thinsp;S&thinsp;T&thinsp;.</samp></b></div>
 </td></tr></table>
 
-<h3 align="center">And «<samp>never the twain shall meet</samp>» unless ... <b>Quality Assurance</b>.</h3>
+<h2 align="center">And «<i>never the twain shall meet</i>» unless &thinsp;<b>.&thinsp;.&thinsp;.</b> <b><mark>&thinsp;Quality Assurance&thinsp;<mark></b>.</h2>
 
 ```mermaid
 ---
