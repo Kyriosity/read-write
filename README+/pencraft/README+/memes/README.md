@@ -11,7 +11,7 @@
 
 The grains of truth in this wisdom:
 
-* No other knowledge erodes so quickly as the IT tech stack &nbsp;&mdash;&nbsp; languages/scripts, markup, frameworks, and their IDEs, UX styles emerge, submerge, and mutate with the year's pace.<sup>:violin:</sup>
+* No other knowledge erodes so quickly as the IT tech stack &nbsp;&mdash;&nbsp; languages/scripts, markup, frameworks, and their IDEs, UX styles emerge, submerge, and mutate with the pace of the year.<sup>:violin:</sup>
 * In the orthogonal (to time) dimension, a developer can't stick to a favorite syntax and must be fluent in a wide techno spectrum.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:violin:</sup> <sub>Javascript/HTML, which one learned in 2000, remains only as kernel syntax. 
@@ -113,7 +113,7 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 &nbsp;
 
 <picture><img alt="&nbsp;Pile/stack of punchcards in 1966" src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" /></picture><br/>
-_(Tell grandma how much space your source files take ...)_
+_(Tell the grandma how much space your source files take ...)_
 
 A store of punched cards for a casual program. I'm proud to have some [little experience](../essays/README+/punchcard.md) of dealing with them.
 
