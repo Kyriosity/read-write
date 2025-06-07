@@ -1,4 +1,4 @@
-# `C#`&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Good sides&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Underused
+# `C#` &nbsp;&mdash;&nbsp; Good sides &nbsp;&mdash;&nbsp; Underused
 
 Parts of C# syntax, certain features, libraries, and frameworks are preferable but often remain unrevealed.
 
@@ -10,17 +10,15 @@ However, staying fit with C# is reasonable and feasible. Releases of .NET are cu
 
 Devoted bloggers and speakers<sup>👨‍👩‍👧‍👦</sup> do a great job of separating the wheat from the chaff while IDEs hint at new features.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>👨‍👩‍👧‍👦</sup> <sub>I don't recommend any since this must be a personal experience, selection of the active, and a matter of taste. Except for the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🪟</sup>.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>**Advice:** Limit review ardor to [officially released features](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/)<sup>🪟</sup>. Many nice others are delayed from release to release (let alone those experimental).</sub>
+&nbsp; &nbsp; <sup>👨‍👩‍👧‍👦</sup> <sub>I don't recommend any since this must be a personal experience, selection of the active, and a matter of taste. Except for the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🪟</sup>.</sub>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sub>**Advice:** Limit review ardor to [officially released features](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/)<sup>🪟</sup>. Many nice others are delayed from release to release (let alone those experimental).</sub>
 
 ### C#13.NET9 (2024) ... but wait! ...
 
 Among other features, two could be rather practical. Announced and promoted by bloggers but "still in active development" (2025).
 
 + `using` aliases improved: 1) full qualification not required for imported namespaces, 2) generics supported.
-+ `extension` keyword (`explicit` and `implicit`):\
-1\) nice to replace clumsy extension methods exposing the dummy class,\
-2\) properties supported.
++ `extension` keyword for shortened signatures, and properties support.
 
 #### <mark>UPDATE:</makr> C#14.NET10 Preview (Apr/2024)
 
@@ -97,7 +95,7 @@ It's also better to be aware of disputable methods like
 [`DefaultIfEmpty`](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.defaultifempty), 
 [`TryGetNonEnumeratedCount`](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.trygetnonenumeratedcount).
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:large_blue_diamond:</sup><sub>If you're lucky enough not to meet this, such [cheatsheet of equivalents](https://www.garethrepton.com/TypeScript-equivalents-for-DotNet-Linq-functions/)<sup>🔗</sup> may give you a feeling.</sub>
+&nbsp; &nbsp;<sup>:large_blue_diamond:</sup><sub>If you're lucky enough not to meet this, such [cheatsheet of equivalents](https://www.garethrepton.com/TypeScript-equivalents-for-DotNet-Linq-functions/)<sup>🔗</sup> may give you a feeling.</sub>
 
 ## Reflection
 
@@ -134,8 +132,8 @@ Along with another abstraction `IValueTaskSource`, it's a choice over `Task` for
 There must be other useful but neglected parts, features, and syntax of C# and its subsystems that you may know and contribute to this document.
 
 Plus to the mentioned above, there are:\
-|--- [Parts in shade](parts/cs-feat_shadow.md)\
-|--- Obsolete/bad parts, features, and [malpractices](cs-malpractice.md) 
+|&thinsp;-&thinsp;- [Parts in shade](parts/cs-feat_shadow.md)\
+|&thinsp;-&thinsp;- Obsolete/bad parts, features, and [malpractices](cs-malpractice.md) 
 
 \___________\
 🔚 🌙 2021-2025
