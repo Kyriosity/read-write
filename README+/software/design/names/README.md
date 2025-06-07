@@ -2,7 +2,7 @@
 
 # Software &nbsp;&mdash;&nbsp; Naming and Categorization
 
-<table><tr valign="top"><td width="20%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
+<table><tr valign="top"><td width="25%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
   
 ### Denomination of titles <ins>and</ins> classification is a pivotal but underrated activity <ins>in any exploration</ins>.
