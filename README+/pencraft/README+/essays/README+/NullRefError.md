@@ -43,12 +43,13 @@ There's no null or broken reference, which sends our objects and values to nowhe
 <table><tr></tr><tr align="center"><td width="40%"><b>Y&thinsp;E&thinsp;S</b></td><td width="20%" >and</td><td width="40%" ><b>N&thinsp;O</b></td>
 </tr><tr valign="center"><td>
   
-Null references aren't CPU vulnerabilities as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that no software patch can fix. 
-It's not even a peer to the Y2K problem, which stemmed from the explicit negligence to eliminate with explicit enhancement.
+Null reference isn't a CPU (or memory) vulnerability as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that no software patch can fix.
 
-Botched global updates, blackouts, and catastrophic failures were caused by logical errors of different origins, when exception names play a secondary role. 
+It's not even comparable to the Y2K problem, which stemmed from explicit negligence (and was eliminated with an obvious and simple date format enhancement).
 
-(Except one type &thinsp;&mdash;&thinsp; many disasters multiplied and spread because there was no sign of exception or error.)
+Logical errors of different origins caused botched global updates, blackouts, and catastrophic failures, when exception names play a secondary role. 
+
+Another specific type multiplied and spread many disasters &thinsp;&mdash;&thinsp; and it is no sign of exception or error.
   
 </td><td><picture><img alt="&nbsp; Yin&Yang under null sign" src="../../../../_rsc/_img/signs/YinYangNull.png" /></picture></picture></td><td>
 
@@ -165,15 +166,12 @@ Bad approach: setting a specific object that will only mask `null` to make matte
 
 <sup>🙋</sup> I find personal stories the last shelter of narrators unless it's a full match and a good backup. This must be the case.
 
-> &nbsp;\
 >  I can remember a contractor for a big, really, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
 After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](LN-view.md) and returned to his daily need &mdash; [N&thinsp;f&thinsp;S](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
 >
 > For the team's sake, a peer developer picked this ticket to dive into the hand-obfuscated code. After making the brain function on all cylinders, the slices of Swiss cheese coincided to reveal a malicious an<i>null</i>er. To be trivially fixed.
-
-<div align="center"><b>MORAL</b>❓</div>
-
-Imagining the multitude of such cases without a happy twist, _Sir Hoare_ may surely write off a digit or two from the tech debt he shouldered.
+> <div align="center"><b>MORAL</b>❓</div>
+> Imagining the multitude of such cases without a happy twist, <i>Sir Hoare</i> may surely write off a digit or two from the tech debt he shouldered.
 
 ### Appendices
 
