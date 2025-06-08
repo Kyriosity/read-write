@@ -31,7 +31,7 @@ The following "old" practical syntax and features remain unused in enough progra
 - [ ]  single file namespaces with `;` without `{}`
 - [ ] [Tuple assignments](https://essentialcsharp.com/tuples#tuples)<sup>🔗</sup> - shortcuts assignment (swap!) and comparison.
 - [ ] [`CallerArgumentExpressions`](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression)
-(It urged me to rewrite ➡️[exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcCommu/Errors).)
+(It urged me to rewrite ➡️[exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcStoppers/Errors).)
 - [ ] `readonly` for `struct` methods - questionable but don't harm and may prevent bugs
 
 ##### `switch` beyond `else if`
