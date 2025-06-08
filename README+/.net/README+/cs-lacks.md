@@ -150,7 +150,7 @@ Guid Register(int attempt, [Name.Western], byte age) { ... }
 
 ## "In-line" Interfaces junction
 
-Fine-granulated interfaces and their multi-inheritance into more substantial ones belong to sound design practices.
+Fine-grained interfaces and their multi-inheritance into more substantial ones are sound design practices.
 
 Another story is a combination of primitive (or feature) interfaces as options for casting or *builders*.\
 Suppose there are `ILimited`, `ITimestamped`, and `INotifyPropertyChanged`, which combinations imply 2<sup>3</sup> nominal declarations. And what if this could be done with `<IInterfaceA, IInterfaceB[, IInterfaceC[, ...]]>`
