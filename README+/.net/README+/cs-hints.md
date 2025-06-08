@@ -1,4 +1,4 @@
-# `C#`&nbsp;&nbsp;&mdash;&nbsp;&nbsp;<samp>from everyday praxis</samp>&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Hints
+# `C#` &nbsp;&mdash;&nbsp; <samp>from everyday praxis</samp> &nbsp;&mdash;&nbsp; Hints
 
 ## Syntactic reminder
 
@@ -170,9 +170,9 @@ Instead of the discussion, I'd better propose an imperfect workaround in this [E
 
 It's legal to write `throw` in any C# method, but there may be motives to delegate exceptions up:
 
-* Other concurrent methods (not only parallel) may throw and better the caller accumulates and weights exceptions without heavy `catch` for each.
-* You'd like to explicitly tell code readers what a method may throw (akin to signature in Java).
-* Method unconditionally does throw and any return value (also `void`) deceives.
+* Other concurrent methods (not only parallel) may throw, and the caller accumulates and weights exceptions without a heavy `catch` for each.
+* You'd like to explicitly tell code readers what a method may throw (akin to a signature in Java).
+* Method unconditionally throws and any return value (also `void`) deceives.
 
 ```csharp
 
@@ -189,7 +189,7 @@ bool TryParse(string raw, out FormatException? exception, out ThisProjectExcepti
 <details><summary><ins>&nbsp;Tuples as design shortcuts&nbsp;</ins></summary>
 &nbsp;
 
-Piles of interfaces, classes, and structs for every single trifle may obscure the contours of OOD, and their maintenance distracts from design. Then sparsely applied _named tuples_ are a rational compromise.
+Piles of interfaces, classes, and structs for every single trifle may obscure the contours of OOD, and their maintenance distracts from design. Then, sparsely applied _named tuples_ are a rational compromise.
 
 ```csharp
 ...
@@ -212,7 +212,7 @@ Further use is to streamline assignments:
 + chessGame.Move = ("c5", "Sicilian Defence", DateTime.Now);
 ```
 
-Unrestricted tuples, named or not, will be great helpers for prototyping code contracts until they solidify into interfaces and definitions. And with C#12 you can define tuples in namespaces (in global using too):
+Unrestricted tuples, named or not, will be great helpers for prototyping code contracts until they solidify into interfaces and definitions. And with C#12, you can define tuples in namespaces (in global using too):
 
 ```csharp
 using Book = (string title, short year, (string Name, string Surname) author);
@@ -229,7 +229,7 @@ Reserve, when appropriate, _none_, _undefined_ or _unknown_ as zero-value to pre
 enum FundamentalStatesOfMatter
 {
     Unknown, // implicitly = 0,
-    Solid, // won't be assigned by default, e.g. to a motor coolant
+    Solid, // won't be assigned by default, e.g., to a motor coolant
     Liquid,
     Gas,
     Plasma
@@ -246,5 +246,5 @@ enum FundamentalStatesOfMatter
 |--- ➡️ [**use-dev**](https://github.com/Kyriosity/use-dev/blob/main/README.md)
 
 \___________\
-🔚 ... 🎼 ©️# XXI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white&color=tomato)](#)
+🔚 ... 🎼 ©️# XXI&nbsp; &nbsp; &nbsp;[![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white&color=tomato)](#)
 
