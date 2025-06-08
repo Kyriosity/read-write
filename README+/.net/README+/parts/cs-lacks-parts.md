@@ -1,15 +1,15 @@
-# `C#` &nbsp;&nbsp; &mdash; &nbsp;&nbsp; <samp>Nice to have</samp> &nbsp;&nbsp; &mdash; &nbsp;&nbsp; Parts and Frameworks
+# `C#` &nbsp;&mdash;&nbsp; <samp>Nice to have</samp> &nbsp;&mdash;&nbsp; Parts and Frameworks
 
 Along with [nice-to-have syntax/features](../cs-lacks.md) there are some bigger blocks of _ideational_ `C#`.
 
 ## Testing
 
-Tests for drive or coverage are optional but a natural part of development. The three most popular frameworks for .NET (NUnit, xUnit, MSTest) have pros and cons, but neither is state-of-the-art.
+Tests for drive or coverage are optional but a natural part of development. The three most popular frameworks for .NET (NUnit, xUnit, MSTest) have pros and cons, but none is state-of-the-art.
 
 Besides weak points (like bulky names), there are lacks:
 
-- no support of dynamic test data,
-- no way to auto-test code that must not compile (e.g. to exclude the wrong branches of building calls) ➡️ [semantic posers](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-semantics.md),
+- no support for dynamic test data,
+- no way to auto-test code that must not compile (e.g., to exclude the wrong branches of building calls) ➡️ [semantic posers](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-semantics.md),
 - no gradual asserts ➡️ [discussion of workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/unit_test-gradual_assert.md),
 - only a single data source ➡️ [multi-feed workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/prog_tests-cut_feeds.md).
 
@@ -35,16 +35,16 @@ Built-in calendars render limited expansion.
 
 ## Measurement systems
 
-Definition of natural values (geometry, masses, temperature, electricity, movement u.a.) and their conversions between systems of measurements (metric, US customary, UK imperial u.a.) are more than essential tools (e.g., Celsius-Fahrenheit-Kelvin).
+Definition of natural values (geometry, masses, temperature, electricity, movement _u.a._) and their conversions between systems of measurements (metric, US customary, UK imperial _u.a._) are more than essential tools (e.g., Celsius-Fahrenheit-Kelvin).
 
 The approach for such is proposed in [C# Multifaceted-Value](https://github.com/Kyriosity/use-dev/tree/6ab68c7af589d37715c171e61dc51d0b5a208c73/README+/projects/U-Val)<sup>➡️</sup>.
 
 ## Lingua
 
-Let's take some output from fictitious tree search `$"Branches: {found}, ≥ leaves: {cutoff}"`. That can be quickly refactored for narrative or voice generator:\
+Let's take some output from fictitious tree search `$"Branches: {found}, ≥ leaves: {cutoff}"`. That can be quickly refactored for a narrative or voice generator:\
 `$"{found} {(1 == found ? "branch has" : "branches have")} no less than {cutoff} {(1 == cutoff ? "leaf" : "leaves")}"`
 
-If an application generates much multi-language text it won't be a big deal to implement
+If an application generates a lot of multilingual text, it won't be a big deal to implement
 
 <details>
 <summary><ins>&nbsp;Blueprint of pluralization utility&nbsp;</ins></summary>
@@ -69,15 +69,15 @@ interface IPluralForms {
 
 </details>
 
-However
-- this reinvents the wheel,
-- there are other forms of grammatical numbers besides plurals,
-- numbering is only a share of grammatical agreements in every single tongue,
-- linguistics requires competence in more than a pair of language families.
+However,
+- This reinvents the wheel,
+- There are other forms of grammatical numbers besides plurals,
+- Numbering is only a part of grammatical agreements in every single tongue,
+- Linguistics requires competence in more than a pair of language families.
 
 And what if .NET foundation classes could:
-- neatly formulate declensions, conjugation, and other formations,
-- define constants for unfamiliar forms of loanwords (greek, Latin u.a.),
+- neatly formulate declensions, conjugations, and other formations,
+- define constants for unfamiliar forms of loanwords (Greek and Latin _u.a._),
 - revise habitual [`CultureInfo`](https://docs.microsoft.com/en-us/dotnet/api/system.globalization.cultureinfo)<sup>🪟</sup> (classify tongue families and default agreements)
 
 And, not least, add syntax sugar like
@@ -99,4 +99,4 @@ And, not least, add syntax sugar like
 The custom _use-dev_  ➡️ [⭐ISie⭐](https://github.com/Kyriosity/use-dev/blob/main/README+/parts/_ext/ISie/README.md) demanded me to make fast [AbcLingua](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/Abc/Lingua) folders. But I'd rather find such a structure in C# language or frameworks.
 
 \___________\
-🔚 🌔 .. 2025
+🔚 🌔 .. 2021-2025 ...
