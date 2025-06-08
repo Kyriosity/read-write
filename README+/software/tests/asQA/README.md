@@ -1,4 +1,4 @@
-# Software &nbsp; &mdash; &nbsp; <samp>Quality Assurance</samp> &rarr; Programmatic Tests
+# Software &nbsp;&mdash;&nbsp; <samp>Quality Assurance</samp> &rarr; Programmatic Tests
 
 <table><tr valign="top"><td><picture><img width="400px" alt="&nbsp;Software tests pyramid" src="../../../_rsc/_img/illus/tests/test_pyramid-deco-750px.jpg"></picture></td><td>
   <h3><i>Programmatic test</i> is a fundamental QA stone.</h3>
@@ -17,7 +17,7 @@ Writing tests in the language of their subjects is natural, practical, and facil
 
 Solution? Any popular language has some mainstream frameworks. Many frameworks also allow tests of UI, units/modules written in other languages, or API.<sup>🏛️</sup>
 
-&nbsp; &nbsp; &nbsp;<sup>🏛️</sup> <samp> E.g., even old and rare languages got test support as fastly found for reference [Cobol-check](https://github.com/openmainframeproject/cobol-check)<sup>🔗</sup>.</samp>
+&nbsp; &nbsp; &nbsp;<sup>🏛️</sup> <samp> E.g., even old and rare languages got test support as fastly found for reference [Cobol-check](https://github.com/openmainframeproject/cobol-check)<sup>:octocat:</sup>.</samp>
 
 ## Automation
 
@@ -31,7 +31,7 @@ The more pragmatic use-dev repo discusses and renders [tests stuff](https://gith
 
 ## Poststriptum. Big problem and challenge
 
-With all the benefits of the proof coverage and TDD<sup>eV</sup>, tests make up a second project requiring development and maintenance. 
+With all the benefits of proof coverage and TDD<sup>eV</sup>, tests constitute a second project that requires development and maintenance. 
 
 \___________\
 🔚 ... but [README+](README+) &nbsp; ... &nbsp; <sub>collage credit: LibreOffice clipart; The Outer Limits.The&nbsp;Mutant, 1964 (imdb screenshot)</sub>
