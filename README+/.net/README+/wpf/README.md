@@ -5,9 +5,9 @@ Despite justifiable and not skepticism and hard critics from the very dawn, **WP
  **WPF** is the number one platform for Windows desktops with millions of commercial and enterprise applications, released and being developed, enjoying now (2020s) a definite ebb in cross-platform demand.
  
 Thus, WPF to .NET/Win is like the Moon to Earth &thinsp;&mdash;&thinsp; the only natural and permanent satellite. Alternatives are either petit, marginal, exotic, still immature, or already deprecated<sup>🌘</sup>.\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🌘</sup> <sub>You must know about WinForms and may have heard about [Avalonia XPF](https://avaloniaui.net/XPF)<sup>🔗</sup>, Xamarin, WinUI.</sub>
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🌘</sup> <samp>You must know about WinForms and may have heard about [Avalonia XPF](https://avaloniaui.net/XPF)<sup>🔗</sup>, Xamarin, WinUI.</samp>
 
-[Blazor](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🪟</sup> may become the same native unconstrained "bridge" to the browsers and tug a big part of applications, but it's too early to predict in 2025.
+[Blazor](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🪟</sup> may become the same native unconstrained "bridge" to the browsers and tug a big part of applications, but it's too early to predict in&nbsp;2025.
 
 ### For developers `WPF`:
 
@@ -27,7 +27,7 @@ Thus, WPF to .NET/Win is like the Moon to Earth &thinsp;&mdash;&thinsp; the only
 The learning curve of WPF is distinctly steeper, and the concepts to learn are much broader than those of _WinForms_. 
 Nonetheless, a WPF newbie<sup>🔰</sup> entering either a new or established project has the luck to delay advanced topics till less stressful times. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔰</sup> <sup>But experienced in .NET and thinking in MVW<sup>hatever</sup> patterns.</sup>
+&nbsp; &nbsp; <sup>🔰</sup> <sup>But experienced in .NET and thinking in MVW<sup>hatever</sup> patterns.</sup>
 
 This includes IDEs/tools, sketching, running, testing, and deployment.
 
@@ -67,4 +67,4 @@ __Resources__:\
 |- [Awesome WPF](https://github.com/Carlos487/awesome-wpf)<sup>🔗</sup> - big collection of links about literally everything that may concern WPF developers\
 |- [Prism](https://github.com/PrismLibrary/Prism)<sup>🔗</sup> - reputable representative of WPF/MVVM bootstrapping 
 
-<div align="center">🔚 2021..2025</div>
+<div align="center">🔚 2021..2025 ..</div>
