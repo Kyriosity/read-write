@@ -2,17 +2,18 @@
 
 Model-View-ViewModel (_abbr_. MVVM) is a well-accepted, easy, powerful concept of __separation of concerns__, also known as [MVP](https://martinfowler.com/eaaDev/uiArchs.html)<sup>🔗</sup>.
 
-WinForms application can be an exemplary MVVM<sup>🔧</sup>, but it was WPF that formed a symbiosis with MVVM and made the latter mainstream (and not only in WPF). Notably successful and stable Microsoft Visual Studio&nbsp;2010 was written from scratch in WPF relying on MVVM (Model-View-ViewModel).\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔧</sup>&nbsp;<sub>In fact, WPF is based on Winform's [`Binding`](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.binding)</sub>
+WinForms application can be an exemplary MVVM<sup>🔧</sup>, but it was WPF that formed a symbiosis with MVVM and made the latter mainstream (and not only in WPF). Notably successful and stable Microsoft Visual Studio&nbsp;2010 was written from scratch in WPF relying on MVVM (Model-View-ViewModel).
+
+&nbsp; &nbsp; <sup>🔧</sup>&nbsp;<samp>In fact, WPF is based on Winform's [`Binding`](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.binding)<sup>🪟</sup>.</samp>
 
 ## Structure
 
 |- __Model__  - any common or tailored [application model](../../../../../software/design/parts/README+/app-model.md)\
-&nbsp;&nbsp;// Model classes must be frontend agnostic but virtual (open) for adapting in presentation (e.g., `virtual` props and methods.\
+&nbsp; // Model classes must be frontend agnostic but virtual (open) for adapting in presentation (e.g., `virtual` props and methods.\
 |- [__ViewModel__](README+/wpf_mvvm-viewmodel.md)\
 |- [XAML view](../wpf-xaml_view.md) *
 
-&nbsp;&nbsp;&nbsp;&nbsp;* It can also be any other kind of [application view](../../../../../software/design/parts/README+/app-view.md) bound with the ViewModel
+&nbsp; &nbsp; * It can also be any other kind of [application view](../../../../../software/design/parts/README+/app-view.md) bound with the ViewModel
 
 ## Sample
 
@@ -39,7 +40,7 @@ Alas, there are not too many popular and interchangeable pluggable "bricks" to b
 ## Wrapping up
 
 MVVM has been widely established but is neither a golden nor universal section. On the call of peculiarity or creativity, any other, even monolithic, form is legal.&nbsp;<sup>:triangular_ruler:</sup>\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:triangular_ruler:</sup><sub>&nbsp;Google team coined *Model-View-Whatever* for its Angular</sub>
+&nbsp; &nbsp; <sup>:triangular_ruler:</sup><sub>&nbsp;Google team coined *Model-View-Whatever* for its Angular</sub>
 
 ### Practical decisions for MVVM
 
