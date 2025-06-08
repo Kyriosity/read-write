@@ -1,4 +1,4 @@
-# `C#`&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Misconception and malpractice
+# `C#` &nbsp;&mdash;&nbsp; Misconception and malpractice
 
 ## Inappropriate usage
 
@@ -7,16 +7,17 @@
 * Albeit C# has pointers, destructors, finalizers, calls to the garbage collector, memory allocation, "front door" to unmanaged code, and interop with other languages — 
 programming them for business applications isn't intrinsic, unless for a particular workaround, fix of bizarre bugs, or non-conforming 3d-party API.
 
-* The Microsoft learn corner thoroughly documents which .NET constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive.<sup>📍</sup> As well C# doesn't guarantee the same CLR output for future releases or every platform.\
+* The Microsoft learn corner thoroughly documents which .NET constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive.<sup>📍</sup>
+As well C# doesn't guarantee the same CLR output for future releases or every platform.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📍</sup> <sub>As an example, Q&A sites may cite contradictory opinions about string interpolation, await/async, and other constructs.</sub>
 
 The best intentions of individuals on a "low level" may occur in parallel with the .NET team on optimization of interpretation/compilation, and the latter will probably win.
 
-There is nothing wrong with knowing the details of CLR and IL (it makes one a better developer) except the time resources, and focus one must lavishly invest.
+There is nothing wrong with knowing the details of CLR and IL (it makes one a better developer) except the time resources, and focus one must lavish invest.
 
 ### "Bare" .NET for high-performance calculations
 
-The backside of comfy C# programming is that .NET isn't suited for direct top-efficient code (like `C++` on `WinCom`). The energy of .NET will exceed the needs of business solutions but will slow down calculations over arrays of millions of items or high-speed transformation of images or videos (even with all the parallelism in the play).
+The downside of comfy C# programming is that .NET isn't suited for direct top-efficient code (like `C++` on `WinCom`). The energy of .NET will exceed the needs of business solutions, but will slow down calculations over arrays of millions of items or high-speed transformation of images or videos (even with all the parallelism in play).
 
 To stay with C# in such a case, hardware acceleration patches or external libraries are a must.
 
@@ -45,13 +46,14 @@ Nevertheless, let them remain granulated and lightweight with:
 
 ### Dynamic and ExpandoObject
 
-Any use for casting, call of props, and methods on them breaches the strongly typed C#. However, it could be a valid workaround or hack when nothing else helps.\
+Any use of casting, call of props, and methods on them breaches the strongly typed C#. However, it could be a valid workaround or hack when nothing else helps.\
 (Example: for return values of methods, which throw only, to be used in ternary expressions as in custom 
 [`exception shortcuts`](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcCommu/Errors/_basal/%F0%9F%94%BAException.cs).)
 
 ### Dubious `sealed`
 
-There's no reason to seal a class but to show a degree of mistrust in colleagues. It's also an arguable practice when exposing/exporting a library - to circumvent it with crooked aggregations.
+There's no reason to seal a class but to show a degree of mistrust in colleagues. (Do you have other suggestions?)
+It's also an arguable practice when exposing/exporting a library &thinsp;&mdash;&thinsp; to circumvent it with crooked aggregations.
 
 ## Syntax
 
@@ -64,7 +66,7 @@ These methods shall be used for big, universal features across projects (like LI
 
 ### Indiscriminate catch
 
-Negligent use of snippets can create the next good known crash-prone block:
+Negligent use of snippets can create the next good, known crash-prone block. It's obvious, and most of us won't code such a trap. 
 
 ```csharp
 try { 
@@ -72,7 +74,7 @@ try {
 } catch (Exception) { success = false; } // out of memory, disk error ? sweep it under the carpet!
 ```
 
-It's obvious and most of us won't code such a trap. But what about its minor siblings as here:
+But what about its minor siblings, as here:
 
 ```csharp
 var firstName = "X Æ A-12";
@@ -86,8 +88,8 @@ try {
 
 ```
 
-Now consider that we submit a popular legal name "John" and land again in the catch clause. Why?
-Filtering to the expected type doesn't exclude its throw from other code parts (e.g. internal bug of our register). 
+Now, consider that we submit a popular legal name, "John", and land again in the catch clause. Why?
+Filtering to the expected type doesn't exclude its throw from other code parts (e.g., internal bug of our register). 
 
 \___________
 
