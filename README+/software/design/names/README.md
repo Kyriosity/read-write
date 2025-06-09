@@ -27,9 +27,7 @@ As a negative sample, GitHub is full of shallow folders and huge lists, even for
 
 ### Tags
 
-The only limitation of categorization is the strict tree hierarchy.
-
-// ToDescribe: Thinking in tags
+The only limitation of categorization is the strict tree hierarchy. Tags may rationally dissolve, though projects don't provide support for it.
 
 ## How to name...
 
