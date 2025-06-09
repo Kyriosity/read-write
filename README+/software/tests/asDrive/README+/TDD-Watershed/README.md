@@ -1,4 +1,4 @@
-<h1 align="center">Test Drive&nbsp;&nbsp;&rarr;&nbsp;&nbsp;Big Watershed</h1>
+<h1 align="center">Test Drive &nbsp;&rarr;&nbsp; Big Watershed</h1>
 
 <table><tr valign="center"><td align="center">🌧️🌦️⛈️🌨️🌧️🌫️
 <picture><img width="150px" alt="&nbsp;Y-fork: black on yellow" src="../../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>
@@ -12,24 +12,24 @@ For the record, the title of the lecture resonated with my anxiety: «<i>Failed 
 </td><td><picture><img alt="&nbsp;LONG READ" src="../../../../../_rsc/_img/signs/LongRead/plates/plsStayOn.jpg" /></picture></td></tr></table>
 
 The de-abbreviation raised another doubt: Where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...<sup>🙋</sup>\
-&nbsp; &nbsp;<sup>🙋</sup> <sub align="right">Albeit being energetic in the recherche, I couldn't go through the best part of treatises. There must be better findings, and there could be better alternative conclusions.</sub>
+&nbsp; &nbsp;<sup>🙋</sup> <sub>Despite the energetic recherche, I couldn't go through the best part of treatises. There must be better findings, and there could be better alternative conclusions.</sub>
 
-Presentations and lectures favored _development_ with _design_ as a natural<sup>🌵</sup> spin-off, not much bothering about distinction, and some exploited both terms interchangeably. 
+Presentations and lectures favored _development_ with _design_ as a natural<sup>🌵</sup> spin-off, not much bothered about distinction, and some exploited both terms interchangeably. 
 Books and tutorials showed up inclined to techniques, patterns, and testing frameworks.\
-&nbsp; &nbsp; <sup>🌵</sup> <sub><b>Natural</b> since any complete snippet can't escape design or must fit into the given.</sub>
+&nbsp; &nbsp; <sup>🌵</sup> <samp><b>Natural</b> since any complete snippet can't escape design or must fit into the given.</samp>
 
 Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</samp>, and encouraging to start features, didn't set forth for me to design just a mediocre project: hypothetical or tried.
 
-<table align="center"><tr></tr><tr><td><br />&nbsp;&nbsp;&nbsp;<ins>&thinsp;
+<table align="center"><tr></tr><tr><td><br />&nbsp; &nbsp;<ins>&thinsp;
    The initial </ins><mark><b><code>O&thinsp;R</code></b></mark><ins>-question was answered first </ins><code><b>A&thinsp;N&thinsp;D</b></code><ins> and then refined to </ins><code><b>X&thinsp;O&thinsp;R</b></code><ins>
-&thinsp;</ins>&nbsp;&nbsp;&nbsp;<br />&nbsp;</td></tr></table>
+&thinsp;</ins>&nbsp; &nbsp;<br />&nbsp;</td></tr></table>
 
 <h2 align="center">Could I explain my shismatic take?</h2>
 
-<details align="center"><summary><ins><b>&nbsp;This shadow of doubt was from the <samp>RISING</samp>&nbsp;&nbsp;R&thinsp;I&thinsp;D&thinsp;G&thinsp;E, dividing syntax and implementation behind it&thinsp;:&nbsp;</b></ins>🖼️</summary>
+<details align="center"><summary><ins><b>&nbsp;This shadow of doubt was from the <samp>RISING</samp>&nbsp; R&thinsp;I&thinsp;D&thinsp;G&thinsp;E, dividing syntax and implementation behind it&thinsp;:&nbsp;</b></ins>🖼️</summary>
 &nbsp;
 
-<div align="center"><picture><img src="../../../../../_rsc/_img/illus/tests/TddWatershed.jpg" alt="&nbsp;&nbsp;...Drawing: Test watershed illustration as nature..." /></picture></div>
+<div align="center"><picture><img src="../../../../../_rsc/_img/illus/tests/TddWatershed.jpg" alt="&nbsp; ...Drawing: Test watershed illustration as nature..." /></picture></div>
 <!-- pic --!>
 <!--                                              WATERSHED CANVAS        --!>
 <!-- pic --!>
@@ -40,8 +40,8 @@ Design vs. Development are too **dissimilar and contradictory** to rotate on the
 Even if it's the same project and team, test tools/framework, and skills/techniques to write tests and implement code behind.
 
 <table><tr><td width="50%" align="center"><b>🧪 Test ⚙️ DESIGN</b> <mark><b>Δ</b></mark> </td><td align="center">🧪 <b>Test</b> ⚙️ <b>DEVELOPMENT</b> <mark><b>δ</b></mark></td></tr><tr>
-   <td><p align="center"><samp><b>W&thinsp;H&thinsp;A&thinsp;T&nbsp;&nbsp;t&thinsp;o&nbsp;&nbsp;d&thinsp;e&thinsp;v&thinsp;e&thinsp;l&thinsp;o&thinsp;p</b></samp></p>
-   </td><td><p align="center"><samp><b>H&thinsp;O&thinsp;W&nbsp;&nbsp;t&thinsp;o&nbsp;&nbsp;i&thinsp;m&thinsp;p&thinsp;l&thinsp;e&thinsp;m&thinsp;e&thinsp;n&thinsp;t</b></samp></td></td>
+   <td><p align="center"><samp><b>W&thinsp;H&thinsp;A&thinsp;T&nbsp; t&thinsp;o&nbsp; d&thinsp;e&thinsp;v&thinsp;e&thinsp;l&thinsp;o&thinsp;p</b></samp></p>
+   </td><td><p align="center"><samp><b>H&thinsp;O&thinsp;W&nbsp; t&thinsp;o&nbsp; i&thinsp;m&thinsp;p&thinsp;l&thinsp;e&thinsp;m&thinsp;e&thinsp;n&thinsp;t</b></samp></td></td>
 </tr><tr valign="top"><td>
    <ul>
       <li><b>Grope</b> concepts and get a hands-on feeling on subjects<sup>🖋️</sup></li>
@@ -73,7 +73,7 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
 </td></tr>
          <!--                                      C O D E   B E H I N D     --!>
 <tr>
-   <td colspan="2" align="center"><b>"&thinsp;C&thinsp;o&thinsp;d&thinsp;e&nbsp;&nbsp;&nbsp;b&thinsp;e&thinsp;h&thinsp;i&thinsp;n&thinsp;d&thinsp;"</b></td></tr>
+   <td colspan="2" align="center"><b>"&thinsp;C&thinsp;o&thinsp;d&thinsp;e&nbsp; &nbsp;b&thinsp;e&thinsp;h&thinsp;i&thinsp;n&thinsp;d&thinsp;"</b></td></tr>
 <tr valign="top"><td>
 <p>Define general <b>interfaces</b> and abstract classes and back them with test doubles.</p>
    <p>Define non-functional markup/qualifier interfaces.</p>
@@ -82,13 +82,13 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
      </td><td>
 <p>Granulate <b>interfaces</b> and create "technical" interfaces and classes.</p>
    <p>Implement interfaces and abstract classes.</p>
-   <p>Code classes and methods under strict guidelines (as widely accepted S.O.L.I.D. or <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/frames">custom rules</a>).</p>
+   <p>Code classes and methods under strict guidelines (as widely accepted S.O.L.I.D. or any <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/frames">custom rules</a>).</p>
 </td></tr>
            <!--  --!>
           <!--          TEST DOUBLES    --!>
          <!--  --!>
 <tr>
-<td align="center" colspan="2"><b>T&thinsp;e&thinsp;s&thinsp;t&nbsp;&nbsp;&nbsp;&nbsp;d&thinsp;o&thinsp;u&thinsp;b&thinsp;l&thinsp;e&thinsp;s</b></td></tr>
+<td align="center" colspan="2"><b>T&thinsp;e&thinsp;s&thinsp;t&nbsp; &nbsp; d&thinsp;o&thinsp;u&thinsp;b&thinsp;l&thinsp;e&thinsp;s</b></td></tr>
 <tr valign="top"><td>
 <p>Tests and the code behind them must intensively utilize all possible doubles (mocks, dummies, stubs) and ugly but fast implementation shortcuts (available in the language).</p>
 <p>When design stabilizes, these doubles will be development tasks, test-driven or not.</p>
@@ -98,7 +98,7 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
            <!--  --!>
           <!--          TEST DATA    --!>
            <!--  --!>
-<tr><td align="center" colspan="2"><b>T&thinsp;e&thinsp;s&thinsp;t&nbsp;&nbsp;&nbsp;&nbsp;d&thinsp;a&thinsp;t&thinsp;a</b></td></tr>
+<tr><td align="center" colspan="2"><b>T&thinsp;e&thinsp;s&thinsp;t&nbsp; &nbsp; d&thinsp;a&thinsp;t&thinsp;a</b></td></tr>
 <tr valign="top"><td>
 <p align="center"><b>Demonstrative</b></p>
 
@@ -116,18 +116,17 @@ Test coverage actually with a slant to find elaborate error cases.
 <tr valign="top"><td>
    <div>✔️&thinsp;Compilable syntax demos are enough.</div>
 <div>✔️&thinsp;Non-compilable too &mdash; <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-posers.md#non-comp-calls">on purpose</a>.</div>
-      <div>✔️&thinsp;<b>Optional</b>: light backup functionality (like stubs covering <i>nulls</i>).</div>
+      <div>✔️&thinsp;<b>Optional</b>: light backup functionality<br />(like stubs to return instead of <code>nulls</code>).</div>
    <div>✔️&thinsp;Top logical categorization of tests</div>
    <div>✔️&thinsp;Define contours of test data</div>
    <div>_________</div>
-  <div>Demo-tests can remain for guidance and serve as a documentation frame.</div></td>
+  <div>☑️ <b>Demo tests</b> can remain for guidance and shape documentation.</div></td>
 <td>
-   <div>✔️&thinsp;Lay out test data</div>
+   <div>✔️&thinsp;Categorise implementation and lay out test data</div>
    <div>✔️&thinsp;Exact success and fail scenarios.</div>
    <div>✔️&thinsp;Write tests for these scenarios with proper <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/tests">techniques</a><br />
    (using the calls in demos (<i>Act</i> of <span title="&nbsp;Arrange&#013;&#010;&nbsp;Act&#013;&#010;&nbsp;Assert" ><ins>AAA</ins></span>) that TD<b><mark>Δ</mark></b> already defined)</div>
       <div>✔️&thinsp;Code implementation of tests.</div>
-<div>✔️&thinsp;Categorization of implementation</div>
 <div>✔️&thinsp;Blueprint of test coverage</div>
    <div>_________</div>
    <div>☑️<ins><b>&nbsp;Functioning parts of applications.&nbsp;</b></ins></div>
@@ -137,7 +136,7 @@ Test coverage actually with a slant to find elaborate error cases.
 </tr>
        </table>
 <!--          NOT SO EASY     --!>
-<details align="center"><summary>___________ <b>HOLD ON ...</b> ___________</summary>
+<details align="center"><summary>___________&nbsp; <b>HOLD ON &nbsp;.&thinsp;.&thinsp;.</b> ___________</summary>
 &nbsp;
    
 <p align="center"><picture><img alt="&nbsp; Long ridge of high peaks (image credit: kyriosity)" src="../../../../../_rsc/_img/illus/tests/TddWatershed-altView.jpg"></picture></p>
@@ -146,16 +145,16 @@ We lined up two extremes above: API definition _vs._ coding.
 
 In reality, besides development jobs, modeling attempts will reveal parallel or sub-level cascades of design tasks.
 
-To make matters worse, an aerial photo of divergent ridges and contrеforts would even better represent drains of tasks.\
+To make matters worse, an aerial photo of divergent ridges and contrеforts would even better represent the drains of tasks.\
 <sub>(But then I'd be the first to leave scarred this narrative because of overcomplexity.)</sub>
 
 The course will also unveil tasks of a higher or parallel level, but they will be either enjoyable hassles or separate headaches.
 
 **P.S.** Add _Data Drive_ to the left (required to formulate UX and APIs). 
 
-\___________</b></details>
-
 <h3 align="center">⬆️ So sophisticated and idealistic? Neither! ⬇️</h3>
+
+\___________</b></details>
 
 <h2 id="TDD-ISie" align="center">Reconcile by example: TDD ⭐I&thinsp;S&thinsp;<samp>I&thinsp;E</samp>⭐</h2>
 
@@ -184,9 +183,9 @@ As usual, the same highlight can be an advantage and a drawback/handicap. Let's 
 
 ### Layering and division of design
 
-It doesn't need explanation as an advantage but its cons can doom a project. "Front parts" must never get the higher priority (this will build drip castles).
+It doesn't need explanation as an advantage, but its cons can doom a project. "Front parts" must never get the higher priority (this will build drip castles).
 
-The great entusiasm may lead to definitions of parts, which would never be finished or even worse &thinsp;&mdash;&thinsp; overload development, derrogate it and dissolve design.
+The great enthusiasm may lead to definitions of parts, which would never be finished or even worse &thinsp;&mdash;&thinsp; overload development, derrogate it and dissolve design.
 
 ### Separation of duties
 
@@ -196,17 +195,17 @@ It needs no introduction, but to stress a couple of points:
 + Present the concept ASAP.
 + Adjust/swap layers of logic.
 
-🙁 Activities may become too split. The "front" team may underestimate the billow of implentation items they create. Guys in implementation hats may feel themselves as pure workforce. 
+🙁 Activities may become too split. The "front" team may underestimate the bulk of implementation items they create. Guys in implementation hats may feel themselves as pure workforce. 
 
 Solution? Roles swap and permanent direct feedback.
 
 ### Effective definitions of tasks
 
-The upper desing will quite smartly formulate major tasks while these tasks can be effectively split into subtasks.
+The upper design will quite smartly formulate major tasks, while these tasks can be effectively split into subtasks.
 
 ### Team practice
 
-Resonsiple and attentive following the principles will unite and motivate the team while getting the best of members (win-win).
+Responsible and attentive following the principles will unite and motivate the team while getting the best of members (win-win).
 
 ### Motivation to TDD
 
