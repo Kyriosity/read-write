@@ -1,11 +1,12 @@
-# Software&nbsp;&nbsp;&mdash;&nbsp;&nbsp;External parts
+# Software &nbsp;&mdash;&nbsp; External parts
 
 What are the cornerstones of a big new project - technologies, tools, requirements, planning, team, and budget? Neither. \
 **The fundamentals already exist and are proven concepts/components to adopt.**
 
-> This follows the universal paradigm: learn first from others.
+> **This follows the universal paradigm: learn first from others.**
 
-Full-fledged third-party frameworks, libraries, and services allow developers to focus on application business and UX rather than tame technologies, type and maintain tons of boilerplate code; test, find, and fix extra bugs.<sup>:raising_hand:</sup>
+Full-fledged third-party frameworks, libraries, and services allow developers to focus on application business and UX rather than tame technologies, type and maintain tons of boilerplate code; test, find, and fix extra bugs.<sup>🙋</sup>\
+&nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>I like their pragmatic and eloquent motto "We are your extended team" (DevExpress).</samp>
 
 Such external parts are often a click away from evaluation and range:
 
@@ -15,10 +16,6 @@ Such external parts are often a click away from evaluation and range:
 * **from** open source or/and free **to** commercial and obfuscated,
 
 Even great enterprises are reluctant to create the parts from the ground up and re-invent the wheel (unless it's rounder than others or "security first" rules).
-
-\___________
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>I like the pragmatic and eloquent motto "We are your extended team" (DevExpress).</sub>
 
 ## Core components
 
@@ -34,9 +31,9 @@ Developers get the best out-of-the-box: state-of-the-art UI, professional look a
 
 ## Backend
 
-Simple to moderate applications need no elaborated structure - they begin with a few data context classes. For large projects teams shall weigh evaluation, learning curve, and fitting of the chosen framework against the hardship of own development.
+Simple to moderate applications need no elaborate structure - they begin with a few data context classes. For large projects, teams shall weigh evaluation, learning curve, and fitting of the chosen framework against the hardship of their own development.
 
-Many frameworks are good at themselves but will burden your project with too much unclaimed "ballast" code.
+Many frameworks are good in themselves, but will burden your project with too much unclaimed "ballast" code.
 
 ## Testing
 
@@ -49,9 +46,9 @@ Some non-commercial projects launched by individuals or groups have grown to ind
 Besides the licensing, when applying such 3d-party assess if there's a community (maybe, only you) able to maintain the stuff within the lifecycles of dependent projects. 
 Then I'd prefer readable code with transparent design ideas above all (releases, active community, extra features, popularity).
 
-Freeware means pretty often open-source and here not all are ready to give out the best ideas and realizations.
+Freeware means pretty often open-source, and here, not all are ready to give out the best ideas and realizations.
 
-All-around pro solutions aren't free but annual dev licenses below $1K will quickly pay off even for a humble undertaking. Let alone live support and membership in a durable motivated community.&nbsp;<sup>:raising_hand:</sup>
+All-around pro solutions aren't free, but annual dev licenses below $1K will quickly pay off even for a humble undertaking. Let alone live support and membership in a durable, motivated community.&nbsp;<sup>:raising_hand:</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Remind the exciting accomplished but then abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks ... last updated 10 years ago.</sub>
 
