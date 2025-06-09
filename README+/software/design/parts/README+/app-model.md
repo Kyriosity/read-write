@@ -1,14 +1,14 @@
-# Application model&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Reminder
+# Application model &nbsp;&mdash;&nbsp; Reminder
 
 The _Model_, though a rather obscure term, is a cornerstone of software engineering, which shapes and formalizes entities and tasks of the application.
 
-A model may rank from the dumbest `new Brick { w = 20, d = 12, h = 6,5 }` up to a universe of media franchises, from private proof of concept to enterprise solution, and from bubble sort to 3D engine.
+A model may range from the dumbest `new Brick { w = 20, d = 12, h = 6,5 }` up to a universe of media franchises, from private proof of concept to enterprise solution, and from bubble sort to 3D engine.
 
 ## Insight into model data
 
-First and foremost, _model_ is not identical to _data_, it's a vital but optional part. A model may render non-memorized processing (e.g. input and output of hash calculation).
+First and foremost, _model_ is not identical to _data_, it's a vital but optional part. A model may render non-memorized processing (e.g., input and output of hash calculation).
 
-Model data can be a homogeneous monolith of primitive data types, as well as distributed and heterogeneous high-level abstraction.\
+Model data can be a homogeneous monolith of primitive data types, as well as distributed and heterogeneous high-level abstractions.\
 Serving not only business or other primary data but may present collateral settings, statistics, roaming, or temporary storage.
 
 It can be:
@@ -29,9 +29,9 @@ The model is not data (there could be a model with no data at all, like a math p
 
 ## Planning a model
 
-The keystone decision is structure: whether the model will be relational, object-oriented, functional, document-oriented, sort of graph, markup, pile, or other kind of disorder. It will be a challenge to swap later. 
+The keystone decision is structure: whether the model will be relational, object-oriented, functional, document-oriented, a sort of graph, markup, pile, or other kind of disorder. It will be a challenge to swap later. 
 
-The structure shall not imply programming language or be inspired by your language of choice. Think in pseudo-code.
+The structure shall not imply a programming language or be inspired by your language of choice. Think in pseudo-code.
 
 ## Writing a model
 
