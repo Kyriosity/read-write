@@ -6,15 +6,15 @@
 * Name, apply, get feedback, refactor.
 * At least two people with different backgrounds must confirm the top names.
 * Avoid top names known in neighboring domains but with another meaning.\
-(when possible avoid names that may become language keywords, e.g. _field_ - hallo, C#13 preview.
+(When possible, avoid names that may become language keywords, e.g., _field_ - hallo, C#13 preview.
 
 ## Guidelines
 
 ### Methods for values
 
-* `Get` - means available values and must be property,
-* `Find` - implies efforts and queries which must bring the result (or fail with exception),
-* `Lookup` - implies querying which may bring nothing. In other words, it's `TryFind`.
+* `Get` - means available values and must be a property,
+* `Find` - implies efforts and queries which must bring the result (or fail with an exception),
+* `Lookup` - implies querying, which may bring nothing. In other words, it's `TryFind`.
 
 `Calculate`/`Process` is different from all the above.
 
@@ -44,7 +44,7 @@ General words sound vague (if not bombastic) unless established in the domain. C
 
 ### Guidelines for methods
 
-`Get` must be taboo within method names - either this must be property or a better description of the returned: `Read`, `Calculate` u.a.
+`Get` must be taboo within method names - either this must be a property or a better description of the returned: `Read`, `Calculate`, _i.a._
 
 ## Appendix. Posers
 
