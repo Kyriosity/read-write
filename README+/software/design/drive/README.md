@@ -1,10 +1,10 @@
-<h1 align="center"><samp>SOFTWARE CREATION</samp>&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Drives</h1>
+<h1 align="center"><samp>SOFTWARE CREATION</samp> &nbsp;&mdash;&nbsp; Drives</h1>
 
 What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names for approaches. Even _functional programming_ is a driven approach.
 
 <details align="center"><summary><ins>&nbsp;<b>Fancying more items on both sides of <samp>DRIVEN</samp> will scheme a grotesque gearbox&thinsp;:</b>&thinsp;</ins>&nbsp;⬇️</summary>
 <br />
-<p align="center"><picture><img alt="&thinsp;&nbsp;&nbsp;Combinational mess of drives and driven" src="../../../_rsc/_img/illus/AllDrives.jpg"/></picture></p>
+<p align="center"><picture><img alt="&thinsp;&nbsp; Combinational mess of drives and driven" src="../../../_rsc/_img/illus/AllDrives.jpg"/></picture></p>
 </details>
 
 <p align="center">⬆️&thinsp;<mark><b>Let's figure out what to do with this mess...</b>&thinsp;⬇️</mark></p>
@@ -15,10 +15,10 @@ Let's reserve individual surveys of <ins><b>&thinsp;<samp>ONE-WAY</samp> 1&thins
 
 Let's be free of dogmas and  isolated combinations. The easiest path is to conjure up the items (from the picture above) around a task and develop it with approaches in mind.<sup>🙋</sup>
 
-The arduous trail is to draw arrows in the picture,  play with their direction, and prioritize (this also means erasing some). Then continue designing names, categories, and programmatic structures.
+The arduous task is to draw arrows in the picture,  play with their direction, and prioritize (this also means erasing some). Then continue designing names, categories, and programmatic structures.
 
 \_______\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>This read isn't a doctrine yet. You are free to dump it now (unless you want to spare hours of rambling in courses and books.</sub>
+&nbsp; &nbsp; &nbsp;<sup>🙋</sup> <sub>This read isn't a doctrine yet. You are free to dump it now (unless you want to spare hours of rambling in courses and books.</sub>
 
 ## Our gearbox has &nbsp; .&thinsp;.&thinsp;.&nbsp; <samp>R&thinsp;E&thinsp;V&thinsp;E&thinsp;R&thinsp;S&thinsp;E</samp>
 
@@ -84,4 +84,4 @@ Example:\
 |- use-dev➡️ [Wizard blocks](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/WizConstr/README.md)
 
 \___________\
-🔚 <sub> ... borrowed images credit: [The Outer Limits.The&nbsp;Mutant, 1964](https://www.imdb.com/title/tt0667845/?ref_=ttep_ep25), [FREEP1K](FREEP!K (freepik.com))</sub>
+🔚 <sub> ..2024-2025 ... borrowed images credit: [The Outer Limits.The&nbsp;Mutant, 1964](https://www.imdb.com/title/tt0667845/?ref_=ttep_ep25), [FREEP1K](FREEP!K (freepik.com))</sub>
