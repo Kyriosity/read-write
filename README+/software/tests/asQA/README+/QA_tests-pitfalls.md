@@ -1,10 +1,10 @@
 ........... 🚧🐝🚧 ... WORK in PROGRESS... 🚧✏️🚧
 
-# QA Tests &nbsp; &mdash; &nbsp; Pitfalls 
+# QA Tests &nbsp;&mdash;&nbsp; Pitfalls 
 
 <p dir=rtl>Testers hate it when<br />.developers know these catches<br/>(Clickbait🪝)</p>
 
-This is the continuation of [QA Pitfalls](../../../QA/README+/QA-pitfalls.md)
+> This is the continuation of [QA Pitfalls](../../../QA/README+/QA-pitfalls.md)
 
 ## Conceptual
 
@@ -18,7 +18,7 @@ It is better to write and run incomplete tests than not to run complete tests.<b
 
 Not every test should/could be written in code. Not every test automation will pay off. Furthermore, not every test must be formulated in steps.
 
-UI tests are a protruding example but atop of other specific, badly formulated, and irregular tests.
+UI tests are a protruding example, but on top of other specific, badly formulated, and irregular tests.
 
 ## "Technical"
 
@@ -28,16 +28,16 @@ Writing tests of test frameworks may put one into the infernal loop while runnin
 
 ### Falsely green tests
 
-The worst case of malfunctioning tests is a passing one that indeed shields a fail. And the worst of the worst is when such fail-pass is sporadic and arduous to reproduce - imagine a crossroad with the random switch of green lights.
+The worst case of malfunctioning tests is a passing one that indeed shields a fail. And the worst of the worst is when such a fail-pass is sporadic and arduous to reproduce - imagine a crossroad with the random switch of green lights.
 
 The following guidelines help to avoid the trap:
 
-+ Periodically break and then check vital tests to show the red sign.
-+ Add counterpart test with the opposite result (e.g. that shall throw exceptions)
++ Periodically botch and then check vital tests to show the "red" result.
++ Add counterpart test with the opposite result (e.g., that shall throw exceptions)
 
 ### TDD tribute
 
-Procedures _Test Driven Development_ can serve in coverage - not practices.
+Procedures _Test Driven Development_ can serve in coverage &thinsp;&mdash;&thinsp; not practices.
 
 <table><tr></tr><tr align="center"><td width="30%">⚙️&thinsp;<b>TDD</b></td><td>Proof coverage</td>
   </tr><tr valign="top"><td>
@@ -58,7 +58,7 @@ LINK to use-dev
 
 ### Direct reference to implementation
 
-Contrary to TDD unit tests. Providers as adapters. // WRITE FOR TDD !
+Contrary to TDD, unit tests. Providers as adapters. // WRITE FOR TDD !
 
 ### Blind fit to green and carousel
 
@@ -74,9 +74,7 @@ The overlap means that a text _x_ will never pass if there's a test _y_ that fai
 
 ### Extra-long naming
 
-Results from the URGE to make tests lists to specification and come short of organization.
-
-`ValidateShouldReturnErrorWhenFirstNameIsNull()`
+`ValidateShouldReturnErrorWhenFirstNameIsNull()` &thinsp;&mdash;&thinsp; .
 
 Would you admit such a name in the code? Why should it be in the test classes?
 
