@@ -102,6 +102,17 @@ Such calls can [run on null](https://github.com/Kyriosity/use-dev/blob/main/READ
 
 ## Gimmicks
 
+<details><summary><ins>&nbsp;Tuple to swap❗&nbsp;</ins></summary>
+&nbsp;
+
+```csharp
+(a, b) = (b, a);
+```
+
+A fantasy may suggest even more exciting snippets with "boxing" in tuples.
+
+</details>
+
 <details><summary><ins>&nbsp;Not only instance&nbsp;</ins><code>required</code></summary>
 &nbsp;
 
