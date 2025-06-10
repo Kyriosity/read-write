@@ -2,24 +2,6 @@
 
 ## Syntactic reminder
 
-<details><summary><ins>&nbsp;Negate with <i>exclusive or</i>&nbsp;</ins></summary>
-&nbsp;
-
-```diff csharp
--      isLoading = !isLoading // open for typos with other var
-+      isLoading ^= true; // explicit inversion
-+      isLoading = !offLoading // explicitly other var
-```
-
-```diff csharp
-// Invert a longish chained property in legacy API:
--    Controller_A.CPU2.Circuits.TriggerY1.Input.S_plus = !Controller_A.CPU2.Circuits.TriggerV1.Input.S_plus;
-// Have you noticed a typo (done on purpose), which can still designate a valid property
-+    Controller_A.CPU2.Circuits.TriggerY1.Input.S_plus ^= true; // terser and "typo"-safe 
-```
-
-</details>
-
 <details><summary><ins>&nbsp;Argument</ins> <code>out</code>&nbsp;<ins>for readability&nbsp;</ins></summary>
 &nbsp;
 
@@ -102,7 +84,25 @@ Such calls can [run on null](https://github.com/Kyriosity/use-dev/blob/main/READ
 
 ## Gimmicks
 
-<details><summary><ins>&nbsp;Tuple to swap❗&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;Negate with <i>exclusive or</i>❗&nbsp;</ins></summary>
+&nbsp;
+
+```diff csharp
+-      isLoading = !isLoading // open for typos with other var
++      isLoading ^= true; // explicit inversion
++      isLoading = !offLoading // explicitly other var
+```
+
+```diff csharp
+// Invert a longish chained property in legacy API:
+-    Controller_A.CPU2.Circuits.TriggerY1.Input.S_plus = !Controller_A.CPU2.Circuits.TriggerV1.Input.S_plus;
+// Have you noticed a typo (done on purpose), which can still designate a valid property
++    Controller_A.CPU2.Circuits.TriggerY1.Input.S_plus ^= true; // terser and "typo"-safe 
+```
+
+</details>
+
+<details><summary><ins>&nbsp;Tuple to swap⭐&nbsp;</ins></summary>
 &nbsp;
 
 ```csharp
