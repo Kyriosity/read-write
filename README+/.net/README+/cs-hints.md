@@ -32,7 +32,7 @@ Exception dampers (see in _Gimmicks_ below) can also use `out`.
 
 </details>
 
-<details><summary><ins>&nbsp;Discard with underscore&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;Discard with <i>underscore</i> when possible&nbsp;</ins></summary>
 &nbsp;
 
 ```csharp
@@ -42,12 +42,12 @@ Exception dampers (see in _Gimmicks_ below) can also use `out`.
 ```
 
  ```csharp
- // to point that return value isn't required or a method/constructor is called for side-effect only
+ // to point that the return value isn't required or a method/constructor is called for side-effect only
  _ = myShoppingCart.Pay(); // users don't care for the receipt returned 
- _ = new ResourceBlocker(filename); // stub objects (e.g. to invoke and prove constructor logic only) 
+ _ = new ResourceBlocker(filename); // stub objects (e.g., to invoke and prove constructor logic only) 
 ```
   
-+ But not always the best choice
++ Not always the best choice:
   
 ```csharp
 // null guard with *null-coalescing* ...
@@ -56,7 +56,7 @@ _ = myOrder?? throw new ArgumentNullException(nameof(myOrder));
 ArgumentNullException.ThrowIfNull(myOrder);
 ```
   
-+ Not a discard but pleasing
++ Not a _discard_, but pleasing
 
 ```csharp
 const int milesToMars_CloseApproach = 38_600_000;
@@ -65,10 +65,10 @@ var rfidTagFilter = 0b_0111_1100_0100_0011;
 
 </details>
 
-<details><summary><ins>&nbsp;Title not name "magic" constants&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;Avoid "magic" constants&nbsp;</ins></summary>
 &nbsp;
 
-Moving "magic values" to constants or predefined values doesn't clean the code **unless** named good.   
+Moving "magic values" to constants or predefined values doesn't clean the code **unless** named well.
   
 ```diff csharp
 -     legacySystem.ModuleD1.Abracadabra = true; // specifies that text input is treated as case-sensitive
@@ -87,16 +87,16 @@ Moving "magic values" to constants or predefined values doesn't clean the code *
 
 ```diff csharp
 -    throw new ArgumentException(state.ToString());
-// shorter and easy to decorate with text
+// shorter and easier to decorate with text
 +    throw new ArgumentException($"{state}")); 
 ```
 
 </details>
 
-<details><summary><ins>&nbsp;Extension methods (props in future) on </ins><code>null</code>&nbsp;<ins>...</ins></summary>
+<details><summary><ins>&nbsp;Extension members on </ins><code>null</code>&nbsp;<ins>...</ins></summary>
 &nbsp;
 
-Such calls can [run on null](https://github.com/Kyriosity/use-dev/blob/main/README+/frames/README+/calls_on_null.md). You can extend [⭐&thinsp;<b>I&thinsp;S&thinsp;I&thinsp;e</b>&thinsp;⭐](https://github.com/Kyriosity/use-dev/blob/main/README+/parts/_ext/README+/ISie.md) `string` and `INumber` extensions or smartly apply such similar to other objects.
+Such calls can [run on null](https://github.com/Kyriosity/use-dev/blob/main/README+/frames/README+/calls_on_null.md), and they can be practical as in [⭐&thinsp;<b>I&thinsp;S&thinsp;I&thinsp;e</b>&thinsp;⭐](https://github.com/Kyriosity/use-dev/blob/main/README+/parts/_ext/ISie/README.md) .
 
 </details>
 
@@ -145,7 +145,7 @@ class Benchmark : IDisposable
 Inline attributes as 
 [`CallerMemberName`](https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.callermembernameattribute) or 
 [`CallerArgumentExpression`](https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.callerargumentexpressionattribute) 
-set value in runtime but you can't rely on them since the caller may accidentally overwrite the values (that tastes like a flaw). 
+set value in runtime, but you can't rely on them since the caller may accidentally overwrite the values (that tastes like a flaw). 
 
 ```csharp
 
@@ -243,7 +243,7 @@ enum FundamentalStatesOfMatter
 |- **WPF**\
 |--- [WPF hints](wpf/README+/wpf-hints.md)\
 |- **Rules**, **frames**, design **decisions**\
-|--- ➡️ [**use-dev**](https://github.com/Kyriosity/use-dev/blob/main/README.md)
+|--- ➡️ [**use-dev**](https://github.com/Kyriosity/use-dev/)
 
 \___________\
 🔚 ... 🎼 ©️# XXI&nbsp; &nbsp; &nbsp;[![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white&color=tomato)](#)
