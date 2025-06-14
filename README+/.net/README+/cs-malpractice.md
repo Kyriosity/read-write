@@ -77,7 +77,7 @@ try {
 But what about its minor siblings, as here:
 
 ```csharp
-var firstName = "X Æ A-12";
+var firstName = "Asd12s*d";
 try {
      names.Human.Register(firstName);
 } catch(ArgumentException) {
@@ -90,6 +90,8 @@ try {
 
 Now, consider that we submit a popular legal name, "John", and land again in the catch clause. Why?
 Filtering to the expected type doesn't exclude its throw from other code parts (e.g., internal bug of our register). 
+
+A test framework, throwing its own `ArgumentException`, can make matters even worse.
 
 \___________
 

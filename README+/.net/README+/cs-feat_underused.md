@@ -1,6 +1,6 @@
-# `C#` &nbsp;&mdash;&nbsp; Good sides &nbsp;&mdash;&nbsp; Underused
+# `C#` &nbsp;&mdash;&nbsp; Good sides &nbsp;&mdash;&nbsp; _underused_
 
-Parts of C# syntax, certain features, libraries, and frameworks are preferable but often remain unrevealed.
+Parts of C# syntax, its certain features, libraries, and frameworks are preferable in development but often remain unrevealed.
 
 ## Freshly released
 
@@ -29,10 +29,10 @@ Lastly, they appeared with an alternate syntax!
 The following "old" practical syntax and features remain unused in enough programs I've seen.
 
 - [ ]  single file namespaces with `;` without `{}`
-- [ ] [Tuple assignments](https://essentialcsharp.com/tuples#tuples)<sup>🔗</sup> - shortcuts assignment (swap!) and comparison.
+- [ ] [Tuple assignments](https://essentialcsharp.com/tuples#tuples)<sup>🔗</sup> &thinsp;&mdash;&thinsp; shortcuts assignment (swap!) and comparison.
 - [ ] [`CallerArgumentExpressions`](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/caller-argument-expression)
 (It urged me to rewrite ➡️[exception helpers](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcStoppers/Errors).)
-- [ ] `readonly` for `struct` methods - questionable but don't harm and may prevent bugs
+- [ ] `readonly` for `struct` methods &thinsp;&mdash;&thinsp; questionable but don't harm and may prevent bugs
 
 ##### `switch` beyond `else if`
 
@@ -111,9 +111,11 @@ It doesn't involve a deranged imagination to improvise the auto-implementation o
 
 // ToDo: link to use-dev
 
-## Extension methods
+## Extension members
 
-Allow calls on null.
++ Can spare the overload of declarations.
++ Allow calls on null.
++ Enable pseudo-dynamic switching between realisations (`using ...`)
 
 ### Props of polymorphism
 
@@ -136,4 +138,4 @@ Plus to the mentioned above, there are:\
 |&thinsp;-&thinsp;- Obsolete/bad parts, features, and [malpractices](cs-malpractice.md) 
 
 \___________\
-🔚 🌙 2021-2025
+🔚 🌙 .. 2021-2025 ..

@@ -7,12 +7,12 @@
         <li>and write a <b>test method</b> over this.</li>
     </ul>
 </td><td><p align="center">
-↗️&nbsp;<b>A<samp>RRANGE</samp></b>&nbsp;➡️ <br />➡️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>A<samp>CT</samp></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ <br />➡️&nbsp;&nbsp;<b>A<samp>SSERT&nbsp;&nbsp;↩️</samp></b></p>
+↗️&nbsp;<b>A<samp>RRANGE</samp></b>&nbsp;➡️ <br />➡️&nbsp; &nbsp; &nbsp;<b>A<samp>CT</samp></b>&nbsp; &nbsp; &nbsp;➡️ <br />➡️&nbsp; <b>A<samp>SSERT&nbsp; ↩️</samp></b></p>
 <p><b>&larr;&nbsp;R&thinsp;E&thinsp;P&thinsp;E&thinsp;A&thinsp;T</b></p></td><td><p>After polishing the logic and wording,<br />consider and write other test cases.</p>
 </td></tr></table>
 
 Developing tests this way shall (☝🏼 no warranty) wrap features in pleasing _<b>D</b>escriptive <b>A</b>nd <b>M</b>eaninigful <b>P</b>hrases_ (_abbr._ <mark>&thinsp;<b>D&thinsp;A&thinsp;M&thinsp;P</b>&thinsp;</mark>).\
-&nbsp;&nbsp;&nbsp;&nbsp;<sub>Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario)<sup>🔗</sup> that wrap tests into phrases, which not only programmers but also sane people can comprehend.</sub>
+&nbsp; &nbsp; <sub>Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario)<sup>🔗</sup> that wrap tests into phrases, which not only programmers but also sane people can comprehend.</sub>
 
 Needless to point out the virtues of this approach, but one great flaw: <ins>&thinsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins>&thinsp;, fermented by
 
@@ -33,10 +33,10 @@ Needless to point out the virtues of this approach, but one great flaw: <ins>&th
 
 ```mermaid
 graph TD
-    idCx@{ shape: docs, label: "Context &lpar;Arrange&rpar;" } -->|<br />&nbsp;&nbsp;Arguments,&nbsp;&nbsp;<br />&nbsp;&nbsp;Test Data,&nbsp;&nbsp;<br />&nbsp;&nbsp;Settings&nbsp;&nbsp;<br />...| UT(TEST<br />Arange/Act/Assert)
-    idSrv[(Providers<br />&lpar;Arrange&rpar;)] -->|<br />&nbsp;&nbsp;Imports, Services&nbsp;&nbsp;<br />&nbsp;&nbsp;vs. Mocks, Doubles&nbsp;&nbsp;<br />...| UT
-    idFnc@{ shape: procs, label: "Functionality &lpar;Act&rpar;" } -->|&nbsp;&nbsp;Implementation A, B, C, ...&nbsp;<br >&nbsp;Sample func, ...&nbsp;</br>&nbsp;Stubs, Dummies, ...&nbsp;| UT
-    idErr@{ shape: bolt, label: "Abuse" } -->|&nbsp;&nbsp;<i>NULL</i>s, out-of-range,&nbsp;<br />&nbsp;timeouts, exceptions,&nbsp;<br />&nbsp;invalid/illegal calls/funcs&nbsp;<br />...| UT
+    idCx@{ shape: docs, label: "Context &lpar;Arrange&rpar;" } -->|<br />&nbsp; Arguments,&nbsp; <br />&nbsp; Test Data,&nbsp; <br />&nbsp; Settings&nbsp; <br />...| UT(TEST<br />Arange/Act/Assert)
+    idSrv[(Providers<br />&lpar;Arrange&rpar;)] -->|<br />&nbsp; Imports, Services&nbsp; <br />&nbsp; vs. Mocks, Doubles&nbsp; <br />...| UT
+    idFnc@{ shape: procs, label: "Functionality &lpar;Act&rpar;" } -->|&nbsp; Implementation A, B, C, ...&nbsp;<br >&nbsp;Sample func, ...&nbsp;</br>&nbsp;Stubs, Dummies, ...&nbsp;| UT
+    idErr@{ shape: bolt, label: "Abuse" } -->|&nbsp; <i>NULL</i>s, out-of-range,&nbsp;<br />&nbsp;timeouts, exceptions,&nbsp;<br />&nbsp;invalid/illegal calls/funcs&nbsp;<br />...| UT
 
 ```
 
@@ -131,9 +131,9 @@ Normalization doesn't apply well to advanced evaluation as [gradual asserts](htt
 
 When a mass of tests exceeds the sight capabilities, it's clever to select the "key" ones &mdash; which fail must be investigated first (an order and classification can be set there too).
 
-Imagine a math engine of a project. If a floating error emerges, neither API error will matter.
+Imagine a math engine for a project. If a floating error emerges, neither API error will matter.
 
-<h1 align="center">Wrap-up. D<samp>RY</samp> but not drain</h1>
+<h1 align="center">Conclusion: D<samp>RY</samp> but not drain</h1>
 
 <mark>&thinsp;<b>D&thinsp;U&thinsp;M&thinsp;P</b>&thinsp;</mark> or <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark>❔ Neither but a compromise. (Could I omit set phrases?) 
 

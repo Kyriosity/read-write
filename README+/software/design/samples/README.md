@@ -1,6 +1,6 @@
 # Design &nbsp;&mdash;&nbsp; Samples
 
-The planning and presentation of software features require a pictorial and encouraging background. We'll rely often on the next samples:\
+The planning and presentation of software features require a pictorial and encouraging background. We'll often rely on the next samples:\
 |- ♟️ [Chess](#chess)\
 |- 🧮 [Math](#math)\
 |- 🎨 [Raster images](#raster-images)\
@@ -46,11 +46,11 @@ Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to m
 
 <h1 align="center">Math</h1>
 
-<p dir=rtl><b>All is Number</b><br ><i>Πυθαγόρας</i></p>
+<p dir=rtl>«<b>All is Number</b>»<br ><span title="Pythagoras, 570-495 BC"><i><ins>Πυθαγόρας</ins></i></span></p>
 
 The study of logic and **math** with its formalism has predetermined programming. As hardware could run decent algebra instructions, low- and high-level languages on it could render fundamental mathematical functions for programmers.
 
-More specific functions can be found in external libraries and if not are the subject of tailored development: from a casual task for non-mathematicians to scientific theses (as some _computer-assisted-proofs_). 
+More specific functions can be found in external libraries, and if not, are the subject of tailored development: from a casual task for non-mathematicians to scientific theses (as some _computer-assisted-proofs_). 
 
 * Arguments and results of functions are not only numbers but also compound and highly abstract structures. 
 * A simple or not formula may spare loads of modification storage and still be swift. 
@@ -104,7 +104,7 @@ The neighbor repo use-dev➡️ explores how to make these models [more flexible
 
 ## Wrapping up
 
-Developers can select this or that sample/model that fits the features under development, and implement (or re-use) prototypes with tests. 
+Developers can select a sample or model that fits the features under development and implement (or reuse) prototypes with tests. 
 
 However, put them all together on the mental green field of a growing application to plan:
 

@@ -241,7 +241,8 @@ _Alexander Pope_, poet (1688-1744)
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="&nbsp; Teleevanglist: If there's no more room in stack, the bugs will walk the Earth..." src="../../../../_rsc/_img/memes/misquote-no_more_stack.jpg" title="&nbsp;Stack is overflowing..." /></picture><br />
+<br /><picture><img alt="&nbsp; Teleevanglist: If there's no more room in stack, the bugs will walk the Earth..." 
+        src="../../../../_rsc/_img/memes/misquote-no_more_stack.jpg" title="&nbsp;Stack is overflowing..." /></picture><br />
 <mark><b>...Ken Foree fandom</b></mark>
 
  #### Already classics
@@ -261,7 +262,8 @@ Security conference, August/2004
 _Andres Freund_, a programmer who occasionally found out the [XZ Utils backdoor](https://en.wikipedia.org/wiki/XZ_Utils_backdoor),
 in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html">NYT interview </a>, 2024.<sup>🙋</sup>
 
-<sup>🙋</sup> <sub>Media had hyperbolized it to a "century cyberattack". Though being tricky and longly planned, it was far off to infiltrate most "distros", required many conditions to coincide, and would manifest itself soon.</sub>
+<sup>🙋</sup> <samp>Media had hyperbolized the story to a "century cyberattack". It was tricky and longly planned, but far off to infiltrate most "distros". 
+This required many conditions to coincide, and would manifest itself fast.</samp>
 
 \_________________________________</details>
 
@@ -277,4 +279,4 @@ Advice from _Joseph Rudyard Kipling_ (1865-1936)
 
 
 \___________\
-♾️ ... subject of continuous delivery since 300'000 BCE ...
+♾️ ... subject of continuous delivery since ... ♾️

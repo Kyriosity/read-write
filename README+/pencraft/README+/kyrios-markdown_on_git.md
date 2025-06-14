@@ -128,16 +128,18 @@ Prefer `<a id="anchor_name" />` for sustained (internal) links to avoid changeab
 
 Avoid clickable images unless they are links or a detailed (bigger) version &thinsp;&mdash;&thinsp; HTML `<picture>` to rescue.
 
-</td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../_rsc/_img/signs/LongRead/2845px_rotate90.jpg" /></picture>
+</td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../_rsc/_img/signs/LongRead/2900px_rotate90.jpg" /></picture>
 </td></tr></table>
 <!--                                                         W R A P - U P                       --!>
-<table><tr valign="center"><td><picture><img alt="&nbsp;WRAP UP" src="../../_rsc/_img/signs/WrapUp/counter-rotate/80x144_fold.jpg" /></picture></td><td>
+<table><tr valign="center"><td><picture><img width="200px" alt="&nbsp;WRAP UP" src="../../_rsc/_img/signs/WrapUp/counter-rotate/80x144_fold.jpg" /></picture></td><td>
 
 ### 🎉 You made it to a markdown lord🎈and now ...
 
-+ You may consider Git-supported dialects as [flavored markdown](https://github.github.com/gfm/)<sup>:octocat:</sup> and converters as [PanDoc](https://pandoc.org)<sup>🔗</sup>. 
-+ There are legions of content management and site creation tools for big projects that are more suitable and professional than markdown-on-Git.
-+ There are GitHub Pages (GitHub.io) that you can add to a Git profile.
+You may consider Git-supported dialects as [flavored markdown](https://github.github.com/gfm/)<sup>:octocat:</sup> and converters as [PanDoc](https://pandoc.org)<sup>🔗</sup>.\
+And/or GitHub Pages (GitHub.io) that you can add to a Git profile.
+
+There are legions of content management and site creation tools for big projects that are more suitable and professional than markdown-on-Git. 
+There are rich environments for collaboration on tech/sci documents, like [Jupyter Notebook](https://jupyter.org).
 
 </td></tr></table>
 
