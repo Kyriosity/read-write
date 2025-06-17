@@ -27,7 +27,7 @@
       &nbsp; 🥱<a href="../README+/pencraft/README+/essays/README.md">&thinsp;<b><samp>ESSAYS</samp></b>&thinsp;</a>&nbsp;🪝<a href="../README+/pencraft/README+/memes/README.md">Memes</a>&nbsp; 🥨<a href="../README+/pencraft/README+/quotes/README.md">Quotes</a>
      </td>
                                                                                         <!--          A r c D e c o   S I D E B A R    --!>
-    <td align="center"><a href="../README+/software/ArcDeco/README.md"><picture><img width="20px" alt="&nbsp;I&thinsp;T" src="../README+/_rsc/_img/_nav/SOFTWARE_25-250px.png" title="Arc Deco&#013;&#010;
+    <td align="center"><a href="../README+/software/ArcDeco/README.md"><picture><img width="20px" alt="&nbsp;I&thinsp;T" src="../README+/_rsc/_img/_nav/SOFTWARE_25-250px.png" title="&nbsp;... is Arc Deco:&#013;&#010;
 Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D &nbsp; &nbsp; &nbsp; Design&#013;&#010;e&nbsp; &nbsp; &nbsp; &nbsp; dEvelopment&#013;&#010;co&nbsp; &nbsp; &nbsp; COde"/>
 </picture></a></td>
                                            <!--                   C# . N E T               --!>
