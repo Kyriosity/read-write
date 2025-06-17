@@ -22,19 +22,6 @@ Accompanied by info and copyright<sup>©️</sup> headers and footers.
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>📄</sup> <samp>Sometimes on a single purpose to enlarge the number of committed lines.</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>©️</sup> <samp>As if there were no license agreement or such a spell may prohibit impudent copy-paste.</samp>
 
-## ❗Breaking exclusion &thinsp;&mdash;&thinsp; Nota bene
-
-Some members require clarification, e.g. _natural number_ **may** include zero. A name may specify it (`IsNaturalNonzero` / `IsNaturalOrZero`). 
-This can't be a solution for cases such as `RemovePunctiation()`: what symbols exactly shall include `«»»` (guillemets), is `_` punctuation, ...?
-
-Tests shall fragment distinctions but are not comfortable for hints and unavailable through API, services, or, generally speaking, interfaces.
-
-> **The comment docu can be necessary to appear as a hint.**
-
-Such comments shall be reserved for interfaces.
-
-<picture><img alt="&nbsp;Tip for MiscSymbols listing these symbols" src="../../../_rsc/_img/snap/screen/VisualStudio/Tip-MiscSymbols.jpg" /></picture>
-
 ## Indulgences
 
 🔷 First and foremost, descriptive comments and blocks of them in **demo tests** &thinsp;&mdash;&thinsp; to serve as guides for devs and presentations for users. 
@@ -52,11 +39,25 @@ Other valid points are:
  
 One other distinct and legitimate niche is [comment-driven development](https://en.wikipedia.org/wiki/Comment_programming)<sup><b>w</b></sup> (though it's more fun).
 
-Comments may be anchored theses for documentation, if you can effectively support two-way updates.
+Comments may be anchored _theses_ for documentation, if you can effectively support two-way updates.
 
-### Commenting the code out
+##  Wrap up❗Breaking exclusion &thinsp;&mdash;&thinsp; Nota bene
 
-Switching off code lines is a usual manipulation, but committing one requires a comment at least that it was on purpose. It might be just three slashes `///` or a team may decide on acronyms like:
+Some members may require clarification, e.g., a _natural number_  constraint **may** include zero or not. Then a name may specify it (`IsNaturalNonzero` / `IsNaturalOrZero`). 
+This can't be a solution for cases such as `RemovePunctiation()`: what symbols exactly shall include `«»»` (guillemets), is `_` punctuation, ...?
+
+Tests shall fragment distinctions but are not comfortable for hints and unavailable through API, services, or, generally speaking, interfaces.
+
+> **Then a comment can be necessary to appear as a hint.**
+
+(And such comments shall be reserved for interfaces.)
+
+<picture><img alt="&nbsp;Tip for MiscSymbols listing these symbols" src="../../../_rsc/_img/snap/screen/VisualStudio/Tip-MiscSymbols.jpg" /></picture>
+
+## Appendix. Commenting the code 🧹out
+
+Switching off code lines is a common manipulation, but committing one requires a comment at least stating that it was intentional. 
+It might be just three slashes `///` or a team may decide on acronyms like:
 
 &nbsp; &nbsp; `///DEL` — delete after review\
 &nbsp; &nbsp; `///ALT` — alternative implementation \
@@ -64,6 +65,7 @@ Switching off code lines is a usual manipulation, but committing one requires a 
 &nbsp; &nbsp; `///EXC` — causes an exception\
 &nbsp; &nbsp; `///IDEA` — It was a fast sketch which one may simplify or elaborate\
 &nbsp; &nbsp; `///LOL` — i did it for lulz
+
 
 \___________\
  🔚 🌘 2023-2025 ..
