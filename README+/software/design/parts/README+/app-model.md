@@ -1,4 +1,4 @@
-# Application &nbsp;&mdash;&nbsp; Model &nbsp;&mdash;&nbsp; _Reminder_
+# Application: Model &nbsp;&mdash;&nbsp; _Reminder_
 
 The _Model_, though a rather obscure term, is a **cornerstone** of software engineering, which shapes and formalizes entities and tasks of the application.
 
