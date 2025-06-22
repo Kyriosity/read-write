@@ -1,6 +1,6 @@
 # Architecture and Architects
 
-<table><tr valign="top"><td><picture><img width="550px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.jpg" /></picture>
+<table><tr valign="top"><td><picture><img width="500px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.png" /></picture>
        </td><td>
 
 The essence of architecture appeared with constructions more extravagant and durable than a hut of piled branches &thinsp;&mdash;&thinsp; say, megaliths.
