@@ -6,7 +6,7 @@
 **∅`NULL`⚡REFERENCE earned a gruesome reputation as an _exceptional_ plague.** 
 
 Its outbreaks appear literally from `nothing` and are too common to call them just `exceptions` &thinsp;&mdash;&thinsp; 
-they strike in safe and unmanaged code, bolted to the floor mainframes and in clouds, and spare neither junior nor seasoned developers.
+they strike in safe and unmanaged code, in the bolted-to-the-floor mainframes and in clouds, and spare neither junior nor seasoned developers.
 
 _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame of being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
@@ -26,7 +26,7 @@ And no one else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  co
 
 ### The fallacy of equivocation 
 
-<sup>🎥</sup>&nbsp; But if you can't couple the 1950s subscripts **and** today's exceptions &nbsp;&mdash;&nbsp; you are **not** alone (and probably in a good company).
+<sup>🎥</sup>&nbsp; If you can't couple the 1950s subscripts **and** today's exceptions &nbsp;&mdash;&nbsp; you are **not** alone (and probably in a good company).
 
 `Null` is a logical consensus to designate not initialized values. There's no specific `boolean` or machine value for it. 
 The error occurs chiefly when we, developers, forget to initialize &thinsp;&mdash;&thinsp; that's what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
@@ -68,14 +68,12 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 ### `Null` is not a bug but a feature
 
-First, `Null` is not a popped transistor, phantom, bug, stub, rudiment, or singularity. It's not more than a logical agreement for unassigned variables and the initial and valid state of objects. 
+First, `Null` is not a popped transistor, phantom, bug, stub, rudiment, or singularity. It's not more than a logical placeholder for unassigned variables and the initial and valid state of objects. 
 When neglected, it sincerely warns about a breach.
 
 Besides plain cases, `NullReference` may be the visible summit of the iceberg made of logical faults. 
 
 It's a rather strange idea that there could be a programming language without `null`. Meanwhile, mainstream languages allow nullable numeric types to avoid the unwanted default to zero.
-
-
 
 ### Blaming the messenger
 
@@ -115,7 +113,7 @@ _Enums_ (enumerations), i.e., declarative numbers, are rather prone to such erro
 
 ## Rinse &rarr; <samp>Back to keyboard</samo>
 
-First and foremost, there's no magic wand to get rid of the `NullReference` errors, as clickbait titles try to sell. And there shall be none.
+First and foremost, there is no magic wand to eliminate `NullReference` errors, as clickbait titles often try to suggest. And there shall be none.
 
 Besides sound logic, [quality code](../../../../software/QA/README+/code-quality.md) and apparent measures (including language aid), the following practices must prevent unexpected exceptions:
 
@@ -181,5 +179,5 @@ After sacrificing a couple of hours, he addressed this pesky _null_ to the dark 
 |-&thinsp;- [Code wizard](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/WizConstr) `// building backbone that won't forget to initialize`
 
 \___________\
-🔚 &empty; 2025  image credits: Wiki Commons, kyriosity
+🔚 &empty; 2025 ..  image credits: Wiki Commons, kyriosity
 

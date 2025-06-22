@@ -8,37 +8,23 @@
 <p align="right">___________</p>
 <p align="right">When code resembles a manuscript<br /> consider writing the documentation.</p>
 
-> **Comments can be eye-catching and essential but signal design inconsistency and poor naming.**<sup>🙋</sup>
+> **Comments can be eye-catching and essential, but signal design inconsistency and poor naming.**<sup>🙋</sup>
 
 Carefully written [quality code](../../QA/README+/code-quality.md) is self-descriptive by nature and needs no epistolary clarification<sup>🙋</sup>, 
 and even abracadabra in _regex_ processors can be broken down into figurative methods and variables. 
 
-However, rehearsead names of classes, functions, arguments, and properties bloat many (if not the majority) files of prominent (and less known) contributors on Git (or elsewhere)<sup>📄</sup>.
+However, rehearsed names of classes, functions, arguments, and properties bloat many (if not the majority) files of prominent (and lesser-known) contributors on Git (or elsewhere)<sup>📄</sup>.
 
 Accompanied by info and copyright<sup>©️</sup> headers and footers. 
 
 \___________\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<sub>This statement is for high-level declarative languages.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📄</sup>&nbsp;<sub>Sometimes on a single purpose to enlarge the number of committed lines.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>©️</sup>&nbsp;<sub>As if there were no license agreement or such a spell may prohibit impudent copy-paste.</sub>
-
-## ❗Breaking exclusion &mdash; Nota bene
-
-Some members require clarification, e.g. _natural number_ **may** include zero. A name may specify it (`IsNaturalNonzero` / `IsNaturalOrZero`). 
-This can't be a solution for cases such as `RemovePunctiation()`: what symbols exactly shall include `«»»` (guillemets), is `_` punctuation, ...?
-
-Tests shall fragment distinctions but are not comfortable for hints and unavailable through API, services, or, generally speaking, interfaces.
-
-> **The comment docu can be necessary to appear as a hint.**
-
-Such comments shall be reserved for interfaces.
-
-<picture><img alt="&nbsp;Tip for MiscSymbols listing these symbols" src="../../../_rsc/_img/snap/screen/VisualStudio/Tip-MiscSymbols.jpg" /></picture>
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🙋</sup> <samp>This statement is for high-level declarative languages.</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>📄</sup> <samp>Sometimes on a single purpose to enlarge the number of committed lines.</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>©️</sup> <samp>As if there were no license agreement or such a spell may prohibit impudent copy-paste.</samp>
 
 ## Indulgences
 
-First and foremost, descriptive comments and blocks of them in **demo tests** to serve as guides for devs and presentations for users. 
-To replace extra documentation better.
+🔷 First and foremost, descriptive comments and blocks of them in **demo tests** &thinsp;&mdash;&thinsp; to serve as guides for devs and presentations for users. 
 
 Other valid points are:
  
@@ -53,19 +39,33 @@ Other valid points are:
  
 One other distinct and legitimate niche is [comment-driven development](https://en.wikipedia.org/wiki/Comment_programming)<sup><b>w</b></sup> (though it's more fun).
 
-Comments may be anchored theses for documentation if you can effectively support two-way updates.
+Comments may be anchored _theses_ for documentation, if you can effectively support two-way updates.
 
-### Commenting the code out
+##  Wrap up❗Breaking exclusion &thinsp;&mdash;&thinsp; Nota bene
 
-Switching off code lines is a usual manipulation but committing one requires a comment at least that it was on purpose. It might be just three slashes `///` or a team may decide on acronyms like:
+Some members may require clarification, e.g., a _natural number_  constraint **may** include zero or not. Then a name may specify it (`IsNaturalNonzero` / `IsNaturalOrZero`). 
+This can't be a solution for cases such as `RemovePunctiation()`: what symbols exactly shall include `«»»` (guillemets), is `_` punctuation, ...?
+
+Tests shall fragment distinctions but are not comfortable for hints and unavailable through API, services, or, generally speaking, interfaces.
+
+> **Then a comment can be necessary to appear as a hint.**
+
+(And such comments shall be reserved for interfaces.)
+
+<picture><img alt="&nbsp;Tip for MiscSymbols listing these symbols" src="../../../_rsc/_img/snap/screen/VisualStudio/Tip-MiscSymbols.jpg" /></picture>
+
+## Appendix. Commenting the code 🧹out
+
+Switching off code lines is a common manipulation, but committing one requires a comment at least stating that it was intentional. 
+It might be just three slashes `///` or a team may decide on acronyms like:
 
 &nbsp; &nbsp; `///DEL` — delete after review\
 &nbsp; &nbsp; `///ALT` — alternative implementation \
-&nbsp;&nbsp;&nbsp;&nbsp;`///ERR` — doesn't work\
-&nbsp;&nbsp;&nbsp;&nbsp;`///EXC` — causes an exception\
-&nbsp;&nbsp;&nbsp;&nbsp;`///IDEA` — It was a fast sketch which one may simplify or elaborate\
-&nbsp;&nbsp;&nbsp;&nbsp;`///LOL` — i did it for lulz
+&nbsp; &nbsp; `///ERR` — doesn't work\
+&nbsp; &nbsp; `///EXC` — causes an exception\
+&nbsp; &nbsp; `///IDEA` — It was a fast sketch which one may simplify or elaborate\
+&nbsp; &nbsp; `///LOL` — i did it for lulz
+
 
 \___________\
- 🔚 🌘 2023-2025
-
+ 🔚 🌘 2023-2025 ..

@@ -1,4 +1,4 @@
-# Software &nbsp; &mdash; &nbsp; Errors
+# Software &nbsp;&mdash;&nbsp; Errors
 
 <p align="right">«<samp>There's no sound software.<br />There could be not enough QA.</samp>»</p>
 

@@ -1,6 +1,6 @@
-# Application model &nbsp;&mdash;&nbsp; Reminder
+# Application: Model &nbsp;&mdash;&nbsp; _Reminder_
 
-The _Model_, though a rather obscure term, is a cornerstone of software engineering, which shapes and formalizes entities and tasks of the application.
+The _Model_, though a rather obscure term, is a **cornerstone** of software engineering, which shapes and formalizes entities and tasks of the application.
 
 A model may range from the dumbest `new Brick { w = 20, d = 12, h = 6,5 }` up to a universe of media franchises, from private proof of concept to enterprise solution, and from bubble sort to 3D engine.
 
@@ -19,13 +19,13 @@ It can be:
 + plain (naked) or decorated with logic
 + with or without custom or foreign CRUD/CQRS<sup>:capital_abcd:</sup> routines
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:capital_abcd:</sup>&nbsp;<sub>acronyms of **C**reate/**R**ead/**U**pdate/**D**elete and **C**ommand **Q**uery **R**esponsibility **S**egregation</sub>
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🔠</sup> <samp>acronyms of **C**reate/**R**ead/**U**pdate/**D**elete and **C**ommand **Q**uery **R**esponsibility **S**egregation</samp>
 
 ### Model data and data storage
 
-The model is not data (there could be a model with no data at all, like a math processor).
+The model is not data (there could be a model with no data at all, such as a mathematical processor).
 
-:construction: TO BE WRITTEN :construction:
+🚧 TO BE WRITTEN 🚧
 
 ## Planning a model
 
@@ -41,6 +41,6 @@ The model shall be thread- and async-friendly, even if it's not required.
 :construction: TO BE CONTINUED w/ EXAMPLES :construction:
 
 **Further reading:**\
-|- [Tasks as models](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/think_in_tasks/README.md) ➡️(use-dev)
+|- ➡️[Tasks as models](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/think_in_tasks/README.md) (use-dev)
 
-🔚
+🔚 .. 2025 ..

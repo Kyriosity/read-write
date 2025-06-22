@@ -1,6 +1,6 @@
 # Software &nbsp;&mdash;&nbsp; External parts
 
-What are the cornerstones of a big new project - technologies, tools, requirements, planning, team, and budget? Neither. \
+What are the cornerstones of a big new project &thinsp;&mdash;&thinsp; technologies, tools, requirements, planning, team, and budget? Neither. \
 **The fundamentals already exist and are proven concepts/components to adopt.**
 
 > **This follows the universal paradigm: learn first from others.**
@@ -39,7 +39,7 @@ Many frameworks are good in themselves, but will burden your project with too mu
 
 Components for testing are so organic for applications that are associated/integrated with popular languages/platforms/IDEs (Java, Angular) and DevOps. Their state for .NET got a piece of discussion in [C# nice-to-have](../../../../../README+/.net/README+/parts/cs-lacks-parts.md#testing).
 
-## Free, commercial, open source, proprietary, initiative
+## Free, commercial, open source, proprietary, initiative?
 
 Some non-commercial projects launched by individuals or groups have grown to industry standards and been adopted in mainstream languages. Recall [Newton.json](https://www.newtonsoft.com/json)<sup>🔗</sup> that has filled the JSON blank in C# for years.
  
@@ -50,6 +50,6 @@ Freeware means pretty often open-source, and here, not all are ready to give out
 
 All-around pro solutions aren't free, but annual dev licenses below $1K will quickly pay off even for a humble undertaking. Let alone live support and membership in a durable, motivated community.&nbsp;<sup>:raising_hand:</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Remind the exciting accomplished but then abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks ... last updated 10 years ago.</sub>
+&nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Remind the exciting accomplished but then abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks ... last updated 10 years ago.</samp>
 
-:end:
+:end: .. 2025 ..

@@ -3,11 +3,11 @@
 <table><tr valign="top"><td><picture><img width="550px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.jpg" /></picture>
        </td><td>
 
-The essence of architecture appeared when folks began raising constructions &thinsp;&mdash;&thinsp; more extravagant and durable than a hut of piled branches, say, megaliths.
+The essence of architecture appeared with constructions more extravagant and durable than a hut of piled branches &thinsp;&mdash;&thinsp; say, megaliths.
 
-Some ancient Hellenes were so prominent at building sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &thinsp;&mdash;&thinsp; the term romanized to <i>architecture</i> centuries later.
+Certain ancient Hellenes were so prominent at building sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &thinsp;&mdash;&thinsp; the term romanized to <i>architecture</i> centuries later.
 
-Then ages passed till the art of immobile acknowledged and methodized architects as a detached trade &thinsp;&mdash;&thinsp; 
+Next, ages passed till the art of immobile acknowledged and methodized architects as a detached trade &thinsp;&mdash;&thinsp; 
 refined craftsmen, exempt from chores and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.
 
 Much later, diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complexity.
@@ -187,7 +187,7 @@ from computer science`"((
 
 <details><summary><ins>&nbsp;.. <b>or for personal aptitudes:</b>&nbsp;</ins> ➡️</summary>
 
-+ **memorizing** "big pictures" in enough detail (not general diagrams),
++ **memorizing** "big pictures" in enough detail (finer than general diagrams),
 + ability to **unify** and simplify logic (where it's not evident for others),
 + staying **over** (but not ignoring) known patterns, practices, and common inclinations,
 + strength to **admit** poor decisions and dead-ends on time with energy to find better and redo the work,
@@ -213,7 +213,7 @@ Neither _**expert**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>ro
 > **There was no intention to defame** _software architects_ **but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.**<sup>👩‍👦‍👦</sup>
 
 \___________\
-Finally, salt all this: major projects don't develop _Pantheons_ but turn the flagstones of _Stonehenge_: cast requirements to known and tried solutions with a decent input of cutting-edge and invention.
+Finally, salt all this: major projects don't develop _Pantheons_ but turn the flagstones of _Stonehenge_: cast requirements to known and tried solutions with a decent input of cutting-edge, invention, and artistism.
 
 <div dir=rtl><samp>"<b>.Smith will suffice</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
 
