@@ -2,7 +2,7 @@
 
 <p dir="rtl"><b>,TDD is easy<br />.I started it over 100 times</b><br /><i>(.Mark Twain</i> would say)</p>
 
-The hypothesis to write tests not only _a posteriori_ to validate available and running code but also prior &mdash; to guide development &mdash; can be rooted back to the 1950s.<sup>👴</sup>
+The hypothesis to write tests not only _a posteriori_ to validate available and running code but also prior &mdash; to guide development &mdash; can be rooted back to the **1950s**.<sup>👴</sup>
 
 &nbsp; &nbsp; <sup>👴</sup> <samp>One of the best retrospectives is in [You won't believe how old TDD is](https://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/)<sup>🔗</sup>.</samp>
 
