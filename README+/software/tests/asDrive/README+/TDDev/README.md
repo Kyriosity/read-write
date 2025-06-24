@@ -1,8 +1,8 @@
-# <mark>🧪</mark>Test <mark>⚙️</mark>Driven <mark>δ</mark>D<samp>EVELOPMENT</samp> &mdash; Reminder
+# <mark>🧪</mark>Test <mark>⚙️</mark>Driven <mark>δ</mark>D<samp>EVELOPMENT</samp> &nbsp;&mdash;&nbsp; Reminder
 
        🚧🚧🚧 DRAFT in PROGRESS 🚧🚧🚧
 
-The purpose of TDD is not test automation but means to:
+The purpose of TDD is not test automation, but means to:
 
 Optionally and cautionary:
 + start a **test framework** of the project (TDD will then outline test coverage with start stuff written in a good black-box manner).
@@ -20,7 +20,7 @@ Project "**masters**" shall
 
 + begin any addition, change, and **removal** change with tests,
 
-The purpose of TDD is in no way test automation but means to:
+The purpose of TDD is in no way test automation, but rather means to:
 
 Optionally and cautionary:
 + start a **test framework** of the project (TDD will then outline test coverage with start stuff written in a good black-box manner).
