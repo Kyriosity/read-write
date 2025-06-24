@@ -18,7 +18,7 @@ Let's be free of dogmas and  isolated combinations. The easiest path is to conju
 The arduous task is to draw arrows in the picture,  play with their direction, and prioritize (this also means erasing some). Then continue designing names, categories, and programmatic structures.
 
 \_______\
-&nbsp; &nbsp; &nbsp;<sup>🙋</sup> <sub>This read isn't a doctrine yet. You are free to dump it now (unless you want to spare hours of rambling in courses and books.</sub>
+&nbsp; &nbsp; &nbsp;<sup>🙋</sup> <samp>This read isn't a doctrine yet. You are free to dump it now (unless you want to spare hours of rambling in courses and books.</samp>
 
 ## Our gearbox has &nbsp; .&thinsp;.&thinsp;.&nbsp; <samp>R&thinsp;E&thinsp;V&thinsp;E&thinsp;R&thinsp;S&thinsp;E</samp>
 
