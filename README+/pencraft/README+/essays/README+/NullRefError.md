@@ -3,10 +3,10 @@
 <table><tr valign="top">
 <td>
 
-**∅`NULL`⚡REFERENCE earned a gruesome reputation as an _exceptional_ plague.** 
+**∅`NULL`⚡REFERENCE has earned a gruesome reputation of being an _exceptional_ plague.** 
 
 Its outbreaks appear literally from `nothing` and are too common to call them just `exceptions` &thinsp;&mdash;&thinsp; 
-they strike in safe and unmanaged code, in the bolted-to-the-floor mainframes and in clouds, and spare neither junior nor seasoned developers.
+they strike in safe and unmanaged code, in the bolted-to-the-floor mainframes and data clouds, and spare neither junior nor seasoned developers.
 
 _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame of being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
