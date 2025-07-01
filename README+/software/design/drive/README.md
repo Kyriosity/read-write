@@ -1,6 +1,7 @@
-<h1 align="center"><samp>SOFTWARE CREATION</samp> &nbsp;&mdash;&nbsp; Drives</h1>
+<h1 align="center"><samp>SOFTWARE CREATION</samp> &nbsp;&mdash;&nbsp; D&thinsp;r&thinsp;i&thinsp;v&thinsp;e&thinsp;s</h1>
 
-What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names for approaches. Even _functional programming_ is a driven approach.
+> **What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names. 
+Even _functional programming_ is a driven approach.**
 
 <details align="center"><summary><ins>&nbsp;<b>Fancying more items on both sides of <samp>DRIVEN</samp> will scheme a grotesque gearbox&thinsp;:</b>&thinsp;</ins>&nbsp;⬇️</summary>
 <br />
@@ -9,7 +10,7 @@ What guides programming minds (and how) is a separate IT discipline. _Test-Drive
 
 <p align="center">⬆️&thinsp;<mark><b>Let's figure out what to do with this mess...</b>&thinsp;⬇️</mark></p>
 
-# Drive and let drive
+# Drive, let drive, and let be driven
 
 Let's reserve individual surveys of <ins><b>&thinsp;<samp>ONE-WAY</samp> 1&thinsp;:&thinsp;1&thinsp;</b></ins> to voluminous books and techno-evangelists. They do a great job of formalization (including methodologies) and popularizing exclusive approaches, which may prevail in particular initiatives.
 
@@ -18,7 +19,7 @@ Let's be free of dogmas and  isolated combinations. The easiest path is to conju
 The arduous task is to draw arrows in the picture,  play with their direction, and prioritize (this also means erasing some). Then continue designing names, categories, and programmatic structures.
 
 \_______\
-&nbsp; &nbsp; &nbsp;<sup>🙋</sup> <sub>This read isn't a doctrine yet. You are free to dump it now (unless you want to spare hours of rambling in courses and books.</sub>
+&nbsp; &nbsp; &nbsp;<sup>🙋</sup> <samp>This read isn't a doctrine yet. You are free to dump it now (unless you want to spare hours of rambling in courses and books.</samp>
 
 ## Our gearbox has &nbsp; .&thinsp;.&thinsp;.&nbsp; <samp>R&thinsp;E&thinsp;V&thinsp;E&thinsp;R&thinsp;S&thinsp;E</samp>
 

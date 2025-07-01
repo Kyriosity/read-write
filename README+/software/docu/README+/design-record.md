@@ -1,12 +1,14 @@
-# Software&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Design&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Documentation
+# Software &nbsp;&mdash;&nbsp; Design &nbsp;&mdash;&nbsp; Documentation
 
 [Quality code](../../QA/README+/code-quality.md) with profound and thoroughly categorized [names](../../design/names) must explain design brainchilds in intuitive manner. 
 Liably written [design-defining-tests](../../design/drive/) must smoothly introduce them. And nothing is more suitable for reverse engineering (manual or automatic) than source code. 
 
-This combination alone will gradually become tougher and steeper (until it hits the wall of the perfectionism exponent) and won't reveal remarkable design/architecture intentions. 
-It's warped to unfold the big canvas of abstractions.
+<h2 align="center">.&nbsp;.&nbsp;.</h2>
 
-In reality, the code will be partly or greatly obscure and tests will lack clarity and both &mdash; seamless categorization. 
+**The above-mentioned measures alone will gradually become tougher and steeper (until it hits the wall of the perfectionism exponent) and won't reveal remarkable design/architecture intentions. 
+It's warped to unfold the big canvas of abstractions.**
+
+In reality, the code will be partly or greatly obscure and tests will lack clarity and both &thinsp;&mdash;&thinsp; seamless categorization. 
 Code prose and time will bury grand (no sarcasm intended) design decisions <mark>unless highlighted with a pen</mark>.
 
 Explorers may also overestimate weak decisions and search for deep meaning in shallow parts.
@@ -64,7 +66,7 @@ They may start on a whiteboard<sup>🔲</sup> during a casual discussion and, as
 
 \_________
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔲</sup> <sub>Can anything be better than a whiteboard? The glass board! It allows one not only to look at the design from an unusual side but also attach various backgrounds (e.g., previous printout). _Trace paper_ is a compact individual variant.</sub>
+&nbsp; &nbsp; <sup>🔲</sup> <sub>Can anything be better than a whiteboard? The glass board! It allows one not only to look at the design from an unusual side but also attach various backgrounds (e.g., previous printout). _Trace paper_ is a compact individual variant.</sub>
 
 <h2 align="center">Past sketches</h2>
 
@@ -106,8 +108,8 @@ Applying aesthetic traits to attribute images or enliven the text highly motivat
 
 "A picture is worth a thousand words", and the shortest video is made up of thousands of them. That's the absolute winner in the snap of design. 
 
-When a release is ripe, it will take half an hour per module (app) to switch the screen snap on, explore the code, and commentate impromptu.<sup>📹</sup> Then an hour or some to review and record a much better version.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>📹</sup> <sub>Tools for screen capture are available as freeware.</sub>
+When a release is ripe, it will take half an hour per module (app) to switch the screen snap on, explore the code, and comment impromptu.<sup>📹</sup> Then an hour or so to review and record a much better version.\
+&nbsp; &nbsp; <sup>📹</sup> <sub>Tools for screen capture are available as freeware.</sub>
 
 Yes, it's a kind of documentation (or source for) but it is rather peculiar.
 
@@ -115,7 +117,7 @@ Yes, it's a kind of documentation (or source for) but it is rather peculiar.
 
 Arbitrarily, the most effective and fastest way to introduce a project is to make new programmers code a feature under the guidance of an experienced developer (with a domain expert).
 
-It's not a _pair programming_ and must be in no way the opposite of "watch&thinsp;&&thinsp;learn".
+It's not _pair programming_ and must be in no way the opposite of "watch&thinsp;&&thinsp;learn".
 
 Disadvantage: it's a one-time exercise that takes hours from most competent team members.
 

@@ -81,7 +81,7 @@ Quality code <ins>introduces</ins> good design rather than prompts deciphering a
 
 With all that said, **why does flawed code prevail and _clean code_ migrate to buzzwords?**
 
-**1.** Poor-quality code is written much faster, cheaper, and without heated debates.<sup>🥴</sup> And as it does the job, counter-arguments fade.
+**1.** Poor-quality code is written much faster, cheaper, and without heated debates.<sup>🥴</sup> And as it does the job, especially on short sprints, counter-arguments fade.
 
 **2.** Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup> and exponentially growing issues from bad software parts.\
 The point when controllable chaos goes out of control or a security breach manifests itself may be crucial, but will be found far in the next releases.<sup>:parachute:</sup>
@@ -109,7 +109,7 @@ Besides _classical_ over-creativity and procrastination, the reasons could be:
 + canceled/postponed iterations/refactoring/cleaning,
 + hesitation in using and contributing to shared code (from team/enterprise foundations up to open source)
 
-Some prominent individuals develop great apps alone and are so good at keeping all details and the whole picture in mind that they don't need to and like to lose time with code organization. 
+Also, prominent individuals may develop great parts/apps alone and are so good at keeping all details and the whole picture in mind that they don't need to and like to lose time with code organization. 
 
 However, these cases are exceptional and not about enterprise development.
 

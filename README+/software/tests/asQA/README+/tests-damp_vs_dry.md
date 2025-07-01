@@ -141,15 +141,6 @@ Was it all about unit tests? Yes, but it can work for others in the pyramid. Rem
 
 Does DRY apply to Test Driven Design? Yes, but very constrained by DAMP as its main motive.
 
-## Shorter syntax
-
-The accent of most frameworks and add-ins to them (as [fluent assertions](https://fluentassertions.com)<sup>🔗</sup>) is on the long articulated wording. 
-With all readability, the handicap is that the _test subjects_ are hidden in extra clauses and parentheses.
-
-The alternative can be ugly but terser, like these ["coagulated" expressions](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/FeatTest/README.md#assert-by-assign).
-
-<h3 align="center"><ins>&thinsp;Bottom line&thinsp;</ins></h3>
-
 <table align="center"><tr></tr><tr><td>👆</td><td>
     
 When covering existing code, you shall find out the repetitions to group.
@@ -157,6 +148,13 @@ When covering existing code, you shall find out the repetitions to group.
 The opposite is for **Test Driven Development** &nbsp;&mdash;&nbsp; think in test unions prior.
 
 </td></tr></table>
+
+## Alternative: Short but&thinsp;<mark>/</mark>&thinsp;and descriptive
+
+The accent of most frameworks and add-ins to them (as [fluent assertions](https://fluentassertions.com)<sup>🔗</sup>) is on the long articulated wording. 
+With all readability, the handicap is that the _test subjects_ are hidden in extra clauses and parentheses.
+
+The alternative can be a condensed, terser syntax, like these ["coagulated" expressions](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/FeatTest/README.md#assert-by-assign).
 
 \___________\
 🔚 🌙 2024-2025

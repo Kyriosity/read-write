@@ -61,7 +61,8 @@ I couldn't find a better tag but a mocking acronym<sup>🎨</sup> to distinguish
 &nbsp; &nbsp;<sup>🙋</sup> <samp>This said not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or gaming engines) but challenges beyond the ordinary: 
 new LOB foundation, unfamiliar domains (such as CAD or interpreters), or remakes (original graph base, making async from legacy, and dividing modules).</samp>\
 &nbsp; &nbsp;<sup>🎨</sup> <samp>Homonym to __Arc&nbsp;Deco__ - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco)</samp><sup><b>w</b></sup><samp> (`är-dā-ˈkō`) 
-with its comeback, _ca._ a century after its introduction at the _International Exhibition of Modern Decorative and Industrial Arts_ in Paris.</samp>
+with its comeback, _ca._ a century after its introduction at the _International Exhibition of Modern Decorative and Industrial Arts_ in Paris.</samp>\
+&nbsp; &nbsp;<sup>🧑🏿‍🔬</sup> <samp>There's a math/logic matter backing this scheme but it's not a subject of discussion here.</samp>
 
 ## What's next
 

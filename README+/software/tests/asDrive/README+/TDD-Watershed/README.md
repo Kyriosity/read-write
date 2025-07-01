@@ -6,13 +6,13 @@
 </td><td><p>... I was bicycling to hear a casual <b>TD<mark>D</mark></b> lecture as doubts crept in &mdash; where am I going:</p>
    <p align="center">Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
 <p>It wasn't about the destination of this ride but the principal divergence. 
-For the record, the title of the lecture resonated with my anxiety: «<i>Failed with TDD? Here, you know why.</i>»</p>
+(For the record, the title of the lecture resonated with my anxiety: «<i>Failed with TDD? Here, you know why.</i>»)</p>
 <p align="center">Mystery solved: it was <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>,</p>
    <p align="center"><b>b&thinsp;u&thinsp;t&thinsp; .&thinsp;.&thinsp;.</b/></p>
 </td><td><picture><img alt="&nbsp;LONG READ" src="../../../../../_rsc/_img/signs/LongRead/plates/plsStayOn.jpg" /></picture></td></tr></table>
 
 The de-abbreviation raised another doubt: Where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...<sup>🙋</sup>\
-&nbsp; &nbsp;<sup>🙋</sup> <sub>Despite the energetic recherche, I couldn't go through the best part of treatises. There must be better findings, and there could be better alternative conclusions.</sub>
+&nbsp; &nbsp;<sup>🙋</sup> <sub>Despite the energetic recherche, I couldn't go through the best part of the treatises. There must be better findings, and there could be better alternative conclusions.</sub>
 
 Presentations and lectures favored _development_ with _design_ as a natural<sup>🌵</sup> spin-off, not much bothered about distinction, and some exploited both terms interchangeably. 
 Books and tutorials showed up inclined to techniques, patterns, and testing frameworks.\
@@ -209,7 +209,7 @@ Responsible and attentive following the principles will unite and motivate the t
 
 ### Motivation to TDD
 
-It must be much higher than reading the theory why TDD is good.
+It must be much higher than reading the theory on why TDD is good.
 
 \___________
  <div align="center">🔚 &nbsp;🌒 2024-2025  ... images: kyriosity ...</div>
