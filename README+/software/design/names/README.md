@@ -40,13 +40,13 @@ The prevalent naming is a derivative of the development, which
 ❌ spreads umbrella terms and horizontally swelling folders,\
 ❌ spawns long names and shallow categories (`AddTableReservationInRestaurant(..)`),\
 ❌ interferes with existing domain and programming naming,\
-❌ contains jargon and slang.
+❌ contains jargon and slang, or terms, dubious in other tongues or cultures. 
 
 ### as crucial
 
 The naming of libraries, packages (assemblies), folders, classes, methods/functions, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. 
 
-The inevitable and heavy expenses will pay off with the formation of ***lingua franca*** throughout the team and project, and ...
+The inevitable and heavy expenses will pay off with the formation of ***lingua franca*** throughout the team and project, along with&nbsp;...
   
 + shared comprehension of a **domain**, which binds teams,
 + genuine **design** and self-descriptive code,
