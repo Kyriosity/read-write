@@ -66,7 +66,7 @@ They may start on a whiteboard<sup>🔲</sup> during a casual discussion and, as
 
 \_________
 
-&nbsp; &nbsp; <sup>🔲</sup> <sub>Can anything be better than a whiteboard? The glass board! It allows one not only to look at the design from an unusual side but also attach various backgrounds (e.g., previous printout). _Trace paper_ is a compact individual variant.</sub>
+&nbsp; &nbsp; <sup>🔲</sup> <samp>Can anything be better than a whiteboard? The glass board! It allows one not only to look at the design from an unusual side but also attach various backgrounds (e.g., previous printout). _Trace paper_ is a compact individual variant.</samp>
 
 <h2 align="center">Past sketches</h2>
 
@@ -88,7 +88,7 @@ The latter aren't routines but intellectual, lasting, and accurate tasks of desi
 2. Instead of being a side-effect of development docu shall be an acknowledged task, requiring resources and enthusiasm.
 3. Docu shall evolve along with software for accuracy and mutual contribution.
 
-&nbsp; &nbsp; <sup>🔖</sup> <samp>You are self the consumer&nbsp;**#1** of this product - it's only a week to lose a grasp on the "unfocused" design part.</samp>
+&nbsp; &nbsp; &nbsp; <sup>🔖</sup> <samp>You are self the consumer&nbsp;**#1** of this product - it's only a week to lose a grasp on the "unfocused" design part.</samp>
 
 ## Wrap up. Sync with code!
 
@@ -96,7 +96,7 @@ The latter aren't routines but intellectual, lasting, and accurate tasks of desi
 
 **No excuse for the docu missing references to the implementation**, _viz._ code. Not every feature or class, but entry points.
 
-As an example in progress, see ➡️[use-dev](https://github.com/Kyriosity/use-dev/).
+My tribute in progress is ➡️[use-dev](https://github.com/Kyriosity/use-dev/).
 
 ## Appendix 1/2. Artistic images (sounds, videos)
 
@@ -109,9 +109,9 @@ Applying aesthetic traits to attribute images or enliven the text highly motivat
 "A picture is worth a thousand words", and the shortest video is made up of thousands of them. That's the absolute winner in the snap of design. 
 
 When a release is ripe, it will take half an hour per module (app) to switch the screen snap on, explore the code, and comment impromptu.<sup>📹</sup> Then an hour or so to review and record a much better version.\
-&nbsp; &nbsp; <sup>📹</sup> <sub>Tools for screen capture are available as freeware.</sub>
+&nbsp; &nbsp; <sup>📹</sup> <samp>Tools for screen capture are available as freeware.</samp>
 
-Yes, it's a kind of documentation (or source for) but it is rather peculiar.
+It's a kind of documentation, but rather peculiar.
 
 ### Coding under guidance
 
