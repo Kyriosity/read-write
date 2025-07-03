@@ -14,8 +14,8 @@ with opposing values of formalism, creativity, envisaging, and styles.
 The principled distinction is __*driven*__ vs __*drives*__:
 
 * <mark>Documentation</mark> is **on-demand**/request derivative of a product or service, must follow templates, and shall be (auto-)generated and reused as much as possible.<sup>📖</sup>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📖</sup> <sub>A strict _User manual_ of hazardous tools is an exemplary story.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Microsoft [documentation](https://learn.microsoft.com/) follows this line but, honestly, this doesn't help to "🪟<b>Learn</b>".</docu>
+&nbsp; &nbsp; &nbsp; &nbsp;<sup>📖</sup> <sub>A strict _User manual_ of hazardous tools is an exemplary story.</sub>\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub>Microsoft [documentation](https://learn.microsoft.com/) follows this line but, honestly, this doesn't help to "🪟<b>Learn</b>".</docu>
 
 * <mark>Authoring</mark> is **initiative**, must take a bird's view of the subject, inspire and explain sophisticated and regulated ideas in an abstractive, friendly, and sometimes informal/playful manner.
 
@@ -49,18 +49,17 @@ Namely, formalization and structuring compel us to reexamine and refine concepts
 
 <table><tr valign="top">
 <td><picture><img alt="&nbsp; Grammarly awards" src="../_rsc/_img/illus/docu/GrammarlyAwards.jpg" /></picture></td>
-<td><p align="right"> <span title="&nbsp;&nbsp;&nbsp;... My God! If only we could write this beautiful language of France at all times!&#010;&#013; Letter to John Foster (7 July 1850)">
+<td><p align="right"> <span title="&nbsp; &nbsp;... My God! If only we could write this beautiful language of France at all times!&#010;&#013; Letter to John Foster (7 July 1850)">
   «The difficulty of writing <b>English</b><br />is most tiresome to me.»<br />
 <i>Charles Dickens</i>, 1850</span> [and me, XXI]</p>
 
 **The writings and collections here are** ...
 
-* The subject of private taste, inclination, vision, and fallacies.\
-`//` _It's up to you to look them over or recoil in distaste._
-* The subject of continuous delivery (i.e., endless edit and modification).\
-`//` _Nevertheless, it's not all blur, and most articles are completed._
-* Some opuses may be in the badly readable state of 🚧<samp>draft</samp>🐝\
-`//` _Skip them while I do my best to finish._
+* The subject of **private** taste, inclination, vision, and fallacies. It's up to you to look them over or recoil in distaste.
+* The subject of **continuous** delivery (i.e., endless edit and modification).\
+`// _Nevertheless, it's not all blur, and most articles are completed._`
+* Some opuses may be in the badly readable state of 🚧<samp><b>draft</b></samp>🐝\
+`// _Skip them while I do my best to finish_.`
 
 </td>
 </tr></table>
