@@ -41,6 +41,8 @@ Let's begin with contours, **intentionally** left without annotations to defy yo
 </td></tr></table>
 </details>
 
+🚧PENDING: PICTURE WITH TECHNOLOGIES RODS: SEAMLESS vs. BARRIERS and HOLES
+
 ## Image background
 
 <p title="&nbsp; Just imagine them behind the objects.">To avoid image overloading, the background wasn't laid - <ins>the sheets of resulting code with data and documentation</ins>.</p>
