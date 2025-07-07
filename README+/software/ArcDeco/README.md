@@ -40,7 +40,7 @@ Many projects' modest size and lifetime, banality, and isolated work on them wil
 <br /><picture><img  align="center" alt="&nbsp; &nbsp;ArcDeco view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" /></picture><br />
 ⬆️...  <ins>&thinsp; theorization around which will be fetched out of thin air.</ins> ➡️ Thanks for your attention ...
 
-<h2 align="center">... but ...</h3>
+<h2 align="center">... <s>bye</s> but ...</h3>
 
 #### Axes of e<mark>X</mark>pansion and complexit<mark>Y</mark> may tear this patchwork:<sup>🙋</sup>
 
@@ -70,4 +70,5 @@ Even great masters didn't paint _magnum opus_ from the first cast but began with
 Let's roll up our sleeves, take a brush, and with shy strokes put a layer after layer on the canvas of ...\
 <pictire><img alt="&nbsp;Arc DECo" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png" /></picture> &nbsp;➡️ [**RATIONALE**](README+/01.Rationale/README.md) &rarr; **Big&nbsp;Picture** &rarr; **Stripes** &rarr; **Forces** &rarr; **Roles** &rarr; **Factors** &rarr; **Wrap&nbsp;up**
 
+___________\
 🔚 ... <sub>Collage credit: _Alessandro di Mariano di Vanni Filipepi_, _Raffaello Sanzio da Urbino_, _Edvard Munch_, and _Salvador Domingo Felipe Jacinto Dalí i Domènech_</sub>
