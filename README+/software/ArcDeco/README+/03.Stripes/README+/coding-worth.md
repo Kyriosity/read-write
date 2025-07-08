@@ -1,13 +1,16 @@
-# Worth of _coding_ (and excess of _coder_)
+# Worth of _coding_ (but excess of _coder_)
 
-Coding has an image of a menial job, while coders are thought of as typists &thinsp;&nbsp;&thinsp; a position below Junior Developer.
+Coding has an image of a menial job, while coders are thought of as typists &thinsp;&mdash;&thinsp; a position below Junior Developer.
 
-I'd like to
+I want to debunk stereotypes:
 
 * **Coding** is a vital and non-replaceable part of making software
-* There's no demand and place for a separate trade.
+* But there's no demand and place for a separate trade (but a significante role).
 
 Everything done on the keyboard to code is coding. The pure coding is inefficient -< Roles
+
+|- collecting all the bumps of new parts and technologies \
+|- bug fixing;
 
 🚧🚧🚧 PLACEHOLDER 🚧🚧🚧
 
