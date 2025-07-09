@@ -5,29 +5,29 @@
 <table><tr valign="top"><td width="25%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
   
-### Denomination of titles <ins>and</ins> classification is a pivotal but underrated activity <ins>in any exploration</ins>.
+### Denomination of titles _and_ classification is a pivotal but underrated activity <ins>in any exploration</ins>.
   
-#### In software, names with categories, which smoothly guide users through the design and make coding more intuitive, are often taken for granted.
+#### In software, names with categories, which smoothly guide developers through the design and make coding intuitive, are often taken for granted.
 
   <p align="center"><b>O&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</b></p>
 
-#### one wading through the thorns of poorly denominated and labyrinthine (or flat) code, abatis of docu will curse application complexity, learning curve, technologies selected, and fate, but at least the naming.
+#### one wading through the thorns of poorly denominated and labyrinthine (or flat) code, abatis of docu will curse application complexity, learning curve, selected technologies, and fate, but at least the naming.
 </td></tr></table>
 
 ## Categorization
 
-_Categorization_ (aka _classification_) plays a more profound role than breaking collocations and sentences and building the folder hierarchy. &thinsp;&mdash;&thinsp; **It&nbsp;frames abstractions.**
+_Categorization_ (aka _classification_) is more profound than breaking collocations and sentences and building the folder hierarchy. &thinsp;&mdash;&thinsp; **It&nbsp;frames abstractions.**
 
 If folks could categorize myriads of wretched boulders in the _Oort cloud_ and paltry insects, it must not be a big deal for unique by-nature software entities.
 
 The challenge is the accurate layout. Our imagination tries to align doubtful and even bizarre names to the right meaning and aliases, but takes on trust their categories.
 
 \___________\
-As a negative sample, GitHub is full of shallow folders and huge lists, even for corporate projects. Namespaces of frameworks and languages often look like a verbal dump.
+As a negative experiebce, GitHub is full of shallow folders and huge lists, even for corporate projects. Namespaces of frameworks and languages may look like a verbal dump.
 
 ### Tags
 
-The only limitation of categorization is the strict tree hierarchy. Tags may rationally dissolve, though projects don't provide support for it.
+The only limitation of categorization is the strict tree hierarchy. Tags may rationally dissolve it, though frameworks IDEs provide little support for it.
 
 ## How to name...
 
