@@ -1,9 +1,9 @@
 <h1 align="center"><code>Null</code>, its Reference, and their Mistake<br />🔎&empty;</h1>
 
+### ∅`NULL`⚡REFERENCE has earned a gruesome reputation of being an _exceptional_ plague:
+
 <table><tr valign="top">
 <td>
-
-**∅`NULL`⚡REFERENCE has earned a gruesome reputation of being an _exceptional_ plague.** 
 
 Its outbreaks appear literally from `nothing` and are too common to call them just `exceptions` &thinsp;&mdash;&thinsp; 
 they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _vs._ data clouds, and spare neither junior nor seasoned developers.
@@ -12,7 +12,7 @@ _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/RE
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
 
 But nobody else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.\
-\___________\
+___________\
 <samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`, `dereferencing`, or none (just "null").
 
 </td>
@@ -64,7 +64,7 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 <h2 align="center">The Mistake&thinsp;?</h2>
 
-<p align="right">Accusing <code>null</code> for errors is like <br />charging <mark>&thinsp;<b>0</b>&thinsp;</mark> for one can divide by it.</b></p>
+<p align="right">Accusing <code><b>null</b></code> for errors is like <br />charging <mark>&thinsp;<b><i>0</i></b>&thinsp;</mark> for one can divide by it.</b></p>
 
 ### `Null` is not a bug but a feature
 
@@ -144,7 +144,7 @@ Be the first to throw.
 
 ```if (fridge.IsNullOrEmpty) order(ice);``` // there could be no fridge and the ice will melt
 
-Inspired by C# `string.IsNullOrWhitespace(..)` - a classical example.
+Inspired by [`string.IsNullOrWhitespace(..)`](https://learn.microsoft.com/en-us/dotnet/api/system.string.isnullorwhitespace) &thinsp;&mdash;&thinsp; a classical `null` "drilling".
 
 ### Reduce direct declarations
 
@@ -173,10 +173,14 @@ After sacrificing a couple of hours, he addressed this pesky _null_ to the dark 
 
 ### Appendices
 
-|- ➡️**use-dev**\
-|-&thinsp;- [Calls on null](https://github.com/Kyriosity/use-dev/blob/main/README+/frames/README+/calls_on_null.md) `// are possible and ... legit`\
-|-&thinsp;-&thinsp; primitive [Guards](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcStoppers/Guards) `// the shortest ways to discover nulls ASAP`\
-|-&thinsp;- [Code wizard](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/WizConstr) `// building backbone that won't forget to initialize`
+|&thinsp;- ➡️**use-dev**\
+|&thinsp;-&thinsp;- [Calls on null](https://github.com/Kyriosity/use-dev/blob/main/README+/frames/README+/calls_on_null.md) `// are possible and ... legit`\
+|&thinsp;-&thinsp;-&thinsp; primitive [Guards](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcStoppers/Guards) `// the shortest ways to discover nulls ASAP`\
+|&thinsp;-&thinsp;- [Code wizard](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/WizConstr) `// building backbone that won't forget to initialize`
 
-\___________\
+### See also
+
+|&thinsp;- [Zero index take](tech/take_zero-index.md)
+
+___________\
 🔚 &empty; 2025 ..  image credits: Wiki Commons, kyriosity
