@@ -6,12 +6,12 @@
 **∅`NULL`⚡REFERENCE has earned a gruesome reputation of being an _exceptional_ plague.** 
 
 Its outbreaks appear literally from `nothing` and are too common to call them just `exceptions` &thinsp;&mdash;&thinsp; 
-they strike in safe and unmanaged code, in the bolted-to-the-floor mainframes and data clouds, and spare neither junior nor seasoned developers.
+they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _vs._ data clouds, and spare neither junior nor seasoned developers.
 
 _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame of being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
 
-And no one else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.\
+But nobody else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.\
 \___________\
 <samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`, `dereferencing`, or none (just "null").
 
@@ -26,10 +26,10 @@ And no one else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  co
 
 ### The fallacy of equivocation 
 
-<sup>🎥</sup>&nbsp; If you can't couple the 1950s subscripts **and** today's exceptions &nbsp;&mdash;&nbsp; you are **not** alone (and probably in a good company).
+<sup>🎥</sup>&nbsp; If you __can't__ couple the 1950s subscripts **and** today's exceptions &nbsp;&mdash;&nbsp; you are **not** alone (and probably in a good company).
 
 `Null` is a logical consensus to designate not initialized values. There's no specific `boolean` or machine value for it. 
-The error occurs chiefly when we, developers, forget to initialize &thinsp;&mdash;&thinsp; that's what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
+The error occurs chiefly when we, developers, overlook initializations &thinsp;&mdash;&thinsp; that's what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
 
 > * **You forgot to instantiate a reference type.**
 > * **You forgot to dimension an array before initializing it.**
@@ -73,7 +73,7 @@ When neglected, it sincerely warns about a breach.
 
 Besides plain cases, `NullReference` may be the visible summit of the iceberg made of logical faults. 
 
-It's a rather strange idea that there could be a programming language without `null`. Meanwhile, mainstream languages allow nullable numeric types to avoid the unwanted default to zero.
+Contrary to pretty STRANGE IDEAS for null-free programming languages, mainstream programming allows nullable numeric types to avoid the unwanted default to zero.
 
 ### Blaming the messenger
 
@@ -180,4 +180,3 @@ After sacrificing a couple of hours, he addressed this pesky _null_ to the dark 
 
 \___________\
 🔚 &empty; 2025 ..  image credits: Wiki Commons, kyriosity
-
