@@ -38,7 +38,7 @@ The error occurs chiefly when we, developers, overlook initializations &thinsp;&
 
 There's no null or broken reference, which sends our objects and values to nowhere. That's our fault.
 
-<h2 align="center">Much Ado About <code>Nothing</code>&thinsp;?</h2>
+<h2 align="center">Much Ado About <code>Nothing</code>❓</h2>
 
 <table><tr></tr><tr align="center"><td width="40%"><b>Y&thinsp;E&thinsp;S</b></td><td width="20%" >and</td><td width="40%" ><b>N&thinsp;O</b></td>
 </tr><tr valign="center"><td>
@@ -73,7 +73,7 @@ When neglected, it sincerely warns about a breach.
 
 Besides plain cases, `NullReference` may be the visible summit of the iceberg made of logical faults. 
 
-Contrary to pretty STRANGE IDEAS for null-free programming languages, mainstream programming allows nullable numeric types to avoid the unwanted default to zero.
+Contrary to pretty odd ideas of null-free programming languages, mainstream programming came to nullable numeric types to avoid the unwanted default to zero.
 
 ### Blaming the messenger
 
@@ -95,7 +95,7 @@ It's tempting to relate the perplexed cases of `NullReference` to the peculiarit
 
 ## Foam &rarr; Apply theory</samp>
 
-**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment, leaving us alone with this problem.
+**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment, leaving us alone with the problem.
 
 Null isn't a specific value (it may be memory 0), but a predefined constant. Quite convenient, though some programmes look at it as <span title="&nbsp; &nbsp; &nbsp;Arab mathematicians brought&#013; 0️⃣&nbsp;to Europe from India only&#010; in the Middle Ages."><ins>Phygaros</ins></span> at zero.
 
@@ -144,7 +144,7 @@ Be the first to throw.
 
 ```if (fridge.IsNullOrEmpty) order(ice);``` // there could be no fridge and the ice will melt
 
-Inspired by C# `string.IsNullOrWhitespace(..)`.
+Inspired by C# `string.IsNullOrWhitespace(..)` - a classical example.
 
 ### Reduce direct declarations
 
