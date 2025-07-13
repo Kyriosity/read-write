@@ -34,7 +34,7 @@ _Sacrifices_ mean not team members or customers, but refactoring (to give up a p
 Starting programming resembles games of neophytes: <i>blitz</i> (wins follow fails), fun, and visibly improving.
 
 ♖♜ Understanding and learning principles and check patterns will prevent blunders, but not positional traps of better opponents.\
-In like manner, a keen junior will soon write good pieces of code but shaky solutions.
+In a like manner, a keen junior will soon write good pieces of code but shaky solutions.
 
 ♗♝ Chess openings rest on studied, memorized decisions and strong theory. In software, it implies IT literacy, computer science, selection of platforms, frameworks, 
 and external parts, when experimentation and creativity are abnormal.
@@ -48,8 +48,8 @@ The number of games or written applications won't break the ceiling.<sup>👑</s
 In chess, theoretical roadmaps and schools lead to higher ratings, ruthlessly administering one's place. <b>Here, the metaphor breaks down.</b> 
 Software ways to craftsmanship are inscrutable and assessed by eye.
 
-<div dir="rtl"><sub>&mdash; Popular chess servers can brag about legends&nbsp; &mdash; not bots, but pausing for sleep only</sub><sup>👑</sup><br />
-.<sub>with an astronomical number of games but slightly growing amateur ELO ratings</sub></div>
+___________\
+<sup>👑</sup> <samp>Popular chess servers can brag about living legends (not bots) pausing for sleep only to continue incrementing an astronomical number of games. <br />Nevertheless their ELO ratings grow slightly above other amateurs.</samp>
 
 </td></tr></table></details>
 
@@ -88,7 +88,7 @@ And these are your peers with different backgrounds who created them. «Not gods
   
 </td></tr></table>
 
-## Goal &thinsp;&mdash;&thinsp; <mark>Bridge development to design</mark>
+<h2 align="center">O&thinsp;U&thinsp;R &thinsp; G&thinsp;O&thinsp;A&thinsp;L<br /> <mark>Bridge development to design</mark></h2>
 
 This requires **abstraction of** software **abstractionism** but with utilitarian intentions: 
 detecting what helps and what harms in mundane code (that is, answers the <samp><i>WHY</i></samp>s and <samp><i>HOW</i></samp>s above).
