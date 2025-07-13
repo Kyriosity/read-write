@@ -1,4 +1,4 @@
-# Architecture and Architects
+# Architecture _and_ Architects
 
 <table><tr valign="top"><td><picture><img width="500px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.png" /></picture>
        </td><td>
@@ -207,13 +207,13 @@ leaving as few cavities of misconstruing and design anarchy as possible.
 
 **Reputable software providers hire/promote architects; they are central figures at IT events. There's certification, after all.**
 
-Above all, **_software architect_** sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup>, and impresses hiring managers, customers, and stakeholders.&#8287;
+Above all, **_software architect_** sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup>, and impresses non-technical folks (who won't explore the stack and team roles). 
 Neither _**expert**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> is equivalent.
 
 > **There was no intention to defame** _software architects_ **but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.**<sup>👩‍👦‍👦</sup>
 
 \___________\
-Finally, salt all this: major projects don't develop _Pantheons_ but turn the flagstones of _Stonehenge_: cast requirements to known and tried solutions with a decent input of cutting-edge, invention, and artistism.
+Finally, salt all this: major projects don't develop _Pantheons_ but turn the flagstones of _Stonehenge_: cast requirements to known and tried solutions with a decent input of cutting-edge stuff, invention, and artistism.
 
 <div dir=rtl><samp>"<b>.Smith will suffice</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
 
