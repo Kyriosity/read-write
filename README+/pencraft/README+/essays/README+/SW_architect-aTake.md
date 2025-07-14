@@ -207,9 +207,9 @@ leaving as few cavities of misconstruing and design anarchy as possible.
 
 **Reputable software providers hire/promote architects; they are central figures at IT events. There's certification, after all.**
 
-Above all, **_software architect_** sounds solid and impressive for stakeholders, who won't dive into the intricacy of tech stacks and team roles.
+Above all, **_software architect_** on a project sounds comprehensive and ensuring for stakeholders, who won't dive into the intricacy of tech stacks and team roles.
 
-It distinguishes one from blurred team leads and crowds of senior developers<sup>🙋</sup>.
+It distinguishes one from slurred experts, team leads and crowds of senior developers<sup>🙋</sup>.
 
 Neither _**expert**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> will sound that coherent.
 
