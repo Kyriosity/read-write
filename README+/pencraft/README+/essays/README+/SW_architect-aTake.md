@@ -207,8 +207,11 @@ leaving as few cavities of misconstruing and design anarchy as possible.
 
 **Reputable software providers hire/promote architects; they are central figures at IT events. There's certification, after all.**
 
-Above all, **_software architect_** sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup>, and impresses non-technical folks (who won't explore the stack and team roles). 
-Neither _**expert**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> is equivalent.
+Above all, **_software architect_** sounds solid and impressive for stakeholders, who won't dive into the intricacy of tech stacks and team roles.
+
+It distinguishes one from blurred team leads and crowds of senior developers<sup>🙋</sup>.
+
+Neither _**expert**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> will sound that coherent.
 
 > **There was no intention to defame** _software architects_ **but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.**<sup>👩‍👦‍👦</sup>
 
