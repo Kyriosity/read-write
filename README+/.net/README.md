@@ -15,8 +15,6 @@ Besides new features, each annual release enhances the performance of key compon
 
 Amazingly **`C#`** is widely utilized in APIs and drivers to industry-standard **embedded** software (_i.a._ automotive and machinery) and **game dev** ([Unity engine](https://unity.com/solutions/programming)<sup>🔗</sup>).
 
-With all the praise given, **`C#`** isn't monumentally accomplished and has its foibles and lacks (I've collected criticisms, wishlists, and ideas in [README+](README+)).
-
 \___________\
 &nbsp; &nbsp; <sup>⛵</sup>&nbsp;<samp>Microsoft neither acquired the language (akin to Java) nor outsourced (it could be Python), but recruited a team to build it from scratch.</samp>\
 &nbsp; &nbsp; <sup>🧑‍🤝‍🧑</sup>&nbsp;<samp>Where you know top figures by name and can follow them on Git, media, and social networks.</samp>\
@@ -24,8 +22,12 @@ With all the praise given, **`C#`** isn't monumentally accomplished and has its 
 &nbsp; &nbsp; <sup>🪩</sup>&nbsp;<samp>«<b>Good code should be fast.</b>» _Bjarne Stroustrup_, 2018</samp>\
 &nbsp; &nbsp; <sup>⌨️</sup>&nbsp;<samp>Visual Studio Community Edition and JetBrains Rider.</samp>
 
-## Bottom line
+## Bottom lines
 
 Genuine `C++` or `Perl` experts are legitimate in branding `C#` as "just another _Basic_" while others will argue that it harnesses design fantasies for the sake of dev progress and clarity.
 
-🔚 ... but 📂[README+](README+)
+Languages like TypeScript may lack the best of C# parts (as LINQ), but render better syntax and features in others. 
+
+With all the praise given, **`C#`** isn't monumentally accomplished and has its foibles and lacks ([**README**➕](README+) for criticisms, wishlists, and ideas).
+
+🔚 🌔 ... 2020-2025 ...
