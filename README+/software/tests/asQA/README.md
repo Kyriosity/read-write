@@ -1,21 +1,21 @@
 # Software &nbsp;&mdash;&nbsp; Quality Assurance &rarr; `Programmatic Tests`
 
-<table><tr valign="top"><td><picture><img width="400px" alt="&nbsp;Software tests pyramid" src="../../../_rsc/_img/illus/tests/test_pyramid-deco-750px.jpg"></picture></td><td>
+<table><tr valign="top"><td><picture><img width="555px" alt="&nbsp;Software tests pyramid" src="../../../_rsc/_img/illus/tests/test_pyramid-deco-750px.jpg"></picture></td><td>
   
   ### Programmatic tests are operational bricks of the QA pyramid.
   
-  Though **unit tests** are at the bottom of the pyramid, any higher-level test subject is a **unit** of its own.
+  Though **unit tests** are at the bottom of the pyramid, any higher-level test subject is a **unit** of its own (even the whole application or service).
   
-  This works in the opposite direction: no atomic test unit could be dissolved into a lesser unit (to cover rationally without the explosion of code size). 
-  Our unit tests always assume lower-level units.
+  This works in the opposite direction: there are no atomic units &thinsp;&mdash;&thinsp; any can be dissolved into lesser ones. Nevertheless, there's a bar after which irrational unit tests will overflow the project. 
+  
 </td></tr></table>
 
 ## Test frameworks and languages
 
 Writing tests in the language of their subjects is natural, practical, and facilitates [TDD](../asDrive), but
 
-- UI has no programming language (like other amorphous themes). Amd markuo isn't one.
-- Some languages (as SQL, scripts, or lower level) aren't suited to describe tests or may be too obsolete (neglected).
+- UI has no programming language (like other amorphous themes). And markup isn't one.
+- Some languages (as SQL, scripts, or lower-level) aren't suited to describe tests or may be too obsolete (neglected).
 - A domain may be written in a mix of languages, or similar requirements can be implemented with different tools (e.g., JavaScript with TypeScript for front-end and Java/C#/JS for backend).
 
 Solution? Any popular language has some mainstream frameworks. Many frameworks also allow tests of UI, units/modules written in other languages, or API.<sup>🏛️</sup>
