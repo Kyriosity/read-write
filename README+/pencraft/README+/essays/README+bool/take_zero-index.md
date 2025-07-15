@@ -1,6 +1,7 @@
 # Zero index as false design decision &thinsp;&mdash;&thinsp; a&nbsp;Take
 
-Puzzle: What's common for the UK and Germany with C++ and Java that differs to Chile and Basic?
+Puzzle: What's common for the UK and Germany with C++ and Java 
+Hing: differs from Chile and Basic?
 Answer: base index, 0 vs. 1
 
 
