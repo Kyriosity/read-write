@@ -97,12 +97,12 @@ Top up with the fact that not every developer self-reflects on "_submit and forg
 
 <table><tr></tr><tr valign="top"><td>
 
-## Afterword. Still mediocre code &nbsp;&mdash;&nbsp; Why&thinsp;?&thinsp;!
+## Afterword. Still mediocre code &nbsp;&mdash;&nbsp; Why<samp>⁉️</samp>
 
 Apart from environments where seeds of good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup>, 
 **motivated smart teams may not reach high quality in very good conditions with enough resources and freedoms.**
 
-Besides _classical_ over-creativity and procrastination, the reasons could be:
+Besides _classical_ over-creativity and procrastination, the trivial reasons could be:
 
 + overweight of formal processes at the expense of design and communication,
 + "egocentrism": low feedback (code review, pair programming, coaching) and reluctance to learn (especially from critique),
