@@ -8,7 +8,7 @@
 Its outbreaks appear literally from `nothing` and are too common to call them just `exceptions` &thinsp;&mdash;&thinsp; 
 they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _vs._ data clouds, and spare neither junior nor seasoned developers.
 
-_Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame of being this _Frankenstein_ who brought the 
+_Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame of being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
 
 But nobody else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.\
@@ -18,7 +18,7 @@ ___________\
 </td>
 <td align="right">
    <div align="left"><samp><b><i>Let's explore this rabbit hole,</i></b></samp></div>
-   <picture><img alt="&thinsp; Gibson Dam, Montana - drain (Wiki)" src="../../../../_rsc/_img/photo/build/Gibson_Dam-Montana-drain.jpg" 
+   <picture><img alt="&thinsp; Gibson Dam, Montana - drain (Wiki)" src="../../../../../_rsc/_img/photo/build/Gibson_Dam-Montana-drain.jpg" 
    title="&nbsp;Gibson Dam, Montana, drain&#010;Source: Wiki media" /></picture><br />
    <samp><b><i>which sucks (our objects and coins).</i></b></samp>
 </td>
@@ -51,7 +51,7 @@ Logical errors of different origins caused botched global updates, blackouts, an
 
 Another specific type multiplied and spread many disasters &thinsp;&mdash;&thinsp; and it is no sign of exception or error.
   
-</td><td><picture><img alt="&nbsp; Yin&Yang under null sign" src="../../../../_rsc/_img/signs/YinYangNull.png" /></picture></picture></td><td>
+</td><td><picture><img alt="&nbsp; Yin&Yang under null sign" src="../../../../../_rsc/_img/signs/YinYangNull.png" /></picture></picture></td><td>
 
 When a number of software installations is significant, providers continuously collect reports on errors, which crash their products, get handled, or run undercover (unnoticed).
 
@@ -77,7 +77,7 @@ Contrary to pretty odd ideas of null-free programming languages, mainstream prog
 
 ### Blaming the messenger
 
-Errors in delivered software are annoying since **_1)_** [it worked on my machine](../../memes/README+/polyptych_works.md), and **_2)_** they could be a headache to debug. No wonder `NullReference` got a magnified dislove.
+Errors in delivered software are annoying since **_1)_** [it worked on my machine](../../../memes/README+/polyptych_works.md), and **_2)_** they could be a headache to debug. No wonder `NullReference` got a magnified dislove.
 
 The bad approach is that ignoring or silencing may cure the problem (though sometimes it works, for a while).
 
@@ -115,7 +115,7 @@ _Enums_ (enumerations), i.e., declarative numbers, are rather prone to such erro
 
 First and foremost, there is no magic wand to eliminate `NullReference` errors, as clickbait titles often try to suggest. And there shall be none.
 
-Besides sound logic, [quality code](../../../../software/QA/README+/code-quality.md) and apparent measures (including language aid), the following practices must prevent unexpected exceptions:
+Besides sound logic, [quality code](../../../../../software/QA/README+/code-quality.md) and apparent measures (including language aid), the following practices must prevent unexpected exceptions:
 
 ### Do not hide
 
@@ -165,7 +165,7 @@ Bad approach: setting a specific object that will only mask `null` to make matte
 <sup>🙋</sup> I find personal stories the last shelter of narrators unless it's a full match and a good backup. This must be the case.
 
 >  I can remember a contractor for a big, really, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
-After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](LN-view.md) and returned to his daily need &mdash; [N&thinsp;f&thinsp;S](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
+After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](../LN-view.md) and returned to his daily need &mdash; [N&thinsp;f&thinsp;S](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
 >
 > For the team's sake, a peer developer picked this ticket to dive into the hand-obfuscated code. After making the brain function on all cylinders, the slices of Swiss cheese coincided to reveal a malicious an<i>null</i>er. To be trivially fixed.
 > <div align="center"><b>MORAL</b>❓</div>
@@ -180,7 +180,7 @@ After sacrificing a couple of hours, he addressed this pesky _null_ to the dark 
 
 ### See also
 
-|&thinsp;- [Zero index take](tech/take_zero-index.md)
+|&thinsp;- [Zero index take](take_zero-index.md)
 
 ___________\
 🔚 &empty; 2025 ..  image credits: Wiki Commons, kyriosity
