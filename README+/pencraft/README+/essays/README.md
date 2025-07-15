@@ -1,4 +1,4 @@
-# <i>Pencraft</i> &nbsp;&mdash;&nbsp; Tries<sub>😹</sub>
+# Pencraft &nbsp;&mdash;&nbsp; <samp>T</samp>&thinsp;<sup>R</sup>&thinsp;<sub>I</sub>&thinsp;<sup>E</sup>&thinsp;<samp>S</samp><sub>✒️</sub>
 
 <table>
   <tr align="center">
@@ -21,8 +21,8 @@
     </td>
         <!--                          N U L L   W A S H I N G      --!>
       <td>
-        <a href="README+/NullRefError.md"><img src="../../../_rsc/_img/_nav/tiles/nullref-buoy_bw-200px.jpg" alt="&nbsp; Null sign as buoy" title="&nbsp; Null, its reference, and their mistake"/></a>
-        <br /><div><h4><a href="README+/NullRefError.md">WASHING <code>NULL</code></a></h4></div>
+        <a href="README+/bool/NullRefError.md"><img src="../../../_rsc/_img/_nav/tiles/nullref-buoy_bw-200px.jpg" alt="&nbsp; Null sign as buoy" title="&nbsp; Null, its reference, and their mistake"/></a>
+        <br /><div><h4><a href="README+/bool/NullRefError.md">WASHING <code>NULL</code></a></h4></div>
      </td>
     <td>
         <a href="../quotes/README+/inspirational.md"><img src="../../../_rsc/_img/_nav/tiles/InspitationQuotes_bw-200px.png" alt="&nbsp; inspirational.md" title="&nbsp;Quotes to work and rest"/></a>
@@ -45,5 +45,5 @@
   </tr>
 </table>
 
-🔚 🌒 2024-2025 ... a bit more freestyle ➡️ [use-dev <mark><samp><b>HIGHLIGHTS</b></samp></mark>](https://github.com/Kyriosity/use-dev/blob/main/.github/README.md#highlights)\
+🔚 🌒 2024-2025 ... some more freestyle ➡️ [use-dev <mark><samp><b>HIGHLIGHTS</b></samp></mark>](https://github.com/Kyriosity/use-dev/blob/main/.github/README.md#highlights)\
 <sub><i>The product of imagination AS it IS.</i></sub>

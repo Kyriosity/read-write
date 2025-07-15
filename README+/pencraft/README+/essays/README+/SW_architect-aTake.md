@@ -1,4 +1,4 @@
-# Architecture and Architects
+# Architecture _and_ Architects
 
 <table><tr valign="top"><td><picture><img width="500px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.png" /></picture>
        </td><td>
@@ -207,20 +207,22 @@ leaving as few cavities of misconstruing and design anarchy as possible.
 
 **Reputable software providers hire/promote architects; they are central figures at IT events. There's certification, after all.**
 
-Above all, **_software architect_** sounds cool, distinguishes one from crowds of senior developers<sup>🙋</sup>, and impresses hiring managers, customers, and stakeholders.&#8287;
-Neither _**expert**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> is equivalent.
+Above all, **_software architect_** on a project is natural and convincing for stakeholders, who won't dive into the intricacy of tech stacks and team roles.
+
+It distinguishes the position from slurred experts, team leads (thought as admins), and crowds of senior developers &thinsp;&mdash;&thinsp; the title fairly profaned by quantity growth and outsourcing.
+
+Neither _**guru**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> will sound that coherent.
 
 > **There was no intention to defame** _software architects_ **but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.**<sup>👩‍👦‍👦</sup>
 
 \___________\
-Finally, salt all this: major projects don't develop _Pantheons_ but turn the flagstones of _Stonehenge_: cast requirements to known and tried solutions with a decent input of cutting-edge, invention, and artistism.
+Finally, salt all this: major projects don't develop _Pantheons_ but turn the flagstones of _Stonehenge_: cast requirements to known and tried solutions with a decent input of cutting-edge stuff, invention, and artistism.
 
 <div dir=rtl><samp>"<b>.Smith will suffice</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
 
 \___________
 
 &nbsp; &nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom <b>IN/OUT</b></mark>" from <picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture> [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) (thrivingtechnologist.com)</sub>\
-&nbsp; &nbsp;<sup>🙋</sup> <sub>The position fairly profaned by quantity growth and outsourcing.</sub>\
 &nbsp; &nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of progressive platforms may be titled _architects_ or _leads_, but all of them show fluent coding skills at presentations.</sub>\
 &nbsp; &nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Image credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and kyriosity</sub>
 
