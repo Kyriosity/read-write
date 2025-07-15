@@ -1,10 +1,13 @@
-# Software &nbsp;&mdash;&nbsp; <samp>Quality Assurance</samp> &rarr; Programmatic Tests
+# Software &nbsp;&mdash;&nbsp; Quality Assurance &rarr; `Programmatic Tests`
 
 <table><tr valign="top"><td><picture><img width="400px" alt="&nbsp;Software tests pyramid" src="../../../_rsc/_img/illus/tests/test_pyramid-deco-750px.jpg"></picture></td><td>
-  <h3><i>Programmatic test</i> is a QA cornerstone.</h3>
-  <p>Though unit tests are at the bottom of the pyramid, any high-level test subject is a unit of its own.</p>
-  <p>This works in the opposite direction: no atomic test unit could be dissolved into a lesser unit (to cover rationally without the explosion of code size). 
-  Our unit tests always drag lower-level units.</p>
+  
+  ### Programmatic tests are operational bricks of the QA pyramid.
+  
+  Though **unit tests** are at the bottom of the pyramid, any higher-level test subject is a **unit** of its own.
+  
+  This works in the opposite direction: no atomic test unit could be dissolved into a lesser unit (to cover rationally without the explosion of code size). 
+  Our unit tests always assume lower-level units.
 </td></tr></table>
 
 ## Test frameworks and languages
@@ -13,7 +16,7 @@ Writing tests in the language of their subjects is natural, practical, and facil
 
 - UI has no programming language (like other amorphous themes). Amd markuo isn't one.
 - Some languages (as SQL, scripts, or lower level) aren't suited to describe tests or may be too obsolete (neglected).
-- A domain may be written in a mix of languages, or similar requirements can be implemented with different tools (e.g., JavaScript with typescript for front-end and Java/C#/JS for backend).
+- A domain may be written in a mix of languages, or similar requirements can be implemented with different tools (e.g., JavaScript with TypeScript for front-end and Java/C#/JS for backend).
 
 Solution? Any popular language has some mainstream frameworks. Many frameworks also allow tests of UI, units/modules written in other languages, or API.<sup>🏛️</sup>
 
