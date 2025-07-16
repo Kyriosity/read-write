@@ -2,7 +2,7 @@
 
 > **Guaranteed to be authentic** &mdash; not another paraphrase of [wiki articles](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup><b>w</b></sup>
 
-# Intramural experience &nbsp;&mdash;&nbsp; short and vintage
+# Intramural experience (short and vintage)
 
 <table><tr valign="top"><td><picture><img width="333px" alt="&nbsp;Ancient Egypt bas-relief" src="../../../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg" /></picture><br />
       <a href="../../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg">
@@ -65,7 +65,7 @@ It's not about household magnets, short circuits, and solar flares. Punch cards 
 + Eco-friendly and highly utilizable. 
 Even if the data remains unclaimed or safely copied, our heirs or other species may use the cards as our ancestors did: bookmarks, pads, or fans.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>📚</sup> <sub>As it happened with the Writing in centuries before Homer.</sub>\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>📚</sup> <sub>As it happened with the Writing in centuries before Homer (Bronze Age collapse).</sub>\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>🚀</sup> <sub>A deck of punchcards could make a better impression than naive [Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque) 
 and volatile mundane [phonograph records](https://en.wikipedia.org/wiki/Voyager_Golden_Record)<sup><b>w</b></sup>.</sub>\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>🪢</sup> <sub>Though there was a joke that IBM's positioning of holes won the US government bid for encryption.</sub>
