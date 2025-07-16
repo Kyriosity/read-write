@@ -115,7 +115,7 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 <picture><img alt="&nbsp;Pile/stack of punchcards in 1966" src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" /></picture><br/>
 _(Tell the grandma how much space your source files take ...)_
 
-A store of punched cards for a casual program. I'm proud to have some [little experience](../essays/README+/punchcard.md) of dealing with them.
+A store of punched cards for a casual program. I'm proud to have some [little experience](../essays/README+/rec/punchcard.md) of dealing with them.
 
 </details>
 
