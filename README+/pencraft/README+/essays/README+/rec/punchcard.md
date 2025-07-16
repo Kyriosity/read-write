@@ -4,10 +4,10 @@
 
 # Intramural experience &nbsp;&mdash;&nbsp; short and vintage
 
-<table><tr valign="top"><td><picture><img width="333px" alt="&nbsp;Ancient Egypt bas-relief" src="../../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg" /></picture><br />
-      <a href="../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg">
-            <img width="333px" src="../../../../_rsc/_img/af/punchcard_vert.jpg" alt="&nbsp;Image not found" title="&nbsp;Punchcard in 1966"/></a><br />
-      <picture><img width="333px" alt="&nbsp;Please do not bend" src="../../../../_rsc/_img/signs/do_not_bend-vert_h200px.jpg" /></picture>
+<table><tr valign="top"><td><picture><img width="333px" alt="&nbsp;Ancient Egypt bas-relief" src="../../../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg" /></picture><br />
+      <a href="../../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg">
+            <img width="333px" src="../../../../../_rsc/_img/af/punchcard_vert.jpg" alt="&nbsp;Image not found" title="&nbsp;Punchcard in 1966"/></a><br />
+      <picture><img width="333px" alt="&nbsp;Please do not bend" src="../../../../../_rsc/_img/signs/do_not_bend-vert_h200px.jpg" /></picture>
                   </td><td>
                         
 Long after their decline, punching technology and its carton carrier remained coursework at my university. **Till**&nbsp;the&nbsp;supply of cards became extinct &thinsp;&mdash;&thinsp; I caught the last year of this legacy.
@@ -71,4 +71,4 @@ and volatile mundane [phonograph records](https://en.wikipedia.org/wiki/Voyager_
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>🪢</sup> <sub>Though there was a joke that IBM's positioning of holes won the US government bid for encryption.</sub>
 
 \_______\
- 🔚 &nbsp; 🌙 kyriosity 2024-2025
+ 🔚 &nbsp; 🌙 kyriosity 2024-2025 ...
