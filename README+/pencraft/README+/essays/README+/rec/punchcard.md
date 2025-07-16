@@ -28,12 +28,12 @@ Believe it or not, this story had no electronic display.
 The moves the task took were hardly agile even for its time:
 
 &nbsp;&nbsp;<b>1️)</b> Come up with a _programme_ and sketch it in the dedicated notebook (the paper one).<br />
-&nbsp;&nbsp;<b>2️)</b> Fill in a lined paper form with procedural statements.<sup>🥪</sup><br />
+&nbsp;&nbsp;<b>2️)</b> Fill in a lined paper form with procedural statements.<sup><mark>&thinsp;🥪&thinsp;<mark></sup><br />
 &nbsp;&nbsp;<b>3️)</b> Submit this papyrus to the punching shop,<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where good ladies were used to decypher student scribble.<sup>🛠️</sup><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where good ladies were used to decypher student scribble.<sup><mark>&thinsp;🛠️&thinsp;<mark></sup><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... 🌙 _one day after_ ⛅ ...<br />
 &nbsp;&nbsp;<b>4️)</b>&nbsp;&thinsp;Fetch a deck of punched paperboard (~inch thick).<br />
-&nbsp;&nbsp;<b>5)</b> Bring it to the _computing center_<sup>🏛️</sup> where the mystery will occur.<br />
+&nbsp;&nbsp;<b>5)</b> Bring it to the _computing center_<sup><mark>&thinsp;🏛️&thinsp;<mark></sup> where the mystery will occur.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... 🌙 <i>one/two days after</i> ⛅ ...<br />
 &nbsp;&nbsp;<b>6)</b> Pick the medieval scroll in the "print" department.<br />
 &nbsp;&nbsp;<b>7)</b>  Search for a graph among collateral outputs.<br />
@@ -43,9 +43,9 @@ The motivation was so strong (as you might feel) that many succeeded in the firs
 
 Between **(4)** and **(5)**, a fellow disciple intruded, shuffling my deck unnoticed. Instead of the graph, I got bad (machine) language printed, and a lesson learned about data integrity and security.
 
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🥪</sup> <samp>I wonder how it may look object-oriented. A card glued over the base one to inherit or override?</samp>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🛠️</sup> <samp>Precisionists can find their occupation as true absolute coders.</samp>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🏛️</sup> <samp>One who saw mainframes would advocate the name for this huge open space hall with metal cabinets.</samp>
+&nbsp; &nbsp; &nbsp;<sup><mark>&thinsp;🥪&thinsp;</mark></sup> <samp>I wonder how it may look object-oriented. A card glued over the base one to inherit or override?</samp>\
+&nbsp; &nbsp; &nbsp;<sup><mark>&thinsp;🛠️&thinsp;<mark></sup> <samp>Precisionists can find their occupation as true absolute coders.</samp>\
+&nbsp; &nbsp; &nbsp;<sup><mark>&thinsp;🏛️&thinsp;</mark></sup> <samp>One who saw mainframes would advocate the name for this huge open space hall with metal cabinets.</samp>
 
 </td></tr></table>
 
