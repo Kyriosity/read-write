@@ -43,9 +43,9 @@ The motivation was so strong (as you might feel) that many succeeded in the firs
 
 Between **(4)** and **(5)**, a fellow disciple intruded, shuffling my deck unnoticed. Instead of the graph, I got bad (machine) language printed, and a lesson learned about data integrity and security.
 
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🥪</sup> <sub>I wonder how it may look object-oriented. A card glued over the base one to inherit or override&thinsp;?</sub>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🛠️</sup> <sub>Precisionists can find their occupation as true absolute coders.</sub>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🏛️</sup> <sub>One who saw mainframes would advocate the name for this huge open space hall with metal cabinets.</sub>
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🥪</sup> <samp>I wonder how it may look object-oriented. A card glued over the base one to inherit or override?</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🛠️</sup> <samp>Precisionists can find their occupation as true absolute coders.</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🏛️</sup> <samp>One who saw mainframes would advocate the name for this huge open space hall with metal cabinets.</samp>
 
 </td></tr></table>
 
@@ -68,7 +68,7 @@ Even if the data remains unclaimed or safely copied, our heirs or other species 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>📚</sup> <sub>As it happened with the Writing in centuries before Homer.</sub>\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>🚀</sup> <sub>A deck of punchcards could make a better impression than naive [Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque) 
 and volatile mundane [phonograph records](https://en.wikipedia.org/wiki/Voyager_Golden_Record)<sup><b>w</b></sup>.</sub>\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>🪢</sup> <sub>Though there was an joke that IBM's positioning of holes won the US government bid for encryption.</sub>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>🪢</sup> <sub>Though there was a joke that IBM's positioning of holes won the US government bid for encryption.</sub>
 
 \_______\
  🔚 &nbsp; 🌙 kyriosity 2024-2025
