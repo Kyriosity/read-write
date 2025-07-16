@@ -11,8 +11,9 @@
       <br /><div><h4><a href="README+/LN-view.md">LOTUS NOTES</a></h4></div>
     </td>
     <td>
-      <a href="README+/punchcard.md"><img src="../../../_rsc/_img/_nav/tiles/punchcard_bw-200px.png" alt="&nbsp;used punchacrd" title="&nbsp;Punchcards - once upon a time"/></a>
-        <br /><div><h4><a href="README+/punchcard.md">PUNCHCARDS</a></h4></div>
+       <!--                        P U N C H C A R D S      --!>
+      <a href="README+/rec/punchcard.md"><img src="../../../_rsc/_img/_nav/tiles/punchcard_bw-200px.png" alt="&nbsp;used punchacrd" title="&nbsp;Punchcards - once upon a time"/></a>
+        <br /><div><h4><a href="README+/rec/punchcard.md">PUNCHCARDS</a></h4></div>
     </td>
                                             </tr><tr></tr><tr align="center">
     <td>
