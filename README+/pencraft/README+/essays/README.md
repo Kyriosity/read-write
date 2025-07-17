@@ -7,8 +7,9 @@
       <br /><div><h4><a href="README+/AI-2020s.md">AI <samp>TWENTIES</samp></a></h4></div>
     </td>
       <td>
-      <a href="README+/LN-view.md"><img src="../../../_rsc/_img/_nav/tiles/LotusNotes_bw-200px.jpg" alt="&nbsp;LN-view.md" title="&nbsp;Lotus Notes - This used to be my playground"/></a>
-      <br /><div><h4><a href="README+/LN-view.md">LOTUS NOTES</a></h4></div>
+        <!--                        L O T U S   N O T E S      --!>
+      <a href="README+/rec/LN-view.md"><img src="../../../_rsc/_img/_nav/tiles/LotusNotes_bw-200px.jpg" alt="&nbsp;LN-view.md" title="&nbsp;Lotus Notes - This used to be my playground"/></a>
+      <br /><div><h4><a href="README+/rec/LN-view.md">LOTUS NOTES</a></h4></div>
     </td>
     <td>
        <!--                        P U N C H C A R D S      --!>
