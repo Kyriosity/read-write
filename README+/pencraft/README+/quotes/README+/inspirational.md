@@ -1,6 +1,6 @@
 # Quotes store &nbsp;&mdash;&nbsp; Inspiration department
 
-## I&thinsp;n&thinsp;c&thinsp;i&thinsp;t&thinsp;e&nbsp;&nbsp;m&thinsp;e &thinsp;.&thinsp;.&thinsp;.
+## I&thinsp;n&thinsp;c&thinsp;i&thinsp;t&thinsp;e&nbsp; m&thinsp;e &thinsp;.&thinsp;.&thinsp;.
 
 <details><summary><ins>&nbsp;.&thinsp;.&thinsp;.&thinsp; <b>to write and document</b>&nbsp;</ins></summary>&nbsp;
 
@@ -98,7 +98,7 @@ having a good move, to seek for a better.**\
 
 Not only does the East grant us profound and eloquent teaching! Whatever Mr. Kipling* did say.<sup>©️</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>©️</sup> <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
+&nbsp; &nbsp; <sup>©️</sup> <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
 
 \_________________________________</details>
 
@@ -127,9 +127,9 @@ To name a few of the officially recognized:
 > **We should consider every day lost on which we have not danced at least once**.<sup>👯</sup>\
 > _\*idem*_
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🚶</sup> <sub>Full original: „So wenig als möglich sitzen; keinem Gedanken Glauben schenken, der nicht im Freien geboren ist und bei freier Bewegung – in dem nicht auch die Muskeln ein Fest feiern. Alle Vorteile kommen aus den Eingeweiden. – Das Sitzfleisch – ich sagte es schon einmal – die eigentliche Sünde wider den heiligen Geist.“\
+&nbsp; &nbsp; &nbsp; &nbsp;<sup>🚶</sup> <sub>Full original: „So wenig als möglich sitzen; keinem Gedanken Glauben schenken, der nicht im Freien geboren ist und bei freier Bewegung – in dem nicht auch die Muskeln ein Fest feiern. Alle Vorteile kommen aus den Eingeweiden. – Das Sitzfleisch – ich sagte es schon einmal – die eigentliche Sünde wider den heiligen Geist.“\
  Ecce Homo. Wie man wird, was man ist (1889),</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>👯</sup> <sub>Original: „Wir sollten jeden Tag als verloren betrachten, an dem wir nicht mindestens einmal getanzt haben.“</sub>
+&nbsp; &nbsp; &nbsp; &nbsp;<sup>👯</sup> <sub>Original: „Wir sollten jeden Tag als verloren betrachten, an dem wir nicht mindestens einmal getanzt haben.“</sub>
 
 #### Kind advice
 
@@ -192,7 +192,7 @@ _Earliest humans_
 > **I know that I know nothing.**\
 _Plato_'s account of _Socrates_ 
 
-Should one defy fundamental Western philosophers ...
+Should one defy the fundamentals of Western philosophy ...
 
 \_________________________________</details>
 
