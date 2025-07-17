@@ -165,7 +165,7 @@ Bad approach: setting a specific object that will only mask `null` to make matte
 <sup>🙋</sup> I find personal stories the last shelter of narrators unless it's a full match and a good backup. This must be the case.
 
 >  I can remember a contractor for a big, really, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
-After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](../LN-view.md) and returned to his daily need &mdash; [N&thinsp;f&thinsp;S](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
+After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](../rec/LN-view.md) and returned to his daily need &mdash; [N&thinsp;f&thinsp;S](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
 >
 > For the team's sake, a peer developer picked this ticket to dive into the hand-obfuscated code. After making the brain function on all cylinders, the slices of Swiss cheese coincided to reveal a malicious an<i>null</i>er. To be trivially fixed.
 > <div align="center"><b>MORAL</b>❓</div>

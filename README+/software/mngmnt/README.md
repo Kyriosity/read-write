@@ -41,7 +41,7 @@ And not because chosen methodologies and tools are massively promoted.
 ## Conclusion
 
 DevOps grew from primitive file check-in/out to cloud solutions<sup>☁️</sup> and now claims to use neural networks and <samp>LLM</samp>. 
-However, as outspoken in my ["Lotus notes"](../../pencraft/README+/essays/README+/LN-view.md), simple and sound tools still can do the job.\
+However, as outspoken in my ["Lotus notes"](../../pencraft/README+/essays/README+/rec/LN-view.md), simple and sound tools still can do the job.\
 &nbsp; &nbsp; <sup>☁️</sup> <sub>like TFS became Azure DevOps Server</sub>
 
 **How?** No methodology, organization, and automation can beat _the laissez-faire_ of responsible craftsmen with win-win attitude.
