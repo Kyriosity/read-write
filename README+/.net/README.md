@@ -1,6 +1,6 @@
 <h1 align="center">Heavily biased about <code>C#</code></h1>
 
-### This premier **.NET** language deserves to be noted as one of the most eloquent and all-around languages/platforms for multi-OS systems and applications. 
+### This premier **.NET** language deserves to be noted as one of the most eloquent and all-around languages&thinsp;/&thinsp;platforms for multi-OS systems and applications. 
 It's a dedicated Microsoft flagship<sup>⛵</sup>, where the ship is <sub>[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)</sub> and the flag is <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub>.
 
 It evolves nonstop, providing us with state-of-the-art, concise, comprehensible syntax, and incredible features ([LINQ](https://stackoverflow.com/questions/2321724/where-can-i-get-a-good-concise-linq-cheatsheet)<sup>🔗</sup>, [TPL](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-parallel-library-tpl)<sup>🪟</sup>, [Rx.NET](https://github.com/dotnet/reactive)<sup>:octocat:</sup> i.a.). 
