@@ -1,23 +1,17 @@
-# `C#` &nbsp;&mdash;&nbsp; Drawbacks &nbsp;&mdash;&nbsp; "Minority report"
+# `C#` &nbsp;&mdash;&nbsp; Drawbacks &nbsp;&mdash;&nbsp; _"Minority report"_
 
-**`C#`** isn't an artwork to be perfect. Despite nice contributions and best parts, there are downsides, to begin with
+<sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> isn't an artwork to be perfect. Despite nice contributions and best parts, there are downsides, to begin with
 
 - bulky declarations of hierarchies,
-- rigid interfaces,
+- rigid interfaces (e.g., no ad-hoc definition),
 - restrained _generics_ and their _constraints_.
 
-The following language artifacts are awkward, at least for some. 
-
-## Principal
-
-- Rudimentary `0` as the start index in collections<sup>⭕</sup>, which doesn't correlate with the count and should better start from **`1`**.
-- Size setters (as for arrays and collections) must have been unsigned integers: <code><b>u</b>int Length { get; }</code>. This could eliminate a big share of bugs and run-time errors.
-- `void` could be a type. At least to make _Actions_ compatible with _Funcs_.
+The following language artifacts might be found awkward. 
 
 ## Syntax
 
-- Rudimentary `;` ending a line brings nothing but visual noise.
-- Constructor names imply extra refactoring on class/struct renaming &thinsp;&mdash;&thinsp; better be "anonymous" `ctor()` or `this()`.\
+- Rudimentary **`;`** ending a line brings nothing but visual noise.<sup><mark>&thinsp;&thinsp;🔊</mark></sup>
+- Constructor names imply extra refactoring on class/struct renaming &thinsp;&mdash;&thinsp; better it was "anonymous" `ctor()` or `this()`.\
 Compare to the `base()` call in the same constructors.
 - Default when missing access modifier<sup>⭕</sup> shall be better reserved for "ultimate" `private` or  `public` than for a less explicit and used `internal`
 - The `const` modifier shall not be limited to pre-compiled values (as in intermediate languages) but shall prevent re-assignment, as `init` and `readonly` do.
@@ -30,8 +24,9 @@ Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# read
 
 \_______________
 
+&nbsp; &nbsp; &nbsp; &nbsp; <sup><mark>&thinsp;&thinsp;🔊</mark></sup> <samp>Semicolon is optional before new line and not recommended in newer Kotlin and TypeScript.</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>⭕</sup> <samp>These native features can't be changed.</samp>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🙋</sup> <samp>Though you can avoid them, and hopefully .NET team doesn't plan to make a Perl out of their language.</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🙋</sup> <samp>Though you can avoid them, and hopefully, .NET team doesn't plan to make a Perl out of their language.</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>❓</sup> <samp>Isn't `null` a value too (compare to the _undefined_ notion)?</samp>
 
 ### Fishy shortcuts
@@ -44,6 +39,10 @@ For example, [`EnsureSuccessStatusCode`](https://learn.microsoft.com/en-us/dotne
 if (response.IsSuccessStatusCode) /// or differentiate for more specific conditions
      throw new HttpRequestException(); /// or specify explicitly any custom exception
 ```
+## Collections
+
+- Pointer-style `0` as the start index in collections<sup>⭕</sup>, which doesn't correlate with the count and should better start from **`1`**.
+- Size setters (as for arrays and collections) must have been unsigned integers: <code><b>u</b>int Length { get; }</code>. This could eliminate a big share of bugs and run-time errors.
 
 ## Generics
 
@@ -64,6 +63,8 @@ The next definition is terse and clear, `class CollWrapper<C, T> where C : IColl
 
 - There's no method signature to specify that it must unconditionally throw an exception, and `void` as a return is incorrect.\
 (The workaround may be to [declare the return as an exception to be thrown](cs-hints.md#Gimmicks)).
+
+- `void` could be a type. At least to make _Actions_ compatible with _Funcs_.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>🐡</sup> <samp>Besides, the override of dummy `Equals()` and `ToString()` may bring nontrivial logic and violate _single responsibility_.</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>👣</sup> <samp>Strongly annoying in inter-methods within builders, when you expect to select only among next steps.</samp>
@@ -132,6 +133,6 @@ Continued in [C# lacks - Dates](parts/cs-lacks-parts.md#Dates).
 
 ## Bottom line
 
-The list is far from being complete, but I wait for a day (more correctly to say a year) when somebody will strike a higher note &thinsp;&mdash;&thinsp; D-flat or even&nbsp;`D#`.
+The list is far from being complete, but maybe one day (more correctly to say a year) somebody will strike a higher note &thinsp;&mdash;&thinsp; D-flat or even&nbsp;`D#`.
 
 <div align="center">🔚 ... 🌘 2023-2025, to be continued ...</div>
