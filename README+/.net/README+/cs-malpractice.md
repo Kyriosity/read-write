@@ -4,22 +4,22 @@
 
 ### Essence 
 
-* Albeit C# has pointers, destructors, finalizers, calls to the garbage collector, memory allocation, "front door" to unmanaged code, and interop with other languages — 
+* Albeit **`C#`** has pointers, destructors, finalizers, calls to the garbage collector, memory allocation, "front door" to unmanaged code, and interop with other languages — 
 programming them for business applications isn't intrinsic, unless for a particular workaround, fix of bizarre bugs, or non-conforming 3d-party API.
 
 * The Microsoft learn corner thoroughly documents which .NET constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive.<sup>📍</sup>
-As well C# doesn't guarantee the same CLR output for future releases or every platform.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📍</sup> <sub>As an example, Q&A sites may cite contradictory opinions about string interpolation, await/async, and other constructs.</sub>
+As well, **`C#`** doesn't guarantee the same CLR output for future releases or every platform.\
+&nbsp; &nbsp; &nbsp; <sup>📍</sup> <sub>As an example, Q&A sites may cite contradictory opinions about string interpolation, await/async, and other constructs.</sub>
 
 The best intentions of individuals on a "low level" may occur in parallel with the .NET team on optimization of interpretation/compilation, and the latter will probably win.
 
-There is nothing wrong with knowing the details of CLR and IL (it makes one a better developer) except the time resources, and focus one must lavish invest.
+There is nothing wrong with knowing the details of CLR and IL (it makes one a better developer) except time resources, and unfocused learning.
 
 ### "Bare" .NET for high-performance calculations
 
-The downside of comfy C# programming is that .NET isn't suited for direct top-efficient code (like `C++` on `WinCom`). The energy of .NET will exceed the needs of business solutions, but will slow down calculations over arrays of millions of items or high-speed transformation of images or videos (even with all the parallelism in play).
+The downside of comfy **`C#`** programming is that .NET isn't suited for direct top-efficient code (like `C++` on `WinCom`). The energy of .NET will exceed the needs of business solutions, but will slow down calculations over arrays of millions of items or high-speed transformation of images or videos (even with all the parallelism in play).
 
-To stay with C# in such a case, hardware acceleration patches or external libraries are a must.
+To stay with **`C#`** in such a case, hardware acceleration patches or external libraries are a must.
 
 ### Phantom gains
 
@@ -34,7 +34,7 @@ To stay with C# in such a case, hardware acceleration patches or external librar
 
 ### Bloated interfaces
 
-Interfaces (as in C#&nbsp;11) allow declarations that defy imagination: static members, internal classes, and default implementations.
+Interfaces (as in **&nbsp; &thinsp;11**) allow declarations that defy imagination: static members, internal classes, and default implementations.
 
 Nevertheless, let them remain granulated and lightweight with:
 
@@ -44,11 +44,11 @@ Nevertheless, let them remain granulated and lightweight with:
 🚧🚧🚧 EXAMPLE REQUIRED 🖋️
 
 
-### Dynamic and ExpandoObject
+### `Dynamic` and `ExpandoObject`
 
-Any use of casting, call of props, and methods on them breaches the strongly typed C#. However, it could be a valid workaround or hack when nothing else helps.\
+Any use of casting, call of props, and methods on them breaches the strongly typed `C#`. However, it could be a valid workaround or hack when nothing else helps.\
 (Example: for return values of methods, which throw only, to be used in ternary expressions as in custom 
-[`exception shortcuts`](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcCommu/Errors/_basal/%F0%9F%94%BAException.cs).)
+[`exception shortcuts`](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcStoppers/Errors/_basal/%F0%9F%94%BAException.cs).)
 
 ### Dubious `sealed`
 
