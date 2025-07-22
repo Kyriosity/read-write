@@ -2,9 +2,9 @@
 
 <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> isn't an artwork to be perfect. Despite nice contributions and best parts, there are downsides, to begin with
 
-- bulky declarations of hierarchies,
+- single inheritance,
 - rigid interfaces (e.g., no ad-hoc definition),
-- restrained _generics_ and their _constraints_.
+- bounded _generics_ and their _constraints_.
 
 The following language artifacts might be found awkward. 
 
