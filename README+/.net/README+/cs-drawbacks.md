@@ -133,6 +133,6 @@ Continued in [C# lacks - Dates](parts/cs-lacks-parts.md#Dates).
 
 ## Bottom line
 
-The list is far from being complete, but maybe one day (more correctly to say a year) somebody will strike a higher note &thinsp;&mdash;&thinsp; D-flat or even&nbsp;`D#`.
+The list is far from being complete, but maybe one day (more correctly to say a year) the team will strike a higher note &thinsp;&mdash;&thinsp; D-flat or even&nbsp;`D#`. Or it will be `TypeScript`.
 
 <div align="center">🔚 ... 🌘 2023-2025, to be continued ...</div>
