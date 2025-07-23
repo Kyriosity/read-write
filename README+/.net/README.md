@@ -26,7 +26,8 @@ Amazingly **`C#`** is widely utilized in APIs and drivers to industry-standard *
 
 ## Bottom lines
 
-Genuine `C++` or `Perl` experts are legitimate in branding `C#` as "just another _Basic_," while others argue that it harnesses design fantasies for the sake of development progress and clarity.
+Genuine `C++` or `Perl` experts are legitimate in branding `C#` as "just another _Basic_". Veterans of JavaScript and pioneers of TypeScript will find it too rigid. 
+While others will argue that it harnesses design fantasies for the sake of development progress and clarity.
 
 Languages like TypeScript may lack the best of C# parts (as LINQ), but render more flexible syntax and cutting-edge features. 
 
