@@ -14,7 +14,7 @@ gurus delete code<br/></p>
 
 ### But it ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions.
 
-#### Poor quality, as in buildings, leads to menacing cracks, which no design clamps can hold for long.
+### As in buildings, poor quality leads to menacing cracks, which no design clamps can hold for long.
 
 </td></tr></table>
 
