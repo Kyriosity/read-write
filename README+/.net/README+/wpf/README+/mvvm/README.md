@@ -2,7 +2,8 @@
 
 Model-View-ViewModel (_abbr_. MVVM) is a well-accepted, easy, powerful concept of __separation of concerns__, also known as [MVP](https://martinfowler.com/eaaDev/uiArchs.html)<sup>🔗</sup>.
 
-WinForms application can be an exemplary MVVM<sup>🔧</sup>, but it was WPF that formed a symbiosis with MVVM and made the latter mainstream (and not only in WPF). Notably successful and stable Microsoft Visual Studio&nbsp;2010 was written from scratch in WPF relying on MVVM (Model-View-ViewModel).
+WinForms application can be an exemplary MVVM<sup>🔧</sup>, but it was WPF that formed a symbiosis with MVVM and made the latter mainstream (and not only in WPF). 
+Notably successful and stable Microsoft Visual Studio&nbsp;2010 was written from scratch in WPF, relying on MVVM (Model-View-ViewModel).
 
 &nbsp; &nbsp; <sup>🔧</sup>&nbsp;<samp>In fact, WPF is based on Winform's [`Binding`](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.binding)<sup>🪟</sup>.</samp>
 
@@ -39,13 +40,13 @@ Alas, there are not too many popular and interchangeable pluggable "bricks" to b
 
 ## Wrapping up
 
-MVVM has been widely established but is neither a golden nor universal section. On the call of peculiarity or creativity, any other, even monolithic, form is legal.&nbsp;<sup>:triangular_ruler:</sup>\
+MVVM has been widely established, but is neither a universal nor a golden section. On the call of peculiarity or creativity, any other, even monolithic, form is legal.&nbsp;<sup>:triangular_ruler:</sup>\
 &nbsp; &nbsp; <sup>:triangular_ruler:</sup><sub>&nbsp;Google team coined *Model-View-Whatever* for its Angular</sub>
 
 ### Practical decisions for MVVM
 
 |- ➡️ use-dev\
-|--- [Notification orchstration](https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-notification_orchestration.md)\
+|--- [Notification orchestration](https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-notification_orchestration.md)\
 |--- [Model & ViewModel cohesion](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/mvvm/mvvm-vmodel_cohesion.md)
 
-🔚
+🔚 .. 2022 - 2025 ..
