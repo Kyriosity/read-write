@@ -1,13 +1,13 @@
 <h1 align="center"><code>WPF</code>.<samp>NET</samp> &nbsp;&mdash;&nbsp; Freshener</h1>
 
-Despite justifiable and not skepticism and hard critics from the very dawn, **WPF** became a fully mature successor of _WinForms_, unlike its Web companion _manqué_ <code><b>Silverlight</b></code>, and cross-platform offshoots (like Xamarin).
+Despite justifiable and not skepticism and hard criticism from the very dawn, **WPF** (Windows Presentation Foundation) became a fully mature successor of _WinForms_, unlike its Web companion _manqué_ <code><b>Silverlight</b></code>, and cross-platform offshoots (like Xamarin).
 
- **WPF** is the number one platform for Windows desktops with millions of commercial and enterprise applications, released and being developed, enjoying now (2020s) a definite ebb in cross-platform demand.
+ **WPF** is the number one platform for Windows desktops with millions lines of trial, commercial, and enterprise applications, released and being developed, enjoying now (2020s) a definite ebb in cross-platform demand.
  
-Thus, WPF to .NET/Win is like the Moon to Earth &thinsp;&mdash;&thinsp; the only natural and permanent satellite. Alternatives are either petit, marginal, exotic, still immature, or already deprecated<sup>🌘</sup>.\
+Thus, WPF to .NET/Win is like the Moon to Earth &thinsp;&mdash;&thinsp; the only natural and permanent satellite. Alternatives are either petite, marginal, exotic, still immature, or already deprecated<sup>🌘</sup>.\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>🌘</sup> <samp>You must know about WinForms and may have heard about [Avalonia XPF](https://avaloniaui.net/XPF)<sup>🔗</sup>, Xamarin, WinUI.</samp>
 
-[Blazor](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🪟</sup> may become the same native unconstrained "bridge" to the browsers and tug a big part of applications, but it's too early to predict in&nbsp;2025.
+[Blazor](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🪟</sup> may become the same native unconstrained "bridge" to the browsers and tug a big part of applications, but it's too early to predict in the&nbsp;2025.
 
 ### For developers `WPF`:
 
