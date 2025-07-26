@@ -75,7 +75,7 @@ Now veneer the frustration/anxiety facet with <ins>**rhetorical**</ins> _vs._ <i
    <td>How smart leads <b>pass between</b> augmenting kludges and "conceptualism" utopia❔</td>
 </tr></table>
 
-#### And the answer to many <mark>WHY</mark> isn't always or principally a bad design state.
+#### And the answer to many <mark>WHY</mark> isn't always or principally a bad design state or lack of resources.
 
 <table><tr><td><picture><img alt="&nbsp;sitting on ice" src="../../../../_rsc/_img/symbols/extinct_species.png"/></picture></td><td>
   
@@ -101,8 +101,8 @@ detecting what helps and what harms in mundane code (that is, answers the <samp>
 * **Think "above"** "rails" and the burden of previous experience.
 * **Eliminate the fear** of "high" design decisions.
 
-## Be kind to continue ...
+<h2 align="right"><a href="../../../../pencraft/README+/quotes/README+/cornerstones.md"><img src="https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue" /></a></h2>
 
-[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp; &nbsp; &nbsp;↪️&nbsp;**Rationale** &rarr; [**Big&nbsp;Picture**](../02.BigPict/README.md) &rarr; [Stripes](../03.Stripes/README.md) &rarr; [Forces](../04.Forces/README.md) &rarr; [Roles](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md)
+[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-w250px_NEXT.png)](../../README.md) &nbsp; &nbsp; &nbsp;↪️&nbsp;**Rationale** &rarr; [**BIG&nbsp;PICTURE**](../02.BigPict/README.md) &rarr; [Stripes](../03.Stripes/README.md) &rarr; [Forces](../04.Forces/README.md) &rarr; [Roles](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md)
 
-<div align="right">🌒 ...2024-2025... &nbsp; <a href="../../../../pencraft/README+/quotes/README+/cornerstones.md"><img src="https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue" /></a></div>
+🔚 .. 🌒 ...2024-2025... &nbsp;
