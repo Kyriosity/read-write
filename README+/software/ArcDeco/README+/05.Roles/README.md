@@ -17,7 +17,10 @@ While it's under construction, you may read a [Take on the <samp><b>Architect</b
 
 <p align="right"><samp>A change is as good as a rest.</samp></p>
 
-Quite often, there are predefined destinies in occupation.
+Quite often, there are predefined destinies in an occupation.
 
-[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;[Rationale](../01.Rationale/README.md) &larr; [Big&nbsp;Picture](../02.BigPict/README.md) &larr; [Stripes](../03.Stripes/README.md) &larr; [Forces](../04.Forces/README.md) &larr; **Roles** &rarr; [**Factors**](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md)
-<div align="right">🌒 ...2024-2025...</div>
+## &nbsp;
+
+[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-w250px_NEXT.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;[Rationale](../01.Rationale/README.md) &larr; [Big&nbsp;Picture](../02.BigPict/README.md) &larr; [Stripes](../03.Stripes/README.md) &larr; [Forces](../04.Forces/README.md) &larr; **Roles** &rarr; [**FACTORS**](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md)
+
+🔚 🌒 .. 2024-2025 ..
