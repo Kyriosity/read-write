@@ -1,14 +1,13 @@
 # Zero index as a bad choice &thinsp;&mdash;&thinsp; a&nbsp;Take
 
-<div align="right">Puzzle: What's common for <i>Paris</i>, <i>Australia</i>, <code>C++</code>, and Java❔</div>
-<div align="right">Hint: differs from Chile, FOTRAN, Basic, and Common Era</div>
-<div align="right">Answer: base number of floors, arrays, and years.</div>
+<div align="right"><b>Puzzle:</b> What's common for <i>Paris</i>, <i>Australia</i>, <code>C++</code>, and Java❓</div>
+<div align="right"><b>Hint:</b> differs from 🇨🇱 (Chile), FOTRAN, Basic, and Common Era</div>
+<div align="right"><b>Answer:</b> base number of floors, arrays, and years.</div>
 
 
+REAL BUG when cross-referencing language modules (e.g., C# to Basic).
 
-REAL BUG when cross-referencing language modules (e.g. C# to Basic).
-
-// NOTE: 0 is the default for Basic while can be changed
+// NOTE: `1` is the `default` for Basic, which can be changed
 
 <table><tr><th width="50%">0️⃣-based</th><th width="50%">1️⃣-based</th></tr>
 <tr><td colspan="2" align="center">int i = default</td></tr>
@@ -25,5 +24,6 @@ REAL BUG when cross-referencing language modules (e.g. C# to Basic).
 
 🚧 PLACEHOLDER 🚧
 
-___________\
-🔚 .. 2025 ..
+## &nbsp;
+
+🔚 🌔.. 2025 ..
