@@ -23,5 +23,7 @@ The composer and conductor may or not play one or two instruments, rarely a few 
 
   ## &nbsp;
 
-[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;[Rationale](../01.Rationale/README.md) &larr; [Big&nbsp;Picture](../02.BigPict/README.md) &larr; [Stripes](../03.Stripes/README.md) &larr; [Forces](../04.Forces/README.md) &larr; [Roles](../05.Roles/README.md) &larr; [Factors](../06.Factors/README.md) &larr; **WRAP&nbsp;UP**
-<div align="right">🌒 ...2024-2025... 🔚</div>
+[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) &nbsp;[Rationale](../01.Rationale/README.md) &larr; [Big&nbsp;Picture](../02.BigPict/README.md) &larr; [Stripes](../03.Stripes/README.md) &larr; [Forces](../04.Forces/README.md) &larr; [Roles](../05.Roles/README.md) &larr; [Factors](../06.Factors/README.md) &larr; **WRAP&nbsp;UP**
+
+\___________\
+🔚 🌜.. 2024-2025 ..
