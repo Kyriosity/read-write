@@ -1,12 +1,16 @@
 <h1 align="center">Lotus Notes: "<i>This used to be my playground</i>"</h1>
 
-<table><tr><td width="340">
-<p>The multiplatform groupware <code><b>Lotus Notes</b></code><sup><mark>LN</mark></sup>, released at the turn of 1991, joined the best of computer sciences from the 1980s with <i>laissez-faire</i> IT in the 1990s and rapidly became the core asset for companies and teams.</p>
-<p align="right"><sup><mark>LN</mark></sup> <samp>Henceforth also <b><i>LN</i></b>.</samp></p>
+<table><tr><td>
+
+### `Lotus Notes`<sup><mark>LN</mark></sup>, the multiplatform groupware, was first released at the turn of 1991. Joining the best of computer sciences from the 1980s with _laissez-faire_ IT in the 1990s, it rapidly became the core asset for companies and teams.
+
+<div align="right"><sup><mark>LN</mark></sup> <samp>Henceforth also <b><i>LN</i></b>.</samp></div>
 </td><td width="30%">
 <picture><img alt="&nbsp; Lotus Notes R5 splash screen" src="../../../../../_rsc/_img/af/LN/LotusNotesR5_SplashWin.jpg" title="&nbsp;splash screen of Lotus Notes R5"></picture>
-</td><td width="40%">
-<p>As a developer of line-of-business and corporate applications on Lotus Notes for over a decade<sup><mark>#</mark></sup>, I must have deserved the privilege of personal (Lotus) notes.</p>
+</td><td>
+
+As a developer of Line-of-Business and corporate applications on Lotus Notes for over a decade<sup><mark>#</mark></sup>, I&nbsp;must have deserved the privilege of personal (Lotus) notes.
+
 <p align="right"><sup><mark>#</mark></sup> <samp>Before I cast my lot with <a href="../../../../../.net">C#.NET</a>.</samp></p>
 </td></tr></table>
 
@@ -20,7 +24,7 @@ Developers and sysadmins will remember genuine Rapid Application Development wit
 
 LN paved the public road to diverse innovations: client-server, multirole/group access, distributed/synchronized doc-oriented DB<sup>📜</sup>, **replication**<sup>⭐</sup>, asymmetric encryption from authorization down to selected fields on demand &thinsp;&mdash;&thinsp; to name a few of the extraordinary goodies.
 
-There were similar suites &thinsp;&mdash;&thinsp; legacy, alternative, or tailor-made &thinsp;&mdash;&thinsp; but this aquatic flower dominated the market garden... until Microsoft began to win large chunks of the office software market.
+There were similar suites &thinsp;&mdash;&thinsp; legacy, alternative, or tailor-made &thinsp;&mdash;&thinsp; but this aquatic flower dominated the market garden ... until Microsoft began to win large chunks of the office software market.
   
 </td></tr></table>
 
@@ -34,16 +38,15 @@ SharePoint was deprived of many inherent vices of the Lotus pioneer and graduall
 * The bargain sale of Domino/Notes and donating the office's source code to freeware pushed out _LN_ to IT margins.
 
 \___________\
-&nbsp; &nbsp; <sup>🙋</sup> <sub>I can't feature a newbie installing SharePoint on a notebook and writing the first useful application within a week.</sub>\
-&nbsp; &nbsp; <sup>📜</sup> <sub>Long before NoSQL became mainstream.</sub>\
-&nbsp; &nbsp; <sup>⭐</sup> <sub>Emphasized for rare ease, versatility, productivity, and robustness. 
-Besides synchronizing DBs it allowed to seamlessly use/develop LN offline, guarantee messaging, and merge design much simpler than in Git or TFS.</sub>\
-&nbsp; &nbsp; <sup>💰</sup> <sub>For a $3.5 billion - not a big deal nowadays, while made well before the 2000s when IT procurements had skyrocketed.</sub>\
-&nbsp; &nbsp; <sup>🍦</sup> <sub>It's not a top secret that IBM's cold shoulder urged many top Lotus engineers to leave.</sub>
+&nbsp; &nbsp; <sup>🙋</sup> <samp>I can't feature a newbie installing SharePoint on a notebook and writing the first useful application within a week.</samp>\
+&nbsp; &nbsp; <sup>📜</sup> <samp>Long before NoSQL became mainstream.</samp>\
+&nbsp; &nbsp; <sup>⭐</sup> <samp>Emphasized for rare ease, versatility, productivity, and robustness. Besides synchronizing DBs it allowed us to seamlessly use/develop LN offline, guarantee messaging, and merge design much simpler than in Git or TFS.</samp>\
+&nbsp; &nbsp; <sup>💰</sup> <samp>For a $3.5 billion - not a big deal nowadays, while made well before the 2000s when IT procurements had skyrocketed.</samp>\
+&nbsp; &nbsp; <sup>🍦</sup> <samp>It's not a top secret that IBM's cold shoulder urged many top Lotus engineers to leave.</samp>
 
 ## Postsriptum. Alternative history
 
-Notes had enough outdated and weak sides to surrender to the rival from Redmond (WA), but let's dream up how "survived" LN could look.
+Notes had enough outdated and weak sides to surrender to the rival from Redmond (WA), but let's dream up how "surviving" LN could look.
 
 + **Storage as a sound object-relational model over IBM DB2**\
 Instead of an enclosed and specific Notes Storage Facility (NSF)<sup>💿</sup> 
@@ -51,8 +54,8 @@ Instead of an enclosed and specific Notes Storage Facility (NSF)<sup>💿</sup>
 Akin to Angular or React, eliminating desktop premises and porting _@formula_ language to JavaScript utilities
 + **Seamless UI integration of office features**\
 Either from Microsoft or those updated from Lotus<sup>🥀</sup>, in popular open formats
-+ **Java as main language**<sup>☕</sup>\
-Actual version as a substitute for rudimentary LotusScript
++ **`C++`or`Java` as a main language**<sup>☕</sup>\
+Actual version as a substitute for too elementary LotusScript
 + **Better learning resources**\
   The difference between IBM's "search for" and Microsoft's "select from" was too obvious.
 + **Libraries of UX elements and utils, dev environment extensions**\
@@ -77,7 +80,7 @@ Actual version as a substitute for rudimentary LotusScript
 > Yes, I know &mdash; **_Otis_** but, in earnest, I was pretty sure that _Lotus_ until [proof](https://en.wikipedia.org/wiki/Now_I_Know_What_Made_Otis_Blue)<sup>&thinsp;<b>W</b></sup>.
 This must tell enough about my involvement.
 
-\______\
- 🔚 &nbsp;🌘 kyriosity 2024-2025 ..
+______\
+ 🔚 &nbsp;🌘 kyriosity 2023-2025 ..
 
 
