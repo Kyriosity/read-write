@@ -21,8 +21,10 @@ Let's begin with contours, **intentionally** left without annotations to defy yo
 <table><tr valign="top"><td width="55%">
 <picture><img alt="&nbsp;image not found: ArcDeco-BigPict-forces_annotated.jpg" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-forces_annotated.jpg" /></picture>
 </td><td>
-      <p>The «<b>tearing X and Y axis</b>» in the intro were for a two-dimensional simplification for a figure of speech.</p>
-    <p>What seems the first united will be stretched and squeezed.</p>
+
+The «<b>tearing X and Y axes</b>» in the intro were for a two-dimensional simplification for a figure of speech.
+
+What seems the first united will be stretched and squeezed.
 </td></tr></table>
 
 </details>
@@ -42,13 +44,13 @@ Let's begin with contours, **intentionally** left without annotations to defy yo
 </details>
 
 🚧PENDING: PICTURE WITH TECHNOLOGIES RODS: SEAMLESS vs. BARRIERS and HOLES
-
+   
 ## Image background
 
 <p title="&nbsp; Just imagine them behind the objects.">To avoid image overloading, the background wasn't laid - <ins>the sheets of resulting code with data and documentation</ins>.</p>
 
-## Let's dive deeper into pictures of _art naif_ in the following chapters...
+<h3 align="center">Let's dive deeper into these pictures of <i>art naif</i> in the following chapters...</h3>
 
-[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-w250px_NEXT.png)](../../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↪️&nbsp;[Rationale](../01.Rationale/README.md) &larr; **Big&nbsp;Picture** &rarr; [**S&thinsp;T&thinsp;R&thinsp;I&thinsp;P&thinsp;E&thinsp;S**](../03.Stripes/README.md) &rarr; 🚧[Forces](../04.Forces/README.md) &rarr; 🚧[Roles](../05.Roles/README.md) &rarr; 🚧[Factors](../06.Factors/README.md) &rarr; 🚧[Wrap&nbsp;up](../07.Wrapping/README.md)
+## &nbsp;
 
-🌒 ...2024-2025...
+### [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-w250px_NEXT.png)](../../README.md)&nbsp; <sup>[Rationale](../01.Rationale/README.md)</sup> &larr; **BIG&nbsp;PICTURE** &rarr; [**S&thinsp;T&thinsp;R&thinsp;I&thinsp;P&thinsp;E&thinsp;S**](../03.Stripes/README.md) &rarr; [Forces](../04.Forces/README.md) &rarr; [Roles](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md) <sub>🔚</sub>
