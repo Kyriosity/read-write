@@ -37,15 +37,18 @@
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** are tied, overlapping, and loosely-ordered role-driven processes.
 
-Many projects' modest size and lifetime, banality, and isolated work on them will shrink the pie to a bar... ⬇️
-<br /><picture><img  align="center" alt="&nbsp; &nbsp;ArcDeco view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" /></picture><br />
-⬆️...  <ins>&thinsp; theorization around which will be fetched out of thin air.</ins> ➡️ Thanks for your attention ...
+### Many projects' modest size and lifetime, banality, and isolated work on them will shrink the pie to a bar .&thinsp;.&thinsp;. ⬇️
 
-<h2 align="center">... <s>bye</s> but ...</h3>
+<picture><img  align="center" alt="&nbsp; &nbsp;ArcDeco view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" /></picture><br />
+<h3>⬆️ .&thinsp;.&thinsp;.  <ins>&thinsp; theorization around which will be fetched out of thin air</ins>  .&thinsp;.&thinsp;.<br ></h3>
 
-### Axes of e<mark>X</mark>pansion and complexit<mark>Y</mark> may tear this patchwork:<sup>🙋</sup>
+<h3>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .&thinsp;.&thinsp;. thanks for your attention .&thinsp;.&thinsp;.</h3>
 
-&harr; **<mark>X</mark>**: Coercive resource scaling against "horizontal" growth will add to a horrific pile.\
+<h2 align="center">.&thinsp;.&thinsp;. <s>bye</s> but .&thinsp;.&thinsp;.</h2>
+
+### Axes of e<mark>X</mark>pansion and complexit<mark>Y</mark> can tear this patchwork:<sup>🙋</sup>
+
+&harr; **<mark>X</mark>**: Coercive resource scaling against "horizontal" growth will build up a horrific pile.\
 &nbsp; &nbsp; (getting harder and more expensive to evolve and maintain, with little rational heritage except "how not to do" tips)
 
 &varr; &nbsp;**<mark>Y</mark>**: With stacking up design decisions (as they come), this pile will begin to fall to pieces at a certain height of abstraction.\
