@@ -103,6 +103,6 @@ detecting what helps and what harms in mundane code (that is, answers the <samp>
 
 <h2 align="right"><a href="../../../../pencraft/README+/quotes/README+/cornerstones.md"><img src="https://img.shields.io/badge/💡Powered-💬by_quotes-Cyan?style=flat&labelColor=CornflowerBlue&color=CornflowerBlue" /></a></h2>
 
-[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-w250px_NEXT.png)](../../README.md) &nbsp; &nbsp; &nbsp;↪️&nbsp;**Rationale** &rarr; [**BIG&nbsp;PICTURE**](../02.BigPict/README.md) &rarr; [Stripes](../03.Stripes/README.md) &rarr; [Forces](../04.Forces/README.md) &rarr; [Roles](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md)
+[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-w250px_NEXT.png)](../../README.md) &nbsp; &nbsp; **Rationale** &rarr; [**BIG&nbsp;PICTURE**](../02.BigPict/README.md) &rarr; [Stripes](../03.Stripes/README.md) &rarr; [Forces](../04.Forces/README.md) &rarr; [Roles](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md)
 
-🔚 .. 🌒 ...2024-2025... &nbsp;
+🔚 .. 🌒 ...2024-2025...
