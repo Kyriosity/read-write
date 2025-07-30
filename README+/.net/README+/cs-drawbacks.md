@@ -127,7 +127,14 @@ Continued in [C# lacks - Dates](parts/cs-lacks-parts.md#Dates).
 
 ## Inborn naming
 
--  *Interface* is a term that is too common for contracts (not only in C#).
+### Interfaces
+
+> The term *Interface* itself is too broad and common (and not only in `C#`). In fact, they are _contract_ specifications.
+
+The **`I...`**_ prefix is not that essential for distinguishing interfaces (especially with the cawling merge of abstract classes and interfaces). _**I**_ may significantly harm the wording.
+
+### One-liners
+
 - LINQ [`Reverse()`](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse), is actually *flip*.
 - Type modifiers _in_/_out_ for contra-/covariance collide with the same name parameter modifiers (_more_/_less_ can be better)
 
