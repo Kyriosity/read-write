@@ -207,13 +207,19 @@ leaving as few cavities of misconstruing and design anarchy as possible.
 
 **Reputable software providers hire/promote architects; they are central figures at IT events. There's certification, after all.**
 
-Above all, **_software architect_** on a project is natural and convincing for stakeholders, who won't dive into the intricacy of tech stacks and team roles.
+> ### Above all, **_software architect_** on a project is natural and convincing for stakeholders, who won't plunge into the intricacies of tech stacks and team roles.
+> #### It's a great expectation of a mage who unerringly guesses the outlines of future products. 
 
 It distinguishes the position from slurred experts, team leads (thought as admins), and crowds of senior developers &thinsp;&mdash;&thinsp; the title fairly profaned by quantity growth and outsourcing.
 
 Neither _**guru**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> will sound that coherent.
 
-> **There was no intention to defame** _software architects_ **but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.**<sup>👩‍👦‍👦</sup>
+<table><tr /><tr><td>👉🏿</td><td>
+
+**There was no intention to defame** _software architects_ **but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.**<sup>👩‍👦‍👦</sup>
+       
+</td></tr></table>
+
 
 \___________\
 Finally, salt all this: major projects don't develop _Pantheons_ but turn the flagstones of _Stonehenge_: cast requirements to known and tried solutions with a decent input of cutting-edge stuff, invention, and artistism.
