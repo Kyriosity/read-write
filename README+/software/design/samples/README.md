@@ -6,11 +6,11 @@ The planning and presentation of software features require a pictorial and encou
 |- 🎨 [Raster images](#raster-images)\
 |- 🧱 [Still ordinary models](#still-models)
 
-<h1 align="center">Chess</h1>
+<h1 align="center">♟️C<samp>&thinsp;H&thinsp;E&thinsp;S&thinsp;S</samp></h1>
 
 <p dir=rtl>Chess speaks for itself<br><i><b>Hans Moke Niemann</b>, GM, 2022</i></p>
 
-This popular board strategy of all times with fast-to-learn rules renders a favorable playground for software logic.  Other traits are...
+This popular board strategy of all time, with fast-to-learn rules, renders a favorable playground for software logic.  Other traits are...
 
 ### Reversibility: full and plain
 
@@ -35,18 +35,17 @@ Various actors set async props of a move/action:
 + player &rarr; comment* (optional)
 + engine/expert &rarr; assessment* (optional)
 
-### Duration, size, space
+### Duration, size, and space
 
 Playing chess is predictably finite<sup>:1234:</sup>, while any initiative may unleash the figures, _8x8_ layout, or time control and result in perpetual movement.\
 &nbsp; &nbsp; <sup>🔢</sup>&nbsp;<sub>Theory and rules limit moves to 5`949 with prevailing numbers on practice far below fivescore.</sub>
 
 Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to maintain and output an archive of all known tournaments.
 
----
+## &nbsp;
+<h1 align="center">🧮&thinsp;M<samp>&thinsp;A&thinsp;T&thinsp;H</samp></h1>
 
-<h1 align="center">Math</h1>
-
-<p dir=rtl>«<b>All is Number</b>»<br ><span title="Pythagoras, 570-495 BC"><i><ins>Πυθαγόρας</ins></i></span></p>
+<p dir=rtl>«<b>&thinsp;A&thinsp;l&thinsp;l &nbsp; i&thinsp;s &nbsp; N&thinsp;u&thinsp;m&thinsp;b&thinsp;e&thinsp;r</b>&thinsp;»<br ><span title="Pythagoras, 570-495 BC"><i><ins>Πυθαγόρας</ins></i></span></p>
 
 The study of logic and **math** with its formalism has predetermined programming. As hardware could run decent algebra instructions, low- and high-level languages on it could render fundamental mathematical functions for programmers.
 
@@ -66,13 +65,12 @@ Value differences may suggest a mathematical operation to reproduce, or disclose
 
 Parallelization (multi-threading) of algorithms, when applicable, tangibly speeds up calculations even on mediocre two-core machines.
 
----
-
-<h1 align="center">Raster images</h1>
+## &nbsp;
+<h1 align="center">🎨&thinsp;Raster images</h1>
 
 <p dir=rtl>,When I am in a painting<br>.I'm not aware of what I'm doing<br><i><b>Jackson Pollock</b> (1912-1956) </i></p>
 
-Editor of raster images is the richest and most multi-faceted support for thinking in application design: presentation, processing, and persistence. 
+Editor of raster images is the richest and most multifaceted support for thinking in application design: presentation, processing, and persistence. 
 All three of these ask for optimization (equally logical and tricky).
 
 Maps of pixels range from grayscale thumbnails to giant high-density multi-layered canvases or animations. 
@@ -82,9 +80,8 @@ Maps of pixels range from grayscale thumbnails to giant high-density multi-layer
 Changes on canvas differ from unique artistic strokes to strict procedures and may apply to the whole image, its masked parts, selected colors, or layers. 
 Actions vary from simple (flip, rotate) to highly processed retouching or effects.
 
----
-
-<h1 align="center"><a id="still-models" />Still ”static“ models</h1>
+## &nbsp;
+<h1 align="center"><a id="still-models" />🧱&thinsp;Still ”static“ models</h1>
 
 <p dir=rtl>In some mysterious way woods have<br />
 .never seemed to me to be <mark>static</mark> things<br />
@@ -116,4 +113,4 @@ However, put them all together on the mental green field of a growing applicatio
 and mix them (e.g., async undo-redo,  or multi-culture as units).
 
 \___________\
-🔚 🌕 2023-2025
+🔚 🌕 2023-2025 ..
