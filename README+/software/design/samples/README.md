@@ -4,7 +4,7 @@ The planning and presentation of software features require a pictorial and encou
 
 
 
-# ♟️<a id="chess"/>C<samp>&thinsp;H&thinsp;E&thinsp;S&thinsp;S</samp> &nbsp;&mdash;&nbsp; [Math](#math) &nbsp;&mdash;&nbsp; [Images](#images) &nbsp;&mdash;&nbsp; [Stills](#stills)
+# <a id="chess"/>♟️C<samp>&thinsp;H&thinsp;E&thinsp;S&thinsp;S</samp> &nbsp;&mdash;&nbsp; [<samp>Math<samp>](#math) &nbsp;&mdash;&nbsp; [<samp>Images</samp>](#images) &nbsp;&mdash;&nbsp; [<samp>Stills</samp>](#stills)
 
 <p dir=rtl>Chess speaks for itself<br><i><b>Hans Moke Niemann</b>, GM, 2022</i></p>
 
@@ -41,7 +41,7 @@ Playing chess is predictably finite<sup>:1234:</sup>, while any initiative may u
 Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to maintain and output an archive of all known tournaments.
 
 ## &nbsp;
-<h1 align="center">🧮&thinsp;M<samp>&thinsp;A&thinsp;T&thinsp;H</samp></h1>
+# <a id="math"/>[<samp>Chess</samp>](#math) &nbsp;&mdash;&nbsp; 🧮M<samp>&thinsp;A&thinsp;T&thinsp;H<samp> &nbsp;&mdash;&nbsp; [<samp>Images</samp>](#images) &nbsp;&mdash;&nbsp; [<samp>Stills</samp>](#stills)
 
 <p dir=rtl>«<b>&thinsp;A&thinsp;l&thinsp;l &nbsp; i&thinsp;s &nbsp; N&thinsp;u&thinsp;m&thinsp;b&thinsp;e&thinsp;r</b>&thinsp;»<br ><span title="Pythagoras, 570-495 BC"><i><ins>Πυθαγόρας</ins></i></span></p>
 
@@ -64,8 +64,10 @@ Value differences may suggest a mathematical operation to reproduce, or disclose
 Parallelization (multi-threading) of algorithms, when applicable, tangibly speeds up calculations even on mediocre two-core machines.
 
 ## &nbsp;
-<h1 align="center">🎨&thinsp;Raster images</h1>
+# <a id="images"/>[<samp>Chess</samp>](#math) &nbsp;&mdash;&nbsp; [<samp>Math<samp>](#math) &nbsp;&mdash;&nbsp; 🎨I<samp>&thinsp;M&thinsp;A&thinsp;G&thinsp;E&thinsp;S</samp> &nbsp;&mdash;&nbsp; [<samp>Stills</samp>](#stills)
 
+<div align="center">&thinsp;Raster images</div>
+&thinsp;
 <picture><unage></imag SEARCH krsty FOLDER !!!.></picture>
 
 <p dir=rtl>,When I am in a painting<br>.I'm not aware of what I'm doing<br><i><b>Jackson Pollock</b> (1912-1956) </i></p>
@@ -81,7 +83,7 @@ Changes on canvas differ from unique artistic strokes to strict procedures and m
 Actions vary from simple (flip, rotate) to highly processed retouching or effects.
 
 ## &nbsp;
-# ♟️<a id="stills"/>[Chess](#chess) &nbsp;&mdash;&nbsp; [Math](#math) &nbsp;&mdash;&nbsp; [Images](#images) &nbsp;&mdash;&nbsp; />🧱Stills
+# <a id="stills"/>[<samp>Chess</samp>](#chess) &nbsp;&mdash;&nbsp; [<samp>Math</samp>](#math) &nbsp;&mdash;&nbsp; [<samp>Images<samp>](#images) &nbsp;&mdash;&nbsp; 🧱S<samp>&thinsp;T&thinsp;I&thinsp;L&thinsp;L&thinsp;S</samp>
 
 <dv align="center"><a id="still-models" &thinsp;Still ”static“ models</div>
 
