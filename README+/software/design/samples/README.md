@@ -1,8 +1,6 @@
-# Design &nbsp;&mdash;&nbsp; Samples
+# Design &nbsp;&mdash;&nbsp; Samples<sup>♟️</sup><samp>🧮</samp><sup>🎨</sup><sub>🧱</sub>
 
-The planning and presentation of software features require a pictorial and encouraging background. We'll often rely on the next samples:\
-
-
+The planning and presentation of general-purpose software features require a pictorial and encouraging background. We'll often rely on the next samples:
 
 # <a id="chess"/>♟️C<samp>&thinsp;H&thinsp;E&thinsp;S&thinsp;S</samp> &nbsp;&mdash;&nbsp; [<samp>Math<samp>](#math) &nbsp;&mdash;&nbsp; [<samp>Images</samp>](#images) &nbsp;&mdash;&nbsp; [<samp>Stills</samp>](#stills)
 
@@ -41,7 +39,7 @@ Playing chess is predictably finite<sup>:1234:</sup>, while any initiative may u
 Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to maintain and output an archive of all known tournaments.
 
 ## &nbsp;
-# <a id="math"/>[<samp>Chess</samp>](#math) &nbsp;&mdash;&nbsp; 🧮M<samp>&thinsp;A&thinsp;T&thinsp;H<samp> &nbsp;&mdash;&nbsp; [<samp>Images</samp>](#images) &nbsp;&mdash;&nbsp; [<samp>Stills</samp>](#stills)
+# <a id="math"/>[<samp>Chess</samp>](#chess) &nbsp;&mdash;&nbsp; 🧮M<samp>&thinsp;A&thinsp;T&thinsp;H<samp> &nbsp;&mdash;&nbsp; [<samp>Images</samp>](#images) &nbsp;&mdash;&nbsp; [<samp>Stills</samp>](#stills)
 
 <p dir=rtl>«<b>&thinsp;A&thinsp;l&thinsp;l &nbsp; i&thinsp;s &nbsp; N&thinsp;u&thinsp;m&thinsp;b&thinsp;e&thinsp;r</b>&thinsp;»<br ><span title="Pythagoras, 570-495 BC"><i><ins>Πυθαγόρας</ins></i></span></p>
 
@@ -94,7 +92,7 @@ Actions vary from simple (flip, rotate) to highly processed retouching or effect
 ,yet in metaphysical ones<br />
 .they seem to move through me<br />
 ___________<br />
-<b>John Fowles</b> (1926-2005), <i>[post]modernist</i></p>
+<b>John Fowles</b> (1926-2005), <i>(post)modernist</i></p>
 
 <ins>First and foremost</ins>, software design asks for "static" bare figures, which make core models. The preceding samples are more in motion ("dynamic") &mdash; they have properties and hierarchies but are more demonstrative of processes that change them.
 
