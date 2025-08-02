@@ -1,11 +1,15 @@
-# Code &nbsp;&mdash;&nbsp; Patterns and Amti-patterns
+# Code &nbsp;&mdash;&nbsp; Patterns and Anti-patterns
 
-The famed vision of code constructs as [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)<sup><b>w</b></sup> has spread over software templates, project solutions, methodologies, and even developers' manners, but let's stay on its initial meaning.
+The famed vision of code constructs as [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)<sup><b>w</b></sup> has spread over software templates, project solutions, methodologies, and even developers' manners, but let's stay on its initial meaning - code organisation.
 
 > [!NOTE]
 > As the growth of hardware instruction sets pushed abstractions to the next level, clever programmers spotted useful code patterns to follow and recommend.
 > 
 > In the 1970s-1990s, they were augmented, systematized, and popularized &mdash; the most admitted of them became dogmatic and featured in languages/frameworks.
+
+A pattern or anti- may fit to a code line or embrass the whole application.
+
+BIG BALL of Mud
 
 :construction: ... TO BE CONTINUED with samples ...:pencil2:
 
