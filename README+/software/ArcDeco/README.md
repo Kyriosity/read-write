@@ -37,7 +37,7 @@
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** are tied, overlapping, and loosely-ordered role-driven processes.
 
-### Many projects' modest size and lifetime, banality, and isolated work on them will shrink the pie to a bar .&thinsp;.&thinsp;. ⬇️
+### Many projects' modest size and lifetime, banality, and isolated work on them will shrink the pie to a bar.&thinsp;.&thinsp;. ⬇️
 
 <picture><img align="center" alt="&nbsp; &nbsp;ArcDeco view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" /></picture><br />
 <h3>⬆️ .&thinsp;.&thinsp;.  <ins>&thinsp; theorization around which will be fetched out of thin air</ins>  .&thinsp;.&thinsp;.<br ></h3>
@@ -56,7 +56,7 @@
 </td></tr><tr><td><picture><img width="90px" alt="&nbsp;Y axis" src="../../_rsc/_img/signs/arrows/orange_down_skew-vert_450px.png"</td><td>
 
 &varr; &nbsp;**<mark>Y</mark>**: With stacking up design decisions (as they come), this pile will begin to fall to pieces at a certain height of abstraction.\
-&nbsp; &nbsp; (That is, the chaos, inherent to any programming, will become unmanageable.) 
+&nbsp; &nbsp; (That is, the chaos, inherent to any programming, will spiral out of control.) 
 
 \___________\
 &nbsp; &nbsp;<sup>🙋</sup> <samp>This said not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or gaming engines) but challenges beyond the ordinary: 
