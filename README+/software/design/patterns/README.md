@@ -1,4 +1,4 @@
-# Code &nbsp;&mdash;&nbsp; Patterns
+# Code &nbsp;&mdash;&nbsp; Patterns and Amti-patterns
 
 The famed vision of code constructs as [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)<sup><b>w</b></sup> has spread over software templates, project solutions, methodologies, and even developers' manners, but let's stay on its initial meaning.
 
