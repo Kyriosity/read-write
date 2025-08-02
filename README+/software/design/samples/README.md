@@ -4,7 +4,7 @@ The planning and presentation of software features require a pictorial and encou
 
 
 
-# ♟️C<samp>&thinsp;H&thinsp;E&thinsp;S&thinsp;S</samp> &nbsp;&mdash;&nbsp; [Math](#math) &nbsp;&mdash;&nbsp; [Images](#images) &nbsp;&mdash;&nbsp; [Stills](#stills)
+# ♟️<a id="chess"/>C<samp>&thinsp;H&thinsp;E&thinsp;S&thinsp;S</samp> &nbsp;&mdash;&nbsp; [Math](#math) &nbsp;&mdash;&nbsp; [Images](#images) &nbsp;&mdash;&nbsp; [Stills](#stills)
 
 <p dir=rtl>Chess speaks for itself<br><i><b>Hans Moke Niemann</b>, GM, 2022</i></p>
 
@@ -68,8 +68,6 @@ Parallelization (multi-threading) of algorithms, when applicable, tangibly speed
 
 <picture><unage></imag SEARCH krsty FOLDER !!!.></picture>
 
-
-
 <p dir=rtl>,When I am in a painting<br>.I'm not aware of what I'm doing<br><i><b>Jackson Pollock</b> (1912-1956) </i></p>
 
 Editor of raster images is the richest and most multifaceted support for thinking in application design: presentation, processing, and persistence. 
@@ -83,7 +81,10 @@ Changes on canvas differ from unique artistic strokes to strict procedures and m
 Actions vary from simple (flip, rotate) to highly processed retouching or effects.
 
 ## &nbsp;
-<h1 align="center"><a id="still-models" />🧱&thinsp;Still ”static“ models</h1>
+# ♟️<a id="stills"/>[Chess](#chess) &nbsp;&mdash;&nbsp; [Math](#math) &nbsp;&mdash;&nbsp; [Images](#images) &nbsp;&mdash;&nbsp; />🧱Stills
+
+<dv align="center"><a id="still-models" &thinsp;Still ”static“ models</div>
+
 
 <p dir=rtl>In some mysterious way woods have<br />
 .never seemed to me to be <mark>static</mark> things<br />
