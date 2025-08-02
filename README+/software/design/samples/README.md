@@ -1,12 +1,10 @@
 # Design &nbsp;&mdash;&nbsp; Samples
 
 The planning and presentation of software features require a pictorial and encouraging background. We'll often rely on the next samples:\
-|- ♟️ [Chess](#chess)\
-|- 🧮 [Math](#math)\
-|- 🎨 [Raster images](#raster-images)\
-|- 🧱 [Still ordinary models](#still-models)
 
-<h1 align="center">♟️C<samp>&thinsp;H&thinsp;E&thinsp;S&thinsp;S</samp></h1>
+
+
+# ♟️C<samp>&thinsp;H&thinsp;E&thinsp;S&thinsp;S</samp> &nbsp;&mdash;&nbsp; [Math](#math) &nbsp;&mdash;&nbsp; [Images](#images) &nbsp;&mdash;&nbsp; [Stills](#stills)
 
 <p dir=rtl>Chess speaks for itself<br><i><b>Hans Moke Niemann</b>, GM, 2022</i></p>
 
@@ -67,6 +65,10 @@ Parallelization (multi-threading) of algorithms, when applicable, tangibly speed
 
 ## &nbsp;
 <h1 align="center">🎨&thinsp;Raster images</h1>
+
+<picture><unage></imag SEARCH krsty FOLDER !!!.></picture>
+
+
 
 <p dir=rtl>,When I am in a painting<br>.I'm not aware of what I'm doing<br><i><b>Jackson Pollock</b> (1912-1956) </i></p>
 
