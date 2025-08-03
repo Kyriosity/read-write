@@ -27,9 +27,8 @@ Architecture may describe both ARC and VISION ...
 Wrap up.
 
 What is good design-development? Balancing on the edge between TYPE-MACHINE to stuck in thoughts
-When you find finished good but IMMEDIATELY have an idea how to redo.
+When you find a finished good but IMMEDIATELY have an idea how to redo.
 
 ## &nbsp;
 
-### [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-w250px_NEXT.png)](../../README.md) &nbsp;<sup>[Rationale](../01.Rationale/README.md) &larr; [Big&nbsp;Picture](../02.BigPict/README.md) &larr; **STRIPES** &rarr;</sup> [**FORCES**](../04.Forces/README.md) &rarr; [Roles](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md) <sub>🔚</sub>
-
+### [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-w250px_NEXT.png)](../../README.md) &nbsp;<sup>[RATIONALE](../01.Rationale/README.md) &larr; [BIG&nbsp;PICTURE](../02.BigPict/README.md) &larr;</sup> <ins>**STRIPES**</ins> &rarr; [**FORCES**](../04.Forces/README.md) &rarr; <sub>[ROLES](../05.Roles/README.md) &rarr; [FACTORS](../06.Factors/README.md) &rarr; [WRAP&nbsp;UP](../07.Wrapping/README.md) 🔚</sub>
