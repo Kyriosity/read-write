@@ -74,7 +74,7 @@ I couldn't find a better tag, but a mocking acronym<sup>🎨</sup> to distinguis
 \___________\
 &nbsp; &nbsp;<sup>🎨</sup> <samp>Homonym to __Arc&nbsp;Deco__ - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco)</samp><sup><b>w</b></sup><samp> (`är-dā-ˈkō`) 
 with its comeback, _ca._ a century after its introduction at the _International Exhibition of Modern Decorative and Industrial Arts_ in Paris.</samp>\
-&nbsp; &nbsp;<sup>🧑🏿‍🔬</sup> <samp>There's a math/logic matter backing this scheme, but it's not a subject of discussion here.</samp>
+&nbsp; &nbsp;<sup>🧑🏿‍🔬</sup> <samp>Math and logic matter saturate this scheme, but they are not a subject of our survey.</samp>
 
 ## What's next?
 
