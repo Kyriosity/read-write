@@ -21,4 +21,4 @@ Quite often, there are predefined destinies in an occupation.
 
 ## &nbsp;
 
-### [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-w250px_NEXT.png)](../../README.md) &nbsp;<sup>[Rationale](../01.Rationale/README.md) &larr; [Big&nbsp;Picture](../02.BigPict/README.md) &larr; [Stripes](../03.Stripes/README.md) &larr; [Forces](../04.Forces/README.md) &larr; **ROLES** &rarr;</sup> [**FACTORS**](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md) <sub>🔚</sub>
+### [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-w250px_NEXT.png)](../../README.md) &nbsp;<sup>[RATIONALE](../01.Rationale/README.md) &larr; [BIG&nbsp;PICTURE](../02.BigPict/README.md) &larr; [STRIPES](../03.Stripes/README.md) &larr; [FORCES](../04.Forces/README.md) &larr;</sup> **<ins>ROLES</ubs>** &rarr; [**FACTORS**](../06.Factors/README.md) <sub>&rarr; [Wrap&nbsp;up](../07.Wrapping/README.md) 🔚</sub>
