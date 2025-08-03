@@ -4,4 +4,4 @@
 
 ## &nbsp;
 
-### [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-w250px_NEXT.png)](../../README.md) &nbsp;<sup>[Rationale](../01.Rationale/README.md) &larr; [Big&nbsp;Picture](../02.BigPict/README.md) &larr; [Stripes](../03.Stripes/README.md) &larr; **FORCES** &rarr;</sup> [**ROLES**](../05.Roles/README.md) &rarr; [Factors](../06.Factors/README.md) &rarr; [Wrap&nbsp;up](../07.Wrapping/README.md) <sub>🔚</sub>
+### [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-w250px_NEXT.png)](../../README.md) &nbsp;<sup>[RATIONALE](../01.Rationale/README.md) &larr; [BIG&nbsp;PICTURE](../02.BigPict/README.md) &larr; [STRIPES](../03.Stripes/README.md) &larr;</sup> **<ins>FORCES</ins>** &rarr; [**ROLES**](../05.Roles/README.md) <sub>&rarr; [FACTORS](../06.Factors/README.md) &rarr; [WRAP&nbsp;UP](../07.Wrapping/README.md) 🔚</sub>
