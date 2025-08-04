@@ -4,7 +4,7 @@
 
 <table align="center"><tr></tr><tr><td>💬</td><td>
  
-What distinguishes good design? Completing its module, contributors are full of ideas about how it could be even better and are eager to rework in detail or whole.
+What distinguishes good design? Completing its module, contributors are full of ideas about how it could be even better and are eager to rework in detail or as a whole.
 
 The poor design also asks for rework, but without much enthusiasm.
 
