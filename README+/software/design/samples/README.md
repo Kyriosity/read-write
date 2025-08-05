@@ -80,7 +80,7 @@ Actions vary from simple (flip, rotate) to highly processed retouching or effect
 # <a id="stills"/>[<samp>Chess</samp>](#chess) &nbsp;&mdash;&nbsp; [<samp>Math</samp>](#math) &nbsp;&mdash;&nbsp; [<samp>Images<samp>](#images) &nbsp;&mdash;&nbsp; 🧱&thinsp;<ins>S<samp>&thinsp;T&thinsp;I&thinsp;L&thinsp;L&thinsp;S</samp></ins>
 
 <p dir=rtl>In some mysterious way woods have<br />
-.never seemed to me to be <mark>static</mark> things<br />
+.never seemed to me to be <mark><b>static</b></mark> things<br />
 ;In physical terms, I move through them<br />
 ,yet in metaphysical ones<br />
 .they seem to move through me<br />
@@ -91,11 +91,11 @@ ___________<br />
 
 "Static" models can be altered and async too, but they must demonstratively represent hierarchies, parametrization, and initialization. 
 
-Writing/books may be a perfect case, and the neighbor repo use-dev➡️ explores how to make them [more flexible](https://github.com/Kyriosity/use-dev/blob/main/README+/techniques/README+/polymorphism+/README+/prop_shift.md) and implements them as in [AbcModels](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels).
+Writing/books may be a perfect case, and the neighbor repo use-dev➡️ explores how to make them [more flexible](https://github.com/Kyriosity/use-dev/blob/main/README+/techniques/README+/polymorphism+/README+/prop_shift.md) and implements them in [AbcModels](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels).
 
 ---
 
-## Wrapping up
+<table><tr><td><picture><img alt="&nbsp; WRAP UP" src="../../../_rsc/_img/signs/WrapUp/counter-rotate/50x200.jpg" /></picture></td><td>
 
 Developers can select a sample or model that fits the features under development and implement (or reuse) prototypes with tests. 
 
@@ -107,6 +107,8 @@ However, put them all together on the mental green field of a growing applicatio
 + conversions.
 
 and mix them (e.g., async undo-redo,  or multi-culture as units).
+
+</td></tr></table>
 
 \___________\
 🔚 🌕 2023-2025 ..
