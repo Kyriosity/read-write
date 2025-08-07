@@ -47,14 +47,17 @@ Code optimization (deleting redundancies, merging common logic and data, shorten
 
 &nbsp; &nbsp; &nbsp; <sup>🎼</sup> <sub>e.g. `space.Single` instead of `" "` and other [C# tricks](../../../.net/README+/cs-hints.md)</sub>\
 &nbsp; &nbsp; &nbsp; <sup>🥎</sup> <sub>Plenty of magic strings and numbers, deceptive names, accidental casts, or "ghost" arguments (to name a few).</sub>\
-&nbsp; &nbsp; &nbsp; <sup>📖</sup> <sub>Languages provide more and more sugar to make one-liners of methods, but you must stop when this obfuscates lucidity (e.g. you must "unpack" to debug).</sub>
+&nbsp; &nbsp; &nbsp; <sup>📖</sup> <sub>Languages provide more and more sugar to make one-liners of methods, but you must stop when this obfuscates lucidity (e.g., you must "unpack" to debug).</sub>
 
 ### <samp>Re:</samp> Tests 🧪
 
-Test coverage may (and shall) share realization with or even origin from [Test Driven Development](../../tests/) but is **primarily** intended to examine software mechanically 
+> [!NOTE]
+> Test coverage may (and shall) share realization with or even origin from [Test Driven Development](../../tests/), but is **primarily** intended to examine software mechanically 
 (no matter whether implemented before the subject or _post factum_).
+> 
 
-Efficient, ample test coverage allows only patching buggy and badly joined applications, while good code doesn't need a whole cover of prescribed/automated scrutiny: unit, integration, and performance testing.
+Ample, even overlapping tests may be efficient to patch buggy and badly joined applications, 
+while quality code doesn't need the whole cove of prescribed/automated scrutiny: unit, integration, and performance testing.
 
 Enough quality code allows one to focus on tests where _errare humanum est_:
 
@@ -76,7 +79,6 @@ where quality is a motive, derivative, and bonus.
 
 Quality code <ins>introduces</ins> good design rather than prompts deciphering and patching.
 
-
 ## Moralité
 
 With all that said, **why does flawed code prevail and _clean code_ migrate to buzzwords?**
@@ -88,7 +90,7 @@ The point when controllable chaos goes out of control or a security breach manif
 
 **3.** Intention for quality is good, but if efforts aren't complete, deficient code will still come &thinsp;&mdash;&thinsp; now with a massive overhead. 
 
-Top up with the fact that not every developer self-reflects on "_submit and forget_" practice, and not every project management will draw a golden section between profanity and academism. 
+Top up with the fact that not every developer self-reflects on "_submit and forget_" practice, and not every project lead/manager will draw a golden section between profanity and academism. 
 
 \___________\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>🥴</sup>&nbsp;<sub>Provided one doesn't bother with [development] principles.</sub>\
@@ -100,11 +102,11 @@ Top up with the fact that not every developer self-reflects on "_submit and forg
 ## Afterword. Still mediocre code &nbsp;&mdash;&nbsp; Why<samp>⁉️</samp>
 
 Apart from environments where seeds of good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup>, 
-**motivated smart teams may not reach high quality in very good conditions with enough resources and freedoms.**
+**Motivated smart teams may not reach high quality in very good conditions with enough resources and freedoms.**
 
 Besides _classical_ over-creativity and procrastination, the trivial reasons could be:
 
-+ overweight of formal processes at the expense of design and communication,
++ gross of formal processes at the expense of design and communication,
 + "egocentrism": low feedback (code review, pair programming, coaching) and reluctance to learn (especially from critique),
 + canceled/postponed iterations/refactoring/cleaning,
 + hesitation in using and contributing to shared code (from team/enterprise foundations up to open source)
