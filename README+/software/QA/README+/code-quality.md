@@ -24,13 +24,13 @@ That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`cl
 
 + [x] **reads** in both directions<sup>↔️</sup>,
 + [x] **teaches** techniques and gimmicks,
-+ [x] **inspires** to contribute (<ins>rather than to re-implement</ins>).
++ [x] **inspires** to contribute (<ins>rather than to re-write</ins>).
 
 &nbsp; &nbsp; <sup>↔️</sup> <sub>On-boarding developers can learn the domain from code (sure, not alone), while the domain expert (with some assistance) will grasp the implemented application logic.</sub>
 
 ### <samp>Re:</samp> Bugs 🪳
 
-Bug-**free** code can be bug-**prone**. Code style must be bug-unfriendly to minimize the risk of introducing an error by change (regardless of whether unit tests will pick one).
+Bug-**free** code can be nevertheless bug-**prone**. Code style must be bug-unfriendly to minimize the risk of introducing an error by change (regardless of whether tests will promptly detect one or not).
 
 High-quality code shall present
 
@@ -38,7 +38,7 @@ High-quality code shall present
 + pronounced logical flows (e.g., early returns, shallow enclosures),
 + foolproof input/import.
 
-The highest merit is that even a breaking change won't surprise devs and users with unexpected side effects.
+The highest merit is that even a breaking change won't surprise authors and users with unexpected side effects.
 
 Code optimization (deleting redundancies, merging common logic and data, shortening syntax) that retains readability<sup>📖</sup> is prizewinning:\
 **less code** gives **less soil for bugs**.
