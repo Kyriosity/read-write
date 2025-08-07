@@ -1,7 +1,7 @@
-<p dir="rtl">,Junior developers writes poor code<br/>
-,they advanced &mdash; good code<br/>
-,experts write no code<br/>
-gurus delete code<br/></p>
+<p dir="rtl">,<b>Junior</b> developers write poor code<br/>
+,who <b>advanced</b> &thinsp;&mdash;&thinsp; good code<br/>
+,<b>experts</b> escape to write code<br/>
+and <b>gurus</b> delete code<br/></p>
 <p dir="rtl"><i>Anonymous</i></p>
 
 # `Code` Quality 
@@ -41,7 +41,7 @@ High-quality code shall present
 The highest merit is that even a breaking change won't surprise authors and users with unexpected side effects.
 
 Code optimization (deleting redundancies, merging common logic and data, shortening syntax) that retains readability<sup>📖</sup> is prizewinning:\
-**less code** gives **less soil for bugs**.
+**less code** yields **less soil for bugs**.
 
 \___________
 
@@ -54,7 +54,7 @@ Code optimization (deleting redundancies, merging common logic and data, shorten
 Test coverage may (and shall) share realization with or even origin from [Test Driven Development](../../tests/) but is **primarily** intended to examine software mechanically 
 (no matter whether implemented before the subject or _post factum_).
 
-Efficient, ample test coverage allows only patching buggy and badly joined applications, while good code doesn't need a whole scale of automated scrutiny: unit, integration, and performance testing.
+Efficient, ample test coverage allows only patching buggy and badly joined applications, while good code doesn't need a whole cover of prescribed/automated scrutiny: unit, integration, and performance testing.
 
 Enough quality code allows one to focus on tests where _errare humanum est_:
 
@@ -62,7 +62,7 @@ Enough quality code allows one to focus on tests where _errare humanum est_:
 * subjects of frequent changes,
 * dependencies on imports and external parts.
 
-... and get more breath to avoid [tests pitfalls](../../tests/asQA/README+/QA_tests-pitfalls.md).
+... and give more air to avoid [tests pitfalls](../../tests/asQA/README+/QA_tests-pitfalls.md).
 
 ## Conclusion
 
