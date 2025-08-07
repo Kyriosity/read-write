@@ -2,9 +2,9 @@
 ,who <b>advanced</b> &thinsp;&mdash;&thinsp; good code<br/>
 ,<b>experts</b> escape to write code<br/>
 and <b>gurus</b> delete code<br/></p>
-<p dir="rtl"><i>Anonymous</i></p>
+<p dir="rtl"><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></p>
 
-# `Code` Quality 
+# `Code` <nark>Quality</mark>
 
 <table><tr></tr><tr valign="center"><td width=30%>
   <picture><img src="../../../_rsc/_img/photo/misc/pour_concrete.jpg" alt="&nbsp;pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
