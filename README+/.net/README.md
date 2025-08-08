@@ -13,7 +13,7 @@ Its devoted team<sup><mark>🧑‍🤝‍🧑</mark></sup> learns from the drawb
 
 Nonetheless, **`C#`** offers "lower-level" _unsafe_ syntax, optimized collections, concurrent structures, and memory spans for specific boosts, intensive tasks, and parallel calculations.
 
-Besides new features, each annual release enhances the performance of key components. Learning resources are best-of-the-breed for newcomers and skilled accompanied by IDEs, free for educational and personal use.<sup><mark>⌨️</mark></sup>
+Besides new features, each annual release enhances the performance of key components. Learning resources are best-of-the-breed for newcomers and skilled, accompanied by free for educational and personal use IDEs.<sup><mark>⌨️</mark></sup>
 
 Amazingly **`C#`** is widely utilized in APIs and drivers to industry-standard **embedded** software (_i.a._ automotive and machinery) and **game** and **simulation dev** ([Unity engine](https://unity.com/solutions/programming)<sup>🔗</sup>).
 
@@ -27,10 +27,10 @@ Amazingly **`C#`** is widely utilized in APIs and drivers to industry-standard *
 ## Bottom lines
 
 Genuine `C++` or `Perl` experts are legitimate in branding `C#` as "just another _Basic_". Veterans of JavaScript and pioneers of TypeScript will find it too rigid. 
-While `C#` adepts will argue that their language harnesses design fantasies for the sake of development progress and prevents wicker code.
+While `C#` adepts will argue that their language harnesses exploration, streamlines design fantasies to development progress, and prevents wicker code.
 
-Languages like TypeScript may lack some of the best aspects of `C#` (such as LINQ), but offer more flexible syntax and cutting-edge features. 
+Languages like TypeScript may lack some of the best `C#` aspects (such as LINQ), but offer more flexible syntax and cutting-edge features. 
 
-And with all the praise given, **`C#`** isn't monumentally accomplished and has its foibles and lacks ([**README**➕](README+) for criticisms, wishlists, and ideas).
+Finally, with all the praise given, **`C#`** isn't monumentally accomplished and has its foibles and lacks: [**README**➕](README+) for criticisms, wishlists, and ideas.
 
 🔚 🌔 ... 2020-2025 ...
