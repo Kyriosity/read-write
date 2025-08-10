@@ -12,7 +12,7 @@ refined craftsmen, exempt from chores and narrow-profile burdens to focus on vis
 
 Much later, diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complexity.
 
-Even so, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither nano- nor giga-) 
+Even so, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither _nano_- nor _giga_-) 
 and architects of <em>détente</em> or <em>economic miracle</em> are compliments (or flattery).
 
 ___________\
@@ -117,9 +117,10 @@ checkout bug-fix
 <div align="right"><picture><img src="../../../../_rsc/_img/signs/arrows/back-forth_skewed_200px.png" alt="&nbsp;&nwarr; C O M P A R E &searr;"/></picture></div>
 </td><td>
        
-Building rests on a functional design that facilitates easy, cheap, mass construction. The most advanced and creative specimens may be endowed with breaking standards and budget to create unique, extraordinary pieces of aesthetics, art, and cultural heritage.
+Building rests on a functional design that facilitates inornate, cheap, mass construction. 
+The most advanced and creative specimens may be endowed with breaking standards and budget to create unique, extraordinary pieces of aesthetics, art, and cultural heritage.
  
-Extravagant (and still working) IT ideas don't require solid fundamentals; however, mature software design canalizes creativity into a uniform mainstream: standards, patterns, and templates.
+Extravagant (and still working) IT features are available for every developer; however, mature software design canalizes creativity into a uniform mainstream: standards, patterns, and templates.
 <br /><br />
 <picture><img alt="&nbsp;Lotus 1-2-3 on OS/2" src="../../../../_rsc/_img/snap/screen/Lotus123-OSdiv2.jpg" title="&nbsp;Editor of Lotus 1-2-3&#013;&#010;(snapshot from ecsoft2.org)" /></picture><br />
 <i>Lotus 1-2-3 and its predecessors from the previous century still define the UX and functionality of spreadsheets.</i></a>
@@ -202,7 +203,7 @@ from computer science`"((
 ⬅️ ... easy to declare but **truly** tough to correspond to.
 
 **The Phenomenon of software architecture** is a collective rather than personal vision and fusion of the best design, development, and coding from multiple inputs, 
-leaving as few cavities of misconstruing and design anarchy as possible.
+leaving as few cavities of misconstruing and design anarchy as possible. If one can embrace a project, it's not the subject of Architecture.
 
 ## but hold on...
 
@@ -215,7 +216,7 @@ It distinguishes the position from slurred experts, team leads (thought of as ad
 
 Neither _**guru**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> will sound that coherent.
 
-<div align="right">___________<br /><sup>🙋</sup> <samp>Advent of Chief Architects suggests that this term also corrodes.</samp></div>
+<div align="right">___________<br /><sup>🙋</sup> <samp>Advent of Chief Architects signals that this term also corrodes.</samp></div>
 <br />
 <table><tr /><tr><td>👉🏿</td><td>
 
@@ -223,8 +224,7 @@ Neither _**guru**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogr
        
 </td></tr></table>
 
-
-\___________\
+## &nbsp;
 Finally, salt all this: major projects don't develop _Pantheons_ but turn the flagstones of _Stonehenge_: cast requirements to known and tried solutions with a decent input of cutting-edge stuff, invention, and artistism.
 
 <div dir=rtl><samp>"<b>.SMITH WILL SUFFICE</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
@@ -233,7 +233,7 @@ Finally, salt all this: major projects don't develop _Pantheons_ but turn the fl
 
 &nbsp; &nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom <b>IN/OUT</b></mark>" from <picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture> [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) (thrivingtechnologist.com)</sub>\
 &nbsp; &nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of progressive platforms may be titled _architects_ or _leads_, but all of them show fluent coding skills at presentations.</sub>\
-&nbsp; &nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu). Image credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and kyriosity</sub>
+&nbsp; &nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu).
 
 <table><tr></tr><tr>
  <td>☝️</td><td>This essay doesn't split <i>architecture</i> and <i>design</i> (as everything over particular and imaginary applications/systems/constructions) while
@@ -242,4 +242,5 @@ title="Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D&nbsp; &nbsp; &nbsp; &nbs
  (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin or adjacent activities</a>.
  </td></tr></table>
 
-<div align="center"><b>.......</b> &nbsp;🔚 &nbsp;🌘 kyriosity 2023-2025&nbsp; &nbsp;<b>.......</b></div>
+<div align="center">&nbsp;🔚 &nbsp;🌘 kyriosity 2023-2025 &nbsp; </sub><b>...</b></div>
+Image credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and kyriosity
