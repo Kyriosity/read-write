@@ -5,7 +5,7 @@
 
 The essence of architecture appeared with constructions more extravagant and durable than a hut of piled branches &thinsp;&mdash;&thinsp; say, megaliths.
 
-Certain ancient Hellenes were so prominent at building sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &thinsp;&mdash;&thinsp; the term romanized to <i>architecture</i> centuries later.
+### Certain ancient Hellenes were so prominent at building sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &thinsp;&mdash;&thinsp; the term romanized to <i>architecture</i> centuries later.
 
 Next, ages passed till the art of immobile acknowledged and methodized architects as a detached trade &thinsp;&mdash;&thinsp; 
 refined craftsmen, exempt from chores and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.
@@ -113,15 +113,16 @@ checkout bug-fix
 
 <details align="center"><summary>_________&thinsp;<b><samp>F&thinsp;L&thinsp;I&thinsp;P&thinsp;S&thinsp;I&thinsp;D&thinsp;E</samp></b>&thinsp;_________</summary>
 
-<table><tr align="left" valign="top"><td width="50%"><picture><img alt="&nbsp;Museu_do_amanha(tripadvisor.com).jpg" src="../../../../_rsc/_img/photo/build/Museu_do_amanha(tripadvisor.com).jpg" title="&nbsp;Designed by Santiago Calatrava" /></picture><br />
-      <i>Museum of Tomorrow, Rio de Janeiro</i>
+<table><tr align="left" valign="top"><td width="50%"><picture><img alt="&nbsp;Museu_do_amanha(tripadvisor.com).jpg" src="../../../../_rsc/_img/photo/build/Museu_do_amanha(tripadvisor.com).jpg" title="&nbsp;Designed by Santiago Calatrava" /></picture><br /><i>Museum of Tomorrow, Rio de Janeiro</i>
 <div align="right"><picture><img src="../../../../_rsc/_img/signs/arrows/back-forth_skewed_200px.png" alt="&nbsp;&nwarr; C O M P A R E &searr;"/></picture></div>
 </td><td>
-<p>Building rests on functional design that facilitates easy, cheap, mass construction. 
- The most advanced and creative specimens may be endowed to break the standards and create unique, extraordinary pieces of aesthetics, art, and cultural heritage.</p>
-<p>Extravagant (and still working) IT ideas don't require solid fundamentals, however, mature software design canalizes creativity into uniform mainstream: standards, patterns, and templates.</p>
-<br /><picture><img alt="&nbsp;Lotus 1-2-3 on OS/2" src="../../../../_rsc/_img/snap/screen/Lotus123-OSdiv2.jpg" title="&nbsp;Editor of Lotus 1-2-3&#013;&#010;(snapshot from ecsoft2.org)" /></picture><br />
-       <i>Lotus 1-2-3 and its predecessors from the previous century still define the UX and functionality of spreadsheets.</i></a>
+       
+Building rests on a functional design that facilitates easy, cheap, mass construction. The most advanced and creative specimens may be endowed with breaking standards and budget to create unique, extraordinary pieces of aesthetics, art, and cultural heritage.
+ 
+Extravagant (and still working) IT ideas don't require solid fundamentals; however, mature software design canalizes creativity into a uniform mainstream: standards, patterns, and templates.
+<br /><br />
+<picture><img alt="&nbsp;Lotus 1-2-3 on OS/2" src="../../../../_rsc/_img/snap/screen/Lotus123-OSdiv2.jpg" title="&nbsp;Editor of Lotus 1-2-3&#013;&#010;(snapshot from ecsoft2.org)" /></picture><br />
+<i>Lotus 1-2-3 and its predecessors from the previous century still define the UX and functionality of spreadsheets.</i></a>
 </td></tr></table>
 </details>
 
@@ -208,12 +209,14 @@ leaving as few cavities of misconstruing and design anarchy as possible.
 **Reputable software providers hire/promote architects; they are central figures at IT events. There's certification, after all.**
 
 > ### Above all, **_software architect_** on a project is natural and convincing for stakeholders, who won't plunge into the intricacies of tech stacks and team roles.
-> #### It's a great expectation of a mage who unerringly guesses the outlines of future products. 
+> #### _Great expectations_ of a mage who unerringly guesses the outlines of future products. 
 
-It distinguishes the position from slurred experts, team leads (thought as admins), and crowds of senior developers &thinsp;&mdash;&thinsp; the title fairly profaned by quantity growth and outsourcing.
+It distinguishes the position from slurred experts, team leads (thought of as admins), and legions of senior developers &thinsp;&mdash;&thinsp; the title fairly profaned by quantity growth and outsourcing.<sup>🙋</sup>
 
 Neither _**guru**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> will sound that coherent.
 
+<div align="right">___________<br /><sup>🙋</sup> <samp>Advent of Chief Architects suggests that this term also corrodes.</samp></div>
+<br />
 <table><tr /><tr><td>👉🏿</td><td>
 
 **There was no intention to defame** _software architects_ **but to qualify the term as an honor rather than a job title for a bundle of _avant_ practices with strong practical backup.**<sup>👩‍👦‍👦</sup>
@@ -224,7 +227,7 @@ Neither _**guru**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogr
 \___________\
 Finally, salt all this: major projects don't develop _Pantheons_ but turn the flagstones of _Stonehenge_: cast requirements to known and tried solutions with a decent input of cutting-edge stuff, invention, and artistism.
 
-<div dir=rtl><samp>"<b>.Smith will suffice</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
+<div dir=rtl><samp>"<b>.SMITH WILL SUFFICE</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
 
 \___________
 
