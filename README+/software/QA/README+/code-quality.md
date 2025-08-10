@@ -1,15 +1,15 @@
-<p dir="rtl">,<b>Junior</b> developers write poor code<br/>
+<div dir="rtl">,<b>Junior</b> developers write poor code<br/>
 ,those who <b>advance</b> &thinsp;&mdash;&thinsp; good code<br/>
 ,<b>experts</b> escape to write code<br/>
 .and <b>gurus</b> only delete code<br />
-<i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></p>
+<i><b><sub>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</sub></i></b></div>
 
 # `Code` <nark>Quality</mark>
 
 <table><tr></tr><tr valign="center"><td width=30%>
   <picture><img src="../../../_rsc/_img/photo/misc/pour_concrete.jpg" alt="&nbsp;pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
 </td><td>
-  
+
 ### Code is the <mark>cement</mark> of software. Its quality is imperceptible to spectators and doesn't matter much for booths.
 
 ### But it ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions.
@@ -26,11 +26,12 @@ That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`cl
 + [x] **teaches** techniques and gimmicks,
 + [x] **inspires** to contribute (<ins>rather than to re-write</ins>).
 
-&nbsp; &nbsp; <sup>↔️</sup> <sub>An on-boarding developers can learn the domain from code, while a domain expert will grasp the implemented application logic. Sure, both assdisted and with documentation.</sub>
+<div align="right"><sup>↔️</sup> <samp>An onboarding developer can learn the domain from code, while a domain expert will grasp the implemented application logic.
+<br />Sure, both assisted and with documentation.</samp></div>
 
 ### <samp>Re:</samp> Bugs 🪳
 
-Bug-**free** code can be nevertheless bug-**prone**. Code style must be bug-unfriendly to minimize the risk of introducing an error by change (regardless of whether tests will promptly detect one or not).
+Bug-**free** code can nevertheless be bug-**prone**. Code style must be bug-**unfriendly** to minimize the risk of introducing an error by change (regardless of whether tests will promptly detect one or not).
 
 High-quality code shall present
 
@@ -123,4 +124,4 @@ However, these cases are exceptional and not about enterprise development.
   <a href="../../../_rsc/_img/photo/blog/mount/DevVsMonolyth.jpg"><img alt="&nbsp;Stone monolyth" src="../../../_rsc/_img/photo/nat/DerAlteSchwede.jpg" title="Waterfall monolyth again..." /></a>
 </td></tr></table>
 
-🔚 ...🌜2023-2025
+🔚 ...🌜2023-2025 ...
