@@ -1,8 +1,8 @@
 <p dir="rtl">,<b>Junior</b> developers write poor code<br/>
-,who <b>advanced</b> &thinsp;&mdash;&thinsp; good code<br/>
+,those who <b>advance</b> &thinsp;&mdash;&thinsp; good code<br/>
 ,<b>experts</b> escape to write code<br/>
-and <b>gurus</b> delete code<br/></p>
-<p dir="rtl"><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></p>
+.and <b>gurus</b> only delete code<br />
+<i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></p>
 
 # `Code` <nark>Quality</mark>
 
@@ -26,7 +26,7 @@ That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`cl
 + [x] **teaches** techniques and gimmicks,
 + [x] **inspires** to contribute (<ins>rather than to re-write</ins>).
 
-&nbsp; &nbsp; <sup>↔️</sup> <sub>On-boarding developers can learn the domain from code (sure, not alone), while the domain expert (with some assistance) will grasp the implemented application logic.</sub>
+&nbsp; &nbsp; <sup>↔️</sup> <sub>An on-boarding developers can learn the domain from code, while a domain expert will grasp the implemented application logic. Sure, both assdisted and with documentation.</sub>
 
 ### <samp>Re:</samp> Bugs 🪳
 
