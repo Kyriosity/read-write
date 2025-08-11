@@ -1,5 +1,3 @@
-# Future of the Software
-
 <p align="right">To make Gods laugh &thinsp;&mdash;&thinsp; share them your plans.<br />
 To amuse ET send them a Voyager full of ...<br />
 <s>To amuse Deutsche Bahn share your travel plans</s><br />
@@ -7,7 +5,9 @@ To make descendants roar in laughter, predict their living and post in a capsule
 
 🚧🚧🚧           DRAFT / PLACEHOLDER 🚧🚧🚧
 
-Don't let the hype eclipse the apparent: IT is decades in the **natural** stagnation.
+# Future of the Software
+
+Don't let the hype in all titles eclipse the apparent: software (as activity) is decades in the **natural** stagnation.
 
  (link to mobile among steampunk)
 
@@ -39,4 +39,4 @@ OOP,
 Dynamic,
 crypto
 
-🔚 2025 A.D.
+🔚 2025 A.D. ...
