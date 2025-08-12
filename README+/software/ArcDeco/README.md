@@ -18,9 +18,9 @@
 <table><tr valign="top"><td width="40%" align="center"><picture><img alt="&nbsp; &nbsp;External factors of SW creation" src="../../_rsc/_img/ArcDeco/SW-ext_factors-w333px.jpg" /></picture></td>
 <td>
    
-### These are <mark>external</mark> - optional and not, minor to strong, constructive and devastating (also neutral) — forces, factors, and drives.
+### These are <mark>external</mark> - optional and not, minor to strong, constructive and devastating (also neutral) &nbsp;&mdash;&nbsp; forces, factors, and drives ...
 
-#### <samp>Which, culturally speaking, mix, tint, blur, or shade (if not wash off) the four paints.</samp>
+#### <samp>W... which, culturally speaking, may enrich, mix, tint, blur, or shade (if not wash off) the four paints.</samp>
 
 ### <mark>Initiative</mark> and <mark>funding</mark> prop the picture. 
 
