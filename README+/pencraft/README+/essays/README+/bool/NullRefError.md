@@ -11,7 +11,7 @@ they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes 
 _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame of being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
 
-But nobody else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.\
+There was nobody else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.\
 ___________\
 <samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`, `dereferencing`, or none (just "null").
 
@@ -28,7 +28,7 @@ ___________\
 
 <sup>🎥</sup>&nbsp; If you __can't__ couple the 1950s subscripts **and** today's exceptions &nbsp;&mdash;&nbsp; you are **not** alone (and probably in a good company).
 
-`Null` is a logical consensus to designate not initialized values. There's no specific `boolean` or machine value for it. 
+There's no specific `boolean` or machine value for  `Null` &nbsp;&mdash;&nbsp; it's a logical consensus to designate not initialized values. 
 The error occurs chiefly when we, developers, overlook initializations &thinsp;&mdash;&thinsp; that's what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
 
 > * **You forgot to instantiate a reference type.**
