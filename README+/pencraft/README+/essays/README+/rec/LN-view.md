@@ -20,7 +20,7 @@ As a developer of Line-of-Business and corporate applications on Lotus Notes for
   src="../../../../../_rsc/_img/af/LN/LN-WS_snapshot(computerwoche.de).jpg" title="Screenshot of casual Lotus Notes R8 workspace&#013;&#010;(source: computerwoche.de)" /></picture>
 </td><td>
 
-Developers and sysadmins will remember genuine Rapid Application Development with fluent installation/evaluation<sup>🙋</sup> and leading-edge editors.
+Developers and admins will reminisce genuine Rapid Application Development with fluent installation/evaluation<sup>🙋</sup> and leading-edge editors.
 
 LN paved the public road to diverse innovations: client-server, multirole/group access, distributed/synchronized doc-oriented DB<sup>📜</sup>, **replication**<sup>⭐</sup>, asymmetric encryption from authorization down to selected fields on demand &thinsp;&mdash;&thinsp; to name a few of the extraordinary goodies.
 
@@ -42,11 +42,11 @@ SharePoint was deprived of many inherent vices of the Lotus pioneer and graduall
 &nbsp; &nbsp; <sup>📜</sup> <samp>Long before NoSQL became mainstream.</samp>\
 &nbsp; &nbsp; <sup>⭐</sup> <samp>Emphasized for rare ease, versatility, productivity, and robustness. Besides synchronizing DBs it allowed us to seamlessly use/develop LN offline, guarantee messaging, and merge design much simpler than in Git or TFS.</samp>\
 &nbsp; &nbsp; <sup>💰</sup> <samp>For a $3.5 billion - not a big deal nowadays, while made well before the 2000s when IT procurements had skyrocketed.</samp>\
-&nbsp; &nbsp; <sup>🍦</sup> <samp>It's not a top secret that IBM's cold shoulder urged many top Lotus engineers to leave.</samp>
+&nbsp; &nbsp; <sup>🍦</sup> <samp>It's not a top secret that IBM's cold shoulder urged many top Lotus contributors to leave.</samp>
 
 ## Postsriptum. Alternative history
 
-Notes had enough outdated and weak sides to surrender to the rival from Redmond (WA), but let's dream up how "surviving" LN could look.
+Notes had enough outdated and weak facets to surrender to the rival from Redmond (WA), but let's dream up how "surviving" LN could look.
 
 + **Storage as a sound object-relational model over IBM DB2**\
 Instead of an enclosed and specific Notes Storage Facility (NSF)<sup>💿</sup> 
