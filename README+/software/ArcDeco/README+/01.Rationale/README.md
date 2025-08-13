@@ -1,7 +1,7 @@
 # <sub>[![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md)</sub> &rarr; Rationale &thinsp;.&thinsp;.&thinsp;.
 
 <details><summary><ins>&nbsp; &nbsp;A metaphor you may skip&nbsp;</ins>&nbsp;.&thinsp;.&thinsp;.</summary>
-&nbsp; &nbsp; &nbsp;.&thinsp;.&thinsp;. but (thanks) you've clicked.
+&nbsp; &nbsp; &nbsp;.&thinsp;.&thinsp;. but thanks, you've clicked.
 
 <p dir="rtl">A cherry-picked <b>metaphor</b><br />simplifies explanation<br />.(at times even for readers)</p>
 
@@ -26,7 +26,7 @@ Stalemate — the project works, but it's challenging to add significant feature
 _Sacrifices_ mean not team members or customers, but refactoring (to give up a piece of achieved for the better).
 
 \___________\
-<sup>⬇️</sup> **Why development?** It lures you in with shortcuts and involves you in positional traps: techno details, design trade-offs, etc.
+<sup>⬇️</sup> **Why development?** It lures you in with shortcuts and involves you in positional traps: details, design trade-offs, techno deby etc.
 
 </td><td>
   
@@ -45,17 +45,15 @@ There are only three "moves" in programming: `AND`, `OR`, `NOT` over bits, but t
 <p>Passion wouldn't be enough to rise much higher &thinsp;&mdash;&thinsp; learning and understanding of theory become essential along with games against stronger opponents. &thinsp;&mdash;&thinsp;
 The number of games or written applications won't break the ceiling.<sup>👑</sup></p>
   
-In chess, theoretical roadmaps and schools lead to higher ratings, ruthlessly administering one's place. <b>Here, the metaphor breaks down.</b> 
+In chess, theoretical roadmaps and schools lead to higher ratings, ruthlessly and indisputably pointing out one's place. <b>Here, the metaphor breaks down.</b> 
 Software ways to craftsmanship are inscrutable and assessed by eye.
 
 ___________\
-<sup>👑</sup> <samp>Popular chess servers can brag about living legends (not bots) pausing for sleep only to continue incrementing an astronomical number of games. <br />Nevertheless their ELO ratings grow slightly above other amateurs.</samp>
+<sup>👑</sup> <samp>Popular chess servers can brag about living legends (not bots) pausing for sleep only to continue incrementing an astronomical number of games. <br />Nevertheless, their ELO ratings grow slightly above other amateurs.</samp>
 
 </td></tr></table></details>
 
-The path of _System Engineering_ begins with <b>enthusiasm</b> and goes through (if not ends in) <b>frustration</b>. The latter is inscribed with:
-
-<h3 align="center"><b><samp><mark>&thinsp;Why don't best development practices make great design by themselves?&thinsp;</mark></b></samp><br />
+<h3 align="center">The path of <i>System Engineering</i> begins with <b>enthusiasm</b> and goes through (if not ends in) <b>frustration</b>.<br />The latter is inscribed with:<br /><samp><mark>&thinsp;Why don't best development practices make great design by themselves?&thinsp;</mark></samp><br />
 <sub>(Developing excellent features, feeling the patterns and principles, and writing <a href="../../../QA/README+/code-quality.md">quality code</a>, 
   <br />but expectations end up with achieving just a passable project state.)</sub></h3>
 
@@ -82,15 +80,15 @@ Now veneer the frustration/anxiety facet with <ins>**rhetorical**</ins> _vs._ <i
 **More (de)motivation:**
   
 Successful projects from the neighboring materiality, less patchable and less reversible but much more fragile, may both hearten or intimidate:\
-Liquefied gas tankers, skyscrapers, airplane auto-navigation, implants, space telescopes, robotic lines ...
+**Liquefied gas tankers, skyscrapers, aviational auto-navigation, implants, space telescopes, robotic lines**, ...
 
-And these are your peers with different backgrounds who created them. «Not gods fired these pots.»
+And these are your peers with different backgrounds who created them: «Not gods fired these pots».
   
 </td></tr></table>
 
 <h2 align="center">O&thinsp;U&thinsp;R &thinsp; G&thinsp;O&thinsp;A&thinsp;L<br /> <mark>Bridge development to design</mark></h2>
 
-This requires **abstraction of** software **abstractionism** but with utilitarian intentions: 
+This requires **abstraction of** software **abstractionism** (intended tautology) but with utilitarian intentions: 
 detecting what helps and what harms in mundane code (that is, answers the <samp><i>WHY</i></samp>s and <samp><i>HOW</i></samp>s above).
 
 ### Objectives
