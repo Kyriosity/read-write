@@ -1,8 +1,8 @@
 # Programmatic Tests &nbsp; &mdash; &nbsp; DAMP <samp>NOT</samp> DRY
 
-<table><tr><td><p>Either <a href="../../asDrive">TDD<sup>e<b>V</b></sup></a> or <a href="../../asQA">proof</a> of the provided code, <b>a conventional approach</b> is to</p>
+<table><tr><td><p>Either <a href="../../asDrive">TDD<sup>e<b>V</b></sup></a> or <a href="../../asQA">proof</a> of the provided code: <b>a conventional approach</b> is to</p>
     <ul>
-        <li>pick a software <b>entity</b> (class, method, or something else),</li>
+        <li>pick a software <b>entity</b> (class, method, feature, module, or application),</li>
         <li>consider a significant <b>use case</b> of it,</li>
         <li>and write a <b>test method</b> over this.</li>
     </ul>
@@ -12,7 +12,7 @@
 </td></tr></table>
 
 Developing tests this way shall (☝🏼 no warranty) wrap features in pleasing _<b>D</b>escriptive <b>A</b>nd <b>M</b>eaninigful <b>P</b>hrases_ (_abbr._ <mark>&thinsp;<b>D&thinsp;A&thinsp;M&thinsp;P</b>&thinsp;</mark>).\
-&nbsp; &nbsp; <sub>Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario)<sup>🔗</sup> that wrap tests into phrases, which not only programmers but also sane people can comprehend.</sub>
+<samp>(Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario)<sup>🔗</sup> that wrap tests into phrases, which not only programmers but also sane people can comprehend.)</samp>
 
 Needless to point out the virtues of this approach, but one great flaw: <ins>&thinsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins>&thinsp;, fermented by
 
@@ -157,4 +157,4 @@ With all readability, the handicap is that the _test subjects_ are hidden in ext
 The alternative can be a condensed, terser syntax, like these ["coagulated" expressions](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/FeatTest/README.md#assert-by-assign).
 
 \___________\
-🔚 🌙 2024-2025
+🔚 🌙 2024-2025 ..
