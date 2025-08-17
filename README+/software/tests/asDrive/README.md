@@ -1,10 +1,10 @@
-# Software Creation &nbsp;&mdash;&nbsp; Drives &nbsp;&mdash;&nbsp; Tests
+# Software Creation &nbsp;&mdash;&nbsp; _Drives_ &nbsp;&mdash;&nbsp; Tests
 
 <p dir="rtl"><b>,TDD is easy<br />.I started it over 100 times</b><br /><i>(.Mark Twain</i> would say)</p>
 
-The hypothesis to write tests not only _a posteriori_ to validate available and running code but also prior &mdash; to guide development &mdash; can be rooted back to the **1950s**.<sup>👴</sup>
+The hypothesis to write tests not only _a posteriori_ to validate available and running code but also prior &thinsp;&mdash;&thinsp; to guide development &thinsp;&mdash;&thinsp; can be rooted back to the **1950s**.<sup>👴</sup>
 
-&nbsp; &nbsp; <sup>👴</sup> <samp>One of the best retrospectives is in [You won't believe how old TDD is](https://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/)<sup>🔗</sup>.</samp>
+&nbsp; &nbsp; <sup>👴</sup> <samp>A very good retrospective is in [You won't believe how old TDD is](https://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/)<sup>🔗</sup>.</samp>
 
 **Tests make abstract matters tactile and feasible.** Simplicity and versatility make **TDD** superb for insight into fuzzy topics (almost any new application, novel development, or features). 
 
@@ -26,8 +26,6 @@ They can work in both directions: to code the tasks and to decode the existing f
     <p align="center"><mark><b>&thinsp;How to implement&thinsp;</b></mark></p>
   <p align="center">TD<b>d</b>&nbsp;&nbsp;&nbsp;TDD<sup>e<b>V</b></sup>&nbsp;&nbsp;&nbsp;🧪⚙️<b>δ</b></p>
   </td></tr></table>
-
-
 
 \___________\
 🔚 🌙 2024-2025 ...
