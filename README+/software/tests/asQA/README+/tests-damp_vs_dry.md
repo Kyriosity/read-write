@@ -1,4 +1,4 @@
-# Programmatic Tests &nbsp; &mdash; &nbsp; DAMP <samp>NOT</samp> DRY
+# `Programmatic Tests` &nbsp;&mdash;&nbsp; DAMP <samp>NOT</samp> DRY
 
 <table><tr><td><p>Either <a href="../../asDrive">TDD<sup>e<b>V</b></sup></a> or <a href="../../asQA">proof</a> of the provided code: <b>a conventional approach</b> is to</p>
     <ul>
@@ -11,10 +11,10 @@
 <p><b>&larr;&nbsp;R&thinsp;E&thinsp;P&thinsp;E&thinsp;A&thinsp;T</b></p></td><td><p>After polishing the logic and wording,<br />consider and write other test cases.</p>
 </td></tr></table>
 
-Developing tests this way shall (☝🏼 no warranty) wrap features in pleasing _<b>D</b>escriptive <b>A</b>nd <b>M</b>eaninigful <b>P</b>hrases_ (_abbr._ <mark>&thinsp;<b>D&thinsp;A&thinsp;M&thinsp;P</b>&thinsp;</mark>).\
+### Writing tests this way shall<sup>☝🏼no warranty</sup> wrap features in pleasing <samp>DAMP</samp>: <samp><mark>D</mark>escriptive <mark>A</mark>nd <mark>M</mark>eaninigful <mark>P</mark>hrases</samp>.
 <samp>(Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario)<sup>🔗</sup> that wrap tests into phrases, which not only programmers but also sane people can comprehend.)</samp>
 
-Needless to point out the virtues of this approach, but one great flaw: <ins>&thinsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins>&thinsp;, fermented by
+#### Needless to point out the virtues of this approach, but one great flaw: <ins>&thinsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins>&thinsp;, fermented by:
 
 * the number of test cases, rows of test data (and their combinations),
 * re-testing of common functionality,
@@ -125,7 +125,7 @@ Advanced versions shall deal with _Arrange_ and _Act_ blending and branching, bu
 
 ### Posers
 
-Normalization doesn't apply well to advanced evaluation as [gradual asserts](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/unit_test-gradual_assert.md).
+Normalization doesn't apply well to advanced evaluation as [gradual asserts](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/tests-gradual_assert.md).
 
 ### Master cautions
 
