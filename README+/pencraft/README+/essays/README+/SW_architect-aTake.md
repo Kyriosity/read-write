@@ -231,9 +231,9 @@ Finally, salt all this: major projects don't develop _Pantheons_ but turn the fl
 
 \___________
 
-&nbsp; &nbsp;<sup>🔎</sup> <sub>To be fair, I picked "<mark>zoom <b>IN/OUT</b></mark>" from <picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture> [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) (thrivingtechnologist.com)</sub>\
-&nbsp; &nbsp;<sup>👩‍👦‍👦</sup> <sub>The tops of progressive platforms may be titled _architects_ or _leads_, but all of them show fluent coding skills at presentations.</sub>\
-&nbsp; &nbsp;<sup>🎦🔨</sup> <sub>Quotes provided by [imdb.com](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu).
+&nbsp; &nbsp;<sup>🔎</sup> <samp>To be fair, I picked "<mark>zoom <b>IN/OUT</b></mark>" from <picture><img src="../../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="link to YouTube video" /></picture> [What Software Architects Do That Programmers DON'T](https://youtu.be/IwrvE-wHm84?t=64) (thrivingtechnologist.com)</samp>\
+&nbsp; &nbsp;<sup>👩‍👦‍👦</sup> <samp>The tops of progressive platforms may be titled _architects_ or _leads_, but all of them show fluent coding skills at presentations.</samp>\
+&nbsp; &nbsp;<sup>🎦🔨</sup> <samp>Quotes provided by <sub>[![IMDb](https://img.shields.io/badge/IMDb-F5C518?logo=imdb&logoColor=000)](https://www.imdb.com/title/tt0234215/quotes/?ref_=tt_trv_qu)</sub>.</samp>
 
 <table><tr></tr><tr>
  <td>☝️</td><td>This essay doesn't split <i>architecture</i> and <i>design</i> (as everything over particular and imaginary applications/systems/constructions) while
