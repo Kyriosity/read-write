@@ -1,9 +1,9 @@
-# Architecture _and_ Architects
+# _Architecture_ &thinsp;and&thinsp; _Architects_
 
 <table><tr valign="top"><td><picture><img width="500px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.png" /></picture>
        </td><td>
 
-The essence of architecture appeared with constructions more extravagant and durable than a hut of piled branches &thinsp;&mdash;&thinsp; say, megaliths.
+The essence of architecture appeared with constructions more extravagant and durable than a hut of piled branches &thinsp;&mdash;&thinsp; namely, with megaliths.
 
 ### Certain ancient Hellenes were so prominent at building sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &thinsp;&mdash;&thinsp; the term romanized to <i>architecture</i> centuries later.
 
@@ -216,7 +216,7 @@ It distinguishes the position from slurred experts, team leads (thought of as ad
 
 Neither _**guru**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> will sound that coherent.
 
-<div align="right">___________<br /><sup>🙋</sup> <samp>Advent of Chief Architects signals that this term also corrodes.</samp></div>
+<div align="right">___________<br /><sup>🙋</sup> <samp>Advent of _Senior_, _Chief_, _Solution_ Architects signals that this title also corrodes.</samp></div>
 <br />
 <table><tr /><tr><td>👉🏿</td><td>
 
@@ -225,7 +225,7 @@ Neither _**guru**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogr
 </td></tr></table>
 
 ## &nbsp;
-Finally, salt all this: major projects don't develop _Pantheons_ but turn the flagstones of _Stonehenge_: cast requirements to known and tried solutions with a decent input of cutting-edge stuff, invention, and artistism.
+#### Finally, salt all this: major software projects don't raise P<samp>ANTHEONS</samp> but turn dusty flagstones of the local S<samp>TONEHENGE</samp>: cast requirements to known and tried solutions with a decent input of cutting-edge stuff, invention, and artistism.
 
 <div dir=rtl><samp>"<b>.SMITH WILL SUFFICE</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
 
