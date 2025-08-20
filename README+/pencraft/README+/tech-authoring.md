@@ -3,22 +3,22 @@
 <p dir="rtl">?<i>Want to write fast, catching, and pro<br>.Hire a ghostwriter</i><br />
 [Best author advice]</p>
 
-> **Certain software products and technologies deserve the work of a pen or brush.**\
-> **The rank of such work may be a decision factor Nr&nbsp;1 for the usage of/funding for its subject: either attract or divert for good.**
+> ### Certain software products and technologies deserve the work of a pen or brush.
+> #### The rank of such work may be a decision factor Nr&nbsp;1 for the usage&nbsp;of&thinsp;/&thinsp;funding&nbsp;for its subject:<br />either attract or divert for good.
 
-Technical authoring lies between documentation and literature and must have an artistic feel, rich vocabulary, and allure of the latter in frames of technical topics.
+### Technical authoring lies between documentation and literature and must have an artistic feel, rich vocabulary, and allure of the latter in frames of technical topics.
 
 > [!WARNING]
 > For technically bright heads, freestyle authoring may seem deceptively easygoing: 
-> * The tongue is the only tool sharpened in use.
-> * Creative opus won't produce compilation errors.
-> * Drawing is what everybody has already learned in childhood.
-> * Themes and plots are more available than to be invented.
+> * 🗣️ The tongue is the only tool sharpened in use.
+> * 🎼 Creative opus won't produce compilation errors.
+> * 🖼️ Drawing is what everybody has already mastered in kindergarten.
+> * 🎁 Themes and plots are more available than to be invented.
 >
 > However, noble lines of words are much more sophisticated and painful than excellent code or engineering blueprints.\
 > An astute reader will notice poor or mediocre style at  first sight.
   
-<span title="&nbsp; What You See Is What You Write"><ins>WYSIWYG</ins></span> of the opus and rapidity of writing can create square miles of 'pulp'. 
+<span title="&nbsp; What You See Is What You Write"><ins>WYSIWYG</ins></span> of the opus and rapidity of writing can create square miles of "pulp". 
 The 2020s decade of LLM-generated content has even boosted such "coverage" and significantly raised the bar for authentic words and pictures.
 
 ## Pitfalls
@@ -28,7 +28,8 @@ The worst enemies of authorship are:
 - repetitions (words, phrases, and cliches),
 - monotonous volume (wordiness),
 - formalism and indifference to the subject/result,
-- 🚧🚧🚧🖋️🚧🚧🚧 
+- 🚧🚧🚧🖋️🚧🚧🚧
+- **lack of paragraphs**
 
 ## Recipies 
 
@@ -50,7 +51,7 @@ The Internet swarms with advice, hints, and guidelines for writing &thinsp;&mdas
 
 Listening to any lecture (live or recorded), course, or discussion can rescue you from stagnation. It forces you to accept other points of view and urges you to contend and generate your arguments mentally.
 
-> It's not an invitation to plagiarism - just the opposite. You may find that an idea is already covered, and put it in a source reference.
+> It's not an invitation to plagiarism - just the opposite. You may find that an idea is already covered, and you can cite it in a source reference.
 
 ### Library
 
@@ -62,5 +63,4 @@ Listening to any lecture (live or recorded), course, or discussion can rescue yo
   <p>Randomly opened mathematical books helped me to polish the <a href="essays/README+/SW_architect-aTake.md">Architect(ure)</a>. (Yeap, that essay could be worse.)</p>
 </td></tr></table>
 
-🔚 🧂 <sub>The portion of truth in the epigraph is the quiet but blooming "ghostwriting" market.</sub>
-
+🔚 🧂 <samp>The portion of truth in the epigraph is the quiet but blooming "ghostwriting" market.</samp>
