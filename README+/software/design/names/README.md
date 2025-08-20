@@ -1,11 +1,11 @@
-<p dir="rtl"><i>«...&nbsp;In the beginning was the Word</i>»</p>
+<h3 dir="rtl"><i>«&thinsp;.&thinsp;.&thinsp;.&nbsp;&thinsp;In the beginning was the Word</i>&thinsp;»&thinsp;</h3>
 
-# Software &nbsp;&mdash;&nbsp; Naming and Categorization
+# Software &nbsp;&mdash;&nbsp; Naming <samp>and</samp> Categorization
 
 <table><tr valign="top"><td width="25%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
   
-### Denomination of titles _and_ classification is a pivotal but underrated activity <ins>in any exploration</ins>.
+### Denomination of titles _and_ classification is a pivotal but underrated activity <ins>in&nbsp;any&nbsp;exploration</ins>.
   
 #### In software, names with categories, which smoothly guide developers through the design and make coding intuitive, are often taken for granted.
 
@@ -16,7 +16,7 @@
 
 ## Categorization
 
-_Categorization_ (aka _classification_) is more profound than breaking collocations and sentences and building the folder hierarchy. &thinsp;&mdash;&thinsp; **It&nbsp;frames abstractions.**
+_Categorization_ (aka _classification_) is more profound than breaking collocations and sentences and building the folder hierarchy &thinsp;&mdash;&thinsp; **it&nbsp;frames abstractions.**
 
 If folks could categorize myriads of wretched boulders in the _Oort cloud_ and paltry insects, it must not be a big deal for unique by-nature software entities.
 
