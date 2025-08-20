@@ -1,23 +1,22 @@
 <h1 align="center">Pen & Brush craft &nbsp;&mdash;&nbsp; Technical writing</h1>
 
-<table width="80%" align="center"><tr></tr><tr><td>
+<table align="center"><tr></tr><tr><td>
 
-✒️&thinsp;**&**&thinsp;🎨
+# ✒️&nbsp;🎨
   
 </td><td>
 
-[__Documentation__](README+/tech_docu.md)<sup>📄</sup> and [__authoring__](README+/tech-authoring.md)<sup>🖊️</sup> are two very dissimilar employments of writing and painting skills<br />
-with opposing values of formalism, creativity, envisaging, and styles.
+### [__Documentation__](README+/tech_docu.md)<sup>📄</sup> and [__authoring__](README+/tech-authoring.md)<sup>🖊️</sup> are two very dissimilar employments of writing and painting skills with opposing values of formalism, creativity, envisaging, and styles.
 
 </td></tr></table>
 
 The principled distinction is __*driven*__ vs __*drives*__:
 
-* <mark>Documentation</mark> is **on-demand**/request derivative of a product or service, must follow templates, and shall be (auto-)generated and reused as much as possible.<sup>📖</sup>\
+* <mark>**Documentation**</mark> is **on-demand**/request derivative of a product or service, must follow templates, and shall be (auto-)generated and reused as much as possible.<sup>📖</sup>\
 &nbsp; &nbsp; &nbsp; &nbsp;<sup>📖</sup> <sub>A strict _User manual_ of hazardous tools is an exemplary story.</sub>\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub>Microsoft [documentation](https://learn.microsoft.com/) follows this line but, honestly, this doesn't help to "🪟<b>Learn</b>".</docu>
 
-* <mark>Authoring</mark> is **initiative**, must take a bird's view of the subject, inspire and explain sophisticated and regulated ideas in an abstractive, friendly, and sometimes informal/playful manner.
+* <mark>**Authoring**</mark> is **initiative**, must take a bird's view of the subject, inspire and explain sophisticated and regulated ideas in an abstractive, friendly, and sometimes informal/playful manner.
 
 <ins>**Documentation**</ins> assumes defined, if not available, subjects (as software applications), while <ins>**authoring**</ins> may begin with a pure idea. (Enough technical _oeuvres_, such as concepts of relational DBs or REST, were based on "paper" concepts with little or no implementation.)
 
@@ -53,7 +52,7 @@ Namely, formalization and structuring compel us to reexamine and refine concepts
   «The difficulty of writing <b>English</b><br />is most tiresome to me.»<br />
 <i>Charles Dickens</i>, 1850</span> [and me, XXI]</p>
 
-**The writings and collections here are** ...
+### The writings and collections here are ...
 
 * The subject of **private** taste, inclination, vision, and fallacies. It's up to you to look them over or recoil in distaste.
 * The subject of **continuous** delivery (i.e., endless edit and modification).\
