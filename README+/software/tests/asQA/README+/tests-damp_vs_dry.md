@@ -11,20 +11,23 @@
 <p><b>&larr;&nbsp;R&thinsp;E&thinsp;P&thinsp;E&thinsp;A&thinsp;T</b></p></td><td><p>After polishing the logic and wording,<br />consider and write other test cases.</p>
 </td></tr></table>
 
-### Writing tests this way shall<sup>☝🏼no warranty</sup> wrap features in pleasing <samp>DAMP</samp>: <samp><mark>D</mark>escriptive <mark>A</mark>nd <mark>M</mark>eaninigful <mark>P</mark>hrases</samp>.
+### Writing tests this way shall<sup>☝🏼no warranty</sup> wrap features in pleasing <mark>&thinsp;D&thinsp;A&thinsp;M&thinsp;P&thinsp;</mark> (<samp><mark>D</mark>escriptive <mark>A</mark>nd <mark>M</mark>eaninigful <mark>P</mark>hrases</samp>).
 <samp>(Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario)<sup>🔗</sup> that wrap tests into phrases, which not only programmers but also sane people can comprehend.)</samp>
 
-#### Needless to point out the virtues of this approach, but one great flaw: <ins>&thinsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins>&thinsp;, fermented by:
+#### Needless to point out the virtues of this approach, but one big flaw: <ins>&thinsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins>&thinsp;, fermented by:
 
-* the number of test cases, rows of test data (and their combinations),
-* re-testing of common functionality,
-* repeating steps for alternative actions or different asserts.</p>
+* the number of test cases, rows of test data, and their combinations,
+* re-testing of common functionality (units of test aren't atomic),
+* reiterated arrangement steps for alternative actions or different asserts.</p>
 
 <table><tr><td><picture><img alt="&nbsp;Black box of test (not of application)" src="../../../../_rsc/_img/memes/ItTestsSmth.jpg" /></picture>
 </td><td>
-<p>The early layout will create a sound core, verifying code essentials and describing the application (some documentation is still required).</p>
-<p>More and more tests will slightly but steadily dissolve this core into a badly maintainable bulk. With scrappy coverage, accumulated negligence, and impeded navigation.</p>
-    <p>The refactoring counterblast is to <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> (<i><b>D</b>on't <b>R</b>repeat <b>Y</b>ourself</i>).</p>
+
+First batches of tests will create a sound core, verifying code essentials and helping to describe the application along with documentation.
+
+More and more tests will slightly but steadily dissolve this core into a badly maintainable bulk. With scrappy coverage, accumulated negligence, and impeded navigation.
+
+### The refactoring counterblast is to <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> (<samp><mark>D</mark>on't <mark>R</mark>epeat <mark>Y</mark>ourself</samp>).
 </td></tr></table>
 
 <h1 align="center">DRY it &nbsp;&mdash;&nbsp; A<samp>RRANGE</samp></h1>
@@ -94,7 +97,7 @@ For example, consider native methods as `string.IsNullOrWhitespace(..)` for eith
 
 Repeating arrangements for miscellaneous _Asserts_ is a growth steroid. 
 And there can be even a deeper negative side effect &thinsp;&mdash;&thinsp; a small error can trigger a salvo of failing tests. 
-Such a salute will hardly provide a clue but rather hide it in dependencies - inevitable even with granulated and isolated units and best-structured folders.
+Such a salute will hardly provide a clue, but rather hide it in dependencies - inevitable even with granulated and isolated units and best-structured folders.
 
 ## 💡I<samp>DEAS</samp>💡
 
@@ -105,8 +108,8 @@ Such a salute will hardly provide a clue but rather hide it in dependencies - in
 A summoned general was eager to recount seven reasons, he knew, but was shortly interrupted with\
 <samp>«Already one is more than enough for me».</samp>
 >
-> The same Albert Einstein replied to "One Hundred Authors Against Einstein", 1931:\
-> <samp>"If I were wrong, it would only take one."</samp>\
+> The same, the prominent physicist replied to [_"One Hundred Authors Against Einstein", 1931_](https://archive.org/details/HundertAutorenGegenEinstein):\
+> <samp>"If I were wrong, it would only take one."</samp> (an unproven but based quote)\
 > &nbsp;
 
 </details>
