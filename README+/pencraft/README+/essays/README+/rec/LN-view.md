@@ -63,11 +63,11 @@ Lotus developers _nolens volens_ coded in the out-of-date and too elementary _Lo
 
 Even a greater option would be creating an object-oriented flavor of `JavaScript` for both front-end (to replace also `@formula`) and back-end (LN applications weren't exceedingly demanding for performance and semantics).
 
-### 🌩️ Single-Page Web-Application as the only user client
+### 🌩️ Web-browser as the only user client
 
 Although Notes Server could render applications on HTTP since 1996, designing forms required much fine-tuning with HTML/JS. **XPages** (since R8.5) came too late and were half-hearted.
 
-The solution would be to eliminate desktop premises and replace them with a browser solution akin to Angular or React. 
+The solution would be to eliminate desktop premises and replace them with a web solution akin to Angular or React. 
 
 ### 📎 Seamless UI integration of office parts
 
