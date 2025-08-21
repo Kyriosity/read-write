@@ -109,7 +109,7 @@ A summoned general was eager to recount seven reasons, he knew, but was shortly 
 <samp>«Already one is more than enough for me».</samp>
 >
 > The same, the prominent physicist replied to [_"One Hundred Authors Against Einstein", 1931_](https://archive.org/details/HundertAutorenGegenEinstein):\
-> <samp>"If I were wrong, it would only take one."</samp> (an unproven but based quote)\
+> <samp>"If I were wrong, it would only take one."</samp> (quoted in "A Brief History of Time", 1988, _Stephen Hawking_ )\
 > &nbsp;
 
 </details>
