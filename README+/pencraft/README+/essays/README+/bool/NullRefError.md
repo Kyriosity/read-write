@@ -5,15 +5,14 @@
 <table><tr valign="top">
 <td>
 
-Its outbreaks appear literally from `nothing` and are too common to call them just `exceptions` &thinsp;&mdash;&thinsp; 
-they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _vs._ data clouds, and spare neither junior nor seasoned developers.
+#### Its outbreaks appear literally from `nothing` and are too common to call them just `exceptions` &thinsp;&mdash;&thinsp; they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _vs._ data clouds, and spare neither junior nor seasoned developers.
 
-_Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../../quotes/README+/contributors/README.md#tony-hoare) voluntarily took the blame of being this _Frankenstein_ who brought the 
+_Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../../quotes/README+/contributors/README.md#tony-hoare) willingly took the blame of being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
 
-There was nobody else _Great_ can cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.\
+But nobody else _Great_ has volunteered to cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.\
 ___________\
-<samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`, `dereferencing`, or none (just "null").
+<samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`, `dereferencing`, or none (just "null" itself).
 
 </td>
 <td align="right">
@@ -36,7 +35,7 @@ The error occurs chiefly when we, developers, overlook initializations &thinsp;&
 > * **You get a null return value from a method, and then call a method on the returned type**\
 > ... and so on.
 
-There's no null or broken reference, which sends our objects and values to nowhere. That's our fault.
+There's no null or broken reference, which sends our objects and values nowhere. That's our fault.
 
 <h2 align="center">Much Ado About <code>Nothing</code>❓</h2>
 
