@@ -39,14 +39,14 @@ There's no null or broken reference, which sends our objects and values nowhere.
 
 <h2 align="center">Much Ado About <code>Nothing</code>❓</h2>
 
-<table><tr></tr><tr align="center"><td width="40%"><b>Y&thinsp;E&thinsp;S</b></td><td width="20%" >and</td><td width="40%" ><b>N&thinsp;O</b></td>
+<table><tr></tr><tr align="center"><td width="40%"><b>Y&thinsp;E&thinsp;S</b></td><td width="20%" ><b><samp>A&thinsp;N&thinsp;D</samp></b></td><td width="40%" ><b>N&thinsp;O</b></td>
 </tr><tr valign="center"><td>
   
 Null reference isn't a CPU (or memory) vulnerability as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that no software patch can fix.
 
 It's not even comparable to the Y2K problem, which stemmed from explicit negligence (and was eliminated with an obvious and simple date format enhancement).
 
-Logical errors of different origins caused botched global updates, blackouts, and catastrophic failures, when exception names play a secondary role. 
+Logical errors of different origins caused botched global updates, blackouts, and catastrophic failures when exception names play a secondary role. 
 
 Another specific type multiplied and spread many disasters &thinsp;&mdash;&thinsp; and it is no sign of exception or error.
   
