@@ -2,8 +2,8 @@
 
 <table><tr valign="center"><td align="center">🌧️🌦️⛈️🌨️🌧️🌫️
 <picture><img width="150px" alt="&nbsp;Y-fork: black on yellow" src="../../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>
-   <p>In rainy July 2024 ...</p>
-</td><td><p>... I was bicycling to hear a casual <b>TD<mark>D</mark></b> lecture as doubts crept in &mdash; where am I going:</p>
+   <p>In the rainy July 2024 ...</p>
+</td><td><p>... I was bicycling to hear a casual <b>TD<mark>D</mark></b> lecture as doubts crept in &thinsp;&mdash;&thinsp; where am I going:</p>
    <p align="center">Must this <mark><b>D</b></mark> be for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
 <p>It wasn't about the destination of this ride but the principal divergence. 
 (For the record, the title of the lecture resonated with my anxiety: «<i>Failed with TDD? Here, you know why.</i>»)</p>
@@ -11,7 +11,7 @@
    <p align="center"><b>b&thinsp;u&thinsp;t&thinsp; .&thinsp;.&thinsp;.</b/></p>
 </td><td><picture><img alt="&nbsp;LONG READ" src="../../../../../_rsc/_img/signs/LongRead/plates/plsStayOn.jpg" /></picture></td></tr></table>
 
-The de-abbreviation raised another doubt: Where's _Design_? &mdash; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...<sup>🙋</sup>\
+### The de-abbreviation raised another doubt: Where's _Design_? &thinsp;&mdash;&thinsp; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...<sup>🙋</sup>
 &nbsp; &nbsp;<sup>🙋</sup> <sub>Despite the energetic recherche, I couldn't go through the best part of the treatises. There must be better findings, and there could be better alternative conclusions.</sub>
 
 Presentations and lectures favored _development_ with _design_ as a natural<sup>🌵</sup> spin-off, not much bothered about distinction, and some exploited both terms interchangeably. 
@@ -107,7 +107,7 @@ Must present the intention and motivation for development, and must be as user-f
 </td><td>
 <p align="center"><b>Technicalized</b></p>
 
-Test coverage actually with a slant to find elaborate error cases.
+Test coverage, actually, with a slant to find elaborate error cases.
 
 </td></tr>
                                                       <!--            CHECKLIST / CHEATSHEET    -->
@@ -115,7 +115,7 @@ Test coverage actually with a slant to find elaborate error cases.
 <td align="center" colspan="2"><b>C&thinsp;h&thinsp;e&thinsp;c&thinsp;k&thinsp;l&thinsp;i&thinsp;s&thinsp;t</b></td></tr>
 <tr valign="top"><td>
    <div>✔️&thinsp;Compilable syntax demos are enough.</div>
-<div>✔️&thinsp;Non-compilable too &mdash; <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-posers.md#non-comp-calls">on purpose</a>.</div>
+<div>✔️&thinsp;Non-compilable too &thinsp;&mdash;&thinsp; <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-posers.md#non-comp-calls">on purpose</a>.</div>
       <div>✔️&thinsp;<b>Optional</b>: light backup functionality<br />(like stubs to return instead of <code>nulls</code>).</div>
    <div>✔️&thinsp;Top logical categorization of tests</div>
    <div>✔️&thinsp;Define contours of test data</div>
@@ -183,7 +183,7 @@ As usual, the same highlight can be an advantage and a drawback/handicap. Let's 
 
 ### Layering and division of design
 
-It doesn't need explanation as an advantage, but its cons can doom a project. "Front parts" must never get the higher priority (this will build drip castles).
+It doesn't need explanation as an advantage, but its cons can doom a project. "Front parts" must never get a higher priority (this will build drip castles).
 
 The great enthusiasm may lead to definitions of parts, which would never be finished or even worse &thinsp;&mdash;&thinsp; overload development, derrogate it and dissolve design.
 
@@ -195,7 +195,7 @@ It needs no introduction, but to stress a couple of points:
 + Present the concept ASAP.
 + Adjust/swap layers of logic.
 
-🙁 Activities may become too split. The "front" team may underestimate the bulk of implementation items they create. Guys in implementation hats may feel themselves as pure workforce. 
+🙁 Activities may become too split. The "front" team may underestimate the bulk of implementation items they create. Guys in implementation hats may feel themselves as a pure workforce. 
 
 Solution? Roles swap and permanent direct feedback.
 
