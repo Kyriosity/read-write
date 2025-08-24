@@ -31,7 +31,7 @@ Regardless of the mission, significant writing is an **expensive** and **exhaust
 (consider quickly sketched presentation, captured video tutorial, or even watercooler talks)
 + [x] be long-term (updated and evolved).
 
-## Vital side effects
+## Vital side effects / Windfall
 
 <table><tr>
  <td>
