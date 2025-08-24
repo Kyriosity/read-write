@@ -4,9 +4,10 @@
 <a href="https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#p1-express-ideas-directly-in-code">C++ Core Guidelines</a></p>
 
 <p dir="rtl">,<i>When you feel the need to write a comment<br />first try to refactor the code so that<br />.any comment becomes superfluous</i><br />
- <a href="../../../pencraft/README+/quotes/README+/contributors/README.md#Kent-Beck">Kent Beck</a>, "Refactoring", <b><i>1999</i></b></p>
+ <a href="../../../pencraft/README+/quotes/README+/contributors/README.md#Kent-Beck">Kent Beck</a>, "Refactoring", 1999</p>
 <p align="right">___________</p>
 <p align="right">When code resembles a manuscript<br /> consider writing the documentation.</p>
+<p align="right">___________</p>
 
 > **Comments can be eye-catching and essential, but signal design inconsistency and poor naming.**<sup>🙋</sup>
 
@@ -50,7 +51,7 @@ Tests shall fragment distinctions but are not comfortable for hints and unavaila
 
 > **Then a comment can be necessary to appear as a hint.**
 
-(And such comments shall be reserved for interfaces.)
+(And such comments shall be reserved for interfaces/core public entities.)
 
 <picture><img alt="&nbsp;Tip for MiscSymbols listing these symbols" src="../../../_rsc/_img/snap/screen/VisualStudio/Tip-MiscSymbols.jpg" /></picture>
 
@@ -63,7 +64,7 @@ It might be just three slashes `///` or a team may decide on acronyms like:
 &nbsp; &nbsp; `///ALT` — alternative implementation \
 &nbsp; &nbsp; `///ERR` — doesn't work\
 &nbsp; &nbsp; `///EXC` — causes an exception\
-&nbsp; &nbsp; `///IDEA` — It was a fast sketch which one may simplify or elaborate\
+&nbsp; &nbsp; `///IDEA` — It was a fast sketch, which one may simplify or elaborate\
 &nbsp; &nbsp; `///LOL` — i did it for lulz
 
 
