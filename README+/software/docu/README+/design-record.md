@@ -1,14 +1,15 @@
 # Software &nbsp;&mdash;&nbsp; Design &nbsp;&mdash;&nbsp; Documentation
 
-[Quality code](../../QA/README+/code-quality.md) with profound and thoroughly categorized [names](../../design/names) must explain design brainchilds in intuitive manner. 
-Liably written [design-defining-tests](../../design/drive/) must smoothly introduce them. And nothing is more suitable for reverse engineering (manual or automatic) than source code. 
++ ### [Quality code](../../QA/README+/code-quality.md) with profound and thoroughly categorized [names](../../design/names) must explain design brainchilds in intuitive manner. 
 
-<h2 align="center">.&nbsp;.&nbsp;.</h2>
++ ### Liably written [design-defining-tests](../../design/drive/) must smoothly introduce them. And nothing is more suitable for reverse engineering (manual or automatic) than source code. 
 
-**The above-mentioned measures alone will gradually become tougher and steeper (until it hits the wall of the perfectionism exponent) and won't reveal remarkable design/architecture intentions. 
+<h2 align="center">but &nbsp;.&nbsp;.&nbsp;.</h2>
+
+**The above-mentioned measures alone will gradually become tougher and steeper (until they hit the wall of the perfectionism exponent) and won't reveal remarkable design/architecture intentions. 
 It's warped to unfold the big canvas of abstractions.**
 
-In reality, the code will be partly or greatly obscure and tests will lack clarity and both &thinsp;&mdash;&thinsp; seamless categorization. 
+In reality, the code will be partly or greatly obscure, and tests will lack clarity and both &thinsp;&mdash;&thinsp; seamless categorization. 
 Code prose and time will bury grand (no sarcasm intended) design decisions <mark>unless highlighted with a pen</mark>.
 
 Explorers may also overestimate weak decisions and search for deep meaning in shallow parts.
@@ -124,4 +125,4 @@ Disadvantage: it's a one-time exercise that takes hours from most competent team
 Taking advantage of the disadvantage: everybody learns how to present the design and see its strong and weak sides.
 
 \___________\
-🔚 ... **Continued in ✒️[P<samp>ENCRAFT</samp>](../../../pencraft/README.md)**. ... 🌘 2023-2025
+🔚 ... **Continued in ✒️[P<samp>ENCRAFT</samp>](../../../pencraft/README.md)**. ... 🌘 2023-2025 ..
