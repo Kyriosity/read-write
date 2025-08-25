@@ -1,7 +1,8 @@
 <h1 align="center"><samp>SOFTWARE CREATION</samp> &nbsp;&mdash;&nbsp; D&thinsp;r&thinsp;i&thinsp;v&thinsp;e&thinsp;s</h1>
 
-> **What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names. 
-Even _functional programming_ is a driven approach.**
+> ### What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names. 
+
+#### Even _functional programming_ is a driven approach.
 
 <details align="center"><summary><ins>&nbsp;<b>Fancying more items on both sides of <samp>DRIVEN</samp> will scheme a grotesque gearbox&thinsp;:</b>&thinsp;</ins>&nbsp;⬇️</summary>
 <br />
@@ -10,7 +11,7 @@ Even _functional programming_ is a driven approach.**
 
 <p align="center">⬆️&thinsp;<mark><b>Let's figure out what to do with this mess...</b>&thinsp;⬇️</mark></p>
 
-# Drive, let drive, and let be driven
+# _Drive_, let _drive_, and let be _driven_
 
 Let's reserve individual surveys of <ins><b>&thinsp;<samp>ONE-WAY</samp> 1&thinsp;:&thinsp;1&thinsp;</b></ins> to voluminous books and techno-evangelists. They do a great job of formalization (including methodologies) and popularizing exclusive approaches, which may prevail in particular initiatives.
 
@@ -44,13 +45,18 @@ For example, Development Driven/Crippled Design from the gross use of _Test Driv
 </picture><br />
 <i>Bounded Contexts</i>
 </td><td>
-<p>If <i>domain-driven</i> is a distinct approach, there must be alternatives without that. And I <b>doubt there are</b>...</p>
-<p></p>Software as a phenomenon abstracts domains, explicitly or implicitly, from nothing else. Domain Drive is a permanent force (like the gravitation of abstractions).</p>
-<p>One of the motives and benefits of object-oriented design is that it directly maps to domains, though one may break it with wrong and overladen hierarchies and bad naming.</p>
+  
+If <i>domain-driven</i> is a distinct approach, there must be alternatives without that. And I <b>doubt there are</b>...
+
+### Software as a phenomenon abstracts domains, explicitly or implicitly. _Domain Drive_ is a permanent force (like the gravitation of abstractions).
+
+One of the motives and benefits of object-oriented design is that it directly maps to domains, though one may break it with wrong and overladen hierarchies and bad naming.
+
 <blockquote><p>DDD-tempered code is adverse to names such as <code>utility</code>, <code>service</code>, <code>handler</code>, or <code>data</code> (unless these are conventions of platforms/frameworks).</p></blockquote>
 
 <p align="center"><b>I can't help bringing even more heresy:</b></p>
-<p><b>D&thinsp;D&thinsp;D&thinsp;</b> is so innate that studying it is like learning the alphabet of spoken tongues. Flipped in the mirror and with a deep analysis of segments.</p>
+
+<b>D&thinsp;D&thinsp;D&thinsp;</b> is so innate that studying it is like learning the alphabet of spoken tongues. Flipped in the mirror and with a deep analysis of segments.
 </td></tr></table>
 
 ### R&thinsp;E&thinsp;V&thinsp;E&thinsp;R&thinsp;S&thinsp;E&nbsp; there?
@@ -67,7 +73,7 @@ Many other systems are projections of rudimentary software possibilities before 
 
 # Test drive
 
-**T&thinsp;D&thinsp;D** is the oldest, still most talked over and practiced approach and earned its own corner, even the hall❗, in the [Tests area](../../tests).
+**T&thinsp;D&thinsp;D** is the oldest, still most talked over and practiced approach and earned its own corner, even the hall❗, in the [**Tests area**](../../tests).
 
 ### To digest
 
