@@ -1,6 +1,6 @@
-# Design &nbsp;&mdash;&nbsp; Samples<sup>♟️</sup><samp>🧮</samp><sup>🎨</sup><sub>🧱</sub>
+# Design &nbsp;&mdash;&nbsp; Model &nbsp;&mdash;&nbsp; S<samp>AMPLES</samp><sup>♟️</sup><samp>🧮</samp><sup>🎨</sup><sub>🧱</sub>
 
-The planning and presentation of general-purpose software features require a pictorial and encouraging background. We'll often rely on the next samples:
+The planning and presentation of general-purpose software features require a pictorial and encouraging [modelling](../parts/README+/app-model.md) playground. We'll often rely on the next samples:
 
 # <a id="chess"/>♟️&thinsp;<ins>C<samp>&thinsp;H&thinsp;E&thinsp;S&thinsp;S</samp></ins> &nbsp;&mdash;&nbsp; [<samp>Math<samp>](#math) &nbsp;&mdash;&nbsp; [<samp>Images</samp>](#images) &nbsp;&mdash;&nbsp; [<samp>Stills</samp>](#stills)
 
@@ -87,15 +87,13 @@ Actions vary from simple (flip, rotate) to highly processed retouching or effect
 ___________<br />
 <b>John Fowles</b> (1926-2005), <i>(post)modernist</i></p>
 
-**First and foremost**, software design asks for <ins>"static" plain bare figures</ins>, which make core models. The preceding samples are more in motion ("dynamic") &mdash; they have properties and hierarchies but are more demonstrative of processes that change them.
+**First and foremost**, software design asks for <ins>"static" plain bare figures</ins>, which make core models. The preceding samples are more in motion ("dynamic") &thinsp;&mdash;&thinsp; they have properties and hierarchies but are more demonstrative of processes that change them.
 
 "Static" models can be altered and async too, but they must demonstratively represent hierarchies, parametrization, and initialization. 
 
 Writing/books may be a perfect case, and the neighbor repo use-dev➡️ explores how to make them [more flexible](https://github.com/Kyriosity/use-dev/blob/main/README+/techniques/README+/polymorphism+/README+/prop_shift.md) and implements them in [AbcModels](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels).
 
----
-
-<table><tr><td><picture><img alt="&nbsp; WRAP UP" src="../../../_rsc/_img/signs/WrapUp/counter-rotate/50x200.jpg" /></picture></td><td>
+<table><tr><td><picture><img width="75px" alt="&nbsp; WRAP UP" src="../../../_rsc/_img/signs/WrapUp/counter-rotate/50x200.jpg" /></picture></td><td>
 
 Developers can select a sample or model that fits the features under development and implement (or reuse) prototypes with tests. 
 
