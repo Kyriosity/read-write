@@ -1,15 +1,15 @@
-# Application: Model &nbsp;&mdash;&nbsp; _Reminder_
+<h1 align="center">Application: Model &nbsp;&mdash;&nbsp; <i>Reminder</i></h1>
 
-The _Model_, though a rather obscure term, is a **cornerstone** of software engineering, which shapes and formalizes entities and tasks of the application.
+> ### The _Model_, though a rather obscure term, is a <samp><ins>CORNERSTONE</ins></samp> of software design. It shapes and formalizes entities and tasks of the application.
 
-A model may range from the dumbest `new Brick { w = 20, d = 12, h = 6,5 }` up to a universe of media franchises, from private proof of concept to enterprise solution, and from bubble sort to 3D engine.
+#### A model may range from the dumbest `new Brick { w = 20, d = 12, h = 6,5 }` up to a universe of media franchises, from private proof of concept to enterprise solution, and from bubble sort to 3D engine.
 
-## Insight into model data
+## Insight into _Model_ data
 
 First and foremost, _model_ is not identical to _data_, it's a vital but optional part. A model may render non-memorized processing (e.g., input and output of hash calculation).
 
 Model data can be a homogeneous monolith of primitive data types, as well as distributed and heterogeneous high-level abstractions.\
-Serving not only business or other primary data but may present collateral settings, statistics, roaming, or temporary storage.
+Serving not only business or other primary data, but may also present collateral settings, statistics, roaming, or temporary storage.
 
 It can be:
 
@@ -40,7 +40,11 @@ The model shall be thread- and async-friendly, even if it's not required.
 
 :construction: TO BE CONTINUED w/ EXAMPLES :construction:
 
-**Further reading:**\
-|- ➡️[Tasks as models](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/think_in_tasks/README.md) (use-dev)
+**Further:**\
+|&thinsp;- [Samples](../../samples/README.md)♟️🧮🎨\
+|&thinsp;- **use-dev**➡️\
+|&thinsp;-&thinsp;- 📖[Tasks as models](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/think_in_tasks/README.md)\
+|&thinsp;-&thinsp;- ⌨️[Models demo](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcModels/README.md)
 
+<diva></div>
 🔚 .. 2025 ..
