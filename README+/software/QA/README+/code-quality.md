@@ -1,8 +1,9 @@
 <div dir="rtl">,<b>Junior</b> developers write poor code<br/>
 ,those who <b>advance</b> &thinsp;&mdash;&thinsp; good code<br/>
-,<b>experts</b> escape to write code<br/>
-.and <b>gurus</b> only delete code<br />
-<i><b>)<sub>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</sub></i></b> nailed it(</div>
+,<b>experts</b> avoid to write code<br/>
+,<b>gurus</b> only delete code<br />
+___________<br/>
+(and &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</div>
 
 # `Code` <nark>Quality</mark>
 
@@ -114,7 +115,7 @@ Besides _classical_ over-creativity and procrastination, the trivial reasons cou
 
 Also, prominent individuals may develop great parts/apps alone and are so keen at keeping all details and the whole picture in mind that they don't need to and like to lose time with code organization. 
 
-However, these cases are exceptional, not about enterprise development and mostly past.
+However, these cases are exceptional, not about enterprise development, and mostly past.
 
 \___________\
 &nbsp; &nbsp; <sup>:wilted_flower:</sup> <samp>Budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation.</samp>\
