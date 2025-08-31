@@ -2,7 +2,7 @@
 ,those who <b>advance</b> &thinsp;&mdash;&thinsp; good code<br/>
 ,<b>experts</b> escape to write code<br/>
 .and <b>gurus</b> only delete code<br />
-<i><b><sub>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</sub></i></b></div>
+<i><b>)<sub>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</sub></i></b> nailed it(</div>
 
 # `Code` <nark>Quality</mark>
 
@@ -73,7 +73,7 @@ Enough quality code allows one to focus on tests where _errare humanum est_:
 **A)** The traits listed above are <samp><b><ins>NOT</ins></b></samp> acceptance criteria, **but** utmost aims. 
 Even if a team comes close to them, the code won't be a book of design revelation — it still owes quality [documentation](../../docu) or/and tutoring.
 
-**B)** While design hammers formworks of code <mark>concrete</mark>, [coding frames](https://github.com/Kyriosity/use-dev/tree/main/README%2B/frames) reinforce it.
+**B)** While design hammers formworks of code <mark>concrete</mark>, [coding frames](https://github.com/BytesBauhaus/use-dev/tree/main/README%2B/frames) reinforce it.
 
 **C)** Coding isn't a self-contained activity but an ingredient of <sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png)](../../../software/ArcDeco/README.md)</sub>&thinsp;, 
 where quality is a motive, derivative, and bonus.
@@ -96,7 +96,7 @@ Top up with the fact that not every developer self-reflects on "_submit and forg
 \___________\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>🥴</sup>&nbsp;<sub>Provided one doesn't bother with [development] principles.</sub>\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>:family_man_woman_boy_boy:</sup>&nbsp;<sub>Customers, developers, testers, users, and project organizers.</sub>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>:parachute:</sup>&nbsp;<sub>When its originators may be safely on other projects, leaving the headache to others.</sub>
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>:parachute:</sup>&nbsp;<sub>When its originators may be safely on other projects, leaving time bombs and minefields to others.</sub>
 
 <table><tr></tr><tr valign="top"><td>
 
@@ -112,9 +112,9 @@ Besides _classical_ over-creativity and procrastination, the trivial reasons cou
 + canceled/postponed iterations/refactoring/cleaning,
 + hesitation in using and contributing to shared code (from team/enterprise foundations up to open source)
 
-Also, prominent individuals may develop great parts/apps alone and are so good at keeping all details and the whole picture in mind that they don't need to and like to lose time with code organization. 
+Also, prominent individuals may develop great parts/apps alone and are so keen at keeping all details and the whole picture in mind that they don't need to and like to lose time with code organization. 
 
-However, these cases are exceptional and not about enterprise development.
+However, these cases are exceptional, not about enterprise development and mostly past.
 
 \___________\
 &nbsp; &nbsp; <sup>:wilted_flower:</sup> <samp>Budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation.</samp>\
