@@ -5,20 +5,20 @@
 <table><tr valign="top"><td width="25%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
   
-### Denomination of titles _and_ classification is a pivotal but underrated activity <ins>in&nbsp;any&nbsp;exploration</ins>.
+### Denomination of titles _and_ their classification is a pivotal but underrated activity <ins>in&nbsp;any&nbsp;exploration</ins>.
   
 #### In software, names with categories, which smoothly guide developers through the design and make coding intuitive, are often taken for granted.
 
-  <div align="center"><b>O&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</b></div>
+<div align="center"><b>O&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</b></div>
 
-#### one wading through the thorns of wretched denominations, code labyrinthine (or plains), and abatis of docu will curse application complexity, learning curve, selected technologies, and fate, but at least the naming.
+#### one wading through the thorns of pathetic names, code labyrinthine (or plains), and abatis of docu will curse application complexity, learning curve, techno-stack, and fate, but at least the naming.
 </td></tr></table>
 
 ## Categorization
 
 _Categorization_ (aka _classification_) is more profound than breaking collocations and sentences and building the folder hierarchy &thinsp;&mdash;&thinsp; **it&nbsp;frames abstractions.**
 
-If enthusiasts could categorize myriads of pathetic boulders in the _Oort cloud_ and paltry insects, it must not be a meltdown for unique by-nature software entities.
+If enthusiasts could categorize myriads of wretched boulders in space and paltry insects, it must be no meltdown for unique by-nature software entities.
 
 The challenge is to lay out accurately. Our imagination tries to correctly align doubtful and even bizarre names to the right meanings and aliases, but takes on trust their categories.
 
