@@ -9,7 +9,7 @@
   
 #### In software, names with categories, which smoothly guide developers through the design and make coding intuitive, are often taken for granted.
 
-  <p align="center"><b>O&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</b></p>
+  <div align="center"><b>O&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</b></div>
 
 #### one wading through the thorns of wretched denominations, code labyrinthine (or plains), and abatis of docu will curse application complexity, learning curve, selected technologies, and fate, but at least the naming.
 </td></tr></table>
@@ -20,10 +20,10 @@ _Categorization_ (aka _classification_) is more profound than breaking collocati
 
 If enthusiasts could categorize myriads of pathetic boulders in the _Oort cloud_ and paltry insects, it must not be a meltdown for unique by-nature software entities.
 
-The challenge is to layout accurately. Our imagination tries to correctly align doubtful and even bizarre names to right meanings and aliases, but takes on trust their categories.
+The challenge is to lay out accurately. Our imagination tries to correctly align doubtful and even bizarre names to the right meanings and aliases, but takes on trust their categories.
 
 \___________\
-As a negative experiebce, GitHub is full of shallow folders and huge lists, even for corporate projects. Namespaces of frameworks and languages may look like a verbal dump.
+As a negative experience, GitHub is full of shallow folders and huge lists, even for corporate projects. Namespaces of frameworks and languages may look like a verbal dump.
 
 ### Tags
 
@@ -92,7 +92,7 @@ who suggested tongue (English) semantics for programming (so natural now that on
 
 ### "Generals"
 
-As programming evolved, a mass of general terms must have been given. Some, as `object` or `bug`, are relatively univocal hits &mdash; others shade higher-level notions or interfere with them:
+As programming evolved, a mass of general terms had to be given. Some, as `object` or `bug`, are relatively univocal hits &mdash; others shade higher-level notions or interfere with them:
 
 Application, solution, interface, exception - to name a few.
 
@@ -102,7 +102,7 @@ What's project management software names _bug_ is its _fix_.
 
 ### <samp>Exception</samp> or Error ?
 
-Many languages (`C#` there) use this term for errors to throw, though its meaning can sound even opposite &thinsp;&mdash;&thinsp;&nbsp;allowance.
+Many languages (`C#` there) use this term for errors to throw, though its meaning can sound even opposite &thinsp;&mdash;&thinsp; allowance.
 
 
 ## Curtain of grace (opened)
@@ -121,6 +121,5 @@ Many languages (`C#` there) use this term for errors to throw, though its meanin
 
 First class citizens for functions or other ticniques have a flair ...
 
-\___________
-
+\___________\
 🔚 ..  🌙 ... 2024-2025 ... to be continued ...  📂[README+](README+)
