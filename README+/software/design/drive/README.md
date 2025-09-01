@@ -88,7 +88,7 @@ Many other systems are projections of rudimentary software possibilities before 
 🚧 ... TO WRITE ... 🚧
 
 Example:\
-|- use-dev➡️ [Wizard blocks](https://github.com/bytesbauhaus/use-dev/blob/main/src/TuttiFrutti/WizConstr/README.md)
+|- use-dev➡️ [Wizard blocks](https://github.com/byteshaus/use-dev/blob/main/src/TuttiFrutti/WizConstr/README.md)
 
 \___________\
 🔚 <sub> ..2024-2025 ... borrowed images credit: [The Outer Limits.The&nbsp;Mutant, 1964](https://www.imdb.com/title/tt0667845/?ref_=ttep_ep25), [FREEP1K](FREEP!K (freepik.com))</sub>
