@@ -91,7 +91,7 @@ ___________<br />
 
 "Static" models can be altered and async too, but they must demonstratively represent hierarchies, parametrization, and initialization. 
 
-Writing/books may be a perfect case, and the neighbor repo use-dev➡️ explores how to make them [more flexible](https://github.com/bytesbauhaus/use-dev/blob/main/README+/techniques/README+/polymorphism+/README+/prop_shift.md) and implements them in [AbcModels](https://github.com/bytesbauhaus/use-dev/tree/main/src/TuttiFrutti/AbcModels).
+Writing/books may be a perfect case, and the neighbor repo use-dev➡️ explores how to make them [more flexible](https://github.com/byteshaus/use-dev/blob/main/README+/techniques/README+/polymorphism+/README+/prop_shift.md) and implements them in [AbcModels](https://github.com/byteshaus/use-dev/tree/main/src/TuttiFrutti/AbcModels).
 
 <table><tr><td><picture><img width="75px" alt="&nbsp; WRAP UP" src="../../../_rsc/_img/signs/WrapUp/counter-rotate/50x200.jpg" /></picture></td><td>
 
