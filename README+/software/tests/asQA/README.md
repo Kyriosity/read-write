@@ -30,7 +30,7 @@ Solution? Any popular language has some mainstream frameworks. Many frameworks a
 
 ## Down to the practice
 
-The more pragmatic use-dev repo discusses [better tests](https://github.com/Kyriosity/use-dev/tree/main/README+/tests).
+The more pragmatic use-dev repo discusses [better tests](https://github.com/bytesbauhaus/use-dev/tree/main/README+/tests).
 
 ## Poststriptum. Big problem and challenge
 
