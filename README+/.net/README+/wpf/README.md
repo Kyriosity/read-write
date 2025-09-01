@@ -1,21 +1,21 @@
 <h1 align="center"><code>WPF</code>.<samp>NET</samp> &nbsp;&mdash;&nbsp; Freshener</h1>
 
-Despite justifiable and not skepticism, regardless hard criticism from the very dawn, **WPF** (Windows Presentation Foundation) became a fully mature successor of _WinForms_, unlike its Web companion _manqué_ <code><b>Silverlight</b></code>, and cross-platform offshoots (like Xamarin).
+Despite justifiable and not skepticism, regardless hard criticism from the very dawn, **WPF** (Windows Presentation Foundation) became a fully established successor of _WinForms_, unlike its Web companion _manqué_ <code><b>Silverlight</b></code>, and cross-platform offshoots (like Xamarin).
 
 Now (in the 2020s C.E.) **WPF** is the number one platform for Windows desktops, hosting millions codelines of custom, and enterprise software and enjoying a definite ebb in cross-platform demand.
  
 Thus, WPF to .NET/Win is like the Moon to Earth &thinsp;&mdash;&thinsp; the natural and permanent satellite. Alternatives are either petite, marginal, exotic, still immature, or already deprecated<sup>🌘</sup>.\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>🌘</sup> <samp>You must know about WinForms and may have heard about [Avalonia XPF](https://avaloniaui.net/XPF)<sup>🔗</sup>, Xamarin, WinUI.</samp>
 
-[Blazor](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🪟</sup> may become the same native unconstrained "bridge" to the browsers and tug a big part of applications, but it's too early to predict this.
+[Blazor](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🪟</sup> may become the same native unconstrained "bridge" to web browsers and tug a big part of applications, but it's too early to predict this.
 
 ### For developers `WPF`:
 
 + is "native" to Windows (64-bit memory addressing, multitasking, and direct hardware acceleration since _Windows&nbsp;7_),
-+ is backed by Microsoft and .NET devoted experts, concerned with its stability and progress,
++ is backed by Microsoft and .NET experts, concerned with its stability and progress,
 + implies [MVVM](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm)<sup>🪟</sup> and has promoted it to other platforms,
 + grants <ins>true</ins> **RADD** (Rapid Application Development and Deployment),
-+ provides **full stack** dev on .NET (+MS&nbsp;SQL) without the mix of platforms (and involvement of their providers), languages, and tools with differing paradigms<sup>☕</sup>.
++ provides **full stack** development on .NET (+MS&nbsp;SQL) without the mix of platforms (and involvement of their providers), languages, and tools with differing paradigms<sup>☕</sup>.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>☕</sup> <samp>Compare to Java, JavaScript/TypeScript stacks with a "botanical garden" of frameworks, libraries, and technologies.</samp>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &thinsp;<samp>When scaffolding and interops may devour a quarter of the programmer's time (and most at the start).</samp>\
@@ -46,7 +46,7 @@ And most of these components are already available in miscellaneous suites.
 
 ### Deployment
 
-Even if there are no DevOps or dedicated admins, clients can install or update the WPF applications (either as a prototype, test, or release) as easily as unpacking an archived folder. 
+Even if there are no DevOps or dedicated admins, clients can install or update their WPF applications (either as a prototype, test, or release) as easily as unpacking an archived folder. 
 A kind of container that will work not only "[on my machine](../../../pencraft/README+/memes/README+/polyptych_works.md)".
 
 ---
