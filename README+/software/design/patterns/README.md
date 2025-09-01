@@ -40,7 +40,7 @@ Custom/personal (nick)names for established patterns aren't a good way unless it
 
 \___________\
 **Going further:**\
-|- [**Patterns** thru **techniques**](https://github.com/Kyriosity/use-dev/tree/main/README+/techniques) ➡️ (_use-dev_)
+|- [**Patterns** thru **techniques**](https://github.com/bytesbauhaus/use-dev/tree/main/README+/techniques) ➡️ (_use-dev_)
 
 |- Design principles and methodologies\
 |--- 🚧 reviewed SOLID 🚧
