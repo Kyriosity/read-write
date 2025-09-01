@@ -1,10 +1,10 @@
-<h1 align="center"><samp>SOFTWARE CREATION</samp> &nbsp;&mdash;&nbsp; D&thinsp;r&thinsp;i&thinsp;v&thinsp;e&thinsp;s</h1>
+<h1 align="center"><samp>SOFTWARE CREATION</samp> &nbsp;&rarr;&nbsp; ⚙️D&thinsp;r&thinsp;i&thinsp;v&thinsp;e&thinsp;s⚙️</h1>
 
 > ### What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names. 
 
-#### Even _functional programming_ is a driven approach.
+<h3 align="right">Even <i>functional programming</i> is a driven approach.</h3>
 
-<details align="center"><summary><ins>&nbsp;<b>Fancying more items on both sides of <samp>DRIVEN</samp> will scheme a grotesque gearbox&thinsp;:</b>&thinsp;</ins>&nbsp;⬇️</summary>
+<details align="center"><summary><h3><ins>&nbsp;<b>Fancying more items on both sides of <samp>DRIVEN</samp> will scheme a grotesque gearbox&thinsp;:</b>&thinsp;</ins></h3>&nbsp;⬇️</summary>
 <br />
 <p align="center"><picture><img alt="&thinsp;&nbsp; Combinational mess of drives and driven" src="../../../_rsc/_img/illus/AllDrives.jpg"/></picture></p>
 </details>
@@ -88,7 +88,7 @@ Many other systems are projections of rudimentary software possibilities before 
 🚧 ... TO WRITE ... 🚧
 
 Example:\
-|- use-dev➡️ [Wizard blocks](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/WizConstr/README.md)
+|- use-dev➡️ [Wizard blocks](https://github.com/bytesbauhaus/use-dev/blob/main/src/TuttiFrutti/WizConstr/README.md)
 
 \___________\
 🔚 <sub> ..2024-2025 ... borrowed images credit: [The Outer Limits.The&nbsp;Mutant, 1964](https://www.imdb.com/title/tt0667845/?ref_=ttep_ep25), [FREEP1K](FREEP!K (freepik.com))</sub>
