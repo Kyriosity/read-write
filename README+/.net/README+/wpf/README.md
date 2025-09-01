@@ -1,13 +1,13 @@
 <h1 align="center"><code>WPF</code>.<samp>NET</samp> &nbsp;&mdash;&nbsp; Freshener</h1>
 
-Despite justifiable and not skepticism and hard criticism from the very dawn, **WPF** (Windows Presentation Foundation) became a fully mature successor of _WinForms_, unlike its Web companion _manqué_ <code><b>Silverlight</b></code>, and cross-platform offshoots (like Xamarin).
+Despite justifiable and not skepticism, regardless hard criticism from the very dawn, **WPF** (Windows Presentation Foundation) became a fully mature successor of _WinForms_, unlike its Web companion _manqué_ <code><b>Silverlight</b></code>, and cross-platform offshoots (like Xamarin).
 
- **WPF** is the number one platform for Windows desktops with millions lines of trial, commercial, and enterprise applications, released and being developed, enjoying now (2020s) a definite ebb in cross-platform demand.
+Now (in the 2020s C.E.) **WPF** is the number one platform for Windows desktops, hosting millions codelines of custom, and enterprise software and enjoying a definite ebb in cross-platform demand.
  
-Thus, WPF to .NET/Win is like the Moon to Earth &thinsp;&mdash;&thinsp; the only natural and permanent satellite. Alternatives are either petite, marginal, exotic, still immature, or already deprecated<sup>🌘</sup>.\
+Thus, WPF to .NET/Win is like the Moon to Earth &thinsp;&mdash;&thinsp; the natural and permanent satellite. Alternatives are either petite, marginal, exotic, still immature, or already deprecated<sup>🌘</sup>.\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>🌘</sup> <samp>You must know about WinForms and may have heard about [Avalonia XPF](https://avaloniaui.net/XPF)<sup>🔗</sup>, Xamarin, WinUI.</samp>
 
-[Blazor](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🪟</sup> may become the same native unconstrained "bridge" to the browsers and tug a big part of applications, but it's too early to predict in the&nbsp;2025.
+[Blazor](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🪟</sup> may become the same native unconstrained "bridge" to the browsers and tug a big part of applications, but it's too early to predict this.
 
 ### For developers `WPF`:
 
@@ -34,11 +34,11 @@ This includes IDEs/tools, sketching, running, testing, and deployment.
 
 The best way to learn WPF is to build a basic MVVM application on a green field: proof of concept, prototype, or initial commit. You need a few minutes to start, as in this [sample](README+/mvvm/README.md#sample).
 
-Even better is to take a renowned trial or freeware template, learn it, and build the application on it.
+Even better is to take a renowned trial or freeware template, learn it, and design the application around it.
 
 ### Large projects
 
-If the application is a grown WPF product, its components will be a huge construction set, pieces of which a novice may soon manipulate with declarative tools. 
+If the application is a grown WPF product, its components must make up a huge construction set, pieces of which a novice may soon manipulate with declarative tools. 
 
 For example, take a pro table component from a gallery, declare it in a view, back it with the model data, and adorn it with custom logic in the ViewModel.
 
@@ -58,12 +58,12 @@ __Further notes__:\
 |&thinsp;- [XAML view](README+/wpf-xaml_view.md)
 
 ➡️ **use-dev**:\
-|&thinsp;-&thinsp;- 📖&thinsp;[MVVM Coherernce](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/mvvm/mvvm-vmodel_cohesion.md)\
-|&thinsp;-&thinsp;- 📖&thinsp;[MVVM Orchestration](https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-notification_orchestration.md)\
-|&thinsp;-&thinsp;- ⌨️&thinsp;improved [Visibility converter](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/WinClay/Converters/bool2viz_improved.md)
+|&thinsp;-&thinsp;- 📖&thinsp;[MVVM Coherernce](https://github.com/BYTESHAUS/use-dev/blob/main/README%2B/decisions/README%2B/mvvm/mvvm-vmodel_cohesion.md)\
+|&thinsp;-&thinsp;- 📖&thinsp;[MVVM Orchestration](https://github.com/BYTESHAUS/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-notification_orchestration.md)\
+|&thinsp;-&thinsp;- ⌨️&thinsp;improved [Visibility converter](https://github.com/BYTESHAUS/use-dev/blob/main/src/TuttiFrutti/WinClay/Converters/bool2viz_improved.md)
 
 __Resources__:\
-|&thinsp;- [Awesome WPF](https://github.com/Carlos487/awesome-wpf)<sup>🔗</sup> - big collection of links about literally everything that may concern WPF developers\
-|&thinsp;- [Prism](https://github.com/PrismLibrary/Prism)<sup>🔗</sup> - reputable representative of WPF/MVVM bootstrapping 
+|&thinsp;- [Awesome WPF](https://github.com/Carlos487/awesome-wpf)<sup>🔗</sup> &thinsp;&mdash;&thinsp; big collection of links about literally everything that may concern WPF developers\
+|&thinsp;- [Prism](https://github.com/PrismLibrary/Prism)<sup>🔗</sup> &thinsp;&mdash;&thinsp; reputable representative of WPF/MVVM bootstrapping 
 
 🔚 2021..2025 ..
