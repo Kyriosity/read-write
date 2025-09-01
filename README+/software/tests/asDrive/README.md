@@ -4,7 +4,7 @@
 
 The hypothesis to write tests not only _a posteriori_ to validate available and running code but also prior &thinsp;&mdash;&thinsp; to guide development &thinsp;&mdash;&thinsp; can be rooted back to the **1950s**.<sup>👴</sup>
 
-&nbsp; &nbsp; <sup>👴</sup> <samp>A very good retrospective is in [You won't believe how old TDD is](https://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/)<sup>🔗</sup>.</samp>
+&nbsp; &nbsp; <sup>👴</sup> <samp>[You won't believe how old TDD is](https://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/) offers a nice review.<sup>🔗</sup>.</samp>
 
 **Tests make abstract matters tactile and feasible.** Simplicity and versatility make **TDD** superb for insight into fuzzy topics (almost any new application, novel development, or features). 
 
