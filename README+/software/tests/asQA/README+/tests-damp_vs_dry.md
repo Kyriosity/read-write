@@ -67,7 +67,7 @@ Whether for strictly or weakly typed languages, the same argument value may appe
 
 Many languages support generic types, which a test method may discern.
 
-🧪[Phys/Math tests](https://github.com/bytesbauhaus/use-dev/tree/main/src/TuttiFrutti/FuncStore.Convers.Tests/PhysMath) in custom <code></b>C#</b> funcware</code> utilize such a technique for numeric values.
+🧪[Phys/Math tests](https://github.com/byteshaus/use-dev/tree/main/src/TuttiFrutti/FuncStore.Convers.Tests/PhysMath) in custom <code></b>C#</b> funcware</code> utilize such a technique for numeric values.
 
 ## Solutions&thinsp;/&thinsp;Workarounds
 
@@ -76,7 +76,7 @@ Auto-generation tools may help, but their setting and tuning may be overkill.
 
 <table><tr></tr><tr>
 <td><picture><img alt="&nbsp;READ-WRITE meets USE-DEV" width="100px" src="../../../../_rsc/_img/_nav/read-write_use-dev.png" /></picture></td><td>
-    <a href="https://github.com/bytesbauhaus/use-dev/blob/main/README%2B/tests/README%2B/prog_tests-cut_feeds.md"><b>Cutting<br />the feeds</b></a>
+    <a href="https://github.com/byteshaus/use-dev/blob/main/README%2B/tests/README%2B/prog_tests-cut_feeds.md"><b>Cutting<br />the feeds</b></a>
 </td>
 <td>
 
@@ -128,7 +128,7 @@ Advanced versions shall deal with _Arrange_ and _Act_ blending and branching, bu
 
 ### Posers
 
-Normalization doesn't apply well to advanced evaluation as [gradual asserts](https://github.com/bytesbauhaus/use-dev/blob/main/README+/tests/README+/tests-gradual_assert.md).
+Normalization doesn't apply well to advanced evaluation as [gradual asserts](https://github.com/byteshaus/use-dev/blob/main/README+/tests/README+/tests-gradual_assert.md).
 
 ### Master cautions
 
@@ -157,7 +157,7 @@ The opposite is for **Test Driven Development** &nbsp;&mdash;&nbsp; think in tes
 The accent of most frameworks and add-ins to them (as [fluent assertions](https://fluentassertions.com)<sup>🔗</sup>) is on the long articulated wording. 
 With all readability, the handicap is that the _test subjects_ are hidden in extra clauses and parentheses.
 
-The alternative can be a condensed, terser syntax, like these ["coagulated" expressions](https://github.com/bytesbauhaus/use-dev/blob/main/src/TuttiFrutti/FeatTest/README.md#assert-by-assign).
+The alternative can be a condensed, terser syntax, like these ["coagulated" expressions](https://github.com/byteshaus/use-dev/blob/main/src/TuttiFrutti/FeatTest/README.md#assert-by-assign).
 
 \___________\
 🔚 🌙 2024-2025 ..
