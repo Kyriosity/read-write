@@ -43,8 +43,8 @@ The model shall be thread- and async-friendly, even if it's not required.
 **Further:**\
 |&thinsp;- [Samples](../../samples/README.md)♟️🧮🎨\
 |&thinsp;- **use-dev**➡️\
-|&thinsp;-&thinsp;- 📖[Tasks as models](https://github.com/bytesbauhaus/use-dev/blob/main/README%2B/decisions/README%2B/think_in_tasks/README.md)\
-|&thinsp;-&thinsp;- ⌨️[Models demo](https://github.com/bytesbauhaus/use-dev/tree/main/src/TuttiFrutti/AbcModels/README.md)
+|&thinsp;-&thinsp;- 📖[Tasks as models](https://github.com/BYTESHAUS/use-dev/blob/main/README%2B/decisions/README%2B/think_in_tasks/README.md)\
+|&thinsp;-&thinsp;- ⌨️[Models demo](https://github.com/BYTESHAUS/use-dev/tree/main/src/TuttiFrutti/AbcModels/README.md)
 
 <diva></div>
 🔚 .. 2025 ..

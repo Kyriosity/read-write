@@ -11,7 +11,7 @@ However, any elaborate application will ask for a middle layer to take the prese
 * ONE-PAGE vs. MULTI-VIEW
 
 The neighbor repository proposes design decisions for Presenter/ViewModel:\
-|- [Model-Presenter cohesion](https://github.com/bytesbauhaus/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-vmodel_cohesion.md)\
-|- [Notification orchestration](https://github.com/bytesbauhaus/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-notification_orchestration.md)
+|- [Model-Presenter cohesion](https://github.com/BYTESHAUS/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-vmodel_cohesion.md)\
+|- [Notification orchestration](https://github.com/BYTESHAUS/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-notification_orchestration.md)
 
 🔚

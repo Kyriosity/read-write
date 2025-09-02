@@ -97,7 +97,7 @@ The latter aren't routines but intellectual, lasting, and accurate tasks of desi
 
 **No excuse for the docu missing references to the implementation**, _viz._ code. Not every feature or class, but entry points.
 
-My tribute in progress is ➡️[use-dev](https://github.com/bytesbauhaus/use-dev/).
+My tribute in progress is ➡️[use-dev](https://github.com/BYTESHAUS/use-dev/).
 
 ## Appendix 1/2. Artistic images (sounds, videos)
 
