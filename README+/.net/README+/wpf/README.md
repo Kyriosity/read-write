@@ -1,13 +1,13 @@
 <h1 align="center"><code>WPF</code>.<samp>NET</samp> &nbsp;&mdash;&nbsp; Freshener</h1>
 
-Despite justifiable and not skepticism, regardless hard criticism from the very dawn, **WPF** (Windows Presentation Foundation) became a fully established successor of _WinForms_, unlike its Web companion _manqué_ <code><b>Silverlight</b></code>, and cross-platform offshoots (like Xamarin).
+Despite justifiable and fetched skepticism, regardless of hard criticism from the very dawn, **WPF** (Windows Presentation Foundation) became a fully established successor of _WinForms_, unlike its Web companion _manqué_ <code><b>Silverlight</b></code>, and cross-platform offshoots (like Xamarin).
 
-Now (in the 2020s C.E.) **WPF** is the number one platform for Windows desktops, hosting millions codelines of custom, and enterprise software and enjoying a definite ebb in cross-platform demand.
+Now (in the 2020s C.E.) **WPF** is the number one platform for Windows desktops, hosting millions codelines of custom and enterprise software and enjoying a definite ebb in cross-platform demand.
  
 Thus, WPF to .NET/Win is like the Moon to Earth &thinsp;&mdash;&thinsp; the natural and permanent satellite. Alternatives are either petite, marginal, exotic, still immature, or already deprecated<sup>🌘</sup>.\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>🌘</sup> <samp>You must know about WinForms and may have heard about [Avalonia XPF](https://avaloniaui.net/XPF)<sup>🔗</sup>, Xamarin, WinUI.</samp>
 
-[Blazor](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🪟</sup> may become the same native unconstrained "bridge" to web browsers and tug a big part of applications, but it's too early to predict this.
+Web framework [**Blazor**](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🪟</sup> may become the same native unconstrained "bridge" to web browsers and tug a big part of applications, but it's too early to predict this.
 
 ### For developers `WPF`:
 
@@ -17,16 +17,16 @@ Thus, WPF to .NET/Win is like the Moon to Earth &thinsp;&mdash;&thinsp; the natu
 + grants <ins>true</ins> **RADD** (Rapid Application Development and Deployment),
 + provides **full stack** development on .NET (+MS&nbsp;SQL) without the mix of platforms (and involvement of their providers), languages, and tools with differing paradigms<sup>☕</sup>.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>☕</sup> <samp>Compare to Java, JavaScript/TypeScript stacks with a "botanical garden" of frameworks, libraries, and technologies.</samp>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &thinsp;<samp>When scaffolding and interops may devour a quarter of the programmer's time (and most at the start).</samp>\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>🌳</sup> <samp>Full stack here means more than the language and platforms, but a single-point definition of entities and functions (mitigating the front-back-end impedance).</samp>
+___________\
+&nbsp; &nbsp; <sup>☕</sup> <samp>Compare to Java, JavaScript/TypeScript stacks with a "botanical garden" of frameworks, libraries, and technologies. When scaffolding and interops may devour a quarter of the programmer's time (and most at the start).</samp>\
+&nbsp; &nbsp; <sup>🌳</sup> <samp>Full stack here means more than the language and platforms, but a single-point definition of entities and functions (mitigating the front-back-end impedance).</samp>
 
 ## Rapid Development and Deployment with `WPF`
 
 The learning curve of WPF is distinctly steeper, and the concepts to learn are much broader than those of _WinForms_. 
 Nonetheless, a WPF newbie<sup>🔰</sup> entering either a new or established project has the luck to delay advanced topics till less stressful times. 
 
-&nbsp; &nbsp; <sup>🔰</sup> <sup>But experienced in .NET and thinking in MVW<sup>hatever</sup> patterns.</sup>
+&nbsp; &nbsp; <sup>🔰</sup> <samp>But experienced in .NET and thinking in MVW<sup>hatever</sup> patterns.</samp>
 
 This includes IDEs/tools, sketching, running, testing, and deployment.
 
