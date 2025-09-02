@@ -48,9 +48,9 @@ Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D &nbsp; &nbsp; &nbsp; Design&#01
     <!--                   C L O S E R  to  C O D E      --!>
  <br/><br/><kbd>&thinsp;<b>CLOSER to CODE</b>&thinsp;</kbd><br/>
   &nbsp; &nbsp;<a href="../README+/.net/README+/cs-hints.md"><b>&thinsp;Hints&thinsp;</b></a>&nbsp;➡️&nbsp;
- <a href="https://github.com/byteshaus/use-dev/tree/main/README%2B/frames">Frames</a>&nbsp; <b>.&thinsp;.&thinsp;.</b>
+ <a href="https://github.com/BYTESHAUS/use-dev/tree/main/README%2B/frames">Frames</a>&nbsp; <b>.&thinsp;.&thinsp;.</b>
  <br />
- &nbsp; &nbsp;<b>.&thinsp;.&thinsp;.</b>&nbsp; and more on <a href="https://github.com/byteshaus/use-dev/blob/main/.github/README.md"><b>&thinsp;use-dev&thinsp;</b></a>&nbsp;
+ &nbsp; &nbsp;<b>.&thinsp;.&thinsp;.</b>&nbsp; and more on <a href="https://github.com/BYTESHAUS/use-dev/blob/main/.github/README.md"><b>&thinsp;use-dev&thinsp;</b></a>&nbsp;
 </td><td colspan="2" align="left">
 <picture><img src="../README+/_rsc/_img/_nav/IT_is_waterfall-ext.png" alt="&nbsp; ... then IT must be a waterfall" /></picture>
      </td>
