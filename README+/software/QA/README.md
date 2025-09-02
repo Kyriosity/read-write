@@ -26,14 +26,14 @@ config:
 ---
 graph TB
  c1-->QA2
-    subgraph "<h3><a href="https://github.com/Kyriosity/read-write/tree/main/README%2B/software/tests">Programmatic Tests</a></h3>"
+    subgraph "<h3><a href="https://github.com/BYTESHAUS/read-write/tree/main/README%2B/software/tests">Programmatic Tests</a></h3>"
     c1("<b>Proof</br>coverage</b>")
-      TDD("<a href="https://github.com/Kyriosity/read-write/blob/main/README%2B/software/tests/asDrive/README.md">Test driven</a>")-->TDDev("Development")
+      TDD("<a href="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/software/tests/asDrive/README.md">Test driven</a>")-->TDDev("Development")
       TDD-->TDDes("Design")
      c1 o--o TDDev
     end
     subgraph "<h3>Quality Assurance</h3>"
-    a1(<b>Code</b>)-->a2(<a href="https://github.com/Kyriosity/read-write/blob/main/README%2B/software/QA/README+/code-quality.md">Quality</a>)
+    a1(<b>Code</b>)-->a2(<a href="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/software/QA/README+/code-quality.md">Quality</a>)
   a1-->a3("Review")
     T1("<b>Testing</b>")-->QA1("Manual")
     T1("<b>Testing</b>")-->QA2(Automated)
@@ -71,7 +71,7 @@ What's admissible on "tangible" projects may lead to epic fails on a larger scal
  <ul>
   <li>Code reviews, pair programming, friendly discussions, and lessons.</li>
   <li>Preferred approaches as <a href="../tests/asDrive/">Test Driven Development</a>.</li>
- <li>Selection of popular or custom <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/frames">guidelines</a> and <a href="https://github.com/Kyriosity/use-dev/tree/main/README%2B/techniques">techniques</a>.</li>
+ <li>Selection of popular or custom <a href="https://github.com/BYTESHAUS/use-dev/tree/main/README+/frames">guidelines</a> and <a href="https://github.com/BYTESHAUS/use-dev/tree/main/README%2B/techniques">techniques</a>.</li>
  </ul>
 </td>
 </tr></table>

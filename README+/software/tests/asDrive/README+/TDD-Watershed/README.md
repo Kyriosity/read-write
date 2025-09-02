@@ -82,7 +82,7 @@ Even if it's the same project and team, test tools/framework, and skills/techniq
      </td><td>
 <p>Granulate <b>interfaces</b> and create "technical" interfaces and classes.</p>
    <p>Implement interfaces and abstract classes.</p>
-   <p>Code classes and methods under strict guidelines (as widely accepted S.O.L.I.D. or any <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/frames">custom rules</a>).</p>
+   <p>Code classes and methods under strict guidelines (as widely accepted S.O.L.I.D. or any <a href="https://github.com/BYTESHAUS/use-dev/tree/main/README+/frames">custom rules</a>).</p>
 </td></tr>
            <!--  --!>
           <!--          TEST DOUBLES    --!>
@@ -115,7 +115,7 @@ Test coverage, actually, with a slant to find elaborate error cases.
 <td align="center" colspan="2"><b>C&thinsp;h&thinsp;e&thinsp;c&thinsp;k&thinsp;l&thinsp;i&thinsp;s&thinsp;t</b></td></tr>
 <tr valign="top"><td>
    <div>✔️&thinsp;Compilable syntax demos are enough.</div>
-<div>✔️&thinsp;Non-compilable too &thinsp;&mdash;&thinsp; <a href="https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-posers.md#non-comp-calls">on purpose</a>.</div>
+<div>✔️&thinsp;Non-compilable too &thinsp;&mdash;&thinsp; <a href="https://github.com/BYTESHAUS/use-dev/blob/main/README+/tests/README+/prog_tests-posers.md#non-comp-calls">on purpose</a>.</div>
       <div>✔️&thinsp;<b>Optional</b>: light backup functionality<br />(like stubs to return instead of <code>nulls</code>).</div>
    <div>✔️&thinsp;Top logical categorization of tests</div>
    <div>✔️&thinsp;Define contours of test data</div>
@@ -124,7 +124,7 @@ Test coverage, actually, with a slant to find elaborate error cases.
 <td>
    <div>✔️&thinsp;Categorise implementation and lay out test data</div>
    <div>✔️&thinsp;Exact success and fail scenarios.</div>
-   <div>✔️&thinsp;Write tests for these scenarios with proper <a href="https://github.com/Kyriosity/use-dev/tree/main/README+/tests">techniques</a><br />
+   <div>✔️&thinsp;Write tests for these scenarios with proper <a href="https://github.com/BYTESHAUS/use-dev/tree/main/README+/tests">techniques</a><br />
    (using the calls in demos (<i>Act</i> of <span title="&nbsp;Arrange&#013;&#010;&nbsp;Act&#013;&#010;&nbsp;Assert" ><ins>AAA</ins></span>) that TD<b><mark>Δ</mark></b> already defined)</div>
       <div>✔️&thinsp;Code implementation of tests.</div>
 <div>✔️&thinsp;Blueprint of test coverage</div>
@@ -158,7 +158,7 @@ The course will also unveil tasks of a higher or parallel level, but they will b
 
 <h2 id="TDD-ISie" align="center">Reconcile by example: TDD ⭐I&thinsp;S&thinsp;<samp>I&thinsp;E</samp>⭐</h2>
 
-Let's take an [ISIe](https://github.com/Kyriosity/use-dev/tree/main/README%2B/parts/_ext/ISie) example, 
+Let's take an [ISIe](https://github.com/BYTESHAUS/use-dev/tree/main/README%2B/parts/_ext/ISie) example, 
 which started with designing and redesigning API builders.
 
        🚧🐝🚧 .. WORK IN PROGRESS .. 🚧🐝🚧

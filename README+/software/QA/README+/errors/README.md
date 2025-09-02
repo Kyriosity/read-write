@@ -27,7 +27,7 @@ This wasn't the complete list. **The whole software product can be an error** (n
 
 ## Practice
 
-|- [Errors guidelines](https://github.com/Kyriosity/use-dev/blob/main/README%2B/frames/README%2B/commu/errors.md)
+|- [Errors guidelines](https://github.com/BYTESHAUS/use-dev/blob/main/README%2B/frames/README%2B/commu/errors.md)
 
 \___________\
 🔚

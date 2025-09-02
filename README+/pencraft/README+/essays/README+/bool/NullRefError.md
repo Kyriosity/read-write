@@ -155,7 +155,7 @@ When possible, use attributes or constraints that a language provides. It won't 
 
 ### Distinguish
 
-JavaScript has a native `undefined`. In other languages, a never set value may throw a specific exception, like in this tailored property [`AbsYear`](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcChrono/Timescales/Models/Hap.cs).
+JavaScript has a native `undefined`. In other languages, a never set value may throw a specific exception, like in this tailored property [`AbsYear`](https://github.com/BYTESHAUS/use-dev/blob/main/src/TuttiFrutti/AbcChrono/Timescales/Models/Hap.cs).
 
 Bad approach: setting a specific object that will only mask `null` to make matters worse.
 
@@ -173,9 +173,9 @@ After sacrificing a couple of hours, he addressed this pesky _null_ to the dark 
 ### Appendices
 
 |&thinsp;- ➡️**use-dev**\
-|&thinsp;-&thinsp;- [Calls on null](https://github.com/Kyriosity/use-dev/blob/main/README+/frames/README+/calls_on_null.md) `// are possible and ... legit`\
-|&thinsp;-&thinsp;-&thinsp; primitive [Guards](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/AbcStoppers/Guards) `// the shortest ways to discover nulls ASAP`\
-|&thinsp;-&thinsp;- [Code wizard](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/WizConstr) `// building backbone that won't forget to initialize`
+|&thinsp;-&thinsp;- [Calls on null](https://github.com/BYTESHAUS/use-dev/blob/main/README+/frames/README+/calls_on_null.md) `// are possible and ... legit`\
+|&thinsp;-&thinsp;-&thinsp; primitive [Guards](https://github.com/BYTESHAUS/use-dev/tree/main/src/TuttiFrutti/AbcStoppers/Guards) `// the shortest ways to discover nulls ASAP`\
+|&thinsp;-&thinsp;- [Code wizard](https://github.com/BYTESHAUS/use-dev/blob/main/src/TuttiFrutti/WizConstr) `// building backbone that won't forget to initialize`
 
 ### See also
 
