@@ -1,4 +1,4 @@
-# Quotes &nbsp; &mdash; &nbsp; Backshelve &nbsp; &mdash; &nbsp; Controversy
+# Quotes &nbsp;&mdash;&nbsp; Backshelve &nbsp;&mdash;&nbsp; Controversy
 
 > **Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.**\
 [Linus Torvalds](../contributors/README.md#Linus-Torvalds)
@@ -10,7 +10,7 @@ Master _Torvalds_ could have meant renowned open-source contributors, but most s
 > **Everyone knows it takes a woman nine months to have a baby. But you Americans think if you get nine women pregnant, you can have a baby in a month.**\
 _Theodore von Kármán_ (1957)
 
-It suited a private aviation engineering talk but [Fred Brooks](../contributors/README.md#Fred-Brooks) popularized the phrase in his [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)<sup><b>w</b></sup>:
+It suited a private aviation engineering talk, but [Fred Brooks](../contributors/README.md#Fred-Brooks) popularized the phrase in his [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)<sup><b>w</b></sup>:
 
 > The bearing of a child takes nine months, no matter how many women are assigned.
 
@@ -71,7 +71,7 @@ The aphorism shall be better: "If the software were built like houses, custom pr
 > <mark><b>C++</b> is a language strongly optimized for liars and people who go by guesswork and ignorance.</mark> 🤦‍♂️\
 _Erik Naggum_, Lisp programmer, 2008 on Usenet
 
-Sure, an environment may force bad practices, but they don't make developers. Vice versa, limitations can stimulate optimization, abstraction, pattern thinking, and search for unexpected solutions. 
+Sure, an environment may force bad practices, but they don't make developers. Vice versa, limitations can stimulate optimization, abstraction, pattern thinking, and the search for unexpected solutions. 
 
 ### Paradigms
  
@@ -102,5 +102,5 @@ Whether one has read books by Mr. King or not, likes them or not, the indisputab
 
 Following this and his other conclusions for authoring is like teaching a kid to ride a city bike from downhill champions. 
 
-\___________\
+___________\
 🔚 ...but to be continued...
