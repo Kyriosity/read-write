@@ -14,6 +14,7 @@
       <a href="README+/rec/punchcard.md"><img src="../../../_rsc/_img/_nav/tiles/punchcard_bw-200px.png" alt="&nbsp;used punchacrd" title="&nbsp;Punchcards - once upon a time"/>
         <br /><b>PUNCHCARDS</b></a>
     </td>
+        <td rowspan="5"><picture><img alt="&nbsp;BYTESHAUS" src="../../../_rsc/_img/logo/byteshaus/vert/basic-v750px.jpg" /></picture></td>
                                             </tr><tr></tr><tr align="center">
     <td><!--                        ARCHITECT      --!>
       <a href="README+/SW_architect-aTake.md"><img src="../../../_rsc/_img/_nav/tiles/Architect_bw-200px.jpg" alt="&nbsp;U-Val" title="&nbsp;Finding Software Architect - a Take"/>
