@@ -1,6 +1,8 @@
-<h1 align="center"><code>WPF</code>.<samp>NET</samp> &nbsp;&mdash;&nbsp; Freshener</h1>
+<h1 align="center"><code>WPF</code>.<samp>NET</samp> &nbsp;&mdash;&nbsp; <i>Freshener</i></h1>
 
-Despite justifiable and fetched skepticism, regardless of hard criticism from the very dawn, **WPF** (Windows Presentation Foundation) became a fully established successor of _WinForms_, unlike its Web companion _manqué_ <code><b>Silverlight</b></code>, and cross-platform offshoots (like Xamarin).
+### Despite justifiable and fetched skepticism, regardless of hard criticism from the very dawn, **WPF** (Windows Presentation Foundation) became a fully established successor of _WinForms_.
+
+(Unlike its Web companion _manqué_ <code><b>Silverlight</b></code>, and cross-platform offshoots, like Xamarin.)
 
 Now (in the 2020s C.E.) **WPF** is the number one platform for Windows desktops, hosting millions codelines of custom and enterprise software and enjoying a definite ebb in cross-platform demand.
  
@@ -32,7 +34,7 @@ This includes IDEs/tools, sketching, running, testing, and deployment.
 
 ### Initiatives
 
-The best way to learn WPF is to build a basic MVVM application on a green field: proof of concept, prototype, or initial commit. You need a few minutes to start, as in this [sample](README+/mvvm/README.md#sample).
+The best way to learn WPF is to build a basic MVVM application on a green field: proof of concept, prototype, or initial commit. You need a few minutes to start, as in this [basic demo](README+/mvvm/README.md#demo).
 
 Even better is to take a renowned trial or freeware template, learn it, and design the application around it.
 
@@ -52,7 +54,7 @@ A kind of container that will work not only "[on my machine](../../../pencraft/R
 ---
 
 __Further notes__:\
-|&thinsp;- [WPF and MVVM](README+/mvvm/)\
+|&thinsp;- [**WPF and MVVM**](README+/mvvm/)\
 |&thinsp;- [WPF lacks](README+/wpf-drawbacks.md)\
 |&thinsp;- [WPF hints](README+/wpf-hints.md)\
 |&thinsp;- [XAML view](README+/wpf-xaml_view.md)
