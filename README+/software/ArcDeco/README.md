@@ -10,12 +10,14 @@
 
 <sup>:de:</sup> <samp>Inspired by informal interpretation of the German flag:\
 &nbsp; &nbsp; from the **dark** past through the bloody present to the <mark>golden</mark> future.\
-&nbsp; &nbsp; (Since `4>3` tearful blue was inserted for Design.)</samp>
+&nbsp; &nbsp; (Since `4>3` **tearful** blue was inserted for Design.)</samp>
 
 <details><summary><h3>❔<ins>&nbsp;<samp>More spectrum for</samp> requirements<samp>,</samp> management<samp>,</samp> testing, <samp>and</samp> administration</b>&nbsp;</ins>❓</h3></summary>
 <br/>
 
-<table><tr valign="top"><td width="40%" align="center"><picture><img alt="&nbsp; &nbsp;External factors of SW creation" src="../../_rsc/_img/ArcDeco/SW-ext_factors-w333px.jpg" /></picture></td>
+<table><tr valign="top"><td width="40%" align="center"><picture><img alt="&nbsp; &nbsp;External factors of SW creation" src="../../_rsc/_img/ArcDeco/SW-ext_factors-w333px.jpg" /></picture>
+
+</td>
 <td>
    
 ### These are <mark>external</mark> &nbsp;&mdash;&nbsp; optional and not, minor to strong, constructive and devastating (also neutral) &nbsp;&mdash;&nbsp; forces, factors, and drives ...
@@ -37,10 +39,10 @@
 
 **_Coding_**, **_development_**, **_design_**, and **_architecture_** are tied, overlapping, and loosely-ordered role-driven processes.
 
-### Many projects' modest size and lifetime, banality, and isolated work on them will shrink the pie to a bar.&thinsp;.&thinsp;. ⬇️
+### Many projects' modest size and lifetime, banality, and isolated work on them will shrink the pie to a bar.&thinsp;.&thinsp;. ↙️
 
 <picture><img align="center" alt="&nbsp; &nbsp;ArcDeco view at casual stand-alone projects" src="../../_rsc/_img/ArcDeco/C-D-D-A_midiPrj.jpg" /></picture><br />
-<h3>⬆️ .&thinsp;.&thinsp;.  <ins>&thinsp; theorization around which will be fetched out of thin air</ins>  .&thinsp;.&thinsp;.<br ></h3>
+<h3>↗️ .&thinsp;.&thinsp;.  <ins>&thinsp; theorization around which will be fetched out of thin air</ins>  .&thinsp;.&thinsp;.<br ></h3>
 
 <h3>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .&thinsp;.&thinsp;. thanks for your attention, <s>bye</s> .&thinsp;.&thinsp;.</h3>
 
@@ -48,14 +50,16 @@
 
 ### Axes of e<mark>X</mark>pansion and complexit<mark>Y</mark> can tear this patchwork:<sup>🙋</sup>
 
-<table><tr align="center"><td colspan="2"><picture><img width="500px" alt="&nbsp; X ------------------>" src="../../_rsc/_img/signs/arrows/orange_right_skew-hor_750px.png" /></picture></td></tr><td colspan="2">
+<table><tr align="center"><td colspan="2">
+   
+### <picture><img width="500px" alt="&nbsp; X ------------------>" src="../../_rsc/_img/signs/arrows/orange_right_skew-hor_750px.png" /></picture><br />Coercive resource scaling against "horizontal" growth will build up a horrific pile...
 
-&harr; **<mark>X</mark>**: Coercive resource scaling against "horizontal" growth will build up a horrific pile.\
-&nbsp; &nbsp; (getting harder and more expensive to evolve and maintain, with little rational heritage except "how not to do" tips)
+(getting harder and more expensive to evolve and maintain, with little rational heritage except "how not to do" tips)
+</td>
+</tr><tr>
+   <td><picture><img width="90px" alt="&nbsp;Y axis" src="../../_rsc/_img/signs/arrows/orange_down_skew-vert_450px.png"</td><td>
 
-</td></tr><tr><td><picture><img width="90px" alt="&nbsp;Y axis" src="../../_rsc/_img/signs/arrows/orange_down_skew-vert_450px.png"</td><td>
-
-&varr; &nbsp;**<mark>Y</mark>**: With stacking up design decisions (as they come), this pile will begin to fall to pieces at a certain height of abstraction.\
+### With stacking up design decisions (as they come), this pile will begin to fall to pieces at a certain height of abstraction.
 &nbsp; &nbsp; (That is, the chaos, inherent to any programming, will spiral out of control.) 
 
 \___________\
@@ -64,11 +68,13 @@ new LOB foundation, unfamiliar domains (such as CAD or interpreters), or remakes
 
 </td></tr></table>
 
-Such menaces must encourage us to verbalize the _metaphysics_ of software. 
+Such menaces must encourage us to articulate the metaphysics of software. 
 
 <h2 align="center">... opening ...</h3>
 
-<picture><img alt="&nbsp;Arc Deco" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-14px.jpg" /></picture>&nbsp;(<mark><b>Arc</b></mark>hitecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding). 
+<div align="center"><picture><img alt="&nbsp; A&thinsp;R&thinsp;C &nbsp; D&thinsp;E&thinsp;C&thinsp;O" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-45px.jpg" /></picture></div>
+
+(<mark><b>Arc</b></mark>hitecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding). 
 I couldn't find a better tag, but a mocking acronym<sup>🎨</sup> to distinguish the following survey (at least for the file system).
 
 \___________\
