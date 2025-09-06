@@ -1,16 +1,16 @@
 <h1 align="center"><code>Null</code>, its Reference, and their Mistake<br />🔎&empty;</h1>
 
-### ∅`NULL`⚡REFERENCE has earned a gruesome reputation of being an _exceptional_ plague:
+### ∅`NULL`⚡REFERENCE has earned a gruesome notoriety of _exceptional_ plague:
 
 <table><tr valign="top">
 <td>
 
-#### Its outbreaks appear literally from `nothing` and are too common to call them just `exceptions` &thinsp;&mdash;&thinsp; they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _vs._ data clouds, and spare neither junior nor seasoned developers.
+**Its outbreaks appear literally from `nothing` and are too common to call them just `exceptions` &thinsp;&mdash;&thinsp; they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _vs._ data clouds, and spare neither junior nor seasoned developers.**
 
 _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../../quotes/README+/contributors/README.md#tony-hoare) willingly took the blame of being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
 
-But nobody else _Great_ has volunteered to cut this sinister _Gordian_ "blockchain" to stop  collecting its billion toll.\
+But nobody else _Great_ has volunteered to cut this  _Gordian_ "nullchain" to stop  collecting its billion toll.\
 ___________\
 <samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`, `dereferencing`, or none (just "null" itself).
 
@@ -25,15 +25,15 @@ ___________\
 
 ### The fallacy of equivocation 
 
-<sup>🎥</sup>&nbsp; If you __can't__ couple the 1950s subscripts **and** today's exceptions &nbsp;&mdash;&nbsp; you are **not** alone (and probably in a good company).
+> <sup>🎥</sup>&nbsp; If you've watched the video but __can't__ couple the 1950s subscripts **and** today's exceptions &nbsp;&mdash;&nbsp; you are **not** alone (and probably in a good company).
 
 There's no specific `boolean` or machine value for  `Null` &nbsp;&mdash;&nbsp; it's a logical consensus to designate not initialized values. 
 The error occurs chiefly when we, developers, overlook initializations &thinsp;&mdash;&thinsp; that's what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
 
-> * **You forgot to instantiate a reference type.**
-> * **You forgot to dimension an array before initializing it.**
-> * **You get a null return value from a method, and then call a method on the returned type**\
-> ... and so on.
+- **You forgot to instantiate a reference type.**
+- **You forgot to dimension an array before initializing it.**
+- **You get a null return value from a method, and then call a method on the returned type**\
+- ... and so on.
 
 There's no null or broken reference, which sends our objects and values nowhere. That's our fault.
 
