@@ -17,12 +17,11 @@
 
 <table><tr valign="top"><td width="40%" align="center"><picture><img alt="&nbsp; &nbsp;External factors of SW creation" src="../../_rsc/_img/ArcDeco/SW-ext_factors-w333px.jpg" /></picture>
 
-</td>
-<td>
+</td><td>
    
 ### These are <mark>external</mark> &nbsp;&mdash;&nbsp; optional and not, minor to strong, constructive and devastating (also neutral) &nbsp;&mdash;&nbsp; forces, factors, and drives ...
 
-#### <samp>... which, culturally speaking, may enrich, mix, tint, blur, or shade (if not wash off) the four paints.</samp>
+#### ... which, culturally speaking, may enrich, mix, tint, blur, or shade (if not wash off) the four paints.</samp>
 
 ### <mark>Initiative</mark> and <mark>funding</mark> prop the picture. 
 
@@ -54,16 +53,17 @@
    
 ### <picture><img width="500px" alt="&nbsp; X ------------------>" src="../../_rsc/_img/signs/arrows/orange_right_skew-hor_750px.png" /></picture><br />Coercive resource scaling against "horizontal" growth will build up a horrific pile...
 
-(getting harder and more expensive to evolve and maintain, with little rational heritage except "how not to do" tips)
+#### Getting harder and more expensive to evolve and maintain, with little rational heritage except "how not to do" tips.
 </td>
 </tr><tr>
    <td><picture><img width="90px" alt="&nbsp;Y axis" src="../../_rsc/_img/signs/arrows/orange_down_skew-vert_450px.png"</td><td>
 
 ### With stacking up design decisions (as they come), this pile will begin to fall to pieces at a certain height of abstraction.
-&nbsp; &nbsp; (That is, the chaos, inherent to any programming, will spiral out of control.) 
 
-\___________\
-&nbsp; &nbsp;<sup>🙋</sup> <samp>This said not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or gaming engines) but challenges beyond the ordinary: 
+#### That is, the chaos inherent to any programming will spiral out of control.
+
+___________\
+&nbsp; &nbsp;<sup>🙋</sup> <samp>This said not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or 3D engines) but challenges beyond the ordinary: 
 new LOB foundation, unfamiliar domains (such as CAD or interpreters), or remakes (original graph base, making async from legacy, and dividing modules).</samp>
 
 </td></tr></table>
@@ -72,15 +72,14 @@ Such menaces must encourage us to articulate the metaphysics of software.
 
 <h2 align="center">... opening ...</h3>
 
-<div align="center"><picture><img alt="&nbsp; A&thinsp;R&thinsp;C &nbsp; D&thinsp;E&thinsp;C&thinsp;O" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-45px.jpg" /></picture></div>
-
-(<mark><b>Arc</b></mark>hitecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding). 
+<h3 align="center"><picture><img alt="&nbsp; A&thinsp;R&thinsp;C &nbsp; D&thinsp;E&thinsp;C&thinsp;O" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-45px.jpg" /></picture><br />
+<mark><b>Arc</b></mark>hitecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding</h3>
+ 
 I couldn't find a better tag, but a mocking acronym<sup>🎨</sup> to distinguish the following survey (at least for the file system).
 
 \___________\
 &nbsp; &nbsp;<sup>🎨</sup> <samp>Homonym to __Arc&nbsp;Deco__ - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco)</samp><sup><b>w</b></sup><samp> (`är-dā-ˈkō`) 
-with its comeback, _ca._ a century after its introduction at the _International Exhibition of Modern Decorative and Industrial Arts_ in Paris.</samp>\
-&nbsp; &nbsp;<sup>🧑🏿‍🔬</sup> <samp>Math and logic matter saturate this scheme, but they are not a subject of our survey.</samp>
+with its comeback, _ca._ a century after its introduction at the _International Exhibition of Modern Decorative and Industrial Arts_ in Paris.</samp>
 
 ## What's next?
 
