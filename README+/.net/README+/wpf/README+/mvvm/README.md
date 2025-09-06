@@ -16,7 +16,7 @@ Notably successful and stable Microsoft Visual Studio&nbsp;2010 was written from
 
 &nbsp; &nbsp; * It can also be any other kind of [application view](../../../../../software/design/parts/README+/app-view.md) bound with the ViewModel
 
-## Sample
+## Basic demo<a id="demo"/>
 
 An MVVM application may grow into an enterprise solution, but from the ground up, its sketch claims a mere few minutes<sup>:arrow_down:</sup>
 
