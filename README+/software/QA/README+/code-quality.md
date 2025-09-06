@@ -3,7 +3,7 @@
 ,<b>experts</b> avoid to write code<br/>
 ,<b>gurus</b> only delete code<br />
 ___________<br/>
-(and &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</div>
+(.and &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</div>
 
 # `Code` <nark>Quality</mark>
 
@@ -79,25 +79,25 @@ Even if a team comes close to them, the code won't be a book of design revelatio
 **C)** Coding isn't a self-contained activity but an ingredient of <sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png)](../../../software/ArcDeco/README.md)</sub>&thinsp;, 
 where quality is a motive, derivative, and bonus.
 
-Quality code <ins>introduces</ins> good design rather than prompts deciphering and patching.
+Quality code does the work of <ins>introducing</ins> design rather than prompt deciphering and patching.
 
 ## Moralité
 
 With all that said, **why does flawed code prevail and _clean code_ migrate to buzzwords?**
 
-**1.** Poor-quality code is written much faster, cheaper, and without heated debates.<sup>🥴</sup> And as it does the job, especially on short sprints, counter-arguments fade.
+**1.** Deficient code is written and deployed much faster, cheaper, and without heated debates.<sup>🥴</sup> And as it does the job, especially on short sprints, counter-arguments fade.
 
-**2.** Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup> and exponentially growing issues from bad software parts.\
-The point when controllable chaos goes out of control or a security breach manifests itself may be crucial, but will be found far in the next releases.<sup>:parachute:</sup>
+**2.** Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup>, as exponentially growing issues from bad software parts.\
+The point at which controllable chaos goes out of control or a security breach manifests itself may be crucial, but is often postponed to future releases<sup>:parachute:</sup> or even the next lifecycle (e.g., for business successfull systems as ERP).
 
-**3.** Intention for quality is good, but if efforts aren't complete, deficient code will still come &thinsp;&mdash;&thinsp; now with a massive overhead. 
+**3.** Intention for quality is good, but if efforts aren't complete, the result will be the same deficient code but with a massive overhead. 
 
 Top up with the fact that not every developer self-reflects on "_submit and forget_" practice, and not every project lead/manager will draw a golden section between profanity and academism. 
 
 \___________\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>🥴</sup>&nbsp;<sub>Provided one doesn't bother with [development] principles.</sub>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>:family_man_woman_boy_boy:</sup>&nbsp;<sub>Customers, developers, testers, users, and project organizers.</sub>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>:parachute:</sup>&nbsp;<sub>When its originators may be safely on other projects, leaving time bombs and minefields to others.</sub>
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>👨‍👩‍👦‍👦</sup>&nbsp;<sub>Customers, developers, testers, users, and project organizers.</sub>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🪂</sup>&nbsp;<sub>When its originators may be safely on other projects, leaving time bombs and minefields to others.</sub>
 
 <table><tr></tr><tr valign="top"><td>
 
@@ -106,12 +106,12 @@ Top up with the fact that not every developer self-reflects on "_submit and forg
 Apart from environments where seeds of good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup>, 
 **Motivated smart teams may not reach high quality in very good conditions with enough resources and freedoms.**
 
-Besides _classical_ over-creativity and procrastination, the trivial reasons could be:
+Besides "classical" over-creativity and procrastination, the trivial reasons could be:
 
-+ gross of formal processes at the expense of design and communication,
-+ "egocentrism": low feedback (code review, pair programming, coaching) and reluctance to learn (especially from critique),
-+ canceled/postponed iterations/refactoring/cleaning,
-+ hesitation in using and contributing to shared code (from team/enterprise foundations up to open source)
+- gross of formal processes at the expense of design and communication,
+- "egocentrism": low feedback (code review, pair programming, coaching) and reluctance to learn (especially from critique),
+- canceled or postponed iterations/refactoring/cleaning,
+- hesitation in using and contributing to shared code (from team/enterprise foundations up to open source)
 
 Also, prominent individuals may develop great parts/apps alone and are so keen at keeping all details and the whole picture in mind that they don't need to and like to lose time with code organization. 
 
