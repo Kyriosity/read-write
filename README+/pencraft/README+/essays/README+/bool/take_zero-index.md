@@ -1,9 +1,8 @@
-# Zero index as a bad choice &thinsp;&mdash;&thinsp; a&nbsp;Take
+# Bad zero index &nbsp;&mdash;&nbsp; a Take
 
-<div align="right"><b>Puzzle:</b> What's common for <i>Paris</i>, <i>Australia</i>, <code>C++</code>, and Java❓</div>
-<div align="right"><b>Hint:</b> differs from 🇨🇱 (Chile), FOTRAN, Basic, and Common Era</div>
+<div align="right"><b>Puzzle:</b> What's common for <i>Paris</i>, <i>Australia</i>, Mayan calendar <code>C++</code>, and Java❓</div>
+<div align="right"><b>Hint:</b> differs from Chioe 🇨🇱, FORTRAN, Basic, and Common Era</div>
 <div align="right"><b>Answer:</b> base number of floors, arrays, and years.</div>
-
 
 REAL BUG when cross-referencing language modules (e.g., C# to Basic).
 
