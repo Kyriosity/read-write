@@ -11,23 +11,23 @@
 
 <div align="center"><b>O&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</b></div>
 
-#### one wading through the thorns of pathetic names, code labyrinthine (or plains), and abatis of docu will curse application complexity, learning curve, techno-stack, and fate, but at least the naming.
+#### one wading through the thorns of pathetic names, code labyrinthine (or flats), and abatis of documents will curse complexity, learning curve, technologies, and fate, but at last the naming.
 </td></tr></table>
 
 ## Categorization
 
-_Categorization_ (aka _classification_) is more profound than breaking collocations and sentences and building the folder hierarchy &thinsp;&mdash;&thinsp; **it&nbsp;frames abstractions.**
+### _Categorization_ (aka _classification_) is more profound than breaking collocations with sentences, and building the folder hierarchy &thinsp;&mdash;&thinsp; **it&nbsp;frames abstractions.**
 
 If enthusiasts could categorize myriads of wretched boulders in space and paltry insects, it must be no meltdown for unique by-nature software entities.
 
-The challenge is to lay out accurately. Our imagination tries to correctly align doubtful and even bizarre names to the right meanings and aliases, but takes on trust their categories.
+The challenge is to lay out accurately. Our imagination tries to mnemonically align doubtful and even bizarre names to the right meanings and aliases, but takes on trust their structure.
 
 \___________\
 As a negative experience, GitHub is full of shallow folders and huge lists, even for corporate projects. Namespaces of frameworks and languages may look like a verbal dump.
 
 ### Tags
 
-The only limitation of categorization is the strict tree hierarchy. Tags may rationally dissolve it, though frameworks and IDEs provide limited support for them.
+The only limitation of categorization is the strict tree graph. Tags may rationally dissolve it, though frameworks and IDEs provide limited support for them.
 
 ## How to name...
 
