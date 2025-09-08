@@ -88,16 +88,16 @@ With all that said, **why does flawed code prevail and _clean code_ migrate to b
 **1.** Deficient code is written and deployed much faster, cheaper, and without heated debates.<sup>🥴</sup> And as it does the job, especially on short sprints, counter-arguments fade.
 
 **2.** Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup>, as exponentially growing issues from bad software parts.\
-The point at which controllable chaos goes out of control or a security breach manifests itself may be crucial, but is often postponed to future releases<sup>:parachute:</sup> or even the next lifecycle (e.g., for business successfull systems as ERP).
+The point at which controllable chaos goes out of control or a security breach manifests itself may be crucial, but is often postponed to future releases<sup>:parachute:</sup>.
 
-**3.** Intention for quality is good, but if efforts aren't complete, the result will be the same deficient code but with a massive overhead. 
+**3.** Intention for quality is good, but if efforts aren't complete, the result will be the same deficient code, but with a massive overhead. 
 
 Top up with the fact that not every developer self-reflects on "_submit and forget_" practice, and not every project lead/manager will draw a golden section between profanity and academism. 
 
 \___________\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🥴</sup>&nbsp;<sub>Provided one doesn't bother with [development] principles.</sub>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>👨‍👩‍👦‍👦</sup>&nbsp;<sub>Customers, developers, testers, users, and project organizers.</sub>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🪂</sup>&nbsp;<sub>When its originators may be safely on other projects, leaving time bombs and minefields to others.</sub>
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🥴</sup>&nbsp;<samp>Provided one doesn't bother with [development] principles.</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>👨‍👩‍👦‍👦</samp>&nbsp;<sub>Customers, developers, testers, users, and project organizers. Or even the next lifecycle (e.g., for business successful systems as ERP)</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🪂</samp>&nbsp;<sub>When its originators may be safely on other projects, leaving time bombs and minefields to others.</samp>
 
 <table><tr></tr><tr valign="top"><td>
 
