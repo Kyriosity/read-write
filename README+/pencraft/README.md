@@ -24,7 +24,9 @@ When it's often a reader's headache to find and study the right <mark>documentat
 
 Sticking to the narrowed vocabulary, repetitions, and cliches are benefactors in <mark>documentation</mark> **but** <mark>authoring</mark> sins.
 
-Regardless of the mission, significant writing is an **expensive** and **exhausting** exercise. If not a hobby or bondage, it must:
+---
+
+Regardless of the mission, significant writing and good illustration are **expensive** and **exhausting** exercises. If not a hobby or bondage, they must:
 
 + [x] have a live, eager auditorium,
 + [x] exceed other ways of teaching,\
