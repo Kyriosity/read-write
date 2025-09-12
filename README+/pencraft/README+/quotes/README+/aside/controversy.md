@@ -1,4 +1,4 @@
-# Quotes &nbsp;&mdash;&nbsp; Backshelve &nbsp;&mdash;&nbsp; Controversy
+# Quotes &nbsp;&mdash;&nbsp; Backshelve &nbsp;&mdash;&nbsp; C<samp>ONTROVERSY</samp>
 
 > **Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.**\
 [Linus Torvalds](../contributors/README.md#Linus-Torvalds)
@@ -14,7 +14,7 @@ It suited a private aviation engineering talk, but [Fred Brooks](../contributors
 
 > The bearing of a child takes nine months, no matter how many women are assigned.
 
-Derogatory and illogical. Finding expert developers who can save a failing project ASAP is a question of payment. (Finding nine women in a city who will deliver even **ten** babies in less than a month is a fast linear search.) 
+Derogatory and illogical. Finding expert developers who can save a failing project ASAP is a question of payment. (Finding nine women in a city who will deliver even **ten** babies in less than a month is a fast radial search.) 
 
 [Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra) conveyed the idea much more plausibly (albeit about programming languages, 1975):
 
@@ -27,12 +27,12 @@ Derogatory and illogical. Finding expert developers who can save a failing proje
 > **Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.** Code for readability.\
 _John F. Woods_, /comp.lang.c++/, 1991
 
-This accidental quote in a newsgroup became one of the most cited in IT (often for fun). Unrealistic "always" demotivates aspiration to [quality code](../../../../../software/QA/README+/code-quality.md) (harmful and wrong).
+This accidental quote in a newsgroup became one of the most cited in IT (often for fun). Unrealistic "always" (harmful and wrong) demotivates aspiration to [quality code](../../../../../software/QA/README+/code-quality.md).
 
 > **Software is Art.**\
 (Eavesdropped from a Product Owner)
 
-It is pleasing but barely real - there are no galleries of Old Masters with Algol listings.
+It is pleasing but barely real &thinsp;&mdash;&thinsp; there are no galleries of Old Masters with Algol listings.
 
 ## Techniques
 
@@ -89,7 +89,7 @@ Sure, an environment may force bad practices, but they don't make developers. Vi
 
 </details>
 
-Enough to say that OOP/OOD prevailed in software then and remains there.
+It is sufficient to say that OOP/OOD prevailed in software development then and remains prevalent today.
 
 ## Bad advice
 
@@ -100,7 +100,13 @@ _Stephen Edwin King_
 
 Whether one has read books by Mr. King or not, likes them or not, the indisputable fact is that he remains an incredibly prolific author of bestselling stuff for decades (and a worthy person).
 
-Following this and his other conclusions for authoring is like teaching a kid to ride a city bike from downhill champions. 
+Following this and his other conclusions for authoring is like teaching a kid to ride a city bike from downhill champions.\
+\___________
+
+> **The only bad/stupid question is the one that wasn’t asked.**\
+(_attributed to many, but must be the patriarch of DDoS_)
+>
+> but silence is golden
 
 ___________\
 🔚 ...but to be continued...
